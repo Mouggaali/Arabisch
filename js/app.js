@@ -135,9 +135,11 @@ function registerServiceWorker() {
       });
     });
   }).catch((err) => console.warn('Service worker niet geregistreerd:', err));
+  // Alleen herladen bij een update (er was al een service worker), niet bij het allereerste bezoek.
+  const hadController = !!navigator.serviceWorker.controller;
   let reloading = false;
   navigator.serviceWorker.addEventListener('controllerchange', () => {
-    if (!reloading && !local) { reloading = true; location.reload(); }
+    if (hadController && !reloading && !local) { reloading = true; location.reload(); }
   });
 }
 
