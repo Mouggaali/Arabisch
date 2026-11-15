@@ -12,7 +12,9 @@ const CONTENT_CACHE = 'darb-content';
 const FONT_CACHE = 'darb-fonts';
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(SHELL_CACHE).then((c) => c.addAll(SHELL)));
+  // cache: 'reload' slaat de HTTP-cache over (GitHub Pages cachet 10 minuten), anders kan een
+  // nieuwe versie deels oude bestanden bevatten.
+  e.waitUntil(caches.open(SHELL_CACHE).then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: 'reload' })))));
   if (VERSION === 'dev') self.skipWaiting();
 });
 
