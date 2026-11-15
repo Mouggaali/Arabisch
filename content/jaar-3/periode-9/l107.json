@@ -1,0 +1,601 @@
+{
+  "id": "j3-p9-l107",
+  "code": "L107",
+  "type": "les",
+  "titel": "Lezen: fabel of kort verhaal",
+  "thema": "De leeuw en de muis; lezen zonder harakat",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een fabel lezen die (deels) zonder harakat is geschreven.",
+    "wortel, patroon en context gebruiken om onbekende woorden te lezen.",
+    "de moraal van een verhaal benoemen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l107-w01",
+      "ar": "فَأْرٌ",
+      "tr": "faʾr",
+      "nl": [
+        "muis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w03",
+      "ar": "أَرْجوكَ",
+      "tr": "arjūk",
+      "nl": [
+        "alsjeblieft (smekend)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l107-w04",
+      "ar": "اُتْرُكْني",
+      "tr": "utruknī",
+      "nl": [
+        "laat me gaan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l107-w06",
+      "ar": "يَوْمًا ما",
+      "tr": "yawman mā",
+      "nl": [
+        "ooit, op een dag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l107-w08",
+      "ar": "أَسْنانٌ",
+      "tr": "asnān",
+      "nl": [
+        "tanden"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p9-l107-w09",
+      "ar": "أَنْقَذَ",
+      "tr": "anqaḏa",
+      "nl": [
+        "redden"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p9-l107-w10",
+      "ar": "وَهٰكَذا",
+      "tr": "wa-hākaḏā",
+      "nl": [
+        "en zo"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l107-w11",
+      "ar": "عِبْرَةٌ",
+      "tr": "ʿibra",
+      "nl": [
+        "les, moraal"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w12",
+      "ar": "خُرافَةٌ",
+      "tr": "ḫurāfa",
+      "nl": [
+        "fabel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w13",
+      "ar": "صَوْتٌ",
+      "tr": "ṣawt",
+      "nl": [
+        "stem, geluid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w14",
+      "ar": "أَسَدٌ",
+      "tr": "asad",
+      "nl": [
+        "leeuw"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أُسودٌ}."
+    },
+    {
+      "id": "j3-p9-l107-w15",
+      "ar": "مَغْرورٌ",
+      "tr": "maġrūr",
+      "nl": [
+        "hoogmoedig, arrogant"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w18",
+      "ar": "رَدَّ الجَميلَ",
+      "tr": "radda l-jamīl",
+      "nl": [
+        "een gunst terugdoen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l107-w19",
+      "ar": "نَمْلَةٌ",
+      "tr": "namla",
+      "nl": [
+        "mier"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w20",
+      "ar": "ماكِرٌ",
+      "tr": "mākir",
+      "nl": [
+        "sluw, listig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l107-w21",
+      "ar": "تَواضُعٌ",
+      "tr": "tawāḍuʿ",
+      "nl": [
+        "bescheidenheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Lezen zonder harakat",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Echte Arabische teksten staan meestal **zonder harakat**. Je leest ze door wat je weet van wortels, patronen en grammatica. Deze fabel staat er eerst zonder harakat; probeer haar te lezen voordat je de gevocaliseerde zinnen hieronder bekijkt."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Strategie",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "zoek de wortel",
+              "استيقظ → ي-ق-ظ (vorm X): wakker worden"
+            ],
+            [
+              "herken het patroon",
+              "صياد → فَعّال: beroep (visser/jager)"
+            ],
+            [
+              "gebruik de context",
+              "سآكلك → سَـ + آكُلُ + ـكَ: ik zal je opeten"
+            ],
+            [
+              "let op ال en ة",
+              "الغابة = الغابَةُ; يوما ما = يَوْمًا ما"
+            ]
+          ],
+          "arKolommen": []
+        },
+        {
+          "type": "waarom",
+          "md": "Lezen zonder harakat is geen gokken: je combineert **wortel**, **patroon** en **zinsbouw**. Hoe meer grammatica je kent, hoe minder je de klinkers nodig hebt. Dit is de stap van A2 naar B1."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كانَ أَسَدٌ قَوِيٌّ يَعيشُ في الغابَةِ.",
+              "tr": "kāna asadun qawiyyun yaʿīšu fi l-ġāba.",
+              "nl": "Er leefde eens een sterke leeuw in het bos."
+            },
+            {
+              "ar": "وَفي يَوْمٍ مِنَ الأَيّامِ نامَ تَحْتَ شَجَرَةٍ، فَجاءَ فَأْرٌ صَغيرٌ وَبَدَأَ يَلْعَبُ عَلى ظَهْرِهِ.",
+              "tr": "wa-fī yawmin mina l-ayyāmi nāma taḥta šajaratin, fa-jāʾa faʾrun ṣaġīrun wa-badaʾa yalʿabu ʿalā ẓahrih.",
+              "nl": "Op een dag sliep hij onder een boom, en er kwam een klein muisje dat op zijn rug begon te spelen."
+            },
+            {
+              "ar": "اِسْتَيْقَظَ الأَسَدُ غاضِبًا وَأَمْسَكَ بِالفَأْرِ وَقالَ: سَآكُلُكَ!",
+              "tr": "istayqaẓa l-asadu ġāḍiban wa-amsaka bi-l-faʾri wa-qāl: sa-ākuluk!",
+              "nl": "De leeuw werd boos wakker, greep de muis en zei: 'Ik eet je op!'"
+            },
+            {
+              "ar": "فَقالَ الفَأْرُ: أَرْجوكَ، اُتْرُكْني، وَرُبَّما أُساعِدُكَ يَوْمًا ما.",
+              "tr": "fa-qāla l-faʾr: arjūka, utruknī, wa-rubbamā usāʿiduka yawman mā.",
+              "nl": "De muis zei: 'Alsjeblieft, laat me gaan; misschien help ik jou ooit.'"
+            },
+            {
+              "ar": "وَبَعْدَ أَيّامٍ وَقَعَ الأَسَدُ في شَبَكَةِ صَيّادٍ، فَجاءَ الفَأْرُ مُسْرِعًا وَقَطَعَ الشَّبَكَةَ بِأَسْنانِهِ.",
+              "tr": "wa-baʿda ayyāmin waqaʿa l-asadu fī šabakati ṣayyādin, fa-jāʾa l-faʾru musriʿan wa-qaṭaʿa š-šabakata bi-asnānih.",
+              "nl": "Een paar dagen later raakte de leeuw verstrikt in het net van een jager; de muis kwam snel en beet het net door met zijn tanden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "فَأْرٌ",
+              "nl": "muis",
+              "woord": "j3-p9-l107-w01"
+            },
+            {
+              "ar": "رُبَّما",
+              "nl": "misschien"
+            },
+            {
+              "ar": "شَبَكَةٌ",
+              "nl": "net"
+            },
+            {
+              "ar": "أَنْقَذَ",
+              "nl": "redden",
+              "woord": "j3-p9-l107-w09"
+            },
+            {
+              "ar": "عِبْرَةٌ",
+              "nl": "moraal",
+              "woord": "j3-p9-l107-w11"
+            },
+            {
+              "ar": "أَسْنانٌ",
+              "nl": "tanden",
+              "woord": "j3-p9-l107-w08"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Lees de fabel (zonder harakat). Waar sliep de leeuw?",
+          "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+          "opties": [
+            "onder een boom",
+            "in een grot",
+            "bij de rivier"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نام تحت شجرة}"
+        }
+      ]
+    },
+    {
+      "titel": "Begrijpen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde fabel. Waarom werd de leeuw boos?",
+          "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+          "opties": [
+            "De muis speelde op zijn rug.",
+            "De muis at zijn eten op.",
+            "De jager maakte hem wakker."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بدأ يلعب على ظهره}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde fabel. Wat beloofde de muis?",
+          "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+          "opties": [
+            "Dat hij de leeuw misschien ooit zou helpen.",
+            "Dat hij nooit meer zou komen.",
+            "Dat hij eten zou brengen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ربما أساعدك يوما ما}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde fabel. Hoe redde de muis de leeuw?",
+          "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+          "opties": [
+            "Hij beet het net door.",
+            "Hij riep de jager.",
+            "Hij haalde andere dieren."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قطع الشبكة بأسنانه}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Wat is de moraal ({ar|العِبْرَةُ}) van de fabel?",
+          "opties": [
+            "Ook een kleine kan een grote helpen.",
+            "Sterk zijn is het belangrijkst.",
+            "Vertrouw nooit een muis."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|العِبْرَةُ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hoe lees je {ar|سآكلك}?",
+          "opties": [
+            "sa-ākuluka: ik zal je opeten",
+            "saʾala-ka: hij vroeg je",
+            "sākin-ka: je bewoner"
+          ],
+          "juist": 0,
+          "uitleg": "سَـ + آكُلُ + ـكَ."
+        }
+      ]
+    },
+    {
+      "titel": "Vocaliseren",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "leesvaardigheid",
+          "zin": "استيقظ الأسد ___ (غاضبا)",
+          "nl": "De leeuw werd boos wakker.",
+          "antwoord": [
+            "غاضِبًا"
+          ],
+          "uitleg": "ḥāl → accusatief -an.",
+          "woordbank": [
+            "غاضِبًا",
+            "غاضِبٌ",
+            "غاضِبٍ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "leesvaardigheid",
+          "nl": "De muis kwam snel en beet het net door.",
+          "woorden": [
+            "جاءَ",
+            "الفَأْرُ",
+            "مُسْرِعًا",
+            "وَقَطَعَ",
+            "الشَّبَكَةَ."
+          ],
+          "uitleg": "ḥāl + tweede werkwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "leesvaardigheid",
+          "bron": "وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+          "antwoorden": [
+            "en zo redde de kleine muis de grote leeuw",
+            "zo redde het muisje de grote leeuw"
+          ],
+          "uitleg": "Zonder harakat."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ظَهْرٌ",
+            "nl": "rug"
+          },
+          {
+            "ar": "أَرْجوكَ",
+            "nl": "alsjeblieft"
+          },
+          {
+            "ar": "يَوْمًا ما",
+            "nl": "ooit"
+          },
+          {
+            "ar": "خُرافَةٌ",
+            "nl": "fabel"
+          },
+          {
+            "ar": "صَوْتٌ",
+            "nl": "geluid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Lees de fabel. Wie viel in het net?",
+        "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+        "opties": [
+          "de leeuw",
+          "de muis",
+          "de jager"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وقع الأسد في شبكة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Dezelfde fabel. Hoe hoorde de muis dat de leeuw in nood was?",
+        "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+        "opties": [
+          "Hij hoorde zijn stem.",
+          "Een vogel vertelde het.",
+          "Hij zag het net."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فسمع الفأر صوته}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Dezelfde fabel. Wat deed de leeuw toen de muis smeekte?",
+        "ar": "كان أسد قوي يعيش في الغابة. وفي يوم من الأيام نام تحت شجرة، فجاء فأر صغير وبدأ يلعب على ظهره. استيقظ الأسد غاضبا وأمسك بالفأر وقال: سآكلك! فقال الفأر: أرجوك، اتركني، وربما أساعدك يوما ما. ضحك الأسد وتركه. وبعد أيام وقع الأسد في شبكة صياد، فسمع الفأر صوته، وجاء مسرعا وقطع الشبكة بأسنانه. وهكذا أنقذ الفأر الصغير الأسد الكبير.",
+        "opties": [
+          "Hij lachte en liet hem gaan.",
+          "Hij at hem op.",
+          "Hij werd nog bozer."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضحك الأسد وتركه}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Welk patroon heeft {ar|صياد}?",
+        "opties": [
+          "فَعّال (beroep)",
+          "مَفْعول (passief)",
+          "فاعِل (deelwoord)"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صَيّادٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Wat is de wortel van {ar|استيقظ}?",
+        "opties": [
+          "ي ق ظ",
+          "س ت ق",
+          "ق ظ ت"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "luisteren",
+        "tag": "leesvaardigheid",
+        "tekst": "رُبَّما أُساعِدُكَ يَوْمًا ما",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Misschien help ik je ooit.",
+          "Ik help je nooit.",
+          "Help me vandaag."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رُبَّما}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أَنْقَذَ الفَأْرُ الأَسَدَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De muis redde de leeuw.",
+          "De leeuw redde de muis.",
+          "De muis at de leeuw."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْقَذَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "leesvaardigheid",
+        "zin": "جاء الفأر ___ (مسرعا).",
+        "nl": "De muis kwam snel.",
+        "antwoord": [
+          "مُسْرِعًا"
+        ],
+        "uitleg": "ḥāl.",
+        "woordbank": [
+          "مُسْرِعًا",
+          "مُسْرِعٌ",
+          "مُسْرِعٍ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "ما ___ هٰذِهِ الخُرافَةِ؟",
+        "nl": "Wat is de moraal van deze fabel?",
+        "antwoord": [
+          "عِبْرَةُ"
+        ],
+        "uitleg": "{ar|عِبْرَةٌ}",
+        "woordbank": [
+          "عِبْرَةُ",
+          "شَبَكَةُ",
+          "صَوْتُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "___، اُتْرُكْني!",
+        "nl": "Alsjeblieft, laat me gaan!",
+        "antwoord": [
+          "أَرْجوكَ"
+        ],
+        "uitleg": "{ar|أَرْجوكَ}",
+        "woordbank": [
+          "أَرْجوكَ",
+          "رُبَّما",
+          "وَهٰكَذا"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "leesvaardigheid",
+        "nl": "Er leefde eens een sterke leeuw in het bos.",
+        "woorden": [
+          "كانَ",
+          "أَسَدٌ",
+          "قَوِيٌّ",
+          "يَعيشُ",
+          "في",
+          "الغابَةِ."
+        ],
+        "uitleg": "Begin van de fabel."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de muis",
+        "antwoorden": [
+          "الفَأْرُ"
+        ],
+        "uitleg": "{ar|الفَأْرُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "ضحك الأسد وتركه.",
+        "antwoorden": [
+          "de leeuw lachte en liet hem gaan",
+          "de leeuw lachte en liet hem los"
+        ],
+        "uitleg": "Zonder harakat."
+      }
+    ]
+  }
+}

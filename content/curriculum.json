@@ -1,0 +1,2239 @@
+{
+  "titel": "Darb · Arabisch",
+  "beschrijving": "Fusha als hoofdspoor, met vanaf jaar 1 periode 3 een Marokkaans Darija-spoor. Alleen uitgewerkte lessen zijn te openen; de rest volgt in fase 4.",
+  "gegenereerd": "Niet met de hand bewerken: gegenereerd door tools/build-curriculum.mjs uit leerplan.md.",
+  "tags": {
+    "begroeting": "Begroeten",
+    "antwoord-begroeting": "Antwoorden op een begroeting",
+    "afscheid": "Afscheid nemen",
+    "beleefdheid": "Beleefdheid (dank je, graag gedaan)",
+    "aanspreekvorm": "Aanspreekvorm man / vrouw / groep",
+    "woordenschat": "Woordenschat",
+    "uitspraak": "Uitspraak en luisteren",
+    "vervoeging-madi": "Vervoeging māḍī",
+    "vervoeging-mudari": "Vervoeging muḍāriʿ",
+    "voornaamwoorden": "Persoonlijke voornaamwoorden",
+    "voorstellen": "Jezelf voorstellen",
+    "vraagwoord-man": "Vraagwoord man (wie)",
+    "afkomst": "Afkomst: min / mina",
+    "nisba": "Nisba (nationaliteit)",
+    "nominale-zin": "Nominale zin (geen \"zijn\")",
+    "congruentie": "Congruentie (mensen / dingen)",
+    "bepaaldheid": "Bepaald / onbepaald",
+    "voornaamwoorden-mv": "Voornaamwoorden meervoud",
+    "dualis-herkennen": "Dualis herkennen",
+    "meervoud-paar": "Meervouden (als paar geleerd)",
+    "lidwoord": "Lidwoord al- en tanwin",
+    "zonneletters": "Zonne- en maanletters",
+    "aanwijzend": "Aanwijzende voornaamwoorden",
+    "vragen": "Vragen: wat, wie, ja/nee",
+    "getallen": "Getallen 0–10",
+    "cijfers": "Arabisch-Indische cijfers",
+    "leeftijd": "Leeftijd vragen en noemen",
+    "hebben-inda": "Hebben met inda",
+    "hebben-keuze": "inda, li- of maa kiezen",
+    "bezit-suffix": "Bezittelijke achtervoegsels",
+    "ta-marbuta": "Ta marbuta wordt t",
+    "laysa": "Ontkenning met laysa",
+    "laysa-accusatief": "Accusatief na laysa",
+    "laysa-hebben": "Niet hebben: laysa inda",
+    "getallen-11-20": "Getallen 11–20",
+    "kam-tamyiz": "kam + enkelvoud (tamyiz)",
+    "idafa": "Idafa (genitiefconstructie)",
+    "voorzetsels": "Voorzetsels van plaats",
+    "voorzetsel-genitief": "Genitief na een voorzetsel",
+    "er-is": "Er is / er zijn",
+    "kleuren": "Kleuren",
+    "getallen-tot-100": "Getallen tot 100",
+    "prijzen": "Prijzen",
+    "dagen": "Dagen van de week",
+    "tijdsbepaling": "Tijdsbepalingen (accusatief)",
+    "mudari-enkelvoud": "Mudari enkelvoud",
+    "mudari-meervoud": "Mudari meervoud",
+    "ontkenning-la": "Ontkenning met la",
+    "accusatief-object": "Lijdend voorwerp (accusatief)",
+    "akala-ahabba": "Eten en houden van (akala, ahabba)",
+    "bestellen": "Bestellen met urid",
+    "an-mudari": "أَنْ + muḍāriʿ (eindigt op -a)",
+    "klok": "Klokkijken",
+    "vraagwoorden": "Vraagwoorden",
+    "ma-mada": "ma of mada",
+    "lianna": "Omdat: li-anna",
+    "ne-lezen": "Evaluatie: lezen",
+    "ne-luisteren": "Evaluatie: luisteren",
+    "ne-grammatica": "Evaluatie: grammatica",
+    "ne-woordenschat": "Evaluatie: woordenschat",
+    "madi-enkelvoud": "Madi enkelvoud",
+    "madi-meervoud": "Madi meervoud",
+    "madi-ontkenning": "Ontkenning verleden tijd (ma)",
+    "verbale-zin": "Verbale zin",
+    "kana": "Kana vervoegen",
+    "kana-accusatief": "Accusatief na kana",
+    "kana-hebben": "Hebben in het verleden (kana inda)",
+    "darija-begroeten": "Darija: begroeten",
+    "darija-fusha": "Darija en Fusha vergelijken",
+    "dualis-naamwoord": "Dualis van naamwoorden",
+    "pijn": "Pijn en klachten",
+    "winkelen": "Winkelen",
+    "meervoud-dingen": "Meervoud van dingen (v ev)",
+    "klankmeervoud": "Klankmeervoud",
+    "darija-voornaamwoorden": "Darija: voornaamwoorden",
+    "darija-hebben": "Darija: hebben",
+    "maanden": "Maanden",
+    "seizoenen": "Seizoenen",
+    "tijd-voorzetsels": "Tijdsvoorzetsels (qabla, bada, mundhu)",
+    "weer": "Het weer",
+    "toekomst": "Toekomende tijd (sa-, sawfa)",
+    "rangtelwoorden": "Rangtelwoorden",
+    "datum": "Data en verjaardagen",
+    "masdar": "Masdar (verbaal naamwoord)",
+    "darija-getallen": "Darija: getallen",
+    "darija-prijzen": "Darija: prijzen en afdingen",
+    "object-suffix": "Voornaamwoord als lijdend voorwerp (ـني، ـهُ …)",
+    "reizen": "Reizen en vervoer (بِـ + vervoermiddel)",
+    "vaste-voorzetsels": "Werkwoorden met vast voorzetsel",
+    "de-weg": "De weg vragen en wijzen",
+    "yujad": "Er is: يوجَدُ / توجَدُ",
+    "dualis-werkwoord": "Dualis bij werkwoorden",
+    "darija-presens": "Darija: tegenwoordige tijd met كا-",
+    "grote-getallen": "Grote getallen (100, 1000, miljoen)",
+    "jaartallen": "Jaartallen en samengestelde getallen",
+    "telwoordregels": "Telwoordregels (1–2, 3–10, 11–99, 100+)",
+    "hotel": "Hotel en reserveren",
+    "vervoeging-overzicht": "Vervoeging: alle 13 personen",
+    "ontkenning-overzicht": "Ontkenning: لَيْسَ / لا / ما",
+    "darija-verleden": "Darija: verleden tijd",
+    "vergrotende-trap": "Vergrotende trap (أَفْعَلُ مِنْ)",
+    "feestwensen": "Feestwensen en hun antwoorden",
+    "kull-bad": "كُلّ en بَعْض",
+    "voegwoorden": "Voegwoorden (ثُمَّ، فَـ، لٰكِنَّ، لِأَنَّ)",
+    "leesvaardigheid": "Leesvaardigheid",
+    "bericht-schrijven": "Een bericht schrijven",
+    "darija-ontkenning": "Darija: ontkenning (ما … ش، ماشي)",
+    "darija-toekomst": "Darija: toekomst met غادي",
+    "wortel-patroon": "Wortel en patroon",
+    "mansub": "Aanvoegende wijs (manṣūb)",
+    "lan": "Toekomst ontkennen met لَنْ",
+    "majzum-lam": "Verkorte wijs na لَمْ",
+    "verbod": "Verbod: لا + majzūm",
+    "gebiedende-wijs": "Gebiedende wijs",
+    "darija-bezit": "Darija: bezit met ديال",
+    "vorm-2": "Vorm II (فَعَّلَ)",
+    "vorm-3": "Vorm III (فاعَلَ)",
+    "vorm-4": "Vorm IV (أَفْعَلَ)",
+    "vorm-5": "Vorm V (تَفَعَّلَ)",
+    "masdar-afgeleid": "Maṣdar van afgeleide vormen",
+    "afgeleide-vormen": "Afgeleide vormen herkennen",
+    "darija-eten": "Darija: aan tafel",
+    "vorm-6": "Vorm VI (تَفاعَلَ)",
+    "vorm-7-8": "Vorm VII, VIII en IX",
+    "vorm-10": "Vorm X (اِسْتَفْعَلَ)",
+    "elkaar": "Elkaar: بَعْضُهُمْ بَعْضًا",
+    "darija-markt": "Darija: op de markt",
+    "irab": "Naamvallen (iʿrāb)",
+    "diptoten": "Diptoten (mamnūʿ min aṣ-ṣarf)",
+    "vijf-namen": "De vijf zelfstandige naamwoorden",
+    "kana-zusters": "Kāna en zusters",
+    "darija-weg": "Darija: de weg en de taxi",
+    "inna-zusters": "Inna en zusters",
+    "gebroken-mv": "Gebroken meervouden",
+    "darija-huis": "Darija: het huis en het dagelijks leven",
+    "holle-ww": "Holle werkwoorden",
+    "defectieve-ww": "Defectieve werkwoorden",
+    "assimilerend-verdubbeld": "Assimilerende en verdubbelde werkwoorden",
+    "hamza-ww": "Hamza-werkwoorden",
+    "hamza-spelling": "Spelling van de hamza",
+    "zwakke-ww": "Zwakke werkwoorden (overzicht)",
+    "darija-vragen": "Darija: vraagwoorden",
+    "overtreffende-trap": "Overtreffende trap",
+    "actief-deelwoord": "Actief deelwoord",
+    "passief-deelwoord": "Passief deelwoord",
+    "betrekkelijke-bijzin": "Betrekkelijke bijzin (الَّذي …)",
+    "darija-gevoel-weer": "Darija: gevoelens en weer",
+    "bijzin-onbepaald": "Bijzin zonder الَّذي; ما en مَنْ",
+    "kana-mudari": "كانَ + muḍāriʿ en قَدْ",
+    "hal": "De ḥāl (toestandsbepaling)",
+    "an-anna": "أَنْ of أَنَّ",
+    "darija-telefoon": "Darija: telefoneren en afspreken",
+    "tamyiz": "Tamyīz (specificatie)",
+    "modaliteit": "Moeten, kunnen, zouden moeten",
+    "telwoorden-volledig": "Telwoorden volledig (11–19, rangtelwoorden)",
+    "tijdsvoegwoorden": "Verbindingswoorden van tijd",
+    "darija-gebod": "Darija: gebiedende wijs en verbod",
+    "idafa-keten": "Iḍāfa-ketens",
+    "ontkenning-totaal": "Ontkenning: totaaloverzicht",
+    "uitzondering": "Uitzondering (إِلّا، غَيْرُ، سِوى)",
+    "leenwoorden": "Leenwoorden",
+    "darija-leenwoorden": "Darija: Franse en Spaanse leenwoorden",
+    "gebiedende-wijs-2": "Gebiedende wijs van alle vormen",
+    "kwantoren": "Kwantoren (كُلّ، جَميع، مُعْظَم، كِلا)",
+    "idha": "Voorwaarde met إِذا",
+    "uitroep": "Uitroepen en بَلى",
+    "darija-feest": "Darija: feesten en bruiloft",
+    "luistervaardigheid": "Luistervaardigheid",
+    "argumenteren": "Argumenteren en tekstopbouw",
+    "presenteren": "Presenteren",
+    "lijdende-vorm": "Lijdende vorm",
+    "in-majzum": "Voorwaarde met إِنْ + majzūm",
+    "law": "Irreële voorwaarde: لَوْ / لَوْلا",
+    "darija-verhaal": "Darija: verhalen vertellen",
+    "oorzaak-doel": "Oorzaak en doel",
+    "toegeving": "Toegeving en tegenstelling",
+    "indirecte-rede": "Indirecte rede",
+    "darija-dokter": "Darija: dokter en apotheek",
+    "mafool-mutlaq": "Mafʿūl muṭlaq en li-ajlihi",
+    "hal-zin": "Ḥāl als zin",
+    "discussie": "Discussiëren",
+    "darija-werk": "Darija: werk en administratie",
+    "nominalisatie": "Nominale stijl (maṣdar)",
+    "beperking": "Beperking (لا … إلّا، إنّما)",
+    "oorzaak-gevolg": "Oorzaak en gevolg",
+    "intentie": "Intentie en nabije toekomst",
+    "voltooid-verleden": "Voltooid verleden (كان قد)",
+    "abstract-iyya": "Abstracta op ـِيَّة",
+    "deelwoord-afgeleid": "Deelwoorden van vorm II–X",
+    "darija-uitdrukkingen": "Darija: uitdrukkingen en spreekwoorden",
+    "krantenstijl": "Krantenstijl en koppen",
+    "formeel-register": "Formeel register en brieven",
+    "woordvorming": "Woordvorming (plaats, werktuig, verkleinwoord)",
+    "vierletterig": "Vierletterige werkwoorden",
+    "dubbel-zwak": "Dubbel zwakke werkwoorden",
+    "darija-dialoog": "Darija: dialogen verstaan",
+    "nadruk": "Nadruk (لقد، إنّ … لـ، نفس، ذات)",
+    "vocatief": "Vocatief (يا، أيّها)",
+    "klassiek": "Klassieke constructies, spreekwoorden en poëzie",
+    "darija-rollenspel": "Darija: rollenspellen",
+    "tekst-schrijven": "Een tekst schrijven",
+    "interview": "Een interview afnemen",
+    "samenvatten": "Samenvatten",
+    "reisadvies": "Advies geven (يُنصح بـ، لا بدّ من)",
+    "voorwaarde-contract": "Voorwaarden (بشرط أن، ما دام، طالما)",
+    "nuanceren": "Nuanceren (سواء … أم، ليس فقط … بل)",
+    "verteltijden": "Verteltijden en spanning",
+    "darija-vakantie": "Darija: op vakantie",
+    "spreken": "Spreekvaardigheid en gespreksstrategieën",
+    "darija-eindopdracht": "Darija: over jezelf vertellen",
+    "examen": "Examentraining B1",
+    "darija-afsluiting": "Darija: A2-afsluiting"
+  },
+  "jaren": [
+    {
+      "nr": 1,
+      "titel": "Het fundament",
+      "niveau": "Niveau A0 → A1+",
+      "periodes": [
+        {
+          "nr": 1,
+          "titel": "Ik en de ander",
+          "eenheden": [
+            {
+              "id": "j1-p1-l01",
+              "code": "L01",
+              "type": "les",
+              "titel": "Begroeten en afscheid",
+              "leerdoel": "iemand op het juiste moment begroeten, vragen hoe het gaat en afscheid nemen",
+              "grammatica": "Vaste uitdrukkingen en hun vaste antwoorden (السَّلامُ عَلَيْكُمْ → وَعَلَيْكُمُ السَّلامُ). Aanspreken van een man, een vrouw of een groep (كَيْفَ حالُكَ / حالُكِ / حالُكُمْ). Hoe harakat en pausavorm in deze cursus werken.",
+              "woorden": 18,
+              "accent": "VV, ZO, NA",
+              "bestand": "jaar-1/periode-1/l01.json"
+            },
+            {
+              "id": "j1-p1-l02",
+              "code": "L02",
+              "type": "les",
+              "titel": "Kennismaken",
+              "leerdoel": "mijn naam zeggen, naar een naam vragen en reageren",
+              "grammatica": "Persoonlijke voornaamwoorden in het enkelvoud: أَنا، أَنْتَ، أَنْتِ، هُوَ، هِيَ",
+              "woorden": 20,
+              "accent": "IV, NA, AN",
+              "bestand": "jaar-1/periode-1/l02.json"
+            },
+            {
+              "id": "j1-p1-l03",
+              "code": "L03",
+              "type": "les",
+              "titel": "Afkomst en nationaliteit",
+              "leerdoel": "zeggen waar ik vandaan kom en een nationaliteit noemen",
+              "grammatica": "Nisba-uitgang ـِيّ / ـِيَّة (مَغْرِبِيّ / مَغْرِبِيَّة). مِنْ + land",
+              "woorden": 22,
+              "accent": "IV, VV, NA",
+              "bestand": "jaar-1/periode-1/l03.json"
+            },
+            {
+              "id": "j1-p1-l04",
+              "code": "L04",
+              "type": "les",
+              "titel": "Zijn zonder \"zijn\"",
+              "leerdoel": "eenvoudige zinnen maken als \"ik ben student\" of \"zij is lerares\"",
+              "grammatica": "**De nominale zin.** Het Arabisch heeft in de tegenwoordige tijd geen koppelwerkwoord: أَنا طالِبٌ betekent \"ik (ben) student\". Mubtadaʾ (onderwerp, bepaald) + ḫabar (gezegde, onbepaald).",
+              "woorden": 22,
+              "accent": "ZO, NA, IV",
+              "bestand": "jaar-1/periode-1/l04.json"
+            },
+            {
+              "id": "j1-p1-h01",
+              "code": "H01",
+              "type": "herhaling",
+              "titel": "Herhaling blok 1A",
+              "grammatica": "Nominale zin, voornaamwoorden, begroetingen",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-1/h01.json"
+            },
+            {
+              "id": "j1-p1-l05",
+              "code": "L05",
+              "type": "les",
+              "titel": "De groep en de klas",
+              "leerdoel": "over meerdere personen praten",
+              "grammatica": "Voornaamwoorden in het meervoud: نَحْنُ، أَنْتُمْ، أَنْتُنَّ، هُمْ، هُنَّ. De dualis-voornaamwoorden (أَنْتُما، هُما) alleen herkennen.",
+              "woorden": 18,
+              "accent": "VV, IV, ZO",
+              "bestand": "jaar-1/periode-1/l05.json"
+            },
+            {
+              "id": "j1-p1-l06",
+              "code": "L06",
+              "type": "les",
+              "titel": "In de klas",
+              "leerdoel": "voorwerpen benoemen, met en zonder lidwoord",
+              "grammatica": "Het lidwoord ال. Zonne- en maanletters. Tanwīn als kenmerk van onbepaaldheid.",
+              "woorden": 25,
+              "accent": "IV, MK, LU",
+              "bestand": "jaar-1/periode-1/l06.json"
+            },
+            {
+              "id": "j1-p1-l07",
+              "code": "L07",
+              "type": "les",
+              "titel": "Mensen beschrijven",
+              "leerdoel": "iemand met bijvoeglijke naamwoorden beschrijven",
+              "grammatica": "Mannelijk en vrouwelijk (ة). Congruentie. Verschil tussen الطّالِبُ الجَديدُ (\"de nieuwe student\") en الطّالِبُ جَديدٌ (\"de student is nieuw\"). Uitleg waarom bepaaldheid hier het verschil maakt.",
+              "woorden": 24,
+              "accent": "VV, ZO, NA",
+              "bestand": "jaar-1/periode-1/l07.json"
+            },
+            {
+              "id": "j1-p1-l08",
+              "code": "L08",
+              "type": "les",
+              "titel": "Wat is dit?",
+              "leerdoel": "naar dingen vragen en ernaar wijzen",
+              "grammatica": "Aanwijzende voornaamwoorden هٰذا، هٰذِهِ، ذٰلِكَ، تِلْكَ. Vragen met ما، مَنْ، هَلْ en أَ.",
+              "woorden": 20,
+              "accent": "MK, ZO, AN",
+              "bestand": "jaar-1/periode-1/l08.json"
+            },
+            {
+              "id": "j1-p1-h02",
+              "code": "H02",
+              "type": "herhaling",
+              "titel": "Herhaling blok 1B + 1A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-1/h02.json"
+            },
+            {
+              "id": "j1-p1-l09",
+              "code": "L09",
+              "type": "les",
+              "titel": "Getallen 0–10",
+              "leerdoel": "tellen, een telefoonnummer en mijn leeftijd noemen",
+              "grammatica": "Hoofdtelwoorden 0–10 los gebruikt (nog niet met een zelfstandig naamwoord). Arabisch-Indische cijfers ٠–٩.",
+              "woorden": 18,
+              "accent": "LU, KO, IV",
+              "bestand": "jaar-1/periode-1/l09.json"
+            },
+            {
+              "id": "j1-p1-l10",
+              "code": "L10",
+              "type": "les",
+              "titel": "Hebben",
+              "leerdoel": "zeggen wat ik heb en wat iemand anders heeft",
+              "grammatica": "**Arabisch heeft geen werkwoord \"hebben\".** Bezit wordt uitgedrukt met عِنْدَ, لِـ of مَعَ + aangehecht voornaamwoord: عِنْدي، عِنْدَكَ… Uitleg van het verschil tussen de drie vormen.",
+              "woorden": 22,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-1/l10.json"
+            },
+            {
+              "id": "j1-p1-l11",
+              "code": "L11",
+              "type": "les",
+              "titel": "Familie",
+              "leerdoel": "mijn familie voorstellen",
+              "grammatica": "Bezittelijke suffixen op zelfstandige naamwoorden (بَيْتي، بَيْتُكَ…). Ta marbūṭa wordt t: عائِلَتي.",
+              "woorden": 26,
+              "accent": "VV, KO, AN",
+              "bestand": "jaar-1/periode-1/l11.json"
+            },
+            {
+              "id": "j1-p1-l12",
+              "code": "L12",
+              "type": "les",
+              "titel": "Hoe voel ik me?",
+              "leerdoel": "toestanden en gevoelens benoemen en ontkennen",
+              "grammatica": "Ontkenning van de nominale zin met **لَيْسَ** (vervoegd: لَسْتُ، لَسْتَ، لَسْتِ، لَيْسَ، لَيْسَتْ…) + ḫabar in de accusatief",
+              "woorden": 20,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-1/l12.json"
+            },
+            {
+              "id": "j1-p1-h03",
+              "code": "H03",
+              "type": "herhaling",
+              "titel": "Herhaling periode 1",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-1/h03.json"
+            },
+            {
+              "id": "j1-p1-pt1",
+              "code": "PT1",
+              "type": "periodetoets",
+              "titel": "Periodetoets 1",
+              "bestand": "jaar-1/periode-1/pt1.json"
+            }
+          ]
+        },
+        {
+          "nr": 2,
+          "titel": "Mijn wereld",
+          "eenheden": [
+            {
+              "id": "j1-p2-l13",
+              "code": "L13",
+              "type": "les",
+              "titel": "Getallen 11–20",
+              "leerdoel": "aantallen en leeftijden noemen",
+              "grammatica": "11–19 als vaste vormen. كَمْ + enkelvoud in de accusatief (كَمْ طالِبًا؟). Hier eerst als patroon aangeboden, de volledige regels volgen in L42.",
+              "woorden": 18,
+              "accent": "LU, IV, MK",
+              "bestand": "jaar-1/periode-2/l13.json"
+            },
+            {
+              "id": "j1-p2-l14",
+              "code": "L14",
+              "type": "les",
+              "titel": "Het huis",
+              "leerdoel": "kamers benoemen en zeggen van wie iets is",
+              "grammatica": "**Iḍāfa** (genitiefconstructie): بَيْتُ المُعَلِّمِ. Uitleg waarom het eerste lid geen ال krijgt. Kennismaking met de genitief -i.",
+              "woorden": 25,
+              "accent": "IV, ZO, NA",
+              "bestand": "jaar-1/periode-2/l14.json"
+            },
+            {
+              "id": "j1-p2-l15",
+              "code": "L15",
+              "type": "les",
+              "titel": "Meubels en plaats",
+              "leerdoel": "zeggen waar iets staat",
+              "grammatica": "Voorzetsels في، عَلى، تَحْتَ، أَمامَ، خَلْفَ، بِجانِبِ، بَيْنَ + genitief. هُناكَ (\"er is\").",
+              "woorden": 24,
+              "accent": "IV, MK, ZO",
+              "bestand": "jaar-1/periode-2/l15.json"
+            },
+            {
+              "id": "j1-p2-l16",
+              "code": "L16",
+              "type": "les",
+              "titel": "Kleuren",
+              "leerdoel": "dingen naar hun kleur beschrijven",
+              "grammatica": "Kleuradjectieven volgen het patroon أَفْعَلُ / فَعْلاءُ (أَحْمَرُ / حَمْراءُ).",
+              "woorden": 20,
+              "accent": "VV, KO, IV",
+              "bestand": "jaar-1/periode-2/l16.json"
+            },
+            {
+              "id": "j1-p2-h04",
+              "code": "H04",
+              "type": "herhaling",
+              "titel": "Herhaling 2A + periode 1",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-2/h04.json"
+            },
+            {
+              "id": "j1-p2-l17",
+              "code": "L17",
+              "type": "les",
+              "titel": "Getallen 20–100",
+              "leerdoel": "prijzen en leeftijden noemen",
+              "grammatica": "Tientallen en samengestelde getallen (واحِدٌ وَعِشْرونَ: eenheid vóór tiental, net als in het Nederlands)",
+              "woorden": 18,
+              "accent": "LU, IV, NA",
+              "bestand": "jaar-1/periode-2/l17.json"
+            },
+            {
+              "id": "j1-p2-l18",
+              "code": "L18",
+              "type": "les",
+              "titel": "De week",
+              "leerdoel": "mijn weekplanning vertellen",
+              "grammatica": "Dagen en dagdelen. Tijdsbepalingen in de accusatief (صَباحًا، يَوْمَ الجُمُعَةِ). مَتى؟",
+              "woorden": 20,
+              "accent": "IV, ZO, LU",
+              "bestand": "jaar-1/periode-2/l18.json"
+            },
+            {
+              "id": "j1-p2-l19",
+              "code": "L19",
+              "type": "les",
+              "titel": "Muḍāriʿ I: wat ik doe",
+              "leerdoel": "dagelijkse activiteiten in de tegenwoordige tijd vertellen",
+              "grammatica": "De tegenwoordige tijd in het **enkelvoud**: voorvoegsels أَ، تَـ، يَـ + stamklinker (u/a/i, per werkwoord te leren). Werkwoorden: دَرَسَ، كَتَبَ، سَكَنَ، شَرِبَ، عَمِلَ، ذَهَبَ…",
+              "woorden": 22,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-2/l19.json"
+            },
+            {
+              "id": "j1-p2-l20",
+              "code": "L20",
+              "type": "les",
+              "titel": "Muḍāriʿ II: routine",
+              "leerdoel": "over groepen en mijn routine praten, en ontkennen",
+              "grammatica": "Muḍāriʿ in het **meervoud** (نَـ… ـونَ / ـْنَ). Ontkenning met **لا** + muḍāriʿ.",
+              "woorden": 22,
+              "accent": "VV, ZO, NA",
+              "bestand": "jaar-1/periode-2/l20.json"
+            },
+            {
+              "id": "j1-p2-h05",
+              "code": "H05",
+              "type": "herhaling",
+              "titel": "Herhaling 2B + 2A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-2/h05.json"
+            },
+            {
+              "id": "j1-p2-l21",
+              "code": "L21",
+              "type": "les",
+              "titel": "Eten en drinken",
+              "leerdoel": "zeggen wat ik eet en drink, en wat ik lekker vind",
+              "grammatica": "Lijdend voorwerp in de accusatief (أَشْرَبُ الشّايَ). أُحِبُّ + zelfstandig naamwoord.",
+              "woorden": 28,
+              "accent": "IV, NA, KO",
+              "bestand": "jaar-1/periode-2/l21.json"
+            },
+            {
+              "id": "j1-p2-l22",
+              "code": "L22",
+              "type": "les",
+              "titel": "In het café of restaurant",
+              "leerdoel": "iets bestellen en beleefd vragen",
+              "grammatica": "أُريدُ، مِنْ فَضْلِكَ، لَوْ سَمَحْتَ. أُريدُ أَنْ + werkwoord eerst als vaste combinatie, de volledige uitleg volgt in L50.",
+              "woorden": 24,
+              "accent": "ZO, NA, LU",
+              "bestand": "jaar-1/periode-2/l22.json"
+            },
+            {
+              "id": "j1-p2-l23",
+              "code": "L23",
+              "type": "les",
+              "titel": "Hoe laat is het?",
+              "leerdoel": "klokkijken en afspraken maken",
+              "grammatica": "السّاعَةُ + vrouwelijk rangtelwoord (الثّانِيَةُ). وَالنِّصْفُ، وَالرُّبْعُ، إِلّا رُبْعًا. كَمِ السّاعَةُ؟",
+              "woorden": 22,
+              "accent": "LU, IV, MK",
+              "bestand": "jaar-1/periode-2/l23.json"
+            },
+            {
+              "id": "j1-p2-l24",
+              "code": "L24",
+              "type": "les",
+              "titel": "Het interview",
+              "leerdoel": "vragen stellen over alle onderwerpen tot nu toe",
+              "grammatica": "Overzicht van vraagwoorden. Verschil tussen ما (vóór een zelfstandig naamwoord) en ماذا (vóór een werkwoord). Verder مَنْ، أَيْنَ، مَتى، كَيْفَ، كَمْ، لِماذا، أَيّ، هَلْ.",
+              "woorden": 20,
+              "accent": "MK, ZO, NA",
+              "bestand": "jaar-1/periode-2/l24.json"
+            },
+            {
+              "id": "j1-p2-h06",
+              "code": "H06",
+              "type": "herhaling",
+              "titel": "Herhaling periode 2",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-2/h06.json"
+            },
+            {
+              "id": "j1-p2-pt2",
+              "code": "PT2",
+              "type": "periodetoets",
+              "titel": "Periodetoets 2",
+              "bestand": "jaar-1/periode-2/pt2.json"
+            },
+            {
+              "id": "j1-p2-ne1",
+              "code": "NE1",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie",
+              "bestand": "jaar-1/periode-2/ne1.json"
+            }
+          ]
+        },
+        {
+          "nr": 3,
+          "titel": "Wat ik deed",
+          "eenheden": [
+            {
+              "id": "j1-p3-l25",
+              "code": "L25",
+              "type": "les",
+              "titel": "Gisteren",
+              "leerdoel": "vertellen wat ik gisteren deed",
+              "grammatica": "**Māḍī I** in het enkelvoud (كَتَبْتُ، كَتَبْتَ، كَتَبْتِ، كَتَبَ، كَتَبَتْ). Ontkenning met ما + māḍī.",
+              "woorden": 22,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-3/l25.json"
+            },
+            {
+              "id": "j1-p3-l26",
+              "code": "L26",
+              "type": "les",
+              "titel": "Het weekend",
+              "leerdoel": "vertellen wat wij en zij deden",
+              "grammatica": "**Māḍī II** in het meervoud (كَتَبْنا، كَتَبْتُمْ، كَتَبْتُنَّ، كَتَبُوا، كَتَبْنَ). Uitleg van de \"stille alif\" in كَتَبُوا.",
+              "woorden": 20,
+              "accent": "VV, ZO, AN",
+              "bestand": "jaar-1/periode-3/l26.json"
+            },
+            {
+              "id": "j1-p3-l27",
+              "code": "L27",
+              "type": "les",
+              "titel": "Op school",
+              "leerdoel": "het verschil tussen een verbale en een nominale zin gebruiken",
+              "grammatica": "**Verbale zin** (werkwoord, onderwerp, voorwerp). Uitleg waarom het werkwoord enkelvoud blijft vóór een meervoudig onderwerp: ذَهَبَ الطُّلّابُ",
+              "woorden": 24,
+              "accent": "ZO, IV, NA",
+              "bestand": "jaar-1/periode-3/l27.json"
+            },
+            {
+              "id": "j1-p3-l28",
+              "code": "L28",
+              "type": "les",
+              "titel": "Vroeger",
+              "leerdoel": "zeggen hoe iets was en wat ik had",
+              "grammatica": "**\"Zijn\" en \"hebben\" in de verleden tijd:** كانَ + gezegde in de accusatief (كانَ الجَوُّ جَميلًا). كانَ عِنْدي. Vervoeging van كانَ.",
+              "woorden": 22,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-3/l28.json"
+            },
+            {
+              "id": "j1-p3-d01",
+              "code": "D01",
+              "type": "darija",
+              "titel": "Darija: begroeten en kennismaken",
+              "grammatica": "سْلامْ، لاباسْ؟، شْنو سْمِيتْكْ؟ Vergelijking met Fusha",
+              "woorden": 18,
+              "accent": "LU, KO",
+              "bestand": "jaar-1/periode-3/d01.json"
+            },
+            {
+              "id": "j1-p3-h07",
+              "code": "H07",
+              "type": "herhaling",
+              "titel": "Herhaling 3A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-3/h07.json"
+            },
+            {
+              "id": "j1-p3-l29",
+              "code": "L29",
+              "type": "les",
+              "titel": "Het lichaam",
+              "leerdoel": "lichaamsdelen benoemen en zeggen waar het pijn doet",
+              "grammatica": "**Dualis** bij zelfstandige naamwoorden (عَيْنانِ / عَيْنَيْنِ، يَدانِ). يُؤْلِمُني… als vaste uitdrukking.",
+              "woorden": 28,
+              "accent": "KO, IV, LU",
+              "bestand": "jaar-1/periode-3/l29.json"
+            },
+            {
+              "id": "j1-p3-l30",
+              "code": "L30",
+              "type": "les",
+              "titel": "Kleding en winkelen",
+              "leerdoel": "kleding kopen en naar de prijs vragen",
+              "grammatica": "هٰذا القَميصُ (\"dit overhemd\") tegenover هٰذا قَميصٌ (\"dit is een overhemd\"), met uitleg waarom. كَمْ ثَمَنُ…؟",
+              "woorden": 26,
+              "accent": "ZO, NA, MK",
+              "bestand": "jaar-1/periode-3/l30.json"
+            },
+            {
+              "id": "j1-p3-l31",
+              "code": "L31",
+              "type": "les",
+              "titel": "Ziek en gezond",
+              "leerdoel": "klachten beschrijven",
+              "grammatica": "Congruentie van het bijvoeglijk naamwoord in het meervoud. **Niet-menselijke meervouden krijgen een vrouwelijk enkelvoud** (الكُتُبُ الجَديدَةُ).",
+              "woorden": 22,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-3/l31.json"
+            },
+            {
+              "id": "j1-p3-l32",
+              "code": "L32",
+              "type": "les",
+              "titel": "Mensen en beroepen",
+              "leerdoel": "over groepen mensen praten",
+              "grammatica": "Klankmeervouden (ـونَ / ـينَ، ـاتٌ). Kennismaking met gebroken meervouden, die je vanaf nu als woordpaar leert.",
+              "woorden": 24,
+              "accent": "VV, KO, IV",
+              "bestand": "jaar-1/periode-3/l32.json"
+            },
+            {
+              "id": "j1-p3-d02",
+              "code": "D02",
+              "type": "darija",
+              "titel": "Darija: ik, jij, hebben",
+              "grammatica": "أنا، نْتا، نْتي، هُوَ، هِيَ. عَنْدي. Afwezigheid van \"zijn\" in Darija",
+              "woorden": 16,
+              "accent": "VV, LU",
+              "bestand": "jaar-1/periode-3/d02.json"
+            },
+            {
+              "id": "j1-p3-h08",
+              "code": "H08",
+              "type": "herhaling",
+              "titel": "Herhaling 3B + 3A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-3/h08.json"
+            },
+            {
+              "id": "j1-p3-l33",
+              "code": "L33",
+              "type": "les",
+              "titel": "Maanden en seizoenen",
+              "leerdoel": "data en seizoenen noemen",
+              "grammatica": "Beide maandreeksen (يَنايِر… en كانونُ الثّاني…). Hijri-maanden herkennen. Tijdsvoorzetsels قَبْلَ، بَعْدَ، مُنْذُ.",
+              "woorden": 30,
+              "accent": "KO, MK, LU",
+              "bestand": "jaar-1/periode-3/l33.json"
+            },
+            {
+              "id": "j1-p3-l34",
+              "code": "L34",
+              "type": "les",
+              "titel": "Het weer",
+              "leerdoel": "over het weer vandaag, gisteren en morgen praten",
+              "grammatica": "**Toekomende tijd** met سَـ / سَوْفَ + muḍāriʿ (سَيَكونُ الجَوُّ بارِدًا)",
+              "woorden": 22,
+              "accent": "IV, ZO, NA",
+              "bestand": "jaar-1/periode-3/l34.json"
+            },
+            {
+              "id": "j1-p3-l35",
+              "code": "L35",
+              "type": "les",
+              "titel": "Kalender en verjaardag",
+              "leerdoel": "data en volgordes noemen",
+              "grammatica": "**Rangtelwoorden 1–10**, mannelijk en vrouwelijk (الأَوَّلُ / الأُولى، الثّاني…). Datumnotatie.",
+              "woorden": 20,
+              "accent": "IV, LU, MK",
+              "bestand": "jaar-1/periode-3/l35.json"
+            },
+            {
+              "id": "j1-p3-l36",
+              "code": "L36",
+              "type": "les",
+              "titel": "Vrije tijd",
+              "leerdoel": "hobby's noemen",
+              "grammatica": "**Maṣdar** (verbaal naamwoord) als onderwerp van een voorkeur: أُحِبُّ القِراءَةَ",
+              "woorden": 24,
+              "accent": "KO, NA, IV",
+              "bestand": "jaar-1/periode-3/l36.json"
+            },
+            {
+              "id": "j1-p3-d03",
+              "code": "D03",
+              "type": "darija",
+              "titel": "Darija: getallen en prijzen",
+              "grammatica": "واحْدْ، جوجْ، تْلاتة… شْحالْ؟",
+              "woorden": 18,
+              "accent": "LU, IV",
+              "bestand": "jaar-1/periode-3/d03.json"
+            },
+            {
+              "id": "j1-p3-h09",
+              "code": "H09",
+              "type": "herhaling",
+              "titel": "Herhaling periode 3",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-3/h09.json"
+            },
+            {
+              "id": "j1-p3-pt3",
+              "code": "PT3",
+              "type": "periodetoets",
+              "titel": "Periodetoets 3",
+              "bestand": "jaar-1/periode-3/pt3.json"
+            }
+          ]
+        },
+        {
+          "nr": 4,
+          "titel": "Onderweg",
+          "eenheden": [
+            {
+              "id": "j1-p4-l37",
+              "code": "L37",
+              "type": "les",
+              "titel": "Werk",
+              "leerdoel": "over mijn werk en collega's vertellen",
+              "grammatica": "Aangehechte voornaamwoorden als lijdend voorwerp (رَأَيْتُهُ، يَعْرِفُني). Uitleg waarom ـني bij werkwoorden en ـي bij zelfstandige naamwoorden.",
+              "woorden": 24,
+              "accent": "VV, IV, NA",
+              "bestand": "jaar-1/periode-4/l37.json"
+            },
+            {
+              "id": "j1-p4-l38",
+              "code": "L38",
+              "type": "les",
+              "titel": "Reizen en vervoer",
+              "leerdoel": "vertellen hoe en waarheen ik reis",
+              "grammatica": "Werkwoorden van beweging met een vast voorzetsel (ذَهَبَ إِلى، رَجَعَ مِنْ، وَصَلَ إِلى). بِـ + vervoermiddel.",
+              "woorden": 26,
+              "accent": "IV, ZO, NA",
+              "bestand": "jaar-1/periode-4/l38.json"
+            },
+            {
+              "id": "j1-p4-l39",
+              "code": "L39",
+              "type": "les",
+              "titel": "De stad",
+              "leerdoel": "de weg vragen en uitleggen waar iets is",
+              "grammatica": "يوجَدُ / توجَدُ en هُناكَ. Rangtelwoorden in een routebeschrijving (الشّارِعُ الثّاني).",
+              "woorden": 26,
+              "accent": "LU, ZO, MK",
+              "bestand": "jaar-1/periode-4/l39.json"
+            },
+            {
+              "id": "j1-p4-l40",
+              "code": "L40",
+              "type": "les",
+              "titel": "Twee vrienden op reis",
+              "leerdoel": "over twee personen praten in alle tijden",
+              "grammatica": "**Dualis volledig:** zelfstandig naamwoord, bijvoeglijk naamwoord, voornaamwoord en werkwoord (كَتَبا، كَتَبَتا، كَتَبْتُما، يَكْتُبانِ، تَكْتُبانِ). Daarmee zijn **alle 13 personen** behandeld.",
+              "woorden": 18,
+              "accent": "VV, IV, ZO",
+              "bestand": "jaar-1/periode-4/l40.json"
+            },
+            {
+              "id": "j1-p4-d04",
+              "code": "D04",
+              "type": "darija",
+              "titel": "Darija: tegenwoordige tijd",
+              "grammatica": "Voorvoegsel كا- (كانْقْرا، كاتْقْرا…)",
+              "woorden": 18,
+              "accent": "VV, LU",
+              "bestand": "jaar-1/periode-4/d04.json"
+            },
+            {
+              "id": "j1-p4-h10",
+              "code": "H10",
+              "type": "herhaling",
+              "titel": "Herhaling 4A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-4/h10.json"
+            },
+            {
+              "id": "j1-p4-l41",
+              "code": "L41",
+              "type": "les",
+              "titel": "Grote getallen",
+              "leerdoel": "prijzen, afstanden en jaartallen noemen",
+              "grammatica": "مِئَةٌ، مِئَتانِ، ثَلاثُمِئَةٍ، أَلْفٌ، أَلْفانِ، آلافٌ، مَلْيونٌ. Jaartallen.",
+              "woorden": 18,
+              "accent": "LU, IV, MK",
+              "bestand": "jaar-1/periode-4/l41.json"
+            },
+            {
+              "id": "j1-p4-l42",
+              "code": "L42",
+              "type": "les",
+              "titel": "Boodschappen",
+              "leerdoel": "aantallen correct combineren met zelfstandige naamwoorden",
+              "grammatica": "**Telwoordregels:** 1–2 (bijvoeglijk / dualis). 3–10 met **omgekeerde congruentie** en genitief meervoud. 11–99 met accusatief enkelvoud. 100 en 1000 met genitief enkelvoud. Inclusief uitleg waarom.",
+              "woorden": 24,
+              "accent": "IV, VV, MK",
+              "bestand": "jaar-1/periode-4/l42.json"
+            },
+            {
+              "id": "j1-p4-l43",
+              "code": "L43",
+              "type": "les",
+              "titel": "Hotel en reisplannen",
+              "leerdoel": "plannen maken en reserveren",
+              "grammatica": "Toekomst herhaald. أُريدُ أَنْ / أَوَدُّ أَنْ.",
+              "woorden": 24,
+              "accent": "NA, ZO, LU",
+              "bestand": "jaar-1/periode-4/l43.json"
+            },
+            {
+              "id": "j1-p4-l44",
+              "code": "L44",
+              "type": "les",
+              "titel": "Mijn leven",
+              "leerdoel": "in alle tijden en personen over mezelf vertellen",
+              "grammatica": "**Overzicht van de volledige vervoeging** van māḍī en muḍāriʿ (13 personen). Overzicht van ontkenningen (لَيْسَ، لا، ما).",
+              "woorden": 15,
+              "accent": "VV, NA, AN",
+              "bestand": "jaar-1/periode-4/l44.json"
+            },
+            {
+              "id": "j1-p4-d05",
+              "code": "D05",
+              "type": "darija",
+              "titel": "Darija: verleden tijd",
+              "grammatica": "كْتْبْتْ، كْتْبْتي، كْتْبْ…",
+              "woorden": 18,
+              "accent": "VV, LU",
+              "bestand": "jaar-1/periode-4/d05.json"
+            },
+            {
+              "id": "j1-p4-h11",
+              "code": "H11",
+              "type": "herhaling",
+              "titel": "Herhaling 4B + 4A",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-4/h11.json"
+            },
+            {
+              "id": "j1-p4-l45",
+              "code": "L45",
+              "type": "les",
+              "titel": "Wonen en verhuizen",
+              "leerdoel": "huizen vergelijken",
+              "grammatica": "**Vergrotende trap** أَفْعَلُ مِنْ (أَكْبَرُ مِنْ)",
+              "woorden": 24,
+              "accent": "IV, VV, NA",
+              "bestand": "jaar-1/periode-4/l45.json"
+            },
+            {
+              "id": "j1-p4-l46",
+              "code": "L46",
+              "type": "les",
+              "titel": "Feesten en tradities",
+              "leerdoel": "feestdagen beschrijven en wensen uitspreken",
+              "grammatica": "Vaste wensen (كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ). كُلّ en بَعْض + iḍāfa.",
+              "woorden": 22,
+              "accent": "KO, LU, ZO",
+              "bestand": "jaar-1/periode-4/l46.json"
+            },
+            {
+              "id": "j1-p4-l47",
+              "code": "L47",
+              "type": "les",
+              "titel": "Leestekst: \"Een dag van Sāmī\"",
+              "leerdoel": "een tekst van ± 200 woorden lezen en begrijpen",
+              "grammatica": "Voegwoorden وَ، ثُمَّ، فَـ، لٰكِنْ / لٰكِنَّ، لِأَنَّ",
+              "woorden": 20,
+              "accent": "AN, LU, MK",
+              "bestand": "jaar-1/periode-4/l47.json"
+            },
+            {
+              "id": "j1-p4-l48",
+              "code": "L48",
+              "type": "les",
+              "titel": "Een bericht schrijven",
+              "leerdoel": "een korte e-mail aan een vriend schrijven",
+              "grammatica": "Aanhef en afsluiting. Tekstopbouw. Herhaling van het jaar.",
+              "woorden": 18,
+              "accent": "NA, ZO, IV",
+              "bestand": "jaar-1/periode-4/l48.json"
+            },
+            {
+              "id": "j1-p4-d06",
+              "code": "D06",
+              "type": "darija",
+              "titel": "Darija: ontkenning en toekomst",
+              "grammatica": "ما…شْ. غادي + werkwoord",
+              "woorden": 16,
+              "accent": "VV, LU",
+              "bestand": "jaar-1/periode-4/d06.json"
+            },
+            {
+              "id": "j1-p4-h12",
+              "code": "H12",
+              "type": "herhaling",
+              "titel": "Herhaling jaar 1",
+              "accent": "alle",
+              "bestand": "jaar-1/periode-4/h12.json"
+            },
+            {
+              "id": "j1-p4-pt4",
+              "code": "PT4",
+              "type": "periodetoets",
+              "titel": "Periodetoets 4",
+              "bestand": "jaar-1/periode-4/pt4.json"
+            },
+            {
+              "id": "j1-p4-ne2",
+              "code": "NE2",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie eindtoets jaar 1",
+              "niveau": "eindtoets jaar 1",
+              "bestand": "jaar-1/periode-4/ne2.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "titel": "Wortels, vormen en naamvallen",
+      "niveau": "Niveau A1+ → A2+",
+      "periodes": [
+        {
+          "nr": 5,
+          "titel": "Wortels en werkwoordsvormen",
+          "eenheden": [
+            {
+              "id": "j2-p5-l49",
+              "code": "L49",
+              "type": "les",
+              "titel": "Boeken en bibliotheek",
+              "leerdoel": "woordfamilies herkennen via de wortel",
+              "grammatica": "**Wortelsystematiek:** wortel + patroon (فَعَلَ، فاعِل، مَفْعول، مَفْعَل، فِعالَة). Familie ك-ت-ب.",
+              "accent": "KO, MK",
+              "bestand": "jaar-2/periode-5/l49.json"
+            },
+            {
+              "id": "j2-p5-l50",
+              "code": "L50",
+              "type": "les",
+              "titel": "Plannen en wensen",
+              "leerdoel": "wensen en doelen uitdrukken",
+              "grammatica": "**Aanvoegende wijs** (manṣūb) na أَنْ، لَنْ، كَيْ، لِـ، حَتّى. De -na van de vijf werkwoordsvormen valt weg.",
+              "accent": "VV, IV",
+              "bestand": "jaar-2/periode-5/l50.json"
+            },
+            {
+              "id": "j2-p5-l51",
+              "code": "L51",
+              "type": "les",
+              "titel": "Wat ik nog niet deed",
+              "leerdoel": "het verleden ontkennen zoals in Fusha gebruikelijk is",
+              "grammatica": "**Verkorte wijs** (majzūm) na لَمْ. Het verbod met لا.",
+              "accent": "VV, NA",
+              "bestand": "jaar-2/periode-5/l51.json"
+            },
+            {
+              "id": "j2-p5-l52",
+              "code": "L52",
+              "type": "les",
+              "titel": "Koken en recepten",
+              "leerdoel": "instructies geven",
+              "grammatica": "**Gebiedende wijs** van vorm I voor alle 2e personen. Ontkenning met لا + majzūm.",
+              "accent": "VV, IV",
+              "bestand": "jaar-2/periode-5/l52.json"
+            },
+            {
+              "id": "j2-p5-d07",
+              "code": "D07",
+              "type": "darija",
+              "titel": "Darija: familie en bezit (ديالْ)",
+              "bestand": "jaar-2/periode-5/d07.json"
+            },
+            {
+              "id": "j2-p5-h13",
+              "code": "H13",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-5/h13.json"
+            },
+            {
+              "id": "j2-p5-l53",
+              "code": "L53",
+              "type": "les",
+              "titel": "Onderwijs",
+              "grammatica": "**Vorm II** فَعَّلَ: intensief of causatief (دَرَسَ → دَرَّسَ، عَلِمَ → عَلَّمَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l53.json"
+            },
+            {
+              "id": "j2-p5-l54",
+              "code": "L54",
+              "type": "les",
+              "titel": "Sport en samenwerken",
+              "grammatica": "**Vorm III** فاعَلَ: handelen op of met iemand (ساعَدَ، شاهَدَ، سافَرَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l54.json"
+            },
+            {
+              "id": "j2-p5-l55",
+              "code": "L55",
+              "type": "les",
+              "titel": "Communicatie",
+              "grammatica": "**Vorm IV** أَفْعَلَ: causatief (أَرْسَلَ، أَخْبَرَ، أَصْبَحَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l55.json"
+            },
+            {
+              "id": "j2-p5-l56",
+              "code": "L56",
+              "type": "les",
+              "titel": "Talen leren",
+              "grammatica": "**Vorm V** تَفَعَّلَ: wederkerend van vorm II (تَعَلَّمَ، تَكَلَّمَ، تَذَكَّرَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l56.json"
+            },
+            {
+              "id": "j2-p5-d08",
+              "code": "D08",
+              "type": "darija",
+              "titel": "Darija: eten en thee (أتايْ)",
+              "bestand": "jaar-2/periode-5/d08.json"
+            },
+            {
+              "id": "j2-p5-h14",
+              "code": "H14",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-5/h14.json"
+            },
+            {
+              "id": "j2-p5-l57",
+              "code": "L57",
+              "type": "les",
+              "titel": "Ontmoetingen",
+              "grammatica": "**Vorm VI** تَفاعَلَ: wederkerig (تَعاوَنَ، تَقابَلَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l57.json"
+            },
+            {
+              "id": "j2-p5-l58",
+              "code": "L58",
+              "type": "les",
+              "titel": "Verhuizen en de stad",
+              "grammatica": "**Vorm VII** اِنْفَعَلَ en **vorm VIII** اِفْتَعَلَ (اِنْكَسَرَ، اِنْتَقَلَ؛ اِجْتَمَعَ، اِنْتَظَرَ، اِسْتَمَعَ). Klankassimilatie in vorm VIII (اِتَّصَلَ).",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l58.json"
+            },
+            {
+              "id": "j2-p5-l59",
+              "code": "L59",
+              "type": "les",
+              "titel": "Technologie",
+              "grammatica": "**Vorm IX** اِفْعَلَّ (اِحْمَرَّ) en **vorm X** اِسْتَفْعَلَ (اِسْتَخْدَمَ، اِسْتَقْبَلَ)",
+              "accent": "VV",
+              "bestand": "jaar-2/periode-5/l59.json"
+            },
+            {
+              "id": "j2-p5-l60",
+              "code": "L60",
+              "type": "les",
+              "titel": "Woordfamilies",
+              "leerdoel": "per wortel alle vormen afleiden",
+              "grammatica": "**Overzicht vorm I–X:** perfectum, imperfectum, maṣdar, actief en passief deelwoord",
+              "accent": "VV, KO",
+              "bestand": "jaar-2/periode-5/l60.json"
+            },
+            {
+              "id": "j2-p5-d09",
+              "code": "D09",
+              "type": "darija",
+              "titel": "Darija: op de markt (afdingen)",
+              "bestand": "jaar-2/periode-5/d09.json"
+            },
+            {
+              "id": "j2-p5-h15",
+              "code": "H15",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-5/h15.json"
+            },
+            {
+              "id": "j2-p5-pt5",
+              "code": "PT5",
+              "type": "periodetoets",
+              "titel": "Periodetoets 5",
+              "bestand": "jaar-2/periode-5/pt5.json"
+            }
+          ]
+        },
+        {
+          "nr": 6,
+          "titel": "Naamvallen en iʿrāb",
+          "eenheden": [
+            {
+              "id": "j2-p6-l61",
+              "code": "L61",
+              "type": "les",
+              "titel": "Een verhaal volledig gevocaliseerd lezen",
+              "grammatica": "**Iʿrāb systematisch:** marfūʿ, manṣūb en majrūr. Waarom en wanneer welke naamval.",
+              "bestand": "jaar-2/periode-6/l61.json"
+            },
+            {
+              "id": "j2-p6-l62",
+              "code": "L62",
+              "type": "les",
+              "titel": "Steden en landen",
+              "grammatica": "**Diptoten** (mamnūʿ min aṣ-ṣarf): namen, أَفْعَلُ, مَدارِسُ",
+              "bestand": "jaar-2/periode-6/l62.json"
+            },
+            {
+              "id": "j2-p6-l63",
+              "code": "L63",
+              "type": "les",
+              "titel": "De uitgebreide familie",
+              "grammatica": "De **vijf zelfstandige naamwoorden** (أَبوكَ / أَباكَ / أَبيكَ)",
+              "bestand": "jaar-2/periode-6/l63.json"
+            },
+            {
+              "id": "j2-p6-l64",
+              "code": "L64",
+              "type": "les",
+              "titel": "Vroeger en nu",
+              "grammatica": "**Kāna en zusters:** كانَ، أَصْبَحَ، صارَ، لَيْسَ، ما زالَ، ظَلَّ",
+              "bestand": "jaar-2/periode-6/l64.json"
+            },
+            {
+              "id": "j2-p6-d10",
+              "code": "D10",
+              "type": "darija",
+              "titel": "Darija: de weg vragen en de taxi",
+              "bestand": "jaar-2/periode-6/d10.json"
+            },
+            {
+              "id": "j2-p6-h16",
+              "code": "H16",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-6/h16.json"
+            },
+            {
+              "id": "j2-p6-l65",
+              "code": "L65",
+              "type": "les",
+              "titel": "Meningen",
+              "grammatica": "**Inna en zusters:** إِنَّ، أَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ، كَأَنَّ + onderwerp in de accusatief",
+              "bestand": "jaar-2/periode-6/l65.json"
+            },
+            {
+              "id": "j2-p6-l66",
+              "code": "L66",
+              "type": "les",
+              "titel": "Natuur en dieren",
+              "grammatica": "**Gebroken meervouden I:** أَفْعال، فُعول، فِعال، فُعُل",
+              "bestand": "jaar-2/periode-6/l66.json"
+            },
+            {
+              "id": "j2-p6-l67",
+              "code": "L67",
+              "type": "les",
+              "titel": "Beroepen en instellingen",
+              "grammatica": "**Gebroken meervouden II:** فُعَلاء، أَفْعِلاء، فَواعِل، مَفاعِل / مَفاعيل",
+              "bestand": "jaar-2/periode-6/l67.json"
+            },
+            {
+              "id": "j2-p6-l68",
+              "code": "L68",
+              "type": "les",
+              "titel": "Stad en voorzieningen",
+              "grammatica": "**Meervoud en congruentie** volledig (mensen tegenover niet-mensen, werkwoord tegenover onderwerp)",
+              "bestand": "jaar-2/periode-6/l68.json"
+            },
+            {
+              "id": "j2-p6-d11",
+              "code": "D11",
+              "type": "darija",
+              "titel": "Darija: het huis en het dagelijks leven",
+              "bestand": "jaar-2/periode-6/d11.json"
+            },
+            {
+              "id": "j2-p6-h17",
+              "code": "H17",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-6/h17.json"
+            },
+            {
+              "id": "j2-p6-l69",
+              "code": "L69",
+              "type": "les",
+              "titel": "Winkel en markt",
+              "grammatica": "**Holle werkwoorden** (قالَ، كانَ، نامَ، باعَ) in alle personen",
+              "bestand": "jaar-2/periode-6/l69.json"
+            },
+            {
+              "id": "j2-p6-l70",
+              "code": "L70",
+              "type": "les",
+              "titel": "Gevoelens en relaties",
+              "grammatica": "**Defectieve werkwoorden** (مَشى، دَعا، نَسِيَ، بَكى)",
+              "bestand": "jaar-2/periode-6/l70.json"
+            },
+            {
+              "id": "j2-p6-l71",
+              "code": "L71",
+              "type": "les",
+              "titel": "Reizen II",
+              "grammatica": "**Assimilerende** (وَصَلَ، وَجَدَ) en **verdubbelde** werkwoorden (مَرَّ، رَدَّ، ظَنَّ)",
+              "bestand": "jaar-2/periode-6/l71.json"
+            },
+            {
+              "id": "j2-p6-l72",
+              "code": "L72",
+              "type": "les",
+              "titel": "Media en lezen",
+              "grammatica": "**Hamza-werkwoorden** (أَخَذَ، أَكَلَ، سَأَلَ، قَرَأَ) en de spellingregels voor hamza",
+              "bestand": "jaar-2/periode-6/l72.json"
+            },
+            {
+              "id": "j2-p6-d12",
+              "code": "D12",
+              "type": "darija",
+              "titel": "Darija: vraagwoorden (فينْ، شْكونْ، عْلاشْ، كيفاشْ، إيمْتا، شْحالْ)",
+              "bestand": "jaar-2/periode-6/d12.json"
+            },
+            {
+              "id": "j2-p6-h18",
+              "code": "H18",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-6/h18.json"
+            },
+            {
+              "id": "j2-p6-pt6",
+              "code": "PT6",
+              "type": "periodetoets",
+              "titel": "Periodetoets 6",
+              "bestand": "jaar-2/periode-6/pt6.json"
+            },
+            {
+              "id": "j2-p6-ne3",
+              "code": "NE3",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie A2−",
+              "niveau": "A2−",
+              "bestand": "jaar-2/periode-6/ne3.json"
+            }
+          ]
+        },
+        {
+          "nr": 7,
+          "titel": "Beschrijven en vergelijken",
+          "eenheden": [
+            {
+              "id": "j2-p7-l73",
+              "code": "L73",
+              "type": "les",
+              "titel": "Steden vergelijken",
+              "grammatica": "**Vergrotende en overtreffende trap** (أَفْعَلُ + iḍāfa، الأَفْعَلُ / الفُعْلى)",
+              "bestand": "jaar-2/periode-7/l73.json"
+            },
+            {
+              "id": "j2-p7-l74",
+              "code": "L74",
+              "type": "les",
+              "titel": "Onderweg",
+              "grammatica": "**Actief deelwoord** (فاعِل) als bijvoeglijk naamwoord, zelfstandig naamwoord en werkwoordelijke betekenis (أَنا ذاهِبٌ)",
+              "bestand": "jaar-2/periode-7/l74.json"
+            },
+            {
+              "id": "j2-p7-l75",
+              "code": "L75",
+              "type": "les",
+              "titel": "Geopend en gesloten",
+              "grammatica": "**Passief deelwoord** (مَفْعول). Maṣdar als zelfstandig naamwoord.",
+              "bestand": "jaar-2/periode-7/l75.json"
+            },
+            {
+              "id": "j2-p7-l76",
+              "code": "L76",
+              "type": "les",
+              "titel": "Mensen beschrijven",
+              "grammatica": "**Betrekkelijke bijzin I:** الَّذي، الَّتي، اللَّذانِ، الَّذينَ، اللَّواتي + terugverwijzend voornaamwoord (ʿāʾid)",
+              "bestand": "jaar-2/periode-7/l76.json"
+            },
+            {
+              "id": "j2-p7-d13",
+              "code": "D13",
+              "type": "darija",
+              "titel": "Darija: gevoelens en het weer",
+              "bestand": "jaar-2/periode-7/d13.json"
+            },
+            {
+              "id": "j2-p7-h19",
+              "code": "H19",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-7/h19.json"
+            },
+            {
+              "id": "j2-p7-l77",
+              "code": "L77",
+              "type": "les",
+              "titel": "Woning zoeken",
+              "grammatica": "**Betrekkelijke bijzin II:** onbepaald antecedent zonder الَّذي. ما en مَنْ als betrekkelijk voornaamwoord.",
+              "bestand": "jaar-2/periode-7/l77.json"
+            },
+            {
+              "id": "j2-p7-l78",
+              "code": "L78",
+              "type": "les",
+              "titel": "Mijn jeugd",
+              "grammatica": "**Tijden uitgebreid:** كانَ + muḍāriʿ (gewoonte of duur in het verleden), قَدْ + māḍī, لَنْ",
+              "bestand": "jaar-2/periode-7/l78.json"
+            },
+            {
+              "id": "j2-p7-l79",
+              "code": "L79",
+              "type": "les",
+              "titel": "Bij de dokter",
+              "grammatica": "**Ḥāl** (toestandsbepaling), eenvoudig: جاءَ مُسْرِعًا",
+              "bestand": "jaar-2/periode-7/l79.json"
+            },
+            {
+              "id": "j2-p7-l80",
+              "code": "L80",
+              "type": "les",
+              "titel": "Solliciteren",
+              "grammatica": "Verschil tussen **أَنْ en أَنَّ**. Complementzinnen.",
+              "bestand": "jaar-2/periode-7/l80.json"
+            },
+            {
+              "id": "j2-p7-d14",
+              "code": "D14",
+              "type": "darija",
+              "titel": "Darija: telefoneren en afspreken",
+              "bestand": "jaar-2/periode-7/d14.json"
+            },
+            {
+              "id": "j2-p7-h20",
+              "code": "H20",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-7/h20.json"
+            },
+            {
+              "id": "j2-p7-l81",
+              "code": "L81",
+              "type": "les",
+              "titel": "Natuur en milieu",
+              "grammatica": "**Tamyīz** (specificatie). كَمْ met accusatief of genitief.",
+              "bestand": "jaar-2/periode-7/l81.json"
+            },
+            {
+              "id": "j2-p7-l82",
+              "code": "L82",
+              "type": "les",
+              "titel": "Sport en gezondheid",
+              "grammatica": "**Modaliteit:** يَجِبُ أَنْ، يُمْكِنُ أَنْ، يَنْبَغي أَنْ، مِنَ الضَّرورِيِّ",
+              "bestand": "jaar-2/periode-7/l82.json"
+            },
+            {
+              "id": "j2-p7-l83",
+              "code": "L83",
+              "type": "les",
+              "titel": "Statistieken",
+              "grammatica": "**Telwoorden volledig:** congruentie, iʿrāb en rangtelwoorden vanaf 11",
+              "bestand": "jaar-2/periode-7/l83.json"
+            },
+            {
+              "id": "j2-p7-l84",
+              "code": "L84",
+              "type": "les",
+              "titel": "Een kort verhaal",
+              "grammatica": "Verteltijden en verbindingswoorden (عِنْدَما، بَيْنَما، بَعْدَ أَنْ، قَبْلَ أَنْ)",
+              "bestand": "jaar-2/periode-7/l84.json"
+            },
+            {
+              "id": "j2-p7-d15",
+              "code": "D15",
+              "type": "darija",
+              "titel": "Darija: gebiedende wijs",
+              "bestand": "jaar-2/periode-7/d15.json"
+            },
+            {
+              "id": "j2-p7-h21",
+              "code": "H21",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-7/h21.json"
+            },
+            {
+              "id": "j2-p7-pt7",
+              "code": "PT7",
+              "type": "periodetoets",
+              "titel": "Periodetoets 7",
+              "bestand": "jaar-2/periode-7/pt7.json"
+            }
+          ]
+        },
+        {
+          "nr": 8,
+          "titel": "Samenleving",
+          "eenheden": [
+            {
+              "id": "j2-p8-l85",
+              "code": "L85",
+              "type": "les",
+              "titel": "Media en nieuws",
+              "grammatica": "Iḍāfa-ketens en bijvoeglijke naamwoorden bij een iḍāfa",
+              "bestand": "jaar-2/periode-8/l85.json"
+            },
+            {
+              "id": "j2-p8-l86",
+              "code": "L86",
+              "type": "les",
+              "titel": "Onderwijs",
+              "grammatica": "**Ontkenning totaaloverzicht:** لا، لَمْ، لَنْ، ما، لَيْسَ، غَيْر",
+              "bestand": "jaar-2/periode-8/l86.json"
+            },
+            {
+              "id": "j2-p8-l87",
+              "code": "L87",
+              "type": "les",
+              "titel": "Cultuur en religie",
+              "grammatica": "**Uitzondering:** إِلّا، غَيْرُ، سِوى",
+              "bestand": "jaar-2/periode-8/l87.json"
+            },
+            {
+              "id": "j2-p8-l88",
+              "code": "L88",
+              "type": "les",
+              "titel": "Internet",
+              "grammatica": "Maṣdar van alle vormen herhaald. Leenwoorden.",
+              "bestand": "jaar-2/periode-8/l88.json"
+            },
+            {
+              "id": "j2-p8-d16",
+              "code": "D16",
+              "type": "darija",
+              "titel": "Darija: Franse en Spaanse leenwoorden",
+              "bestand": "jaar-2/periode-8/d16.json"
+            },
+            {
+              "id": "j2-p8-h22",
+              "code": "H22",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-8/h22.json"
+            },
+            {
+              "id": "j2-p8-l89",
+              "code": "L89",
+              "type": "les",
+              "titel": "Luchthaven en grens",
+              "grammatica": "**Gebiedende wijs** van afgeleide vormen en zwakke werkwoorden (قُلْ، نَمْ، اِمْشِ، تَعالَ)",
+              "bestand": "jaar-2/periode-8/l89.json"
+            },
+            {
+              "id": "j2-p8-l90",
+              "code": "L90",
+              "type": "les",
+              "titel": "Geld en boodschappen",
+              "grammatica": "كُلّ، بَعْض، جَميع، كِلا / كِلْتا. Procenten.",
+              "bestand": "jaar-2/periode-8/l90.json"
+            },
+            {
+              "id": "j2-p8-l91",
+              "code": "L91",
+              "type": "les",
+              "titel": "Afspraken in huis",
+              "grammatica": "**Voorwaardelijke zin I:** إِذا + māḍī (reële voorwaarde)",
+              "bestand": "jaar-2/periode-8/l91.json"
+            },
+            {
+              "id": "j2-p8-l92",
+              "code": "L92",
+              "type": "les",
+              "titel": "Uitnodigingen",
+              "grammatica": "Uitroepen (ما أَجْمَلَ…!). نَعَمْ / بَلى.",
+              "bestand": "jaar-2/periode-8/l92.json"
+            },
+            {
+              "id": "j2-p8-d17",
+              "code": "D17",
+              "type": "darija",
+              "titel": "Darija: feesten en uitnodigingen",
+              "bestand": "jaar-2/periode-8/d17.json"
+            },
+            {
+              "id": "j2-p8-h23",
+              "code": "H23",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-2/periode-8/h23.json"
+            },
+            {
+              "id": "j2-p8-l93",
+              "code": "L93",
+              "type": "les",
+              "titel": "Lezen: aangepaste krantenartikelen",
+              "grammatica": "Iʿrāb in context",
+              "bestand": "jaar-2/periode-8/l93.json"
+            },
+            {
+              "id": "j2-p8-l94",
+              "code": "L94",
+              "type": "les",
+              "titel": "Luisteren: dialogen",
+              "grammatica": "Vormen I–X in context",
+              "bestand": "jaar-2/periode-8/l94.json"
+            },
+            {
+              "id": "j2-p8-l95",
+              "code": "L95",
+              "type": "les",
+              "titel": "Schrijven: mening en beschrijving",
+              "grammatica": "Argumentatiewoorden (أَوَّلًا، لِذٰلِكَ، مَعَ ذٰلِكَ)",
+              "bestand": "jaar-2/periode-8/l95.json"
+            },
+            {
+              "id": "j2-p8-l96",
+              "code": "L96",
+              "type": "les",
+              "titel": "Spreken: presentatie over mijn stad",
+              "grammatica": "Integratie",
+              "bestand": "jaar-2/periode-8/l96.json"
+            },
+            {
+              "id": "j2-p8-d18",
+              "code": "D18",
+              "type": "darija",
+              "titel": "Darija: herhaling A1 Darija",
+              "bestand": "jaar-2/periode-8/d18.json"
+            },
+            {
+              "id": "j2-p8-h24",
+              "code": "H24",
+              "type": "herhaling",
+              "titel": "Herhaling jaar 2",
+              "bestand": "jaar-2/periode-8/h24.json"
+            },
+            {
+              "id": "j2-p8-pt8",
+              "code": "PT8",
+              "type": "periodetoets",
+              "titel": "Periodetoets 8",
+              "bestand": "jaar-2/periode-8/pt8.json"
+            },
+            {
+              "id": "j2-p8-ne4",
+              "code": "NE4",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie A2+, eindtoets jaar 2",
+              "niveau": "A2+, eindtoets jaar 2",
+              "bestand": "jaar-2/periode-8/ne4.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "titel": "Naar B1",
+      "niveau": "Niveau A2+ → B1",
+      "periodes": [
+        {
+          "nr": 9,
+          "titel": "Complexe zinnen",
+          "eenheden": [
+            {
+              "id": "j3-p9-l97",
+              "code": "L97",
+              "type": "les",
+              "titel": "Gebeurtenissen",
+              "grammatica": "**Lijdende vorm I:** vorm I in māḍī en muḍāriʿ (كُتِبَ، يُكْتَبُ). Nāʾib al-fāʿil.",
+              "bestand": "jaar-3/periode-9/l97.json"
+            },
+            {
+              "id": "j3-p9-l98",
+              "code": "L98",
+              "type": "les",
+              "titel": "Geschiedenis",
+              "grammatica": "**Lijdende vorm II:** afgeleide vormen en zwakke werkwoorden (قيلَ، يُقالُ). Alternatieven: vorm VII en تَمَّ + maṣdar.",
+              "bestand": "jaar-3/periode-9/l98.json"
+            },
+            {
+              "id": "j3-p9-l99",
+              "code": "L99",
+              "type": "les",
+              "titel": "Advies en plannen",
+              "grammatica": "**Voorwaardelijke zin II:** إِنْ + majzūm, en إِذا herhaald",
+              "bestand": "jaar-3/periode-9/l99.json"
+            },
+            {
+              "id": "j3-p9-l100",
+              "code": "L100",
+              "type": "les",
+              "titel": "Dromen en spijt",
+              "grammatica": "**Irreële voorwaarde:** لَوْ … لَـ، لَوْلا",
+              "bestand": "jaar-3/periode-9/l100.json"
+            },
+            {
+              "id": "j3-p9-d19",
+              "code": "D19",
+              "type": "darija",
+              "titel": "Darija: verhalen vertellen in het verleden",
+              "bestand": "jaar-3/periode-9/d19.json"
+            },
+            {
+              "id": "j3-p9-h25",
+              "code": "H25",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-9/h25.json"
+            },
+            {
+              "id": "j3-p9-l101",
+              "code": "L101",
+              "type": "les",
+              "titel": "Herinneringen",
+              "grammatica": "**Bijzinnen van tijd:** عِنْدَما، لَمّا، حينَ، كُلَّما، بَيْنَما، بَعْدَما",
+              "bestand": "jaar-3/periode-9/l101.json"
+            },
+            {
+              "id": "j3-p9-l102",
+              "code": "L102",
+              "type": "les",
+              "titel": "Maatschappij",
+              "grammatica": "**Doel en oorzaak:** لِكَيْ، لِأَنَّ، بِسَبَبِ، حَتّى، لِذا",
+              "bestand": "jaar-3/periode-9/l102.json"
+            },
+            {
+              "id": "j3-p9-l103",
+              "code": "L103",
+              "type": "les",
+              "titel": "Meningen",
+              "grammatica": "**Toegeving en tegenstelling:** رَغْمَ أَنَّ، مَعَ أَنَّ، بَلْ، أَمّا … فَـ",
+              "bestand": "jaar-3/periode-9/l103.json"
+            },
+            {
+              "id": "j3-p9-l104",
+              "code": "L104",
+              "type": "les",
+              "titel": "Interview en verslag",
+              "grammatica": "**Indirecte rede:** قالَ إِنَّ، سَأَلَ هَلْ",
+              "bestand": "jaar-3/periode-9/l104.json"
+            },
+            {
+              "id": "j3-p9-d20",
+              "code": "D20",
+              "type": "darija",
+              "titel": "Darija: bij de dokter en de apotheek",
+              "bestand": "jaar-3/periode-9/d20.json"
+            },
+            {
+              "id": "j3-p9-h26",
+              "code": "H26",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-9/h26.json"
+            },
+            {
+              "id": "j3-p9-l105",
+              "code": "L105",
+              "type": "les",
+              "titel": "Prestaties",
+              "grammatica": "**Mafʿūl muṭlaq** (absoluut object) en **mafʿūl li-ajlihi** (doel)",
+              "bestand": "jaar-3/periode-9/l105.json"
+            },
+            {
+              "id": "j3-p9-l106",
+              "code": "L106",
+              "type": "les",
+              "titel": "Verhalen",
+              "grammatica": "**Ḥāl** uitgebreid, ook als zin: وَهُوَ…",
+              "bestand": "jaar-3/periode-9/l106.json"
+            },
+            {
+              "id": "j3-p9-l107",
+              "code": "L107",
+              "type": "les",
+              "titel": "Lezen: fabel of kort verhaal",
+              "grammatica": "Grammatica in context. Gedeeltelijk zonder harakat.",
+              "bestand": "jaar-3/periode-9/l107.json"
+            },
+            {
+              "id": "j3-p9-l108",
+              "code": "L108",
+              "type": "les",
+              "titel": "Discussie",
+              "grammatica": "Spreek- en luistervaardigheid",
+              "bestand": "jaar-3/periode-9/l108.json"
+            },
+            {
+              "id": "j3-p9-d21",
+              "code": "D21",
+              "type": "darija",
+              "titel": "Darija: werk en administratie",
+              "bestand": "jaar-3/periode-9/d21.json"
+            },
+            {
+              "id": "j3-p9-h27",
+              "code": "H27",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-9/h27.json"
+            },
+            {
+              "id": "j3-p9-pt9",
+              "code": "PT9",
+              "type": "periodetoets",
+              "titel": "Periodetoets 9",
+              "bestand": "jaar-3/periode-9/pt9.json"
+            }
+          ]
+        },
+        {
+          "nr": 10,
+          "titel": "Samenleving en standpunten",
+          "eenheden": [
+            {
+              "id": "j3-p10-l109",
+              "code": "L109",
+              "type": "les",
+              "titel": "Werk en economie",
+              "grammatica": "Nominaliserende stijl met de maṣdar",
+              "bestand": "jaar-3/periode-10/l109.json"
+            },
+            {
+              "id": "j3-p10-l110",
+              "code": "L110",
+              "type": "les",
+              "titel": "Gezondheidszorg",
+              "grammatica": "Beperking: إِنَّما، لا … إِلّا",
+              "bestand": "jaar-3/periode-10/l110.json"
+            },
+            {
+              "id": "j3-p10-l111",
+              "code": "L111",
+              "type": "les",
+              "titel": "Milieu en klimaat",
+              "grammatica": "Oorzaak en gevolg: نَتيجَةً لِـ، مِمّا أَدّى إِلى",
+              "bestand": "jaar-3/periode-10/l111.json"
+            },
+            {
+              "id": "j3-p10-l112",
+              "code": "L112",
+              "type": "les",
+              "titel": "Onderwijs en toekomst",
+              "grammatica": "Intentie en nabije toekomst: أَنْوي أَنْ، عَلى وَشْكِ",
+              "bestand": "jaar-3/periode-10/l112.json"
+            },
+            {
+              "id": "j3-p10-d22",
+              "code": "D22",
+              "type": "darija",
+              "titel": "Darija: bruiloft en familiefeesten",
+              "bestand": "jaar-3/periode-10/d22.json"
+            },
+            {
+              "id": "j3-p10-h28",
+              "code": "H28",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-10/h28.json"
+            },
+            {
+              "id": "j3-p10-l113",
+              "code": "L113",
+              "type": "les",
+              "titel": "Geschiedenis II",
+              "grammatica": "**Voltooid verleden:** كانَ قَدْ + māḍī",
+              "bestand": "jaar-3/periode-10/l113.json"
+            },
+            {
+              "id": "j3-p10-l114",
+              "code": "L114",
+              "type": "les",
+              "titel": "Kunst en muziek",
+              "grammatica": "Overtreffende trap en bewondering herhaald",
+              "bestand": "jaar-3/periode-10/l114.json"
+            },
+            {
+              "id": "j3-p10-l115",
+              "code": "L115",
+              "type": "les",
+              "titel": "Migratie en identiteit",
+              "grammatica": "Abstracte zelfstandige naamwoorden op ـِيَّة (الهُوِيَّة)",
+              "bestand": "jaar-3/periode-10/l115.json"
+            },
+            {
+              "id": "j3-p10-l116",
+              "code": "L116",
+              "type": "les",
+              "titel": "Wetenschap",
+              "grammatica": "Deelwoorden van afgeleide vormen (patroon مُـ)",
+              "bestand": "jaar-3/periode-10/l116.json"
+            },
+            {
+              "id": "j3-p10-d23",
+              "code": "D23",
+              "type": "darija",
+              "titel": "Darija: uitdrukkingen en spreekwoorden",
+              "bestand": "jaar-3/periode-10/d23.json"
+            },
+            {
+              "id": "j3-p10-h29",
+              "code": "H29",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-10/h29.json"
+            },
+            {
+              "id": "j3-p10-l117",
+              "code": "L117",
+              "type": "les",
+              "titel": "Krantenkoppen",
+              "grammatica": "Krantenstijl: koppen met een maṣdar, verbale zinnen",
+              "bestand": "jaar-3/periode-10/l117.json"
+            },
+            {
+              "id": "j3-p10-l118",
+              "code": "L118",
+              "type": "les",
+              "titel": "Formele brief",
+              "grammatica": "Formeel register en beleefdheidsformules",
+              "bestand": "jaar-3/periode-10/l118.json"
+            },
+            {
+              "id": "j3-p10-l119",
+              "code": "L119",
+              "type": "les",
+              "titel": "Nieuwsfragmenten beluisteren",
+              "grammatica": "Herhaling in context",
+              "bestand": "jaar-3/periode-10/l119.json"
+            },
+            {
+              "id": "j3-p10-l120",
+              "code": "L120",
+              "type": "les",
+              "titel": "Voor en tegen",
+              "grammatica": "Argumenteren",
+              "bestand": "jaar-3/periode-10/l120.json"
+            },
+            {
+              "id": "j3-p10-d24",
+              "code": "D24",
+              "type": "darija",
+              "titel": "Darija: verschillen met Fusha systematisch",
+              "bestand": "jaar-3/periode-10/d24.json"
+            },
+            {
+              "id": "j3-p10-h30",
+              "code": "H30",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-10/h30.json"
+            },
+            {
+              "id": "j3-p10-pt10",
+              "code": "PT10",
+              "type": "periodetoets",
+              "titel": "Periodetoets 10",
+              "bestand": "jaar-3/periode-10/pt10.json"
+            },
+            {
+              "id": "j3-p10-ne5",
+              "code": "NE5",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie B1−",
+              "niveau": "B1−",
+              "bestand": "jaar-3/periode-10/ne5.json"
+            }
+          ]
+        },
+        {
+          "nr": 11,
+          "titel": "Verdieping",
+          "eenheden": [
+            {
+              "id": "j3-p11-l121",
+              "code": "L121",
+              "type": "les",
+              "titel": "Woordvorming",
+              "grammatica": "Patronen voor plaats (مَفْعَل), werktuig (مِفْعال) en verkleinwoord (فُعَيْل)",
+              "bestand": "jaar-3/periode-11/l121.json"
+            },
+            {
+              "id": "j3-p11-l122",
+              "code": "L122",
+              "type": "les",
+              "titel": "Werkwoorden met een vast voorzetsel",
+              "grammatica": "رَغِبَ في / عَنْ، بَحَثَ عَنْ، اِعْتَمَدَ عَلى",
+              "bestand": "jaar-3/periode-11/l122.json"
+            },
+            {
+              "id": "j3-p11-l123",
+              "code": "L123",
+              "type": "les",
+              "titel": "Vertalen en talen",
+              "grammatica": "**Vierletterige werkwoorden** (تَرْجَمَ، تَزَلْزَلَ)",
+              "bestand": "jaar-3/periode-11/l123.json"
+            },
+            {
+              "id": "j3-p11-l124",
+              "code": "L124",
+              "type": "les",
+              "titel": "Dromen en zien",
+              "grammatica": "**Dubbel zwakke werkwoorden** (رَأى، أَتى، جاءَ)",
+              "bestand": "jaar-3/periode-11/l124.json"
+            },
+            {
+              "id": "j3-p11-d25",
+              "code": "D25",
+              "type": "darija",
+              "titel": "Darija: luisteren naar dialogen",
+              "bestand": "jaar-3/periode-11/d25.json"
+            },
+            {
+              "id": "j3-p11-h31",
+              "code": "H31",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-11/h31.json"
+            },
+            {
+              "id": "j3-p11-l125",
+              "code": "L125",
+              "type": "les",
+              "titel": "Nadruk",
+              "grammatica": "لَـ، قَدْ، نَفْس، ذات",
+              "bestand": "jaar-3/periode-11/l125.json"
+            },
+            {
+              "id": "j3-p11-l126",
+              "code": "L126",
+              "type": "les",
+              "titel": "Aanspreken",
+              "grammatica": "Vocatief: يا، أَيُّها / أَيَّتُها",
+              "bestand": "jaar-3/periode-11/l126.json"
+            },
+            {
+              "id": "j3-p11-l127",
+              "code": "L127",
+              "type": "les",
+              "titel": "Spreekwoorden en poëzie",
+              "grammatica": "Klassieke constructies herkennen",
+              "bestand": "jaar-3/periode-11/l127.json"
+            },
+            {
+              "id": "j3-p11-l128",
+              "code": "L128",
+              "type": "les",
+              "titel": "De Arabische wereld en Marokko",
+              "grammatica": "Leestekst",
+              "bestand": "jaar-3/periode-11/l128.json"
+            },
+            {
+              "id": "j3-p11-d26",
+              "code": "D26",
+              "type": "darija",
+              "titel": "Darija: rollenspellen I",
+              "bestand": "jaar-3/periode-11/d26.json"
+            },
+            {
+              "id": "j3-p11-h32",
+              "code": "H32",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-11/h32.json"
+            },
+            {
+              "id": "j3-p11-l129",
+              "code": "L129",
+              "type": "les",
+              "titel": "Projecten: tekst schrijven, presentatie, interview, samenvatting",
+              "grammatica": "Integratie",
+              "bestand": "jaar-3/periode-11/l129.json"
+            },
+            {
+              "id": "j3-p11-l130",
+              "code": "L130",
+              "type": "les",
+              "titel": "Projecten: tekst schrijven, presentatie, interview, samenvatting",
+              "grammatica": "Integratie",
+              "bestand": "jaar-3/periode-11/l130.json"
+            },
+            {
+              "id": "j3-p11-l131",
+              "code": "L131",
+              "type": "les",
+              "titel": "Projecten: tekst schrijven, presentatie, interview, samenvatting",
+              "grammatica": "Integratie",
+              "bestand": "jaar-3/periode-11/l131.json"
+            },
+            {
+              "id": "j3-p11-l132",
+              "code": "L132",
+              "type": "les",
+              "titel": "Projecten: tekst schrijven, presentatie, interview, samenvatting",
+              "grammatica": "Integratie",
+              "bestand": "jaar-3/periode-11/l132.json"
+            },
+            {
+              "id": "j3-p11-d27",
+              "code": "D27",
+              "type": "darija",
+              "titel": "Darija: rollenspellen II",
+              "bestand": "jaar-3/periode-11/d27.json"
+            },
+            {
+              "id": "j3-p11-h33",
+              "code": "H33",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-11/h33.json"
+            },
+            {
+              "id": "j3-p11-pt11",
+              "code": "PT11",
+              "type": "periodetoets",
+              "titel": "Periodetoets 11",
+              "bestand": "jaar-3/periode-11/pt11.json"
+            }
+          ]
+        },
+        {
+          "nr": 12,
+          "titel": "B1-consolidatie",
+          "eenheden": [
+            {
+              "id": "j3-p12-l133",
+              "code": "L133",
+              "type": "les",
+              "titel": "Reizen, wonen en werken in de Arabische wereld, maatschappelijke debatten, verhalen vertellen in alle tijden",
+              "bestand": "jaar-3/periode-12/l133.json"
+            },
+            {
+              "id": "j3-p12-l134",
+              "code": "L134",
+              "type": "les",
+              "titel": "Reizen, wonen en werken in de Arabische wereld, maatschappelijke debatten, verhalen vertellen in alle tijden",
+              "bestand": "jaar-3/periode-12/l134.json"
+            },
+            {
+              "id": "j3-p12-l135",
+              "code": "L135",
+              "type": "les",
+              "titel": "Reizen, wonen en werken in de Arabische wereld, maatschappelijke debatten, verhalen vertellen in alle tijden",
+              "bestand": "jaar-3/periode-12/l135.json"
+            },
+            {
+              "id": "j3-p12-l136",
+              "code": "L136",
+              "type": "les",
+              "titel": "Reizen, wonen en werken in de Arabische wereld, maatschappelijke debatten, verhalen vertellen in alle tijden",
+              "bestand": "jaar-3/periode-12/l136.json"
+            },
+            {
+              "id": "j3-p12-d28",
+              "code": "D28",
+              "type": "darija",
+              "titel": "Darija: in Marokko op vakantie",
+              "bestand": "jaar-3/periode-12/d28.json"
+            },
+            {
+              "id": "j3-p12-h34",
+              "code": "H34",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-12/h34.json"
+            },
+            {
+              "id": "j3-p12-l137",
+              "code": "L137",
+              "type": "les",
+              "titel": "Lezen (teksten van 500+ woorden), luisteren, schrijven (betoog van 200 woorden), spreken",
+              "bestand": "jaar-3/periode-12/l137.json"
+            },
+            {
+              "id": "j3-p12-l138",
+              "code": "L138",
+              "type": "les",
+              "titel": "Lezen (teksten van 500+ woorden), luisteren, schrijven (betoog van 200 woorden), spreken",
+              "bestand": "jaar-3/periode-12/l138.json"
+            },
+            {
+              "id": "j3-p12-l139",
+              "code": "L139",
+              "type": "les",
+              "titel": "Lezen (teksten van 500+ woorden), luisteren, schrijven (betoog van 200 woorden), spreken",
+              "bestand": "jaar-3/periode-12/l139.json"
+            },
+            {
+              "id": "j3-p12-l140",
+              "code": "L140",
+              "type": "les",
+              "titel": "Lezen (teksten van 500+ woorden), luisteren, schrijven (betoog van 200 woorden), spreken",
+              "bestand": "jaar-3/periode-12/l140.json"
+            },
+            {
+              "id": "j3-p12-d29",
+              "code": "D29",
+              "type": "darija",
+              "titel": "Darija: eindopdracht",
+              "bestand": "jaar-3/periode-12/d29.json"
+            },
+            {
+              "id": "j3-p12-h35",
+              "code": "H35",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-12/h35.json"
+            },
+            {
+              "id": "j3-p12-l141",
+              "code": "L141",
+              "type": "les",
+              "titel": "Examentraining B1 per vaardigheid",
+              "bestand": "jaar-3/periode-12/l141.json"
+            },
+            {
+              "id": "j3-p12-l142",
+              "code": "L142",
+              "type": "les",
+              "titel": "Examentraining B1 per vaardigheid",
+              "bestand": "jaar-3/periode-12/l142.json"
+            },
+            {
+              "id": "j3-p12-l143",
+              "code": "L143",
+              "type": "les",
+              "titel": "Examentraining B1 per vaardigheid",
+              "bestand": "jaar-3/periode-12/l143.json"
+            },
+            {
+              "id": "j3-p12-l144",
+              "code": "L144",
+              "type": "les",
+              "titel": "Examentraining B1 per vaardigheid",
+              "bestand": "jaar-3/periode-12/l144.json"
+            },
+            {
+              "id": "j3-p12-d30",
+              "code": "D30",
+              "type": "darija",
+              "titel": "Darija: A2-afsluiting",
+              "bestand": "jaar-3/periode-12/d30.json"
+            },
+            {
+              "id": "j3-p12-h36",
+              "code": "H36",
+              "type": "herhaling",
+              "titel": "Herhaling",
+              "bestand": "jaar-3/periode-12/h36.json"
+            },
+            {
+              "id": "j3-p12-pt12",
+              "code": "PT12",
+              "type": "periodetoets",
+              "titel": "Periodetoets 12",
+              "bestand": "jaar-3/periode-12/pt12.json"
+            },
+            {
+              "id": "j3-p12-ne6",
+              "code": "NE6",
+              "type": "evaluatie",
+              "titel": "Niveau-evaluatie B1-eindexamen",
+              "niveau": "B1-eindexamen",
+              "bestand": "jaar-3/periode-12/ne6.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

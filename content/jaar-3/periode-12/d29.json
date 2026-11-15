@@ -1,0 +1,696 @@
+{
+  "id": "j3-p12-d29",
+  "code": "D29",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: eindopdracht",
+  "thema": "Vertel over jezelf: herkomst, familie, werk en dromen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "in het Darija over je eigen leven vertellen, in alle tijden.",
+    "over herkomst, familie en heimwee praten.",
+    "plannen en wensen uitspreken (بغيت نولي، نستقر)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-d29-w01",
+      "ar": "تزاديت ف",
+      "tr": "tzādīt f",
+      "nl": [
+        "ik ben geboren in"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w02",
+      "ar": "كبرت ف",
+      "tr": "kbərt f",
+      "nl": [
+        "ik ben opgegroeid in"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w03",
+      "ar": "من الصغر",
+      "tr": "mn ṣṣġəṛ",
+      "nl": [
+        "van jongs af aan"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w04",
+      "ar": "الوالدين",
+      "tr": "lwālidīn",
+      "nl": [
+        "de ouders"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w05",
+      "ar": "ولادي",
+      "tr": "wlādi",
+      "nl": [
+        "mijn kinderen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w06",
+      "ar": "تزوجت",
+      "tr": "tzəwwəjt",
+      "nl": [
+        "ik ben getrouwd"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w07",
+      "ar": "ولّى",
+      "tr": "wəlla",
+      "nl": [
+        "worden"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w08",
+      "ar": "بغيت نولي",
+      "tr": "bġīt nwəlli",
+      "nl": [
+        "ik wil … worden"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w09",
+      "ar": "الحلم ديالي",
+      "tr": "lḥulm dyāli",
+      "nl": [
+        "mijn droom"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w10",
+      "ar": "كنتوحش",
+      "tr": "kantwəḥḥəš",
+      "nl": [
+        "ik mis"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w11",
+      "ar": "الغربة",
+      "tr": "lġurba",
+      "nl": [
+        "het leven ver van huis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w12",
+      "ar": "عايش",
+      "tr": "ʿāyəš",
+      "nl": [
+        "levend, wonend"
+      ],
+      "soort": "deelwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w13",
+      "ar": "نستقر",
+      "tr": "nstəqəṛṛ",
+      "nl": [
+        "me vestigen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w14",
+      "ar": "راجع",
+      "tr": "ṛājəʿ",
+      "nl": [
+        "op weg terug"
+      ],
+      "soort": "deelwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d29-w15",
+      "ar": "الله يجيب الخير",
+      "tr": "ļļāh yjīb lxīr",
+      "nl": [
+        "moge God het goede brengen"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Eindopdracht: vertel over jezelf",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Dit is de afsluitende opdracht van het Darija-spoor. Vertel in het Darija over jezelf: waar je geboren en opgegroeid bent, je familie, wat je nu doet, wat je mist en wat je plannen zijn. Gebruik alle tijden die je kent: verleden ({ar|تزاديت، كبرت}), heden ({ar|كنقرا}), toekomst en wensen ({ar|غادي، بغيت نولي})."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderdeel",
+            "Darija",
+            "Fusha"
+          ],
+          "rijen": [
+            [
+              "geboren in",
+              "تزاديت ف|tzādīt f",
+              "وُلِدْتُ في"
+            ],
+            [
+              "opgegroeid in",
+              "كبرت ف|kbərt f",
+              "نَشَأْتُ في"
+            ],
+            [
+              "ik wil … worden",
+              "بغيت نولي|bġīt nwəlli",
+              "أُريدُ أَنْ أُصْبِحَ"
+            ],
+            [
+              "ik mis",
+              "كنتوحش|kantwəḥḥəš",
+              "أَشْتاقُ إِلى"
+            ],
+            [
+              "ooit",
+              "شي نهار|ši nhāṛ",
+              "يَوْمًا ما"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|تزاديت} komt van {ar|زاد} (*toenemen*): een kind *komt erbij* in de familie. Het Fusha gebruikt de lijdende vorm {ar|وُلِدْتُ}. Zulke verschillen laten zien dat Darija een eigen beeldspraak heeft, ook al zijn de wortels vaak Arabisch."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeldtekst: Sara vertelt",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سميتي سارة، تزاديت ف أوتريخت وكبرت تما.",
+              "tr": "smiyti sāṛa, tzādīt f-ūtrəxt w-kbərt təmma.",
+              "nl": "Ik heet Sara, ik ben geboren in Utrecht en daar opgegroeid.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الوالدين ديالي من الريف، وكنمشيو للبلاد كل صيف.",
+              "tr": "lwālidīn dyāli mn rrīf, w-kanmšīw l-lblād kull ṣīf.",
+              "nl": "Mijn ouders komen uit de Rif, en we gaan elke zomer naar Marokko.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "من الصغر كنهضر الدارجة مع جدتي.",
+              "tr": "mn ṣṣġəṛ kanhḍəṛ ddārija mʿa jəddti.",
+              "nl": "Van jongs af aan spreek ik Darija met mijn oma.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "دابا كنقرا العربية حيت بغيت نولي مترجمة.",
+              "tr": "dāba kanqṛa lʿarabiya ḥīt bġīt nwəlli mtərjma.",
+              "nl": "Nu studeer ik Arabisch, omdat ik vertaalster wil worden.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "كنتوحش البلاد بزاف ملي كنكون ف الغربة.",
+              "tr": "kantwəḥḥəš lblād bəzzāf mlli kankūn f-lġurba.",
+              "nl": "Ik mis Marokko erg als ik ver van huis ben.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "إن شاء الله نستقر ف المغرب شي نهار.",
+              "tr": "in šāʾ ļļāh nstəqəṛṛ f-lməġrib ši nhāṛ.",
+              "nl": "Als God het wil, vestig ik me ooit in Marokko.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-eindopdracht",
+          "paren": [
+            {
+              "ar": "الوالدين",
+              "nl": "ouders",
+              "woord": "j3-p12-d29-w04"
+            },
+            {
+              "ar": "ولادي",
+              "nl": "mijn kinderen",
+              "woord": "j3-p12-d29-w05"
+            },
+            {
+              "ar": "ولّى",
+              "nl": "worden",
+              "woord": "j3-p12-d29-w07"
+            },
+            {
+              "ar": "كنتوحش",
+              "nl": "ik mis",
+              "woord": "j3-p12-d29-w10"
+            },
+            {
+              "ar": "نستقر",
+              "nl": "me vestigen",
+              "woord": "j3-p12-d29-w13"
+            },
+            {
+              "ar": "من الصغر",
+              "nl": "van jongs af aan",
+              "woord": "j3-p12-d29-w03"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-eindopdracht",
+          "tekst": "تزاديت ف أوتريخت",
+          "vraag": "Wat vertelt Sara?",
+          "opties": [
+            "Ze is in Utrecht geboren.",
+            "Ze woont nu in Utrecht.",
+            "Ze gaat naar Utrecht."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تزاديت} (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Sara's verhaal",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-eindopdracht",
+          "vraag": "Waarom studeert Sara Arabisch?",
+          "opties": [
+            "Ze wil vertaalster worden.",
+            "Haar oma vraagt het.",
+            "Voor een reis."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بغيت نولي مترجمة}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|كبرت ف} is Fusha ...",
+          "opties": [
+            "نَشَأْتُ في",
+            "كَبِرْتُ عَلى",
+            "سَكَنْتُ مَعَ"
+          ],
+          "juist": 0,
+          "uitleg": "Opgegroeid."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-eindopdracht",
+          "zin": "___ البلاد بزاف.",
+          "nl": "Ik mis Marokko erg.",
+          "antwoord": [
+            "كنتوحش"
+          ],
+          "uitleg": "{ar|توحش}",
+          "woordbank": [
+            "كنتوحش",
+            "كنستقر",
+            "كنولي"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-eindopdracht",
+          "nl": "Ooit vestig ik me in Marokko.",
+          "woorden": [
+            "نستقر",
+            "ف",
+            "المغرب",
+            "شي",
+            "نهار."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-eindopdracht",
+          "bron": "mijn ouders (Darija)",
+          "antwoorden": [
+            "الوالدين ديالي",
+            "الوالدين"
+          ],
+          "uitleg": "{ar|الوالدين ديالي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-eindopdracht",
+          "bron": "من الصغر كنهضر الدارجة",
+          "antwoorden": [
+            "van jongs af aan spreek ik darija",
+            "sinds mijn jeugd spreek ik darija"
+          ],
+          "uitleg": "Darija.",
+          "tr": "mn ṣṣġəṛ kanhḍəṛ ddārija"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf spreken",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "spreken",
+          "tag": "darija-eindopdracht",
+          "opdracht": "Vertel in het Darija over jezelf: waar je geboren en opgegroeid bent, je familie, wat je nu doet, wat je mist en wat je plannen zijn.",
+          "model": [
+            {
+              "ar": "سميتي سارة، تزاديت ف أوتريخت وكبرت تما.",
+              "tr": "smiyti sāṛa, tzādīt f-ūtrəxt w-kbərt təmma.",
+              "nl": "Ik heet Sara, ik ben geboren in Utrecht en daar opgegroeid."
+            },
+            {
+              "ar": "الوالدين ديالي من الريف، وكنمشيو للبلاد كل صيف.",
+              "tr": "lwālidīn dyāli mn rrīf, w-kanmšīw l-lblād kull ṣīf.",
+              "nl": "Mijn ouders komen uit de Rif, en we gaan elke zomer naar Marokko."
+            },
+            {
+              "ar": "من الصغر كنهضر الدارجة مع جدتي.",
+              "tr": "mn ṣṣġəṛ kanhḍəṛ ddārija mʿa jəddti.",
+              "nl": "Van jongs af aan spreek ik Darija met mijn oma."
+            },
+            {
+              "ar": "دابا كنقرا العربية حيت بغيت نولي مترجمة.",
+              "tr": "dāba kanqṛa lʿarabiya ḥīt bġīt nwəlli mtərjma.",
+              "nl": "Nu studeer ik Arabisch, omdat ik vertaalster wil worden."
+            },
+            {
+              "ar": "كنتوحش البلاد بزاف ملي كنكون ف الغربة.",
+              "tr": "kantwəḥḥəš lblād bəzzāf mlli kankūn f-lġurba.",
+              "nl": "Ik mis Marokko erg als ik ver van huis ben."
+            },
+            {
+              "ar": "إن شاء الله نستقر ف المغرب شي نهار.",
+              "tr": "in šāʾ ļļāh nstəqəṛṛ f-lməġrib ši nhāṛ.",
+              "nl": "Als God het wil, vestig ik me ooit in Marokko."
+            }
+          ],
+          "checklist": [
+            "Herkomst: {ar|تزاديت ف … / كبرت ف …}.",
+            "Iets over je familie ({ar|الوالدين ديالي …}).",
+            "Het heden met {ar|كا-} / {ar|كن-}.",
+            "Een wens of plan ({ar|بغيت}، {ar|غادي}).",
+            "Een ontkenning met {ar|ما … ش}.",
+            "Je sprak zonder over te schakelen naar Fusha."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk wat je zei met het modelantwoord. Spreek het model daarna een keer hardop na, en probeer het dan opnieuw zonder te kijken.",
+          "woorden": [
+            "تزاديت ف",
+            "كبرت ف",
+            "دابا",
+            "كنتوحش",
+            "بغيت نولي"
+          ],
+          "review": {
+            "status": "onzeker",
+            "note": "Darija-modeltekst en checklist laten nakijken."
+          }
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-eindopdracht",
+        "paren": [
+          {
+            "ar": "تزوجت",
+            "nl": "ik ben getrouwd"
+          },
+          {
+            "ar": "الغربة",
+            "nl": "leven ver van huis"
+          },
+          {
+            "ar": "عايش",
+            "nl": "wonend"
+          },
+          {
+            "ar": "راجع",
+            "nl": "op weg terug"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|تزاديت ف} is Fusha ...",
+        "opties": [
+          "وُلِدْتُ في",
+          "زِدْتُ في",
+          "تَزَوَّجْتُ في"
+        ],
+        "juist": 0,
+        "uitleg": "Geboren."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-eindopdracht",
+        "vraag": "{ar|بغيت نولي طبيب} betekent ...",
+        "opties": [
+          "Ik wil arts worden.",
+          "Ik ben arts geweest.",
+          "Ik ga naar de arts."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ولّى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-eindopdracht",
+        "vraag": "{ar|الله يجيب الخير} zeg je ...",
+        "opties": [
+          "als je hoopt dat iets goed komt",
+          "als je iemand bedankt voor eten",
+          "bij een verjaardag"
+        ],
+        "juist": 0,
+        "uitleg": "Wens."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-eindopdracht",
+        "tekst": "الوالدين ديالي من الريف",
+        "vraag": "Waar komen de ouders vandaan?",
+        "opties": [
+          "uit de Rif",
+          "uit Casablanca",
+          "uit Nederland"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الريف}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-eindopdracht",
+        "tekst": "كنتوحش جدتي بزاف",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Ik mis mijn oma erg.",
+          "Ik bel mijn oma.",
+          "Mijn oma woont bij mij."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كنتوحش}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-eindopdracht",
+        "zin": "___ ف روتردام ولكن تزاديت ف طنجة.",
+        "nl": "Ik ben opgegroeid in Rotterdam, maar geboren in Tanger.",
+        "antwoord": [
+          "كبرت"
+        ],
+        "uitleg": "{ar|كبرت}",
+        "woordbank": [
+          "كبرت",
+          "تزوجت",
+          "نستقر"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-eindopdracht",
+        "zin": "عندي جوج ___.",
+        "nl": "Ik heb twee kinderen.",
+        "antwoord": [
+          "ولاد"
+        ],
+        "uitleg": "{ar|ولاد}",
+        "woordbank": [
+          "ولاد",
+          "والدين",
+          "غربة"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-eindopdracht",
+        "nl": "Ik wil vertaalster worden.",
+        "woorden": [
+          "بغيت",
+          "نولي",
+          "مترجمة."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-eindopdracht",
+        "bron": "ik mis (Darija)",
+        "antwoorden": [
+          "كنتوحش"
+        ],
+        "uitleg": "{ar|كنتوحش}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-eindopdracht",
+        "bron": "van jongs af aan (Darija)",
+        "antwoorden": [
+          "من الصغر"
+        ],
+        "uitleg": "{ar|من الصغر}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-eindopdracht",
+        "bron": "تزاديت ف أمستردام",
+        "antwoorden": [
+          "ik ben in amsterdam geboren"
+        ],
+        "uitleg": "Darija.",
+        "tr": "tzādīt f-amstərdām"
+      }
+    ]
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "id": "j2-p7-l76",
+  "code": "L76",
+  "type": "les",
+  "titel": "Mensen beschrijven",
+  "thema": "Karakter en uiterlijk; de betrekkelijke bijzin",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de betrekkelijke voornaamwoorden gebruiken: الَّذي، الَّتي، اللَّذانِ، اللَّتانِ، الَّذينَ، اللَّواتي.",
+    "het terugverwijzend voornaamwoord (ʿāʾid) correct invoegen.",
+    "iemands karakter en uiterlijk beschrijven."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l76-w01",
+      "ar": "الَّذي",
+      "tr": "allaḏī",
+      "nl": [
+        "die",
+        "dat (m ev)"
+      ],
+      "soort": "betrekkelijk voornaamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w02",
+      "ar": "الَّتي",
+      "tr": "allatī",
+      "nl": [
+        "die",
+        "dat (v ev)"
+      ],
+      "soort": "betrekkelijk voornaamwoord",
+      "notitie": "Ook voor niet-menselijke meervouden: {ar|الكُتُبُ الَّتي}."
+    },
+    {
+      "id": "j2-p7-l76-w03",
+      "ar": "الَّذينَ",
+      "tr": "allaḏīna",
+      "nl": [
+        "die (m mv, personen)"
+      ],
+      "soort": "betrekkelijk voornaamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w04",
+      "ar": "اللَّواتي",
+      "tr": "allawātī",
+      "nl": [
+        "die (v mv, personen)"
+      ],
+      "soort": "betrekkelijk voornaamwoord",
+      "notitie": "Ook {ar|اللّاتي}."
+    },
+    {
+      "id": "j2-p7-l76-w05",
+      "ar": "شَخْصِيَّةٌ",
+      "tr": "šaḫṣiyya",
+      "nl": [
+        "persoonlijkheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w06",
+      "ar": "صِفَةٌ",
+      "tr": "ṣifa",
+      "nl": [
+        "eigenschap"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|صِفاتٌ}."
+    },
+    {
+      "id": "j2-p7-l76-w08",
+      "ar": "صَبورٌ",
+      "tr": "ṣabūr",
+      "nl": [
+        "geduldig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w09",
+      "ar": "أَنانِيٌّ",
+      "tr": "anāniyy",
+      "nl": [
+        "egoïstisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w10",
+      "ar": "مُتَواضِعٌ",
+      "tr": "mutawāḍiʿ",
+      "nl": [
+        "bescheiden"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w11",
+      "ar": "صادِقٌ",
+      "tr": "ṣādiq",
+      "nl": [
+        "eerlijk",
+        "oprecht"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w12",
+      "ar": "مَرِحٌ",
+      "tr": "mariḥ",
+      "nl": [
+        "vrolijk"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w13",
+      "ar": "جادٌّ",
+      "tr": "jādd",
+      "nl": [
+        "serieus"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w14",
+      "ar": "عَصَبِيٌّ",
+      "tr": "ʿaṣabiyy",
+      "nl": [
+        "opvliegend",
+        "nerveus"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w15",
+      "ar": "مَظْهَرٌ",
+      "tr": "maẓhar",
+      "nl": [
+        "uiterlijk"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w16",
+      "ar": "لِحْيَةٌ",
+      "tr": "liḥya",
+      "nl": [
+        "baard"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l76-w17",
+      "ar": "نَظّاراتٌ",
+      "tr": "naẓẓārāt",
+      "nl": [
+        "bril"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p7-l76-w18",
+      "ar": "ذَكاءٌ",
+      "tr": "ḏakāʾ",
+      "nl": [
+        "intelligentie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De betrekkelijke voornaamwoorden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Mannelijk",
+            "Vrouwelijk"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "enkelvoud",
+              "الَّذي",
+              "الَّتي"
+            ],
+            [
+              "dualis (nom.)",
+              "اللَّذانِ",
+              "اللَّتانِ"
+            ],
+            [
+              "dualis (acc./gen.)",
+              "اللَّذَيْنِ",
+              "اللَّتَيْنِ"
+            ],
+            [
+              "meervoud (personen)",
+              "الَّذينَ",
+              "اللَّواتي / اللّاتي"
+            ]
+          ]
+        },
+        {
+          "type": "tekst",
+          "md": "Je gebruikt deze woorden alleen na een **bepaald** woord: {ar|الرَّجُلُ الَّذي …} (de man die …). Ze volgen het geslacht en getal van dat woord. Niet-menselijke meervouden krijgen {ar|الَّتي}."
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom een **terugverwijzend voornaamwoord** ({ar|عائِدٌ})? In het Arabisch is de bijzin een volledige zin die naar het hoofdwoord terugwijst: {ar|الرَّجُلُ الَّذي رَأَيْتُهُ} = *de man die ik zag-hem*. In het Nederlands laat je dat *hem* weg; in het Arabisch is het verplicht, behalve als het hoofdwoord zelf het onderwerp van de bijzin is ({ar|الرَّجُلُ الَّذي يَسْكُنُ هُنا})."
+        }
+      ]
+    },
+    {
+      "titel": "Met en zonder ʿāʾid",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "الرَّجُلُ الَّذي يَسْكُنُ بِجانِبِنا طَبيبٌ.",
+              "tr": "ar-rajulu llaḏī yaskunu bi-jānibinā ṭabīb.",
+              "nl": "De man die naast ons woont is arts."
+            },
+            {
+              "ar": "المَرْأَةُ الَّتي قابَلْتُها أَمْسِ لَطيفَةٌ جِدًّا.",
+              "tr": "al-marʾatu llatī qābaltuhā amsi laṭīfatun jiddan.",
+              "nl": "De vrouw die ik gisteren ontmoette is erg aardig."
+            },
+            {
+              "ar": "الطُّلّابُ الَّذينَ نَجَحوا سَعَداءُ.",
+              "tr": "aṭ-ṭullābu llaḏīna najaḥū suʿadāʾ.",
+              "nl": "De studenten die geslaagd zijn, zijn blij."
+            },
+            {
+              "ar": "هٰذا هُوَ الكِتابُ الَّذي حَدَّثْتُكَ عَنْهُ.",
+              "tr": "hāḏā huwa l-kitābu llaḏī ḥaddaṯtuka ʿanh.",
+              "nl": "Dit is het boek waarover ik je vertelde."
+            },
+            {
+              "ar": "أُحِبُّ النّاسَ الَّذينَ يَضْحَكونَ كَثيرًا.",
+              "tr": "uḥibbu n-nāsa llaḏīna yaḍḥakūna kaṯīran.",
+              "nl": "Ik houd van mensen die veel lachen."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "In {ar|الكِتابُ الَّذي حَدَّثْتُكَ عَنْهُ} hangt de ʿāʾid aan het voorzetsel: {ar|عَنْهُ} (*waarover*, letterlijk *over hem*). Zo vertaal je *waarin*, *waarmee*, *met wie* …"
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "كَريمٌ",
+              "nl": "vrijgevig"
+            },
+            {
+              "ar": "صَبورٌ",
+              "nl": "geduldig",
+              "woord": "j2-p7-l76-w08"
+            },
+            {
+              "ar": "أَنانِيٌّ",
+              "nl": "egoïstisch",
+              "woord": "j2-p7-l76-w09"
+            },
+            {
+              "ar": "مُتَواضِعٌ",
+              "nl": "bescheiden",
+              "woord": "j2-p7-l76-w10"
+            },
+            {
+              "ar": "صادِقٌ",
+              "nl": "eerlijk",
+              "woord": "j2-p7-l76-w11"
+            },
+            {
+              "ar": "مَرِحٌ",
+              "nl": "vrolijk",
+              "woord": "j2-p7-l76-w12"
+            }
+          ],
+          "uitleg": "Karaktereigenschappen."
+        },
+        {
+          "type": "luisteren",
+          "tag": "betrekkelijke-bijzin",
+          "tekst": "المَرْأَةُ الَّتي تَعْمَلُ هُنا طَبيبَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De vrouw die hier werkt is arts.",
+            "De vrouw werkt niet hier.",
+            "De arts werkt hier niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|الَّتي} = die (v)."
+        }
+      ]
+    },
+    {
+      "titel": "Betrekkelijke voornaamwoorden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "betrekkelijke-bijzin",
+          "zin": "الطّالِبَةُ ___ نَجَحَتْ أُخْتي.",
+          "nl": "De studente die geslaagd is, is mijn zus.",
+          "woordbank": [
+            "الَّتي",
+            "الَّذي",
+            "الَّذينَ"
+          ],
+          "antwoord": [
+            "الَّتي"
+          ],
+          "uitleg": "Vrouwelijk enkelvoud."
+        },
+        {
+          "type": "invullen",
+          "tag": "betrekkelijke-bijzin",
+          "zin": "الكُتُبُ ___ اِشْتَرَيْتُها غالِيَةٌ.",
+          "nl": "De boeken die ik kocht zijn duur.",
+          "woordbank": [
+            "الَّتي",
+            "الَّذينَ",
+            "الَّذي"
+          ],
+          "antwoord": [
+            "الَّتي"
+          ],
+          "uitleg": "Niet-menselijk meervoud → الَّتي."
+        },
+        {
+          "type": "invullen",
+          "tag": "betrekkelijke-bijzin",
+          "zin": "المُهَنْدِسونَ ___ يَعْمَلونَ هُنا مِنْ مِصْرَ.",
+          "nl": "De ingenieurs die hier werken komen uit Egypte.",
+          "woordbank": [
+            "الَّذينَ",
+            "الَّذي",
+            "اللَّواتي"
+          ],
+          "antwoord": [
+            "الَّذينَ"
+          ],
+          "uitleg": "Mannelijk meervoud, personen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "betrekkelijke-bijzin",
+          "vraag": "'De man die ik zag' is ...",
+          "opties": [
+            "الرَّجُلُ الَّذي رَأَيْتُهُ",
+            "الرَّجُلُ الَّذي رَأَيْتُ",
+            "رَجُلٌ الَّذي رَأَيْتُهُ"
+          ],
+          "juist": 0,
+          "uitleg": "Met ʿāʾid ـهُ, na een bepaald woord."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "betrekkelijke-bijzin",
+          "vraag": "Welk woord ontbreekt? {ar|البَيْتُ الَّذي أَسْكُنُ ___ قَديمٌ}",
+          "opties": [
+            "فيهِ",
+            "هُ",
+            "مِنْهُ"
+          ],
+          "juist": 0,
+          "uitleg": "*waarin* = {ar|فيهِ}."
+        }
+      ]
+    },
+    {
+      "titel": "Beschrijven",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "betrekkelijke-bijzin",
+          "nl": "De man die naast ons woont is arts.",
+          "woorden": [
+            "الرَّجُلُ",
+            "الَّذي",
+            "يَسْكُنُ",
+            "بِجانِبِنا",
+            "طَبيبٌ."
+          ],
+          "uitleg": "Geen ʿāʾid: de man is onderwerp van de bijzin."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "أَبي رَجُلٌ صَبورٌ وَمُتَواضِعٌ",
+          "vraag": "Hoe is de vader?",
+          "opties": [
+            "geduldig en bescheiden",
+            "opvliegend en egoïstisch",
+            "serieus en streng"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|صَبورٌ} · {ar|مُتَواضِعٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "betrekkelijke-bijzin",
+          "bron": "de vrouw die hier woont",
+          "antwoorden": [
+            "المَرْأَةُ الَّتي تَسْكُنُ هُنا"
+          ],
+          "uitleg": "{ar|الَّتي} + muḍāriʿ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "betrekkelijke-bijzin",
+          "bron": "هٰذا هُوَ الكِتابُ الَّذي حَدَّثْتُكَ عَنْهُ.",
+          "antwoorden": [
+            "dit is het boek waarover ik je vertelde",
+            "dit is het boek waar ik je over vertelde",
+            "dat is het boek waarover ik je vertelde"
+          ],
+          "uitleg": "ʿāʾid aan voorzetsel."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "شَخْصِيَّةٌ",
+            "nl": "persoonlijkheid"
+          },
+          {
+            "ar": "مَظْهَرٌ",
+            "nl": "uiterlijk"
+          },
+          {
+            "ar": "لِحْيَةٌ",
+            "nl": "baard"
+          },
+          {
+            "ar": "نَظّاراتٌ",
+            "nl": "bril"
+          },
+          {
+            "ar": "جادٌّ",
+            "nl": "serieus"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "'De twee jongens die …' (onderwerp) is ...",
+        "opties": [
+          "الوَلَدانِ اللَّذانِ",
+          "الوَلَدانِ الَّذينَ",
+          "الوَلَدانِ اللَّذَيْنِ"
+        ],
+        "juist": 0,
+        "uitleg": "Dualis nominatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "'De vrouwen die …' is ...",
+        "opties": [
+          "النِّساءُ اللَّواتي",
+          "النِّساءُ الَّتي",
+          "النِّساءُ الَّذينَ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk meervoud, personen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "Wanneer gebruik je GEEN الَّذي?",
+        "opties": [
+          "na een onbepaald woord",
+          "na een bepaald woord",
+          "na een eigennaam"
+        ],
+        "juist": 0,
+        "uitleg": "Les 77: {ar|رَجُلٌ يَسْكُنُ هُنا}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "'De stad waarin ik woon' is ...",
+        "opties": [
+          "المَدينَةُ الَّتي أَسْكُنُ فيها",
+          "المَدينَةُ الَّتي أَسْكُنُ",
+          "المَدينَةُ الَّذي أَسْكُنُ فيهِ"
+        ],
+        "juist": 0,
+        "uitleg": "ʿāʾid {ar|فيها} (v)."
+      },
+      {
+        "type": "luisteren",
+        "tag": "betrekkelijke-bijzin",
+        "tekst": "أُحِبُّ النّاسَ الَّذينَ يَضْحَكونَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik houd van mensen die lachen.",
+          "De mensen lachen om mij.",
+          "Ik lach om mensen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الَّذينَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "هِيَ امْرَأَةٌ ذَكِيَّةٌ وَمَرِحَةٌ",
+        "vraag": "Hoe is de vrouw?",
+        "opties": [
+          "slim en vrolijk",
+          "serieus en stil",
+          "egoïstisch"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ذَكِيَّةٌ} · {ar|مَرِحَةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "betrekkelijke-bijzin",
+        "zin": "الرَّجُلُ الَّذي قابَلْتُ___ أُسْتاذي.",
+        "nl": "De man die ik ontmoette is mijn leraar.",
+        "woordbank": [
+          "هُ",
+          "ها",
+          "هُمْ"
+        ],
+        "antwoord": [
+          "هُ",
+          "ه"
+        ],
+        "uitleg": "ʿāʾid: mannelijk."
+      },
+      {
+        "type": "invullen",
+        "tag": "betrekkelijke-bijzin",
+        "zin": "السَّيّارَةُ ___ اِشْتَراها أَبي جَديدَةٌ.",
+        "nl": "De auto die mijn vader kocht is nieuw.",
+        "woordbank": [
+          "الَّتي",
+          "الَّذي",
+          "الَّذينَ"
+        ],
+        "antwoord": [
+          "الَّتي"
+        ],
+        "uitleg": "Vrouwelijk."
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "هُوَ رَجُلٌ ___، يُساعِدُ الجَميعَ.",
+        "nl": "Hij is een vrijgevige man, hij helpt iedereen.",
+        "woordbank": [
+          "كَريمٌ",
+          "أَنانِيٌّ",
+          "عَصَبِيٌّ"
+        ],
+        "antwoord": [
+          "كَريمٌ"
+        ],
+        "uitleg": "{ar|كَريمٌ} = vrijgevig."
+      },
+      {
+        "type": "ordenen",
+        "tag": "betrekkelijke-bijzin",
+        "nl": "De studenten die geslaagd zijn, zijn blij.",
+        "woorden": [
+          "الطُّلّابُ",
+          "الَّذينَ",
+          "نَجَحوا",
+          "سُعَداءُ."
+        ],
+        "uitleg": "{ar|الَّذينَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "betrekkelijke-bijzin",
+        "bron": "het boek dat ik las",
+        "antwoorden": [
+          "الكِتابُ الَّذي قَرَأْتُهُ"
+        ],
+        "uitleg": "Met ʿāʾid ـهُ."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "betrekkelijke-bijzin",
+        "bron": "المَرْأَةُ الَّتي قابَلْتُها لَطيفَةٌ.",
+        "antwoorden": [
+          "de vrouw die ik ontmoette is aardig",
+          "de vrouw die ik heb ontmoet is aardig"
+        ],
+        "uitleg": "{ar|الَّتي} + ʿāʾid ـها."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "مِنْ صِفاتِهِ الصَّبْرُ.",
+        "antwoorden": [
+          "een van zijn eigenschappen is geduld",
+          "geduld is een van zijn eigenschappen"
+        ],
+        "uitleg": "{ar|صِفاتٌ} = eigenschappen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "id": "j2-p7-l75",
+  "code": "L75",
+  "type": "les",
+  "titel": "Geopend en gesloten",
+  "thema": "Bordjes, regels en toestanden; het passief deelwoord",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het passief deelwoord vormen: مَفْعول (vorm I) en مُفْعَل / مُفَعَّل … (afgeleide vormen).",
+    "bordjes en mededelingen begrijpen (مَفْتوحٌ، مَمْنوعٌ، مَحْجوزٌ).",
+    "de maṣdar als zelfstandig naamwoord gebruiken in mededelingen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l75-w01",
+      "ar": "مُغْلَقٌ",
+      "tr": "muġlaq",
+      "nl": [
+        "gesloten"
+      ],
+      "soort": "passief deelwoord (IV)"
+    },
+    {
+      "id": "j2-p7-l75-w02",
+      "ar": "مَكْسورٌ",
+      "tr": "maksūr",
+      "nl": [
+        "gebroken",
+        "kapot"
+      ],
+      "soort": "passief deelwoord"
+    },
+    {
+      "id": "j2-p7-l75-w03",
+      "ar": "مَحْجوزٌ",
+      "tr": "maḥjūz",
+      "nl": [
+        "gereserveerd",
+        "bezet"
+      ],
+      "soort": "passief deelwoord"
+    },
+    {
+      "id": "j2-p7-l75-w04",
+      "ar": "مَسْموحٌ بِـ",
+      "tr": "masmūḥun bi-",
+      "nl": [
+        "toegestaan"
+      ],
+      "soort": "passief deelwoord",
+      "notitie": "{ar|غَيْرُ مَسْموحٍ} = niet toegestaan."
+    },
+    {
+      "id": "j2-p7-l75-w05",
+      "ar": "مَطْلوبٌ",
+      "tr": "maṭlūb",
+      "nl": [
+        "gevraagd",
+        "vereist"
+      ],
+      "soort": "passief deelwoord",
+      "notitie": "{ar|مَطْلوبٌ مُوَظَّفٌ} = medewerker gezocht."
+    },
+    {
+      "id": "j2-p7-l75-w06",
+      "ar": "مَوْجودٌ",
+      "tr": "mawjūd",
+      "nl": [
+        "aanwezig",
+        "beschikbaar"
+      ],
+      "soort": "passief deelwoord"
+    },
+    {
+      "id": "j2-p7-l75-w07",
+      "ar": "مَصْنوعٌ مِنْ",
+      "tr": "maṣnūʿun min",
+      "nl": [
+        "gemaakt van"
+      ],
+      "soort": "passief deelwoord"
+    },
+    {
+      "id": "j2-p7-l75-w08",
+      "ar": "مَدْفوعٌ",
+      "tr": "madfūʿ",
+      "nl": [
+        "betaald"
+      ],
+      "soort": "passief deelwoord"
+    },
+    {
+      "id": "j2-p7-l75-w09",
+      "ar": "مُسْتَعْمَلٌ",
+      "tr": "mustaʿmal",
+      "nl": [
+        "gebruikt",
+        "tweedehands"
+      ],
+      "soort": "passief deelwoord (X)"
+    },
+    {
+      "id": "j2-p7-l75-w10",
+      "ar": "مُرَتَّبٌ",
+      "tr": "murattab",
+      "nl": [
+        "opgeruimd",
+        "geordend"
+      ],
+      "soort": "passief deelwoord (II)"
+    },
+    {
+      "id": "j2-p7-l75-w11",
+      "ar": "مُؤَجَّلٌ",
+      "tr": "muʾajjal",
+      "nl": [
+        "uitgesteld"
+      ],
+      "soort": "passief deelwoord (II)"
+    },
+    {
+      "id": "j2-p7-l75-w12",
+      "ar": "مُلْغًى",
+      "tr": "mulġan",
+      "nl": [
+        "geannuleerd"
+      ],
+      "soort": "passief deelwoord (IV)",
+      "notitie": "Defectief; met lidwoord {ar|المُلْغى}."
+    },
+    {
+      "id": "j2-p7-l75-w13",
+      "ar": "الدُّخولُ",
+      "tr": "ad-duḫūl",
+      "nl": [
+        "de ingang",
+        "het binnengaan"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j2-p7-l75-w14",
+      "ar": "الخُروجُ",
+      "tr": "al-ḫurūj",
+      "nl": [
+        "de uitgang",
+        "het naar buiten gaan"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j2-p7-l75-w16",
+      "ar": "لافِتَةٌ",
+      "tr": "lāfita",
+      "nl": [
+        "bord",
+        "bordje"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l75-w17",
+      "ar": "مَجّانًا",
+      "tr": "majjānan",
+      "nl": [
+        "gratis"
+      ],
+      "soort": "bijwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het passief deelwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm I: **مَفْعول** ({ar|كَتَبَ} → {ar|مَكْتوبٌ}, geschreven). Afgeleide vormen: zoals het actief deelwoord, maar met **a** voor de laatste letter ({ar|مُسْتَخْدِمٌ} gebruiker ↔ {ar|مُسْتَخْدَمٌ} gebruikt).",
+            "Het passief deelwoord beschrijft het **resultaat** van een handeling: iets is geschreven, gesloten, gereserveerd."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Actief (wie doet)",
+            "Passief (wat gedaan is)"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "I",
+              "كاتِبٌ",
+              "مَكْتوبٌ"
+            ],
+            [
+              "II",
+              "مُرَتِّبٌ",
+              "مُرَتَّبٌ"
+            ],
+            [
+              "IV",
+              "مُغْلِقٌ",
+              "مُغْلَقٌ"
+            ],
+            [
+              "VIII",
+              "مُنْتَظِرٌ",
+              "مُنْتَظَرٌ"
+            ],
+            [
+              "X",
+              "مُسْتَعْمِلٌ",
+              "مُسْتَعْمَلٌ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij afgeleide vormen verschilt actief en passief maar in **één klinker**: *i* (actief) of *a* (passief) vóór de laatste letter. Zonder harakat zien {ar|مستعمل} (gebruiker) en {ar|مستعمل} (gebruikt) er hetzelfde uit; de context beslist. Dat is een van de redenen waarom je harakat leert lezen."
+        },
+        {
+          "type": "letop",
+          "md": "Bordjes gebruiken vaak een **maṣdar** of **passief deelwoord** zonder werkwoord: {ar|الدُّخولُ مَجّانًا} (toegang gratis), {ar|التَّدْخينُ مَمْنوعٌ} (roken verboden), {ar|مُغْلَقٌ} (gesloten)."
+        }
+      ]
+    },
+    {
+      "titel": "Bordjes",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "المُتْحَفُ مُغْلَقٌ يَوْمَ الاِثْنَيْنِ.",
+              "tr": "al-mutḥafu muġlaqun yawma l-iṯnayn.",
+              "nl": "Het museum is op maandag gesloten."
+            },
+            {
+              "ar": "التَّصْويرُ غَيْرُ مَسْموحٍ.",
+              "tr": "at-taṣwīru ġayru masmūḥ.",
+              "nl": "Fotograferen niet toegestaan."
+            },
+            {
+              "ar": "هٰذِهِ الطّاوِلَةُ مَحْجوزَةٌ.",
+              "tr": "hāḏihi ṭ-ṭāwilatu maḥjūza.",
+              "nl": "Deze tafel is gereserveerd."
+            },
+            {
+              "ar": "الرِّحْلَةُ مُلْغاةٌ بِسَبَبِ الطَّقْسِ.",
+              "tr": "ar-riḥlatu mulġātun bi-sababi ṭ-ṭaqs.",
+              "nl": "De vlucht is geannuleerd vanwege het weer."
+            },
+            {
+              "ar": "مَطْلوبٌ: سائِقٌ ذو خِبْرَةٍ.",
+              "tr": "maṭlūbun: sāʾiqun ḏū ḫibra.",
+              "nl": "Gezocht: chauffeur met ervaring."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "passief-deelwoord",
+          "paren": [
+            {
+              "ar": "مُغْلَقٌ",
+              "nl": "gesloten",
+              "woord": "j2-p7-l75-w01"
+            },
+            {
+              "ar": "مَكْسورٌ",
+              "nl": "kapot",
+              "woord": "j2-p7-l75-w02"
+            },
+            {
+              "ar": "مَحْجوزٌ",
+              "nl": "gereserveerd",
+              "woord": "j2-p7-l75-w03"
+            },
+            {
+              "ar": "مَسْموحٌ بِـ",
+              "nl": "toegestaan",
+              "woord": "j2-p7-l75-w04"
+            },
+            {
+              "ar": "مُؤَجَّلٌ",
+              "nl": "uitgesteld",
+              "woord": "j2-p7-l75-w11"
+            },
+            {
+              "ar": "مُلْغًى",
+              "nl": "geannuleerd",
+              "woord": "j2-p7-l75-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "passief-deelwoord",
+          "tekst": "المَحَلُّ مُغْلَقٌ اليَوْمَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De winkel is vandaag gesloten.",
+            "De winkel is vandaag open.",
+            "De winkel is nieuw."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُغْلَقٌ}"
+        }
+      ]
+    },
+    {
+      "titel": "Actief of passief",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "passief-deelwoord",
+          "instructie": "Maak het passief deelwoord.",
+          "rijen": [
+            {
+              "label": "كَسَرَ",
+              "antwoord": "مَكْسورٌ",
+              "tr": "maksūr"
+            },
+            {
+              "label": "طَلَبَ",
+              "antwoord": "مَطْلوبٌ",
+              "tr": "maṭlūb"
+            },
+            {
+              "label": "رَتَّبَ (II)",
+              "antwoord": "مُرَتَّبٌ",
+              "tr": "murattab"
+            }
+          ],
+          "uitleg": "مَفْعول · مُفَعَّل"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "passief-deelwoord",
+          "vraag": "Wat betekent {ar|مُسْتَعْمَلٌ}?",
+          "opties": [
+            "gebruikt, tweedehands",
+            "gebruiker",
+            "het gebruik"
+          ],
+          "juist": 0,
+          "uitleg": "a voor de laatste letter = passief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "passief-deelwoord",
+          "vraag": "'Een gebroken raam' is ...",
+          "opties": [
+            "نافِذَةٌ مَكْسورَةٌ",
+            "نافِذَةٌ كاسِرَةٌ",
+            "نافِذَةٌ مَكْسورٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Passief, vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "passief-deelwoord",
+          "zin": "هٰذِهِ الطّاوِلَةُ ___.",
+          "nl": "Deze tafel is gereserveerd.",
+          "woordbank": [
+            "مَحْجوزَةٌ",
+            "حاجِزَةٌ",
+            "مَحْجوزٌ"
+          ],
+          "antwoord": [
+            "مَحْجوزَةٌ"
+          ],
+          "uitleg": "Passief, vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "passief-deelwoord",
+          "zin": "التَّدْخينُ ___ هُنا.",
+          "nl": "Roken is hier verboden.",
+          "woordbank": [
+            "مَمْنوعٌ",
+            "مانِعٌ",
+            "مَنَعَ"
+          ],
+          "antwoord": [
+            "مَمْنوعٌ"
+          ],
+          "uitleg": "Passief deelwoord van {ar|مَنَعَ}."
+        }
+      ]
+    },
+    {
+      "titel": "Mededelingen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "passief-deelwoord",
+          "nl": "De vlucht is geannuleerd vanwege het weer.",
+          "woorden": [
+            "الرِّحْلَةُ",
+            "مُلْغاةٌ",
+            "بِسَبَبِ",
+            "الطَّقْسِ."
+          ],
+          "uitleg": "{ar|بِسَبَبِ} = vanwege."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "الدُّخولُ مَجّانًا",
+          "vraag": "Wat staat er op het bord?",
+          "opties": [
+            "Toegang gratis.",
+            "Geen toegang.",
+            "Uitgang."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَجّانًا} = gratis."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "passief-deelwoord",
+          "bron": "gesloten",
+          "antwoorden": [
+            "مُغْلَقٌ",
+            "مُغْلَق"
+          ],
+          "uitleg": "{ar|مُغْلَقٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "passief-deelwoord",
+          "bron": "هٰذا الكُرْسِيُّ مَصْنوعٌ مِنَ الخَشَبِ.",
+          "antwoorden": [
+            "deze stoel is van hout gemaakt",
+            "deze stoel is gemaakt van hout"
+          ],
+          "uitleg": "{ar|مَصْنوعٌ مِنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَطْلوبٌ",
+            "nl": "gevraagd"
+          },
+          {
+            "ar": "مَوْجودٌ",
+            "nl": "aanwezig"
+          },
+          {
+            "ar": "مَدْفوعٌ",
+            "nl": "betaald"
+          },
+          {
+            "ar": "لافِتَةٌ",
+            "nl": "bord"
+          },
+          {
+            "ar": "الخُروجُ",
+            "nl": "de uitgang"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "Het passief deelwoord van {ar|فَتَحَ} is ...",
+        "opties": [
+          "مَفْتوحٌ",
+          "فاتِحٌ",
+          "مِفْتاحٌ"
+        ],
+        "juist": 0,
+        "uitleg": "مَفْعول"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "Welk woord is passief?",
+        "opties": [
+          "مُنْتَظَرٌ",
+          "مُنْتَظِرٌ",
+          "اِنْتِظارٌ"
+        ],
+        "juist": 0,
+        "uitleg": "a voor de laatste letter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "'De rekening is betaald' is ...",
+        "opties": [
+          "الفاتورَةُ مَدْفوعَةٌ.",
+          "الفاتورَةُ دافِعَةٌ.",
+          "الفاتورَةُ مَدْفوعٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Passief, vrouwelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "Wat staat er waarschijnlijk op een deur van een kantoor dat dicht is?",
+        "opties": [
+          "مُغْلَقٌ",
+          "مَطْلوبٌ",
+          "مَدْفوعٌ"
+        ],
+        "juist": 0,
+        "uitleg": "gesloten"
+      },
+      {
+        "type": "luisteren",
+        "tag": "passief-deelwoord",
+        "tekst": "الاِجْتِماعُ مُؤَجَّلٌ إِلى الغَدِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De vergadering is uitgesteld tot morgen.",
+          "De vergadering is afgelopen.",
+          "De vergadering begint nu."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُؤَجَّلٌ} = uitgesteld."
+      },
+      {
+        "type": "luisteren",
+        "tag": "passief-deelwoord",
+        "tekst": "التَّصْويرُ غَيْرُ مَسْموحٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Fotograferen is niet toegestaan.",
+          "Fotograferen is gratis.",
+          "Hier mag je fotograferen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غَيْرُ مَسْموحٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "passief-deelwoord",
+        "zin": "الهاتِفُ ___، لا يَعْمَلُ.",
+        "nl": "De telefoon is kapot, hij werkt niet.",
+        "woordbank": [
+          "مَكْسورٌ",
+          "كاسِرٌ",
+          "مَكْسورَةٌ"
+        ],
+        "antwoord": [
+          "مَكْسورٌ"
+        ],
+        "uitleg": "Passief, mannelijk."
+      },
+      {
+        "type": "invullen",
+        "tag": "passief-deelwoord",
+        "zin": "اِشْتَرَيْتُ سَيّارَةً ___.",
+        "nl": "Ik heb een tweedehands auto gekocht.",
+        "woordbank": [
+          "مُسْتَعْمَلَةً",
+          "مُسْتَعْمِلَةً",
+          "اِسْتِعْمالًا"
+        ],
+        "antwoord": [
+          "مُسْتَعْمَلَةً"
+        ],
+        "uitleg": "Passief (a), vrouwelijk, accusatief.",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "passief-deelwoord",
+        "instructie": "Maak het passief deelwoord.",
+        "rijen": [
+          {
+            "label": "دَفَعَ",
+            "antwoord": "مَدْفوعٌ",
+            "tr": "madfūʿ"
+          },
+          {
+            "label": "أَغْلَقَ (IV)",
+            "antwoord": "مُغْلَقٌ",
+            "tr": "muġlaq"
+          }
+        ],
+        "uitleg": "مَفْعول · مُفْعَل"
+      },
+      {
+        "type": "ordenen",
+        "tag": "passief-deelwoord",
+        "nl": "Deze tafel is gereserveerd.",
+        "woorden": [
+          "هٰذِهِ",
+          "الطّاوِلَةُ",
+          "مَحْجوزَةٌ."
+        ],
+        "uitleg": "Passief deelwoord als gezegde."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "passief-deelwoord",
+        "bron": "verboden",
+        "antwoorden": [
+          "مَمْنوعٌ",
+          "مَمْنوع"
+        ],
+        "uitleg": "{ar|مَمْنوعٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "passief-deelwoord",
+        "bron": "مَطْلوبٌ مُوَظَّفٌ.",
+        "antwoorden": [
+          "medewerker gezocht",
+          "gezocht medewerker",
+          "werknemer gezocht"
+        ],
+        "uitleg": "{ar|مَطْلوبٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "passief-deelwoord",
+        "bron": "الدُّخولُ مَجّانًا لِلْأَطْفالِ.",
+        "antwoorden": [
+          "toegang is gratis voor kinderen",
+          "gratis toegang voor kinderen",
+          "de toegang is gratis voor kinderen"
+        ],
+        "uitleg": "Maṣdar als onderwerp."
+      }
+    ]
+  }
+}

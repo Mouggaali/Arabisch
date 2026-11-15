@@ -1,0 +1,596 @@
+{
+  "id": "j2-p8-l94",
+  "code": "L94",
+  "type": "les",
+  "titel": "Luisteren: dialogen",
+  "thema": "Een afspraak verzetten; vormen I–X in gesprekken",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een dialoog in normaal tempo volgen.",
+    "vormen I–X herkennen in gesproken zinnen.",
+    "gespreksformules gebruiken (لا بَأْسَ، عَلى فِكْرَةٍ، في الحَقيقَةِ)."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l94-w01",
+      "ar": "حِوارٌ",
+      "tr": "ḥiwār",
+      "nl": [
+        "dialoog"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l94-w02",
+      "ar": "تَذْكَرَةُ ذَهابٍ وَإِيابٍ",
+      "tr": "taḏkaratu ḏahābin wa-iyāb",
+      "nl": [
+        "retourtje"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l94-w03",
+      "ar": "اِسْتَفْسَرَ عَنْ",
+      "tr": "istafsara ʿan",
+      "nl": [
+        "informeren naar"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j2-p8-l94-w04",
+      "ar": "تَأَكَّدَ مِنْ",
+      "tr": "taʾakkada min",
+      "nl": [
+        "zich vergewissen van"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p8-l94-w05",
+      "ar": "اِقْتَرَحَ",
+      "tr": "iqtaraḥa",
+      "nl": [
+        "voorstellen"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Maṣdar {ar|اِقْتِراحٌ}."
+    },
+    {
+      "id": "j2-p8-l94-w06",
+      "ar": "وافَقَ",
+      "tr": "wāfaqa",
+      "nl": [
+        "akkoord gaan"
+      ],
+      "soort": "werkwoord (III)"
+    },
+    {
+      "id": "j2-p8-l94-w07",
+      "ar": "أَجَّلَ",
+      "tr": "ajjala",
+      "nl": [
+        "uitstellen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j2-p8-l94-w08",
+      "ar": "أَلْغى",
+      "tr": "alġā",
+      "nl": [
+        "annuleren"
+      ],
+      "soort": "werkwoord (IV, defectief)"
+    },
+    {
+      "id": "j2-p8-l94-w09",
+      "ar": "اِنْتَهى",
+      "tr": "intahā",
+      "nl": [
+        "aflopen, eindigen"
+      ],
+      "soort": "werkwoord (VIII, defectief)"
+    },
+    {
+      "id": "j2-p8-l94-w10",
+      "ar": "لا بَأْسَ",
+      "tr": "lā baʾsa",
+      "nl": [
+        "geen probleem, oké"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l94-w11",
+      "ar": "عَلى فِكْرَةٍ",
+      "tr": "ʿalā fikra",
+      "nl": [
+        "trouwens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l94-w12",
+      "ar": "في الحَقيقَةِ",
+      "tr": "fi l-ḥaqīqa",
+      "nl": [
+        "eigenlijk, in feite"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l94-w13",
+      "ar": "بِالتَّأْكيدِ",
+      "tr": "bi-t-taʾkīd",
+      "nl": [
+        "zeker, natuurlijk"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p8-l94-w14",
+      "ar": "مُمْكِنٌ أَنْ",
+      "tr": "mumkinun an",
+      "nl": [
+        "kan het dat …?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l94-w15",
+      "ar": "مَعْذِرَةً",
+      "tr": "maʿḏiratan",
+      "nl": [
+        "pardon, excuseer"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een dialoog beluisteren",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Speel elke zin af en probeer hem eerst **zonder** de tekst te verstaan. Let op de werkwoordsvormen: ze verraden wie wat doet."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَحْمَدُ: هَلْ يُمْكِنُ أَنْ نُؤَجِّلَ الاِجْتِماعَ إِلى الغَدِ؟",
+              "tr": "aḥmadu: hal yumkinu an nuʾajjila l-ijtimāʿa ila l-ġad?",
+              "nl": "Ahmed: Kunnen we de vergadering uitstellen tot morgen?"
+            },
+            {
+              "ar": "سَلْمى: لا بَأْسَ. في الحَقيقَةِ أَنا مَشْغولَةٌ اليَوْمَ.",
+              "tr": "salmā: lā baʾsa. fi l-ḥaqīqati ana mašġūlatun al-yawm.",
+              "nl": "Salma: Geen probleem. Eigenlijk heb ik het vandaag druk."
+            },
+            {
+              "ar": "أَحْمَدُ: أَقْتَرِحُ السّاعَةَ العاشِرَةَ صَباحًا.",
+              "tr": "aḥmadu: aqtariḥu s-sāʿata l-ʿāširata ṣabāḥan.",
+              "nl": "Ahmed: Ik stel tien uur 's ochtends voor."
+            },
+            {
+              "ar": "سَلْمى: أُوافِقُ. عَلى فِكْرَةٍ، هَلْ أَلْغَيْتَ الحَجْزَ في المَطْعَمِ؟",
+              "tr": "salmā: uwāfiqu. ʿalā fikratin, hal alġayta l-ḥajza fi l-maṭʿam?",
+              "nl": "Salma: Akkoord. Trouwens, heb je de reservering in het restaurant geannuleerd?"
+            },
+            {
+              "ar": "أَحْمَدُ: بِالتَّأْكيدِ، تَأَكَّدْتُ مِنْ ذٰلِكَ أَمْسِ.",
+              "tr": "aḥmadu: bi-t-taʾkīd, taʾakkadtu min ḏālika ams.",
+              "nl": "Ahmed: Zeker, dat heb ik gisteren gecontroleerd."
+            }
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Werkwoord",
+            "Vorm",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "نُؤَجِّلَ",
+              "II (manṣūb, wij)",
+              "uitstellen"
+            ],
+            [
+              "أَقْتَرِحُ",
+              "VIII (ik)",
+              "voorstellen"
+            ],
+            [
+              "أُوافِقُ",
+              "III (ik)",
+              "akkoord gaan"
+            ],
+            [
+              "أَلْغَيْتَ",
+              "IV defectief (jij m, māḍī)",
+              "annuleren"
+            ],
+            [
+              "تَأَكَّدْتُ",
+              "V (ik, māḍī)",
+              "zich vergewissen"
+            ]
+          ],
+          "arKolommen": [
+            0
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "In gesprekken hoor je de vormen II–X voortdurend. Wie de voorvoegsels en de lange/korte klinkers herkent ({ar|أُـ} bij II–IV, {ar|أَـ} bij V–X), weet al snel wie spreekt en welke vorm het is, ook als het werkwoord nieuw is."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِقْتَرَحَ",
+              "nl": "voorstellen",
+              "woord": "j2-p8-l94-w05"
+            },
+            {
+              "ar": "أَجَّلَ",
+              "nl": "uitstellen",
+              "woord": "j2-p8-l94-w07"
+            },
+            {
+              "ar": "أَلْغى",
+              "nl": "annuleren",
+              "woord": "j2-p8-l94-w08"
+            },
+            {
+              "ar": "لا بَأْسَ",
+              "nl": "geen probleem",
+              "woord": "j2-p8-l94-w10"
+            },
+            {
+              "ar": "عَلى فِكْرَةٍ",
+              "nl": "trouwens",
+              "woord": "j2-p8-l94-w11"
+            },
+            {
+              "ar": "بِالتَّأْكيدِ",
+              "nl": "zeker",
+              "woord": "j2-p8-l94-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "هَلْ يُمْكِنُ أَنْ نُؤَجِّلَ الاِجْتِماعَ؟",
+          "vraag": "Wat vraagt Ahmed?",
+          "opties": [
+            "of de vergadering kan worden uitgesteld",
+            "of de vergadering kan beginnen",
+            "waar de vergadering is"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نُؤَجِّلَ} = uitstellen."
+        }
+      ]
+    },
+    {
+      "titel": "Luisteren",
+      "items": [
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "في الحَقيقَةِ أَنا مَشْغولَةٌ اليَوْمَ",
+          "vraag": "Waarom is Salma akkoord?",
+          "opties": [
+            "Ze heeft het vandaag druk.",
+            "Ze is ziek.",
+            "Ze is op reis."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَشْغولَةٌ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "أَقْتَرِحُ السّاعَةَ العاشِرَةَ صَباحًا",
+          "vraag": "Welk tijdstip stelt Ahmed voor?",
+          "opties": [
+            "10 uur 's ochtends",
+            "10 uur 's avonds",
+            "2 uur 's middags"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|العاشِرَةَ صَباحًا}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "هَلْ أَلْغَيْتَ الحَجْزَ في المَطْعَمِ؟",
+          "vraag": "Wat vraagt Salma?",
+          "opties": [
+            "of de restaurantreservering geannuleerd is",
+            "of hij in het restaurant heeft gegeten",
+            "of ze een tafel moet reserveren"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَلْغى} = annuleren."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|أُوافِقُ}?",
+          "opties": [
+            "III",
+            "IV",
+            "VI"
+          ],
+          "juist": 0,
+          "uitleg": "ā na de eerste letter; voorvoegsel u."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "afgeleide-vormen",
+          "zin": "___ أَنْ نَلْتَقِيَ غَدًا.",
+          "nl": "Ik stel voor dat we morgen afspreken.",
+          "antwoord": [
+            "أَقْتَرِحُ"
+          ],
+          "uitleg": "Vorm VIII muḍāriʿ, ik.",
+          "woordbank": [
+            "أَقْتَرِحُ",
+            "اِقْتَرَحَ",
+            "اِقْتِراحُ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "luistervaardigheid",
+          "nl": "Geen probleem. Eigenlijk heb ik het vandaag druk.",
+          "woorden": [
+            "لا",
+            "بَأْسَ.",
+            "في",
+            "الحَقيقَةِ",
+            "أَنا",
+            "مَشْغولَةٌ."
+          ],
+          "uitleg": "Dialoog."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "luistervaardigheid",
+          "bron": "بِالتَّأْكيدِ، تَأَكَّدْتُ مِنْ ذٰلِكَ أَمْسِ.",
+          "antwoorden": [
+            "zeker dat heb ik gisteren gecontroleerd",
+            "natuurlijk dat heb ik gisteren nagekeken",
+            "zeker ik heb dat gisteren gecontroleerd"
+          ],
+          "uitleg": "Vorm V."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حِوارٌ",
+            "nl": "dialoog"
+          },
+          {
+            "ar": "اِسْتَفْسَرَ عَنْ",
+            "nl": "informeren naar"
+          },
+          {
+            "ar": "اِنْتَهى",
+            "nl": "aflopen"
+          },
+          {
+            "ar": "في الحَقيقَةِ",
+            "nl": "eigenlijk"
+          },
+          {
+            "ar": "مَعْذِرَةً",
+            "nl": "pardon"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "اِنْتَهى الاِجْتِماعُ مُتَأَخِّرًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De vergadering liep laat af.",
+          "De vergadering begon laat.",
+          "De vergadering is geannuleerd."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِنْتَهى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "أَلْغَتِ الشَّرِكَةُ الرِّحْلَةَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het bedrijf heeft de reis geannuleerd.",
+          "Het bedrijf organiseerde een reis.",
+          "De reis is uitgesteld."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلْغى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "أُريدُ تَذْكَرَةَ ذَهابٍ وَإِيابٍ",
+        "vraag": "Wat wil de spreker?",
+        "opties": [
+          "een retourtje",
+          "een enkele reis",
+          "een plaatsbewijs voor de bus"
+        ],
+        "juist": 0,
+        "uitleg": "Retour."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "مَعْذِرَةً، هَلْ يُمْكِنُ أَنْ تُعيدَ؟",
+        "vraag": "Wat vraagt de spreker?",
+        "opties": [
+          "Pardon, kunt u dat herhalen?",
+          "Pardon, waar is de uitgang?",
+          "Kunt u mij helpen?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَعادَ} = herhalen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welke vorm is {ar|تَأَكَّدْتُ}?",
+        "opties": [
+          "V",
+          "II",
+          "VI"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ + shadda."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welke vorm is {ar|يَسْتَفْسِرُ}?",
+        "opties": [
+          "X",
+          "VIII",
+          "IV"
+        ],
+        "juist": 0,
+        "uitleg": "اِسْتَـ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Wat betekent {ar|لا بَأْسَ}?",
+        "opties": [
+          "geen probleem",
+          "geen idee",
+          "geen tijd"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا بَأْسَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "هَلْ يُمْكِنُ أَنْ ___ المَوْعِدَ؟",
+        "nl": "Kunnen we de afspraak uitstellen?",
+        "antwoord": [
+          "نُؤَجِّلَ"
+        ],
+        "uitleg": "Vorm II, manṣūb.",
+        "woordbank": [
+          "نُؤَجِّلَ",
+          "نُؤَجِّلُ",
+          "أَجَّلْنا"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "___، هَلْ رَأَيْتَ أَخي؟",
+        "nl": "Trouwens, heb je mijn broer gezien?",
+        "antwoord": [
+          "عَلى فِكْرَةٍ"
+        ],
+        "uitleg": "{ar|عَلى فِكْرَةٍ}",
+        "woordbank": [
+          "عَلى فِكْرَةٍ",
+          "لا بَأْسَ",
+          "بِالتَّأْكيدِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "afgeleide-vormen",
+        "instructie": "Vervoeg (ik, muḍāriʿ).",
+        "rijen": [
+          {
+            "label": "وافَقَ (III)",
+            "antwoord": "أُوافِقُ",
+            "tr": "uwāfiqu"
+          },
+          {
+            "label": "اِقْتَرَحَ (VIII)",
+            "antwoord": "أَقْتَرِحُ",
+            "tr": "aqtariḥu"
+          }
+        ],
+        "uitleg": "u bij III · a bij VIII."
+      },
+      {
+        "type": "ordenen",
+        "tag": "luistervaardigheid",
+        "nl": "Ik stel tien uur 's ochtends voor.",
+        "woorden": [
+          "أَقْتَرِحُ",
+          "السّاعَةَ",
+          "العاشِرَةَ",
+          "صَباحًا."
+        ],
+        "uitleg": "Vorm VIII."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "zeker, natuurlijk",
+        "antwoorden": [
+          "بِالتَّأْكيدِ",
+          "طَبْعًا"
+        ],
+        "uitleg": "{ar|بِالتَّأْكيدِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "luistervaardigheid",
+        "bron": "أُوافِقُ عَلى اقْتِراحِكَ.",
+        "antwoorden": [
+          "ik ga akkoord met je voorstel",
+          "ik ben het eens met je voorstel"
+        ],
+        "uitleg": "{ar|وافَقَ عَلى}"
+      }
+    ]
+  }
+}

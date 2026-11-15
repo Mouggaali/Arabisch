@@ -1,0 +1,115 @@
+{
+  "id": "j1-p2-h06",
+  "code": "H06",
+  "type": "herhaling",
+  "titel": "Herhaling periode 2",
+  "thema": "Eten, café, tijd en vragen, gecombineerd met de hele periode",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "bestellen, zeggen wat ik lekker vind en het lijdend voorwerp in de accusatief zetten.",
+    "de tijd zeggen en een afspraak maken.",
+    "vragen stellen met alle vraagwoorden en antwoorden met لِأَنَّ.",
+    "de stof van periode 2 combineren: getallen, iḍāfa, voorzetsels, kleuren en de muḍāriʿ."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 13 tot en met 24 voordat je de periodetoets maakt.",
+
+  "grammatica": [
+    {
+      "titel": "De drie naamvallen tot nu toe",
+      "blokken": [
+        { "type": "tabel", "kop": ["Naamval", "Uitgang", "Wanneer", "Voorbeeld"], "arKolommen": [3], "rijen": [
+          ["nominatief", "-u / -un", "onderwerp, gezegde van een nominale zin", "الطَّعامُ لَذيذٌ|aṭ-ṭaʿāmu laḏīḏ"],
+          ["accusatief", "-a / -an", "lijdend voorwerp, na لَيْسَ en لِأَنَّ, tijdsbepaling, na كَمْ", "أَشْرَبُ قَهْوَةً صَباحًا|ašrabu qahwatan ṣabāḥan"],
+          ["genitief", "-i / -in", "na een voorzetsel, tweede woord van een iḍāfa", "في مَطْبَخِ البَيْتِ|fī maṭbaḫi l-bayt"]
+        ] },
+        { "type": "waarom", "md": "Je kent nu alle drie de naamvallen en de belangrijkste situaties waarin ze voorkomen. In jaar 2 komt het systeem ({ar|الإِعْرابُ}) volledig aan bod. Wat je nu al oefent, maakt dat straks veel eenvoudiger." }
+      ]
+    },
+    {
+      "titel": "Een dag in het café",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَساءُ الخَيْرِ! ماذا تُريدُ أَنْ تَشْرَبَ؟", "tr": "masāʾu l-ḫayr! māḏā turīdu an tašraba?", "nl": "Goedenavond! Wat wil je drinken?" },
+          { "ar": "أُريدُ شايًا بِدونِ سُكَّرٍ، مِنْ فَضْلِكَ.", "tr": "urīdu šāyan bi-dūni sukkar, min faḍlik.", "nl": "Ik wil thee zonder suiker, alsjeblieft." },
+          { "ar": "كَمِ السّاعَةُ؟ — السّاعَةُ السّابِعَةُ وَالنِّصْفُ.", "tr": "kami s-sāʿa? — as-sāʿatu s-sābiʿatu wa-n-niṣf.", "nl": "Hoe laat is het? — Half acht." },
+          { "ar": "الحِسابُ أَرْبَعونَ دِرْهَمًا.", "tr": "al-ḥisābu arbaʿūna dirhaman.", "nl": "De rekening is veertig dirham." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "خُبْزٌ", "nl": "brood", "woord": "j1-p2-l21-w02" },
+          { "ar": "نادِلٌ", "nl": "ober", "woord": "j1-p2-l22-w03" },
+          { "ar": "نِصْفٌ", "nl": "half", "woord": "j1-p2-l23-w14" },
+          { "ar": "لِماذا", "nl": "waarom", "woord": "j1-p2-l24-w02" },
+          { "ar": "عَشاءٌ", "nl": "avondeten", "woord": "j1-p2-l21-w24" },
+          { "ar": "حَديقَةٌ", "nl": "tuin", "woord": "j1-p2-l14-w07" }
+        ], "uitleg": "Woorden uit periode 2." },
+        { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ الثّانِيَةَ عَشْرَةَ إِلّا رُبْعًا", "vraag": "Hoe laat is het?", "opties": ["11:45", "12:15", "12:45", "11:15"], "juist": 0, "uitleg": "Twaalf min een kwart." },
+        { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "Welk woord staat in de accusatief in {ar|تَأْكُلُ البِنْتُ الخُبْزَ}?", "opties": ["الخُبْزَ", "البِنْتُ", "تَأْكُلُ"], "juist": 0, "uitleg": "Lijdend voorwerp: -a." },
+        { "type": "invullen", "tag": "an-mudari", "zin": "نُريدُ أَنْ ___ في الحَديقَةِ.", "nl": "We willen in de tuin zitten.", "woordbank": ["نَجْلِسَ", "نَجْلِسُ", "يَجْلِسونَ"], "antwoord": ["نَجْلِسَ"], "uitleg": "Na {ar|أَنْ}: -a." },
+        { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vul de juiste vorm in.",
+          "rijen": [
+            { "label": "ik eet", "antwoord": "آكُلُ", "tr": "ākulu" },
+            { "label": "jij (v) wilt", "antwoord": "تُريدِينَ", "tr": "turīdīna" },
+            { "label": "zij (m) drinken", "antwoord": "يَشْرَبونَ", "tr": "yašrabūna" },
+            { "label": "wij spreken", "antwoord": "نَتَكَلَّمُ", "tr": "natakallamu" }
+          ], "uitleg": "Werkwoorden uit de hele periode." }
+      ]
+    },
+    {
+      "titel": "Vragen en antwoorden",
+      "items": [
+        { "type": "invullen", "tag": "ma-mada", "zin": "___ تَأْكُلُ في الفُطورِ؟", "nl": "Wat eet je bij het ontbijt?", "woordbank": ["ماذا", "ما", "مَتى"], "antwoord": ["ماذا"], "uitleg": "Vóór een werkwoord: {ar|ماذا}." },
+        { "type": "invullen", "tag": "lianna", "zin": "لا أَشْرَبُ القَهْوَةَ لِأَنَّ ___ حارٌّ.", "nl": "Ik drink de koffie niet omdat het weer heet is.", "woordbank": ["الجَوَّ", "الجَوُّ", "جَوٌّ"], "antwoord": ["الجَوَّ"], "uitleg": "Na {ar|لِأَنَّ}: accusatief. {ar|الجَوُّ} = het weer (les 34)." },
+        { "type": "ordenen", "tag": "klok", "nl": "Het restaurant gaat om zes uur 's avonds open.", "woorden": ["يَفْتَحُ", "المَطْعَمُ", "في", "السّاعَةِ", "السّادِسَةِ", "مَساءً."], "uitleg": "Verbale zin: werkwoord eerst (les 27)." },
+        { "type": "meerkeuze", "tag": "prijzen", "vraag": "Je wilt weten hoeveel de thee kost.", "opties": ["بِكَمِ الشّايُ؟", "مَتى الشّايُ؟", "ماذا الشّايُ؟"], "juist": 0, "uitleg": "{ar|بِكَمْ} = voor hoeveel." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "accusatief-object", "bron": "Ik eet rijst.", "antwoorden": ["آكُلُ أَرُزًّا", "آكُلُ الأَرُزَّ"], "uitleg": "{ar|آكُلُ أَرُزًّا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "Hoe laat is het?", "antwoorden": ["كَمِ السّاعَةُ؟"], "uitleg": "{ar|كَمِ السّاعَةُ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bestellen", "bron": "أُريدُ أَنْ أَدْفَعَ، لَوْ سَمَحْتَ.", "tr": "urīdu an adfaʿa, law samaḥt.", "antwoorden": ["ik wil betalen alsjeblieft", "pardon ik wil betalen", "ik wil graag betalen", "ik wil betalen pardon"], "uitleg": "{ar|أُريدُ أَنْ} + -a." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "مَعَ مَنْ تَسْكُنُ؟", "tr": "maʿa man taskun?", "antwoorden": ["met wie woon je", "met wie woon jij", "met wie woont zij"], "uitleg": "{ar|مَعَ مَنْ} = met wie." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "'Wij drinken melk' is ...", "opties": ["نَشْرَبُ حَليبًا.", "نَشْرَبُ حَليبٌ.", "نَشْرَبُ حَليبٍ."], "juist": 0, "uitleg": "Accusatief." },
+      { "type": "meerkeuze", "tag": "klok", "vraag": "Wat is 'half tien'?", "opties": ["التّاسِعَةُ وَالنِّصْفُ", "العاشِرَةُ وَالنِّصْفُ", "العاشِرَةُ إِلّا نِصْفًا"], "juist": 0, "uitleg": "Negen en een half." },
+      { "type": "meerkeuze", "tag": "ma-mada", "vraag": "Welke vraag is juist?", "opties": ["ماذا تَدْرُسينَ؟", "ما تَدْرُسينَ؟", "مَنْ تَدْرُسينَ؟"], "juist": 0, "uitleg": "{ar|ماذا} + werkwoord." },
+      { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Je vraagt een serveerster om de rekening.", "opties": ["الحِسابُ، مِنْ فَضْلِكِ.", "الحِسابُ، مِنْ فَضْلِكَ.", "تَفَضَّلي الحِسابَ."], "juist": 0, "uitleg": "Tegen een vrouw: {ar|مِنْ فَضْلِكِ}." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أُحِبُّ السَّمَكَ وَالأَرُزَّ", "vraag": "Wat vindt de spreker lekker?", "opties": ["vis en rijst", "vlees en rijst", "kip en groente"], "juist": 0, "uitleg": "{ar|السَّمَكَ} en {ar|الأَرُزَّ}." },
+      { "type": "luisteren", "tag": "klok", "tekst": "في السّاعَةِ الرّابِعَةِ وَالرُّبْعِ", "vraag": "Hoe laat?", "opties": ["om kwart over vier", "om kwart voor vier", "om half vijf"], "juist": 0, "uitleg": "Vier en een kwart." },
+      { "type": "invullen", "tag": "akala-ahabba", "zin": "أَنا ___ الفَواكِهَ.", "nl": "Ik houd van fruit.", "woordbank": ["أُحِبُّ", "يُحِبُّ", "تُحِبُّ"], "antwoord": ["أُحِبُّ"], "uitleg": "{ar|أُحِبُّ}" },
+      { "type": "invullen", "tag": "vraagwoorden", "zin": "___ لا تَأْكُلُ؟", "nl": "Waarom eet je niet?", "antwoord": ["لِماذا"], "uitleg": "{ar|لِماذا}" },
+      { "type": "vervoegen", "tag": "akala-ahabba", "instructie": "Vul de juiste vorm in.",
+        "rijen": [
+          { "label": "ik eet", "antwoord": "آكُلُ", "tr": "ākulu" },
+          { "label": "hij wil", "antwoord": "يُريدُ", "tr": "yurīdu" }
+        ], "uitleg": "{ar|آكُلُ} · {ar|يُريدُ}" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مِلْعَقَةٌ", "nl": "lepel" },
+        { "ar": "رُبْعٌ", "nl": "kwart" },
+        { "ar": "مِهْنَةٌ", "nl": "beroep" },
+        { "ar": "لَذيذٌ", "nl": "lekker" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "lianna", "nl": "Ik studeer Arabisch omdat mijn familie uit Marokko komt.", "woorden": ["أَدْرُسُ", "العَرَبِيَّةَ", "لِأَنَّ", "عائِلَتي", "مِنَ", "المَغْرِبِ."], "uitleg": "{ar|لِأَنَّ} + naamwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "bestellen", "bron": "Ik wil koffie.", "antwoorden": ["أُريدُ قَهْوَةً", "أُريدُ القَهْوَةَ"], "uitleg": "{ar|أُريدُ قَهْوَةً}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "Het is drie uur.", "antwoorden": ["السّاعَةُ الثّالِثَةُ"], "uitleg": "{ar|السّاعَةُ الثّالِثَةُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "أَيْنَ تَعْمَلينَ؟", "tr": "ayna taʿmalīn?", "antwoorden": ["waar werk je", "waar werk jij"], "uitleg": "Jij (v)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "accusatief-object", "bron": "يَشْرَبُ الماءَ.", "tr": "yašrabu l-māʾ.", "antwoorden": ["hij drinkt het water", "hij drinkt water"], "uitleg": "Lijdend voorwerp." }
+    ]
+  }
+}

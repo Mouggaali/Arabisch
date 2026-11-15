@@ -1,0 +1,620 @@
+{
+  "id": "j3-p9-l105",
+  "code": "L105",
+  "type": "les",
+  "titel": "Prestaties",
+  "thema": "Sport, prijzen en doorzettingsvermogen; mafʿūl muṭlaq en li-ajlihi",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het mafʿūl muṭlaq gebruiken om een werkwoord te versterken.",
+    "een reden geven met een mafʿūl li-ajlihi (رَغْبَةً في، خَوْفًا مِنْ …).",
+    "over prestaties en successen vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l105-w01",
+      "ar": "إِنْجازٌ",
+      "tr": "injāz",
+      "nl": [
+        "prestatie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|إِنْجازاتٌ}."
+    },
+    {
+      "id": "j3-p9-l105-w02",
+      "ar": "فازَ بِـ",
+      "tr": "fāza bi-",
+      "nl": [
+        "winnen"
+      ],
+      "soort": "werkwoord (hol)"
+    },
+    {
+      "id": "j3-p9-l105-w03",
+      "ar": "جائِزَةٌ",
+      "tr": "jāʾiza",
+      "nl": [
+        "prijs (onderscheiding)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|جَوائِزُ}."
+    },
+    {
+      "id": "j3-p9-l105-w04",
+      "ar": "بَطَلٌ",
+      "tr": "baṭal",
+      "nl": [
+        "kampioen, held"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l105-w05",
+      "ar": "مَيْدالِيَّةٌ ذَهَبِيَّةٌ",
+      "tr": "maydāliyyatun ḏahabiyya",
+      "nl": [
+        "gouden medaille"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l105-w06",
+      "ar": "رَقْمٌ قِياسِيٌّ",
+      "tr": "raqmun qiyāsiyy",
+      "nl": [
+        "record"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l105-w07",
+      "ar": "تَدَرَّبَ تَدَرُّبًا",
+      "tr": "tadarraba tadarruban",
+      "nl": [
+        "trainde (hard)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l105-w08",
+      "ar": "نَجاحًا كَبيرًا",
+      "tr": "najāḥan kabīran",
+      "nl": [
+        "met groot succes"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l105-w09",
+      "ar": "حُبًّا في",
+      "tr": "ḥubban fī",
+      "nl": [
+        "uit liefde voor"
+      ],
+      "soort": "uitdrukking (mafʿūl li-ajlihi)"
+    },
+    {
+      "id": "j3-p9-l105-w10",
+      "ar": "رَغْبَةً في",
+      "tr": "raġbatan fī",
+      "nl": [
+        "uit verlangen naar"
+      ],
+      "soort": "uitdrukking (mafʿūl li-ajlihi)"
+    },
+    {
+      "id": "j3-p9-l105-w11",
+      "ar": "خَوْفًا مِنْ",
+      "tr": "ḫawfan min",
+      "nl": [
+        "uit angst voor"
+      ],
+      "soort": "uitdrukking (mafʿūl li-ajlihi)"
+    },
+    {
+      "id": "j3-p9-l105-w12",
+      "ar": "اِحْتِرامًا لِـ",
+      "tr": "iḥtirāman li-",
+      "nl": [
+        "uit respect voor"
+      ],
+      "soort": "uitdrukking (mafʿūl li-ajlihi)"
+    },
+    {
+      "id": "j3-p9-l105-w13",
+      "ar": "مُثابَرَةٌ",
+      "tr": "muṯābara",
+      "nl": [
+        "volharding"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l105-w14",
+      "ar": "طُموحٌ كَبيرٌ",
+      "tr": "ṭumūḥun kabīr",
+      "nl": [
+        "grote ambitie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l105-w15",
+      "ar": "تَفَوَّقَ عَلى",
+      "tr": "tafawwaqa ʿalā",
+      "nl": [
+        "overtreffen, uitblinken boven"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p9-l105-w16",
+      "ar": "فَخورٌ بِـ",
+      "tr": "faḫūrun bi-",
+      "nl": [
+        "trots op"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het absolute object (mafʿūl muṭlaq)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Het **mafʿūl muṭlaq** is de **maṣdar van hetzelfde werkwoord** in de accusatief. Het versterkt het werkwoord of beschrijft hoe iets gebeurde: {ar|تَدَرَّبَ تَدَرُّبًا} (hij trainde echt hard), {ar|نَجَحَ نَجاحًا كَبيرًا} (hij slaagde met groot succes)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Werkwoord",
+            "Mafʿūl muṭlaq",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "فَرِحَ",
+              "فَرِحَ فَرَحًا شَديدًا",
+              "hij was enorm blij"
+            ],
+            [
+              "ضَحِكَ",
+              "ضَحِكْنا ضَحِكًا",
+              "we lachten (hard)"
+            ],
+            [
+              "اِحْتَرَمَ",
+              "أَحْتَرِمُهُ اِحْتِرامًا كَبيرًا",
+              "ik respecteer hem zeer"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom de maṣdar herhalen? Het Arabisch gebruikt het als **versterking**, zoals het Nederlandse *hij lachte en lachte*. Met een bijvoeglijk naamwoord erbij ({ar|نَجاحًا كَبيرًا}) vervangt het een bijwoord: *met groot succes*."
+        }
+      ]
+    },
+    {
+      "titel": "Het object van reden (mafʿūl li-ajlihi)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een **maṣdar in de accusatief** kan ook de **reden** geven: {ar|سافَرَ رَغْبَةً في التَّعَلُّمِ} (hij reisde uit verlangen om te leren). Het is een compacte vervanging van {ar|لِأَنَّهُ يَرْغَبُ في …}."
+        },
+        {
+          "type": "letop",
+          "md": "Herken het verschil: mafʿūl muṭlaq = **zelfde** wortel als het werkwoord ({ar|نَجَحَ نَجاحًا}); mafʿūl li-ajlihi = **andere** wortel, geeft een reden ({ar|تَدَرَّبَ حُبًّا في الرِّياضَةِ})."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "فازَتِ العَدّاءَةُ بِالمَيْدالِيَّةِ الذَّهَبِيَّةِ فَوْزًا مُسْتَحَقًّا.",
+              "tr": "fāzati l-ʿaddāʾatu bi-l-maydāliyyati ḏ-ḏahabiyyati fawzan mustaḥaqqan.",
+              "nl": "De hardloopster won verdiend de gouden medaille."
+            },
+            {
+              "ar": "تَدَرَّبَ البَطَلُ تَدَرُّبًا يَوْمِيًّا.",
+              "tr": "tadarraba l-baṭalu tadarruban yawmiyyan.",
+              "nl": "De kampioen trainde dagelijks."
+            },
+            {
+              "ar": "دَرَسَتِ الطِّبَّ حُبًّا في مُساعَدَةِ النّاسِ.",
+              "tr": "darasati ṭ-ṭibba ḥubban fī musāʿadati n-nās.",
+              "nl": "Ze studeerde geneeskunde uit liefde om mensen te helpen."
+            },
+            {
+              "ar": "وَقَفَ الجُمْهورُ اِحْتِرامًا لِلّاعِبِ.",
+              "tr": "waqafa l-jumhūru iḥtirāman li-l-lāʿib.",
+              "nl": "Het publiek stond op uit respect voor de speler."
+            },
+            {
+              "ar": "نَحْنُ فَخورونَ بِإِنْجازاتِكَ.",
+              "tr": "naḥnu faḫūrūna bi-injāzātik.",
+              "nl": "We zijn trots op je prestaties."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "إِنْجازٌ",
+              "nl": "prestatie",
+              "woord": "j3-p9-l105-w01"
+            },
+            {
+              "ar": "جائِزَةٌ",
+              "nl": "prijs",
+              "woord": "j3-p9-l105-w03"
+            },
+            {
+              "ar": "بَطَلٌ",
+              "nl": "kampioen",
+              "woord": "j3-p9-l105-w04"
+            },
+            {
+              "ar": "رَقْمٌ قِياسِيٌّ",
+              "nl": "record",
+              "woord": "j3-p9-l105-w06"
+            },
+            {
+              "ar": "مُثابَرَةٌ",
+              "nl": "volharding",
+              "woord": "j3-p9-l105-w13"
+            },
+            {
+              "ar": "فَخورٌ بِـ",
+              "nl": "trots op",
+              "woord": "j3-p9-l105-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "mafool-mutlaq",
+          "tekst": "نَجَحَ نَجاحًا كَبيرًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Hij slaagde met groot succes.",
+            "Hij is niet geslaagd.",
+            "Het succes was klein."
+          ],
+          "juist": 0,
+          "uitleg": "Mafʿūl muṭlaq."
+        }
+      ]
+    },
+    {
+      "titel": "Mafʿūl muṭlaq en li-ajlihi",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "mafool-mutlaq",
+          "zin": "فَرِحَتِ الأُمُّ ___ شَديدًا.",
+          "nl": "De moeder was enorm blij.",
+          "antwoord": [
+            "فَرَحًا"
+          ],
+          "uitleg": "Maṣdar van hetzelfde werkwoord, accusatief.",
+          "woordbank": [
+            "فَرَحًا",
+            "فَرْحانَةً",
+            "فَرَحٌ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "mafool-mutlaq",
+          "zin": "هاجَرَ ___ في حَياةٍ أَفْضَلَ.",
+          "nl": "Hij emigreerde uit verlangen naar een beter leven.",
+          "antwoord": [
+            "رَغْبَةً"
+          ],
+          "uitleg": "Mafʿūl li-ajlihi.",
+          "woordbank": [
+            "رَغْبَةً",
+            "رَغْبَةٌ",
+            "يَرْغَبُ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "mafool-mutlaq",
+          "vraag": "In welke zin staat een mafʿūl muṭlaq?",
+          "opties": [
+            "ضَحِكْنا ضَحِكًا كَثيرًا.",
+            "ضَحِكْنا خَوْفًا.",
+            "ضَحِكْنا في الحَفْلَةِ."
+          ],
+          "juist": 0,
+          "uitleg": "Zelfde wortel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "mafool-mutlaq",
+          "vraag": "Wat drukt {ar|خَوْفًا مِنَ العِقابِ} uit?",
+          "opties": [
+            "een reden (uit angst voor straf)",
+            "een tijd",
+            "een plaats"
+          ],
+          "juist": 0,
+          "uitleg": "Mafʿūl li-ajlihi."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "mafool-mutlaq",
+          "instructie": "Maak het mafʿūl muṭlaq.",
+          "rijen": [
+            {
+              "label": "نَجَحَ (succes)",
+              "antwoord": "نَجاحًا",
+              "tr": "najāḥan"
+            },
+            {
+              "label": "اِحْتَرَمَ (respect)",
+              "antwoord": "اِحْتِرامًا",
+              "tr": "iḥtirāman"
+            }
+          ],
+          "uitleg": "Maṣdar, accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Prestaties",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "mafool-mutlaq",
+          "nl": "De kampioen trainde dagelijks.",
+          "woorden": [
+            "تَدَرَّبَ",
+            "البَطَلُ",
+            "تَدَرُّبًا",
+            "يَوْمِيًّا."
+          ],
+          "uitleg": "Mafʿūl muṭlaq."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de gouden medaille",
+          "antwoorden": [
+            "المَيْدالِيَّةُ الذَّهَبِيَّةُ"
+          ],
+          "uitleg": "{ar|المَيْدالِيَّةُ الذَّهَبِيَّةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "mafool-mutlaq",
+          "bron": "وَقَفَ الجُمْهورُ اِحْتِرامًا لِلّاعِبِ.",
+          "antwoorden": [
+            "het publiek stond op uit respect voor de speler",
+            "het publiek ging staan uit respect voor de speler"
+          ],
+          "uitleg": "Mafʿūl li-ajlihi."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "فازَ بِـ",
+            "nl": "winnen"
+          },
+          {
+            "ar": "تَفَوَّقَ عَلى",
+            "nl": "overtreffen"
+          },
+          {
+            "ar": "طُموحٌ كَبيرٌ",
+            "nl": "grote ambitie"
+          },
+          {
+            "ar": "حُبًّا في",
+            "nl": "uit liefde voor"
+          },
+          {
+            "ar": "خَوْفًا مِنْ",
+            "nl": "uit angst voor"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "Een mafʿūl muṭlaq is ...",
+        "opties": [
+          "de maṣdar van hetzelfde werkwoord in de accusatief",
+          "een lijdend voorwerp met ال",
+          "een tijdsbepaling"
+        ],
+        "juist": 0,
+        "uitleg": "Definitie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "Een mafʿūl li-ajlihi geeft ...",
+        "opties": [
+          "de reden",
+          "de plaats",
+          "het aantal"
+        ],
+        "juist": 0,
+        "uitleg": "Reden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "'Hij werkte hard' (mafʿūl muṭlaq) is ...",
+        "opties": [
+          "عَمِلَ عَمَلًا جادًّا",
+          "عَمِلَ جادٌّ",
+          "عَمِلَ لِأَنَّهُ جادٌّ"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar + bijv. nw."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "Welke naamval heeft {ar|حُبًّا} in {ar|سافَرَ حُبًّا في المُغامَرَةِ}?",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Mafʿūl li-ajlihi."
+      },
+      {
+        "type": "luisteren",
+        "tag": "mafool-mutlaq",
+        "tekst": "دَرَسَ الطِّبَّ رَغْبَةً في مُساعَدَةِ النّاسِ",
+        "vraag": "Waarom studeerde hij geneeskunde?",
+        "opties": [
+          "om mensen te helpen",
+          "voor het geld",
+          "omdat zijn vader het wilde"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رَغْبَةً في}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَطَّمَتِ العَدّاءَةُ الرَّقْمَ القِياسِيَّ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De hardloopster brak het record.",
+          "De hardloopster verloor.",
+          "Het record bleef staan."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رَقْمٌ قِياسِيٌّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "mafool-mutlaq",
+        "zin": "اِنْتَظَرْناكَ ___ طَويلًا.",
+        "nl": "We hebben lang op je gewacht.",
+        "antwoord": [
+          "اِنْتِظارًا"
+        ],
+        "uitleg": "Mafʿūl muṭlaq.",
+        "woordbank": [
+          "اِنْتِظارًا",
+          "مُنْتَظِرًا",
+          "اِنْتِظارٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "mafool-mutlaq",
+        "zin": "لَمْ يَتَكَلَّمْ ___ مِنَ العُقوبَةِ.",
+        "nl": "Hij zei niets uit angst voor straf.",
+        "antwoord": [
+          "خَوْفًا"
+        ],
+        "uitleg": "Mafʿūl li-ajlihi.",
+        "woordbank": [
+          "خَوْفًا",
+          "خائِفٌ",
+          "يَخافُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "نَحْنُ ___ بِكَ!",
+        "nl": "We zijn trots op je!",
+        "antwoord": [
+          "فَخورونَ"
+        ],
+        "uitleg": "Meervoud.",
+        "woordbank": [
+          "فَخورونَ",
+          "فَخورٌ",
+          "فَخْرٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "mafool-mutlaq",
+        "instructie": "Vul het mafʿūl muṭlaq in.",
+        "rijen": [
+          {
+            "label": "فازَ ___ مُسْتَحَقًّا",
+            "antwoord": "فَوْزًا",
+            "tr": "fawzan"
+          },
+          {
+            "label": "ضَحِكَ ___ كَثيرًا",
+            "antwoord": "ضَحِكًا",
+            "tr": "ḍaḥikan"
+          }
+        ],
+        "uitleg": "Maṣdar, accusatief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "mafool-mutlaq",
+        "nl": "Hij slaagde met groot succes.",
+        "woorden": [
+          "نَجَحَ",
+          "نَجاحًا",
+          "كَبيرًا."
+        ],
+        "uitleg": "Mafʿūl muṭlaq."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de prestatie",
+        "antwoorden": [
+          "الإِنْجازُ"
+        ],
+        "uitleg": "{ar|الإِنْجازُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "mafool-mutlaq",
+        "bron": "فَرِحْنا فَرَحًا كَبيرًا بِالخَبَرِ.",
+        "antwoorden": [
+          "we waren erg blij met het nieuws",
+          "we waren heel blij met het nieuws"
+        ],
+        "uitleg": "Mafʿūl muṭlaq."
+      }
+    ]
+  }
+}

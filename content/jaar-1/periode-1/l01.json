@@ -1,0 +1,266 @@
+{
+  "id": "j1-p1-l01",
+  "code": "L01",
+  "type": "les",
+  "titel": "Begroeten en afscheid",
+  "thema": "Begroeten, vragen hoe het gaat, bedanken en afscheid nemen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "iemand op het juiste moment van de dag begroeten.",
+    "op een begroeting het vaste antwoord geven.",
+    "vragen hoe het gaat, tegen een man, een vrouw en een groep.",
+    "bedanken en afscheid nemen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l01-w01", "ar": "السَّلامُ عَلَيْكُمْ", "tr": "as-salāmu ʿalaykum", "nl": ["vrede zij met jullie", "de standaardgroet"], "soort": "uitdrukking",
+      "notitie": "De algemene groet, op elk moment van de dag. Altijd meervoud (*jullie*), ook tegen één persoon." },
+    { "id": "j1-p1-l01-w02", "ar": "وَعَلَيْكُمُ السَّلامُ", "tr": "wa-ʿalaykumu s-salām", "nl": ["en met jullie zij de vrede"], "soort": "uitdrukking",
+      "notitie": "Het vaste antwoord op {ar|السَّلامُ عَلَيْكُمْ}." },
+    { "id": "j1-p1-l01-w03", "ar": "مَرْحَبًا", "tr": "marḥaban", "nl": ["hallo"], "soort": "uitdrukking",
+      "review": { "status": "onzeker", "note": "Uitspraak aan het eind: in strikt klassieke pausa marḥabā, in modern gebruik marḥaban. Bevestigen dat we marḥaban aanleren." } },
+    { "id": "j1-p1-l01-w04", "ar": "أَهْلًا", "tr": "ahlan", "nl": ["hoi", "welkom"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w05", "ar": "أَهْلًا وَسَهْلًا", "tr": "ahlan wa-sahlan", "nl": ["welkom"], "soort": "uitdrukking",
+      "notitie": "Hartelijk welkom, bijvoorbeeld als iemand binnenkomt." },
+    { "id": "j1-p1-l01-w06", "ar": "صَباحُ الخَيْرِ", "tr": "ṣabāḥu l-ḫayr", "nl": ["goedemorgen"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: ochtend van het goede." },
+    { "id": "j1-p1-l01-w07", "ar": "صَباحُ النّورِ", "tr": "ṣabāḥu n-nūr", "nl": ["goedemorgen (antwoord)"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: ochtend van het licht. Alleen als antwoord." },
+    { "id": "j1-p1-l01-w08", "ar": "مَساءُ الخَيْرِ", "tr": "masāʾu l-ḫayr", "nl": ["goedenavond", "goedemiddag"], "soort": "uitdrukking",
+      "notitie": "Vanaf de middag tot de avond." },
+    { "id": "j1-p1-l01-w09", "ar": "مَساءُ النّورِ", "tr": "masāʾu n-nūr", "nl": ["goedenavond (antwoord)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w10", "ar": "كَيْفَ حالُكَ؟", "tr": "kayfa ḥāluka?", "nl": ["hoe gaat het met je? (tegen een man)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w11", "ar": "كَيْفَ حالُكِ؟", "tr": "kayfa ḥāluki?", "nl": ["hoe gaat het met je? (tegen een vrouw)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w12", "ar": "كَيْفَ حالُكُمْ؟", "tr": "kayfa ḥālukum?", "nl": ["hoe gaat het met jullie?"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w13", "ar": "بِخَيْرٍ", "tr": "bi-ḫayr", "nl": ["goed"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: in goedheid. Antwoord op *hoe gaat het?*" },
+    { "id": "j1-p1-l01-w14", "ar": "الحَمْدُ لِلّٰهِ", "tr": "al-ḥamdu li-llāh", "nl": ["godzijdank"], "soort": "uitdrukking",
+      "notitie": "Heel gewoon antwoord op *hoe gaat het?*, ook in alledaagse, niet-religieuze gesprekken." },
+    { "id": "j1-p1-l01-w15", "ar": "وَأَنْتَ؟", "tr": "wa-anta?", "nl": ["en jij? (tegen een man)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w16", "ar": "وَأَنْتِ؟", "tr": "wa-anti?", "nl": ["en jij? (tegen een vrouw)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w17", "ar": "شُكْرًا", "tr": "šukran", "nl": ["dank je", "bedankt"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l01-w18", "ar": "عَفْوًا", "tr": "ʿafwan", "nl": ["graag gedaan", "pardon"], "soort": "uitdrukking",
+      "review": { "status": "onzeker", "note": "Als antwoord op شُكْرًا betekent het 'graag gedaan'; het wordt ook gebruikt voor 'pardon'. Het gebruik verschilt per regio. Bevestigen dat beide betekenissen standaard zijn." } },
+    { "id": "j1-p1-l01-w19", "ar": "مَعَ السَّلامَةِ", "tr": "maʿa s-salāma", "nl": ["tot ziens", "dag"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: met de veiligheid. Het antwoord is vaak hetzelfde." },
+    { "id": "j1-p1-l01-w20", "ar": "إِلى اللِّقاءِ", "tr": "ilā l-liqāʾ", "nl": ["tot ziens"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: tot de ontmoeting." },
+    { "id": "j1-p1-l01-w21", "ar": "تُصْبِحُ عَلى خَيْرٍ", "tr": "tuṣbiḥu ʿalā ḫayr", "nl": ["welterusten (tegen een man)"], "soort": "uitdrukking",
+      "notitie": "Tegen een vrouw: {ar|تُصْبِحينَ عَلى خَيْرٍ} (*tuṣbiḥīna ʿalā ḫayr*)." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Begroetingen komen in paren",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Veel Arabische begroetingen hebben een **vast antwoord**. Je antwoordt niet met dezelfde woorden, maar met de vaste tegenhanger.",
+          "Op {ar|صَباحُ الخَيْرِ} (*ochtend van het goede*) antwoord je {ar|صَباحُ النّورِ} (*ochtend van het licht*). Je geeft de wens als het ware een beetje mooier terug."
+        ] },
+        { "type": "tabel", "kop": ["Begroeting", "Betekenis", "Vast antwoord"], "arKolommen": [0, 2], "rijen": [
+          ["السَّلامُ عَلَيْكُمْ|as-salāmu ʿalaykum", "vrede zij met jullie", "وَعَلَيْكُمُ السَّلامُ|wa-ʿalaykumu s-salām"],
+          ["صَباحُ الخَيْرِ|ṣabāḥu l-ḫayr", "goedemorgen", "صَباحُ النّورِ|ṣabāḥu n-nūr"],
+          ["مَساءُ الخَيْرِ|masāʾu l-ḫayr", "goedenavond", "مَساءُ النّورِ|masāʾu n-nūr"],
+          ["كَيْفَ حالُكَ؟|kayfa ḥāluka?", "hoe gaat het?", "بِخَيْرٍ، الحَمْدُ لِلّٰهِ|bi-ḫayr, al-ḥamdu li-llāh"],
+          ["شُكْرًا|šukran", "dank je", "عَفْوًا|ʿafwan"],
+          ["مَعَ السَّلامَةِ|maʿa s-salāma", "tot ziens", "مَعَ السَّلامَةِ|maʿa s-salāma"]
+        ] },
+        { "type": "waarom", "md": "In de Arabische cultuur is een begroeting een kleine uitwisseling van goede wensen. Met het vaste antwoord laat je zien dat je de wens ontvangt en geeft je hem terug. Wie alleen 'hallo' zegt, komt al snel kortaf over." },
+        { "type": "letop", "md": "{ar|السَّلامُ عَلَيْكُمْ} staat altijd in het **meervoud** ({ar|عَلَيْكُمْ}, *met jullie*), ook als je maar één persoon groet. Het is een vaste formule." }
+      ]
+    },
+    {
+      "titel": "Een man, een vrouw of een groep aanspreken",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch maakt bij *jij* verschil tussen een man en een vrouw. In {ar|كَيْفَ حالُكَ؟} betekent {ar|حال} *toestand*, en het achtervoegsel ـكَ betekent *jouw* (tegen een man). Letterlijk staat er: *hoe is jouw toestand?*",
+          "Alleen het einde verandert: **-ka** tegen een man, **-ki** tegen een vrouw, **-kum** tegen een groep. Hetzelfde zie je bij *en jij?*: {ar|وَأَنْتَ} / {ar|وَأَنْتِ} / {ar|وَأَنْتُمْ}."
+        ] },
+        { "type": "tabel", "kop": ["Tegen wie?", "Hoe gaat het?", "En jij / jullie?"], "arKolommen": [1, 2], "rijen": [
+          ["een man", "كَيْفَ حالُكَ؟|kayfa ḥāluka?", "وَأَنْتَ؟|wa-anta?"],
+          ["een vrouw", "كَيْفَ حالُكِ؟|kayfa ḥāluki?", "وَأَنْتِ؟|wa-anti?"],
+          ["een groep", "كَيْفَ حالُكُمْ؟|kayfa ḥālukum?", "وَأَنْتُمْ؟|wa-antum?"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "صَباحُ الخَيْرِ يا سارَةُ، كَيْفَ حالُكِ؟", "tr": "ṣabāḥu l-ḫayri yā Sāratu, kayfa ḥāluki?", "nl": "Goedemorgen Sara, hoe gaat het met je?" },
+          { "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ. وَأَنْتَ؟", "tr": "bi-ḫayrin, al-ḥamdu li-llāh. wa-anta?", "nl": "Goed, godzijdank. En jij?" },
+          { "ar": "مَساءُ الخَيْرِ يا أَحْمَدُ، كَيْفَ حالُكَ؟", "tr": "masāʾu l-ḫayri yā Aḥmadu, kayfa ḥāluka?", "nl": "Goedenavond Ahmed, hoe gaat het met je?" },
+          { "ar": "أَهْلًا يا أَصْدِقاءُ! كَيْفَ حالُكُمْ؟", "tr": "ahlan yā aṣdiqāʾu! kayfa ḥālukum?", "nl": "Hoi vrienden! Hoe gaat het met jullie?" }
+        ] },
+        { "type": "letop", "md": "{ar|يا} zet je voor een naam als je iemand direct aanspreekt (*yā Sāra*). In het Nederlands laat je het weg." },
+        { "type": "waarom", "md": "Het Arabisch geeft het geslacht veel vaker aan dan het Nederlands: bij voornaamwoorden, werkwoorden en bijvoeglijke naamwoorden. Door het nu al te horen in een vaste uitdrukking, raakt je oor eraan gewend voordat je het vanaf les 2 systematisch leert." }
+      ]
+    },
+    {
+      "titel": "Klinkertekens, tanwīn en uitspraak in deze cursus",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Alle Arabische tekst in jaar 1 is **volledig gevocaliseerd**: elke letter heeft zijn klinkerteken (harakat).",
+          "Aan het eind van een woord staat vaak een naamvalsklinker (-u, -a, -i) of een **tanwīn** (-un, -an, -in). Midden in een zin spreek je die uit. Aan het eind van een zin of bij een los woord laat je hem weg: dat heet de **pausavorm**.",
+          "De transliteratie in de woordenlijsten volgt de pausavorm. {ar|بِخَيْرٍ} wordt met tanwīn geschreven, maar los zeg je *bi-ḫayr*. In de voorbeeldzinnen staat de volledige uitspraak: *bi-ḫayrin, al-ḥamdu li-llāh*.",
+          "Een uitzondering zijn vaste uitdrukkingen als {ar|شُكْرًا}, {ar|مَرْحَبًا} en {ar|عَفْوًا}: daar spreek je de -an wel uit (*šukran*, *marḥaban*, *ʿafwan*). De alif aan het eind (ـًا) draagt alleen het teken en lees je niet als een lange ā."
+        ] },
+        { "type": "waarom", "md": "Naamvalsuitgangen geven grammaticale informatie: onderwerp, lijdend voorwerp of woord na een voorzetsel. Die leer je vanaf periode 2 stap voor stap. Voor nu hoef je ze alleen te herkennen." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden herkennen",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "صَباحُ الخَيْرِ", "nl": "goedemorgen", "woord": "j1-p1-l01-w06" },
+          { "ar": "شُكْرًا", "nl": "dank je", "woord": "j1-p1-l01-w17" },
+          { "ar": "مَعَ السَّلامَةِ", "nl": "tot ziens", "woord": "j1-p1-l01-w19" },
+          { "ar": "مَرْحَبًا", "nl": "hallo", "woord": "j1-p1-l01-w03" },
+          { "ar": "بِخَيْرٍ", "nl": "goed", "woord": "j1-p1-l01-w13" },
+          { "ar": "أَهْلًا وَسَهْلًا", "nl": "welkom", "woord": "j1-p1-l01-w05" }
+        ], "uitleg": "Bekijk de woorden die je verwisselde nog eens in de woordenlijst." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l01-w14", "vraag": "Wat betekent dit?", "ar": "الحَمْدُ لِلّٰهِ", "tr": "al-ḥamdu li-llāh",
+          "opties": ["godzijdank", "goedemorgen", "graag gedaan", "tot ziens"], "juist": 0,
+          "uitleg": "{ar|الحَمْدُ لِلّٰهِ} betekent letterlijk *de lof is aan God*. Je hoort het voortdurend als antwoord op *hoe gaat het?*" },
+        { "type": "meerkeuze", "tag": "afscheid", "woord": "j1-p1-l01-w20", "vraag": "Wat betekent dit?", "ar": "إِلى اللِّقاءِ", "tr": "ilā l-liqāʾ",
+          "opties": ["tot ziens", "welkom", "hoe gaat het?", "dank je"], "juist": 0,
+          "uitleg": "{ar|إِلى} = tot, naar; {ar|اللِّقاء} = de ontmoeting. Dus: *tot de (volgende) ontmoeting*." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "صَباحُ الخَيْرِ", "vraag": "Wat hoor je?",
+          "opties": ["goedemorgen", "goedenavond", "welkom", "dank je"], "juist": 0,
+          "uitleg": "{ar|صَباح} = ochtend, {ar|مَساء} = avond." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "مَساءُ النّورِ", "vraag": "Welke uitdrukking hoor je?",
+          "opties": ["مَساءُ النّورِ", "صَباحُ النّورِ", "مَساءُ الخَيْرِ", "صَباحُ الخَيْرِ"], "juist": 0,
+          "uitleg": "Let op het begin ({ar|مَساء} of {ar|صَباح}) en op het eind ({ar|الخَيْر} of {ar|النّور})." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "عَفْوًا", "vraag": "Wat betekent wat je hoort?",
+          "opties": ["graag gedaan", "dank je", "hallo", "goed"], "juist": 0,
+          "uitleg": "{ar|عَفْوًا} (*ʿafwan*) is het antwoord op {ar|شُكْرًا}." },
+        { "type": "meerkeuze", "tag": "beleefdheid", "woord": "j1-p1-l01-w17", "vraag": "Welk woord betekent 'dank je'?",
+          "opties": ["شُكْرًا", "عَفْوًا", "أَهْلًا", "بِخَيْرٍ"], "juist": 0,
+          "uitleg": "{ar|شُكْرًا} = dank je. {ar|عَفْوًا} is het antwoord daarop." }
+      ]
+    },
+    {
+      "titel": "Begroeten en antwoorden",
+      "items": [
+        { "type": "meerkeuze", "tag": "antwoord-begroeting", "vraag": "Iemand zegt dit tegen je. Wat is het gebruikelijke antwoord?", "ar": "صَباحُ الخَيْرِ", "tr": "ṣabāḥu l-ḫayr",
+          "opties": ["صَباحُ النّورِ", "مَساءُ النّورِ", "مَعَ السَّلامَةِ", "شُكْرًا"], "juist": 0,
+          "uitleg": "Op *ochtend van het goede* antwoord je *ochtend van het licht*: {ar|صَباحُ النّورِ}." },
+        { "type": "invullen", "tag": "antwoord-begroeting", "vraag": "Maak het vaste antwoord op السَّلامُ عَلَيْكُمْ af.", "zin": "وَعَلَيْكُمُ ___", "nl": "en met jullie zij de vrede",
+          "woordbank": ["السَّلامُ", "الخَيْرُ", "النّورُ", "السَّلامَةُ"], "antwoord": ["السَّلامُ"],
+          "uitleg": "Het antwoord herhaalt de groet in omgekeerde volgorde: {ar|وَعَلَيْكُمُ السَّلامُ}." },
+        { "type": "invullen", "tag": "antwoord-begroeting", "vraag": "Typ het ontbrekende woord.", "zin": "مَساءُ ___", "tr": "masāʾu n-nūr", "nl": "goedenavond (als antwoord)",
+          "antwoord": ["النّورِ"],
+          "uitleg": "Het antwoord op {ar|مَساءُ الخَيْرِ} is {ar|مَساءُ النّورِ}. Je mag zonder harakat typen: النور." },
+        { "type": "ordenen", "tag": "aanspreekvorm", "nl": "Hallo, hoe gaat het met je? (tegen een man)", "woorden": ["مَرْحَبًا،", "كَيْفَ", "حالُكَ؟"],
+          "uitleg": "Het vraagwoord {ar|كَيْفَ} (hoe) staat vooraan, net als in het Nederlands." },
+        { "type": "ordenen", "tag": "antwoord-begroeting", "nl": "Goed, godzijdank.", "woorden": ["بِخَيْرٍ،", "الحَمْدُ", "لِلّٰهِ."],
+          "uitleg": "{ar|بِخَيْرٍ} (goed) komt eerst, daarna de vaste formule {ar|الحَمْدُ لِلّٰهِ}." },
+        { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Iemand bedankt je. Wat zeg je terug?", "ar": "شُكْرًا", "tr": "šukran",
+          "opties": ["عَفْوًا", "شُكْرًا", "بِخَيْرٍ", "أَهْلًا"], "juist": 0,
+          "uitleg": "Op {ar|شُكْرًا} antwoord je {ar|عَفْوًا} (graag gedaan)." },
+        { "type": "meerkeuze", "tag": "afscheid", "vraag": "Je vertrekt na een bezoek. Wat zeg je?",
+          "opties": ["مَعَ السَّلامَةِ", "أَهْلًا وَسَهْلًا", "صَباحُ النّورِ", "وَأَنْتَ؟"], "juist": 0,
+          "uitleg": "{ar|مَعَ السَّلامَةِ} is de gewone afscheidsgroet. {ar|أَهْلًا وَسَهْلًا} zeg je juist als iemand aankomt." }
+      ]
+    },
+    {
+      "titel": "Een man, een vrouw of een groep",
+      "items": [
+        { "type": "vervoegen", "tag": "aanspreekvorm", "eind": true,
+          "instructie": "Vul het woord na كَيْفَ in (hoe gaat het met je/jullie?). Let op de laatste klinker; gebruik het toetsenbord voor de harakat.",
+          "rijen": [
+            { "label": "tegen een man", "ar": "أَنْتَ", "antwoord": "حالُكَ", "tr": "ḥāluka" },
+            { "label": "tegen een vrouw", "ar": "أَنْتِ", "antwoord": "حالُكِ", "tr": "ḥāluki" },
+            { "label": "tegen een groep", "ar": "أَنْتُمْ", "antwoord": "حالُكُمْ", "tr": "ḥālukum" }
+          ],
+          "uitleg": "-ka (fatḥa) voor een man, -ki (kasra) voor een vrouw, -kum voor een groep." },
+        { "type": "vervoegen", "tag": "aanspreekvorm", "eind": true,
+          "instructie": "Vul 'en jij?' / 'en jullie?' in. Let op de laatste klinker.",
+          "rijen": [
+            { "label": "tegen een man", "antwoord": "وَأَنْتَ", "tr": "wa-anta" },
+            { "label": "tegen een vrouw", "antwoord": "وَأَنْتِ", "tr": "wa-anti" },
+            { "label": "tegen een groep", "antwoord": "وَأَنْتُمْ", "tr": "wa-antum" }
+          ],
+          "uitleg": "{ar|وَ} betekent *en* en wordt aan het volgende woord vastgeschreven." },
+        { "type": "meerkeuze", "tag": "aanspreekvorm", "vraag": "Je vraagt je buurvrouw Fatima hoe het met haar gaat. Wat zeg je?",
+          "opties": ["كَيْفَ حالُكِ؟", "كَيْفَ حالُكَ؟", "كَيْفَ حالُكُمْ؟", "وَأَنْتَ؟"], "juist": 0,
+          "uitleg": "Tegen een vrouw: -ki, met een kasra onder de ك." },
+        { "type": "meerkeuze", "tag": "aanspreekvorm", "vraag": "Je begroet een groep vrienden. Welke vraag past?",
+          "opties": ["كَيْفَ حالُكُمْ؟", "كَيْفَ حالُكَ؟", "كَيْفَ حالُكِ؟", "صَباحُ النّورِ"], "juist": 0,
+          "uitleg": "Tegen een groep: {ar|حالُكُمْ} (*ḥālukum*)." },
+        { "type": "luisteren", "tag": "aanspreekvorm", "tekst": "كَيْفَ حالُكِ؟", "vraag": "Tegen wie wordt dit gezegd?",
+          "opties": ["een vrouw", "een man", "een groep"], "juist": 0,
+          "uitleg": "Je hoort *-ki* aan het eind: {ar|حالُكِ}. Let op: niet elke computerstem spreekt de laatste klinker duidelijk uit." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "begroeting", "bron": "goedemorgen", "antwoorden": ["صَباحُ الخَيْرِ"],
+          "uitleg": "{ar|صَباحُ الخَيْرِ}: {ar|صَباح} (ochtend) + {ar|الخَيْر} (het goede)." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "beleefdheid", "bron": "dank je", "antwoorden": ["شُكْرًا"],
+          "uitleg": "{ar|شُكْرًا}, met tanwīn fatḥa op de alif aan het eind." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "afscheid", "bron": "tot ziens", "antwoorden": ["مَعَ السَّلامَةِ", "إِلى اللِّقاءِ"],
+          "uitleg": "Beide zijn goed: {ar|مَعَ السَّلامَةِ} of {ar|إِلى اللِّقاءِ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "begroeting", "bron": "مَساءُ الخَيْرِ", "tr": "masāʾu l-ḫayr",
+          "antwoorden": ["goedenavond", "goedemiddag", "goede avond", "goedenmiddag", "goede middag"],
+          "uitleg": "{ar|مَساء} = de middag en avond." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "begroeting", "bron": "أَهْلًا وَسَهْلًا", "tr": "ahlan wa-sahlan",
+          "antwoorden": ["welkom", "hartelijk welkom", "van harte welkom"],
+          "uitleg": "Een hartelijk welkom." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "antwoord-begroeting", "bron": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ", "tr": "bi-ḫayr, al-ḥamdu li-llāh",
+          "antwoorden": ["goed godzijdank", "goed goddank", "goed god zij dank", "het gaat goed godzijdank", "goed de lof zij god", "goed dank god", "goed gelukkig"],
+          "uitleg": "{ar|بِخَيْرٍ} = goed, {ar|الحَمْدُ لِلّٰهِ} = godzijdank." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَساءُ الخَيْرِ", "nl": "goedenavond" },
+        { "ar": "عَفْوًا", "nl": "graag gedaan" },
+        { "ar": "إِلى اللِّقاءِ", "nl": "tot ziens" },
+        { "ar": "الحَمْدُ لِلّٰهِ", "nl": "godzijdank" },
+        { "ar": "أَهْلًا", "nl": "hoi" }
+      ], "uitleg": "Herhaal de woordenlijst van deze les." },
+      { "type": "meerkeuze", "tag": "antwoord-begroeting", "vraag": "Wat antwoord je hierop?", "ar": "السَّلامُ عَلَيْكُمْ", "tr": "as-salāmu ʿalaykum",
+        "opties": ["وَعَلَيْكُمُ السَّلامُ", "صَباحُ النّورِ", "عَفْوًا", "مَعَ السَّلامَةِ"], "juist": 0,
+        "uitleg": "Het vaste antwoord is {ar|وَعَلَيْكُمُ السَّلامُ}." },
+      { "type": "meerkeuze", "tag": "begroeting", "vraag": "Het is 19.00 uur. Hoe begroet je iemand?",
+        "opties": ["مَساءُ الخَيْرِ", "صَباحُ الخَيْرِ", "تُصْبِحُ عَلى خَيْرٍ", "مَعَ السَّلامَةِ"], "juist": 0,
+        "uitleg": "'s Avonds zeg je {ar|مَساءُ الخَيْرِ}. {ar|تُصْبِحُ عَلى خَيْرٍ} is welterusten, als iemand gaat slapen." },
+      { "type": "meerkeuze", "tag": "aanspreekvorm", "vraag": "Welke vraag stel je aan je collega Youssef?",
+        "opties": ["كَيْفَ حالُكَ؟", "كَيْفَ حالُكِ؟", "كَيْفَ حالُكُمْ؟"], "juist": 0,
+        "uitleg": "Tegen een man: -ka, met een fatḥa op de ك." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "مَعَ السَّلامَةِ", "vraag": "Wat hoor je?",
+        "opties": ["tot ziens", "goedemorgen", "welkom", "goed"], "juist": 0,
+        "uitleg": "{ar|مَعَ السَّلامَةِ} = tot ziens." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "صَباحُ النّورِ", "vraag": "Welke uitdrukking hoor je?",
+        "opties": ["صَباحُ النّورِ", "صَباحُ الخَيْرِ", "مَساءُ النّورِ"], "juist": 0,
+        "uitleg": "Je hoort het antwoord op goedemorgen: {ar|صَباحُ النّورِ}." },
+      { "type": "invullen", "tag": "antwoord-begroeting", "zin": "صَباحُ ___", "nl": "goedemorgen (als antwoord)", "antwoord": ["النّورِ"],
+        "uitleg": "Het antwoord op {ar|صَباحُ الخَيْرِ} is {ar|صَباحُ النّورِ}." },
+      { "type": "invullen", "tag": "antwoord-begroeting", "zin": "بِخَيْرٍ، الحَمْدُ ___", "nl": "goed, godzijdank",
+        "woordbank": ["لِلّٰهِ", "النّورِ", "السَّلامُ"], "antwoord": ["لِلّٰهِ"],
+        "uitleg": "{ar|الحَمْدُ لِلّٰهِ} is een vaste formule." },
+      { "type": "vervoegen", "tag": "aanspreekvorm", "eind": true, "instructie": "Vul 'hoe gaat het met je/jullie' in (alleen het woord na كَيْفَ).",
+        "rijen": [
+          { "label": "tegen een vrouw", "ar": "أَنْتِ", "antwoord": "حالُكِ", "tr": "ḥāluki" },
+          { "label": "tegen een groep", "ar": "أَنْتُمْ", "antwoord": "حالُكُمْ", "tr": "ḥālukum" }
+        ],
+        "uitleg": "-ki tegen een vrouw, -kum tegen een groep." },
+      { "type": "ordenen", "tag": "aanspreekvorm", "nl": "Goedenavond, hoe gaat het met jullie?", "woorden": ["مَساءُ", "الخَيْرِ،", "كَيْفَ", "حالُكُمْ؟"],
+        "uitleg": "Eerst de begroeting, dan de vraag." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "beleefdheid", "bron": "graag gedaan", "antwoorden": ["عَفْوًا"],
+        "uitleg": "{ar|عَفْوًا} (*ʿafwan*)." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "begroeting", "bron": "hallo", "antwoorden": ["مَرْحَبًا", "أَهْلًا"],
+        "uitleg": "{ar|مَرْحَبًا} of {ar|أَهْلًا}." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "afscheid", "bron": "تُصْبِحُ عَلى خَيْرٍ", "tr": "tuṣbiḥu ʿalā ḫayr",
+        "antwoorden": ["welterusten", "slaap lekker", "goede nacht", "goedenacht", "trusten"],
+        "uitleg": "Letterlijk: *moge je ontwaken in goedheid*." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "beleefdheid", "bron": "شُكْرًا", "tr": "šukran",
+        "antwoorden": ["dank je", "bedankt", "dank u", "dankjewel", "dank je wel", "dank u wel", "dankuwel", "merci"],
+        "uitleg": "{ar|شُكْرًا} = dank je, bedankt." }
+    ]
+  }
+}

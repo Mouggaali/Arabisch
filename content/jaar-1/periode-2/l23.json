@@ -1,0 +1,179 @@
+{
+  "id": "j1-p2-l23",
+  "code": "L23",
+  "type": "les",
+  "titel": "Hoe laat is het?",
+  "thema": "Klokkijken en afspraken maken",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "vragen hoe laat het is: كَمِ السّاعَةُ؟",
+    "de hele uren van 1 tot en met 12 noemen.",
+    "kwart over, half en kwart voor uitdrukken.",
+    "zeggen hoe laat iets begint: في السّاعَةِ ..."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l23-w01", "ar": "كَمِ السّاعَةُ؟", "tr": "kami s-sāʿa?", "nl": ["hoe laat is het?"], "soort": "uitdrukking", "notitie": "{ar|كَمْ} krijgt een hulpklinker i voor ال." },
+    { "id": "j1-p2-l23-w02", "ar": "السّاعَةُ الواحِدَةُ", "tr": "as-sāʿatu l-wāḥida", "nl": ["één uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w03", "ar": "الثّانِيَةُ", "tr": "aṯ-ṯāniya", "nl": ["twee uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w04", "ar": "الثّالِثَةُ", "tr": "aṯ-ṯāliṯa", "nl": ["drie uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w05", "ar": "الرّابِعَةُ", "tr": "ar-rābiʿa", "nl": ["vier uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w06", "ar": "الخامِسَةُ", "tr": "al-ḫāmisa", "nl": ["vijf uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w07", "ar": "السّادِسَةُ", "tr": "as-sādisa", "nl": ["zes uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w08", "ar": "السّابِعَةُ", "tr": "as-sābiʿa", "nl": ["zeven uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w09", "ar": "الثّامِنَةُ", "tr": "aṯ-ṯāmina", "nl": ["acht uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w10", "ar": "التّاسِعَةُ", "tr": "at-tāsiʿa", "nl": ["negen uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w11", "ar": "العاشِرَةُ", "tr": "al-ʿāšira", "nl": ["tien uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w12", "ar": "الحادِيَةَ عَشْرَةَ", "tr": "al-ḥādiyata ʿašra", "nl": ["elf uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w13", "ar": "الثّانِيَةَ عَشْرَةَ", "tr": "aṯ-ṯāniyata ʿašra", "nl": ["twaalf uur"], "soort": "tijd" },
+    { "id": "j1-p2-l23-w14", "ar": "نِصْفٌ", "tr": "niṣf", "nl": ["half"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l23-w15", "ar": "رُبْعٌ", "tr": "rubʿ", "nl": ["kwart"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l23-w16", "ar": "ثُلْثٌ", "tr": "ṯulṯ", "nl": ["derde (20 minuten)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l23-w17", "ar": "إِلّا", "tr": "illā", "nl": ["min", "behalve"], "soort": "partikel", "notitie": "{ar|إِلّا رُبْعًا} = kwart voor." },
+    { "id": "j1-p2-l23-w18", "ar": "دَقائِقُ", "tr": "daqāʾiq", "nl": ["minuten"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|دَقيقَةٌ}." },
+    { "id": "j1-p2-l23-w19", "ar": "بِالضَّبْطِ", "tr": "bi-ḍ-ḍabṭ", "nl": ["precies", "stipt"], "soort": "bijwoord" },
+    { "id": "j1-p2-l23-w20", "ar": "مُبَكِّرًا", "tr": "mubakkiran", "nl": ["vroeg"], "soort": "bijwoord" },
+    { "id": "j1-p2-l23-w21", "ar": "في الوَقْتِ", "tr": "fi l-waqt", "nl": ["op tijd"], "soort": "uitdrukking" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Hoe laat is het?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De tijd zeg je met {ar|السّاعَةُ} (*het uur*) gevolgd door een **vrouwelijk rangtelwoord**: {ar|السّاعَةُ الثّالِثَةُ} = *het derde uur* = drie uur. Alleen één uur gebruikt het gewone telwoord: {ar|السّاعَةُ الواحِدَةُ}.",
+          "Waarom vrouwelijk? Omdat {ar|ساعَةٌ} vrouwelijk is en het rangtelwoord een bijvoeglijk naamwoord is dat ermee congrueert. De rangtelwoorden zelf leer je in les 35; hier leer je ze als vaste tijden."
+        ] },
+        { "type": "tabel", "kop": ["Uur", "Arabisch"], "arKolommen": [1], "rijen": [
+          ["1:00", "السّاعَةُ الواحِدَةُ|as-sāʿatu l-wāḥida"],
+          ["2:00", "السّاعَةُ الثّانِيَةُ|as-sāʿatu ṯ-ṯāniya"],
+          ["3:00", "السّاعَةُ الثّالِثَةُ|as-sāʿatu ṯ-ṯāliṯa"],
+          ["4:00", "السّاعَةُ الرّابِعَةُ|as-sāʿatu r-rābiʿa"],
+          ["5:00", "السّاعَةُ الخامِسَةُ|as-sāʿatu l-ḫāmisa"],
+          ["6:00", "السّاعَةُ السّادِسَةُ|as-sāʿatu s-sādisa"],
+          ["7:00", "السّاعَةُ السّابِعَةُ|as-sāʿatu s-sābiʿa"],
+          ["8:00", "السّاعَةُ الثّامِنَةُ|as-sāʿatu ṯ-ṯāmina"],
+          ["9:00", "السّاعَةُ التّاسِعَةُ|as-sāʿatu t-tāsiʿa"],
+          ["10:00", "السّاعَةُ العاشِرَةُ|as-sāʿatu l-ʿāšira"],
+          ["11:00", "السّاعَةُ الحادِيَةَ عَشْرَةَ|as-sāʿatu l-ḥādiyata ʿašra"],
+          ["12:00", "السّاعَةُ الثّانِيَةَ عَشْرَةَ|as-sāʿatu ṯ-ṯāniyata ʿašra"]
+        ] }
+      ]
+    },
+    {
+      "titel": "Kwart, half, en minuten",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Over* zeg je met {ar|وَ} (en), *voor* met {ar|إِلّا} (min). Na {ar|إِلّا} staat de accusatief.",
+          "Dus: {ar|الثّالِثَةُ وَالرُّبْعُ} (kwart over drie), {ar|الثّالِثَةُ وَالنِّصْفُ} (half vier, letterlijk: drie en een half), {ar|الرّابِعَةُ إِلّا رُبْعًا} (kwart voor vier)."
+        ] },
+        { "type": "tabel", "kop": ["Tijd", "Arabisch", "Letterlijk"], "arKolommen": [1], "rijen": [
+          ["3:15", "الثّالِثَةُ وَالرُّبْعُ|aṯ-ṯāliṯatu wa-r-rubʿ", "drie en het kwart"],
+          ["3:20", "الثّالِثَةُ وَالثُّلْثُ|aṯ-ṯāliṯatu wa-ṯ-ṯulṯ", "drie en het derde"],
+          ["3:30", "الثّالِثَةُ وَالنِّصْفُ|aṯ-ṯāliṯatu wa-n-niṣf", "drie en de helft"],
+          ["3:45", "الرّابِعَةُ إِلّا رُبْعًا|ar-rābiʿatu illā rubʿan", "vier min een kwart"],
+          ["3:40", "الرّابِعَةُ إِلّا ثُلْثًا|ar-rābiʿatu illā ṯulṯan", "vier min een derde"],
+          ["3:05", "الثّالِثَةُ وَخَمْسُ دَقائِقَ|aṯ-ṯāliṯatu wa-ḫamsu daqāʾiq", "drie en vijf minuten"],
+          ["3:10", "الثّالِثَةُ وَعَشْرُ دَقائِقَ|aṯ-ṯāliṯatu wa-ʿašru daqāʾiq", "drie en tien minuten"]
+        ] },
+        { "type": "letop", "md": "*Half vier* is in het Arabisch *drie en een half*: {ar|الثّالِثَةُ وَالنِّصْفُ}. Let op dit verschil met het Nederlands!" },
+        { "type": "waarom", "md": "{ar|خَمْسُ دَقائِقَ} en {ar|عَشْرُ دَقائِقَ} staan zonder ة, omdat {ar|دَقيقَةٌ} vrouwelijk is (de omgekeerde congruentie van les 42). Leer deze twee nu als vaste uitdrukkingen." }
+      ]
+    },
+    {
+      "titel": "Hoe laat? في السّاعَةِ ...",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Om drie uur* zeg je met {ar|في} + genitief: {ar|في السّاعَةِ الثّالِثَةِ}. Het rangtelwoord krijgt dan ook -i. Met {ar|صَباحًا} en {ar|مَساءً} maak je het preciezer."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "كَمِ السّاعَةُ؟ — السّاعَةُ الخامِسَةُ وَالنِّصْفُ.", "tr": "kami s-sāʿa? — as-sāʿatu l-ḫāmisatu wa-n-niṣf.", "nl": "Hoe laat is het? — Het is half zes." },
+          { "ar": "الدَّرْسُ في السّاعَةِ التّاسِعَةِ صَباحًا.", "tr": "ad-darsu fi s-sāʿati t-tāsiʿati ṣabāḥan.", "nl": "De les is om negen uur 's ochtends." },
+          { "ar": "مَتى الفيلْمُ؟ — في السّاعَةِ الثّامِنَةِ مَساءً بِالضَّبْطِ.", "tr": "matā l-film? — fi s-sāʿati ṯ-ṯāminati masāʾan bi-ḍ-ḍabṭ.", "nl": "Wanneer is de film? — Om precies acht uur 's avonds." },
+          { "ar": "أَنا هُنا في الوَقْتِ.", "tr": "ana hunā fi l-waqt.", "nl": "Ik ben op tijd." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Hele uren",
+      "items": [
+        { "type": "koppelen", "tag": "klok", "paren": [
+          { "ar": "الواحِدَةُ", "nl": "1:00" },
+          { "ar": "الثّالِثَةُ", "nl": "3:00", "woord": "j1-p2-l23-w04" },
+          { "ar": "الخامِسَةُ", "nl": "5:00", "woord": "j1-p2-l23-w06" },
+          { "ar": "السّابِعَةُ", "nl": "7:00", "woord": "j1-p2-l23-w08" },
+          { "ar": "التّاسِعَةُ", "nl": "9:00", "woord": "j1-p2-l23-w10" },
+          { "ar": "الثّانِيَةَ عَشْرَةَ", "nl": "12:00", "woord": "j1-p2-l23-w13" }
+        ], "uitleg": "Vrouwelijke rangtelwoorden." },
+        { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ العاشِرَةُ", "vraag": "Hoe laat is het?", "opties": ["10:00", "2:00", "12:00", "8:00"], "juist": 0, "uitleg": "{ar|العاشِرَةُ} = tien uur." },
+        { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ السّادِسَةُ", "vraag": "Hoe laat is het?", "opties": ["6:00", "7:00", "3:00"], "juist": 0, "uitleg": "{ar|السّادِسَةُ} = zes uur." },
+        { "type": "meerkeuze", "tag": "klok", "vraag": "Hoe vraag je hoe laat het is?", "opties": ["كَمِ السّاعَةُ؟", "كَمْ ساعَةً؟", "أَيْنَ السّاعَةُ؟"], "juist": 0, "uitleg": "{ar|كَمْ ساعَةً؟} betekent *hoeveel uur?* (duur)." }
+      ]
+    },
+    {
+      "titel": "Kwart, half en minuten",
+      "items": [
+        { "type": "meerkeuze", "tag": "klok", "vraag": "Wat is {ar|الثّانِيَةُ وَالنِّصْفُ}?", "opties": ["2:30", "1:30", "2:15", "12:30"], "juist": 0, "uitleg": "*Twee en een half* = half drie." },
+        { "type": "meerkeuze", "tag": "klok", "vraag": "Hoe zeg je 7:45?", "opties": ["الثّامِنَةُ إِلّا رُبْعًا", "السّابِعَةُ إِلّا رُبْعًا", "السّابِعَةُ وَالرُّبْعُ"], "juist": 0, "uitleg": "Acht min een kwart." },
+        { "type": "invullen", "tag": "klok", "zin": "السّاعَةُ الرّابِعَةُ وَ___.", "nl": "Het is kwart over vier.", "woordbank": ["الرُّبْعُ", "رُبْعًا", "النِّصْفُ"], "antwoord": ["الرُّبْعُ"], "uitleg": "Over = {ar|وَالرُّبْعُ}." },
+        { "type": "invullen", "tag": "klok", "zin": "السّاعَةُ التّاسِعَةُ إِلّا ___.", "nl": "Het is kwart voor negen.", "woordbank": ["رُبْعًا", "الرُّبْعُ", "رُبْعٌ"], "antwoord": ["رُبْعًا"], "uitleg": "Na {ar|إِلّا}: accusatief." },
+        { "type": "vervoegen", "tag": "klok", "instructie": "Schrijf de tijd (zonder السّاعَةُ).",
+          "rijen": [
+            { "label": "4:00", "antwoord": "الرّابِعَةُ", "tr": "ar-rābiʿa" },
+            { "label": "8:30", "antwoord": "الثّامِنَةُ وَالنِّصْفُ", "tr": "aṯ-ṯāminatu wa-n-niṣf" },
+            { "label": "10:15", "antwoord": "العاشِرَةُ وَالرُّبْعُ", "tr": "al-ʿāširatu wa-r-rubʿ" },
+            { "label": "5:45", "antwoord": "السّادِسَةُ إِلّا رُبْعًا", "tr": "as-sādisatu illā rubʿan" }
+          ], "uitleg": "Over = وَ; voor = إِلّا + accusatief." }
+      ]
+    },
+    {
+      "titel": "Afspraken",
+      "items": [
+        { "type": "ordenen", "tag": "klok", "nl": "De les is om negen uur 's ochtends.", "woorden": ["الدَّرْسُ", "في", "السّاعَةِ", "التّاسِعَةِ", "صَباحًا."], "uitleg": "{ar|في} + genitief." },
+        { "type": "ordenen", "tag": "klok", "nl": "Hoe laat is het? Het is half zes.", "woorden": ["كَمِ", "السّاعَةُ؟", "السّاعَةُ", "الخامِسَةُ", "وَالنِّصْفُ."], "uitleg": "Half zes = vijf en een half." },
+        { "type": "luisteren", "tag": "klok", "tekst": "المَوْعِدُ في السّاعَةِ الحادِيَةَ عَشْرَةَ", "vraag": "Hoe laat is de afspraak?", "opties": ["11:00", "12:00", "1:00", "10:00"], "juist": 0, "uitleg": "{ar|الحادِيَةَ عَشْرَةَ} = elf uur." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "Hoe laat is het?", "antwoorden": ["كَمِ السّاعَةُ؟"], "uitleg": "{ar|كَمِ السّاعَةُ؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "Het is twee uur.", "antwoorden": ["السّاعَةُ الثّانِيَةُ"], "uitleg": "{ar|السّاعَةُ الثّانِيَةُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "klok", "bron": "السّاعَةُ الواحِدَةُ وَالثُّلْثُ", "tr": "as-sāʿatu l-wāḥidatu wa-ṯ-ṯulṯ", "antwoorden": ["het is twintig over een", "twintig over een", "1:20", "het is 1:20"], "uitleg": "{ar|الثُّلْثُ} = 20 minuten." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "klok", "bron": "في السّاعَةِ السّابِعَةِ مَساءً", "tr": "fi s-sāʿati s-sābiʿati masāʾan", "antwoorden": ["om zeven uur 's avonds", "om 7 uur 's avonds", "om 19:00", "om 19 uur"], "uitleg": "{ar|في} + genitief." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "klok", "paren": [
+        { "ar": "الثّانِيَةُ", "nl": "2:00" },
+        { "ar": "الرّابِعَةُ", "nl": "4:00" },
+        { "ar": "الثّامِنَةُ", "nl": "8:00" },
+        { "ar": "العاشِرَةُ", "nl": "10:00" }
+      ], "uitleg": "Herhaal de uren." },
+      { "type": "meerkeuze", "tag": "klok", "vraag": "Wat is {ar|السّاعَةُ الخامِسَةُ وَالرُّبْعُ}?", "opties": ["5:15", "4:45", "5:45"], "juist": 0, "uitleg": "Vijf en een kwart." },
+      { "type": "meerkeuze", "tag": "klok", "vraag": "Hoe zeg je 'half acht'?", "opties": ["السّابِعَةُ وَالنِّصْفُ", "الثّامِنَةُ وَالنِّصْفُ", "الثّامِنَةُ إِلّا نِصْفًا"], "juist": 0, "uitleg": "Half acht = zeven en een half." },
+      { "type": "meerkeuze", "tag": "klok", "vraag": "Waarom is het {ar|الثّالِثَةُ} en niet {ar|الثّالِثُ}?", "opties": ["Omdat ساعَةٌ vrouwelijk is.", "Omdat het een vraag is.", "Omdat het na وَ staat."], "juist": 0, "uitleg": "Het rangtelwoord congrueert met {ar|ساعَةٌ}." },
+      { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ التّاسِعَةُ إِلّا رُبْعًا", "vraag": "Hoe laat is het?", "opties": ["8:45", "9:15", "9:45"], "juist": 0, "uitleg": "Negen min een kwart." },
+      { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ الواحِدَةُ وَعَشْرُ دَقائِقَ", "vraag": "Hoe laat is het?", "opties": ["1:10", "10:01", "1:20"], "juist": 0, "uitleg": "Een en tien minuten." },
+      { "type": "invullen", "tag": "klok", "zin": "كَمِ ___؟", "nl": "Hoe laat is het?", "antwoord": ["السّاعَةُ"], "uitleg": "{ar|كَمِ السّاعَةُ؟}" },
+      { "type": "invullen", "tag": "klok", "zin": "الاِمْتِحانُ في السّاعَةِ ___.", "nl": "Het examen is om tien uur.", "woordbank": ["العاشِرَةِ", "العاشِرَةُ", "عَشَرَةٍ"], "antwoord": ["العاشِرَةِ"], "uitleg": "Na {ar|في}: genitief." },
+      { "type": "vervoegen", "tag": "klok", "instructie": "Schrijf de tijd.",
+        "rijen": [
+          { "label": "6:00", "antwoord": "السّادِسَةُ", "tr": "as-sādisa" },
+          { "label": "2:30", "antwoord": "الثّانِيَةُ وَالنِّصْفُ", "tr": "aṯ-ṯāniyatu wa-n-niṣf" }
+        ], "uitleg": "{ar|السّادِسَةُ} · {ar|الثّانِيَةُ وَالنِّصْفُ}" },
+      { "type": "ordenen", "tag": "klok", "nl": "Het is kwart voor drie.", "woorden": ["السّاعَةُ", "الثّالِثَةُ", "إِلّا", "رُبْعًا."], "uitleg": "Drie min een kwart." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "Het is vijf uur.", "antwoorden": ["السّاعَةُ الخامِسَةُ"], "uitleg": "{ar|السّاعَةُ الخامِسَةُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "klok", "bron": "om negen uur", "antwoorden": ["في السّاعَةِ التّاسِعَةِ"], "uitleg": "{ar|في السّاعَةِ التّاسِعَةِ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "klok", "bron": "السّاعَةُ الثّانِيَةَ عَشْرَةَ بِالضَّبْطِ.", "tr": "as-sāʿatu ṯ-ṯāniyata ʿašrata bi-ḍ-ḍabṭ.", "antwoorden": ["het is precies twaalf uur", "het is twaalf uur precies", "precies twaalf uur"], "uitleg": "{ar|بِالضَّبْطِ} = precies." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "klok", "bron": "السّاعَةُ الحادِيَةَ عَشْرَةَ", "tr": "as-sāʿatu l-ḥādiyata ʿašra", "antwoorden": ["het is elf uur", "elf uur", "11:00"], "uitleg": "{ar|الحادِيَةَ عَشْرَةَ} = elf uur." }
+    ]
+  }
+}

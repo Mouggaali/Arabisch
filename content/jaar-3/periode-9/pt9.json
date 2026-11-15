@@ -1,0 +1,570 @@
+{
+  "id": "j3-p9-pt9",
+  "code": "PT9",
+  "type": "periodetoets",
+  "titel": "Periodetoets 9",
+  "thema": "Alle leerdoelen van periode 9 (les 97 tot en met 108, D19–D21)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** lijdende vorm, voorwaarde met إِنْ en لَوْ (L97–L100).",
+    "**Getoetst:** bijzinnen van tijd, oorzaak, doel en toegeving, indirecte rede (L101–L104).",
+    "**Getoetst:** mafʿūl muṭlaq en li-ajlihi, ḥāl-zinnen, lezen zonder harakat, discussiëren (L105–L108).",
+    "**Getoetst:** Darija: verhalen, dokter, werk (D19–D21).",
+    "Geslaagd vanaf 70%. Maak eerst H27."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "De lijdende māḍī van {ar|كَتَبَ} is ...",
+        "opties": [
+          "كُتِبَ",
+          "كَتِبَ",
+          "يُكْتَبُ"
+        ],
+        "juist": 0,
+        "uitleg": "u – i."
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ السَّيّارَةُ أَمْسِ.",
+        "nl": "De auto werd gisteren gestolen.",
+        "antwoord": [
+          "سُرِقَتِ",
+          "سُرِقَتْ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "سُرِقَتِ",
+          "سَرَقَتِ",
+          "تَسْرِقُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Men zegt' is ...",
+        "opties": [
+          "يُقالُ",
+          "يَقولُ",
+          "قيلَ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend muḍāriʿ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "{ar|تَمَّ اكْتِشافُ الكَنْزِ} betekent ...",
+        "opties": [
+          "De schat werd ontdekt.",
+          "Hij ontdekte de schat.",
+          "De schat is verloren."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَمَّ} + maṣdar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "'Wie zoekt, vindt' is ...",
+        "opties": [
+          "مَنْ يَبْحَثْ يَجِدْ",
+          "مَنْ يَبْحَثُ يَجِدُ",
+          "لَوْ بَحَثَ وَجَدَ"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm."
+      },
+      {
+        "type": "invullen",
+        "tag": "in-majzum",
+        "zin": "إِنْ ___ تَنْجَحْ.",
+        "nl": "Als je studeert, slaag je.",
+        "antwoord": [
+          "تَدْرُسْ"
+        ],
+        "uitleg": "Majzūm.",
+        "woordbank": [
+          "تَدْرُسْ",
+          "تَدْرُسُ",
+          "دَرَسْتُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "Welk woord drukt een onwerkelijke voorwaarde uit?",
+        "opties": [
+          "لَوْ",
+          "إِذا",
+          "إِنْ"
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "invullen",
+        "tag": "law",
+        "zin": "لَوْلا ___ لَضِعْتُ.",
+        "nl": "Zonder de kaart was ik verdwaald.",
+        "antwoord": [
+          "الخَريطَةُ"
+        ],
+        "uitleg": "Nominatief.",
+        "woordbank": [
+          "الخَريطَةُ",
+          "الخَريطَةَ",
+          "الخَريطَةِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Telkens als ik haar zie, lacht ze' is ...",
+        "opties": [
+          "كُلَّما رَأَيْتُها ضَحِكَتْ",
+          "لَمّا أَرَها تَضْحَكُ",
+          "بَعْدَما رَأَتْني"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُلَّما} + māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "{ar|لَمّا يَصِلْ} betekent ...",
+        "opties": [
+          "hij is nog niet aangekomen",
+          "toen hij aankwam",
+          "telkens als hij aankomt"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمّا} + majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "'Om werk te vinden' is ...",
+        "opties": [
+          "لِكَيْ يَجِدَ عَمَلًا",
+          "لِأَنَّهُ يَجِدُ عَمَلًا",
+          "بِسَبَبِ يَجِدُ عَمَلًا"
+        ],
+        "juist": 0,
+        "uitleg": "Doel."
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-doel",
+        "zin": "تَأَخَّرَ ___ المَطَرِ.",
+        "nl": "Hij was te laat vanwege de regen.",
+        "antwoord": [
+          "بِسَبَبِ"
+        ],
+        "uitleg": "Oorzaak.",
+        "woordbank": [
+          "بِسَبَبِ",
+          "لِكَيْ",
+          "رَغْمَ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "Na {ar|أَمّا X} volgt ...",
+        "opties": [
+          "فَـ",
+          "إِلّا",
+          "أَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "toegeving",
+        "zin": "خَرَجْنا ___ البَرْدِ.",
+        "nl": "We gingen naar buiten ondanks de kou.",
+        "antwoord": [
+          "رَغْمَ"
+        ],
+        "uitleg": "Toegeving.",
+        "woordbank": [
+          "رَغْمَ",
+          "بِسَبَبِ",
+          "لِكَيْ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "'Hij zei dat hij moe was' is ...",
+        "opties": [
+          "قالَ إِنَّهُ مُتْعَبٌ",
+          "قالَ أَنَّهُ مُتْعَبٌ",
+          "قالَ أَنْ مُتْعَبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Na {ar|قالَ}: إِنَّ."
+      },
+      {
+        "type": "invullen",
+        "tag": "indirecte-rede",
+        "zin": "سَأَلَني ___ كُنْتُ جائِعًا.",
+        "nl": "Hij vroeg me of ik honger had.",
+        "antwoord": [
+          "إِنْ"
+        ],
+        "uitleg": "Ja/nee-vraag.",
+        "woordbank": [
+          "إِنْ",
+          "أَنَّ",
+          "لِأَنَّ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "In welke zin staat een mafʿūl muṭlaq?",
+        "opties": [
+          "نَجَحَ نَجاحًا كَبيرًا.",
+          "نَجَحَ في الاِمْتِحانِ.",
+          "نَجَحَ مَسْرورًا."
+        ],
+        "juist": 0,
+        "uitleg": "Zelfde wortel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "{ar|اِحْتِرامًا لِـ} geeft ...",
+        "opties": [
+          "een reden",
+          "een tijd",
+          "een plaats"
+        ],
+        "juist": 0,
+        "uitleg": "Mafʿūl li-ajlihi."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "'Ze kwam binnen terwijl ze huilde' is ...",
+        "opties": [
+          "دَخَلَتْ وَهِيَ تَبْكي",
+          "دَخَلَتْ وَبَكَتْ",
+          "دَخَلَتْ لِتَبْكِيَ"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "invullen",
+        "tag": "hal-zin",
+        "zin": "جاءَ الوَلَدُ ___.",
+        "nl": "De jongen kwam rennend.",
+        "antwoord": [
+          "يَرْكُضُ"
+        ],
+        "uitleg": "Muḍāriʿ-ḥāl.",
+        "woordbank": [
+          "يَرْكُضُ",
+          "رَكَضَ",
+          "رَكْضٌ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Lees de zin zonder harakat. Wat betekent hij?",
+        "ar": "استيقظ الأسد غاضبا",
+        "opties": [
+          "De leeuw werd boos wakker.",
+          "De leeuw sliep rustig.",
+          "De boze leeuw at."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِسْتَيْقَظَ الأَسَدُ غاضِبًا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "Hoe vraag je om verduidelijking?",
+        "opties": [
+          "ماذا تَقْصِدُ؟",
+          "أَتَّفِقُ مَعَكَ",
+          "اِسْمَحْ لي"
+        ],
+        "juist": 0,
+        "uitleg": "Wat bedoel je?"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "Welke reactie is beleefd oneens?",
+        "opties": [
+          "هٰذا صَحيحٌ، لٰكِنْ …",
+          "أَنْتَ مُخْطِئٌ!",
+          "اُسْكُتْ!"
+        ],
+        "juist": 0,
+        "uitleg": "Nuanceren."
+      },
+      {
+        "type": "luisteren",
+        "tag": "lijdende-vorm",
+        "tekst": "نُقِلَ المُصابونَ إِلى المُسْتَشْفى",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De gewonden werden naar het ziekenhuis gebracht.",
+          "De gewonden brachten iemand naar het ziekenhuis.",
+          "Het ziekenhuis is vol."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "law",
+        "tekst": "لَوْ كانَ عِنْدي وَقْتٌ لَساعَدْتُكَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Als ik tijd had, zou ik je helpen.",
+          "Ik had tijd en hielp je.",
+          "Ik help je nooit."
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "toegeving",
+        "tekst": "مَعَ أَنَّهُ مُتْعَبٌ، اِسْتَمَرَّ في العَمَلِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hoewel hij moe was, bleef hij werken.",
+          "Omdat hij moe was, stopte hij.",
+          "Hij was niet moe."
+        ],
+        "juist": 0,
+        "uitleg": "Toegeving."
+      },
+      {
+        "type": "luisteren",
+        "tag": "mafool-mutlaq",
+        "tekst": "سافَرَ رَغْبَةً في التَّعَلُّمِ",
+        "vraag": "Waarom reisde hij?",
+        "opties": [
+          "uit verlangen om te leren",
+          "voor zijn werk",
+          "vanwege zijn familie"
+        ],
+        "juist": 0,
+        "uitleg": "Mafʿūl li-ajlihi."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حَريقٌ",
+            "nl": "brand"
+          },
+          {
+            "ar": "حَضارَةٌ",
+            "nl": "beschaving"
+          },
+          {
+            "ar": "هِجْرَةٌ",
+            "nl": "migratie"
+          },
+          {
+            "ar": "مُعارِضٌ",
+            "nl": "tegenstander"
+          },
+          {
+            "ar": "تَصْريحٌ",
+            "nl": "verklaring"
+          }
+        ],
+        "uitleg": "Woordenschat periode 9."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "جائِزَةٌ",
+            "nl": "prijs"
+          },
+          {
+            "ar": "عَجوزٌ",
+            "nl": "oude man/vrouw"
+          },
+          {
+            "ar": "فَأْرٌ",
+            "nl": "muis"
+          },
+          {
+            "ar": "مُقْنِعٌ",
+            "nl": "overtuigend"
+          },
+          {
+            "ar": "رائِحَةٌ",
+            "nl": "geur"
+          }
+        ],
+        "uitleg": "Woordenschat periode 9."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "lijdende-vorm",
+        "instructie": "Maak de lijdende vorm (hij/het).",
+        "rijen": [
+          {
+            "label": "قالَ (māḍī)",
+            "antwoord": "قيلَ",
+            "tr": "qīla",
+            "eind": true
+          },
+          {
+            "label": "يَفْتَحُ (muḍāriʿ)",
+            "antwoord": "يُفْتَحُ",
+            "tr": "yuftaḥu"
+          }
+        ],
+        "uitleg": "Lijdend.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "indirecte-rede",
+        "nl": "De minister zei dat de regering scholen gaat bouwen.",
+        "woorden": [
+          "قالَ",
+          "الوَزيرُ",
+          "إِنَّ",
+          "الحُكومَةَ",
+          "سَتَبْني",
+          "مَدارِسَ."
+        ],
+        "uitleg": "Indirect."
+      },
+      {
+        "type": "ordenen",
+        "tag": "tijdsvoegwoorden",
+        "nl": "We waren nauwelijks aangekomen of het begon te regenen.",
+        "woorden": [
+          "ما",
+          "إِنْ",
+          "وَصَلْنا",
+          "حَتّى",
+          "بَدَأَ",
+          "المَطَرُ."
+        ],
+        "uitleg": "Constructie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-verhaal",
+        "vraag": "Waarmee begint een Darija-verhaal?",
+        "opties": [
+          "كان واحد …",
+          "غادي …",
+          "ما … ش"
+        ],
+        "juist": 0,
+        "uitleg": "Er was eens."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dokter",
+        "vraag": "'Ik heb hoofdpijn' in het Darija is ...",
+        "opties": [
+          "كيضرني راسي",
+          "عندي راسي",
+          "راسي مزيان"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كيضرني}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-werk",
+        "vraag": "Darija {ar|الكونجي} betekent ...",
+        "opties": [
+          "verlof",
+          "salaris",
+          "baas"
+        ],
+        "juist": 0,
+        "uitleg": "Frans *congé*."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "law",
+        "bron": "Had ik het maar geweten!",
+        "antwoorden": [
+          "يا لَيْتَني عَرَفْتُ",
+          "لَيْتَني عَرَفْتُ"
+        ],
+        "uitleg": "{ar|لَيْتَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "lijdende-vorm",
+        "bron": "Er werd gezegd …",
+        "antwoorden": [
+          "قيلَ"
+        ],
+        "uitleg": "Lijdend hol."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "oorzaak-doel",
+        "bron": "أَدّى الجَفافُ إِلى ارْتِفاعِ الأَسْعارِ.",
+        "antwoorden": [
+          "de droogte leidde tot hogere prijzen",
+          "de droogte leidde tot een stijging van de prijzen"
+        ],
+        "uitleg": "{ar|أَدّى إِلى}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "toegeving",
+        "bron": "أَمّا أَنا فَأُفَضِّلُ الشّايَ.",
+        "antwoorden": [
+          "ik daarentegen geef de voorkeur aan thee",
+          "ik heb liever thee",
+          "wat mij betreft ik heb liever thee"
+        ],
+        "uitleg": "{ar|أَمّا … فَـ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hal-zin",
+        "bron": "رَجَعَ مِنَ السَّفَرِ وَقَدْ تَغَيَّرَ.",
+        "antwoorden": [
+          "hij kwam terug van de reis inmiddels veranderd",
+          "hij kwam veranderd terug van de reis"
+        ],
+        "uitleg": "{ar|وَقَدْ}"
+      }
+    ]
+  }
+}

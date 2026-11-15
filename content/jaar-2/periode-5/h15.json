@@ -1,0 +1,535 @@
+{
+  "id": "j2-p5-h15",
+  "code": "H15",
+  "type": "herhaling",
+  "titel": "Herhaling periode 5",
+  "thema": "Wortels, wijzen en de tien werkwoordsvormen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "elk afgeleid werkwoord herleiden tot wortel en vorm.",
+    "de vormen VI–X vervoegen en hun maṣdar maken.",
+    "manṣūb, majzūm en gebiedende wijs gebruiken bij afgeleide vormen.",
+    "de Darija van blok 5 (ديال، aan tafel, op de markt) gebruiken."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 5 (les 49–60 en D07–D09) voordat je de periodetoets maakt.",
+  "grammatica": [
+    {
+      "titel": "Herkenningskaart",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Je ziet …",
+            "Dan is het waarschijnlijk …",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "shadda op de middelste letter",
+              "II (of V met تَـ)",
+              "دَرَّسَ / تَعَلَّمَ"
+            ],
+            [
+              "ā na de eerste letter",
+              "III (of VI met تَـ)",
+              "ساعَدَ / تَقابَلَ"
+            ],
+            [
+              "أَ vooraan + sukūn",
+              "IV",
+              "أَرْسَلَ"
+            ],
+            [
+              "اِنْـ vooraan",
+              "VII",
+              "اِنْكَسَرَ"
+            ],
+            [
+              "ت (of ط / د) na de eerste letter",
+              "VIII",
+              "اِجْتَمَعَ / اِزْدَحَمَ"
+            ],
+            [
+              "shadda op de laatste letter + اِ",
+              "IX",
+              "اِحْمَرَّ"
+            ],
+            [
+              "اِسْتَـ vooraan",
+              "X",
+              "اِسْتَخْدَمَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Let op valkuilen: in **vorm VII** hoort de ن bij het patroon, maar in {ar|اِنْتَظَرَ} (vorm VIII van ن-ظ-ر) hoort de ن bij de **wortel**. Zoek daarom altijd eerst de **ت** van vorm VIII: staat er een ت na de eerste letter, dan is het vorm VIII."
+        }
+      ]
+    },
+    {
+      "titel": "Een dag vol vormen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِسْتَيْقَظْتُ مُبَكِّرًا وَاسْتَمَعْتُ إِلى الأَخْبارِ.",
+              "tr": "istayqaẓtu mubakkiran wa-stamaʿtu ila l-aḫbār.",
+              "nl": "Ik werd vroeg wakker en luisterde naar het nieuws."
+            },
+            {
+              "ar": "ثُمَّ اجْتَمَعْتُ مَعَ زُمَلائي وَتَناقَشْنا في المَشْروعِ.",
+              "tr": "ṯumma jtamaʿtu maʿa zumalāʾī wa-tanāqašnā fi l-mašrūʿ.",
+              "nl": "Daarna kwam ik samen met mijn collega's en bespraken we het project."
+            },
+            {
+              "ar": "في المَساءِ أَرْسَلْتُ رِسالَةً لِأُمّي وَتَعَلَّمْتُ كَلِماتٍ جَديدَةً.",
+              "tr": "fi l-masāʾi arsaltu risālatan li-ummī wa-taʿallamtu kalimātin jadīda.",
+              "nl": "'s Avonds stuurde ik een bericht naar mijn moeder en leerde ik nieuwe woorden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Vorm en wortel",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|اِنْتَظَرَ}?",
+          "opties": [
+            "VIII (wortel ن-ظ-ر)",
+            "VII (wortel ت-ظ-ر)",
+            "X"
+          ],
+          "juist": 0,
+          "uitleg": "ت na de eerste wortelletter ن."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|تَناقَشْنا}?",
+          "opties": [
+            "VI",
+            "V",
+            "III"
+          ],
+          "juist": 0,
+          "uitleg": "تَـ + ā = vorm VI."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|يُرْسِلونَ}?",
+          "opties": [
+            "IV",
+            "I",
+            "X"
+          ],
+          "juist": 0,
+          "uitleg": "يُـ + sukūn op de eerste wortelletter."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَوْعِدٌ",
+              "nl": "afspraak"
+            },
+            {
+              "ar": "شاحِنَةٌ",
+              "nl": "vrachtwagen",
+              "woord": "j2-p5-l58-w12"
+            },
+            {
+              "ar": "تَطْبيقٌ",
+              "nl": "app",
+              "woord": "j2-p5-l59-w07"
+            },
+            {
+              "ar": "مُقابَلَةٌ",
+              "nl": "interview"
+            },
+            {
+              "ar": "الخضرة",
+              "nl": "groente (Darija)",
+              "woord": "j2-p5-d09-w01"
+            },
+            {
+              "ar": "جيرانٌ",
+              "nl": "buren"
+            }
+          ],
+          "uitleg": "Woorden uit blok 5C."
+        }
+      ]
+    },
+    {
+      "titel": "Vormen gebruiken",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "afgeleide-vormen",
+          "instructie": "Geef de māḍī (wij).",
+          "rijen": [
+            {
+              "label": "تَقابَلَ (VI)",
+              "antwoord": "تَقابَلْنا",
+              "tr": "taqābalnā"
+            },
+            {
+              "label": "اِجْتَمَعَ (VIII)",
+              "antwoord": "اِجْتَمَعْنا",
+              "tr": "ijtamaʿnā"
+            },
+            {
+              "label": "اِسْتَخْدَمَ (X)",
+              "antwoord": "اِسْتَخْدَمْنا",
+              "tr": "istaḫdamnā"
+            }
+          ],
+          "uitleg": "Stam + ـْنا."
+        },
+        {
+          "type": "invullen",
+          "tag": "mansub",
+          "zin": "نُريدُ أَنْ ___ في المَساءِ.",
+          "nl": "We willen 's avonds samenkomen.",
+          "woordbank": [
+            "نَجْتَمِعَ",
+            "نَجْتَمِعُ",
+            "اِجْتَمَعْنا"
+          ],
+          "antwoord": [
+            "نَجْتَمِعَ"
+          ],
+          "uitleg": "{ar|أَنْ} + manṣūb.",
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "majzum-lam",
+          "zin": "لَمْ ___ هٰذا التَّطْبيقَ مِنْ قَبْلُ.",
+          "nl": "Ik heb deze app nog nooit gebruikt.",
+          "woordbank": [
+            "أَسْتَخْدِمْ",
+            "أَسْتَخْدِمُ",
+            "اِسْتَخْدَمْتُ"
+          ],
+          "antwoord": [
+            "أَسْتَخْدِمْ"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm.",
+          "streng": true
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar.",
+          "rijen": [
+            {
+              "label": "تَعاوَنَ (VI)",
+              "antwoord": "تَعاوُنٌ",
+              "tr": "taʿāwun"
+            },
+            {
+              "label": "اِنْقَطَعَ (VII)",
+              "antwoord": "اِنْقِطاعٌ",
+              "tr": "inqiṭāʿ"
+            },
+            {
+              "label": "اِسْتَقْبَلَ (X)",
+              "antwoord": "اِسْتِقْبالٌ",
+              "tr": "istiqbāl"
+            }
+          ],
+          "uitleg": "تَفاعُل · اِنْفِعال · اِسْتِفْعال"
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-markt",
+          "zin": "___ الكيلو ديال الحوت؟",
+          "nl": "Hoeveel kost een kilo vis? (Darija)",
+          "woordbank": [
+            "بشحال",
+            "فين",
+            "شكون"
+          ],
+          "antwoord": [
+            "بشحال"
+          ],
+          "uitleg": "{ar|بشحال}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "afgeleide-vormen",
+          "bron": "Ik luister naar muziek.",
+          "antwoorden": [
+            "أَسْتَمِعُ إِلى المُوسيقى"
+          ],
+          "uitleg": "{ar|اِسْتَمَعَ إِلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-bezit",
+          "bron": "mijn huis (Darija, met ديال)",
+          "antwoorden": [
+            "الدار ديالي"
+          ],
+          "uitleg": "{ar|الدار ديالي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "afgeleide-vormen",
+          "bron": "اِنْكَسَرَ الهاتِفُ.",
+          "antwoorden": [
+            "de telefoon is kapotgegaan",
+            "de telefoon brak",
+            "de telefoon is gebroken",
+            "de telefoon ging kapot"
+          ],
+          "uitleg": "Vorm VII."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "afgeleide-vormen",
+          "bron": "اِسْتَغْرَقَ الاِجْتِماعُ ساعَتَيْنِ.",
+          "antwoorden": [
+            "de vergadering duurde twee uur"
+          ],
+          "uitleg": "Vorm X + maṣdar vorm VIII."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welke vorm drukt meestal *elkaar* uit?",
+        "opties": [
+          "VI",
+          "VII",
+          "IV"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَقابَلْنا} = we ontmoetten elkaar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welke vorm drukt vaak uit dat iets *vanzelf* gebeurt?",
+        "opties": [
+          "VII",
+          "II",
+          "X"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِنْكَسَرَ} = brak (vanzelf)."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Wat is de wortel van {ar|اِتَّصَلَ}?",
+        "opties": [
+          "و ص ل",
+          "ت ص ل",
+          "ا ت ص"
+        ],
+        "juist": 0,
+        "uitleg": "و + ت → تّ (vorm VIII)."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "{ar|اِسْتِخْدامٌ} is de maṣdar van vorm ...",
+        "opties": [
+          "X",
+          "VIII",
+          "IV"
+        ],
+        "juist": 0,
+        "uitleg": "اِسْتِفْعال"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "{ar|نَزَلَ} = afdalen, uitstappen. Wat betekent {ar|مَنْزِلٌ} waarschijnlijk?",
+        "opties": [
+          "huis (plek waar je neerstrijkt)",
+          "afdaler",
+          "afgedaald"
+        ],
+        "juist": 0,
+        "uitleg": "مَفْعِل = plaats."
+      },
+      {
+        "type": "luisteren",
+        "tag": "afgeleide-vormen",
+        "tekst": "تَعارَفْنا في حَفْلَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We leerden elkaar kennen op een feest.",
+          "We organiseerden een feest.",
+          "Ik ken hem van een feest."
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VI."
+      },
+      {
+        "type": "luisteren",
+        "tag": "afgeleide-vormen",
+        "tekst": "الطَّريقُ مُزْدَحِمٌ اليَوْمَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De weg is vandaag druk.",
+          "De weg is vandaag afgesloten.",
+          "De weg is vandaag nieuw."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُزْدَحِمٌ} (vorm VIII, assimilatie)."
+      },
+      {
+        "type": "invullen",
+        "tag": "elkaar",
+        "zin": "يُساعِدُ ___ بَعْضًا.",
+        "nl": "Ze helpen elkaar.",
+        "woordbank": [
+          "بَعْضُهُمْ",
+          "بَعْضَهُمْ",
+          "كُلُّهُمْ"
+        ],
+        "antwoord": [
+          "بَعْضُهُمْ"
+        ],
+        "uitleg": "{ar|بَعْضُهُمْ} is onderwerp (nominatief), {ar|بَعْضًا} lijdend voorwerp.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "مَتى ___ الكَهْرَباءُ؟",
+        "nl": "Wanneer viel de stroom uit?",
+        "woordbank": [
+          "اِنْقَطَعَتِ",
+          "قَطَعَتِ",
+          "اِقْتَطَعَتِ"
+        ],
+        "antwoord": [
+          "اِنْقَطَعَتِ",
+          "اِنْقَطَعَتْ"
+        ],
+        "uitleg": "Vorm VII; {ar|الكَهْرَباءُ} vrouwelijk."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "afgeleide-vormen",
+        "instructie": "Geef de muḍāriʿ (zij, m mv).",
+        "rijen": [
+          {
+            "label": "تَبادَلَ (VI)",
+            "antwoord": "يَتَبادَلونَ",
+            "tr": "yatabādalūna"
+          },
+          {
+            "label": "اِسْتَقْبَلَ (X)",
+            "antwoord": "يَسْتَقْبِلونَ",
+            "tr": "yastaqbilūna"
+          }
+        ],
+        "uitleg": "يَتَـ … ـونَ · يَسْتَـ … ـونَ"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "صَداقَةٌ",
+            "nl": "vriendschap"
+          },
+          {
+            "ar": "صُنْدوقٌ",
+            "nl": "doos"
+          },
+          {
+            "ar": "بَطّارِيَّةٌ",
+            "nl": "batterij"
+          },
+          {
+            "ar": "مَعْلَمٌ",
+            "nl": "bezienswaardigheid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "afgeleide-vormen",
+        "nl": "Ik gebruik deze app om woorden te leren.",
+        "woorden": [
+          "أَسْتَخْدِمُ",
+          "هٰذا",
+          "التَّطْبيقَ",
+          "لِتَعَلُّمِ",
+          "الكَلِماتِ."
+        ],
+        "uitleg": "Vorm X + maṣdar vorm V."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "masdar-afgeleid",
+        "bron": "de samenwerking",
+        "antwoorden": [
+          "التَّعاوُنُ"
+        ],
+        "uitleg": "تَفاعُل"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "afgeleide-vormen",
+        "bron": "اِسْتَقْبَلَنا أَصْدِقاؤُنا في المَطارِ.",
+        "antwoorden": [
+          "onze vrienden ontvingen ons op het vliegveld",
+          "onze vrienden hebben ons op het vliegveld ontvangen",
+          "onze vrienden haalden ons op van het vliegveld"
+        ],
+        "uitleg": "Vorm X + ـنا."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-eten",
+        "bron": "زيد كول!",
+        "tr": "zīd kūl!",
+        "antwoorden": [
+          "eet nog wat",
+          "neem nog wat",
+          "eet nog meer"
+        ],
+        "uitleg": "Darija."
+      }
+    ]
+  }
+}

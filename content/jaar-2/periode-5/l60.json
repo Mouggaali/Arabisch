@@ -1,0 +1,774 @@
+{
+  "id": "j2-p5-l60",
+  "code": "L60",
+  "type": "les",
+  "titel": "Woordfamilies",
+  "thema": "Eén wortel, tien vormen: het hele systeem",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "van elke vorm I–X de māḍī, muḍāriʿ, maṣdar en deelwoorden herkennen.",
+    "bij een onbekend woord de vorm en de wortel bepalen.",
+    "per wortel een woordfamilie opbouwen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l60-w01",
+      "ar": "قَبِلَ",
+      "tr": "qabila",
+      "nl": [
+        "accepteren",
+        "aannemen"
+      ],
+      "soort": "werkwoord (I)",
+      "notitie": "Muḍāriʿ: {ar|يَقْبَلُ}; maṣdar {ar|قُبولٌ}."
+    },
+    {
+      "id": "j2-p5-l60-w02",
+      "ar": "قُبولٌ",
+      "tr": "qubūl",
+      "nl": [
+        "acceptatie",
+        "toelating"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l60-w04",
+      "ar": "اِفْتَتَحَ",
+      "tr": "iftataḥa",
+      "nl": [
+        "(officieel) openen"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p5-l60-w05",
+      "ar": "اِفْتِتاحٌ",
+      "tr": "iftitāḥ",
+      "nl": [
+        "opening (ceremonie)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l60-w06",
+      "ar": "اِنْفِتاحٌ",
+      "tr": "infitāḥ",
+      "nl": [
+        "openheid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar vorm VII."
+    },
+    {
+      "id": "j2-p5-l60-w07",
+      "ar": "تَعْليماتٌ",
+      "tr": "taʿlīmāt",
+      "nl": [
+        "instructies"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p5-l60-w08",
+      "ar": "اِسْتِعْلاماتٌ",
+      "tr": "istiʿlāmāt",
+      "nl": [
+        "inlichtingen(balie)"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p5-l60-w09",
+      "ar": "مَعْلَمٌ",
+      "tr": "maʿlam",
+      "nl": [
+        "bezienswaardigheid",
+        "monument"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَعالِمُ}."
+    },
+    {
+      "id": "j2-p5-l60-w10",
+      "ar": "إِعْلانٌ",
+      "tr": "iʿlān",
+      "nl": [
+        "aankondiging",
+        "advertentie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l60-w11",
+      "ar": "مُراسِلٌ",
+      "tr": "murāsil",
+      "nl": [
+        "correspondent",
+        "verslaggever"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Deelwoord vorm III van ر-س-ل."
+    },
+    {
+      "id": "j2-p5-l60-w12",
+      "ar": "رَسولٌ",
+      "tr": "rasūl",
+      "nl": [
+        "boodschapper",
+        "profeet"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l60-w13",
+      "ar": "مُتَكَلِّمٌ",
+      "tr": "mutakallim",
+      "nl": [
+        "spreker"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Deelwoord vorm V."
+    },
+    {
+      "id": "j2-p5-l60-w14",
+      "ar": "كَلامٌ",
+      "tr": "kalām",
+      "nl": [
+        "gepraat",
+        "woorden",
+        "spraak"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l60-w15",
+      "ar": "مُجْتَمِعٌ",
+      "tr": "mujtamiʿ",
+      "nl": [
+        "verzameld",
+        "bijeen"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Actief deelwoord vorm VIII; vergelijk {ar|مُجْتَمَعٌ} (samenleving, passief)."
+    },
+    {
+      "id": "j2-p5-l60-w16",
+      "ar": "جامِعٌ",
+      "tr": "jāmiʿ",
+      "nl": [
+        "grote moskee (vrijdagmoskee)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon فاعِل van ج-م-ع: de plek die (mensen) verzamelt."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De tien vormen in één tabel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Māḍī",
+            "Muḍāriʿ",
+            "Maṣdar",
+            "Actief deelw.",
+            "Passief deelw."
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "rijen": [
+            [
+              "I",
+              "فَعَلَ",
+              "يَفْعَلُ / يَفْعِلُ / يَفْعُلُ",
+              "(verschilt)",
+              "فاعِل",
+              "مَفْعول"
+            ],
+            [
+              "II",
+              "فَعَّلَ",
+              "يُفَعِّلُ",
+              "تَفْعيل",
+              "مُفَعِّل",
+              "مُفَعَّل"
+            ],
+            [
+              "III",
+              "فاعَلَ",
+              "يُفاعِلُ",
+              "مُفاعَلَة",
+              "مُفاعِل",
+              "مُفاعَل"
+            ],
+            [
+              "IV",
+              "أَفْعَلَ",
+              "يُفْعِلُ",
+              "إِفْعال",
+              "مُفْعِل",
+              "مُفْعَل"
+            ],
+            [
+              "V",
+              "تَفَعَّلَ",
+              "يَتَفَعَّلُ",
+              "تَفَعُّل",
+              "مُتَفَعِّل",
+              "مُتَفَعَّل"
+            ],
+            [
+              "VI",
+              "تَفاعَلَ",
+              "يَتَفاعَلُ",
+              "تَفاعُل",
+              "مُتَفاعِل",
+              "مُتَفاعَل"
+            ],
+            [
+              "VII",
+              "اِنْفَعَلَ",
+              "يَنْفَعِلُ",
+              "اِنْفِعال",
+              "مُنْفَعِل",
+              "—"
+            ],
+            [
+              "VIII",
+              "اِفْتَعَلَ",
+              "يَفْتَعِلُ",
+              "اِفْتِعال",
+              "مُفْتَعِل",
+              "مُفْتَعَل"
+            ],
+            [
+              "IX",
+              "اِفْعَلَّ",
+              "يَفْعَلُّ",
+              "اِفْعِلال",
+              "مُفْعَلّ",
+              "—"
+            ],
+            [
+              "X",
+              "اِسْتَفْعَلَ",
+              "يَسْتَفْعِلُ",
+              "اِسْتِفْعال",
+              "مُسْتَفْعِل",
+              "مُسْتَفْعَل"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Drie patronen keren overal terug. **Deelwoorden** beginnen met {ar|مُـ} en hebben de muḍāriʿ-klinkers: *i* voor de laatste letter = actief (wie het doet), *a* = passief (wat gedaan is). **Maṣdars** van VII–X beginnen met {ar|اِ} en hebben een lange ā voor de laatste letter. **Voorvoegsel u** alleen bij II–IV. Met deze drie regels kun je bijna elk afgeleid woord ontleden."
+        }
+      ]
+    },
+    {
+      "titel": "Een woordfamilie: ع-ل-م",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Vorm / patroon",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            0
+          ],
+          "rijen": [
+            [
+              "عَلِمَ / عِلْمٌ",
+              "I / maṣdar",
+              "weten / wetenschap"
+            ],
+            [
+              "عالِمٌ / مَعْلومٌ",
+              "I fāʿil / mafʿūl",
+              "geleerde / bekend"
+            ],
+            [
+              "عَلَّمَ / تَعْليمٌ / مُعَلِّمٌ",
+              "II",
+              "onderwijzen / onderwijs / leraar"
+            ],
+            [
+              "أَعْلَمَ / إِعْلامٌ",
+              "IV",
+              "informeren / media"
+            ],
+            [
+              "تَعَلَّمَ / تَعَلُّمٌ / مُتَعَلِّمٌ",
+              "V",
+              "leren / het leren / ontwikkeld"
+            ],
+            [
+              "اِسْتَعْلَمَ / اِسْتِعْلاماتٌ",
+              "X",
+              "informeren naar / inlichtingen"
+            ],
+            [
+              "مَعْلَمٌ / عَلامَةٌ",
+              "mafʿal / fiʿāla",
+              "bezienswaardigheid / teken, cijfer"
+            ]
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِسْأَلْ في مَكْتَبِ الاِسْتِعْلاماتِ.",
+              "tr": "isʾal fī maktabi l-istiʿlāmāt.",
+              "nl": "Vraag het bij de inlichtingenbalie."
+            },
+            {
+              "ar": "اِقْرَأِ التَّعْليماتِ قَبْلَ الاِسْتِخْدامِ.",
+              "tr": "iqraʾi t-taʿlīmāti qabla l-istiḫdām.",
+              "nl": "Lees de instructies vóór gebruik."
+            },
+            {
+              "ar": "حَصَلْتُ عَلى قُبولٍ مِنَ الجامِعَةِ.",
+              "tr": "ḥaṣaltu ʿalā qubūlin mina l-jāmiʿa.",
+              "nl": "Ik ben toegelaten tot de universiteit."
+            },
+            {
+              "ar": "قابَلَ المُراسِلُ مُديرَ الشَّرِكَةِ.",
+              "tr": "qābala l-murāsilu mudīra š-šarika.",
+              "nl": "De verslaggever interviewde de directeur van het bedrijf."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قُبولٌ",
+              "nl": "toelating",
+              "woord": "j2-p5-l60-w02"
+            },
+            {
+              "ar": "مُقابَلَةٌ",
+              "nl": "interview"
+            },
+            {
+              "ar": "اِفْتِتاحٌ",
+              "nl": "opening",
+              "woord": "j2-p5-l60-w05"
+            },
+            {
+              "ar": "تَعْليماتٌ",
+              "nl": "instructies",
+              "woord": "j2-p5-l60-w07"
+            },
+            {
+              "ar": "مَعْلَمٌ",
+              "nl": "bezienswaardigheid",
+              "woord": "j2-p5-l60-w09"
+            },
+            {
+              "ar": "مُراسِلٌ",
+              "nl": "verslaggever",
+              "woord": "j2-p5-l60-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "afgeleide-vormen",
+          "tekst": "اِسْتِعْلاماتٌ",
+          "vraag": "Welke vorm (maṣdar) hoor je?",
+          "opties": [
+            "X",
+            "VIII",
+            "IV"
+          ],
+          "juist": 0,
+          "uitleg": "اِسْتِفْعال = vorm X."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm bepalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|مُتَعاوِنٌ}?",
+          "opties": [
+            "VI (deelwoord)",
+            "III (deelwoord)",
+            "V (maṣdar)"
+          ],
+          "juist": 0,
+          "uitleg": "مُتَفاعِل = deelwoord vorm VI."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|اِنْفِتاحٌ}?",
+          "opties": [
+            "VII (maṣdar)",
+            "VIII (maṣdar)",
+            "X (maṣdar)"
+          ],
+          "juist": 0,
+          "uitleg": "اِنْفِعال"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welk woord is een passief deelwoord?",
+          "opties": [
+            "مُسْتَخْدَمٌ",
+            "مُسْتَخْدِمٌ",
+            "اِسْتِخْدامٌ"
+          ],
+          "juist": 0,
+          "uitleg": "a voor de laatste letter = passief (gebruikt)."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "afgeleide-vormen",
+          "instructie": "Geef de muḍāriʿ (hij) van elke vorm.",
+          "rijen": [
+            {
+              "label": "اِنْتَظَرَ (VIII)",
+              "antwoord": "يَنْتَظِرُ",
+              "tr": "yantaẓiru"
+            },
+            {
+              "label": "اِنْقَطَعَ (VII)",
+              "antwoord": "يَنْقَطِعُ",
+              "tr": "yanqaṭiʿu"
+            },
+            {
+              "label": "تَقابَلَ (VI)",
+              "antwoord": "يَتَقابَلُ",
+              "tr": "yataqābalu"
+            },
+            {
+              "label": "اِسْتَعْمَلَ (X)",
+              "antwoord": "يَسْتَعْمِلُ",
+              "tr": "yastaʿmilu"
+            }
+          ],
+          "uitleg": "Voorvoegsel a; stamklinker i bij VII, VIII en X, a bij VI."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar.",
+          "rijen": [
+            {
+              "label": "اِجْتَمَعَ (VIII)",
+              "antwoord": "اِجْتِماعٌ",
+              "tr": "ijtimāʿ"
+            },
+            {
+              "label": "اِنْتَقَلَ (VIII)",
+              "antwoord": "اِنْتِقالٌ",
+              "tr": "intiqāl"
+            },
+            {
+              "label": "اِسْتَخْدَمَ (X)",
+              "antwoord": "اِسْتِخْدامٌ",
+              "tr": "istiḫdām"
+            }
+          ],
+          "uitleg": "اِفْتِعال · اِفْتِعال · اِسْتِفْعال"
+        }
+      ]
+    },
+    {
+      "titel": "Families",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "Welk woord hoort NIET bij de wortel ق-ب-ل?",
+          "opties": [
+            "قَلْبٌ",
+            "مُسْتَقْبَلٌ",
+            "مُقابَلَةٌ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَلْبٌ} (hart) heeft de wortel ق-ل-ب."
+        },
+        {
+          "type": "invullen",
+          "tag": "afgeleide-vormen",
+          "zin": "اِقْرَأِ ___ قَبْلَ الاِسْتِخْدامِ.",
+          "nl": "Lees de instructies vóór gebruik.",
+          "woordbank": [
+            "التَّعْليماتِ",
+            "المُعَلِّمينَ",
+            "العُلَماءَ"
+          ],
+          "antwoord": [
+            "التَّعْليماتِ"
+          ],
+          "uitleg": "Maṣdar vorm II, meervoud."
+        },
+        {
+          "type": "ordenen",
+          "tag": "afgeleide-vormen",
+          "nl": "Ik ben toegelaten tot de universiteit.",
+          "woorden": [
+            "حَصَلْتُ",
+            "عَلى",
+            "قُبولٍ",
+            "مِنَ",
+            "الجامِعَةِ."
+          ],
+          "uitleg": "{ar|قُبولٌ} = toelating."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "afgeleide-vormen",
+          "bron": "de spreker",
+          "antwoorden": [
+            "المُتَكَلِّمُ"
+          ],
+          "uitleg": "Deelwoord vorm V."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "afgeleide-vormen",
+          "bron": "اِفْتَتَحَ المُديرُ المَكْتَبَةَ الجَديدَةَ.",
+          "antwoorden": [
+            "de directeur opende de nieuwe bibliotheek",
+            "de directeur heeft de nieuwe bibliotheek geopend"
+          ],
+          "uitleg": "Vorm VIII van ف-ت-ح."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "afgeleide-vormen",
+        "paren": [
+          {
+            "ar": "تَفْعيل",
+            "nl": "maṣdar vorm II"
+          },
+          {
+            "ar": "مُفاعَلَة",
+            "nl": "maṣdar vorm III"
+          },
+          {
+            "ar": "إِفْعال",
+            "nl": "maṣdar vorm IV"
+          },
+          {
+            "ar": "اِفْتِعال",
+            "nl": "maṣdar vorm VIII"
+          },
+          {
+            "ar": "اِسْتِفْعال",
+            "nl": "maṣdar vorm X"
+          }
+        ],
+        "uitleg": "Maṣdar-patronen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Bij welke vorm hoort {ar|يُفاعِلُ}?",
+        "opties": [
+          "III",
+          "VI",
+          "II"
+        ],
+        "juist": 0,
+        "uitleg": "Voorvoegsel u + ā = vorm III."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Bij welke vorm hoort {ar|يَتَفَعَّلُ}?",
+        "opties": [
+          "V",
+          "II",
+          "VI"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ + shadda = vorm V."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Wat betekent {ar|مُسْتَقْبِلٌ} (actief deelwoord van اِسْتَقْبَلَ)?",
+        "opties": [
+          "ontvanger",
+          "toekomst",
+          "ontvangst"
+        ],
+        "juist": 0,
+        "uitleg": "i voor de laatste letter = wie het doet."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Wat is de wortel van {ar|اِسْتِعْلاماتٌ}?",
+        "opties": [
+          "ع ل م",
+          "س ت ع",
+          "ع ل ت"
+        ],
+        "juist": 0,
+        "uitleg": "اِسْتِـ en ـات zijn patroonletters."
+      },
+      {
+        "type": "luisteren",
+        "tag": "afgeleide-vormen",
+        "tekst": "مُقابَلَةٌ",
+        "vraag": "Welke vorm (maṣdar) hoor je?",
+        "opties": [
+          "III",
+          "VI",
+          "X"
+        ],
+        "juist": 0,
+        "uitleg": "مُفاعَلَة"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "زُرْنا مَعالِمَ المَدينَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We bezochten de bezienswaardigheden van de stad.",
+          "We bezochten de scholen van de stad.",
+          "We kenden de stad niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَعالِمُ} = bezienswaardigheden."
+      },
+      {
+        "type": "invullen",
+        "tag": "masdar-afgeleid",
+        "zin": "حَضَرْنا ___ المَتْجَرِ الجَديدِ.",
+        "nl": "We waren bij de opening van de nieuwe winkel.",
+        "woordbank": [
+          "اِفْتِتاحَ",
+          "فَتْحَ",
+          "مِفْتاحَ"
+        ],
+        "antwoord": [
+          "اِفْتِتاحَ"
+        ],
+        "uitleg": "Maṣdar vorm VIII."
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "الطُّلّابُ ___ في القاعَةِ.",
+        "nl": "De studenten zijn bijeen in de zaal.",
+        "woordbank": [
+          "مُجْتَمِعونَ",
+          "مُجْتَمَعٌ",
+          "جامِعونَ"
+        ],
+        "antwoord": [
+          "مُجْتَمِعونَ"
+        ],
+        "uitleg": "Actief deelwoord vorm VIII, meervoud."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "afgeleide-vormen",
+        "instructie": "Geef het actief deelwoord.",
+        "rijen": [
+          {
+            "label": "سافَرَ (III)",
+            "antwoord": "مُسافِرٌ",
+            "tr": "musāfir"
+          },
+          {
+            "label": "اِسْتَمَعَ (VIII)",
+            "antwoord": "مُسْتَمِعٌ",
+            "tr": "mustamiʿ"
+          },
+          {
+            "label": "تَرْجَمَ (vier letters)",
+            "antwoord": "مُتَرْجِمٌ",
+            "tr": "mutarjim"
+          }
+        ],
+        "uitleg": "مُـ + muḍāriʿ-stam."
+      },
+      {
+        "type": "ordenen",
+        "tag": "afgeleide-vormen",
+        "nl": "Lees de instructies vóór gebruik.",
+        "woorden": [
+          "اِقْرَأِ",
+          "التَّعْليماتِ",
+          "قَبْلَ",
+          "الاِسْتِخْدامِ."
+        ],
+        "uitleg": "Twee maṣdars."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "masdar-afgeleid",
+        "bron": "de vergadering",
+        "antwoorden": [
+          "الاِجْتِماعُ"
+        ],
+        "uitleg": "Maṣdar vorm VIII van ج-م-ع."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "afgeleide-vormen",
+        "bron": "de reiziger",
+        "antwoorden": [
+          "المُسافِرُ"
+        ],
+        "uitleg": "Deelwoord vorm III."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "afgeleide-vormen",
+        "bron": "قَبِلَتِ الشَّرِكَةُ طَلَبي.",
+        "antwoorden": [
+          "het bedrijf heeft mijn aanvraag geaccepteerd",
+          "het bedrijf accepteerde mijn aanvraag",
+          "het bedrijf heeft mijn aanvraag aangenomen",
+          "het bedrijf nam mijn sollicitatie aan",
+          "het bedrijf heeft mijn verzoek geaccepteerd"
+        ],
+        "uitleg": "{ar|قَبِلَ} = accepteren; {ar|طَلَبٌ} = aanvraag."
+      }
+    ]
+  }
+}

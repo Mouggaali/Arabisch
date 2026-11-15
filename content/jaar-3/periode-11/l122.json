@@ -1,0 +1,619 @@
+{
+  "id": "j3-p11-l122",
+  "code": "L122",
+  "type": "les",
+  "titel": "Werkwoorden met een vast voorzetsel",
+  "thema": "Wennen in een nieuw land; werkwoord + voorzetsel",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "werkwoorden met hun vaste voorzetsel gebruiken.",
+    "betekenisverschillen door het voorzetsel herkennen (رَغِبَ في / عَنْ، قَضى / قَضى عَلى).",
+    "het voorzetsel terugzetten in een betrekkelijke bijzin."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l122-w01",
+      "ar": "رَغِبَ في",
+      "tr": "raġiba fī",
+      "nl": [
+        "verlangen naar, willen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l122-w02",
+      "ar": "رَغِبَ عَنْ",
+      "tr": "raġiba ʿan",
+      "nl": [
+        "zich afkeren van, niet willen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l122-w03",
+      "ar": "اِعْتَمَدَ عَلى",
+      "tr": "iʿtamada ʿalā",
+      "nl": [
+        "afhangen van, vertrouwen op"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l122-w04",
+      "ar": "اِهْتَمَّ بِـ",
+      "tr": "ihtamma bi-",
+      "nl": [
+        "zich interesseren voor, zorgen voor"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l122-w05",
+      "ar": "تَخَلّى عَنْ",
+      "tr": "taḫallā ʿan",
+      "nl": [
+        "opgeven, afstand doen van"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p11-l122-w06",
+      "ar": "فَكَّرَ في",
+      "tr": "fakkara fī",
+      "nl": [
+        "denken aan, nadenken over"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p11-l122-w07",
+      "ar": "سَخِرَ مِنْ",
+      "tr": "saḫira min",
+      "nl": [
+        "spotten met"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l122-w08",
+      "ar": "قَضى عَلى",
+      "tr": "qaḍā ʿalā",
+      "nl": [
+        "een einde maken aan, uitroeien"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l122-w09",
+      "ar": "اِنْتَهى مِنْ",
+      "tr": "intahā min",
+      "nl": [
+        "klaar zijn met"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l122-w10",
+      "ar": "اِسْتَغْنى عَنْ",
+      "tr": "istaġnā ʿan",
+      "nl": [
+        "het stellen zonder"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j3-p11-l122-w12",
+      "ar": "أَشْرَفَ عَلى",
+      "tr": "ašrafa ʿalā",
+      "nl": [
+        "toezicht houden op"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p11-l122-w13",
+      "ar": "اِعْتادَ عَلى",
+      "tr": "iʿtāda ʿalā",
+      "nl": [
+        "wennen aan"
+      ],
+      "soort": "werkwoord (VIII, hol)"
+    },
+    {
+      "id": "j3-p11-l122-w14",
+      "ar": "اِنْتَبَهَ إِلى",
+      "tr": "intabaha ilā",
+      "nl": [
+        "letten op"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l122-w15",
+      "ar": "حَذَّرَ مِنْ",
+      "tr": "ḥaḏḏara min",
+      "nl": [
+        "waarschuwen voor"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p11-l122-w16",
+      "ar": "فَسادٌ",
+      "tr": "fasād",
+      "nl": [
+        "corruptie, bederf"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het voorzetsel hoort bij het werkwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Veel werkwoorden hebben een **vast voorzetsel**, net als het Nederlandse *wachten op* of *denken aan*. Leer ze altijd samen. Soms verandert het voorzetsel zelfs de betekenis."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Werkwoord",
+            "Met voorzetsel A",
+            "Met voorzetsel B"
+          ],
+          "rijen": [
+            [
+              "رَغِبَ",
+              "رَغِبَ في: willen",
+              "رَغِبَ عَنْ: niet willen"
+            ],
+            [
+              "قَضى",
+              "قَضى (+ acc.): doorbrengen",
+              "قَضى عَلى: een einde maken aan"
+            ],
+            [
+              "قامَ",
+              "قامَ: opstaan",
+              "قامَ بِـ: uitvoeren"
+            ],
+            [
+              "بَحَثَ",
+              "بَحَثَ عَنْ: zoeken",
+              "بَحَثَ في: onderzoeken"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Het voorzetsel geeft de **richting** van de handeling: {ar|في} = erin, ernaartoe; {ar|عَنْ} = ervan weg. Daarom betekent {ar|رَغِبَ في} *verlangen naar* en {ar|رَغِبَ عَنْ} *zich afwenden van*."
+        },
+        {
+          "type": "letop",
+          "md": "Het voorzetsel blijft bij de maṣdar ({ar|الاِعْتِمادُ عَلى}، {ar|الرَّغْبَةُ في}) en komt in een betrekkelijke bijzin terug met een voornaamwoord: {ar|الكِتابُ الَّذي بَحَثْتُ عَنْهُ} = het boek dat ik zocht."
+        }
+      ]
+    },
+    {
+      "titel": "Wennen in een nieuw land",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في البِدايَةِ لَمْ أَعْتَدْ عَلى البَرْدِ.",
+              "tr": "fi l-bidāyati lam aʿtad ʿala l-bard.",
+              "nl": "In het begin wende ik niet aan de kou."
+            },
+            {
+              "ar": "تَعَرَّفْتُ عَلى جيرانٍ لُطَفاءَ.",
+              "tr": "taʿarraftu ʿalā jīrānin luṭafāʾ.",
+              "nl": "Ik leerde aardige buren kennen."
+            },
+            {
+              "ar": "لا أَسْتَطيعُ أَنْ أَسْتَغْنِيَ عَنْ أَتايِ المَغْرِبِيِّ.",
+              "tr": "lā astaṭīʿu an astaġniya ʿan atāyi l-maġribiyy.",
+              "nl": "Ik kan niet zonder mijn Marokkaanse thee."
+            },
+            {
+              "ar": "قَضى اللِّقاحُ عَلى المَرَضِ.",
+              "tr": "qaḍa l-laqāḥu ʿala l-maraḍ.",
+              "nl": "Het vaccin maakte een einde aan de ziekte."
+            },
+            {
+              "ar": "قَضَيْتُ العُطْلَةَ في أَكادير.",
+              "tr": "qaḍaytu l-ʿuṭlata fī akādīr.",
+              "nl": "Ik heb de vakantie in Agadir doorgebracht."
+            },
+            {
+              "ar": "هٰذا هُوَ الكِتابُ الَّذي بَحَثْتُ عَنْهُ.",
+              "tr": "hāḏā huwa l-kitābu llaḏī baḥaṯtu ʿanh.",
+              "nl": "Dit is het boek dat ik zocht."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "vaste-voorzetsels",
+          "paren": [
+            {
+              "ar": "اِعْتَمَدَ عَلى",
+              "nl": "afhangen van",
+              "woord": "j3-p11-l122-w03"
+            },
+            {
+              "ar": "اِهْتَمَّ بِـ",
+              "nl": "zich interesseren voor",
+              "woord": "j3-p11-l122-w04"
+            },
+            {
+              "ar": "تَخَلّى عَنْ",
+              "nl": "opgeven",
+              "woord": "j3-p11-l122-w05"
+            },
+            {
+              "ar": "سَخِرَ مِنْ",
+              "nl": "spotten met",
+              "woord": "j3-p11-l122-w07"
+            },
+            {
+              "ar": "اِنْتَبَهَ إِلى",
+              "nl": "letten op",
+              "woord": "j3-p11-l122-w14"
+            },
+            {
+              "ar": "حَذَّرَ مِنْ",
+              "nl": "waarschuwen voor",
+              "woord": "j3-p11-l122-w15"
+            }
+          ],
+          "uitleg": "Werkwoord + voorzetsel."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vaste-voorzetsels",
+          "tekst": "لا أَسْتَطيعُ أَنْ أَسْتَغْنِيَ عَنِ القَهْوَةِ",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "Ik kan niet zonder koffie.",
+            "Ik drink geen koffie.",
+            "Ik wil koffie bestellen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِسْتَغْنى عَنْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Het juiste voorzetsel",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "تَعْتَمِدُ الشَّرِكَةُ ___ التَّصْديرِ.",
+          "nl": "Het bedrijf is afhankelijk van export.",
+          "antwoord": [
+            "عَلى"
+          ],
+          "uitleg": "{ar|اِعْتَمَدَ عَلى}",
+          "woordbank": [
+            "عَلى",
+            "في",
+            "عَنْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "يَهْتَمُّ ___ التّاريخِ.",
+          "nl": "Hij interesseert zich voor geschiedenis.",
+          "antwoord": [
+            "بِـ"
+          ],
+          "uitleg": "{ar|اِهْتَمَّ بِـ}",
+          "woordbank": [
+            "بِـ",
+            "مِنْ",
+            "إِلى"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "لا تَسْخَرْ ___ أَحَدٍ.",
+          "nl": "Spot met niemand.",
+          "antwoord": [
+            "مِنْ"
+          ],
+          "uitleg": "{ar|سَخِرَ مِنْ}",
+          "woordbank": [
+            "مِنْ",
+            "عَلى",
+            "في"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vaste-voorzetsels",
+          "vraag": "Wat is het verschil tussen {ar|رَغِبَ في} en {ar|رَغِبَ عَنْ}?",
+          "opties": [
+            "willen tegenover niet willen",
+            "er is geen verschil",
+            "heden tegenover verleden"
+          ],
+          "juist": 0,
+          "uitleg": "Richting van het voorzetsel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vaste-voorzetsels",
+          "vraag": "{ar|قَضى عَلى الفَسادِ} betekent ...",
+          "opties": [
+            "een einde maken aan corruptie",
+            "corruptie doorbrengen",
+            "over corruptie oordelen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَضى عَلى}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vaste-voorzetsels",
+          "nl": "Dit is het boek dat ik zocht.",
+          "woorden": [
+            "هٰذا",
+            "هُوَ",
+            "الكِتابُ",
+            "الَّذي",
+            "بَحَثْتُ",
+            "عَنْهُ."
+          ],
+          "uitleg": "Voorzetsel + voornaamwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vaste-voorzetsels",
+          "bron": "Ik leerde aardige buren kennen.",
+          "antwoorden": [
+            "تَعَرَّفْتُ عَلى جيرانٍ لُطَفاءَ",
+            "تعرفت على جيران لطفاء"
+          ],
+          "uitleg": "{ar|تَعَرَّفَ عَلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vaste-voorzetsels",
+          "bron": "تَخَلّى عَنْ حُلْمِهِ.",
+          "antwoorden": [
+            "hij gaf zijn droom op",
+            "hij liet zijn droom varen"
+          ],
+          "uitleg": "{ar|تَخَلّى عَنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "vaste-voorzetsels",
+        "paren": [
+          {
+            "ar": "فَكَّرَ في",
+            "nl": "denken aan"
+          },
+          {
+            "ar": "اِنْتَهى مِنْ",
+            "nl": "klaar zijn met"
+          },
+          {
+            "ar": "أَشْرَفَ عَلى",
+            "nl": "toezicht houden op"
+          },
+          {
+            "ar": "اِعْتادَ عَلى",
+            "nl": "wennen aan"
+          },
+          {
+            "ar": "تَعَرَّفَ عَلى",
+            "nl": "kennismaken met"
+          }
+        ],
+        "uitleg": "Werkwoord + voorzetsel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "'Ik denk aan je' is ...",
+        "opties": [
+          "أُفَكِّرُ فيكَ",
+          "أُفَكِّرُ عَنْكَ",
+          "أُفَكِّرُ مِنْكَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَكَّرَ في}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "{ar|قامَ بِواجِبِهِ} betekent ...",
+        "opties": [
+          "hij deed zijn plicht",
+          "hij stond op voor zijn plicht",
+          "hij weigerde zijn plicht"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قامَ بِـ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "'Het boek dat ik zocht' is ...",
+        "opties": [
+          "الكِتابُ الَّذي بَحَثْتُ عَنْهُ",
+          "الكِتابُ الَّذي بَحَثْتُهُ",
+          "الكِتابُ عَنْهُ بَحَثْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Voornaamwoord na het voorzetsel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "De maṣdar van {ar|اِعْتَمَدَ عَلى} is ...",
+        "opties": [
+          "الاِعْتِمادُ عَلى",
+          "الاِعْتِمادُ في",
+          "المُعْتَمَدُ"
+        ],
+        "juist": 0,
+        "uitleg": "Voorzetsel blijft."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vaste-voorzetsels",
+        "tekst": "اِنْتَبِهْ إِلى الطَّريقِ!",
+        "vraag": "Wat moet je doen?",
+        "opties": [
+          "op de weg letten",
+          "de weg oversteken",
+          "de weg zoeken"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِنْتَبَهَ إِلى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vaste-voorzetsels",
+        "tekst": "حَذَّرَتِ الشُّرْطَةُ مِنَ الضَّبابِ",
+        "vraag": "Waarvoor waarschuwde de politie?",
+        "opties": [
+          "voor mist",
+          "voor regen",
+          "voor files"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|حَذَّرَ مِنْ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "هَلِ انْتَهَيْتَ ___ الواجِبِ؟",
+        "nl": "Ben je klaar met je huiswerk?",
+        "antwoord": [
+          "مِنَ"
+        ],
+        "uitleg": "{ar|اِنْتَهى مِنْ}",
+        "woordbank": [
+          "مِنَ",
+          "عَلى",
+          "إِلى"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "يُشْرِفُ المُديرُ ___ المَشْروعِ.",
+        "nl": "De directeur houdt toezicht op het project.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|أَشْرَفَ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "في",
+          "بِـ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "اِعْتَدْتُ ___ الحَياةِ هُنا.",
+        "nl": "Ik ben gewend geraakt aan het leven hier.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|اِعْتادَ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "مِنْ",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vaste-voorzetsels",
+        "instructie": "Vul het voorzetsel in.",
+        "rijen": [
+          {
+            "label": "رَغِبَ ___ (willen)",
+            "antwoord": "في",
+            "tr": "fī"
+          },
+          {
+            "label": "تَخَلّى ___ (opgeven)",
+            "antwoord": "عَنْ",
+            "tr": "ʿan"
+          }
+        ],
+        "uitleg": "Vast voorzetsel."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vaste-voorzetsels",
+        "nl": "Het vaccin maakte een einde aan de ziekte.",
+        "woorden": [
+          "قَضى",
+          "اللِّقاحُ",
+          "عَلى",
+          "المَرَضِ."
+        ],
+        "uitleg": "{ar|قَضى عَلى}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vaste-voorzetsels",
+        "bron": "Hij interesseert zich voor sport.",
+        "antwoorden": [
+          "يَهْتَمُّ بِالرِّياضَةِ",
+          "يهتم بالرياضة"
+        ],
+        "uitleg": "{ar|اِهْتَمَّ بِـ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vaste-voorzetsels",
+        "bron": "لا أَسْتَطيعُ أَنْ أَسْتَغْنِيَ عَنْ عائِلَتي.",
+        "antwoorden": [
+          "ik kan niet zonder mijn familie",
+          "ik kan mijn familie niet missen"
+        ],
+        "uitleg": "{ar|اِسْتَغْنى عَنْ}"
+      }
+    ]
+  }
+}

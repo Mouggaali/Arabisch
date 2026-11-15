@@ -1,0 +1,176 @@
+{
+  "id": "j1-p2-l20",
+  "code": "L20",
+  "type": "les",
+  "titel": "Muḍāriʿ II: routine",
+  "thema": "Dagelijkse routine van groepen; zeggen wat je niet doet",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de muḍāriʿ vervoegen in het meervoud: wij, jullie (m/v), zij (m/v).",
+    "de uitgangen ـونَ en ـْنَ gebruiken.",
+    "een werkwoord ontkennen met لا: لا أَعْرِفُ.",
+    "over de dagelijkse routine van mezelf en anderen vertellen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l20-w01", "ar": "يَطْبُخُ", "tr": "yaṭbuḫu", "nl": ["koken (eten klaarmaken)"], "soort": "werkwoord", "notitie": "Stamklinker u." },
+    { "id": "j1-p2-l20-w02", "ar": "يَغْسِلُ", "tr": "yaġsilu", "nl": ["wassen"], "soort": "werkwoord", "notitie": "Stamklinker i." },
+    { "id": "j1-p2-l20-w03", "ar": "يَلْبَسُ", "tr": "yalbasu", "nl": ["aantrekken", "dragen (kleding)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l20-w04", "ar": "يَرْكَبُ", "tr": "yarkabu", "nl": ["rijden in/op", "nemen (bus, trein)"], "soort": "werkwoord", "notitie": "Stamklinker a. {ar|يَرْكَبُ الحافِلَةَ} = de bus nemen." },
+    { "id": "j1-p2-l20-w05", "ar": "يَحْفَظُ", "tr": "yaḥfaẓu", "nl": ["uit het hoofd leren", "bewaren"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l20-w06", "ar": "يَنْزِلُ", "tr": "yanzilu", "nl": ["naar beneden gaan", "uitstappen"], "soort": "werkwoord", "notitie": "Stamklinker i." },
+    { "id": "j1-p2-l20-w07", "ar": "يَصْعَدُ", "tr": "yaṣʿadu", "nl": ["naar boven gaan", "instappen"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l20-w08", "ar": "يَشْرَحُ", "tr": "yašraḥu", "nl": ["uitleggen"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l20-w09", "ar": "يَحْمِلُ", "tr": "yaḥmilu", "nl": ["dragen", "meenemen"], "soort": "werkwoord", "notitie": "Stamklinker i." },
+    { "id": "j1-p2-l20-w10", "ar": "يَنْظُرُ", "tr": "yanẓuru", "nl": ["kijken (naar: إِلى)"], "soort": "werkwoord", "notitie": "Stamklinker u." },
+    { "id": "j1-p2-l20-w11", "ar": "يَشْكُرُ", "tr": "yaškuru", "nl": ["bedanken"], "soort": "werkwoord", "notitie": "Stamklinker u." },
+    { "id": "j1-p2-l20-w12", "ar": "يَرْسُمُ", "tr": "yarsumu", "nl": ["tekenen"], "soort": "werkwoord", "notitie": "Stamklinker u." },
+    { "id": "j1-p2-l20-w13", "ar": "واجِبٌ", "tr": "wājib", "nl": ["huiswerk", "plicht"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l20-w14", "ar": "رِياضَةٌ", "tr": "riyāḍa", "nl": ["sport"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l20-w15", "ar": "حافِلَةٌ", "tr": "ḥāfila", "nl": ["bus"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l20-w16", "ar": "قِطارٌ", "tr": "qiṭār", "nl": ["trein"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l20-w17", "ar": "صَحيفَةٌ", "tr": "ṣaḥīfa", "nl": ["krant"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l20-w18", "ar": "الأَخْبارُ", "tr": "al-aḫbār", "nl": ["het nieuws"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p2-l20-w19", "ar": "غالِبًا", "tr": "ġāliban", "nl": ["meestal", "vaak"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De muḍāriʿ in het meervoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In het meervoud gebruik je dezelfde voorvoegsels (نَـ voor *wij*, تَـ voor *jullie*, يَـ voor *zij*). Twee nieuwe uitgangen geven aan of het om mannen of vrouwen gaat: **ـونَ** (mannelijk of gemengd) en **ـْنَ** (alleen vrouwen)."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Vorm", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["نَحْنُ", "نَكْتُبُ|naktubu", "wij schrijven"],
+          ["أَنْتُمْ", "تَكْتُبونَ|taktubūna", "jullie (m) schrijven"],
+          ["أَنْتُنَّ", "تَكْتُبْنَ|taktubna", "jullie (v) schrijven"],
+          ["هُمْ", "يَكْتُبونَ|yaktubūna", "zij (m) schrijven"],
+          ["هُنَّ", "يَكْتُبْنَ|yaktubna", "zij (v) schrijven"]
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Enkelvoud", "Meervoud"], "arKolommen": [1, 2], "rijen": [
+          ["1e", "أَكْتُبُ|aktubu · ik", "نَكْتُبُ|naktubu · wij"],
+          ["2e m", "تَكْتُبُ|taktubu · jij", "تَكْتُبونَ|taktubūna · jullie"],
+          ["2e v", "تَكْتُبِينَ|taktubīna · jij", "تَكْتُبْنَ|taktubna · jullie"],
+          ["3e m", "يَكْتُبُ|yaktubu · hij", "يَكْتُبونَ|yaktubūna · zij"],
+          ["3e v", "تَكْتُبُ|taktubu · zij", "يَكْتُبْنَ|yaktubna · zij"]
+        ] },
+        { "type": "waarom", "md": "De uitgangen lijken op de voornaamwoorden: ـونَ heeft de *u* van {ar|هُمْ} en {ar|أَنْتُمْ}, ـْنَ heeft de *n* van {ar|هُنَّ} en {ar|أَنْتُنَّ}. Voor gemengde groepen gebruik je, net als bij de voornaamwoorden, de mannelijke vorm." },
+        { "type": "letop", "md": "*Zij (v mv)* begint met يَـ, net als *hij*: {ar|يَكْتُبْنَ}. Het is dus niet تَـ zoals bij *zij (ev)*." }
+      ]
+    },
+    {
+      "titel": "Ontkennen met لا",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een werkwoord in de tegenwoordige tijd ontken je door **{ar|لا}** ervoor te zetten. Het werkwoord zelf verandert niet: {ar|أَفْهَمُ} → {ar|لا أَفْهَمُ} (*ik begrijp het niet*).",
+          "{ar|لَيْسَ} (les 12) gebruik je bij een zin **zonder** werkwoord; {ar|لا} bij een zin **met** een werkwoord in de muḍāriʿ."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "لا أَعْرِفُ.", "tr": "lā aʿrif.", "nl": "Ik weet het niet." },
+          { "ar": "هِيَ لا تَعْمَلُ يَوْمَ الجُمُعَةِ.", "tr": "hiya lā taʿmalu yawma l-jumuʿa.", "nl": "Zij werkt niet op vrijdag." },
+          { "ar": "نَحْنُ نَدْرُسُ العَرَبِيَّةَ مَعًا.", "tr": "naḥnu nadrusu l-ʿarabiyyata maʿan.", "nl": "Wij studeren samen Arabisch." },
+          { "ar": "هَلْ تَرْكَبونَ الحافِلَةَ؟ — لا، نَرْكَبُ القِطارَ.", "tr": "hal tarkabūna l-ḥāfila? — lā, narkabu l-qiṭār.", "nl": "Nemen jullie de bus? — Nee, we nemen de trein." },
+          { "ar": "البَناتُ يَلْعَبْنَ في الحَديقَةِ.", "tr": "al-banātu yalʿabna fi l-ḥadīqa.", "nl": "De meisjes spelen in de tuin.",
+            "review": { "status": "onzeker", "note": "Onderwerp vóór het werkwoord met volledige congruentie (يَلْعَبْنَ). In een verbale zin (les 27) wordt dit تَلْعَبُ البَناتُ. Controleren of dit voorbeeld hier niet verwart." } },
+          { "ar": "هُمْ لا يَقْرَؤونَ الصَّحيفَةَ، يَسْمَعونَ الأَخْبارَ.", "tr": "hum lā yaqraʾūna ṣ-ṣaḥīfa, yasmaʿūna l-aḫbār.", "nl": "Zij lezen de krant niet, ze luisteren naar het nieuws.",
+            "review": { "status": "onzeker", "note": "يَقْرَؤونَ (hamza-werkwoord) is spellingtechnisch lastig; controleer de hamza-spelling (يَقْرَؤونَ / يَقْرَأونَ)." } }
+        ] },
+        { "type": "waarom", "md": "Het Arabisch heeft verschillende ontkenningswoorden voor verschillende tijden en zinssoorten. Dat lijkt veel, maar het maakt zinnen ook duidelijk: aan het ontkenningswoord zie je al welke tijd er komt. Later leer je {ar|ما} (verleden tijd), {ar|لَمْ} en {ar|لَنْ}." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "يَطْبُخُ", "nl": "koken", "woord": "j1-p2-l20-w01" },
+          { "ar": "يَغْسِلُ", "nl": "wassen", "woord": "j1-p2-l20-w02" },
+          { "ar": "يَلْبَسُ", "nl": "aantrekken", "woord": "j1-p2-l20-w03" },
+          { "ar": "يَرْكَبُ", "nl": "nemen (bus)", "woord": "j1-p2-l20-w04" },
+          { "ar": "يَشْرَحُ", "nl": "uitleggen", "woord": "j1-p2-l20-w08" },
+          { "ar": "يَرْسُمُ", "nl": "tekenen", "woord": "j1-p2-l20-w12" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "نَطْبُخُ مَعًا", "vraag": "Wat hoor je?", "opties": ["Wij koken samen.", "Zij koken samen.", "Jullie koken samen."], "juist": 0, "uitleg": "نَـ = wij." },
+        { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "يَلْعَبونَ", "vraag": "Wie doet het?", "opties": ["zij (m of gemengd)", "zij (alleen vrouwen)", "wij"], "juist": 0, "uitleg": "يَـ ... ـونَ" }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَدْرُسُ (studeren) in het meervoud.",
+          "rijen": [
+            { "label": "wij", "ar": "نَحْنُ", "antwoord": "نَدْرُسُ", "tr": "nadrusu" },
+            { "label": "jullie (m)", "ar": "أَنْتُمْ", "antwoord": "تَدْرُسونَ", "tr": "tadrusūna" },
+            { "label": "jullie (v)", "ar": "أَنْتُنَّ", "antwoord": "تَدْرُسْنَ", "tr": "tadrusna" },
+            { "label": "zij (m)", "ar": "هُمْ", "antwoord": "يَدْرُسونَ", "tr": "yadrusūna" },
+            { "label": "zij (v)", "ar": "هُنَّ", "antwoord": "يَدْرُسْنَ", "tr": "yadrusna" }
+          ], "uitleg": "ـونَ voor mannen/gemengd, ـْنَ voor vrouwen." },
+        { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَلْبَسُ (aantrekken).",
+          "rijen": [
+            { "label": "ik", "antwoord": "أَلْبَسُ", "tr": "albasu" },
+            { "label": "wij", "antwoord": "نَلْبَسُ", "tr": "nalbasu" },
+            { "label": "zij (m)", "antwoord": "يَلْبَسونَ", "tr": "yalbasūna" },
+            { "label": "zij (v mv)", "antwoord": "يَلْبَسْنَ", "tr": "yalbasna" }
+          ], "uitleg": "Stamklinker a." },
+        { "type": "invullen", "tag": "mudari-meervoud", "zin": "نَحْنُ ___ الحافِلَةَ.", "nl": "Wij nemen de bus.", "woordbank": ["نَرْكَبُ", "يَرْكَبونَ", "أَرْكَبُ"], "antwoord": ["نَرْكَبُ"], "uitleg": "نَـ = wij." },
+        { "type": "invullen", "tag": "mudari-meervoud", "zin": "هُنَّ ___ الواجِبَ.", "nl": "Zij (v mv) schrijven het huiswerk.", "woordbank": ["يَكْتُبْنَ", "يَكْتُبونَ", "تَكْتُبُ"], "antwoord": ["يَكْتُبْنَ"], "uitleg": "هُنَّ: يَـ ... ـْنَ." },
+        { "type": "meerkeuze", "tag": "mudari-meervoud", "vraag": "Een groep jongens en meisjes speelt. Welke vorm?", "opties": ["يَلْعَبونَ", "يَلْعَبْنَ", "تَلْعَبُ"], "juist": 0, "uitleg": "Gemengd → mannelijke vorm." }
+      ]
+    },
+    {
+      "titel": "Ontkennen",
+      "items": [
+        { "type": "invullen", "tag": "ontkenning-la", "zin": "___ أَفْهَمُ.", "nl": "Ik begrijp het niet.", "woordbank": ["لا", "لَيْسَ", "لَسْتُ"], "antwoord": ["لا"], "uitleg": "Werkwoord in de muḍāriʿ → {ar|لا}." },
+        { "type": "meerkeuze", "tag": "ontkenning-la", "vraag": "Welke zin is juist voor 'Hij werkt niet'?", "opties": ["لا يَعْمَلُ.", "لَيْسَ يَعْمَلُ.", "يَعْمَلُ لا."], "juist": 0, "uitleg": "{ar|لا} vóór het werkwoord." },
+        { "type": "meerkeuze", "tag": "ontkenning-la", "vraag": "Welke ontkenning past bij {ar|هُوَ مُتْعَبٌ} (zonder werkwoord)?", "opties": ["هُوَ لَيْسَ مُتْعَبًا.", "هُوَ لا مُتْعَبٌ.", "لا هُوَ مُتْعَبٌ."], "juist": 0, "uitleg": "Zonder werkwoord: {ar|لَيْسَ}." },
+        { "type": "ordenen", "tag": "ontkenning-la", "nl": "Zij werkt niet op vrijdag.", "woorden": ["هِيَ", "لا", "تَعْمَلُ", "يَوْمَ", "الجُمُعَةِ."], "uitleg": "{ar|لا} direct vóór het werkwoord." },
+        { "type": "ordenen", "tag": "mudari-meervoud", "nl": "Nemen jullie de bus? Nee, we nemen de trein.", "woorden": ["هَلْ", "تَرْكَبونَ", "الحافِلَةَ؟", "لا،", "نَرْكَبُ", "القِطارَ."], "uitleg": "{ar|لا} = nee." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "ontkenning-la", "bron": "Ik weet het niet.", "antwoorden": ["لا أَعْرِفُ"], "uitleg": "{ar|لا أَعْرِفُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-meervoud", "bron": "wij studeren", "antwoorden": ["نَدْرُسُ", "نَحْنُ نَدْرُسُ"], "uitleg": "{ar|نَدْرُسُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-meervoud", "bron": "Zij (m) gaan naar school.", "antwoorden": ["يَذْهَبونَ إِلى المَدْرَسَةِ", "هُمْ يَذْهَبونَ إِلى المَدْرَسَةِ"], "uitleg": "{ar|يَذْهَبونَ إِلى المَدْرَسَةِ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-meervoud", "bron": "تَشْرَحونَ الدَّرْسَ.", "tr": "tašraḥūna d-dars.", "antwoorden": ["jullie leggen de les uit", "jullie leggen het uit"], "uitleg": "تَـ ... ـونَ = jullie (m)." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "ontkenning-la", "bron": "لا نَرْسُمُ.", "tr": "lā narsum.", "antwoorden": ["wij tekenen niet", "we tekenen niet"], "uitleg": "{ar|لا} + نَـ." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-meervoud", "bron": "يَحْفَظْنَ الكَلِماتِ.", "tr": "yaḥfaẓna l-kalimāt.", "antwoorden": ["zij leren de woorden uit hun hoofd", "zij leren de woorden", "ze leren de woorden uit hun hoofd", "ze leren de woorden"], "uitleg": "هُنَّ: يَـ ... ـْنَ. {ar|الكَلِماتُ} = de woorden." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "حافِلَةٌ", "nl": "bus" },
+        { "ar": "قِطارٌ", "nl": "trein" },
+        { "ar": "واجِبٌ", "nl": "huiswerk" },
+        { "ar": "رِياضَةٌ", "nl": "sport" },
+        { "ar": "صَحيفَةٌ", "nl": "krant" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "mudari-meervoud", "vraag": "'Wij schrijven' is ...", "opties": ["نَكْتُبُ", "يَكْتُبونَ", "تَكْتُبونَ"], "juist": 0, "uitleg": "نَـ = wij." },
+      { "type": "meerkeuze", "tag": "mudari-meervoud", "vraag": "'Zij (v mv) koken' is ...", "opties": ["يَطْبُخْنَ", "تَطْبُخْنَ", "يَطْبُخونَ"], "juist": 0, "uitleg": "هُنَّ: يَـ ... ـْنَ." },
+      { "type": "meerkeuze", "tag": "ontkenning-la", "vraag": "Hoe ontken je {ar|أَشْرَبُ القَهْوَةَ}?", "opties": ["لا أَشْرَبُ القَهْوَةَ.", "لَسْتُ أَشْرَبُ القَهْوَةَ.", "أَشْرَبُ لا القَهْوَةَ."], "juist": 0, "uitleg": "{ar|لا} vóór het werkwoord." },
+      { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "تَدْرُسونَ", "vraag": "Wie doet het?", "opties": ["jullie (m)", "jullie (v)", "zij (m)"], "juist": 0, "uitleg": "تَـ ... ـونَ" },
+      { "type": "luisteren", "tag": "ontkenning-la", "tekst": "لا أَفْهَمُ", "vraag": "Wat hoor je?", "opties": ["Ik begrijp het niet.", "Ik begrijp het.", "Hij begrijpt het niet."], "juist": 0, "uitleg": "{ar|لا} + أَ." },
+      { "type": "invullen", "tag": "mudari-meervoud", "zin": "أَنْتُمْ ___ الرِّياضَةَ.", "nl": "Jullie doen aan sport (letterlijk: spelen sport).", "woordbank": ["تَلْعَبونَ", "يَلْعَبونَ", "نَلْعَبُ"], "antwoord": ["تَلْعَبونَ"], "uitleg": "أَنْتُمْ: تَـ ... ـونَ." },
+      { "type": "invullen", "tag": "ontkenning-la", "zin": "هُوَ ___ يَعْمَلُ اليَوْمَ.", "nl": "Hij werkt vandaag niet.", "antwoord": ["لا"], "uitleg": "{ar|لا}" },
+      { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَغْسِلُ (wassen).",
+        "rijen": [
+          { "label": "wij", "antwoord": "نَغْسِلُ", "tr": "naġsilu" },
+          { "label": "zij (m)", "antwoord": "يَغْسِلونَ", "tr": "yaġsilūna" },
+          { "label": "jullie (v)", "antwoord": "تَغْسِلْنَ", "tr": "taġsilna" }
+        ], "uitleg": "Stamklinker i." },
+      { "type": "ordenen", "tag": "mudari-meervoud", "nl": "Wij studeren samen Arabisch.", "woorden": ["نَحْنُ", "نَدْرُسُ", "العَرَبِيَّةَ", "مَعًا."], "uitleg": "Onderwerp + werkwoord + lijdend voorwerp + bijwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-meervoud", "bron": "jullie (m) begrijpen", "antwoorden": ["تَفْهَمونَ", "أَنْتُمْ تَفْهَمونَ"], "uitleg": "{ar|تَفْهَمونَ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ontkenning-la", "bron": "Zij (v ev) speelt niet.", "antwoorden": ["لا تَلْعَبُ", "هِيَ لا تَلْعَبُ"], "uitleg": "{ar|لا تَلْعَبُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-meervoud", "bron": "يَنْزِلونَ مِنَ القِطارِ.", "tr": "yanzilūna mina l-qiṭār.", "antwoorden": ["zij stappen uit de trein", "ze stappen uit de trein", "zij stappen uit de trein uit"], "uitleg": "{ar|يَنْزِلُ مِنْ} = uitstappen uit." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "ontkenning-la", "bron": "لا يَشْكُرونَ.", "tr": "lā yaškurūn.", "antwoorden": ["zij bedanken niet", "ze bedanken niet", "zij danken niet"], "uitleg": "{ar|لا} + يَـ ... ـونَ." }
+    ]
+  }
+}

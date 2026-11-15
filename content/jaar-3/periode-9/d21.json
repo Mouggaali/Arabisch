@@ -1,0 +1,632 @@
+{
+  "id": "j3-p9-d21",
+  "code": "D21",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: werk en administratie",
+  "thema": "Op het werk en aan het loket",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "over werk, salaris en verlof praten in het Darija.",
+    "aan een loket vragen wat je nodig hebt (كيخصك).",
+    "Franse administratieve leenwoorden herkennen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-d21-w02",
+      "ar": "الباطرون",
+      "tr": "lbāṭrōn",
+      "nl": [
+        "de baas"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *patron*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w03",
+      "ar": "الخلصة",
+      "tr": "lxəlṣa",
+      "nl": [
+        "het salaris"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w04",
+      "ar": "الكونجي",
+      "tr": "lkōnji",
+      "nl": [
+        "het verlof"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *congé*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w05",
+      "ar": "الإدارة",
+      "tr": "lidāra",
+      "nl": [
+        "de administratie, het bureau"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w06",
+      "ar": "الوراق",
+      "tr": "lwṛāq",
+      "nl": [
+        "de papieren"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w07",
+      "ar": "الطامبر",
+      "tr": "ṭṭāmbər",
+      "nl": [
+        "de zegel, stempel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *timbre*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w08",
+      "ar": "الكاغيط",
+      "tr": "lkāġīṭ",
+      "nl": [
+        "het papier"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w09",
+      "ar": "الصف",
+      "tr": "ṣṣəff",
+      "nl": [
+        "de rij"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w10",
+      "ar": "سني هنا",
+      "tr": "sənni hna",
+      "nl": [
+        "teken hier"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Frans *signer*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w11",
+      "ar": "رجع غدا",
+      "tr": "ṛjəʿ ġədda",
+      "nl": [
+        "kom morgen terug"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w12",
+      "ar": "كيخصك",
+      "tr": "kayxəṣṣək",
+      "nl": [
+        "je hebt nodig"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w13",
+      "ar": "البطاقة الوطنية",
+      "tr": "lbiṭāqa lwaṭaniya",
+      "nl": [
+        "de identiteitskaart"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w14",
+      "ar": "الموظف",
+      "tr": "lmuwaḍḍaf",
+      "nl": [
+        "de ambtenaar"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w15",
+      "ar": "مسالي",
+      "tr": "msāli",
+      "nl": [
+        "klaar, afgehandeld"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w16",
+      "ar": "الخدام",
+      "tr": "lxəddām",
+      "nl": [
+        "de werknemer, arbeider"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d21-w17",
+      "ar": "الطابور",
+      "tr": "ṭṭābōr",
+      "nl": [
+        "de wachtrij"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Op het werk en bij de administratie",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "salaris",
+              "راتِبٌ",
+              "الخلصة|lxəlṣa"
+            ],
+            [
+              "verlof",
+              "إِجازَةٌ",
+              "الكونجي|lkōnji"
+            ],
+            [
+              "baas",
+              "مُديرٌ / رَئيسٌ",
+              "الباطرون|lbāṭrōn"
+            ],
+            [
+              "je hebt … nodig",
+              "تَحْتاجُ إِلى",
+              "كيخصك|kayxəṣṣək"
+            ],
+            [
+              "teken hier",
+              "وَقِّعْ هُنا",
+              "سني هنا|sənni hna"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij de Marokkaanse administratie hoor je veel Franse woorden ({ar|الطامبر}، {ar|سني}), omdat officiële documenten lang in het Frans waren. Formulieren zijn nu vaak tweetalig (Arabisch-Frans)."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كيخصك} (*het is nodig voor jou*) is een onpersoonlijke constructie, net als Fusha {ar|يَجِبُ عَلَيْكَ}: {ar|كيخصك البطاقة الوطنية} = je hebt je identiteitskaart nodig."
+        }
+      ]
+    },
+    {
+      "titel": "Aan het loket",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "شنو كيخصني باش نجدد البطاقة؟",
+              "tr": "šnu kayxəṣṣni bāš njəddəd lbiṭāqa?",
+              "nl": "Wat heb ik nodig om mijn kaart te vernieuwen?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "كيخصك جوج تصاور والطامبر.",
+              "tr": "kayxəṣṣək žūž tṣāwəṛ w-ṭṭāmbər.",
+              "nl": "Je hebt twee foto's en een zegel nodig.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "سني هنا عافاك.",
+              "tr": "sənni hna ʿāfāk.",
+              "nl": "Teken hier alstublieft.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الوراق ماشي مسالين، رجع غدا.",
+              "tr": "lwṛāq māši msālyīn, ṛjəʿ ġədda.",
+              "nl": "De papieren zijn niet klaar, kom morgen terug.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-werk",
+          "paren": [
+            {
+              "ar": "الخلصة",
+              "nl": "salaris",
+              "woord": "j3-p9-d21-w03"
+            },
+            {
+              "ar": "الكونجي",
+              "nl": "verlof",
+              "woord": "j3-p9-d21-w04"
+            },
+            {
+              "ar": "الباطرون",
+              "nl": "baas",
+              "woord": "j3-p9-d21-w02"
+            },
+            {
+              "ar": "الوراق",
+              "nl": "papieren",
+              "woord": "j3-p9-d21-w06"
+            },
+            {
+              "ar": "الطامبر",
+              "nl": "zegel",
+              "woord": "j3-p9-d21-w07"
+            },
+            {
+              "ar": "الصف",
+              "nl": "rij",
+              "woord": "j3-p9-d21-w09"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-werk",
+          "tekst": "سني هنا",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "hier tekenen",
+            "hier wachten",
+            "hier betalen"
+          ],
+          "juist": 0,
+          "uitleg": "Frans *signer* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Aan het loket",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-werk",
+          "zin": "___ البطاقة الوطنية.",
+          "nl": "Je hebt je identiteitskaart nodig.",
+          "antwoord": [
+            "كيخصك"
+          ],
+          "uitleg": "{ar|كيخصك}",
+          "woordbank": [
+            "كيخصك",
+            "سني",
+            "رجع"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-werk",
+          "zin": "الوراق ماشي مسالين، ___ غدا.",
+          "nl": "De papieren zijn niet klaar, kom morgen terug.",
+          "antwoord": [
+            "رجع"
+          ],
+          "uitleg": "{ar|رجع غدا}",
+          "woordbank": [
+            "رجع",
+            "سني",
+            "خود"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|الكونجي} is in het Fusha ...",
+          "opties": [
+            "إِجازَةٌ",
+            "راتِبٌ",
+            "مُديرٌ"
+          ],
+          "juist": 0,
+          "uitleg": "verlof."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-werk",
+          "nl": "Teken hier alstublieft.",
+          "woorden": [
+            "سني",
+            "هنا",
+            "عافاك."
+          ],
+          "uitleg": "Loket."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-werk",
+          "bron": "het salaris (Darija)",
+          "antwoorden": [
+            "الخلصة"
+          ],
+          "uitleg": "{ar|الخلصة}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-werk",
+          "bron": "الباطرون عطاني الكونجي",
+          "antwoorden": [
+            "de baas gaf me verlof",
+            "mijn baas heeft me vrij gegeven"
+          ],
+          "uitleg": "Darija.",
+          "tr": "lbāṭrōn ʿṭāni lkōnji"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-werk",
+        "paren": [
+          {
+            "ar": "الإدارة",
+            "nl": "administratie"
+          },
+          {
+            "ar": "الكاغيط",
+            "nl": "papier"
+          },
+          {
+            "ar": "الموظف",
+            "nl": "ambtenaar"
+          },
+          {
+            "ar": "مسالي",
+            "nl": "klaar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-werk",
+        "vraag": "{ar|الباطرون} komt uit het ...",
+        "opties": [
+          "Frans",
+          "Spaans",
+          "Fusha"
+        ],
+        "juist": 0,
+        "uitleg": "*patron*"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|الخلصة} is in het Fusha ...",
+        "opties": [
+          "راتِبٌ",
+          "إِجازَةٌ",
+          "عَمَلٌ"
+        ],
+        "juist": 0,
+        "uitleg": "salaris."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-werk",
+        "vraag": "Wat betekent {ar|كيخصك}?",
+        "opties": [
+          "je hebt nodig",
+          "je moet weg",
+          "je bent klaar"
+        ],
+        "juist": 0,
+        "uitleg": "Onpersoonlijk."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-werk",
+        "tekst": "رجع غدا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Kom morgen terug.",
+          "Teken hier.",
+          "Het is klaar."
+        ],
+        "juist": 0,
+        "uitleg": "Loket."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-werk",
+        "tekst": "عطاني الباطرون الكونجي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De baas gaf me verlof.",
+          "De baas ontsloeg me.",
+          "Ik heb geen verlof."
+        ],
+        "juist": 0,
+        "uitleg": "Darija."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-werk",
+        "zin": "وقف ف ___.",
+        "nl": "Ga in de rij staan.",
+        "antwoord": [
+          "الصف"
+        ],
+        "uitleg": "{ar|الصف}",
+        "woordbank": [
+          "الصف",
+          "الوراق",
+          "الطامبر"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-werk",
+        "zin": "خصني ___ ديال عشرين درهم.",
+        "nl": "Ik heb een zegel van twintig dirham nodig.",
+        "antwoord": [
+          "طامبر"
+        ],
+        "uitleg": "{ar|الطامبر}",
+        "woordbank": [
+          "طامبر",
+          "كونجي",
+          "باطرون"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-werk",
+        "nl": "Je hebt je identiteitskaart nodig.",
+        "woorden": [
+          "كيخصك",
+          "البطاقة",
+          "الوطنية."
+        ],
+        "uitleg": "Loket."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-werk",
+        "bron": "teken hier (Darija)",
+        "antwoorden": [
+          "سني هنا"
+        ],
+        "uitleg": "{ar|سني هنا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-werk",
+        "bron": "het verlof (Darija)",
+        "antwoorden": [
+          "الكونجي"
+        ],
+        "uitleg": "{ar|الكونجي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-werk",
+        "bron": "الوراق مسالين",
+        "antwoorden": [
+          "de papieren zijn klaar"
+        ],
+        "uitleg": "Darija.",
+        "tr": "lwṛāq msālyīn"
+      }
+    ]
+  }
+}

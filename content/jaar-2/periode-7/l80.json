@@ -1,0 +1,632 @@
+{
+  "id": "j2-p7-l80",
+  "code": "L80",
+  "type": "les",
+  "titel": "Solliciteren",
+  "thema": "Cv, motivatie en sollicitatiegesprek; أَنْ en أَنَّ",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het verschil tussen أَنْ en أَنَّ uitleggen en toepassen.",
+    "complementzinnen maken na willen, weten, denken en horen.",
+    "jezelf presenteren in een sollicitatiegesprek."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l80-w01",
+      "ar": "سيرَةٌ ذاتِيَّةٌ",
+      "tr": "sīratun ḏātiyya",
+      "nl": [
+        "cv"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l80-w02",
+      "ar": "رِسالَةُ تَحْفيزٍ",
+      "tr": "risālatu taḥfīz",
+      "nl": [
+        "motivatiebrief"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l80-w03",
+      "ar": "مُقابَلَةُ عَمَلٍ",
+      "tr": "muqābalatu ʿamal",
+      "nl": [
+        "sollicitatiegesprek"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l80-w04",
+      "ar": "تَقَدَّمَ لِـ",
+      "tr": "taqaddama li-",
+      "nl": [
+        "solliciteren naar"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "{ar|تَقَدَّمْتُ لِوَظيفَةٍ}"
+    },
+    {
+      "id": "j2-p7-l80-w05",
+      "ar": "خِبْرَةٌ",
+      "tr": "ḫibra",
+      "nl": [
+        "ervaring"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l80-w06",
+      "ar": "مُؤَهِّلاتٌ",
+      "tr": "muʾahhilāt",
+      "nl": [
+        "kwalificaties"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p7-l80-w07",
+      "ar": "مَهاراتٌ",
+      "tr": "mahārāt",
+      "nl": [
+        "vaardigheden"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|مَهارَةٌ}."
+    },
+    {
+      "id": "j2-p7-l80-w08",
+      "ar": "نُقْطَةُ قُوَّةٍ",
+      "tr": "nuqṭatu quwwa",
+      "nl": [
+        "sterk punt"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l80-w09",
+      "ar": "نُقْطَةُ ضَعْفٍ",
+      "tr": "nuqṭatu ḍaʿf",
+      "nl": [
+        "zwak punt"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l80-w10",
+      "ar": "فَريقُ عَمَلٍ",
+      "tr": "farīqu ʿamal",
+      "nl": [
+        "werkteam"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l80-w11",
+      "ar": "مَسْؤولِيَّةٌ",
+      "tr": "masʾūliyya",
+      "nl": [
+        "verantwoordelijkheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l80-w12",
+      "ar": "قُبِلْتُ",
+      "tr": "qubiltu",
+      "nl": [
+        "ik ben aangenomen"
+      ],
+      "soort": "werkwoord (lijdend)",
+      "notitie": "Lijdende vorm, les 97."
+    },
+    {
+      "id": "j2-p7-l80-w13",
+      "ar": "رُفِضَ",
+      "tr": "rufiḍa",
+      "nl": [
+        "werd afgewezen"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j2-p7-l80-w14",
+      "ar": "مُتَحَمِّسٌ",
+      "tr": "mutaḥammis",
+      "nl": [
+        "enthousiast"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l80-w15",
+      "ar": "طَموحٌ",
+      "tr": "ṭamūḥ",
+      "nl": [
+        "ambitieus"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l80-w16",
+      "ar": "أَتَمَنّى",
+      "tr": "atamannā",
+      "nl": [
+        "ik hoop"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|أَتَمَنّى أَنْ …}"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "أَنْ of أَنَّ?",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Beide betekenen *dat*, maar ze werken heel anders:",
+            "**أَنْ** + **werkwoord** (manṣūb): {ar|أُريدُ أَنْ أَعْمَلَ} (ik wil werken). **أَنَّ** + **naamwoord/suffix** (accusatief) + gezegde: {ar|أَعْرِفُ أَنَّ العَمَلَ صَعْبٌ} (ik weet dat het werk moeilijk is)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "أَنْ",
+            "أَنَّ"
+          ],
+          "rijen": [
+            [
+              "wat volgt",
+              "muḍāriʿ (manṣūb) of māḍī",
+              "naamwoord in de accusatief of suffix"
+            ],
+            [
+              "na werkwoorden van",
+              "willen, kunnen, proberen, hopen, besluiten",
+              "weten, denken, horen, zeggen (أَنَّ / إِنَّ)"
+            ],
+            [
+              "voorbeeld",
+              "أُحاوِلُ أَنْ أَفْهَمَ",
+              "أَظُنُّ أَنَّها مُحِقَّةٌ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Vuistregel: *willen / moeten / proberen* richten zich op een **handeling** → {ar|أَنْ} + werkwoord. *Weten / denken / horen* gaan over een **feit** → {ar|أَنَّ} + zin. Je kunt {ar|أَنْ} + werkwoord vaak vertalen met *te* (ik probeer **te** begrijpen); {ar|أَنَّ} nooit."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|قالَ} gebruik je {ar|إِنَّ}, niet {ar|أَنَّ}: {ar|قالَ إِنَّهُ مَشْغولٌ}."
+        }
+      ]
+    },
+    {
+      "titel": "Het sollicitatiegesprek",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَقَدَّمْتُ لِوَظيفَةٍ في شَرِكَةٍ كَبيرَةٍ.",
+              "tr": "taqaddamtu li-waẓīfatin fī šarikatin kabīra.",
+              "nl": "Ik heb gesolliciteerd naar een baan bij een groot bedrijf."
+            },
+            {
+              "ar": "أُريدُ أَنْ أَعْمَلَ في فَريقٍ.",
+              "tr": "urīdu an aʿmala fī farīq.",
+              "nl": "Ik wil in een team werken."
+            },
+            {
+              "ar": "أَعْتَقِدُ أَنَّ خِبْرَتي مُناسِبَةٌ لِهٰذِهِ الوَظيفَةِ.",
+              "tr": "aʿtaqidu anna ḫibratī munāsibatun li-hāḏihi l-waẓīfa.",
+              "nl": "Ik denk dat mijn ervaring past bij deze baan."
+            },
+            {
+              "ar": "سَمِعْتُ أَنَّ الشَّرِكَةَ تَبْحَثُ عَنْ مُهَنْدِسينَ.",
+              "tr": "samiʿtu anna š-šarikata tabḥaṯu ʿan muhandisīn.",
+              "nl": "Ik hoorde dat het bedrijf ingenieurs zoekt."
+            },
+            {
+              "ar": "أَتَمَنّى أَنْ يَنْجَحَ طَلَبي.",
+              "tr": "atamannā an yanjaḥa ṭalabī.",
+              "nl": "Ik hoop dat mijn sollicitatie slaagt."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "سيرَةٌ ذاتِيَّةٌ",
+              "nl": "cv",
+              "woord": "j2-p7-l80-w01"
+            },
+            {
+              "ar": "خِبْرَةٌ",
+              "nl": "ervaring",
+              "woord": "j2-p7-l80-w05"
+            },
+            {
+              "ar": "مَهاراتٌ",
+              "nl": "vaardigheden",
+              "woord": "j2-p7-l80-w07"
+            },
+            {
+              "ar": "مَسْؤولِيَّةٌ",
+              "nl": "verantwoordelijkheid",
+              "woord": "j2-p7-l80-w11"
+            },
+            {
+              "ar": "مُتَحَمِّسٌ",
+              "nl": "enthousiast",
+              "woord": "j2-p7-l80-w14"
+            },
+            {
+              "ar": "طَموحٌ",
+              "nl": "ambitieus",
+              "woord": "j2-p7-l80-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "an-anna",
+          "tekst": "أَعْرِفُ أَنَّ العَمَلَ صَعْبٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik weet dat het werk moeilijk is.",
+            "Ik wil moeilijk werk.",
+            "Het werk is niet moeilijk."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَنَّ} + zin."
+        }
+      ]
+    },
+    {
+      "titel": "أَنْ of أَنَّ",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "an-anna",
+          "zin": "أُحاوِلُ ___ أَفْهَمَ.",
+          "nl": "Ik probeer te begrijpen.",
+          "antwoord": [
+            "أَنْ"
+          ],
+          "uitleg": "Handeling → أَنْ + werkwoord.",
+          "woordbank": [
+            "أَنْ",
+            "أَنَّ",
+            "إِنَّ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "an-anna",
+          "zin": "أَظُنُّ ___ الفِكْرَةَ جَيِّدَةٌ.",
+          "nl": "Ik denk dat het idee goed is.",
+          "antwoord": [
+            "أَنَّ"
+          ],
+          "uitleg": "Feit → أَنَّ + naamwoord.",
+          "woordbank": [
+            "أَنَّ",
+            "أَنْ",
+            "لَنْ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "an-anna",
+          "zin": "قالَ ___ هُ مَشْغولٌ.",
+          "nl": "Hij zei dat hij druk was.",
+          "antwoord": [
+            "إِنَّ"
+          ],
+          "uitleg": "Na {ar|قالَ}: إِنَّ.",
+          "woordbank": [
+            "إِنَّ",
+            "أَنَّ",
+            "أَنْ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "an-anna",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "سَمِعْتُ أَنَّ المُديرَ مَريضٌ.",
+            "سَمِعْتُ أَنْ المُديرُ مَريضٌ.",
+            "سَمِعْتُ أَنَّ المُديرُ مَريضًا."
+          ],
+          "juist": 0,
+          "uitleg": "أَنَّ + accusatief + nominatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "an-anna",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "قَرَّرْتُ أَنْ أَتَقَدَّمَ لِلْوَظيفَةِ.",
+            "قَرَّرْتُ أَنَّ أَتَقَدَّمُ لِلْوَظيفَةِ.",
+            "قَرَّرْتُ أَنَّني أَتَقَدَّمَ."
+          ],
+          "juist": 0,
+          "uitleg": "Besluiten → أَنْ + manṣūb."
+        }
+      ]
+    },
+    {
+      "titel": "Solliciteren",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "an-anna",
+          "nl": "Ik denk dat mijn ervaring past bij deze baan.",
+          "woorden": [
+            "أَعْتَقِدُ",
+            "أَنَّ",
+            "خِبْرَتي",
+            "مُناسِبَةٌ",
+            "لِهٰذِهِ",
+            "الوَظيفَةِ."
+          ],
+          "uitleg": "{ar|أَنَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "an-anna",
+          "bron": "Ik wil in een team werken.",
+          "antwoorden": [
+            "أُريدُ أَنْ أَعْمَلَ في فَريقٍ",
+            "أُريدُ أَنْ أَعْمَلَ في فَريقِ عَمَلٍ"
+          ],
+          "uitleg": "{ar|أَنْ} + manṣūb."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "ما هِيَ نِقاطُ قُوَّتِكَ؟",
+          "antwoorden": [
+            "wat zijn je sterke punten",
+            "wat zijn jouw sterke punten"
+          ],
+          "uitleg": "{ar|نُقْطَةُ قُوَّةٍ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رِسالَةُ تَحْفيزٍ",
+            "nl": "motivatiebrief"
+          },
+          {
+            "ar": "مُقابَلَةُ عَمَلٍ",
+            "nl": "sollicitatiegesprek"
+          },
+          {
+            "ar": "مُؤَهِّلاتٌ",
+            "nl": "kwalificaties"
+          },
+          {
+            "ar": "نُقْطَةُ ضَعْفٍ",
+            "nl": "zwak punt"
+          },
+          {
+            "ar": "تَقَدَّمَ لِـ",
+            "nl": "solliciteren naar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-anna",
+        "vraag": "Wat volgt op {ar|أَنْ}?",
+        "opties": [
+          "een werkwoord (manṣūb)",
+          "een naamwoord in de accusatief",
+          "een voorzetsel"
+        ],
+        "juist": 0,
+        "uitleg": "أَنْ + werkwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-anna",
+        "vraag": "Wat volgt op {ar|أَنَّ}?",
+        "opties": [
+          "een naamwoord of suffix",
+          "een werkwoord in de manṣūb",
+          "niets"
+        ],
+        "juist": 0,
+        "uitleg": "أَنَّ + zin."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-anna",
+        "vraag": "'Ik weet dat je moe bent' is ...",
+        "opties": [
+          "أَعْرِفُ أَنَّكَ مُتْعَبٌ.",
+          "أَعْرِفُ أَنْ تَكونَ مُتْعَبٌ.",
+          "أَعْرِفُ إِنَّكَ مُتْعَبٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Feit → أَنَّ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-anna",
+        "vraag": "'Ik hoop dat te halen' (handeling) gebruikt ...",
+        "opties": [
+          "أَنْ",
+          "أَنَّ",
+          "إِنَّ"
+        ],
+        "juist": 0,
+        "uitleg": "Hopen + handeling."
+      },
+      {
+        "type": "luisteren",
+        "tag": "an-anna",
+        "tekst": "أُحاوِلُ أَنْ أَتَعَلَّمَ كُلَّ يَوْمٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik probeer elke dag te leren.",
+          "Ik weet dat ik elke dag leer.",
+          "Ik leer niet elke dag."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْ} + manṣūb."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "عِنْدي خِبْرَةٌ خَمْسَ سَنَواتٍ",
+        "vraag": "Hoeveel ervaring heeft de kandidaat?",
+        "opties": [
+          "vijf jaar",
+          "vijftien jaar",
+          "geen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خِبْرَةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "an-anna",
+        "zin": "أَعْتَقِدُ ___ هُ مُناسِبٌ.",
+        "nl": "Ik denk dat hij geschikt is.",
+        "antwoord": [
+          "أَنَّ"
+        ],
+        "uitleg": "{ar|أَنَّ} + suffix.",
+        "woordbank": [
+          "أَنَّ",
+          "أَنْ",
+          "لَنْ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "an-anna",
+        "zin": "يَجِبُ ___ تُرْسِلَ سيرَتَكَ الذّاتِيَّةَ.",
+        "nl": "Je moet je cv opsturen.",
+        "antwoord": [
+          "أَنْ"
+        ],
+        "uitleg": "Handeling → أَنْ.",
+        "woordbank": [
+          "أَنْ",
+          "أَنَّ",
+          "إِنَّ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أَنا ___ جِدًّا لِهٰذا العَمَلِ.",
+        "nl": "Ik ben erg enthousiast over dit werk.",
+        "antwoord": [
+          "مُتَحَمِّسٌ"
+        ],
+        "uitleg": "{ar|مُتَحَمِّسٌ}",
+        "woordbank": [
+          "مُتَحَمِّسٌ",
+          "مَسْؤولٌ",
+          "مَرْفوضٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "an-anna",
+        "instructie": "Kies أَنْ of أَنَّ.",
+        "rijen": [
+          {
+            "label": "أُريدُ ___ أَعْمَلَ",
+            "antwoord": "أَنْ",
+            "tr": "an"
+          },
+          {
+            "label": "أَعْرِفُ ___ العَمَلَ صَعْبٌ",
+            "antwoord": "أَنَّ",
+            "tr": "anna"
+          }
+        ],
+        "uitleg": "Handeling · feit",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "an-anna",
+        "nl": "Ik hoorde dat het bedrijf ingenieurs zoekt.",
+        "woorden": [
+          "سَمِعْتُ",
+          "أَنَّ",
+          "الشَّرِكَةَ",
+          "تَبْحَثُ",
+          "عَنْ",
+          "مُهَنْدِسينَ."
+        ],
+        "uitleg": "{ar|أَنَّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het cv",
+        "antwoorden": [
+          "السّيرَةُ الذّاتِيَّةُ"
+        ],
+        "uitleg": "{ar|السّيرَةُ الذّاتِيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "an-anna",
+        "bron": "قَرَّرْتُ أَنْ أَتَقَدَّمَ لِلْوَظيفَةِ.",
+        "antwoorden": [
+          "ik besloot naar de baan te solliciteren",
+          "ik heb besloten naar de baan te solliciteren",
+          "ik heb besloten om naar de baan te solliciteren"
+        ],
+        "uitleg": "{ar|أَنْ} + manṣūb."
+      }
+    ]
+  }
+}

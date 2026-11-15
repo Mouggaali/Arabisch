@@ -1,0 +1,670 @@
+{
+  "id": "j3-p10-l118",
+  "code": "L118",
+  "type": "les",
+  "titel": "Formele brief",
+  "thema": "Sollicitatie, klacht en informatieverzoek; formeel register",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een formele brief opbouwen met aanhef, onderwerp en slotformule.",
+    "beleefd iets vragen met يُرْجى، أَرْجو أَنْ تَتَكَرَّموا.",
+    "het formele en informele register onderscheiden."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l118-w01",
+      "ar": "رِسالَةٌ رَسْمِيَّةٌ",
+      "tr": "risālatun rasmiyya",
+      "nl": [
+        "formele brief"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l118-w02",
+      "ar": "حَضْرَةَ السَّيِّدِ …",
+      "tr": "ḥaḍrata s-sayyid …",
+      "nl": [
+        "geachte heer …"
+      ],
+      "soort": "aanhef"
+    },
+    {
+      "id": "j3-p10-l118-w03",
+      "ar": "المُحْتَرَمُ / المُحْتَرَمَةُ",
+      "tr": "al-muḥtaram / al-muḥtarama",
+      "nl": [
+        "(de) geachte"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l118-w04",
+      "ar": "تَحِيَّةً طَيِّبَةً وَبَعْدُ",
+      "tr": "taḥiyyatan ṭayyibatan wa-baʿd",
+      "nl": [
+        "met vriendelijke groet, (en nu ter zake)"
+      ],
+      "soort": "aanhef"
+    },
+    {
+      "id": "j3-p10-l118-w05",
+      "ar": "المَوْضوعُ:",
+      "tr": "al-mawḍūʿ",
+      "nl": [
+        "betreft:"
+      ],
+      "soort": "brieftaal"
+    },
+    {
+      "id": "j3-p10-l118-w06",
+      "ar": "بِخُصوصِ",
+      "tr": "bi-ḫuṣūṣ",
+      "nl": [
+        "betreffende, met betrekking tot"
+      ],
+      "soort": "voorzetsel"
+    },
+    {
+      "id": "j3-p10-l118-w07",
+      "ar": "يُشَرِّفُني أَنْ",
+      "tr": "yušarrifunī an",
+      "nl": [
+        "het is mij een eer om"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l118-w08",
+      "ar": "أَتَقَدَّمُ إِلَيْكُمْ بِـ",
+      "tr": "ataqaddamu ilaykum bi-",
+      "nl": [
+        "ik richt mij tot u met"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l118-w09",
+      "ar": "يُرْجى",
+      "tr": "yurjā",
+      "nl": [
+        "er wordt verzocht (graag)"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p10-l118-w10",
+      "ar": "مُرْفَقاتٌ",
+      "tr": "murfaqāt",
+      "nl": [
+        "bijlagen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p10-l118-w11",
+      "ar": "شَكْوى",
+      "tr": "šakwā",
+      "nl": [
+        "klacht"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|شَكاوى}."
+    },
+    {
+      "id": "j3-p10-l118-w12",
+      "ar": "اِسْتِفْسارٌ",
+      "tr": "istifsār",
+      "nl": [
+        "informatieverzoek"
+      ],
+      "soort": "maṣdar (X)"
+    },
+    {
+      "id": "j3-p10-l118-w13",
+      "ar": "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ",
+      "tr": "wa-tafaḍḍalū bi-qabūli fāʾiqi l-iḥtirām",
+      "nl": [
+        "hoogachtend"
+      ],
+      "soort": "slotformule"
+    },
+    {
+      "id": "j3-p10-l118-w14",
+      "ar": "في اِنْتِظارِ رَدِّكُمْ",
+      "tr": "fi ntiẓāri raddikum",
+      "nl": [
+        "in afwachting van uw antwoord"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l118-w15",
+      "ar": "المَوارِدُ البَشَرِيَّةُ",
+      "tr": "al-mawāridu l-bašariyya",
+      "nl": [
+        "personeelszaken (HR)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l118-w16",
+      "ar": "تَكَرَّمَ بِـ",
+      "tr": "takarrama bi-",
+      "nl": [
+        "zo vriendelijk zijn om"
+      ],
+      "soort": "werkwoord (V)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Opbouw van een formele brief",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderdeel",
+            "Formule",
+            "Nederlands"
+          ],
+          "rijen": [
+            [
+              "aanhef",
+              "حَضْرَةَ السَّيِّدِ … المُحْتَرَمِ",
+              "Geachte heer …"
+            ],
+            [
+              "opening",
+              "تَحِيَّةً طَيِّبَةً وَبَعْدُ،",
+              "(groet, en dan ter zake)"
+            ],
+            [
+              "onderwerp",
+              "المَوْضوعُ: طَلَبُ …",
+              "Betreft: aanvraag …"
+            ],
+            [
+              "doel",
+              "يُشَرِّفُني أَنْ أَتَقَدَّمَ إِلَيْكُمْ بِطَلَبِ …",
+              "Graag richt ik mij tot u met het verzoek …"
+            ],
+            [
+              "verzoek",
+              "أَرْجو أَنْ تَتَكَرَّموا بِـ … / يُرْجى …",
+              "Wilt u zo vriendelijk zijn …"
+            ],
+            [
+              "slot",
+              "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ",
+              "Hoogachtend"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|تَحِيَّةً} in de accusatief? Het is een **mafʿūl muṭlaq** (les 105) van een weggelaten werkwoord: *(ik groet u met) een goede groet*. {ar|وَبَعْدُ} (*en daarna*) markeert de overgang naar de inhoud."
+        },
+        {
+          "type": "letop",
+          "md": "In een formele brief spreek je één persoon vaak aan in het **meervoud** ({ar|إِلَيْكُمْ، رَدِّكُمْ، تَفَضَّلوا}), net als het Nederlandse *u*. {ar|يُرْجى} + maṣdar is een onpersoonlijk verzoek: {ar|يُرْجى الرَّدُّ} = graag een antwoord."
+        }
+      ]
+    },
+    {
+      "titel": "Een sollicitatiebrief",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "حَضْرَةَ السَّيِّدَةِ مُديرَةِ المَوارِدِ البَشَرِيَّةِ المُحْتَرَمَةِ،",
+              "tr": "ḥaḍrata s-sayyidati mudīrati l-mawāridi l-bašariyyati l-muḥtarama,",
+              "nl": "Geachte mevrouw de directeur personeelszaken,"
+            },
+            {
+              "ar": "تَحِيَّةً طَيِّبَةً وَبَعْدُ،",
+              "tr": "taḥiyyatan ṭayyibatan wa-baʿdu,",
+              "nl": "Met vriendelijke groet,"
+            },
+            {
+              "ar": "يُشَرِّفُني أَنْ أَتَقَدَّمَ إِلَيْكُمْ بِطَلَبِ العَمَلِ في شَرِكَتِكُمْ بِخُصوصِ الوَظيفَةِ المُعْلَنِ عَنْها.",
+              "tr": "yušarrifunī an ataqaddama ilaykum bi-ṭalabi l-ʿamali fī šarikatikum bi-ḫuṣūṣi l-waẓīfati l-muʿlani ʿanhā.",
+              "nl": "Graag solliciteer ik bij uw bedrijf naar de geadverteerde functie."
+            },
+            {
+              "ar": "تَجِدونَ في المُرْفَقاتِ سيرَتي الذّاتِيَّةَ.",
+              "tr": "tajidūna fi l-murfaqāti sīratiya ḏ-ḏātiyya.",
+              "nl": "In de bijlage vindt u mijn cv."
+            },
+            {
+              "ar": "في اِنْتِظارِ رَدِّكُمْ، تَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ.",
+              "tr": "fi ntiẓāri raddikum, tafaḍḍalū bi-qabūli fāʾiqi l-iḥtirām.",
+              "nl": "In afwachting van uw antwoord, hoogachtend."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Formules",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "formeel-register",
+          "paren": [
+            {
+              "ar": "المَوْضوعُ:",
+              "nl": "betreft:",
+              "woord": "j3-p10-l118-w05"
+            },
+            {
+              "ar": "بِخُصوصِ",
+              "nl": "betreffende",
+              "woord": "j3-p10-l118-w06"
+            },
+            {
+              "ar": "مُرْفَقاتٌ",
+              "nl": "bijlagen",
+              "woord": "j3-p10-l118-w10"
+            },
+            {
+              "ar": "شَكْوى",
+              "nl": "klacht",
+              "woord": "j3-p10-l118-w11"
+            },
+            {
+              "ar": "اِسْتِفْسارٌ",
+              "nl": "informatieverzoek",
+              "woord": "j3-p10-l118-w12"
+            },
+            {
+              "ar": "في اِنْتِظارِ رَدِّكُمْ",
+              "nl": "in afwachting van uw antwoord",
+              "woord": "j3-p10-l118-w14"
+            }
+          ],
+          "uitleg": "Brieftaal."
+        },
+        {
+          "type": "luisteren",
+          "tag": "formeel-register",
+          "tekst": "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ",
+          "vraag": "Waar staat deze zin in een brief?",
+          "opties": [
+            "aan het eind (slot)",
+            "in de aanhef",
+            "bij het onderwerp"
+          ],
+          "juist": 0,
+          "uitleg": "Slotformule."
+        }
+      ]
+    },
+    {
+      "titel": "Brief opbouwen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "formeel-register",
+          "vraag": "Welke naamval heeft {ar|تَحِيَّةً} in {ar|تَحِيَّةً طَيِّبَةً وَبَعْدُ}?",
+          "opties": [
+            "accusatief (mafʿūl muṭlaq)",
+            "nominatief",
+            "genitief"
+          ],
+          "juist": 0,
+          "uitleg": "Weggelaten werkwoord."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "formeel-register",
+          "vraag": "Hoe spreek je één persoon formeel aan?",
+          "opties": [
+            "met het meervoud (أَنْتُمْ)",
+            "met أَنْتَ",
+            "met هُوَ"
+          ],
+          "juist": 0,
+          "uitleg": "Zoals *u*."
+        },
+        {
+          "type": "invullen",
+          "tag": "formeel-register",
+          "zin": "___ الرَّدُّ في أَقْرَبِ وَقْتٍ.",
+          "nl": "Graag zo spoedig mogelijk een antwoord.",
+          "antwoord": [
+            "يُرْجى"
+          ],
+          "uitleg": "Onpersoonlijk verzoek + maṣdar.",
+          "woordbank": [
+            "يُرْجى",
+            "أَرْجو",
+            "رَجاءٌ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "formeel-register",
+          "zin": "يُشَرِّفُني أَنْ ___ إِلَيْكُمْ بِطَلَبي.",
+          "nl": "Graag richt ik mij met mijn aanvraag tot u.",
+          "antwoord": [
+            "أَتَقَدَّمَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: manṣūb.",
+          "woordbank": [
+            "أَتَقَدَّمَ",
+            "أَتَقَدَّمُ",
+            "تَقَدَّمْتُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "formeel-register",
+          "nl": "In de bijlage vindt u mijn cv.",
+          "woorden": [
+            "تَجِدونَ",
+            "في",
+            "المُرْفَقاتِ",
+            "سيرَتي",
+            "الذّاتِيَّةَ."
+          ],
+          "uitleg": "Brieftaal."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "formeel-register",
+          "bron": "hoogachtend",
+          "antwoorden": [
+            "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ",
+            "تفضلوا بقبول فائق الاحترام"
+          ],
+          "uitleg": "Slotformule."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "formeel-register",
+          "bron": "أَتَقَدَّمُ إِلَيْكُمْ بِشَكْوى بِخُصوصِ الفاتورَةِ.",
+          "antwoorden": [
+            "ik dien een klacht in over de factuur",
+            "ik richt mij tot u met een klacht over de factuur"
+          ],
+          "uitleg": "Klachtbrief."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "formeel-register",
+          "opdracht": "Schrijf een formele brief aan een taalschool: vraag informatie over een cursus Arabisch (prijs, data, niveau).",
+          "model": [
+            {
+              "ar": "حَضْرَةَ السَّيِّدَةِ مُديرَةِ المَوارِدِ البَشَرِيَّةِ المُحْتَرَمَةِ،",
+              "tr": "ḥaḍrata s-sayyidati mudīrati l-mawāridi l-bašariyyati l-muḥtarama,",
+              "nl": "Geachte mevrouw de directeur personeelszaken,"
+            },
+            {
+              "ar": "تَحِيَّةً طَيِّبَةً وَبَعْدُ،",
+              "tr": "taḥiyyatan ṭayyibatan wa-baʿdu,",
+              "nl": "Met vriendelijke groet,"
+            },
+            {
+              "ar": "يُشَرِّفُني أَنْ أَتَقَدَّمَ إِلَيْكُمْ بِطَلَبِ العَمَلِ في شَرِكَتِكُمْ بِخُصوصِ الوَظيفَةِ المُعْلَنِ عَنْها.",
+              "tr": "yušarrifunī an ataqaddama ilaykum bi-ṭalabi l-ʿamali fī šarikatikum bi-ḫuṣūṣi l-waẓīfati l-muʿlani ʿanhā.",
+              "nl": "Graag solliciteer ik bij uw bedrijf naar de geadverteerde functie."
+            },
+            {
+              "ar": "تَجِدونَ في المُرْفَقاتِ سيرَتي الذّاتِيَّةَ.",
+              "tr": "tajidūna fi l-murfaqāti sīratiya ḏ-ḏātiyya.",
+              "nl": "In de bijlage vindt u mijn cv."
+            },
+            {
+              "ar": "في اِنْتِظارِ رَدِّكُمْ، تَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ.",
+              "tr": "fi ntiẓāri raddikum, tafaḍḍalū bi-qabūli fāʾiqi l-iḥtirām.",
+              "nl": "In afwachting van uw antwoord, hoogachtend."
+            }
+          ],
+          "checklist": [
+            "Aanhef: {ar|حَضْرَةَ … المُحْتَرَمِ}.",
+            "Opening {ar|تَحِيَّةً طَيِّبَةً وَبَعْدُ}.",
+            "Een onderwerpregel ({ar|المَوْضوعُ:}).",
+            "Je spreekt de lezer aan in het meervoud van respect ({ar|إِلَيْكُمْ}, {ar|رَدِّكُمْ}).",
+            "Een beleefd verzoek ({ar|أَرْجو أَنْ}, {ar|يُرْجى}).",
+            "Slotformule {ar|وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ}."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "حَضْرَةَ السَّيِّدِ",
+            "تَحِيَّةً طَيِّبَةً وَبَعْدُ",
+            "المَوْضوعُ",
+            "أَرْجو",
+            "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ"
+          ],
+          "minimum": 60
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "formeel-register",
+        "paren": [
+          {
+            "ar": "حَضْرَةَ السَّيِّدِ",
+            "nl": "geachte heer"
+          },
+          {
+            "ar": "المُحْتَرَمُ",
+            "nl": "geachte"
+          },
+          {
+            "ar": "المَوارِدُ البَشَرِيَّةُ",
+            "nl": "personeelszaken"
+          },
+          {
+            "ar": "تَكَرَّمَ بِـ",
+            "nl": "zo vriendelijk zijn"
+          },
+          {
+            "ar": "رِسالَةٌ رَسْمِيَّةٌ",
+            "nl": "formele brief"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "Wat betekent {ar|وَبَعْدُ} na de groet?",
+        "opties": [
+          "en dan (ter zake)",
+          "en daarna tot ziens",
+          "en verder niets"
+        ],
+        "juist": 0,
+        "uitleg": "Overgang naar de inhoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "'Betreft: aanvraag' is ...",
+        "opties": [
+          "المَوْضوعُ: طَلَبٌ",
+          "بِخُصوصِ: طَلَبٌ",
+          "المُرْفَقاتُ: طَلَبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|المَوْضوعُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "{ar|أَرْجو أَنْ تَتَكَرَّموا بِالرَّدِّ} betekent ...",
+        "opties": [
+          "Wilt u zo vriendelijk zijn te antwoorden?",
+          "Ik antwoord graag.",
+          "Antwoord niet."
+        ],
+        "juist": 0,
+        "uitleg": "Beleefd verzoek."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "Welke formule hoort in een **informele** e-mail, niet in een formele brief?",
+        "opties": [
+          "مَعَ السَّلامَةِ يا صَديقي",
+          "تَحِيَّةً طَيِّبَةً وَبَعْدُ",
+          "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ"
+        ],
+        "juist": 0,
+        "uitleg": "Register."
+      },
+      {
+        "type": "luisteren",
+        "tag": "formeel-register",
+        "tekst": "يُرْجى إِرْسالُ الوَثائِقِ قَبْلَ الجُمُعَةِ",
+        "vraag": "Wat wordt er gevraagd?",
+        "opties": [
+          "de documenten vóór vrijdag opsturen",
+          "vrijdag langskomen",
+          "de documenten ophalen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُرْجى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "formeel-register",
+        "tekst": "في اِنْتِظارِ رَدِّكُمْ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "In afwachting van uw antwoord.",
+          "Bedankt voor uw antwoord.",
+          "Ik antwoord u spoedig."
+        ],
+        "juist": 0,
+        "uitleg": "Slot."
+      },
+      {
+        "type": "invullen",
+        "tag": "formeel-register",
+        "zin": "أَتَقَدَّمُ إِلَيْكُمْ ___ اسْتِفْسارٍ.",
+        "nl": "Ik richt mij tot u met een informatieverzoek.",
+        "antwoord": [
+          "بِـ"
+        ],
+        "uitleg": "{ar|أَتَقَدَّمُ بِـ}",
+        "woordbank": [
+          "بِـ",
+          "عَنْ",
+          "في"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "formeel-register",
+        "zin": "حَضْرَةَ السَّيِّدِ المُديرِ ___،",
+        "nl": "Geachte heer directeur,",
+        "antwoord": [
+          "المُحْتَرَمِ"
+        ],
+        "uitleg": "Congruentie met {ar|المُديرِ} (gen.).",
+        "woordbank": [
+          "المُحْتَرَمِ",
+          "المُحْتَرَمُ",
+          "المُحْتَرَمَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "formeel-register",
+        "zin": "أَكْتُبُ إِلَيْكُمْ ___ الوَظيفَةِ.",
+        "nl": "Ik schrijf u in verband met de functie.",
+        "antwoord": [
+          "بِخُصوصِ"
+        ],
+        "uitleg": "{ar|بِخُصوصِ}",
+        "woordbank": [
+          "بِخُصوصِ",
+          "بِسَبَبِ",
+          "رَغْمَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "formeel-register",
+        "instructie": "Zet in de beleefde meervoudsvorm (u).",
+        "rijen": [
+          {
+            "label": "رَدُّكَ (jouw antwoord)",
+            "antwoord": "رَدُّكُمْ",
+            "tr": "raddukum",
+            "eind": true
+          },
+          {
+            "label": "تَفَضَّلْ (alstublieft)",
+            "antwoord": "تَفَضَّلوا",
+            "tr": "tafaḍḍalū"
+          }
+        ],
+        "uitleg": "Meervoud van respect."
+      },
+      {
+        "type": "ordenen",
+        "tag": "formeel-register",
+        "nl": "Met vriendelijke groet.",
+        "woorden": [
+          "تَحِيَّةً",
+          "طَيِّبَةً",
+          "وَبَعْدُ،"
+        ],
+        "uitleg": "Opening."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "formeel-register",
+        "bron": "de bijlagen",
+        "antwoorden": [
+          "المُرْفَقاتُ",
+          "المرفقات"
+        ],
+        "uitleg": "{ar|المُرْفَقاتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "formeel-register",
+        "bron": "يُشَرِّفُني أَنْ أَتَقَدَّمَ إِلَيْكُمْ بِطَلَبِ العَمَلِ.",
+        "antwoorden": [
+          "graag solliciteer ik bij u",
+          "het is mij een eer bij u te solliciteren",
+          "het is mij een eer u een sollicitatie te sturen"
+        ],
+        "uitleg": "Formule."
+      }
+    ]
+  }
+}

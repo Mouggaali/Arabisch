@@ -1,0 +1,551 @@
+{
+  "id": "j2-p5-h13",
+  "code": "H13",
+  "type": "herhaling",
+  "titel": "Herhaling blok 5A",
+  "thema": "Wortels en de drie wijzen van de muḍāriʿ",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "woorden ontleden in wortel en patroon.",
+    "de marfūʿ, manṣūb en majzūm van één werkwoord naast elkaar zetten.",
+    "het juiste partikel kiezen: أَنْ، لَنْ، لَمْ، لا.",
+    "de gebiedende wijs en het verbod gebruiken.",
+    "bezit uitdrukken met het Darija ديال."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 49–52 en D07.",
+  "grammatica": [
+    {
+      "titel": "Drie wijzen naast elkaar",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Marfūʿ",
+            "Manṣūb",
+            "Majzūm",
+            "Gebiedende wijs"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "rijen": [
+            [
+              "jij (m)",
+              "تَفْهَمُ",
+              "أَنْ تَفْهَمَ",
+              "لَمْ تَفْهَمْ",
+              "اِفْهَمْ"
+            ],
+            [
+              "jij (v)",
+              "تَفْهَمينَ",
+              "أَنْ تَفْهَمي",
+              "لَمْ تَفْهَمي",
+              "اِفْهَمي"
+            ],
+            [
+              "jullie twee",
+              "تَفْهَمانِ",
+              "أَنْ تَفْهَما",
+              "لَمْ تَفْهَما",
+              "اِفْهَما"
+            ],
+            [
+              "jullie (m)",
+              "تَفْهَمونَ",
+              "أَنْ تَفْهَموا",
+              "لَمْ تَفْهَموا",
+              "اِفْهَموا"
+            ],
+            [
+              "jullie (v)",
+              "تَفْهَمْنَ",
+              "أَنْ تَفْهَمْنَ",
+              "لَمْ تَفْهَمْنَ",
+              "اِفْهَمْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Kijk naar de kolommen: manṣūb en majzūm verschillen alleen bij de vormen zonder uitgang (-a tegenover sukūn). De gebiedende wijs is de majzūm zonder {ar|تَـ}, met een hulpalif. Eén systeem, vier toepassingen."
+        }
+      ]
+    },
+    {
+      "titel": "Welk partikel?",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Partikel",
+            "Tijd",
+            "Wijs",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            3
+          ],
+          "rijen": [
+            [
+              "لا",
+              "heden",
+              "marfūʿ",
+              "لا أَفْهَمُ"
+            ],
+            [
+              "لَنْ",
+              "toekomst",
+              "manṣūb",
+              "لَنْ أَفْهَمَ"
+            ],
+            [
+              "لَمْ",
+              "verleden",
+              "majzūm",
+              "لَمْ أَفْهَمْ"
+            ],
+            [
+              "لا (verbod)",
+              "bevel",
+              "majzūm",
+              "لا تَفْهَمْ خَطَأً"
+            ]
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لَمْ أَقْرَأْ هٰذِهِ الرِّوايَةَ، وَلَنْ أَقْرَأَها.",
+              "tr": "lam aqraʾ hāḏihi r-riwāya, wa-lan aqraʾahā.",
+              "nl": "Ik heb deze roman niet gelezen, en ik zal hem niet lezen."
+            },
+            {
+              "ar": "اُكْتُبِ اسْمَكَ هُنا، وَلا تَكْتُبْ شَيْئًا آخَرَ.",
+              "tr": "uktubi smaka hunā, wa-lā taktub šayʾan āḫar.",
+              "nl": "Schrijf je naam hier, en schrijf niets anders."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Wortels",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "Wat is de wortel van {ar|مَطْبوعٌ}?",
+          "opties": [
+            "ط ب ع",
+            "م ط ب",
+            "ط ب و"
+          ],
+          "juist": 0,
+          "uitleg": "مَفْعول: مَـ en و zijn patroonletters."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "{ar|جَلَسَ} = zitten. Wat betekent {ar|مَجْلِسٌ}?",
+          "opties": [
+            "plaats om te zitten (raad, zitting)",
+            "iemand die zit",
+            "gezeten"
+          ],
+          "juist": 0,
+          "uitleg": "مَفْعَل = plaats."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رِوايَةٌ",
+              "nl": "roman",
+              "woord": "j2-p5-l49-w04"
+            },
+            {
+              "ar": "فُرْصَةٌ",
+              "nl": "kans",
+              "woord": "j2-p5-l50-w08"
+            },
+            {
+              "ar": "فاتورَةٌ",
+              "nl": "rekening",
+              "woord": "j2-p5-l51-w06"
+            },
+            {
+              "ar": "وَصْفَةٌ",
+              "nl": "recept",
+              "woord": "j2-p5-l52-w01"
+            },
+            {
+              "ar": "ديالي",
+              "nl": "van mij (Darija)",
+              "woord": "j2-p5-d07-w02"
+            },
+            {
+              "ar": "مَصْنَعٌ",
+              "nl": "fabriek"
+            }
+          ],
+          "uitleg": "Woorden uit blok 5A."
+        }
+      ]
+    },
+    {
+      "titel": "Wijzen en partikels",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "mansub",
+          "zin": "أُريدُ أَنْ ___ الفاتورَةَ.",
+          "nl": "Ik wil de rekening betalen.",
+          "woordbank": [
+            "أَدْفَعَ",
+            "أَدْفَعْ",
+            "أَدْفَعُ"
+          ],
+          "antwoord": [
+            "أَدْفَعَ"
+          ],
+          "uitleg": "{ar|أَنْ} + manṣūb (-a).",
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "majzum-lam",
+          "zin": "لَمْ ___ الصُّحونَ بَعْدُ.",
+          "nl": "Jullie (m) hebben de afwas nog niet gedaan.",
+          "woordbank": [
+            "تَغْسِلوا",
+            "تَغْسِلونَ",
+            "غَسَلْتُمْ"
+          ],
+          "antwoord": [
+            "تَغْسِلوا"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm: ـونَ → ـوا."
+        },
+        {
+          "type": "invullen",
+          "tag": "lan",
+          "zin": "___ نَتَأَخَّرَ مَرَّةً أُخْرى.",
+          "nl": "We zullen niet nog een keer te laat komen.",
+          "woordbank": [
+            "لَنْ",
+            "لَمْ",
+            "لا"
+          ],
+          "antwoord": [
+            "لَنْ"
+          ],
+          "uitleg": "Toekomst ontkend + manṣūb."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "gebiedende-wijs",
+          "instructie": "Maak de gebiedende wijs van يَجْلِسُ.",
+          "rijen": [
+            {
+              "label": "een man",
+              "antwoord": "اِجْلِسْ",
+              "tr": "ijlis"
+            },
+            {
+              "label": "een vrouw",
+              "antwoord": "اِجْلِسي",
+              "tr": "ijlisī"
+            },
+            {
+              "label": "een groep",
+              "antwoord": "اِجْلِسوا",
+              "tr": "ijlisū"
+            }
+          ],
+          "uitleg": "Stamklinker i → اِ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "verbod",
+          "vraag": "'Rook niet! (tegen een vrouw)' is ...",
+          "opties": [
+            "لا تُدَخِّني!",
+            "لا تُدَخِّنينَ!",
+            "لَمْ تُدَخِّني!"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لا} + majzūm: ـينَ → ـي."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "majzum-lam",
+          "bron": "Ik heb het niet begrepen. (met لَمْ)",
+          "antwoorden": [
+            "لَمْ أَفْهَمْ"
+          ],
+          "uitleg": "{ar|لَمْ أَفْهَمْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "gebiedende-wijs",
+          "bron": "Schrijf! (tegen een groep)",
+          "antwoorden": [
+            "اُكْتُبوا"
+          ],
+          "uitleg": "{ar|اُكْتُبوا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "mansub",
+          "bron": "قَرَّرَتْ أَنْ تَدْرُسَ الطِّبَّ.",
+          "antwoorden": [
+            "zij besloot geneeskunde te studeren",
+            "ze besloot geneeskunde te studeren",
+            "zij heeft besloten geneeskunde te studeren",
+            "ze heeft besloten geneeskunde te studeren"
+          ],
+          "uitleg": "{ar|قَرَّرَ أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-bezit",
+          "bron": "الطوموبيل ديال الواليد",
+          "tr": "ṭṭomobīl dyāl lwālid",
+          "antwoorden": [
+            "de auto van mijn vader",
+            "de auto van vader",
+            "vaders auto"
+          ],
+          "uitleg": "Darija: ديال = van."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Welk patroon betekent *plaats waar iets gebeurt*?",
+        "opties": [
+          "مَفْعَل",
+          "فاعِل",
+          "مَفْعول"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَكْتَبٌ}، {ar|مَلْعَبٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "{ar|عَمِلَ} = werken. Wat betekent {ar|عامِلٌ}?",
+        "opties": [
+          "arbeider",
+          "werkplaats",
+          "gedaan werk"
+        ],
+        "juist": 0,
+        "uitleg": "فاعِل = wie het doet."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mansub",
+        "vraag": "Na {ar|كَيْ} wordt {ar|يَنْجَحونَ} ...",
+        "opties": [
+          "يَنْجَحوا",
+          "يَنْجَحونَ",
+          "يَنْجَحْ"
+        ],
+        "juist": 0,
+        "uitleg": "Manṣūb: ـونَ → ـوا."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "majzum-lam",
+        "vraag": "Welke zin betekent 'Ze hebben nog niet betaald'?",
+        "opties": [
+          "لَمْ يَدْفَعوا بَعْدُ.",
+          "لَنْ يَدْفَعوا.",
+          "لا يَدْفَعونَ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ … بَعْدُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "lan",
+        "tekst": "لَنْ أَشْرَبَ القَهْوَةَ بَعْدَ اليَوْمِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Vanaf vandaag drink ik geen koffie meer.",
+          "Ik heb vandaag geen koffie gedronken.",
+          "Ik drink vandaag koffie."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَنْ} = zal niet."
+      },
+      {
+        "type": "luisteren",
+        "tag": "gebiedende-wijs",
+        "tekst": "اُدْخُلوا مِنْ فَضْلِكُمْ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Kom binnen alstublieft (groep).",
+          "Ga weg alstublieft.",
+          "Ze kwamen binnen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اُدْخُلوا}"
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs",
+        "zin": "___ البابَ، مِنْ فَضْلِكِ.",
+        "nl": "Doe de deur open, alsjeblieft. (v)",
+        "woordbank": [
+          "اِفْتَحي",
+          "اِفْتَحْ",
+          "تَفْتَحينَ"
+        ],
+        "antwoord": [
+          "اِفْتَحي"
+        ],
+        "uitleg": "Tegen een vrouw: ـي."
+      },
+      {
+        "type": "invullen",
+        "tag": "verbod",
+        "zin": "لا ___ الكَلْبَ!",
+        "nl": "Raak de hond niet aan! (m)",
+        "woordbank": [
+          "تَلْمَسِ",
+          "اِلْمَسِ",
+          "تَلْمَسُ"
+        ],
+        "antwoord": [
+          "تَلْمَسِ",
+          "تَلْمَسْ"
+        ],
+        "uitleg": "{ar|لا} + majzūm.",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "majzum-lam",
+        "zin": "هُما لَمْ ___ الرِّسالَةَ.",
+        "nl": "Zij twee hebben de brief niet geschreven.",
+        "woordbank": [
+          "يَكْتُبا",
+          "يَكْتُبانِ",
+          "كَتَبا"
+        ],
+        "antwoord": [
+          "يَكْتُبا"
+        ],
+        "uitleg": "ـانِ → ـا"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عالِمٌ",
+            "nl": "geleerde"
+          },
+          {
+            "ar": "حاوَلَ",
+            "nl": "proberen"
+          },
+          {
+            "ar": "نَظَّفَ",
+            "nl": "schoonmaken"
+          },
+          {
+            "ar": "سِكّينٌ",
+            "nl": "mes"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "mansub",
+        "nl": "Ik spaar geld om een auto te kopen.",
+        "woorden": [
+          "أُوَفِّرُ",
+          "المالَ",
+          "لِأَشْتَرِيَ",
+          "سَيّارَةً."
+        ],
+        "uitleg": "{ar|لِـ} + manṣūb."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "lan",
+        "bron": "Ik zal niet roken.",
+        "antwoorden": [
+          "لَنْ أُدَخِّنَ"
+        ],
+        "uitleg": "{ar|لَنْ} + manṣūb."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "verbod",
+        "bron": "Ga niet weg! (m)",
+        "antwoorden": [
+          "لا تَذْهَبْ"
+        ],
+        "uitleg": "{ar|لا} + majzūm."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "majzum-lam",
+        "bron": "لَمْ نَحْصُلْ عَلى الشَّهادَةِ بَعْدُ.",
+        "antwoorden": [
+          "we hebben het diploma nog niet gekregen",
+          "wij hebben het diploma nog niet behaald",
+          "we hebben het diploma nog niet behaald",
+          "we hebben ons diploma nog niet gehaald",
+          "we hebben het diploma nog niet gehaald"
+        ],
+        "uitleg": "{ar|لَمْ … بَعْدُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-bezit",
+        "bron": "ديال من هاد الدار؟",
+        "tr": "dyāl mən hād ddāṛ?",
+        "antwoorden": [
+          "van wie is dit huis",
+          "van wie is het huis"
+        ],
+        "uitleg": "{ar|ديال من؟}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "j3-p11-d25",
+  "code": "D25",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: luisteren naar dialogen",
+  "thema": "Twee vrienden komen elkaar tegen; gespreksparticles",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een alledaagse Darija-dialoog verstaan.",
+    "gespreksparticles als ياك، إيوا، غير en بلاتي herkennen.",
+    "de toon van een gesprek inschatten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-d25-w01",
+      "ar": "ياك",
+      "tr": "yāk",
+      "nl": [
+        "toch? (bevestiging zoeken)"
+      ],
+      "soort": "partikel",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w02",
+      "ar": "زعما",
+      "tr": "zəʿma",
+      "nl": [
+        "dat wil zeggen; zogenaamd"
+      ],
+      "soort": "partikel",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w03",
+      "ar": "يالاه",
+      "tr": "yaḷḷāh",
+      "nl": [
+        "kom op, laten we gaan"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w04",
+      "ar": "إيوا",
+      "tr": "īwa",
+      "nl": [
+        "nou ja, dus"
+      ],
+      "soort": "partikel",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w05",
+      "ar": "نيت",
+      "tr": "nīt",
+      "nl": [
+        "precies, recht"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w06",
+      "ar": "بصح",
+      "tr": "b-ṣṣəḥḥ",
+      "nl": [
+        "echt waar"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w07",
+      "ar": "غير",
+      "tr": "ġīr",
+      "nl": [
+        "alleen, maar"
+      ],
+      "soort": "partikel",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w08",
+      "ar": "كاع",
+      "tr": "gāʿ",
+      "nl": [
+        "allemaal; helemaal (niet)"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Ook geschreven als {ar|ݣاع}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w09",
+      "ar": "عاد",
+      "tr": "ʿād",
+      "nl": [
+        "pas, net"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w10",
+      "ar": "فيسع",
+      "tr": "fīsaʿ",
+      "nl": [
+        "snel, gauw"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w11",
+      "ar": "بلاتي",
+      "tr": "bəlāti",
+      "nl": [
+        "wacht even, rustig"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w12",
+      "ar": "شحال هادي",
+      "tr": "šḥāl hādi",
+      "nl": [
+        "lang geleden"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w13",
+      "ar": "بلا ما",
+      "tr": "bla ma",
+      "nl": [
+        "zonder dat, niet nodig om"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w14",
+      "ar": "شنو واقع",
+      "tr": "šnu wāqəʿ",
+      "nl": [
+        "wat is er aan de hand"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d25-w15",
+      "ar": "مالك",
+      "tr": "mālək",
+      "nl": [
+        "wat heb je? wat is er met je?"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Partikels die een gesprek kleuren",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Partikel",
+            "Functie",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "ياك|yāk",
+              "bevestiging zoeken (toch?)",
+              "ياك لاباس؟"
+            ],
+            [
+              "إيوا|īwa",
+              "overgang (nou, dus)",
+              "إيوا، شنو درتي؟"
+            ],
+            [
+              "غير|ġīr",
+              "alleen, maar",
+              "غير شوية"
+            ],
+            [
+              "زعما|zəʿma",
+              "uitleggen; twijfel (zogenaamd)",
+              "زعما ما عرفتيش؟"
+            ],
+            [
+              "بلاتي|bəlāti",
+              "afremmen (wacht even)",
+              "بلاتي، بلاتي!"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij het luisteren naar Darija zijn deze kleine woordjes de sleutel: ze vertellen je de **toon** van het gesprek. Ze hebben vaak geen directe Fusha-vertaling. {ar|زعما} komt wel van Fusha {ar|زَعَمَ} (beweren), vandaar *zogenaamd*."
+        },
+        {
+          "type": "letop",
+          "md": "Darija-sprekers praten snel en laten klinkers weg. Concentreer je bij het luisteren op de **werkwoorden** en de **partikels**; de rest volgt uit de context."
+        }
+      ]
+    },
+    {
+      "titel": "Dialoog: twee vrienden komen elkaar tegen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "السلام، شحال هادي ما شفتك!",
+              "tr": "ssalām, šḥāl hādi ma šəftək!",
+              "nl": "Hoi, lang niet gezien!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "إيوا، كنت مشغول بزاف بالخدمة.",
+              "tr": "īwa, kunt məšġūl bəzzāf b-lxədma.",
+              "nl": "Tja, ik had het erg druk met werk.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ياك لاباس؟ مالك؟",
+              "tr": "yāk lābās? mālək?",
+              "nl": "Alles goed toch? Wat is er?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "لاباس، غير عيان شوية.",
+              "tr": "lābās, ġīr ʿyyān šwiya.",
+              "nl": "Goed hoor, alleen een beetje moe.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "يالاه نشربو أتاي، بلا ما تقول لا!",
+              "tr": "yaḷḷāh nšərbu atāy, bla ma tqūl la!",
+              "nl": "Kom, we drinken thee, en zeg maar geen nee!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "واخا، ولكن فيسع، عندي موعد.",
+              "tr": "waxxa, walākin fīsaʿ, ʿəndi mawʿid.",
+              "nl": "Oké, maar snel, ik heb een afspraak.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-dialoog",
+          "paren": [
+            {
+              "ar": "ياك",
+              "nl": "toch?",
+              "woord": "j3-p11-d25-w01"
+            },
+            {
+              "ar": "إيوا",
+              "nl": "nou ja",
+              "woord": "j3-p11-d25-w04"
+            },
+            {
+              "ar": "غير",
+              "nl": "alleen",
+              "woord": "j3-p11-d25-w07"
+            },
+            {
+              "ar": "فيسع",
+              "nl": "snel",
+              "woord": "j3-p11-d25-w10"
+            },
+            {
+              "ar": "بلاتي",
+              "nl": "wacht even",
+              "woord": "j3-p11-d25-w11"
+            },
+            {
+              "ar": "مالك",
+              "nl": "wat is er met je?",
+              "woord": "j3-p11-d25-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-dialoog",
+          "tekst": "شحال هادي ما شفتك",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "Lang niet gezien!",
+            "Tot morgen!",
+            "Ik zie je niet."
+          ],
+          "juist": 0,
+          "uitleg": "Begroeting (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "De dialoog",
+      "items": [
+        {
+          "type": "luisteren",
+          "tag": "darija-dialoog",
+          "tekst": "غير عيان شوية",
+          "vraag": "Hoe voelt de vriend zich?",
+          "opties": [
+            "alleen een beetje moe",
+            "heel ziek",
+            "heel blij"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|غير}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-dialoog",
+          "vraag": "Waarom zegt de ene vriend {ar|فيسع}?",
+          "opties": [
+            "hij heeft weinig tijd (een afspraak)",
+            "hij wil geen thee",
+            "hij is boos"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عندي موعد}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-dialoog",
+          "vraag": "{ar|بلا ما تقول لا} betekent ...",
+          "opties": [
+            "zeg maar geen nee",
+            "zeg nee",
+            "zonder thee"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بلا ما}"
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-dialoog",
+          "zin": "___ لاباس؟",
+          "nl": "Alles goed, toch?",
+          "antwoord": [
+            "ياك"
+          ],
+          "uitleg": "{ar|ياك}",
+          "woordbank": [
+            "ياك",
+            "زعما",
+            "عاد"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-dialoog",
+          "bron": "kom op, laten we gaan (Darija)",
+          "antwoorden": [
+            "يالاه"
+          ],
+          "uitleg": "{ar|يالاه}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-dialoog",
+          "bron": "شنو واقع؟",
+          "antwoorden": [
+            "wat is er aan de hand",
+            "wat gebeurt er"
+          ],
+          "uitleg": "Darija.",
+          "tr": "šnu wāqəʿ"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-dialoog",
+        "paren": [
+          {
+            "ar": "نيت",
+            "nl": "precies"
+          },
+          {
+            "ar": "بصح",
+            "nl": "echt waar"
+          },
+          {
+            "ar": "كاع",
+            "nl": "allemaal"
+          },
+          {
+            "ar": "عاد",
+            "nl": "pas, net"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dialoog",
+        "vraag": "{ar|زعما} komt van Fusha ...",
+        "opties": [
+          "زَعَمَ (beweren)",
+          "زَمَنٌ (tijd)",
+          "زَعيمٌ (leider)"
+        ],
+        "juist": 0,
+        "uitleg": "Zogenaamd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dialoog",
+        "vraag": "Wat doet {ar|ياك} in een zin?",
+        "opties": [
+          "het zoekt bevestiging (toch?)",
+          "het ontkent",
+          "het geeft de toekomst aan"
+        ],
+        "juist": 0,
+        "uitleg": "Partikel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dialoog",
+        "vraag": "Iemand zegt {ar|بلاتي، بلاتي!}. Wat bedoelt hij?",
+        "opties": [
+          "Rustig, wacht even!",
+          "Snel, snel!",
+          "Tot ziens!"
+        ],
+        "juist": 0,
+        "uitleg": "Afremmen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-dialoog",
+        "tekst": "يالاه نشربو أتاي",
+        "vraag": "Wat stelt de spreker voor?",
+        "opties": [
+          "samen thee drinken",
+          "naar huis gaan",
+          "gaan werken"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يالاه}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-dialoog",
+        "tekst": "عاد وصلت",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Ik ben net aangekomen.",
+          "Ik kom nooit aan.",
+          "Ik ben al lang hier."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عاد}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-dialoog",
+        "zin": "كنت مشغول بزاف، ___ دابا فاضي.",
+        "nl": "Ik had het druk, maar nu ben ik vrij.",
+        "antwoord": [
+          "غير"
+        ],
+        "uitleg": "{ar|غير} = maar.",
+        "woordbank": [
+          "غير",
+          "ياك",
+          "كاع"
+        ],
+        "review": {
+          "status": "onzeker",
+          "note": "Gebruik van غير als 'maar' in deze zin laten bevestigen."
+        }
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-dialoog",
+        "zin": "___، شنو درتي اليوم؟",
+        "nl": "Nou, wat heb je vandaag gedaan?",
+        "antwoord": [
+          "إيوا"
+        ],
+        "uitleg": "Overgang.",
+        "woordbank": [
+          "إيوا",
+          "بلاتي",
+          "نيت"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-dialoog",
+        "nl": "Alleen een beetje moe.",
+        "woorden": [
+          "غير",
+          "عيان",
+          "شوية."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-dialoog",
+        "bron": "wat heb je? (Darija)",
+        "antwoorden": [
+          "مالك",
+          "مالك؟"
+        ],
+        "uitleg": "{ar|مالك}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-dialoog",
+        "bron": "snel (Darija)",
+        "antwoorden": [
+          "فيسع"
+        ],
+        "uitleg": "{ar|فيسع}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-dialoog",
+        "bron": "شحال هادي ما شفتك",
+        "antwoorden": [
+          "lang niet gezien",
+          "ik heb je lang niet gezien"
+        ],
+        "uitleg": "Darija.",
+        "tr": "šḥāl hādi ma šəftək"
+      }
+    ]
+  }
+}

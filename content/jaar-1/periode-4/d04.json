@@ -1,0 +1,795 @@
+{
+  "id": "j1-p4-d04",
+  "code": "D04",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: tegenwoordige tijd",
+  "thema": "Vertellen wat je doet, met het voorvoegsel كا-",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de tegenwoordige tijd in het Darija vormen met كا- (of كَيْ-).",
+    "een werkwoord in het Darija vervoegen in het enkelvoud en het meervoud.",
+    "zeggen wat ik elke dag doe, en dat vergelijken met het Fusha."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-d04-w01",
+      "ar": "كانكتب",
+      "tr": "kanktəb",
+      "nl": [
+        "ik schrijf"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَكْتُبُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija-spelling (كانكتب / كنكتب) bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w02",
+      "ar": "كانقرا",
+      "tr": "kanqra",
+      "nl": [
+        "ik lees",
+        "ik studeer"
+      ],
+      "soort": "werkwoord",
+      "notitie": "In het Darija betekent قرا ook *studeren*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w03",
+      "ar": "كانشرب",
+      "tr": "kanšṛəb",
+      "nl": [
+        "ik drink"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w04",
+      "ar": "كانخدم",
+      "tr": "kanxdəm",
+      "nl": [
+        "ik werk"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَعْمَلُ}. {ar|خدم} komt van {ar|خَدَمَ} (dienen).",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w05",
+      "ar": "كانسكن",
+      "tr": "kanskən",
+      "nl": [
+        "ik woon"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w06",
+      "ar": "كانهضر",
+      "tr": "kanhḍəṛ",
+      "nl": [
+        "ik spreek",
+        "ik praat"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَتَكَلَّمُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija-spelling (هضر) bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w07",
+      "ar": "كانعرف",
+      "tr": "kanʿṛəf",
+      "nl": [
+        "ik weet",
+        "ik ken"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w08",
+      "ar": "كانفهم",
+      "tr": "kanfhəm",
+      "nl": [
+        "ik begrijp"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w09",
+      "ar": "كاتكتب",
+      "tr": "katktəb",
+      "nl": [
+        "jij schrijft (m)",
+        "zij schrijft"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w10",
+      "ar": "كاتكتبي",
+      "tr": "katktəbi",
+      "nl": [
+        "jij schrijft (v)"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w11",
+      "ar": "كايكتب",
+      "tr": "kayktəb",
+      "nl": [
+        "hij schrijft"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w12",
+      "ar": "كانكتبو",
+      "tr": "kanktəbu",
+      "nl": [
+        "wij schrijven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w13",
+      "ar": "كاتكتبو",
+      "tr": "katktəbu",
+      "nl": [
+        "jullie schrijven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w14",
+      "ar": "كايكتبو",
+      "tr": "kayktəbu",
+      "nl": [
+        "zij schrijven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w15",
+      "ar": "ديما",
+      "tr": "dīma",
+      "nl": [
+        "altijd"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Fusha: {ar|دائِمًا}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w16",
+      "ar": "كل نهار",
+      "tr": "kull nhāṛ",
+      "nl": [
+        "elke dag"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Fusha: {ar|كُلَّ يَوْمٍ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w17",
+      "ar": "دابا",
+      "tr": "dāba",
+      "nl": [
+        "nu"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Fusha: {ar|الآنَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d04-w18",
+      "ar": "الخدمة",
+      "tr": "lxədma",
+      "nl": [
+        "het werk"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|العَمَلُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De tegenwoordige tijd met كا-",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Het Darija maakt de tegenwoordige tijd met het voorvoegsel **كا-** (*ka-*, in sommige regio's **كَيْ-** of **تا-**) vóór de muḍāriʿ-vorm.",
+            "De vorm zonder naamvalsuitgang lijkt sterk op het Fusha: {ar|أَكْتُبُ} → *nəktəb* → met ka-: {ar|كانكتب}. Let op: de **ik**-vorm begint in het Darija met **ن**, niet met أ."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Fusha",
+            "Darija"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أَكْتُبُ",
+              "كانكتب|kanktəb"
+            ],
+            [
+              "jij (m)",
+              "تَكْتُبُ",
+              "كاتكتب|katktəb"
+            ],
+            [
+              "jij (v)",
+              "تَكْتُبينَ",
+              "كاتكتبي|katktəbi"
+            ],
+            [
+              "hij",
+              "يَكْتُبُ",
+              "كايكتب|kayktəb"
+            ],
+            [
+              "zij",
+              "تَكْتُبُ",
+              "كاتكتب|katktəb"
+            ],
+            [
+              "wij",
+              "نَكْتُبُ",
+              "كانكتبو|kanktəbu"
+            ],
+            [
+              "jullie",
+              "تَكْتُبونَ",
+              "كاتكتبو|katktəbu"
+            ],
+            [
+              "zij (mv)",
+              "يَكْتُبونَ",
+              "كايكتبو|kayktəbu"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom **ن** voor *ik*? In de Maghreb-dialecten is de oude ik-vorm vervangen door de n-vorm, en het meervoud krijgt een extra **و**: *wij* = n- … -u. Het Darija heeft ook geen aparte vrouwelijke meervoudsvormen en geen dualis: 8 vormen in plaats van 13."
+        }
+      ]
+    },
+    {
+      "titel": "Mijn dag",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كانخدم كل نهار.",
+              "tr": "kanxdəm kull nhāṛ.",
+              "nl": "Ik werk elke dag.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "كانقرا العربية دابا.",
+              "tr": "kanqra l-ʿaṛbiya dāba.",
+              "nl": "Ik leer nu Arabisch.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "كاتهضر الدارجة؟",
+              "tr": "kathḍəṛ ddārija?",
+              "nl": "Spreek jij Darija?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ديما كايشربو أتاي.",
+              "tr": "dīma kayšəṛbu atāy.",
+              "nl": "Ze drinken altijd thee.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin en vorm كايشربو laten nakijken."
+              }
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Ontkennen komt in D06 ({ar|ما … ش}). Wil je nu al iets ontkennen, gebruik dan nog het Fusha."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-presens",
+          "paren": [
+            {
+              "ar": "كانكتب",
+              "nl": "ik schrijf",
+              "woord": "j1-p4-d04-w01"
+            },
+            {
+              "ar": "كانخدم",
+              "nl": "ik werk",
+              "woord": "j1-p4-d04-w04"
+            },
+            {
+              "ar": "كانسكن",
+              "nl": "ik woon",
+              "woord": "j1-p4-d04-w05"
+            },
+            {
+              "ar": "كانفهم",
+              "nl": "ik begrijp",
+              "woord": "j1-p4-d04-w08"
+            },
+            {
+              "ar": "ديما",
+              "nl": "altijd",
+              "woord": "j1-p4-d04-w15"
+            },
+            {
+              "ar": "دابا",
+              "nl": "nu",
+              "woord": "j1-p4-d04-w17"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Het Darija {ar|دابا} is in het Fusha ...",
+          "opties": [
+            "الآنَ",
+            "دائِمًا",
+            "غَدًا"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|دابا} = nu."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-presens",
+          "tekst": "كانخدم",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "ik werk",
+            "hij werkt",
+            "wij werken"
+          ],
+          "juist": 0,
+          "uitleg": "*kanxdəm*: كا + ن = ik (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "darija-presens",
+          "instructie": "Vervoeg كتب (schrijven) in het Darija.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "كانكتب",
+              "tr": "kanktəb"
+            },
+            {
+              "label": "hij",
+              "antwoord": "كايكتب",
+              "tr": "kayktəb"
+            },
+            {
+              "label": "jij (v)",
+              "antwoord": "كاتكتبي",
+              "tr": "katktəbi"
+            },
+            {
+              "label": "wij",
+              "antwoord": "كانكتبو",
+              "tr": "kanktəbu"
+            }
+          ],
+          "uitleg": "ka + n/t/y + stam (+ i / u)."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "darija-presens",
+          "instructie": "Vervoeg خدم (werken) in het Darija.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "كانخدم",
+              "tr": "kanxdəm"
+            },
+            {
+              "label": "zij (mv)",
+              "antwoord": "كايخدمو",
+              "tr": "kayxədmu"
+            },
+            {
+              "label": "jullie",
+              "antwoord": "كاتخدمو",
+              "tr": "katxədmu"
+            }
+          ],
+          "uitleg": "In het meervoud schuift de klinker: *kayxədmu*."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-presens",
+          "zin": "___ كل نهار.",
+          "nl": "Ik werk elke dag.",
+          "woordbank": [
+            "كانخدم",
+            "كايخدم",
+            "خدمت"
+          ],
+          "antwoord": [
+            "كانخدم"
+          ],
+          "uitleg": "كا + ن = ik."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-presens",
+          "zin": "واش ___ العربية؟",
+          "nl": "Begrijp jij (m) Arabisch?",
+          "woordbank": [
+            "كاتفهم",
+            "كانفهم",
+            "كايفهمو"
+          ],
+          "antwoord": [
+            "كاتفهم"
+          ],
+          "uitleg": "كا + ت = jij."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-presens",
+          "nl": "Ik leer nu Arabisch.",
+          "woorden": [
+            "كانقرا",
+            "العربية",
+            "دابا."
+          ],
+          "uitleg": "Werkwoord – voorwerp – tijd."
+        }
+      ]
+    },
+    {
+      "titel": "Fusha en Darija",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Fusha {ar|نَكْتُبُ} is in het Darija ...",
+          "opties": [
+            "كانكتبو",
+            "كانكتب",
+            "كايكتبو"
+          ],
+          "juist": 0,
+          "uitleg": "*wij* = ka-n- … -u."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Fusha {ar|أَعْمَلُ} is in het Darija ...",
+          "opties": [
+            "كانخدم",
+            "كانعمل",
+            "كايخدم"
+          ],
+          "juist": 0,
+          "uitleg": "Darija gebruikt {ar|خدم} voor werken."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-presens",
+          "bron": "ik drink (Darija)",
+          "antwoorden": [
+            "كانشرب"
+          ],
+          "uitleg": "{ar|كانشرب}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-presens",
+          "bron": "كايسكنو ف الرباط.",
+          "tr": "kayskənu f-ṛṛbāṭ.",
+          "antwoorden": [
+            "zij wonen in rabat",
+            "ze wonen in rabat"
+          ],
+          "uitleg": "{ar|ف} = Fusha {ar|في}.",
+          "review": {
+            "status": "onzeker",
+            "note": "Darija-zin laten nakijken."
+          }
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-presens",
+        "paren": [
+          {
+            "ar": "كانشرب",
+            "nl": "ik drink"
+          },
+          {
+            "ar": "كانعرف",
+            "nl": "ik weet"
+          },
+          {
+            "ar": "كانهضر",
+            "nl": "ik praat"
+          },
+          {
+            "ar": "الخدمة",
+            "nl": "het werk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-presens",
+        "vraag": "'Hij schrijft' in het Darija is ...",
+        "opties": [
+          "كايكتب",
+          "كانكتب",
+          "كاتكتبي"
+        ],
+        "juist": 0,
+        "uitleg": "كا + ي = hij."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-presens",
+        "vraag": "Met welk voorvoegsel maak je de tegenwoordige tijd in het Darija?",
+        "opties": [
+          "كا-",
+          "سـ",
+          "غادي"
+        ],
+        "juist": 0,
+        "uitleg": "كا- (of كَيْ-)."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Het Darija {ar|ديما} is in het Fusha ...",
+        "opties": [
+          "دائِمًا",
+          "الآنَ",
+          "قَليلًا"
+        ],
+        "juist": 0,
+        "uitleg": "altijd"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-presens",
+        "tekst": "كاتكتبي",
+        "vraag": "Wie schrijft?",
+        "opties": [
+          "jij (v)",
+          "ik",
+          "zij (mv)"
+        ],
+        "juist": 0,
+        "uitleg": "ka-t- … -i = jij (v)."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-presens",
+        "tekst": "كانقرا دابا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik studeer nu.",
+          "Hij leest altijd.",
+          "Wij werken nu."
+        ],
+        "juist": 0,
+        "uitleg": "*kanqra dāba*."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-presens",
+        "zin": "حنا ___ العربية.",
+        "nl": "Wij spreken Arabisch.",
+        "woordbank": [
+          "كانهضرو",
+          "كانهضر",
+          "كايهضر"
+        ],
+        "antwoord": [
+          "كانهضرو"
+        ],
+        "uitleg": "wij = ka-n- … -u.",
+        "review": {
+          "status": "onzeker",
+          "note": "حنا (wij) en كانهضرو laten nakijken."
+        }
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-presens",
+        "zin": "___ كل نهار.",
+        "nl": "Hij werkt elke dag.",
+        "woordbank": [
+          "كايخدم",
+          "كاتخدم",
+          "كانخدم"
+        ],
+        "antwoord": [
+          "كايخدم"
+        ],
+        "uitleg": "كا + ي = hij."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "darija-presens",
+        "instructie": "Vervoeg فهم (begrijpen) in het Darija.",
+        "rijen": [
+          {
+            "label": "ik",
+            "antwoord": "كانفهم",
+            "tr": "kanfhəm"
+          },
+          {
+            "label": "jij (m)",
+            "antwoord": "كاتفهم",
+            "tr": "katfhəm"
+          },
+          {
+            "label": "hij",
+            "antwoord": "كايفهم",
+            "tr": "kayfhəm"
+          }
+        ],
+        "uitleg": "ka + n / t / y."
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-presens",
+        "nl": "Ik werk elke dag.",
+        "woorden": [
+          "كانخدم",
+          "كل",
+          "نهار."
+        ],
+        "uitleg": "{ar|كل نهار} = elke dag."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-presens",
+        "bron": "ik woon (Darija)",
+        "antwoorden": [
+          "كانسكن"
+        ],
+        "uitleg": "{ar|كانسكن}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-fusha",
+        "bron": "nu (Darija)",
+        "antwoorden": [
+          "دابا"
+        ],
+        "uitleg": "{ar|دابا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-presens",
+        "bron": "كايكتبو",
+        "tr": "kayktəbu",
+        "antwoorden": [
+          "zij schrijven",
+          "ze schrijven"
+        ],
+        "uitleg": "ka-y- … -u = zij (mv)."
+      }
+    ]
+  }
+}

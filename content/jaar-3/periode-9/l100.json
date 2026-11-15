@@ -1,0 +1,615 @@
+{
+  "id": "j3-p9-l100",
+  "code": "L100",
+  "type": "les",
+  "titel": "Dromen en spijt",
+  "thema": "Wat als …? Irreële voorwaarde met لَوْ en لَوْلا",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een irreële voorwaarde maken met لَوْ … لَـ.",
+    "لَوْلا + naamwoord gebruiken (zonder …).",
+    "إِذا، إِنْ en لَوْ op werkelijkheid onderscheiden."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l100-w01",
+      "ar": "لَوْ",
+      "tr": "law",
+      "nl": [
+        "als (irreëel), stel dat"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ māḍī … لَـ + māḍī."
+    },
+    {
+      "id": "j3-p9-l100-w02",
+      "ar": "لَوْلا",
+      "tr": "lawlā",
+      "nl": [
+        "als … er niet was geweest"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ naamwoord (nominatief)."
+    },
+    {
+      "id": "j3-p9-l100-w04",
+      "ar": "نَدَمٌ",
+      "tr": "nadam",
+      "nl": [
+        "spijt"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l100-w05",
+      "ar": "يا لَيْتَ",
+      "tr": "yā layta",
+      "nl": [
+        "had ik maar …"
+      ],
+      "soort": "uitroep"
+    },
+    {
+      "id": "j3-p9-l100-w06",
+      "ar": "مَليونيرٌ",
+      "tr": "malyūnīr",
+      "nl": [
+        "miljonair"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l100-w07",
+      "ar": "جَزيرَةٌ نائِيَةٌ",
+      "tr": "jazīratun nāʾiya",
+      "nl": [
+        "afgelegen eiland"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l100-w08",
+      "ar": "لَتَغَيَّرَ",
+      "tr": "la-taġayyara",
+      "nl": [
+        "dan was … veranderd"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l100-w09",
+      "ar": "ضاعَ الوَقْتُ",
+      "tr": "ḍāʿa l-waqt",
+      "nl": [
+        "de tijd is verloren gegaan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l100-w10",
+      "ar": "تَمَنّى",
+      "tr": "tamannā",
+      "nl": [
+        "wensen"
+      ],
+      "soort": "werkwoord (V, defectief)"
+    },
+    {
+      "id": "j3-p9-l100-w11",
+      "ar": "خَيالٌ",
+      "tr": "ḫayāl",
+      "nl": [
+        "fantasie, verbeelding"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l100-w12",
+      "ar": "واقِعٌ",
+      "tr": "wāqiʿ",
+      "nl": [
+        "werkelijkheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l100-w13",
+      "ar": "مُسْتَحيلٌ تَقْريبًا",
+      "tr": "mustaḥīlun taqrīban",
+      "nl": [
+        "bijna onmogelijk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l100-w14",
+      "ar": "فاتَ",
+      "tr": "fāta",
+      "nl": [
+        "voorbijgaan, missen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|فاتَني القِطارُ} = ik heb de trein gemist."
+    },
+    {
+      "id": "j3-p9-l100-w15",
+      "ar": "ساعَدَني الحَظُّ",
+      "tr": "sāʿadanī l-ḥaẓẓ",
+      "nl": [
+        "ik had geluk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l100-w16",
+      "ar": "أُمْنِيَةٌ",
+      "tr": "umniya",
+      "nl": [
+        "wens"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَمانِيُّ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Irreële voorwaarde: لَوْ … لَـ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "{ar|لَوْ} gebruik je voor iets wat **niet waar is** of **niet gebeurd is**: {ar|لَوْ كُنْتُ غَنِيًّا لَسافَرْتُ حَوْلَ العالَمِ} (als ik rijk was, zou ik de wereld rondreizen).",
+            "Beide delen staan in de **māḍī**; het gevolg begint vaak met {ar|لَـ}. Of het over het heden of het verleden gaat, blijkt uit de context."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Type",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "reëel (إِذا)",
+              "إِذا دَرَسْتَ نَجَحْتَ",
+              "als je studeert, slaag je"
+            ],
+            [
+              "mogelijk (إِنْ)",
+              "إِنْ تَدْرُسْ تَنْجَحْ",
+              "indien je studeert, slaag je"
+            ],
+            [
+              "irreëel (لَوْ)",
+              "لَوْ دَرَسْتَ لَنَجَحْتَ",
+              "als je gestudeerd had, was je geslaagd"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Drie voorwaardewoorden, drie graden van werkelijkheid: {ar|إِذا} (verwacht), {ar|إِنْ} (mogelijk), {ar|لَوْ} (onwerkelijk). Het Nederlands doet hetzelfde met de werkwoordstijd (*als … dan*, *als … zou*, *als … had*). Het Arabisch doet het met het voegwoord."
+        },
+        {
+          "type": "letop",
+          "md": "Ontkenning in het gevolg: {ar|لَما} + māḍī: {ar|لَوْ عَرَفْتُ لَما جِئْتُ} (als ik het had geweten, was ik niet gekomen)."
+        }
+      ]
+    },
+    {
+      "titel": "لَوْلا: als … er niet was geweest",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|لَوْلا} + **naamwoord (nominatief)** + {ar|لَـ} + māḍī: {ar|لَوْلا مُساعَدَتُكَ لَفَشِلْتُ} (zonder jouw hulp was ik mislukt)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لَوْ كُنْتُ مَليونيرًا لَاشْتَرَيْتُ جَزيرَةً.",
+              "tr": "law kuntu malyūnīran la-štaraytu jazīra.",
+              "nl": "Als ik miljonair was, zou ik een eiland kopen."
+            },
+            {
+              "ar": "لَوْ وَصَلْتُ مُبَكِّرًا لَما فاتَني القِطارُ.",
+              "tr": "law waṣaltu mubakkiran la-mā fātanī l-qiṭār.",
+              "nl": "Als ik vroeg was gekomen, had ik de trein niet gemist."
+            },
+            {
+              "ar": "لَوْلا الإِنْتَرْنِتُ لَما تَعَلَّمْتُ العَرَبِيَّةَ بِسُرْعَةٍ.",
+              "tr": "lawla l-intarnitu la-mā taʿallamtu l-ʿarabiyyata bi-surʿa.",
+              "nl": "Zonder internet had ik niet zo snel Arabisch geleerd."
+            },
+            {
+              "ar": "يا لَيْتَني سافَرْتُ مَعَكُمْ!",
+              "tr": "yā laytanī sāfartu maʿakum!",
+              "nl": "Was ik maar met jullie meegereisd!"
+            },
+            {
+              "ar": "لَوْ كانَ عِنْدي وَقْتٌ لَساعَدْتُكَ.",
+              "tr": "law kāna ʿindī waqtun la-sāʿadtuk.",
+              "nl": "Als ik tijd had, zou ik je helpen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حُلْمٌ",
+              "nl": "droom"
+            },
+            {
+              "ar": "نَدَمٌ",
+              "nl": "spijt",
+              "woord": "j3-p9-l100-w04"
+            },
+            {
+              "ar": "خَيالٌ",
+              "nl": "fantasie",
+              "woord": "j3-p9-l100-w11"
+            },
+            {
+              "ar": "واقِعٌ",
+              "nl": "werkelijkheid",
+              "woord": "j3-p9-l100-w12"
+            },
+            {
+              "ar": "تَمَنّى",
+              "nl": "wensen",
+              "woord": "j3-p9-l100-w10"
+            },
+            {
+              "ar": "فاتَ",
+              "nl": "missen",
+              "woord": "j3-p9-l100-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "law",
+          "tekst": "لَوْ كُنْتُ غَنِيًّا لَسافَرْتُ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Als ik rijk was, zou ik reizen.",
+            "Ik ben rijk en ik reis.",
+            "Ik reisde toen ik rijk was."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَوْ} = irreëel."
+        }
+      ]
+    },
+    {
+      "titel": "لَوْ en لَوْلا",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "law",
+          "zin": "لَوْ دَرَسْتَ ___.",
+          "nl": "Als je gestudeerd had, was je geslaagd.",
+          "antwoord": [
+            "لَنَجَحْتَ"
+          ],
+          "uitleg": "{ar|لَـ} + māḍī.",
+          "woordbank": [
+            "لَنَجَحْتَ",
+            "تَنْجَحُ",
+            "سَتَنْجَحُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "law",
+          "zin": "___ مُساعَدَتُكَ لَفَشِلْتُ.",
+          "nl": "Zonder jouw hulp was ik mislukt.",
+          "antwoord": [
+            "لَوْلا"
+          ],
+          "uitleg": "{ar|لَوْلا} + naamwoord.",
+          "woordbank": [
+            "لَوْلا",
+            "لَوْ",
+            "إِذا"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "law",
+          "vraag": "Welk voegwoord past bij iets wat NIET gebeurd is?",
+          "opties": [
+            "لَوْ",
+            "إِذا",
+            "إِنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Irreëel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "law",
+          "vraag": "Hoe ontken je het gevolg na {ar|لَوْ}?",
+          "opties": [
+            "لَما + māḍī",
+            "لَمْ + majzūm",
+            "لَنْ + manṣūb"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَما}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "law",
+          "vraag": "Wat volgt op {ar|لَوْلا}?",
+          "opties": [
+            "een naamwoord in de nominatief",
+            "een werkwoord in de majzūm",
+            "een gebiedende wijs"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَوْلا المَطَرُ …}"
+        }
+      ]
+    },
+    {
+      "titel": "Dromen en spijt",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "law",
+          "nl": "Als ik tijd had, zou ik je helpen.",
+          "woorden": [
+            "لَوْ",
+            "كانَ",
+            "عِنْدي",
+            "وَقْتٌ",
+            "لَساعَدْتُكَ."
+          ],
+          "uitleg": "{ar|لَوْ … لَـ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "law",
+          "bron": "Was ik maar met jullie meegegaan!",
+          "antwoorden": [
+            "يا لَيْتَني ذَهَبْتُ مَعَكُمْ",
+            "لَيْتَني ذَهَبْتُ مَعَكُمْ"
+          ],
+          "uitleg": "{ar|يا لَيْتَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "law",
+          "bron": "لَوْ عَرَفْتُ لَما جِئْتُ.",
+          "antwoorden": [
+            "als ik het had geweten was ik niet gekomen",
+            "had ik het geweten dan was ik niet gekomen"
+          ],
+          "uitleg": "{ar|لَما}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَليونيرٌ",
+            "nl": "miljonair"
+          },
+          {
+            "ar": "جَزيرَةٌ نائِيَةٌ",
+            "nl": "afgelegen eiland"
+          },
+          {
+            "ar": "يا لَيْتَ",
+            "nl": "had ik maar"
+          },
+          {
+            "ar": "مُسْتَحيلٌ تَقْريبًا",
+            "nl": "bijna onmogelijk"
+          },
+          {
+            "ar": "ساعَدَني الحَظُّ",
+            "nl": "ik had geluk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "'Als ik een vogel was, zou ik vliegen' is ...",
+        "opties": [
+          "لَوْ كُنْتُ طائِرًا لَطِرْتُ",
+          "إِذا كُنْتُ طائِرًا أَطيرُ",
+          "إِنْ أَكُنْ طائِرًا أَطِرْ"
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "Welke graad van werkelijkheid drukt {ar|إِنْ} uit?",
+        "opties": [
+          "mogelijk",
+          "onwerkelijk",
+          "zeker"
+        ],
+        "juist": 0,
+        "uitleg": "Mogelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "'Zonder de regen waren we gegaan' is ...",
+        "opties": [
+          "لَوْلا المَطَرُ لَذَهَبْنا",
+          "لَوْ المَطَرُ ذَهَبْنا",
+          "لَوْلا المَطَرَ لَنَذْهَبَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَوْلا} + nominatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "Wat betekent {ar|لَما فاتَني القِطارُ}?",
+        "opties": [
+          "dan had ik de trein niet gemist",
+          "ik miste de trein",
+          "de trein vertrok niet"
+        ],
+        "juist": 0,
+        "uitleg": "Ontkend gevolg."
+      },
+      {
+        "type": "luisteren",
+        "tag": "law",
+        "tekst": "لَوْلا الحَظُّ لَما نَجَحْتُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Zonder geluk was ik niet geslaagd.",
+          "Ik had geluk en slaagde niet.",
+          "Geluk bestaat niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَوْلا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "law",
+        "tekst": "يا لَيْتَني دَرَسْتُ أَكْثَرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Had ik maar meer gestudeerd!",
+          "Ik heb veel gestudeerd.",
+          "Ik ga meer studeren."
+        ],
+        "juist": 0,
+        "uitleg": "Spijt."
+      },
+      {
+        "type": "invullen",
+        "tag": "law",
+        "zin": "لَوْ كانَ الجَوُّ جَميلًا ___ إِلى البَحْرِ.",
+        "nl": "Als het mooi weer was, gingen we naar zee.",
+        "antwoord": [
+          "لَذَهَبْنا"
+        ],
+        "uitleg": "{ar|لَـ} + māḍī.",
+        "woordbank": [
+          "لَذَهَبْنا",
+          "نَذْهَبُ",
+          "سَنَذْهَبُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "law",
+        "zin": "لَوْلا ___ لَضِعْتُ في المَدينَةِ.",
+        "nl": "Zonder de kaart was ik verdwaald in de stad.",
+        "antwoord": [
+          "الخَريطَةُ"
+        ],
+        "uitleg": "Nominatief.",
+        "woordbank": [
+          "الخَريطَةُ",
+          "الخَريطَةَ",
+          "الخَريطَةِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "هٰذا ___ وَلَيْسَ واقِعًا.",
+        "nl": "Dit is fantasie en geen werkelijkheid.",
+        "antwoord": [
+          "خَيالٌ"
+        ],
+        "uitleg": "{ar|خَيالٌ}",
+        "woordbank": [
+          "خَيالٌ",
+          "نَدَمٌ",
+          "حُلْمًا"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "law",
+        "instructie": "Maak het gevolg met لَـ (ik, māḍī).",
+        "rijen": [
+          {
+            "label": "reizen (سافَرَ)",
+            "antwoord": "لَسافَرْتُ",
+            "tr": "la-sāfartu"
+          },
+          {
+            "label": "kopen (اِشْتَرى)",
+            "antwoord": "لَاشْتَرَيْتُ",
+            "tr": "la-štaraytu"
+          }
+        ],
+        "uitleg": "{ar|لَـ} + māḍī."
+      },
+      {
+        "type": "ordenen",
+        "tag": "law",
+        "nl": "Als ik miljonair was, zou ik een eiland kopen.",
+        "woorden": [
+          "لَوْ",
+          "كُنْتُ",
+          "مَليونيرًا",
+          "لَاشْتَرَيْتُ",
+          "جَزيرَةً."
+        ],
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de droom",
+        "antwoorden": [
+          "الحُلْمُ"
+        ],
+        "uitleg": "{ar|الحُلْمُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "law",
+        "bron": "لَوْ كانَ عِنْدي وَقْتٌ لَساعَدْتُكَ.",
+        "antwoorden": [
+          "als ik tijd had zou ik je helpen",
+          "als ik tijd had had ik je geholpen"
+        ],
+        "uitleg": "Irreëel."
+      }
+    ]
+  }
+}

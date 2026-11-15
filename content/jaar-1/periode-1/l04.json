@@ -1,0 +1,216 @@
+{
+  "id": "j1-p1-l04",
+  "code": "L04",
+  "type": "les",
+  "titel": "Zijn zonder \"zijn\"",
+  "thema": "Beroepen, toestanden en eenvoudige beschrijvingen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "uitleggen waarom het Arabisch in de tegenwoordige tijd geen werkwoord voor 'zijn' gebruikt.",
+    "een nominale zin maken: onderwerp (mubtadaʾ) + gezegde (ḫabar).",
+    "het gezegde mannelijk of vrouwelijk maken, passend bij het onderwerp.",
+    "het verschil zien tussen 'het huis is groot' en 'het grote huis'."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l04-w01", "ar": "طَبيبٌ", "tr": "ṭabīb", "nl": ["arts", "dokter (m)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w02", "ar": "طَبيبَةٌ", "tr": "ṭabība", "nl": ["arts", "dokter (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w03", "ar": "مُهَنْدِسٌ", "tr": "muhandis", "nl": ["ingenieur (m)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w04", "ar": "مُهَنْدِسَةٌ", "tr": "muhandisa", "nl": ["ingenieur (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w05", "ar": "مُوَظَّفٌ", "tr": "muwaẓẓaf", "nl": ["medewerker (m)", "werknemer (m)"], "soort": "zelfstandig naamwoord",
+      "notitie": "Iemand in loondienst, vaak op kantoor of bij de overheid." },
+    { "id": "j1-p1-l04-w06", "ar": "مُوَظَّفَةٌ", "tr": "muwaẓẓafa", "nl": ["medewerker (v)", "werknemer (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w07", "ar": "كَبيرٌ", "tr": "kabīr", "nl": ["groot", "oud (van personen)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w08", "ar": "صَغيرٌ", "tr": "ṣaġīr", "nl": ["klein", "jong"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w09", "ar": "جَديدٌ", "tr": "jadīd", "nl": ["nieuw"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w10", "ar": "قَديمٌ", "tr": "qadīm", "nl": ["oud (van dingen)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w11", "ar": "جَميلٌ", "tr": "jamīl", "nl": ["mooi"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w12", "ar": "طَويلٌ", "tr": "ṭawīl", "nl": ["lang"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w13", "ar": "قَصيرٌ", "tr": "qaṣīr", "nl": ["kort", "klein (van lengte)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w14", "ar": "سَعيدٌ", "tr": "saʿīd", "nl": ["blij", "gelukkig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w15", "ar": "مَريضٌ", "tr": "marīḍ", "nl": ["ziek"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w16", "ar": "مَشْغولٌ", "tr": "mašġūl", "nl": ["bezig", "druk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w17", "ar": "مُتْعَبٌ", "tr": "mutʿab", "nl": ["moe"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l04-w18", "ar": "بَيْتٌ", "tr": "bayt", "nl": ["huis"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w19", "ar": "كِتابٌ", "tr": "kitāb", "nl": ["boek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l04-w20", "ar": "سَيّارَةٌ", "tr": "sayyāra", "nl": ["auto"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk (ة)." },
+    { "id": "j1-p1-l04-w21", "ar": "هُنا", "tr": "hunā", "nl": ["hier"], "soort": "bijwoord" },
+    { "id": "j1-p1-l04-w22", "ar": "هُناكَ", "tr": "hunāka", "nl": ["daar", "er is"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De nominale zin: zijn zonder \"zijn\"",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In het Nederlands heeft elke zin een werkwoord: *ik **ben** arts*. Het Arabisch heeft in de tegenwoordige tijd **geen werkwoord voor zijn**. Je zet het onderwerp en het gezegde gewoon naast elkaar: {ar|أَنا طَبيبٌ}, letterlijk *ik arts*.",
+          "Zo'n zin heet een **nominale zin** ({ar|جُمْلَةٌ اِسْمِيَّةٌ}). Hij bestaat uit twee delen: het **onderwerp** ({ar|المُبْتَدَأُ}, *mubtadaʾ*): waar gaat het over? En het **gezegde** ({ar|الخَبَرُ}, *ḫabar*): wat zeg je erover?"
+        ] },
+        { "type": "tabel", "kop": ["Onderwerp (mubtadaʾ)", "Gezegde (ḫabar)", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["أَنا|ana", "طَبيبٌ|ṭabīb", "Ik ben arts."],
+          ["هِيَ|hiya", "مُهَنْدِسَةٌ|muhandisa", "Zij is ingenieur."],
+          ["هُوَ|huwa", "مَريضٌ|marīḍ", "Hij is ziek."],
+          ["البَيْتُ|al-baytu", "كَبيرٌ|kabīr", "Het huis is groot."],
+          ["الكِتابُ|al-kitābu", "هُنا|hunā", "Het boek is hier."]
+        ] },
+        { "type": "waarom", "md": "In de tegenwoordige tijd voegt *zijn* niets toe: de tijd is *nu*, en wie het is staat al in het onderwerp. Het Arabisch laat het daarom weg. Gaat het over het verleden of de toekomst, dan is de tijd wel nieuwe informatie en komt er een werkwoord: {ar|كانَ} (*was*, les 28) en {ar|سَيَكونُ} (*zal zijn*, les 34)." },
+        { "type": "letop", "md": "Het gezegde kan een zelfstandig naamwoord zijn ({ar|طَبيبٌ}), een bijvoeglijk naamwoord ({ar|مَريضٌ}) of een plaatsaanduiding ({ar|هُنا}, {ar|هُناكَ})." }
+      ]
+    },
+    {
+      "titel": "Bepaald onderwerp, onbepaald gezegde",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In een nominale zin is het onderwerp meestal **bepaald**: een voornaamwoord, een naam of een woord met {ar|ال}. Het gezegde is meestal **onbepaald**: het heeft tanwīn (-un) en geen {ar|ال}.",
+          "Dat verschil laat zien waar de zin 'knipt'. Vergelijk:"
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "البَيْتُ كَبيرٌ.", "tr": "al-baytu kabīr.", "nl": "Het huis is groot. (een zin)" },
+          { "ar": "البَيْتُ الكَبيرُ", "tr": "al-baytu l-kabīr", "nl": "het grote huis (geen zin, alleen een woordgroep)" },
+          { "ar": "السَّيّارَةُ جَديدَةٌ.", "tr": "as-sayyāratu jadīda.", "nl": "De auto is nieuw." },
+          { "ar": "السَّيّارَةُ الجَديدَةُ", "tr": "as-sayyāratu l-jadīda", "nl": "de nieuwe auto" }
+        ] },
+        { "type": "waarom", "md": "Omdat er geen *is* staat, heeft het Arabisch een ander signaal nodig. Als het bijvoeglijk naamwoord ook {ar|ال} krijgt, hoort het bij het zelfstandig naamwoord (*het grote huis*). Is het onbepaald, dan zegt het iets óver het onderwerp (*het huis is groot*). In les 7 oefen je dit uitgebreid." },
+        { "type": "letop", "md": "In {ar|السَّيّارَةُ} hoor je geen l: *as-sayyāra*. De l van het lidwoord smelt samen met een zogenaamde zonneletter (hier س). Dat zie je aan de shadda. In les 6 leer je welke letters dat zijn." }
+      ]
+    },
+    {
+      "titel": "Mannelijk en vrouwelijk in het gezegde",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het gezegde past zich aan het onderwerp aan. Is het onderwerp vrouwelijk, dan krijgt het gezegde meestal een ة: {ar|هُوَ سَعيدٌ} (*hij is blij*) tegenover {ar|هِيَ سَعيدَةٌ} (*zij is blij*).",
+          "Dat geldt ook voor *ik* en *jij*: een man zegt {ar|أَنا مُتْعَبٌ}, een vrouw zegt {ar|أَنا مُتْعَبَةٌ}."
+        ] },
+        { "type": "tabel", "kop": ["Mannelijk", "Vrouwelijk", "Betekenis"], "arKolommen": [0, 1], "rijen": [
+          ["هُوَ طَبيبٌ|huwa ṭabīb", "هِيَ طَبيبَةٌ|hiya ṭabība", "hij/zij is arts"],
+          ["هُوَ مَشْغولٌ|huwa mašġūl", "هِيَ مَشْغولَةٌ|hiya mašġūla", "hij/zij is bezig"],
+          ["أَنْتَ سَعيدٌ|anta saʿīd", "أَنْتِ سَعيدَةٌ|anti saʿīda", "jij bent blij"],
+          ["أَنا مُتْعَبٌ|ana mutʿab", "أَنا مُتْعَبَةٌ|ana mutʿaba", "ik ben moe"],
+          ["البَيْتُ جَميلٌ|al-baytu jamīl", "السَّيّارَةُ جَميلَةٌ|as-sayyāratu jamīla", "het huis / de auto is mooi"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "البَيْتُ قَديمٌ وَجَميلٌ.", "tr": "al-baytu qadīmun wa-jamīl.", "nl": "Het huis is oud en mooi." },
+          { "ar": "أَنا مُهَنْدِسَةٌ وَهُوَ طَبيبٌ.", "tr": "ana muhandisatun wa-huwa ṭabīb.", "nl": "Ik ben ingenieur en hij is arts." },
+          { "ar": "السَّيّارَةُ هُناكَ.", "tr": "as-sayyāratu hunāk.", "nl": "De auto is daar." }
+        ] },
+        { "type": "waarom", "md": "Het Arabisch markeert bij elk bijvoeglijk naamwoord het geslacht van het woord waar het bij hoort (congruentie). Een ding kan ook vrouwelijk zijn: {ar|سَيّارَةٌ} eindigt op ة, dus zeg je {ar|جَميلَةٌ}." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Zinnen bouwen",
+      "items": [
+        { "type": "ordenen", "tag": "nominale-zin", "nl": "Ik ben arts.", "woorden": ["أَنا", "طَبيبٌ."], "uitleg": "Onderwerp + gezegde, geen werkwoord." },
+        { "type": "ordenen", "tag": "nominale-zin", "nl": "Het huis is groot.", "woorden": ["البَيْتُ", "كَبيرٌ."], "uitleg": "Bepaald onderwerp ({ar|البَيْتُ}) + onbepaald gezegde ({ar|كَبيرٌ})." },
+        { "type": "ordenen", "tag": "congruentie", "nl": "Zij is ingenieur en hij is arts.", "woorden": ["هِيَ", "مُهَنْدِسَةٌ", "وَهُوَ", "طَبيبٌ."], "uitleg": "Twee nominale zinnen, verbonden met {ar|وَ}." },
+        { "type": "ordenen", "tag": "nominale-zin", "nl": "Het boek is hier.", "woorden": ["الكِتابُ", "هُنا."], "uitleg": "Een plaatsaanduiding kan ook gezegde zijn." },
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Welke van deze is een volledige zin: 'de auto is nieuw'?",
+          "opties": ["السَّيّارَةُ جَديدَةٌ", "السَّيّارَةُ الجَديدَةُ", "سَيّارَةٌ جَديدَةٌ"], "juist": 0,
+          "uitleg": "Bepaald onderwerp + onbepaald gezegde = zin. Met twee keer {ar|ال} is het *de nieuwe auto*." }
+      ]
+    },
+    {
+      "titel": "Mannelijk of vrouwelijk?",
+      "items": [
+        { "type": "invullen", "tag": "congruentie", "zin": "هِيَ ___.", "nl": "Zij is ziek.",
+          "woordbank": ["مَريضَةٌ", "مَريضٌ"], "antwoord": ["مَريضَةٌ"], "uitleg": "Vrouwelijk onderwerp → ة." },
+        { "type": "invullen", "tag": "congruentie", "zin": "السَّيّارَةُ ___.", "nl": "De auto is klein.",
+          "woordbank": ["صَغيرَةٌ", "صَغيرٌ", "الصَّغيرَةُ"], "antwoord": ["صَغيرَةٌ"],
+          "uitleg": "{ar|سَيّارَةٌ} is vrouwelijk, en een gezegde is onbepaald: {ar|صَغيرَةٌ}." },
+        { "type": "invullen", "tag": "congruentie", "zin": "البَيْتُ ___.", "nl": "Het huis is nieuw.",
+          "woordbank": ["جَديدٌ", "جَديدَةٌ", "الجَديدُ"], "antwoord": ["جَديدٌ"],
+          "uitleg": "{ar|بَيْتٌ} is mannelijk; geen {ar|ال} op het gezegde." },
+        { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak de vrouwelijke vorm (zonder tanwīn).",
+          "rijen": [
+            { "label": "سَعيد → zij is blij", "ar": "هِيَ", "antwoord": "سَعيدَة", "tr": "saʿīda" },
+            { "label": "طَبيب → zij is arts", "ar": "هِيَ", "antwoord": "طَبيبَة", "tr": "ṭabība" },
+            { "label": "مَشْغول → jij (v) bent bezig", "ar": "أَنْتِ", "antwoord": "مَشْغولَة", "tr": "mašġūla" },
+            { "label": "مُتْعَب → ik (v) ben moe", "ar": "أَنا", "antwoord": "مُتْعَبَة", "tr": "mutʿaba" }
+          ],
+          "uitleg": "Vrouwelijk = + ة." },
+        { "type": "meerkeuze", "tag": "congruentie", "vraag": "Maryam zegt: 'Ik ben moe.' Welke zin klopt?",
+          "opties": ["أَنا مُتْعَبَةٌ.", "أَنا مُتْعَبٌ.", "هِيَ مُتْعَبٌ."], "juist": 0,
+          "uitleg": "Een vrouw zegt het met ة: {ar|مُتْعَبَةٌ}." }
+      ]
+    },
+    {
+      "titel": "Luisteren en woorden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "كَبيرٌ", "nl": "groot", "woord": "j1-p1-l04-w07" },
+          { "ar": "صَغيرٌ", "nl": "klein", "woord": "j1-p1-l04-w08" },
+          { "ar": "جَديدٌ", "nl": "nieuw", "woord": "j1-p1-l04-w09" },
+          { "ar": "قَديمٌ", "nl": "oud (ding)", "woord": "j1-p1-l04-w10" },
+          { "ar": "طَويلٌ", "nl": "lang", "woord": "j1-p1-l04-w12" },
+          { "ar": "قَصيرٌ", "nl": "kort", "woord": "j1-p1-l04-w13" }
+        ], "uitleg": "Leer bijvoeglijke naamwoorden in paren van tegenstellingen." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "هُوَ مُهَنْدِسٌ", "vraag": "Wat hoor je?",
+          "opties": ["Hij is ingenieur.", "Zij is ingenieur.", "Hij is arts.", "Hij is bezig."], "juist": 0, "uitleg": "{ar|مُهَنْدِسٌ} = ingenieur." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "السَّيّارَةُ جَميلَةٌ", "vraag": "Wat hoor je?",
+          "opties": ["De auto is mooi.", "Het huis is mooi.", "De auto is nieuw.", "De mooie auto."], "juist": 0,
+          "uitleg": "{ar|السَّيّارَةُ} (de auto) + {ar|جَميلَةٌ} (mooi). Het is een zin, want het gezegde heeft geen ال." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l04-w16", "vraag": "Wat betekent dit?", "ar": "مَشْغولٌ", "tr": "mašġūl",
+          "opties": ["bezig", "ziek", "moe", "blij"], "juist": 0, "uitleg": "{ar|مَشْغولٌ} = bezig, druk." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "nominale-zin", "bron": "Ik ben student. (man)", "antwoorden": ["أَنا طالِبٌ"], "uitleg": "{ar|أَنا طالِبٌ}: geen woord voor *ben*." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "Zij is arts.", "antwoorden": ["هِيَ طَبيبَةٌ"], "uitleg": "{ar|هِيَ طَبيبَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "nominale-zin", "bron": "Het huis is oud.", "antwoorden": ["البَيْتُ قَديمٌ"], "uitleg": "{ar|البَيْتُ قَديمٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "Hij is ziek.", "antwoorden": ["هُوَ مَريضٌ"], "uitleg": "{ar|هُوَ مَريضٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "الكِتابُ جَديدٌ.", "tr": "al-kitābu jadīd.",
+          "antwoorden": ["het boek is nieuw"], "uitleg": "Bepaald onderwerp + onbepaald gezegde." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bepaaldheid", "bron": "البَيْتُ الصَّغيرُ", "tr": "al-baytu ṣ-ṣaġīr",
+          "antwoorden": ["het kleine huis", "het kleine huisje"], "uitleg": "Beide met {ar|ال}: dit is geen zin, maar *het kleine huis*." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "أَنْتِ سَعيدَةٌ.", "tr": "anti saʿīda.",
+          "antwoorden": ["jij bent blij", "je bent blij", "jij bent gelukkig", "je bent gelukkig"], "uitleg": "{ar|أَنْتِ} (jij, v) + {ar|سَعيدَةٌ}." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "طَبيبٌ", "nl": "arts" },
+        { "ar": "سَيّارَةٌ", "nl": "auto" },
+        { "ar": "مَريضٌ", "nl": "ziek" },
+        { "ar": "هُناكَ", "nl": "daar" },
+        { "ar": "جَميلٌ", "nl": "mooi" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "nominale-zin", "vraag": "Hoe zeg je 'zij is ingenieur'?",
+        "opties": ["هِيَ مُهَنْدِسَةٌ.", "هِيَ مُهَنْدِسٌ.", "هِيَ المُهَنْدِسَةُ الجَديدَةُ."], "juist": 0,
+        "uitleg": "Vrouwelijk onderwerp → {ar|مُهَنْدِسَةٌ}." },
+      { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Wat betekent {ar|الكِتابُ القَديمُ}?",
+        "opties": ["het oude boek", "het boek is oud", "een oud boek"], "juist": 0,
+        "uitleg": "Twee keer {ar|ال}: een woordgroep, geen zin." },
+      { "type": "meerkeuze", "tag": "nominale-zin", "vraag": "Waarom staat er in {ar|أَنا طَبيبٌ} geen werkwoord?",
+        "opties": ["In de tegenwoordige tijd gebruikt het Arabisch geen 'zijn'.", "Het werkwoord staat aan het eind.", "Het is een vraag.", "Het werkwoord valt weg na أَنا."], "juist": 0,
+        "uitleg": "Een nominale zin: onderwerp + gezegde, zonder koppelwerkwoord." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنا مَشْغولٌ", "vraag": "Wat hoor je?",
+        "opties": ["Ik ben bezig.", "Ik ben ziek.", "Ik ben moe.", "Ik ben blij."], "juist": 0, "uitleg": "{ar|مَشْغولٌ} = bezig." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "البَيْتُ صَغيرٌ", "vraag": "Wat hoor je?",
+        "opties": ["Het huis is klein.", "Het kleine huis.", "Het huis is groot."], "juist": 0, "uitleg": "{ar|صَغيرٌ} zonder ال: een zin." },
+      { "type": "invullen", "tag": "congruentie", "zin": "هِيَ ___.", "nl": "Zij is blij.",
+        "woordbank": ["سَعيدَةٌ", "سَعيدٌ", "السَّعيدَةُ"], "antwoord": ["سَعيدَةٌ"], "uitleg": "Vrouwelijk en onbepaald." },
+      { "type": "invullen", "tag": "nominale-zin", "zin": "السَّيّارَةُ ___.", "nl": "De auto is daar.", "antwoord": ["هُناكَ"], "uitleg": "{ar|هُناكَ} = daar." },
+      { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak de vrouwelijke vorm (zonder tanwīn).",
+        "rijen": [
+          { "label": "مَريض → zij is ziek", "ar": "هِيَ", "antwoord": "مَريضَة", "tr": "marīḍa" },
+          { "label": "مُوَظَّف → zij is medewerker", "ar": "هِيَ", "antwoord": "مُوَظَّفَة", "tr": "muwaẓẓafa" }
+        ], "uitleg": "+ ة" },
+      { "type": "ordenen", "tag": "nominale-zin", "nl": "Het huis is oud en mooi.", "woorden": ["البَيْتُ", "قَديمٌ", "وَجَميلٌ."], "uitleg": "Onderwerp + twee gezegdes met {ar|وَ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "nominale-zin", "bron": "Het boek is nieuw.", "antwoorden": ["الكِتابُ جَديدٌ"], "uitleg": "{ar|الكِتابُ جَديدٌ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "Ik ben moe. (vrouw)", "antwoorden": ["أَنا مُتْعَبَةٌ"], "uitleg": "{ar|أَنا مُتْعَبَةٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "هُوَ مُوَظَّفٌ.", "tr": "huwa muwaẓẓaf.",
+        "antwoorden": ["hij is medewerker", "hij is een medewerker", "hij is werknemer", "hij is een werknemer", "hij is ambtenaar", "hij is employe", "hij is bediende"],
+        "uitleg": "{ar|مُوَظَّفٌ} = medewerker." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bepaaldheid", "bron": "السَّيّارَةُ الجَديدَةُ", "tr": "as-sayyāratu l-jadīda",
+        "antwoorden": ["de nieuwe auto"], "uitleg": "Twee keer {ar|ال}: *de nieuwe auto*." }
+    ]
+  }
+}

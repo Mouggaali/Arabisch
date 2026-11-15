@@ -1,0 +1,703 @@
+{
+  "id": "j2-p5-l59",
+  "code": "L59",
+  "type": "les",
+  "titel": "Technologie",
+  "thema": "Telefoon, computer en apps",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm X (اِسْتَفْعَلَ / يَسْتَفْعِلُ) herkennen en vervoegen.",
+    "de betekenis van vorm X afleiden: vragen om, iets vinden, gebruiken.",
+    "vorm IX (اِفْعَلَّ) herkennen bij kleuren.",
+    "praten over apparaten en apps."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l59-w01",
+      "ar": "اِسْتَخْدَمَ",
+      "tr": "istaḫdama",
+      "nl": [
+        "gebruiken"
+      ],
+      "soort": "werkwoord (X)",
+      "notitie": "Muḍāriʿ: {ar|يَسْتَخْدِمُ}; maṣdar {ar|اِسْتِخْدامٌ}."
+    },
+    {
+      "id": "j2-p5-l59-w02",
+      "ar": "اِسْتَقْبَلَ",
+      "tr": "istaqbala",
+      "nl": [
+        "ontvangen (gasten, signaal)"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j2-p5-l59-w03",
+      "ar": "اِسْتَعْمَلَ",
+      "tr": "istaʿmala",
+      "nl": [
+        "gebruiken",
+        "toepassen"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j2-p5-l59-w04",
+      "ar": "اِسْتَغْرَقَ",
+      "tr": "istaġraqa",
+      "nl": [
+        "duren (tijd kosten)"
+      ],
+      "soort": "werkwoord (X)",
+      "notitie": "{ar|اِسْتَغْرَقَ التَّحْميلُ ساعَةً} = het downloaden duurde een uur."
+    },
+    {
+      "id": "j2-p5-l59-w05",
+      "ar": "اِسْتَعْلَمَ عَنْ",
+      "tr": "istaʿlama ʿan",
+      "nl": [
+        "informatie vragen over"
+      ],
+      "soort": "werkwoord (X)",
+      "notitie": "Vorm X = vragen om (weten)."
+    },
+    {
+      "id": "j2-p5-l59-w06",
+      "ar": "مُسْتَخْدِمٌ",
+      "tr": "mustaḫdim",
+      "nl": [
+        "gebruiker"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Actief deelwoord vorm X."
+    },
+    {
+      "id": "j2-p5-l59-w07",
+      "ar": "تَطْبيقٌ",
+      "tr": "taṭbīq",
+      "nl": [
+        "app",
+        "toepassing"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van vorm II {ar|طَبَّقَ}."
+    },
+    {
+      "id": "j2-p5-l59-w08",
+      "ar": "شاشَةٌ",
+      "tr": "šāša",
+      "nl": [
+        "scherm"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l59-w09",
+      "ar": "كَلِمَةُ السِّرِّ",
+      "tr": "kalimatu s-sirr",
+      "nl": [
+        "wachtwoord"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p5-l59-w10",
+      "ar": "حِسابٌ",
+      "tr": "ḥisāb",
+      "nl": [
+        "account",
+        "rekening"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l59-w11",
+      "ar": "تَحْميلٌ",
+      "tr": "taḥmīl",
+      "nl": [
+        "downloaden"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l59-w12",
+      "ar": "شَحَنَ",
+      "tr": "šaḥana",
+      "nl": [
+        "opladen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَشْحَنُ}."
+    },
+    {
+      "id": "j2-p5-l59-w13",
+      "ar": "بَطّارِيَّةٌ",
+      "tr": "baṭṭāriyya",
+      "nl": [
+        "batterij",
+        "accu"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l59-w14",
+      "ar": "جِهازٌ",
+      "tr": "jihāz",
+      "nl": [
+        "apparaat"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَجْهِزَةٌ}."
+    },
+    {
+      "id": "j2-p5-l59-w15",
+      "ar": "تِكْنولوجْيا",
+      "tr": "tiknūlūjyā",
+      "nl": [
+        "technologie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l59-w17",
+      "ar": "اِحْمَرَّ",
+      "tr": "iḥmarra",
+      "nl": [
+        "rood worden"
+      ],
+      "soort": "werkwoord (IX)",
+      "notitie": "Muḍāriʿ: {ar|يَحْمَرُّ}."
+    },
+    {
+      "id": "j2-p5-l59-w18",
+      "ar": "اِصْفَرَّ",
+      "tr": "iṣfarra",
+      "nl": [
+        "geel worden",
+        "bleek worden"
+      ],
+      "soort": "werkwoord (IX)"
+    },
+    {
+      "id": "j2-p5-l59-w20",
+      "ar": "مُسْتَمِرٌّ",
+      "tr": "mustamirr",
+      "nl": [
+        "voortdurend",
+        "doorlopend"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Deelwoord van {ar|اِسْتَمَرَّ} (doorgaan), verdubbeld."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm X: اِسْتَفْعَلَ / يَسْتَفْعِلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm X zet **اِسْتَـ** voor de wortel; de eerste wortelletter krijgt een sukūn: {ar|خَدَمَ} → {ar|اِسْتَخْدَمَ}. Muḍāriʿ: {ar|يَسْتَخْدِمُ}.",
+            "Vorm X is na vorm I en II een van de meest gebruikte vormen in kranten en technische teksten."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "اِسْتَخْدَمْتُ",
+              "أَسْتَخْدِمُ"
+            ],
+            [
+              "jij (v)",
+              "اِسْتَخْدَمْتِ",
+              "تَسْتَخْدِمينَ"
+            ],
+            [
+              "hij",
+              "اِسْتَخْدَمَ",
+              "يَسْتَخْدِمُ"
+            ],
+            [
+              "wij",
+              "اِسْتَخْدَمْنا",
+              "نَسْتَخْدِمُ"
+            ],
+            [
+              "zij (m mv)",
+              "اِسْتَخْدَموا",
+              "يَسْتَخْدِمونَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De kern van vorm X is vaak **vragen om** of **laten dienen voor**: {ar|عَلِمَ} (weten) → {ar|اِسْتَعْلَمَ} (vragen om te weten, informeren); {ar|خَدَمَ} (dienen) → {ar|اِسْتَخْدَمَ} (iets voor je laten dienen = gebruiken). Een tweede betekenis is **iets zo vinden**: {ar|حَسُنَ} (goed zijn) → {ar|اِسْتَحْسَنَ} (goed vinden)."
+        },
+        {
+          "type": "tekst",
+          "md": "**Maṣdar**: **اِسْتِفْعال** ({ar|اِسْتِخْدامٌ}، {ar|اِسْتِقْبالٌ}). **Deelwoord**: **مُسْتَفْعِل** ({ar|مُسْتَخْدِمٌ}, gebruiker), passief **مُسْتَفْعَل** ({ar|مُسْتَخْدَمٌ}, gebruikt)."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm IX: kleuren",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Vorm IX (**اِفْعَلَّ**) bestaat bijna alleen bij **kleuren en lichamelijke kenmerken**: {ar|أَحْمَرُ} (rood) → {ar|اِحْمَرَّ} (rood worden). De laatste letter krijgt een shadda. Je hoeft vorm IX vooral te herkennen."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِحْمَرَّ وَجْهُهُ مِنَ الخَجَلِ.",
+              "tr": "iḥmarra wajhuhu mina l-ḫajal.",
+              "nl": "Zijn gezicht werd rood van schaamte."
+            },
+            {
+              "ar": "أَسْتَخْدِمُ هٰذا التَّطْبيقَ لِتَعَلُّمِ الكَلِماتِ.",
+              "tr": "astaḫdimu hāḏa t-taṭbīqa li-taʿallumi l-kalimāt.",
+              "nl": "Ik gebruik deze app om woorden te leren."
+            },
+            {
+              "ar": "غَيَّرْتُ كَلِمَةَ السِّرِّ لِحِسابي.",
+              "tr": "ġayyartu kalimata s-sirri li-ḥisābī.",
+              "nl": "Ik heb het wachtwoord van mijn account veranderd."
+            },
+            {
+              "ar": "اِسْتَغْرَقَ التَّحْميلُ عِشْرينَ دَقيقَةً.",
+              "tr": "istaġraqa t-taḥmīlu ʿišrīna daqīqa.",
+              "nl": "Het downloaden duurde twintig minuten."
+            },
+            {
+              "ar": "البَطّارِيَّةُ فارِغَةٌ، سَأَشْحَنُ الهاتِفَ الآنَ.",
+              "tr": "al-baṭṭāriyyatu fāriġa, sa-ašḥanu l-hātifa l-ān.",
+              "nl": "De batterij is leeg, ik ga mijn telefoon nu opladen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تَطْبيقٌ",
+              "nl": "app",
+              "woord": "j2-p5-l59-w07"
+            },
+            {
+              "ar": "شاشَةٌ",
+              "nl": "scherm",
+              "woord": "j2-p5-l59-w08"
+            },
+            {
+              "ar": "كَلِمَةُ السِّرِّ",
+              "nl": "wachtwoord",
+              "woord": "j2-p5-l59-w09"
+            },
+            {
+              "ar": "حِسابٌ",
+              "nl": "account",
+              "woord": "j2-p5-l59-w10"
+            },
+            {
+              "ar": "بَطّارِيَّةٌ",
+              "nl": "batterij",
+              "woord": "j2-p5-l59-w13"
+            },
+            {
+              "ar": "جِهازٌ",
+              "nl": "apparaat",
+              "woord": "j2-p5-l59-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-10",
+          "tekst": "أَسْتَخْدِمُ الحاسوبَ كُلَّ يَوْمٍ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik gebruik elke dag de computer.",
+            "Ik koop een nieuwe computer.",
+            "Ik repareer de computer."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَسْتَخْدِمُ} = ik gebruik."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm X",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vorm-10",
+          "instructie": "Vervoeg اِسْتَقْبَلَ / يَسْتَقْبِلُ.",
+          "rijen": [
+            {
+              "label": "wij (māḍī)",
+              "antwoord": "اِسْتَقْبَلْنا",
+              "tr": "istaqbalnā"
+            },
+            {
+              "label": "zij (ev) (māḍī)",
+              "antwoord": "اِسْتَقْبَلَتْ",
+              "tr": "istaqbalat"
+            },
+            {
+              "label": "ik (muḍāriʿ)",
+              "antwoord": "أَسْتَقْبِلُ",
+              "tr": "astaqbilu"
+            },
+            {
+              "label": "zij (m mv) (muḍāriʿ)",
+              "antwoord": "يَسْتَقْبِلونَ",
+              "tr": "yastaqbilūna"
+            }
+          ],
+          "uitleg": "اِسْتَـ + wortel; muḍāriʿ يَسْتَفْعِلُ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-10",
+          "vraag": "Wat is het kenmerk van vorm X?",
+          "opties": [
+            "اِسْتَـ vooraan",
+            "اِنْـ vooraan",
+            "تَـ + ā"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِسْتَفْعَلَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-10",
+          "vraag": "{ar|عَلِمَ} = weten. Wat betekent {ar|اِسْتَعْلَمَ}?",
+          "opties": [
+            "informatie vragen",
+            "onderwijzen",
+            "geleerde"
+          ],
+          "juist": 0,
+          "uitleg": "Vorm X = vragen om."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-7-8",
+          "vraag": "Bij welke woorden komt vorm IX vooral voor?",
+          "opties": [
+            "kleuren",
+            "beroepen",
+            "getallen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِحْمَرَّ}، {ar|اِصْفَرَّ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "___ الهاتِفِ في الصَّفِّ مَمْنوعٌ.",
+          "nl": "Het gebruik van de telefoon in de klas is verboden.",
+          "woordbank": [
+            "اِسْتِخْدامُ",
+            "مُسْتَخْدِمُ",
+            "اِسْتَخْدَمَ"
+          ],
+          "antwoord": [
+            "اِسْتِخْدامُ"
+          ],
+          "uitleg": "Maṣdar اِسْتِفْعال."
+        }
+      ]
+    },
+    {
+      "titel": "Apparaten",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-10",
+          "nl": "Ik gebruik deze app om woorden te leren.",
+          "woorden": [
+            "أَسْتَخْدِمُ",
+            "هٰذا",
+            "التَّطْبيقَ",
+            "لِتَعَلُّمِ",
+            "الكَلِماتِ."
+          ],
+          "uitleg": "{ar|لِـ} + maṣdar = om te."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-10",
+          "zin": "كَمْ ساعَةً ___ الرِّحْلَةُ؟",
+          "nl": "Hoeveel uur duurde de reis?",
+          "woordbank": [
+            "اِسْتَغْرَقَتِ",
+            "اِسْتَخْدَمَتِ",
+            "اِسْتَقْبَلَتِ"
+          ],
+          "antwoord": [
+            "اِسْتَغْرَقَتِ",
+            "اِسْتَغْرَقَتْ"
+          ],
+          "uitleg": "{ar|اِسْتَغْرَقَ} = duren."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "البَطّارِيَّةُ فارِغَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De batterij is leeg.",
+            "Het scherm is kapot.",
+            "Het wachtwoord is fout."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|فارِغَةٌ} = leeg."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-10",
+          "bron": "de gebruiker",
+          "antwoorden": [
+            "المُسْتَخْدِمُ"
+          ],
+          "uitleg": "مُسْتَفْعِل"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-10",
+          "bron": "اِسْتَقْبَلْنا الضُّيوفَ في المَطارِ.",
+          "antwoorden": [
+            "we ontvingen de gasten op het vliegveld",
+            "we hebben de gasten op het vliegveld ontvangen",
+            "wij ontvingen de gasten op het vliegveld"
+          ],
+          "uitleg": "{ar|اِسْتَقْبَلَ} = ontvangen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَحْميلٌ",
+            "nl": "downloaden"
+          },
+          {
+            "ar": "شَحَنَ",
+            "nl": "opladen"
+          },
+          {
+            "ar": "ذَكِيٌّ",
+            "nl": "slim"
+          },
+          {
+            "ar": "تِكْنولوجْيا",
+            "nl": "technologie"
+          },
+          {
+            "ar": "مُسْتَمِرٌّ",
+            "nl": "voortdurend"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-10",
+        "vraag": "'Wij gebruiken' is ...",
+        "opties": [
+          "نَسْتَخْدِمُ",
+          "نَخْدُمُ",
+          "اِسْتَخْدَمْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm X muḍāriʿ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|اِسْتَقْبَلَ} is ...",
+        "opties": [
+          "اِسْتِقْبالٌ",
+          "مُسْتَقْبَلٌ",
+          "قُبولٌ"
+        ],
+        "juist": 0,
+        "uitleg": "اِسْتِفْعال. ({ar|مُسْتَقْبَلٌ} = toekomst, letterlijk: wat ontvangen wordt.)"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-10",
+        "vraag": "Wat betekent {ar|المُسْتَخْدِمونَ}?",
+        "opties": [
+          "de gebruikers",
+          "de bedienden",
+          "het gebruik"
+        ],
+        "juist": 0,
+        "uitleg": "Deelwoord vorm X, meervoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-7-8",
+        "vraag": "{ar|أَصْفَرُ} = geel. Wat betekent {ar|اِصْفَرَّ}?",
+        "opties": [
+          "geel of bleek worden",
+          "geler",
+          "geel maken"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm IX: een kleur krijgen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-10",
+        "tekst": "يَسْتَغْرِقُ الطَّريقُ ساعَتَيْنِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De weg duurt twee uur.",
+          "De weg is twee kilometer.",
+          "Ik loop twee uur."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِسْتَغْرَقَ} = duren."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-10",
+        "tekst": "اِسْتَعْلَمْتُ عَنِ المَواعيدِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik informeerde naar de tijden.",
+          "Ik vergat de afspraken.",
+          "Ik maakte een afspraak."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِسْتَعْلَمَ عَنْ} = informeren naar."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-10",
+        "zin": "هَلْ ___ هٰذا التَّطْبيقَ؟",
+        "nl": "Gebruik jij (v) deze app?",
+        "woordbank": [
+          "تَسْتَخْدِمينَ",
+          "تَسْتَخْدِمُ",
+          "اِسْتَخْدَمْتِ"
+        ],
+        "antwoord": [
+          "تَسْتَخْدِمينَ"
+        ],
+        "uitleg": "Vorm X, jij (v)."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-10",
+        "zin": "___ الضُّيوفَ أَمْسِ.",
+        "nl": "Ik heb gisteren de gasten ontvangen.",
+        "woordbank": [
+          "اِسْتَقْبَلْتُ",
+          "أَسْتَقْبِلُ",
+          "قَبِلْتُ"
+        ],
+        "antwoord": [
+          "اِسْتَقْبَلْتُ"
+        ],
+        "uitleg": "Vorm X māḍī, ik."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-10",
+        "instructie": "Vervoeg اِسْتَعْمَلَ / يَسْتَعْمِلُ.",
+        "rijen": [
+          {
+            "label": "jullie (m) (māḍī)",
+            "antwoord": "اِسْتَعْمَلْتُمْ",
+            "tr": "istaʿmaltum"
+          },
+          {
+            "label": "wij (muḍāriʿ)",
+            "antwoord": "نَسْتَعْمِلُ",
+            "tr": "nastaʿmilu"
+          }
+        ],
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-10",
+        "nl": "Het downloaden duurde twintig minuten.",
+        "woorden": [
+          "اِسْتَغْرَقَ",
+          "التَّحْميلُ",
+          "عِشْرينَ",
+          "دَقيقَةً."
+        ],
+        "uitleg": "11–99 + accusatief enkelvoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-10",
+        "bron": "Ik gebruik de computer.",
+        "antwoorden": [
+          "أَسْتَخْدِمُ الحاسوبَ",
+          "أَسْتَعْمِلُ الحاسوبَ",
+          "أَسْتَخْدِمُ الكُمْبيوتَرَ"
+        ],
+        "uitleg": "{ar|أَسْتَخْدِمُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het scherm",
+        "antwoorden": [
+          "الشّاشَةُ"
+        ],
+        "uitleg": "{ar|الشّاشَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vorm-7-8",
+        "bron": "اِحْمَرَّ وَجْهُها.",
+        "antwoorden": [
+          "haar gezicht werd rood",
+          "ze kreeg een rood gezicht",
+          "zij werd rood"
+        ],
+        "uitleg": "Vorm IX."
+      }
+    ]
+  }
+}

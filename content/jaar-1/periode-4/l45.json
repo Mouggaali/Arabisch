@@ -1,0 +1,747 @@
+{
+  "id": "j1-p4-l45",
+  "code": "L45",
+  "type": "les",
+  "titel": "Wonen en verhuizen",
+  "thema": "Huizen, wijken en steden met elkaar vergelijken",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de vergrotende trap vormen met het patroon أَفْعَلُ.",
+    "twee dingen vergelijken met أَفْعَلُ مِنْ.",
+    "vergelijken met أَكْثَرُ / أَقَلُّ als het patroon niet past.",
+    "vertellen waarom ik liever in een bepaalde woning of wijk woon."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l45-w03",
+      "ar": "أَقْدَمُ",
+      "tr": "aqdam",
+      "nl": [
+        "ouder (van dingen)"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|قَديمٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w04",
+      "ar": "أَحْدَثُ",
+      "tr": "aḥdaṯ",
+      "nl": [
+        "nieuwer",
+        "moderner"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|حَديثٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w05",
+      "ar": "أَرْخَصُ",
+      "tr": "arḫaṣ",
+      "nl": [
+        "goedkoper"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|رَخيصٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w06",
+      "ar": "أَغْلى",
+      "tr": "aġlā",
+      "nl": [
+        "duurder"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|غالٍ}; eindigt op ى omdat de wortel op een zwakke letter eindigt."
+    },
+    {
+      "id": "j1-p4-l45-w07",
+      "ar": "أَوْسَعُ",
+      "tr": "awsaʿ",
+      "nl": [
+        "ruimer"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|واسِعٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w08",
+      "ar": "أَضْيَقُ",
+      "tr": "aḍyaq",
+      "nl": [
+        "krapper",
+        "smaller"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|ضَيِّقٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w09",
+      "ar": "أَهْدَأُ",
+      "tr": "ahdaʾ",
+      "nl": [
+        "rustiger"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|هادِئٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w10",
+      "ar": "أَجْمَلُ",
+      "tr": "ajmal",
+      "nl": [
+        "mooier"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|جَميلٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w11",
+      "ar": "أَبْعَدُ",
+      "tr": "abʿad",
+      "nl": [
+        "verder (weg)"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|بَعيدٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w12",
+      "ar": "أَقْرَبُ",
+      "tr": "aqrab",
+      "nl": [
+        "dichterbij"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|قَريبٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w13",
+      "ar": "أَفْضَلُ",
+      "tr": "afḍal",
+      "nl": [
+        "beter"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Onregelmatig in betekenis: hoort bij {ar|جَيِّدٌ} (goed)."
+    },
+    {
+      "id": "j1-p4-l45-w14",
+      "ar": "أَكْثَرُ",
+      "tr": "akṯar",
+      "nl": [
+        "meer"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|كَثيرٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w15",
+      "ar": "أَقَلُّ",
+      "tr": "aqall",
+      "nl": [
+        "minder"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|قَليلٌ}; verdubbelde wortel ق-ل-ل."
+    },
+    {
+      "id": "j1-p4-l45-w16",
+      "ar": "إيجارٌ",
+      "tr": "ījār",
+      "nl": [
+        "huur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l45-w17",
+      "ar": "حَيٌّ",
+      "tr": "ḥayy",
+      "nl": [
+        "wijk"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَحْياءٌ}."
+    },
+    {
+      "id": "j1-p4-l45-w18",
+      "ar": "ضَجيجٌ",
+      "tr": "ḍajīj",
+      "nl": [
+        "lawaai"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l45-w19",
+      "ar": "مُزْعِجٌ",
+      "tr": "muzʿij",
+      "nl": [
+        "storend",
+        "vervelend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De vergrotende trap: أَفْعَلُ مِنْ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Neem de drie wortelletters van het bijvoeglijk naamwoord en zet ze in het patroon **أَفْعَلُ**: {ar|كَبيرٌ} (k-b-r) → {ar|أَكْبَرُ}. *Dan* is {ar|مِنْ}.",
+            "De vorm **verandert niet** voor vrouwelijk of meervoud: {ar|هُوَ أَكْبَرُ}، {ar|هِيَ أَكْبَرُ}، {ar|هُمْ أَكْبَرُ}. En hij krijgt geen tanwīn."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Bijvoeglijk nw",
+            "Wortel",
+            "Vergrotende trap"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "كَبيرٌ",
+              "ك ب ر",
+              "أَكْبَرُ|akbar"
+            ],
+            [
+              "جَميلٌ",
+              "ج م ل",
+              "أَجْمَلُ|ajmal"
+            ],
+            [
+              "واسِعٌ",
+              "و س ع",
+              "أَوْسَعُ|awsaʿ"
+            ],
+            [
+              "غالٍ",
+              "غ ل و",
+              "أَغْلى|aġlā"
+            ],
+            [
+              "قَليلٌ",
+              "ق ل ل",
+              "أَقَلُّ|aqall"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom verandert {ar|أَكْبَرُ} niet mee? Het patroon أَفْعَلُ is van oorsprong een soort zelfstandig gebruikt woord (*een grotere*), en in de constructie met {ar|مِنْ} blijft het altijd in deze basisvorm. Dat maakt het makkelijk: één vorm voor iedereen."
+        },
+        {
+          "type": "letop",
+          "md": "Eindigt de wortel op و of ي, dan eindigt de vorm op **ى** ({ar|أَغْلى}). Zijn de laatste twee wortelletters gelijk, dan smelten ze samen met een shadda ({ar|أَقَلُّ}، {ar|أَشَدُّ})."
+        }
+      ]
+    },
+    {
+      "titel": "Als het patroon niet past: أَكْثَرُ + accusatief",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Bijvoeglijke naamwoorden met meer dan drie wortelletters, zoals {ar|مُريحٌ} (comfortabel) of {ar|مُزْعِجٌ} (storend), passen niet in أَفْعَلُ. Dan gebruik je {ar|أَكْثَرُ} (*meer*) of {ar|أَقَلُّ} (*minder*) + het zelfstandig naamwoord in de **accusatief**: {ar|أَكْثَرُ راحَةً} (*comfortabeler*, letterlijk: meer qua comfort)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "بَيْتُنا الجَديدُ أَكْبَرُ مِنْ بَيْتِنا القَديمِ.",
+              "tr": "baytunā l-jadīdu akbaru min baytinā l-qadīm.",
+              "nl": "Ons nieuwe huis is groter dan ons oude huis."
+            },
+            {
+              "ar": "الإيجارُ في القَرْيَةِ أَرْخَصُ مِنْهُ في المَدينَةِ.",
+              "tr": "al-ījāru fi l-qaryati arḫaṣu minhu fi l-madīna.",
+              "nl": "De huur in het dorp is lager dan in de stad.",
+              "review": {
+                "status": "onzeker",
+                "note": "Constructie مِنْهُ (dan die) controleren."
+              }
+            },
+            {
+              "ar": "هٰذا الحَيُّ أَهْدَأُ، لٰكِنَّهُ أَبْعَدُ مِنَ المَحَطَّةِ.",
+              "tr": "hāḏa l-ḥayyu ahdaʾu, lākinnahu abʿadu mina l-maḥaṭṭa.",
+              "nl": "Deze wijk is rustiger, maar hij ligt verder van het station."
+            },
+            {
+              "ar": "الشَّقَّةُ الجَديدَةُ أَكْثَرُ راحَةً.",
+              "tr": "aš-šaqqatu l-jadīdatu akṯaru rāḥa.",
+              "nl": "Het nieuwe appartement is comfortabeler."
+            },
+            {
+              "ar": "أُخْتي أَصْغَرُ مِنّي.",
+              "tr": "uḫtī aṣġaru minnī.",
+              "nl": "Mijn zus is jonger dan ik."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "vergrotende-trap",
+          "paren": [
+            {
+              "ar": "أَكْبَرُ",
+              "nl": "groter"
+            },
+            {
+              "ar": "أَرْخَصُ",
+              "nl": "goedkoper",
+              "woord": "j1-p4-l45-w05"
+            },
+            {
+              "ar": "أَغْلى",
+              "nl": "duurder",
+              "woord": "j1-p4-l45-w06"
+            },
+            {
+              "ar": "أَهْدَأُ",
+              "nl": "rustiger",
+              "woord": "j1-p4-l45-w09"
+            },
+            {
+              "ar": "أَقْرَبُ",
+              "nl": "dichterbij",
+              "woord": "j1-p4-l45-w12"
+            },
+            {
+              "ar": "أَفْضَلُ",
+              "nl": "beter",
+              "woord": "j1-p4-l45-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "إيجارٌ",
+              "nl": "huur",
+              "woord": "j1-p4-l45-w16"
+            },
+            {
+              "ar": "حَيٌّ",
+              "nl": "wijk",
+              "woord": "j1-p4-l45-w17"
+            },
+            {
+              "ar": "ضَجيجٌ",
+              "nl": "lawaai",
+              "woord": "j1-p4-l45-w18"
+            },
+            {
+              "ar": "ضَيِّقٌ",
+              "nl": "krap"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vergrotende-trap",
+          "tekst": "هٰذا البَيْتُ أَكْبَرُ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Dit huis is groter.",
+            "Dit huis is groot.",
+            "Dit huis is het grootst."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَكْبَرُ} = groter."
+        }
+      ]
+    },
+    {
+      "titel": "Vormen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vergrotende-trap",
+          "instructie": "Maak de vergrotende trap.",
+          "rijen": [
+            {
+              "label": "كَبيرٌ (groot)",
+              "antwoord": "أَكْبَرُ",
+              "tr": "akbar"
+            },
+            {
+              "label": "جَميلٌ (mooi)",
+              "antwoord": "أَجْمَلُ",
+              "tr": "ajmal"
+            },
+            {
+              "label": "بَعيدٌ (ver)",
+              "antwoord": "أَبْعَدُ",
+              "tr": "abʿad"
+            },
+            {
+              "label": "قَديمٌ (oud)",
+              "antwoord": "أَقْدَمُ",
+              "tr": "aqdam"
+            }
+          ],
+          "uitleg": "Patroon أَفْعَلُ."
+        },
+        {
+          "type": "invullen",
+          "tag": "vergrotende-trap",
+          "zin": "المَدينَةُ ___ مِنَ القَرْيَةِ.",
+          "nl": "De stad is groter dan het dorp.",
+          "woordbank": [
+            "أَكْبَرُ",
+            "كُبْرى",
+            "كَبيرَةٌ"
+          ],
+          "antwoord": [
+            "أَكْبَرُ"
+          ],
+          "uitleg": "Geen vrouwelijke vorm: {ar|أَكْبَرُ} blijft gelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "vergrotende-trap",
+          "zin": "أَنا أَطْوَلُ ___ أَخي.",
+          "nl": "Ik ben langer dan mijn broer.",
+          "woordbank": [
+            "مِنْ",
+            "مَعَ",
+            "في"
+          ],
+          "antwoord": [
+            "مِنْ",
+            "من"
+          ],
+          "uitleg": "*dan* = {ar|مِنْ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vergrotende-trap",
+          "vraag": "'Duurder' is ...",
+          "opties": [
+            "أَغْلى",
+            "أَغْلَلُ",
+            "أَغالُ"
+          ],
+          "juist": 0,
+          "uitleg": "Zwakke laatste wortelletter → eindigt op ى."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vergrotende-trap",
+          "vraag": "'Comfortabeler' is ...",
+          "opties": [
+            "أَكْثَرُ راحَةً",
+            "أَرْوَحُ",
+            "مُريحٌ أَكْثَرُ مِنْ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُريحٌ} past niet in أَفْعَلُ → {ar|أَكْثَرُ} + accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Vergelijken",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vergrotende-trap",
+          "nl": "Ons nieuwe huis is groter dan ons oude huis.",
+          "woorden": [
+            "بَيْتُنا",
+            "الجَديدُ",
+            "أَكْبَرُ",
+            "مِنْ",
+            "بَيْتِنا",
+            "القَديمِ."
+          ],
+          "uitleg": "X + أَفْعَلُ + مِنْ + Y (genitief)."
+        },
+        {
+          "type": "ordenen",
+          "tag": "vergrotende-trap",
+          "nl": "Mijn zus is jonger dan ik.",
+          "woorden": [
+            "أُخْتي",
+            "أَصْغَرُ",
+            "مِنّي."
+          ],
+          "uitleg": "{ar|مِنّي} = dan ik."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vergrotende-trap",
+          "tekst": "هٰذا الحَيُّ أَهْدَأُ",
+          "vraag": "Hoe is deze wijk?",
+          "opties": [
+            "rustiger",
+            "lawaaiiger",
+            "verder weg"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَهْدَأُ} = rustiger."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vergrotende-trap",
+          "bron": "goedkoper dan",
+          "antwoorden": [
+            "أَرْخَصُ مِنْ"
+          ],
+          "uitleg": "{ar|أَرْخَصُ مِنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vergrotende-trap",
+          "bron": "De kamer is ruimer.",
+          "antwoorden": [
+            "الغُرْفَةُ أَوْسَعُ"
+          ],
+          "uitleg": "{ar|أَوْسَعُ} blijft gelijk bij een vrouwelijk woord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vergrotende-trap",
+          "bron": "القِطارُ أَسْرَعُ مِنَ الحافِلَةِ.",
+          "antwoorden": [
+            "de trein is sneller dan de bus"
+          ],
+          "uitleg": "{ar|أَسْرَعُ} van {ar|سَريعٌ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vergrotende-trap",
+          "bron": "الإيجارُ هُنا أَقَلُّ.",
+          "antwoorden": [
+            "de huur is hier lager",
+            "de huur is hier minder",
+            "hier is de huur lager"
+          ],
+          "uitleg": "{ar|أَقَلُّ} = minder."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "vergrotende-trap",
+        "paren": [
+          {
+            "ar": "أَصْغَرُ",
+            "nl": "kleiner"
+          },
+          {
+            "ar": "أَحْدَثُ",
+            "nl": "moderner"
+          },
+          {
+            "ar": "أَضْيَقُ",
+            "nl": "krapper"
+          },
+          {
+            "ar": "أَكْثَرُ",
+            "nl": "meer"
+          },
+          {
+            "ar": "أَقَلُّ",
+            "nl": "minder"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vergrotende-trap",
+        "vraag": "'Zij is groter dan haar zus' is ...",
+        "opties": [
+          "هِيَ أَكْبَرُ مِنْ أُخْتِها.",
+          "هِيَ كُبْرى مِنْ أُخْتِها.",
+          "هِيَ أَكْبَرَةٌ مِنْ أُخْتِها."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَكْبَرُ} verandert niet."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vergrotende-trap",
+        "vraag": "Welke vorm hoort bij {ar|قَليلٌ}?",
+        "opties": [
+          "أَقَلُّ",
+          "أَقْلَلُ",
+          "أَقْيَلُ"
+        ],
+        "juist": 0,
+        "uitleg": "Twee gelijke letters → shadda."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vergrotende-trap",
+        "vraag": "Wat betekent {ar|أَفْضَلُ}?",
+        "opties": [
+          "beter",
+          "meer",
+          "verder"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَفْضَلُ} = beter."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vergrotende-trap",
+        "tekst": "الشَّقَّةُ أَرْخَصُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het appartement is goedkoper.",
+          "Het appartement is duurder.",
+          "Het appartement is groter."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَرْخَصُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vergrotende-trap",
+        "tekst": "أَبي أَكْبَرُ مِنْ أُمّي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn vader is ouder dan mijn moeder.",
+          "Mijn moeder is ouder dan mijn vader.",
+          "Mijn vader is groot."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَكْبَرُ} bij mensen = ouder."
+      },
+      {
+        "type": "invullen",
+        "tag": "vergrotende-trap",
+        "zin": "الطّائِرَةُ ___ مِنَ القِطارِ.",
+        "nl": "Het vliegtuig is sneller dan de trein.",
+        "antwoord": [
+          "أَسْرَعُ"
+        ],
+        "uitleg": "{ar|سَريعٌ} → {ar|أَسْرَعُ}."
+      },
+      {
+        "type": "invullen",
+        "tag": "vergrotende-trap",
+        "zin": "هٰذا الشّارِعُ ___ مِنْ ذٰلِكَ الشّارِعِ.",
+        "nl": "Deze straat is smaller dan die straat.",
+        "woordbank": [
+          "أَضْيَقُ",
+          "ضَيِّقٌ",
+          "أَوْسَعُ"
+        ],
+        "antwoord": [
+          "أَضْيَقُ"
+        ],
+        "uitleg": "{ar|ضَيِّقٌ} → {ar|أَضْيَقُ}."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vergrotende-trap",
+        "instructie": "Maak de vergrotende trap.",
+        "rijen": [
+          {
+            "label": "صَغيرٌ",
+            "antwoord": "أَصْغَرُ",
+            "tr": "aṣġar"
+          },
+          {
+            "label": "قَريبٌ",
+            "antwoord": "أَقْرَبُ",
+            "tr": "aqrab"
+          },
+          {
+            "label": "رَخيصٌ",
+            "antwoord": "أَرْخَصُ",
+            "tr": "arḫaṣ"
+          }
+        ],
+        "uitleg": "Patroon أَفْعَلُ."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vergrotende-trap",
+        "nl": "Deze wijk is rustiger.",
+        "woorden": [
+          "هٰذا",
+          "الحَيُّ",
+          "أَهْدَأُ."
+        ],
+        "uitleg": "Aanwijzend + bepaald woord + gezegde."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vergrotende-trap",
+        "bron": "mooier dan",
+        "antwoorden": [
+          "أَجْمَلُ مِنْ"
+        ],
+        "uitleg": "{ar|أَجْمَلُ مِنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de wijk",
+        "antwoorden": [
+          "الحَيُّ"
+        ],
+        "uitleg": "{ar|الحَيُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vergrotende-trap",
+        "bron": "بَيْتُكُمْ أَوْسَعُ مِنْ بَيْتِنا.",
+        "antwoorden": [
+          "jullie huis is ruimer dan ons huis",
+          "jullie huis is ruimer dan het onze",
+          "jullie huis is groter dan ons huis"
+        ],
+        "uitleg": "{ar|أَوْسَعُ مِنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vergrotende-trap",
+        "bron": "الضَّجيجُ في المَدينَةِ مُزْعِجٌ.",
+        "antwoorden": [
+          "het lawaai in de stad is storend",
+          "het lawaai in de stad is vervelend"
+        ],
+        "uitleg": "{ar|مُزْعِجٌ} = storend."
+      }
+    ]
+  }
+}

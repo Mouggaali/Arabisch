@@ -1,0 +1,612 @@
+{
+  "id": "j3-p12-l135",
+  "code": "L135",
+  "type": "les",
+  "titel": "Maatschappelijke debatten",
+  "thema": "Debat: moet het Darija op school onderwezen worden?",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een maatschappelijk debat volgen en eraan meedoen.",
+    "nuanceren met سَواءٌ … أَمْ، لَيْسَ فَقَطْ … بَلْ، لا … وَلا.",
+    "standpunten van verschillende groepen weergeven."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l135-w01",
+      "ar": "قَضِيَّةٌ",
+      "tr": "qaḍiyya",
+      "nl": [
+        "kwestie, zaak"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قَضايا}."
+    },
+    {
+      "id": "j3-p12-l135-w02",
+      "ar": "الرَّأْيُ العامُّ",
+      "tr": "ar-raʾyu l-ʿāmm",
+      "nl": [
+        "de publieke opinie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l135-w03",
+      "ar": "جَدَلٌ",
+      "tr": "jadal",
+      "nl": [
+        "controverse, discussie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l135-w04",
+      "ar": "مُثيرٌ لِلْجَدَلِ",
+      "tr": "muṯīrun li-l-jadal",
+      "nl": [
+        "omstreden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l135-w05",
+      "ar": "تَيّارٌ",
+      "tr": "tayyār",
+      "nl": [
+        "stroming"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l135-w06",
+      "ar": "مُحافِظٌ",
+      "tr": "muḥāfiẓ",
+      "nl": [
+        "conservatief"
+      ],
+      "soort": "deelwoord (III)"
+    },
+    {
+      "id": "j3-p12-l135-w07",
+      "ar": "مُساواةٌ",
+      "tr": "musāwāh",
+      "nl": [
+        "gelijkheid"
+      ],
+      "soort": "maṣdar (III)"
+    },
+    {
+      "id": "j3-p12-l135-w08",
+      "ar": "قِيَمٌ",
+      "tr": "qiyam",
+      "nl": [
+        "waarden"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|قيمَةٌ}."
+    },
+    {
+      "id": "j3-p12-l135-w09",
+      "ar": "سَواءٌ … أَمْ …",
+      "tr": "sawāʾun … am …",
+      "nl": [
+        "of … of (het maakt niet uit)"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p12-l135-w10",
+      "ar": "لَيْسَ فَقَطْ … بَلْ أَيْضًا",
+      "tr": "laysa faqaṭ … bal ayḍan",
+      "nl": [
+        "niet alleen … maar ook"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p12-l135-w11",
+      "ar": "لا … وَلا …",
+      "tr": "lā … wa-lā …",
+      "nl": [
+        "noch … noch"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p12-l135-w12",
+      "ar": "الدّارِجَةُ",
+      "tr": "ad-dārija",
+      "nl": [
+        "het Darija (dialect)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l135-w13",
+      "ar": "المَناهِجُ الدِّراسِيَّةُ",
+      "tr": "al-manāhiju d-dirāsiyya",
+      "nl": [
+        "het leerplan, de lesprogramma's"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l135-w14",
+      "ar": "هَدَّدَ",
+      "tr": "haddada",
+      "nl": [
+        "bedreigen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p12-l135-w15",
+      "ar": "أَغْلَبِيَّةٌ",
+      "tr": "aġlabiyya",
+      "nl": [
+        "meerderheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Nuanceren in een debat",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "سَواءٌ أَ… أَمْ …",
+              "of … of, het maakt niet uit",
+              "سَواءٌ أَكانَ مُؤَيِّدًا أَمْ مُعارِضًا"
+            ],
+            [
+              "لَيْسَ فَقَطْ … بَلْ أَيْضًا",
+              "niet alleen … maar ook",
+              "لَيْسَتِ اللُّغَةُ وَسيلَةً فَقَطْ، بَلْ هِيَ أَيْضًا هُوِيَّةٌ"
+            ],
+            [
+              "لا … وَلا …",
+              "noch … noch",
+              "لا الحُكومَةُ وَلا المَدارِسُ مُسْتَعِدَّةٌ"
+            ],
+            [
+              "مَهْما (les 99)",
+              "hoe … ook",
+              "مَهْما كانَ رَأْيُكَ، اِحْتَرِمِ الآخَرَ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "In een maatschappelijk debat wil je laten zien dat je **beide kanten** ziet. Deze constructies doen precies dat: {ar|سَواءٌ … أَمْ} zegt dat iets voor beide groepen geldt, {ar|لَيْسَ فَقَطْ … بَلْ} voegt een tweede, sterker punt toe."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|سَواءٌ} staat vaak de vraagpartikel {ar|أَ} en daarna {ar|أَمْ} (niet {ar|أَوْ}): {ar|سَواءٌ أَكانَ … أَمْ …}."
+        }
+      ]
+    },
+    {
+      "titel": "Debat: het Darija op school?",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَصْبَحَتْ قَضِيَّةُ تَدْريسِ الدّارِجَةِ مُثيرَةً لِلْجَدَلِ في المَغْرِبِ.",
+              "tr": "aṣbaḥat qaḍiyyatu tadrīsi d-dārijati muṯīratan li-l-jadali fi l-maġrib.",
+              "nl": "De kwestie of het Darija onderwezen moet worden is in Marokko omstreden geraakt."
+            },
+            {
+              "ar": "يَرى بَعْضُهُمْ أَنَّ الدّارِجَةَ لَيْسَتْ لُغَةَ البَيْتِ فَقَطْ، بَلْ هِيَ أَيْضًا جُزْءٌ مِنَ الهُوِيَّةِ.",
+              "tr": "yarā baʿḍuhum anna d-dārijata laysat luġata l-bayti faqaṭ, bal hiya ayḍan juzʾun mina l-huwiyya.",
+              "nl": "Sommigen vinden dat het Darija niet alleen de taal van thuis is, maar ook een deel van de identiteit."
+            },
+            {
+              "ar": "وَيَخْشى التَّيّارُ المُحافِظُ أَنْ تُهَدِّدَ الدّارِجَةُ مَكانَةَ الفُصْحى.",
+              "tr": "wa-yaḫša t-tayyāru l-muḥāfiẓu an tuhaddida d-dārijatu makānata l-fuṣḥā.",
+              "nl": "De conservatieve stroming vreest dat het Darija de positie van het Fusha bedreigt."
+            },
+            {
+              "ar": "سَواءٌ أَكُنْتَ مُؤَيِّدًا أَمْ مُعارِضًا، فَالحِوارُ ضَرورِيٌّ.",
+              "tr": "sawāʾun a-kunta muʾayyidan am muʿāriḍan, fa-l-ḥiwāru ḍarūriyy.",
+              "nl": "Of je nu voor of tegen bent: dialoog is noodzakelijk."
+            },
+            {
+              "ar": "لا المُعَلِّمونَ وَلا الأُسَرُ يَتَّفِقونَ عَلى حَلٍّ واحِدٍ.",
+              "tr": "lā l-muʿallimūna wa-la l-usaru yattafiqūna ʿalā ḥallin wāḥid.",
+              "nl": "Noch de leraren, noch de gezinnen zijn het eens over één oplossing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قَضِيَّةٌ",
+              "nl": "kwestie",
+              "woord": "j3-p12-l135-w01"
+            },
+            {
+              "ar": "الرَّأْيُ العامُّ",
+              "nl": "publieke opinie",
+              "woord": "j3-p12-l135-w02"
+            },
+            {
+              "ar": "مُحافِظٌ",
+              "nl": "conservatief",
+              "woord": "j3-p12-l135-w06"
+            },
+            {
+              "ar": "مُساواةٌ",
+              "nl": "gelijkheid",
+              "woord": "j3-p12-l135-w07"
+            },
+            {
+              "ar": "أَغْلَبِيَّةٌ",
+              "nl": "meerderheid",
+              "woord": "j3-p12-l135-w15"
+            },
+            {
+              "ar": "أَقَلِّيَّةٌ",
+              "nl": "minderheid"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "nuanceren",
+          "tekst": "لَيْسَتْ وَسيلَةً فَقَطْ، بَلْ هِيَ أَيْضًا هُوِيَّةٌ",
+          "vraag": "Wat zegt de spreker over taal?",
+          "opties": [
+            "niet alleen een middel, maar ook identiteit",
+            "alleen een middel",
+            "geen identiteit"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Nuanceren",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "nuanceren",
+          "zin": "سَواءٌ أَكانَ غَنِيًّا ___ فَقيرًا، لَهُ نَفْسُ الحُقوقِ.",
+          "nl": "Of hij nu rijk of arm is, hij heeft dezelfde rechten.",
+          "antwoord": [
+            "أَمْ"
+          ],
+          "uitleg": "{ar|سَواءٌ … أَمْ}",
+          "woordbank": [
+            "أَمْ",
+            "أَوْ",
+            "بَلْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "nuanceren",
+          "zin": "___ الوَزيرُ وَلا النُّوّابُ حَضَروا.",
+          "nl": "Noch de minister, noch de parlementariërs kwamen.",
+          "antwoord": [
+            "لا"
+          ],
+          "uitleg": "{ar|لا … وَلا}",
+          "woordbank": [
+            "لا",
+            "لَمْ",
+            "ما"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "nuanceren",
+          "zin": "لَيْسَ مُفيدًا فَقَطْ، ___ مُمْتِعٌ أَيْضًا.",
+          "nl": "Het is niet alleen nuttig, maar ook leuk.",
+          "antwoord": [
+            "بَلْ"
+          ],
+          "uitleg": "{ar|بَلْ … أَيْضًا}",
+          "woordbank": [
+            "بَلْ",
+            "أَمْ",
+            "لٰكِنَّ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "nuanceren",
+          "vraag": "Na {ar|سَواءٌ} gebruik je ...",
+          "opties": [
+            "أَمْ",
+            "أَوْ",
+            "ثُمَّ"
+          ],
+          "juist": 0,
+          "uitleg": "Niet {ar|أَوْ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "woordenschat",
+          "vraag": "{ar|مُثيرٌ لِلْجَدَلِ} betekent ...",
+          "opties": [
+            "omstreden",
+            "saai",
+            "algemeen aanvaard"
+          ],
+          "juist": 0,
+          "uitleg": "Controverse."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "nuanceren",
+          "nl": "Of je nu voor of tegen bent, dialoog is noodzakelijk.",
+          "woorden": [
+            "سَواءٌ",
+            "أَكُنْتَ",
+            "مُؤَيِّدًا",
+            "أَمْ",
+            "مُعارِضًا،",
+            "فَالحِوارُ",
+            "ضَرورِيٌّ."
+          ],
+          "uitleg": "{ar|سَواءٌ … أَمْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de publieke opinie",
+          "antwoorden": [
+            "الرَّأْيُ العامُّ",
+            "الرأي العام"
+          ],
+          "uitleg": "{ar|الرَّأْيُ العامُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "nuanceren",
+          "bron": "لا المُعَلِّمونَ وَلا الأُسَرُ مُتَّفِقونَ.",
+          "antwoorden": [
+            "noch de leraren noch de gezinnen zijn het eens",
+            "de leraren en de gezinnen zijn het geen van beiden eens"
+          ],
+          "uitleg": "{ar|لا … وَلا}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "جَدَلٌ",
+            "nl": "controverse"
+          },
+          {
+            "ar": "تَيّارٌ",
+            "nl": "stroming"
+          },
+          {
+            "ar": "قِيَمٌ",
+            "nl": "waarden"
+          },
+          {
+            "ar": "هَدَّدَ",
+            "nl": "bedreigen"
+          },
+          {
+            "ar": "المَناهِجُ الدِّراسِيَّةُ",
+            "nl": "leerplan"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nuanceren",
+        "vraag": "{ar|لا … وَلا …} betekent ...",
+        "opties": [
+          "noch … noch",
+          "of … of",
+          "niet alleen … maar ook"
+        ],
+        "juist": 0,
+        "uitleg": "Dubbele ontkenning."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nuanceren",
+        "vraag": "'Niet alleen goedkoop, maar ook goed' is ...",
+        "opties": [
+          "لَيْسَ رَخيصًا فَقَطْ، بَلْ جَيِّدٌ أَيْضًا",
+          "لا رَخيصٌ وَلا جَيِّدٌ",
+          "سَواءٌ رَخيصٌ أَمْ جَيِّدٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nuanceren",
+        "vraag": "{ar|مَهْما كانَ رَأْيُكَ} betekent ...",
+        "opties": [
+          "wat je mening ook is",
+          "omdat je mening …",
+          "als je een mening hebt"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَهْما}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Het tegenovergestelde van {ar|أَغْلَبِيَّةٌ} is ...",
+        "opties": [
+          "أَقَلِّيَّةٌ",
+          "مُساواةٌ",
+          "قَضِيَّةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Minderheid."
+      },
+      {
+        "type": "luisteren",
+        "tag": "nuanceren",
+        "tekst": "سَواءٌ أَكانَ صَغيرًا أَمْ كَبيرًا",
+        "vraag": "Wat bedoelt de spreker?",
+        "opties": [
+          "Het maakt niet uit of het klein of groot is.",
+          "Het is klein.",
+          "Het is groot."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَواءٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "هٰذِهِ قَضِيَّةٌ مُثيرَةٌ لِلْجَدَلِ",
+        "vraag": "Wat voor kwestie is het?",
+        "opties": [
+          "een omstreden kwestie",
+          "een eenvoudige kwestie",
+          "een opgeloste kwestie"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُثيرٌ لِلْجَدَلِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "nuanceren",
+        "zin": "لا أُحِبُّ القَهْوَةَ ___ الشّايَ.",
+        "nl": "Ik hou noch van koffie, noch van thee.",
+        "antwoord": [
+          "وَلا"
+        ],
+        "uitleg": "{ar|لا … وَلا}",
+        "woordbank": [
+          "وَلا",
+          "أَمْ",
+          "بَلْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "nuanceren",
+        "zin": "___ أَكانَ الجَوُّ حارًّا أَمْ بارِدًا، سَنَخْرُجُ.",
+        "nl": "Of het nu warm of koud is, we gaan naar buiten.",
+        "antwoord": [
+          "سَواءٌ"
+        ],
+        "uitleg": "{ar|سَواءٌ}",
+        "woordbank": [
+          "سَواءٌ",
+          "مَهْما",
+          "لَيْسَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تُطالِبُ الجَمْعِيّاتُ بِالـ___ بَيْنَ الرَّجُلِ وَالمَرْأَةِ.",
+        "nl": "De verenigingen eisen gelijkheid tussen man en vrouw.",
+        "antwoord": [
+          "مُساواةِ"
+        ],
+        "uitleg": "{ar|مُساواةٌ}",
+        "woordbank": [
+          "مُساواةِ",
+          "أَقَلِّيَّةِ",
+          "جَدَلِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "nuanceren",
+        "instructie": "Vul het ontbrekende woord in.",
+        "rijen": [
+          {
+            "label": "لَيْسَ … فَقَطْ، ___ … أَيْضًا",
+            "antwoord": "بَلْ",
+            "tr": "bal"
+          },
+          {
+            "label": "سَواءٌ … ___ …",
+            "antwoord": "أَمْ",
+            "tr": "am"
+          }
+        ],
+        "uitleg": "Vaste paren."
+      },
+      {
+        "type": "ordenen",
+        "tag": "nuanceren",
+        "nl": "Het is niet alleen nuttig, maar ook leuk.",
+        "woorden": [
+          "لَيْسَ",
+          "مُفيدًا",
+          "فَقَطْ،",
+          "بَلْ",
+          "مُمْتِعٌ",
+          "أَيْضًا."
+        ],
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de kwestie",
+        "antwoorden": [
+          "القَضِيَّةُ",
+          "القضية"
+        ],
+        "uitleg": "{ar|القَضِيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "nuanceren",
+        "bron": "يَخْشى التَّيّارُ المُحافِظُ أَنْ تُهَدِّدَ الدّارِجَةُ الفُصْحى.",
+        "antwoorden": [
+          "de conservatieve stroming vreest dat het darija het fusha bedreigt",
+          "conservatieven zijn bang dat het darija het fusha bedreigt"
+        ],
+        "uitleg": "Debat."
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "j3-p11-l123",
+  "code": "L123",
+  "type": "les",
+  "titel": "Vertalen en talen",
+  "thema": "Vertalen, tolken en ondertitels; vierletterige werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over vertalen, talen en woordenboeken praten.",
+    "vierletterige werkwoorden (تَرْجَمَ، تَزَلْزَلَ) vervoegen.",
+    "maṣdar en deelwoorden van vierletterige werkwoorden vormen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l123-w01",
+      "ar": "تَرْجَمَ يُتَرْجِمُ",
+      "tr": "tarjama yutarjimu",
+      "nl": [
+        "vertalen"
+      ],
+      "soort": "werkwoord (vierletterig)"
+    },
+    {
+      "id": "j3-p11-l123-w02",
+      "ar": "تَرْجَمَةٌ",
+      "tr": "tarjama",
+      "nl": [
+        "vertaling"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p11-l123-w03",
+      "ar": "تَرْجَمَةٌ فَوْرِيَّةٌ",
+      "tr": "tarjamatun fawriyya",
+      "nl": [
+        "simultaanvertaling, tolken"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l123-w04",
+      "ar": "تَرْجَمَةٌ حَرْفِيَّةٌ",
+      "tr": "tarjamatun ḥarfiyya",
+      "nl": [
+        "letterlijke vertaling"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l123-w05",
+      "ar": "قاموسٌ",
+      "tr": "qāmūs",
+      "nl": [
+        "woordenboek"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قَواميسُ}."
+    },
+    {
+      "id": "j3-p11-l123-w06",
+      "ar": "مُصْطَلَحٌ",
+      "tr": "muṣṭalaḥ",
+      "nl": [
+        "(vak)term"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l123-w08",
+      "ar": "زِلْزالٌ",
+      "tr": "zilzāl",
+      "nl": [
+        "aardbeving"
+      ],
+      "soort": "zelfstandig naamwoord (maṣdar فِعْلال)"
+    },
+    {
+      "id": "j3-p11-l123-w09",
+      "ar": "تَزَلْزَلَ",
+      "tr": "tazalzala",
+      "nl": [
+        "beven, schudden"
+      ],
+      "soort": "werkwoord (vierletterig II)"
+    },
+    {
+      "id": "j3-p11-l123-w10",
+      "ar": "تَدَحْرَجَ",
+      "tr": "tadaḥraja",
+      "nl": [
+        "rollen"
+      ],
+      "soort": "werkwoord (vierletterig II)"
+    },
+    {
+      "id": "j3-p11-l123-w11",
+      "ar": "بَعْثَرَ",
+      "tr": "baʿṯara",
+      "nl": [
+        "verspreiden, rommelig neergooien"
+      ],
+      "soort": "werkwoord (vierletterig)"
+    },
+    {
+      "id": "j3-p11-l123-w12",
+      "ar": "سَيْطَرَ عَلى",
+      "tr": "sayṭara ʿalā",
+      "nl": [
+        "beheersen, controle hebben over"
+      ],
+      "soort": "werkwoord (vierletterig)"
+    },
+    {
+      "id": "j3-p11-l123-w13",
+      "ar": "بَرْمَجَ",
+      "tr": "barmaja",
+      "nl": [
+        "programmeren"
+      ],
+      "soort": "werkwoord (vierletterig)"
+    },
+    {
+      "id": "j3-p11-l123-w14",
+      "ar": "مُدَبْلَجٌ",
+      "tr": "mudablaj",
+      "nl": [
+        "nagesynchroniseerd"
+      ],
+      "soort": "deelwoord (passief)"
+    },
+    {
+      "id": "j3-p11-l123-w15",
+      "ar": "عَوْلَمَةٌ",
+      "tr": "ʿawlama",
+      "nl": [
+        "globalisering"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p11-l123-w16",
+      "ar": "وَسْوَسَ",
+      "tr": "waswasa",
+      "nl": [
+        "influisteren; piekeren"
+      ],
+      "soort": "werkwoord (vierletterig)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Werkwoorden met vier wortelletters",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Sommige werkwoorden hebben **vier** wortelletters: {ar|ت-ر-ج-م}، {ar|ز-ل-ز-ل}. Ze vervoegen zoals **vorm II**: de muḍāriʿ heeft het voorvoegsel met **u** en een **i** vóór de laatste letter."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "rijen": [
+            [
+              "أَنا",
+              "تَرْجَمْتُ|tarjamtu",
+              "أُتَرْجِمُ|utarjimu"
+            ],
+            [
+              "أَنْتَ",
+              "تَرْجَمْتَ|tarjamta",
+              "تُتَرْجِمُ|tutarjimu"
+            ],
+            [
+              "هُوَ",
+              "تَرْجَمَ|tarjama",
+              "يُتَرْجِمُ|yutarjimu"
+            ],
+            [
+              "هِيَ",
+              "تَرْجَمَتْ|tarjamat",
+              "تُتَرْجِمُ|tutarjimu"
+            ],
+            [
+              "نَحْنُ",
+              "تَرْجَمْنا|tarjamnā",
+              "نُتَرْجِمُ|nutarjimu"
+            ],
+            [
+              "هُمْ",
+              "تَرْجَموا|tarjamū",
+              "يُتَرْجِمونَ|yutarjimūna"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zoals vorm II? Vergelijk {ar|دَرَّسَ يُدَرِّسُ} met {ar|تَرْجَمَ يُتَرْجِمُ}: beide hebben vier medeklinkers in de stam (d-r-r-s, t-r-j-m). Daarom gedragen ze zich hetzelfde: maṣdar {ar|تَرْجَمَةٌ} (vgl. {ar|فَعْلَلَةٌ}), deelwoorden {ar|مُتَرْجِمٌ / مُتَرْجَمٌ}."
+        },
+        {
+          "type": "letop",
+          "md": "Met {ar|تَـ} ervoor ontstaat een wederkerende vorm, zoals vorm V: {ar|زَلْزَلَ} (doen beven) → {ar|تَزَلْزَلَ} (beven), {ar|دَحْرَجَ} (rollen, iets) → {ar|تَدَحْرَجَ} (rollen, zelf). Nieuwe leenwoorden volgen hetzelfde patroon: {ar|بَرْمَجَ} (programmeren), {ar|دَبْلَجَ} (nasynchroniseren), {ar|عَوْلَمَةٌ} (globalisering)."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تُرْجِمَتْ رِواياتُ نَجيبِ مَحْفوظٍ إِلى لُغاتٍ كَثيرَةٍ.",
+              "tr": "turjimat riwāyātu najībi maḥfūẓin ilā luġātin kaṯīra.",
+              "nl": "De romans van Naguib Mahfouz zijn in veel talen vertaald."
+            },
+            {
+              "ar": "أُفَضِّلُ الأَفْلامَ المُتَرْجَمَةَ عَلى الأَفْلامِ المُدَبْلَجَةِ.",
+              "tr": "ufaḍḍilu l-aflāma l-mutarjamata ʿala l-aflāmi l-mudablaja.",
+              "nl": "Ik heb liever ondertitelde films dan nagesynchroniseerde."
+            },
+            {
+              "ar": "التَّرْجَمَةُ الحَرْفِيَّةُ لا تَنْجَحُ دائِمًا.",
+              "tr": "at-tarjamatu l-ḥarfiyyatu lā tanjaḥu dāʾiman.",
+              "nl": "Een letterlijke vertaling werkt niet altijd."
+            },
+            {
+              "ar": "ضَرَبَ زِلْزالٌ قَوِيٌّ مِنْطَقَةَ الحَوْزِ سَنَةَ ٢٠٢٣.",
+              "tr": "ḍaraba zilzālun qawiyyun minṭaqata l-ḥawzi sanata 2023.",
+              "nl": "In 2023 trof een zware aardbeving de regio Al Haouz."
+            },
+            {
+              "ar": "تَدَحْرَجَتِ الكُرَةُ إِلى الشّارِعِ.",
+              "tr": "tadaḥrajati l-kuratu ila š-šāriʿ.",
+              "nl": "De bal rolde de straat op."
+            },
+            {
+              "ar": "يُبَرْمِجُ أَخي تَطْبيقاتٍ لِلْهاتِفِ.",
+              "tr": "yubarmiju aḫī taṭbīqātin li-l-hātif.",
+              "nl": "Mijn broer programmeert apps voor de telefoon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قاموسٌ",
+              "nl": "woordenboek",
+              "woord": "j3-p11-l123-w05"
+            },
+            {
+              "ar": "مُصْطَلَحٌ",
+              "nl": "vakterm",
+              "woord": "j3-p11-l123-w06"
+            },
+            {
+              "ar": "اللُّغَةُ الأُمُّ",
+              "nl": "moedertaal"
+            },
+            {
+              "ar": "زِلْزالٌ",
+              "nl": "aardbeving",
+              "woord": "j3-p11-l123-w08"
+            },
+            {
+              "ar": "بَرْمَجَ",
+              "nl": "programmeren",
+              "woord": "j3-p11-l123-w13"
+            },
+            {
+              "ar": "عَوْلَمَةٌ",
+              "nl": "globalisering",
+              "woord": "j3-p11-l123-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vierletterig",
+          "tekst": "أُتَرْجِمُ الرِّسالَةَ إِلى الهولَنْدِيَّةِ",
+          "vraag": "Wat doet de spreker?",
+          "opties": [
+            "Hij vertaalt de brief in het Nederlands.",
+            "Hij schrijft een brief in het Nederlands.",
+            "Hij leest een Nederlandse brief."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أُتَرْجِمُ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vierletterig",
+          "instructie": "Vervoeg تَرْجَمَ in de muḍāriʿ.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "أُتَرْجِمُ",
+              "tr": "utarjimu"
+            },
+            {
+              "label": "zij (v, ev)",
+              "antwoord": "تُتَرْجِمُ",
+              "tr": "tutarjimu"
+            },
+            {
+              "label": "zij (mv, m)",
+              "antwoord": "يُتَرْجِمونَ",
+              "tr": "yutarjimūna"
+            }
+          ],
+          "uitleg": "u-voorvoegsel, i vóór de laatste letter."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vierletterig",
+          "instructie": "Vervoeg تَرْجَمَ in de māḍī.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "تَرْجَمْتُ",
+              "tr": "tarjamtu"
+            },
+            {
+              "label": "wij",
+              "antwoord": "تَرْجَمْنا",
+              "tr": "tarjamnā"
+            }
+          ],
+          "uitleg": "Zoals vorm I."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vierletterig",
+          "vraag": "Waarom begint {ar|يُتَرْجِمُ} met **yu**?",
+          "opties": [
+            "vierletterige werkwoorden vervoegen zoals vorm II",
+            "het is lijdend",
+            "het is een maṣdar"
+          ],
+          "juist": 0,
+          "uitleg": "Vgl. {ar|يُدَرِّسُ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vierletterig",
+          "vraag": "{ar|تَدَحْرَجَتِ الكُرَةُ} betekent ...",
+          "opties": [
+            "De bal rolde.",
+            "Hij rolde de bal.",
+            "De bal werd gegooid."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَـ} = wederkerend."
+        },
+        {
+          "type": "invullen",
+          "tag": "vierletterig",
+          "zin": "أُفَضِّلُ الأَفْلامَ ___.",
+          "nl": "Ik heb liever ondertitelde (vertaalde) films.",
+          "antwoord": [
+            "المُتَرْجَمَةَ"
+          ],
+          "uitleg": "Passief deelwoord.",
+          "woordbank": [
+            "المُتَرْجَمَةَ",
+            "المُتَرْجِمَةَ",
+            "التَّرْجَمَةَ"
+          ],
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vierletterig",
+          "nl": "Mijn broer programmeert apps.",
+          "woorden": [
+            "يُبَرْمِجُ",
+            "أَخي",
+            "تَطْبيقاتٍ."
+          ],
+          "uitleg": "{ar|بَرْمَجَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het woordenboek",
+          "antwoorden": [
+            "القاموسُ",
+            "القاموس"
+          ],
+          "uitleg": "{ar|القاموسُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vierletterig",
+          "bron": "التَّرْجَمَةُ الحَرْفِيَّةُ لا تَنْجَحُ دائِمًا.",
+          "antwoorden": [
+            "een letterlijke vertaling werkt niet altijd",
+            "letterlijk vertalen lukt niet altijd"
+          ],
+          "uitleg": "{ar|تَرْجَمَةٌ حَرْفِيَّةٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَرْجَمَةٌ فَوْرِيَّةٌ",
+            "nl": "tolken"
+          },
+          {
+            "ar": "تَزَلْزَلَ",
+            "nl": "beven"
+          },
+          {
+            "ar": "بَعْثَرَ",
+            "nl": "verspreiden"
+          },
+          {
+            "ar": "سَيْطَرَ عَلى",
+            "nl": "beheersen"
+          },
+          {
+            "ar": "مُدَبْلَجٌ",
+            "nl": "nagesynchroniseerd"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "Hoeveel wortelletters heeft {ar|تَرْجَمَ}?",
+        "opties": [
+          "vier",
+          "drie",
+          "vijf"
+        ],
+        "juist": 0,
+        "uitleg": "ت-ر-ج-م."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "'Wij vertalen' is ...",
+        "opties": [
+          "نُتَرْجِمُ",
+          "نَتَرْجِمُ",
+          "تَرْجَمْنا"
+        ],
+        "juist": 0,
+        "uitleg": "u-voorvoegsel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "{ar|مُتَرْجِمٌ} betekent ...",
+        "opties": [
+          "vertaler",
+          "vertaald",
+          "vertaling"
+        ],
+        "juist": 0,
+        "uitleg": "Actief deelwoord: -i-."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "Welke vorm is **wederkerend** (zelf rollen)?",
+        "opties": [
+          "تَدَحْرَجَ",
+          "دَحْرَجَ",
+          "مُدَحْرِجٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَـ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vierletterig",
+        "tekst": "ضَرَبَ زِلْزالٌ قَوِيٌّ المِنْطَقَةَ",
+        "vraag": "Wat gebeurde er?",
+        "opties": [
+          "Een zware aardbeving trof de regio.",
+          "Er was een storm.",
+          "Er was een overstroming."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|زِلْزالٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vierletterig",
+        "tekst": "سَيْطَرَ الفَريقُ عَلى المُباراةِ",
+        "vraag": "Wat deed het team?",
+        "opties": [
+          "Het beheerste de wedstrijd.",
+          "Het verloor de wedstrijd.",
+          "Het kwam niet opdagen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَيْطَرَ عَلى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vierletterig",
+        "zin": "هَلْ ___ هٰذا النَّصَّ؟",
+        "nl": "Heb jij (m) deze tekst vertaald?",
+        "antwoord": [
+          "تَرْجَمْتَ"
+        ],
+        "uitleg": "Māḍī.",
+        "woordbank": [
+          "تَرْجَمْتَ",
+          "تُتَرْجِمُ",
+          "تَرْجَمَةَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "vierletterig",
+        "zin": "يُريدُ أَنْ ___ لُعْبَةً جَديدَةً.",
+        "nl": "Hij wil een nieuw spel programmeren.",
+        "antwoord": [
+          "يُبَرْمِجَ"
+        ],
+        "uitleg": "Manṣūb na {ar|أَنْ}.",
+        "woordbank": [
+          "يُبَرْمِجَ",
+          "يُبَرْمِجُ",
+          "بَرْمَجَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "العَرَبِيَّةُ ___ أَبي.",
+        "nl": "Arabisch is de moedertaal van mijn vader.",
+        "antwoord": [
+          "لُغَةُ"
+        ],
+        "uitleg": "{ar|اللُّغَةُ الأُمُّ}",
+        "woordbank": [
+          "لُغَةُ",
+          "قاموسُ",
+          "مُصْطَلَحُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vierletterig",
+        "instructie": "Geef de maṣdar.",
+        "rijen": [
+          {
+            "label": "تَرْجَمَ",
+            "antwoord": "تَرْجَمَة",
+            "tr": "tarjama"
+          },
+          {
+            "label": "زَلْزَلَ (فِعْلال)",
+            "antwoord": "زِلْزال",
+            "tr": "zilzāl"
+          }
+        ],
+        "uitleg": "Maṣdar."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vierletterig",
+        "nl": "De bal rolde de straat op.",
+        "woorden": [
+          "تَدَحْرَجَتِ",
+          "الكُرَةُ",
+          "إِلى",
+          "الشّارِعِ."
+        ],
+        "uitleg": "{ar|تَدَحْرَجَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de globalisering",
+        "antwoorden": [
+          "العَوْلَمَةُ",
+          "العولمة"
+        ],
+        "uitleg": "{ar|العَوْلَمَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vierletterig",
+        "bron": "تُرْجِمَتِ الرِّوايَةُ إِلى عِشْرينَ لُغَةً.",
+        "antwoorden": [
+          "de roman is in twintig talen vertaald",
+          "de roman werd in twintig talen vertaald"
+        ],
+        "uitleg": "Lijdend: {ar|تُرْجِمَ}."
+      }
+    ]
+  }
+}

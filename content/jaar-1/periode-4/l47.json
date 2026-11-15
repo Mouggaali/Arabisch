@@ -1,0 +1,779 @@
+{
+  "id": "j1-p4-l47",
+  "code": "L47",
+  "type": "les",
+  "titel": "Leestekst: Een dag van Sāmī",
+  "thema": "Een langere tekst lezen en begrijpen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een tekst van ongeveer 150–200 woorden lezen en begrijpen.",
+    "zinnen verbinden met وَ، ثُمَّ، فَـ، لٰكِنْ / لٰكِنَّ en لِأَنَّ.",
+    "het verschil tussen وَ, ثُمَّ en فَـ uitleggen."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l47-w01",
+      "ar": "اِسْتَيْقَظَ",
+      "tr": "istayqaẓa",
+      "nl": [
+        "wakker worden"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَسْتَيْقِظُ}."
+    },
+    {
+      "id": "j1-p4-l47-w05",
+      "ar": "خَرَجَ مِنْ",
+      "tr": "ḫaraja min",
+      "nl": [
+        "naar buiten gaan uit",
+        "weggaan uit"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَخْرُجُ}."
+    },
+    {
+      "id": "j1-p4-l47-w08",
+      "ar": "مُتْعِبٌ",
+      "tr": "mutʿib",
+      "nl": [
+        "vermoeiend"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Let op het verschil: {ar|مُتْعَبٌ} = moe, {ar|مُتْعِبٌ} = vermoeiend."
+    },
+    {
+      "id": "j1-p4-l47-w10",
+      "ar": "الظُّهْرُ",
+      "tr": "aẓ-ẓuhr",
+      "nl": [
+        "het middaguur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l47-w12",
+      "ar": "وَحْدَهُ",
+      "tr": "waḥdah",
+      "nl": [
+        "alleen (hij)"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Met suffix: {ar|وَحْدي} (ik alleen), {ar|وَحْدَها} (zij alleen)."
+    },
+    {
+      "id": "j1-p4-l47-w13",
+      "ar": "أَوْ",
+      "tr": "aw",
+      "nl": [
+        "of"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j1-p4-l47-w15",
+      "ar": "فَـ",
+      "tr": "fa-",
+      "nl": [
+        "en dus",
+        "en meteen"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j1-p4-l47-w16",
+      "ar": "لٰكِنَّ",
+      "tr": "lākinna",
+      "nl": [
+        "maar (+ naamwoord)"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j1-p4-l47-w19",
+      "ar": "شاهَدَ",
+      "tr": "šāhada",
+      "nl": [
+        "kijken naar"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُشاهِدُ}."
+    },
+    {
+      "id": "j1-p4-l47-w20",
+      "ar": "عادَ",
+      "tr": "ʿāda",
+      "nl": [
+        "terugkeren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَعودُ}; synoniem van {ar|رَجَعَ}."
+    },
+    {
+      "id": "j1-p4-l47-w22",
+      "ar": "مُتَأَخِّرًا",
+      "tr": "mutaʾaḫḫiran",
+      "nl": [
+        "laat"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l47-w24",
+      "ar": "في البِدايَةِ",
+      "tr": "fi l-bidāya",
+      "nl": [
+        "in het begin",
+        "eerst"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l47-w26",
+      "ar": "أَحْيانًا كَثيرَةً",
+      "tr": "aḥyānan kaṯīra",
+      "nl": [
+        "vaak"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l47-w30",
+      "ar": "نَشيطٌ",
+      "tr": "našīṭ",
+      "nl": [
+        "actief",
+        "energiek"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p4-l47-w31",
+      "ar": "حَياةٌ يَوْمِيَّةٌ",
+      "tr": "ḥayātun yawmiyya",
+      "nl": [
+        "dagelijks leven"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l47-w32",
+      "ar": "بِسُرْعَةٍ",
+      "tr": "bi-surʿa",
+      "nl": [
+        "snel (bijwoord)"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l47-w33",
+      "ar": "رَوْتينٌ",
+      "tr": "rūtīn",
+      "nl": [
+        "routine"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De tekst: Een dag van Sāmī",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Lees de tekst eerst helemaal, zonder de vertaling. Speel dan elke zin af, en kijk pas daarna naar het Nederlands. Let vooral op de voegwoorden: {ar|وَ}, {ar|ثُمَّ}, {ar|فَـ}, {ar|لٰكِنَّ} en {ar|لِأَنَّ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَسْتَيْقِظُ سامي كُلَّ يَوْمٍ في السّاعَةِ السّادِسَةِ وَالنِّصْفِ.",
+              "tr": "yastayqiẓu Sāmī kulla yawmin fi s-sāʿati s-sādisati wa-n-niṣf.",
+              "nl": "Sāmī wordt elke dag om half zeven wakker."
+            },
+            {
+              "ar": "يَغْسِلُ وَجْهَهُ، ثُمَّ يَشْرَبُ فِنْجانَ قَهْوَةٍ.",
+              "tr": "yaġsilu wajhahu, ṯumma yašrabu finjāna qahwa.",
+              "nl": "Hij wast zijn gezicht en drinkt daarna een kopje koffie."
+            },
+            {
+              "ar": "لا يَأْكُلُ كَثيرًا في الصَّباحِ، لِأَنَّهُ لَيْسَ جائِعًا.",
+              "tr": "lā yaʾkulu kaṯīran fi ṣ-ṣabāḥ, li-annahu laysa jāʾiʿan.",
+              "nl": "Hij eet 's ochtends niet veel, omdat hij geen honger heeft."
+            },
+            {
+              "ar": "يَخْرُجُ مِنَ البَيْتِ في السّاعَةِ السّابِعَةِ وَيَذْهَبُ إِلى المَحَطَّةِ مَشْيًا.",
+              "tr": "yaḫruju mina l-bayti fi s-sāʿati s-sābiʿati wa-yaḏhabu ila l-maḥaṭṭati mašyan.",
+              "nl": "Hij gaat om zeven uur de deur uit en loopt naar het station."
+            },
+            {
+              "ar": "يَعْمَلُ سامي مُهَنْدِسًا في شَرِكَةٍ كَبيرَةٍ في وَسَطِ المَدينَةِ.",
+              "tr": "yaʿmalu Sāmī muhandisan fī šarikatin kabīratin fī wasaṭi l-madīna.",
+              "nl": "Sāmī werkt als ingenieur bij een groot bedrijf in het centrum.",
+              "review": {
+                "status": "onzeker",
+                "note": "يَعْمَلُ مُهَنْدِسًا (ḥāl, accusatief) controleren."
+              }
+            },
+            {
+              "ar": "عَمَلُهُ مُمْتِعٌ، لٰكِنَّهُ مُتْعِبٌ أَحْيانًا.",
+              "tr": "ʿamaluhu mumtiʿun, lākinnahu mutʿibun aḥyānan.",
+              "nl": "Zijn werk is leuk, maar soms vermoeiend."
+            },
+            {
+              "ar": "في الظُّهْرِ يَأْكُلُ مَعَ زُمَلائِهِ في مَطْعَمٍ صَغيرٍ.",
+              "tr": "fi ẓ-ẓuhri yaʾkulu maʿa zumalāʾihi fī maṭʿamin ṣaġīr.",
+              "nl": "Tussen de middag eet hij met zijn collega's in een klein restaurant."
+            },
+            {
+              "ar": "يَعودُ إِلى البَيْتِ في السّاعَةِ الخامِسَةِ، فَيَطْبُخُ العَشاءَ.",
+              "tr": "yaʿūdu ila l-bayti fi s-sāʿati l-ḫāmisa, fa-yaṭbuḫu l-ʿašāʾ.",
+              "nl": "Om vijf uur komt hij thuis, en dan kookt hij meteen het avondeten."
+            },
+            {
+              "ar": "بَعْدَ العَشاءِ يَتَّصِلُ بِأُمِّهِ، لِأَنَّها تَسْكُنُ وَحْدَها في طَنْجَةَ.",
+              "tr": "baʿda l-ʿašāʾi yattaṣilu bi-ummih, li-annahā taskunu waḥdahā fī Ṭanja.",
+              "nl": "Na het eten belt hij zijn moeder, omdat zij alleen in Tanger woont."
+            },
+            {
+              "ar": "ثُمَّ يَقْرَأُ قَليلًا أَوْ يُشاهِدُ التِّلْفازَ.",
+              "tr": "ṯumma yaqraʾu qalīlan aw yušāhidu t-tilfāz.",
+              "nl": "Daarna leest hij wat of kijkt hij tv."
+            },
+            {
+              "ar": "يُحِبُّ سامي يَوْمَ الجُمُعَةِ، لِأَنَّهُ يَلْعَبُ كُرَةَ القَدَمِ مَعَ أَصْدِقائِهِ.",
+              "tr": "yuḥibbu Sāmī yawma l-jumuʿa, li-annahu yalʿabu kurata l-qadami maʿa aṣdiqāʾih.",
+              "nl": "Sāmī houdt van vrijdag, omdat hij dan voetbalt met zijn vrienden."
+            },
+            {
+              "ar": "أَمْسِ كانَ مُتْعَبًا جِدًّا، فَنامَ في السّاعَةِ التّاسِعَةِ.",
+              "tr": "amsi kāna mutʿaban jiddan, fa-nāma fi s-sāʿati t-tāsiʿa.",
+              "nl": "Gisteren was hij erg moe, dus ging hij om negen uur slapen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Voegwoorden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Voegwoord",
+            "Betekenis",
+            "Wat volgt erop"
+          ],
+          "arKolommen": [
+            0
+          ],
+          "rijen": [
+            [
+              "وَ",
+              "en (tegelijk of zonder volgorde)",
+              "alles"
+            ],
+            [
+              "ثُمَّ",
+              "daarna (met tijd ertussen)",
+              "alles"
+            ],
+            [
+              "فَـ",
+              "en dan meteen / en dus",
+              "alles, vast aan het woord"
+            ],
+            [
+              "لٰكِنْ",
+              "maar",
+              "een hele zin"
+            ],
+            [
+              "لٰكِنَّ",
+              "maar",
+              "naamwoord in de accusatief of suffix ({ar|لٰكِنَّهُ})"
+            ],
+            [
+              "لِأَنَّ",
+              "omdat",
+              "naamwoord in de accusatief of suffix ({ar|لِأَنَّها})"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|وَ}, {ar|ثُمَّ} en {ar|فَـ} betekenen alle drie iets als *en*, maar ze zeggen iets anders over de **tijd** en de **oorzaak**. {ar|ثُمَّ}: er zit tijd tussen. {ar|فَـ}: het volgt direct, of het is het gevolg ({ar|كانَ مُتْعَبًا فَنامَ}: hij was moe, *dus* sliep hij). {ar|وَ} zegt daar niets over."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|لِأَنَّ} en {ar|لٰكِنَّ} kun je geen werkwoord direct zetten. Gebruik een suffix: {ar|لِأَنَّهُ يَلْعَبُ} (*omdat hij speelt*), niet: {ar|لِأَنَّ يَلْعَبُ}. Of gebruik {ar|لٰكِنْ} zonder shadda: {ar|لٰكِنْ يَلْعَبُ}."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِسْتَيْقَظَ",
+              "nl": "wakker worden",
+              "woord": "j1-p4-l47-w01"
+            },
+            {
+              "ar": "غَسَلَ",
+              "nl": "wassen"
+            },
+            {
+              "ar": "شَرِكَةٌ",
+              "nl": "bedrijf"
+            },
+            {
+              "ar": "زَميلٌ",
+              "nl": "collega"
+            },
+            {
+              "ar": "طَبَخَ",
+              "nl": "koken"
+            },
+            {
+              "ar": "عادَ",
+              "nl": "terugkeren",
+              "woord": "j1-p4-l47-w20"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "voegwoorden",
+          "paren": [
+            {
+              "ar": "ثُمَّ",
+              "nl": "daarna"
+            },
+            {
+              "ar": "لِأَنَّ",
+              "nl": "omdat"
+            },
+            {
+              "ar": "لٰكِنَّ",
+              "nl": "maar",
+              "woord": "j1-p4-l47-w16"
+            },
+            {
+              "ar": "أَوْ",
+              "nl": "of",
+              "woord": "j1-p4-l47-w13"
+            }
+          ],
+          "uitleg": "Voegwoorden."
+        }
+      ]
+    },
+    {
+      "titel": "Begrijpen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hoe laat wordt Sāmī wakker?",
+          "opties": [
+            "om half zeven",
+            "om zeven uur",
+            "om vijf uur"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|السّاعَةِ السّادِسَةِ وَالنِّصْفِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Waarom eet Sāmī 's ochtends weinig?",
+          "opties": [
+            "Hij heeft geen honger.",
+            "Hij heeft geen tijd.",
+            "Hij heeft geen eten."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لِأَنَّهُ لَيْسَ جائِعًا}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hoe gaat Sāmī naar het station?",
+          "opties": [
+            "lopend",
+            "met de bus",
+            "met de taxi"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَشْيًا} = te voet."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Waarom belt hij zijn moeder?",
+          "opties": [
+            "Ze woont alleen.",
+            "Ze is ziek.",
+            "Ze is jarig."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لِأَنَّها تَسْكُنُ وَحْدَها}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "leesvaardigheid",
+          "tekst": "يُحِبُّ سامي يَوْمَ الجُمُعَةِ لِأَنَّهُ يَلْعَبُ كُرَةَ القَدَمِ",
+          "vraag": "Waarom houdt Sāmī van vrijdag?",
+          "opties": [
+            "Hij voetbalt dan.",
+            "Hij is dan vrij.",
+            "Hij bezoekt dan zijn moeder."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كُرَةُ القَدَمِ} = voetbal."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "leesvaardigheid",
+          "bron": "عَمَلُهُ مُمْتِعٌ، لٰكِنَّهُ مُتْعِبٌ أَحْيانًا.",
+          "antwoorden": [
+            "zijn werk is leuk maar soms vermoeiend",
+            "zijn werk is leuk maar het is soms vermoeiend",
+            "zijn werk is boeiend maar soms vermoeiend"
+          ],
+          "uitleg": "{ar|لٰكِنَّهُ} = maar het."
+        }
+      ]
+    },
+    {
+      "titel": "Voegwoorden gebruiken",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "voegwoorden",
+          "zin": "كانَ مُتْعَبًا ___ نامَ مُبَكِّرًا.",
+          "nl": "Hij was moe, dus ging hij vroeg slapen.",
+          "woordbank": [
+            "فَـ",
+            "ثُمَّ",
+            "لِأَنَّ"
+          ],
+          "antwoord": [
+            "فَـ",
+            "ف",
+            "فَ"
+          ],
+          "uitleg": "{ar|فَـ} = en dus (gevolg)."
+        },
+        {
+          "type": "invullen",
+          "tag": "voegwoorden",
+          "zin": "لا أَخْرُجُ اليَوْمَ ___ الجَوَّ بارِدٌ.",
+          "nl": "Ik ga vandaag niet naar buiten, omdat het koud is.",
+          "woordbank": [
+            "لِأَنَّ",
+            "لٰكِنْ",
+            "ثُمَّ"
+          ],
+          "antwoord": [
+            "لِأَنَّ"
+          ],
+          "uitleg": "{ar|لِأَنَّ} = omdat."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voegwoorden",
+          "vraag": "Welke zin is juist? (omdat hij werkt)",
+          "opties": [
+            "لِأَنَّهُ يَعْمَلُ",
+            "لِأَنَّ يَعْمَلُ",
+            "لِأَنَّ هُوَ يَعْمَلُ"
+          ],
+          "juist": 0,
+          "uitleg": "Na {ar|لِأَنَّ} een suffix, niet direct een werkwoord."
+        },
+        {
+          "type": "ordenen",
+          "tag": "voegwoorden",
+          "nl": "Hij wast zijn gezicht en drinkt daarna een kopje koffie.",
+          "woorden": [
+            "يَغْسِلُ",
+            "وَجْهَهُ،",
+            "ثُمَّ",
+            "يَشْرَبُ",
+            "فِنْجانَ",
+            "قَهْوَةٍ."
+          ],
+          "uitleg": "{ar|ثُمَّ} = daarna."
+        },
+        {
+          "type": "ordenen",
+          "tag": "voegwoorden",
+          "nl": "Daarna leest hij wat of kijkt hij tv.",
+          "woorden": [
+            "ثُمَّ",
+            "يَقْرَأُ",
+            "قَليلًا",
+            "أَوْ",
+            "يُشاهِدُ",
+            "التِّلْفازَ."
+          ],
+          "uitleg": "{ar|أَوْ} = of."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "voegwoorden",
+          "bron": "omdat zij (ev) moe is",
+          "antwoorden": [
+            "لِأَنَّها مُتْعَبَةٌ"
+          ],
+          "uitleg": "{ar|لِأَنَّها} + gezegde (nominatief)."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het bedrijf",
+          "antwoorden": [
+            "الشَّرِكَةُ"
+          ],
+          "uitleg": "{ar|الشَّرِكَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "voegwoorden",
+          "bron": "دَرَسْتُ ثُمَّ نِمْتُ.",
+          "antwoorden": [
+            "ik studeerde en daarna sliep ik",
+            "ik heb gestudeerd en daarna heb ik geslapen",
+            "ik studeerde en ging daarna slapen",
+            "ik heb gestudeerd en ben daarna gaan slapen"
+          ],
+          "uitleg": "{ar|ثُمَّ} = daarna."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُمْتِعٌ",
+            "nl": "leuk"
+          },
+          {
+            "ar": "مُتْعِبٌ",
+            "nl": "vermoeiend"
+          },
+          {
+            "ar": "جائِعٌ",
+            "nl": "hongerig"
+          },
+          {
+            "ar": "فِنْجانٌ",
+            "nl": "kopje"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Wat doet Sāmī om vijf uur?",
+        "opties": [
+          "Hij komt thuis en kookt.",
+          "Hij gaat naar zijn werk.",
+          "Hij belt zijn moeder."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَعودُ إِلى البَيْتِ … فَيَطْبُخُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Wat is Sāmī van beroep?",
+        "opties": [
+          "ingenieur",
+          "leraar",
+          "kok"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُهَنْدِسًا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voegwoorden",
+        "vraag": "Welk voegwoord betekent *daarna, met tijd ertussen*?",
+        "opties": [
+          "ثُمَّ",
+          "فَـ",
+          "أَوْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ثُمَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voegwoorden",
+        "vraag": "'Maar hij' is ...",
+        "opties": [
+          "لٰكِنَّهُ",
+          "لٰكِنْ هُوَهُ",
+          "لِأَنَّهُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لٰكِنَّ} + suffix."
+      },
+      {
+        "type": "luisteren",
+        "tag": "leesvaardigheid",
+        "tekst": "يَخْرُجُ مِنَ البَيْتِ في السّاعَةِ السّابِعَةِ",
+        "vraag": "Wanneer gaat hij de deur uit?",
+        "opties": [
+          "om zeven uur",
+          "om zes uur",
+          "om negen uur"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|السّابِعَةِ} = zeven."
+      },
+      {
+        "type": "luisteren",
+        "tag": "voegwoorden",
+        "tekst": "أَشْرَبُ شايًا أَوْ قَهْوَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik drink thee of koffie.",
+          "Ik drink thee en koffie.",
+          "Ik drink geen thee."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَوْ} = of."
+      },
+      {
+        "type": "invullen",
+        "tag": "voegwoorden",
+        "zin": "أُحِبُّ القَهْوَةَ، ___ لا أَشْرَبُها في المَساءِ.",
+        "nl": "Ik houd van koffie, maar ik drink het 's avonds niet.",
+        "woordbank": [
+          "لٰكِنْ",
+          "لِأَنَّ",
+          "ثُمَّ"
+        ],
+        "antwoord": [
+          "لٰكِنْ",
+          "لكن"
+        ],
+        "uitleg": "{ar|لٰكِنْ} + zin."
+      },
+      {
+        "type": "invullen",
+        "tag": "voegwoorden",
+        "zin": "اِتَّصَلْتُ بِهِ ___ ما جاءَ.",
+        "nl": "Ik belde hem, omdat hij niet kwam.",
+        "woordbank": [
+          "لِأَنَّهُ",
+          "لِأَنَّ",
+          "فَـ"
+        ],
+        "antwoord": [
+          "لِأَنَّهُ"
+        ],
+        "uitleg": "{ar|لِأَنَّ} + suffix vóór een werkwoord.",
+        "review": {
+          "status": "onzeker",
+          "note": "جاءَ (hamza- en hol werkwoord) is nieuw; controleren."
+        }
+      },
+      {
+        "type": "vervoegen",
+        "tag": "voegwoorden",
+        "instructie": "Maak 'omdat …' met een suffix.",
+        "rijen": [
+          {
+            "label": "omdat hij",
+            "antwoord": "لِأَنَّهُ",
+            "tr": "li-annahu"
+          },
+          {
+            "label": "omdat zij (ev)",
+            "antwoord": "لِأَنَّها",
+            "tr": "li-annahā"
+          },
+          {
+            "label": "omdat ik",
+            "antwoord": "لِأَنَّني",
+            "tr": "li-annanī"
+          }
+        ],
+        "uitleg": "Ook {ar|لِأَنّي} is goed bij *ik*."
+      },
+      {
+        "type": "ordenen",
+        "tag": "voegwoorden",
+        "nl": "Gisteren was hij erg moe, dus ging hij om negen uur slapen.",
+        "woorden": [
+          "أَمْسِ",
+          "كانَ",
+          "مُتْعَبًا",
+          "جِدًّا،",
+          "فَنامَ",
+          "في",
+          "السّاعَةِ",
+          "التّاسِعَةِ."
+        ],
+        "uitleg": "{ar|فَـ} = dus."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "voetbal",
+        "antwoorden": [
+          "كُرَةُ القَدَمِ"
+        ],
+        "uitleg": "{ar|كُرَةُ القَدَمِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "voegwoorden",
+        "bron": "يَسْكُنُ وَحْدَهُ.",
+        "antwoorden": [
+          "hij woont alleen"
+        ],
+        "uitleg": "{ar|وَحْدَهُ} = alleen (hij)."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "يَأْكُلُ مَعَ زُمَلائِهِ في مَطْعَمٍ.",
+        "antwoorden": [
+          "hij eet met zijn collega's in een restaurant",
+          "hij eet met zijn collegas in een restaurant"
+        ],
+        "uitleg": "{ar|زُمَلاءُ} = collega's."
+      }
+    ]
+  }
+}

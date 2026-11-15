@@ -1,0 +1,116 @@
+{
+  "id": "j2-p6-d10",
+  "code": "D10",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: de weg vragen en de taxi",
+  "thema": "Je weg vinden en een petit taxi nemen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de weg vragen en een routebeschrijving begrijpen in het Darija.",
+    "een taxichauffeur zeggen waar je heen wilt en waar hij moet stoppen.",
+    "richtingen (rechts, links, rechtdoor) in het Darija gebruiken."
+  ],
+
+  "woorden": [
+    { "id": "j2-p6-d10-w01", "ar": "نيشان", "tr": "nīšān", "nl": ["rechtdoor"], "soort": "bijwoord", "notitie": "Fusha: {ar|مُسْتَقيمًا}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w02", "ar": "على ليمن", "tr": "ʿla limən", "nl": ["naar rechts"], "soort": "uitdrukking", "notitie": "Fusha: {ar|إِلى اليَمينِ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w03", "ar": "على ليسر", "tr": "ʿla lisər", "nl": ["naar links"], "soort": "uitdrukking", "notitie": "Fusha: {ar|إِلى اليَسارِ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w04", "ar": "دور", "tr": "dūr", "nl": ["sla af!", "draai!"], "soort": "werkwoord (gebiedende wijs)", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w05", "ar": "وقف هنا", "tr": "wqəf hna", "nl": ["stop hier"], "soort": "uitdrukking", "notitie": "Ook {ar|حبس هنا}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w06", "ar": "تما", "tr": "təmma", "nl": ["daar"], "soort": "bijwoord", "notitie": "Fusha: {ar|هُناكَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w07", "ar": "الطاكسي", "tr": "ṭṭāksi", "nl": ["de taxi"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w08", "ar": "الكونتور", "tr": "lkontōr", "nl": ["de taximeter"], "soort": "zelfstandig naamwoord", "notitie": "Uit het Frans *compteur*.", "review": { "status": "onzeker", "note": "Darija-spelling bevestigen." } },
+    { "id": "j2-p6-d10-w09", "ar": "ديني ل", "tr": "dīni l-", "nl": ["breng me naar"], "soort": "uitdrukking", "notitie": "{ar|ديني للمحطة} = breng me naar het station.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w10", "ar": "البلاصة", "tr": "lblāṣa", "nl": ["de plek", "de plaats"], "soort": "zelfstandig naamwoord", "notitie": "Uit het Spaans *plaza*.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w11", "ar": "الزنقة", "tr": "zzənqa", "nl": ["de straat", "het steegje"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w12", "ar": "قدام", "tr": "qddām", "nl": ["voor", "tegenover"], "soort": "voorzetsel", "notitie": "Fusha: {ar|أَمامَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w13", "ar": "مور", "tr": "mūṛ", "nl": ["achter"], "soort": "voorzetsel", "notitie": "Fusha: {ar|خَلْفَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w14", "ar": "حدا", "tr": "ḥda", "nl": ["naast"], "soort": "voorzetsel", "notitie": "Fusha: {ar|بِجانِبِ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w15", "ar": "تلف", "tr": "tləf", "nl": ["verdwalen"], "soort": "werkwoord", "notitie": "{ar|تلفت} = ik ben verdwaald.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d10-w16", "ar": "ضو الأحمر", "tr": "ḍḍu lḥmər", "nl": ["rood licht (verkeerslicht)"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De weg in het Darija",
+      "blokken": [
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["rechtdoor", "مُسْتَقيمًا", "نيشان|nīšān"],
+          ["naar rechts", "إِلى اليَمينِ", "على ليمن|ʿla limən"],
+          ["naar links", "إِلى اليَسارِ", "على ليسر|ʿla lisər"],
+          ["daar", "هُناكَ", "تما|təmma"],
+          ["voor / achter / naast", "أَمامَ / خَلْفَ / بِجانِبِ", "قدام / مور / حدا|qddām / mūṛ / ḥda"]
+        ] },
+        { "type": "waarom", "md": "In een Marokkaanse *petit taxi* geldt de taximeter ({ar|الكونتور}). Vraag bij het instappen {ar|واش خدام الكونتور؟} (staat de meter aan?). Het werkwoord {ar|دور} (draai!) is dezelfde wortel als Fusha {ar|دارَ} (draaien) en {ar|دَوْرٌ} (rol, beurt).", "review": { "status": "onzeker", "note": "Praktische tip over de taximeter en de zin واش خدام الكونتور laten bevestigen." } }
+      ]
+    },
+    {
+      "titel": "In de taxi",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "عافاك، ديني لمحطة القطار.", "tr": "ʿāfāk, dīni l-mḥəṭṭat ləṭṭran.", "nl": "Alstublieft, breng me naar het treinstation.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken (القطار / الطران)." } },
+          { "ar": "سير نيشان، ومن بعد دور على ليمن.", "tr": "sīr nīšān, w-mən bəʿd dūr ʿla limən.", "nl": "Rij rechtdoor, en sla daarna rechtsaf.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "وقف هنا، قدام الجامع.", "tr": "wqəf hna, qddām ljāməʿ.", "nl": "Stop hier, voor de moskee.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "سمحلي، تلفت. فين كاينة البوسطة؟", "tr": "sməḥli, tləft. fīn kāyna lbosṭa?", "nl": "Sorry, ik ben verdwaald. Waar is het postkantoor?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken (البوسطة)." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-weg", "paren": [
+          { "ar": "نيشان", "nl": "rechtdoor", "woord": "j2-p6-d10-w01" },
+          { "ar": "على ليمن", "nl": "naar rechts", "woord": "j2-p6-d10-w02" },
+          { "ar": "على ليسر", "nl": "naar links", "woord": "j2-p6-d10-w03" },
+          { "ar": "قدام", "nl": "voor", "woord": "j2-p6-d10-w12" },
+          { "ar": "مور", "nl": "achter", "woord": "j2-p6-d10-w13" },
+          { "ar": "حدا", "nl": "naast", "woord": "j2-p6-d10-w14" }
+        ], "uitleg": "Richtingen en plaatsen." },
+        { "type": "luisteren", "tag": "darija-weg", "tekst": "وقف هنا", "vraag": "Wat zeg je tegen de chauffeur?", "opties": ["Stop hier.", "Rij door.", "Sla links af."], "juist": 0, "uitleg": "*wqəf hna* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "In de taxi",
+      "items": [
+        { "type": "invullen", "tag": "darija-weg", "zin": "سير ___، ومن بعد دور على ليسر.", "nl": "Rij rechtdoor, en sla daarna linksaf.", "woordbank": ["نيشان", "تما", "مور"], "antwoord": ["نيشان"], "uitleg": "{ar|نيشان} = rechtdoor." },
+        { "type": "invullen", "tag": "darija-weg", "zin": "___ للمحطة عافاك.", "nl": "Breng me naar het station, alstublieft.", "woordbank": ["ديني", "وقف", "دور"], "antwoord": ["ديني"], "uitleg": "{ar|ديني} = breng me." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|هُناكَ} is in het Darija ...", "opties": ["تما", "هنا", "حدا"], "juist": 0, "uitleg": "{ar|تما} = daar." },
+        { "type": "ordenen", "tag": "darija-weg", "nl": "Stop hier, voor de moskee.", "woorden": ["وقف", "هنا،", "قدام", "الجامع."], "uitleg": "{ar|قدام} = voor." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-weg", "bron": "naar links (Darija)", "antwoorden": ["على ليسر"], "uitleg": "{ar|على ليسر}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-weg", "bron": "تلفت", "tr": "tləft", "antwoorden": ["ik ben verdwaald", "ik ben de weg kwijt"], "uitleg": "{ar|تلف} = verdwalen." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-weg", "paren": [
+        { "ar": "الزنقة", "nl": "straat" },
+        { "ar": "البلاصة", "nl": "plek" },
+        { "ar": "الطاكسي", "nl": "taxi" },
+        { "ar": "تما", "nl": "daar" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "darija-weg", "vraag": "'Sla rechtsaf' in het Darija is ...", "opties": ["دور على ليمن", "دور على ليسر", "سير نيشان"], "juist": 0, "uitleg": "{ar|ليمن} = rechts." },
+      { "type": "meerkeuze", "tag": "darija-weg", "vraag": "Wat is {ar|الكونتور}?", "opties": ["de taximeter", "de chauffeur", "het station"], "juist": 0, "uitleg": "Frans *compteur*." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|خَلْفَ} is in het Darija ...", "opties": ["مور", "قدام", "حدا"], "juist": 0, "uitleg": "{ar|مور} = achter." },
+      { "type": "luisteren", "tag": "darija-weg", "tekst": "سير نيشان", "vraag": "Wat hoor je?", "opties": ["Rij rechtdoor.", "Stop hier.", "Draai om."], "juist": 0, "uitleg": "*sīr nīšān*" },
+      { "type": "luisteren", "tag": "darija-weg", "tekst": "حدا البنكة", "vraag": "Waar is het?", "opties": ["naast de bank", "achter de bank", "tegenover de bank"], "juist": 0, "uitleg": "{ar|حدا} = naast.", "review": { "status": "onzeker", "note": "البنكة (de bank) Darija-vorm bevestigen." } },
+      { "type": "invullen", "tag": "darija-weg", "zin": "سمحلي، ___. فين المحطة؟", "nl": "Sorry, ik ben verdwaald. Waar is het station?", "woordbank": ["تلفت", "وقفت", "ديني"], "antwoord": ["تلفت"], "uitleg": "{ar|تلفت} = ik ben verdwaald." },
+      { "type": "invullen", "tag": "darija-weg", "zin": "الدار ديالي ___ الجامع.", "nl": "Mijn huis is achter de moskee.", "woordbank": ["مور", "نيشان", "ديني"], "antwoord": ["مور"], "uitleg": "{ar|مور} = achter." },
+      { "type": "ordenen", "tag": "darija-weg", "nl": "Rij rechtdoor, en sla daarna rechtsaf.", "woorden": ["سير", "نيشان،", "ومن", "بعد", "دور", "على", "ليمن."], "uitleg": "Route in het Darija." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-weg", "bron": "rechtdoor (Darija)", "antwoorden": ["نيشان"], "uitleg": "{ar|نيشان}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-weg", "bron": "stop hier (Darija)", "antwoorden": ["وقف هنا", "حبس هنا"], "uitleg": "{ar|وقف هنا}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-weg", "bron": "ديني للمطار", "tr": "dīni l-lmaṭāṛ", "antwoorden": ["breng me naar het vliegveld", "breng me naar de luchthaven"], "uitleg": "{ar|ديني ل} = breng me naar." }
+    ]
+  }
+}

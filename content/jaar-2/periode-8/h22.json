@@ -1,0 +1,445 @@
+{
+  "id": "j2-p8-h22",
+  "code": "H22",
+  "type": "herhaling",
+  "titel": "Herhaling blok 8A",
+  "thema": "Iḍāfa-ketens, ontkenning, uitzondering en maṣdars",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "iḍāfa-ketens met bijvoeglijk naamwoord correct maken.",
+    "de juiste ontkenning en uitzondering kiezen.",
+    "maṣdars en leenwoorden herkennen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 85–88 en D16.",
+  "grammatica": [
+    {
+      "titel": "Blok 8A in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "iḍāfa-keten",
+              "alleen laatste lid bepaald",
+              "مَكْتَبُ رَئيسِ التَّحْريرِ"
+            ],
+            [
+              "bijv. nw bij iḍāfa",
+              "na de keten, congrueert",
+              "مُديرُ الشَّرِكَةِ الجَديدُ"
+            ],
+            [
+              "ontkenning",
+              "لا / لَمْ / لَنْ / ما / لَيْسَ / غَيْرُ",
+              "غَيْرُ مُمْكِنٍ"
+            ],
+            [
+              "uitzondering",
+              "إِلّا / غَيْرَ / سِوى; لا … إِلّا",
+              "لا أَتَكَلَّمُ إِلّا العَرَبِيَّةَ"
+            ],
+            [
+              "maṣdar",
+              "per vorm een vast patroon",
+              "تَصَفُّحٌ، اِسْتِخْدامٌ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met deze middelen lees je al echte krantenzinnen: lange iḍāfa-ketens, maṣdars als onderwerp, en ontkenningen of beperkingen die de betekenis sturen."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "idafa-keten",
+          "vraag": "'De auto van de vader van mijn vriend' is ...",
+          "opties": [
+            "سَيّارَةُ أَبي صَديقي",
+            "السَّيّارَةُ أَبي صَديقي",
+            "سَيّارَةُ الأَبِ صَديقي"
+          ],
+          "juist": 0,
+          "uitleg": "Keten; أَبي = genitief van أَبو (vijf namen)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ontkenning-totaal",
+          "vraag": "'Hij is niet thuis' is ...",
+          "opties": [
+            "لَيْسَ في البَيْتِ",
+            "لَمْ في البَيْتِ",
+            "لا في البَيْتِ"
+          ],
+          "juist": 0,
+          "uitleg": "Zonder werkwoord."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitzondering",
+          "vraag": "'Ik heb alleen een fiets' is ...",
+          "opties": [
+            "لَيْسَ عِنْدي إِلّا دَرّاجَةٌ",
+            "عِنْدي إِلّا دَرّاجَةٌ",
+            "لا دَرّاجَةٌ عِنْدي"
+          ],
+          "juist": 0,
+          "uitleg": "Beperking."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "شائِعَةٌ",
+              "nl": "gerucht",
+              "woord": "j2-p8-l85-w11"
+            },
+            {
+              "ar": "مُحاضَرَةٌ",
+              "nl": "college",
+              "woord": "j2-p8-l86-w10"
+            },
+            {
+              "ar": "تُراثٌ",
+              "nl": "erfgoed",
+              "woord": "j2-p8-l87-w04"
+            },
+            {
+              "ar": "خُصوصِيَّةٌ",
+              "nl": "privacy",
+              "woord": "j2-p8-l88-w11"
+            },
+            {
+              "ar": "السبيطار",
+              "nl": "ziekenhuis (Darija)",
+              "woord": "j2-p8-d16-w06"
+            },
+            {
+              "ar": "مَصْدَرٌ",
+              "nl": "bron",
+              "woord": "j2-p8-l85-w09"
+            }
+          ],
+          "uitleg": "Woorden uit blok 8A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "ontkenning-totaal",
+          "zin": "___ أَذْهَبَ إِلى الحَفْلَةِ.",
+          "nl": "Ik zal niet naar het feest gaan.",
+          "antwoord": [
+            "لَنْ"
+          ],
+          "uitleg": "Toekomst.",
+          "woordbank": [
+            "لَنْ",
+            "لَمْ",
+            "لَيْسَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "uitzondering",
+          "zin": "زُرْنا كُلَّ الغُرَفِ ___ المَطْبَخَ.",
+          "nl": "We bekeken alle kamers behalve de keuken.",
+          "antwoord": [
+            "إِلّا"
+          ],
+          "uitleg": "+ accusatief.",
+          "woordbank": [
+            "إِلّا",
+            "سِوى",
+            "لا"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "idafa-keten",
+          "nl": "De nieuwe directeur van het bedrijf is aardig.",
+          "woorden": [
+            "مُديرُ",
+            "الشَّرِكَةِ",
+            "الجَديدُ",
+            "لَطيفٌ."
+          ],
+          "uitleg": "Bijv. nw na iḍāfa."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-leenwoorden",
+          "tekst": "خديت الطوبيس",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik nam de bus.",
+            "Ik nam de taxi.",
+            "Ik ging lopen."
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "masdar-afgeleid",
+          "bron": "het gebruik",
+          "antwoorden": [
+            "الاِسْتِخْدامُ"
+          ],
+          "uitleg": "Maṣdar vorm X."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "ontkenning-totaal",
+          "bron": "هٰذا غَيْرُ مَقْبولٍ.",
+          "antwoorden": [
+            "dit is onaanvaardbaar",
+            "dat is onaanvaardbaar",
+            "dit is niet aanvaardbaar"
+          ],
+          "uitleg": "{ar|غَيْرُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "uitzondering",
+          "bron": "لا أَشْرَبُ إِلّا الماءَ.",
+          "antwoorden": [
+            "ik drink alleen water",
+            "ik drink alleen maar water"
+          ],
+          "uitleg": "{ar|لا … إِلّا}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "Welk woord in {ar|بابُ بَيْتِ المُديرِ} heeft ال?",
+        "opties": [
+          "المُديرِ",
+          "بابُ",
+          "بَيْتِ"
+        ],
+        "juist": 0,
+        "uitleg": "Laatste lid."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "'Het kantoor van de nieuwe directeur' is ...",
+        "opties": [
+          "مَكْتَبُ المُديرِ الجَديدِ",
+          "مَكْتَبُ المُديرِ الجَديدُ",
+          "المَكْتَبُ المُديرِ الجَديدِ"
+        ],
+        "juist": 0,
+        "uitleg": "Bijv. nw bij المُديرِ → genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "'Ik heb niet geslapen' (formeel) is ...",
+        "opties": [
+          "لَمْ أَنَمْ",
+          "لَنْ أَنامَ",
+          "لا نِمْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "{ar|غَيْرُ} wordt gevolgd door ...",
+        "opties": [
+          "genitief",
+          "accusatief",
+          "een werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitzondering",
+        "vraag": "'Alleen jij' (onderwerp, ontkennende zin) is ...",
+        "opties": [
+          "لا … إِلّا أَنْتَ",
+          "إِلّا أَنْتَ لا",
+          "غَيْرُكَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا … إِلّا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ontkenning-totaal",
+        "tekst": "لَيْسَ الطَّقْسُ حارًّا اليَوْمَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het is vandaag niet warm.",
+          "Het was gisteren warm.",
+          "Het wordt morgen warm."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْسَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "masdar-afgeleid",
+        "tekst": "التَّواصُلُ مُهِمٌّ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Contact houden is belangrijk.",
+          "Verbinding is traag.",
+          "Communicatie is moeilijk."
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar vorm VI."
+      },
+      {
+        "type": "invullen",
+        "tag": "idafa-keten",
+        "zin": "مُديرُ ___ المَدينَةِ",
+        "nl": "de directeur van het ziekenhuis van de stad",
+        "antwoord": [
+          "مُسْتَشْفى"
+        ],
+        "uitleg": "Tussenlid zonder ال.",
+        "woordbank": [
+          "مُسْتَشْفى",
+          "المُسْتَشْفى",
+          "مُسْتَشْفاهُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "uitzondering",
+        "zin": "حَضَرَ الطُّلّابُ ___ اثْنَيْنِ.",
+        "nl": "De studenten kwamen, op twee na.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "{ar|إِلّا} + accusatief.",
+        "woordbank": [
+          "إِلّا",
+          "غَيْرُ",
+          "سِوى"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "masdar-afgeleid",
+        "zin": "شُكْرًا عَلى ___.",
+        "nl": "Bedankt voor je deelname.",
+        "antwoord": [
+          "مُشارَكَتِكَ"
+        ],
+        "uitleg": "Maṣdar vorm III + suffix.",
+        "woordbank": [
+          "مُشارَكَتِكَ",
+          "شارَكْتَ",
+          "مُشارِكِكَ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "نَفى",
+            "nl": "ontkennen"
+          },
+          {
+            "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+            "nl": "studiebeurs"
+          },
+          {
+            "ar": "تَسامُحٌ",
+            "nl": "tolerantie"
+          },
+          {
+            "ar": "قَرْصَنَةٌ",
+            "nl": "hacken"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "ontkenning-totaal",
+        "nl": "Hij was niet bij het college.",
+        "woorden": [
+          "لَمْ",
+          "يَحْضُرِ",
+          "المُحاضَرَةَ."
+        ],
+        "uitleg": "{ar|لَمْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ontkenning-totaal",
+        "bron": "onmogelijk",
+        "antwoorden": [
+          "غَيْرُ مُمْكِنٍ",
+          "مُسْتَحيلٌ"
+        ],
+        "uitleg": "{ar|غَيْرُ مُمْكِنٍ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "idafa-keten",
+        "bron": "حُرِّيَّةُ الصَّحافَةِ مُهِمَّةٌ.",
+        "antwoorden": [
+          "persvrijheid is belangrijk",
+          "de persvrijheid is belangrijk"
+        ],
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-leenwoorden",
+        "bron": "ف الفاكانس",
+        "antwoorden": [
+          "in de vakantie"
+        ],
+        "uitleg": "Darija.",
+        "tr": "f-lfākāns"
+      }
+    ]
+  }
+}

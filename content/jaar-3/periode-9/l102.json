@@ -1,0 +1,626 @@
+{
+  "id": "j3-p9-l102",
+  "code": "L102",
+  "type": "les",
+  "titel": "Maatschappij",
+  "thema": "Werkloosheid, migratie en armoede; oorzaak en doel",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een oorzaak geven met لِأَنَّ en بِسَبَبِ.",
+    "een doel uitdrukken met لِكَيْ، حَتّى en مِنْ أَجْلِ.",
+    "gevolgen formuleren met لِذا en أَدّى إِلى."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l102-w01",
+      "ar": "لِكَيْ",
+      "tr": "li-kay",
+      "nl": [
+        "opdat, om te"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ manṣūb."
+    },
+    {
+      "id": "j3-p9-l102-w02",
+      "ar": "بِسَبَبِ",
+      "tr": "bi-sababi",
+      "nl": [
+        "vanwege, door"
+      ],
+      "soort": "voorzetsel",
+      "notitie": "+ genitief."
+    },
+    {
+      "id": "j3-p9-l102-w03",
+      "ar": "لِذا",
+      "tr": "li-ḏā",
+      "nl": [
+        "daarom"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l102-w04",
+      "ar": "نَتيجَةً لِـ",
+      "tr": "natījatan li-",
+      "nl": [
+        "als gevolg van"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l102-w05",
+      "ar": "مِنْ أَجْلِ",
+      "tr": "min ajli",
+      "nl": [
+        "voor, ten behoeve van"
+      ],
+      "soort": "voorzetsel"
+    },
+    {
+      "id": "j3-p9-l102-w06",
+      "ar": "بِطالَةٌ",
+      "tr": "biṭāla",
+      "nl": [
+        "werkloosheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l102-w07",
+      "ar": "فَقْرٌ",
+      "tr": "faqr",
+      "nl": [
+        "armoede"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l102-w08",
+      "ar": "هِجْرَةٌ",
+      "tr": "hijra",
+      "nl": [
+        "migratie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l102-w09",
+      "ar": "سَكَنٌ",
+      "tr": "sakan",
+      "nl": [
+        "huisvesting"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l102-w10",
+      "ar": "غَلاءُ المَعيشَةِ",
+      "tr": "ġalāʾu l-maʿīša",
+      "nl": [
+        "hoge kosten van levensonderhoud"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l102-w11",
+      "ar": "مُجْتَمَعٌ مَدَنِيٌّ",
+      "tr": "mujtamaʿun madaniyy",
+      "nl": [
+        "maatschappelijk middenveld"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l102-w12",
+      "ar": "عَدالَةٌ اِجْتِماعِيَّةٌ",
+      "tr": "ʿadālatun ijtimāʿiyya",
+      "nl": [
+        "sociale rechtvaardigheid"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l102-w13",
+      "ar": "حَلٌّ",
+      "tr": "ḥall",
+      "nl": [
+        "oplossing"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|حُلولٌ}."
+    },
+    {
+      "id": "j3-p9-l102-w14",
+      "ar": "أَدّى إِلى",
+      "tr": "addā ilā",
+      "nl": [
+        "leiden tot"
+      ],
+      "soort": "werkwoord (II, defectief)"
+    },
+    {
+      "id": "j3-p9-l102-w16",
+      "ar": "قَلَّلَ مِنْ",
+      "tr": "qallala min",
+      "nl": [
+        "verminderen"
+      ],
+      "soort": "werkwoord (II)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Oorzaak en doel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Soort",
+            "Wat volgt",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "لِأَنَّ",
+              "oorzaak",
+              "naamwoord / suffix",
+              "لِأَنَّ الإيجارَ غالٍ"
+            ],
+            [
+              "بِسَبَبِ",
+              "oorzaak",
+              "naamwoord (genitief)",
+              "بِسَبَبِ غَلاءِ المَعيشَةِ"
+            ],
+            [
+              "لِذا / لِذٰلِكَ",
+              "gevolg",
+              "zin",
+              "لِذا هاجَرَ"
+            ],
+            [
+              "لِكَيْ / كَيْ / لِـ",
+              "doel",
+              "muḍāriʿ (manṣūb)",
+              "لِكَيْ يَجِدَ عَمَلًا"
+            ],
+            [
+              "حَتّى",
+              "doel / tot",
+              "muḍāriʿ (manṣūb)",
+              "حَتّى يَعيشَ أَفْضَلَ"
+            ],
+            [
+              "مِنْ أَجْلِ",
+              "doel",
+              "naamwoord / maṣdar",
+              "مِنْ أَجْلِ مُسْتَقْبَلٍ أَفْضَلَ"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Twee manieren om dezelfde reden te geven: met een **zin** ({ar|لِأَنَّ الإيجارَ غالٍ}) of met een **naamwoord** ({ar|بِسَبَبِ غَلاءِ الإيجارِ}). Schrijftaal kiest vaak het naamwoord: compacter en formeler. Datzelfde geldt voor het doel: {ar|لِكَيْ يَعْمَلَ} of {ar|مِنْ أَجْلِ العَمَلِ}."
+        }
+      ]
+    },
+    {
+      "titel": "Maatschappelijke kwesties",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "هاجَرَ كَثيرٌ مِنَ الشَّبابِ بِسَبَبِ البِطالَةِ.",
+              "tr": "hājara kaṯīrun mina š-šabābi bi-sababi l-biṭāla.",
+              "nl": "Veel jongeren zijn geëmigreerd vanwege de werkloosheid."
+            },
+            {
+              "ar": "يَعْمَلُ في وَظيفَتَيْنِ لِكَيْ يَدْفَعَ الإيجارَ.",
+              "tr": "yaʿmalu fī waẓīfatayni li-kay yadfaʿa l-ījār.",
+              "nl": "Hij werkt twee banen om de huur te betalen."
+            },
+            {
+              "ar": "أَدّى غَلاءُ المَعيشَةِ إِلى زِيادَةِ الفَقْرِ.",
+              "tr": "addā ġalāʾu l-maʿīšati ilā ziyādati l-faqr.",
+              "nl": "De hoge kosten van levensonderhoud leidden tot meer armoede."
+            },
+            {
+              "ar": "الأَسْعارُ مُرْتَفِعَةٌ، لِذا يَجِبُ أَنْ نُوَفِّرَ.",
+              "tr": "al-asʿāru murtafiʿa, li-ḏā yajibu an nuwaffir.",
+              "nl": "De prijzen zijn hoog, daarom moeten we sparen."
+            },
+            {
+              "ar": "نَعْمَلُ مِنْ أَجْلِ عَدالَةٍ اجْتِماعِيَّةٍ.",
+              "tr": "naʿmalu min ajli ʿadālatin ijtimāʿiyya.",
+              "nl": "We werken voor sociale rechtvaardigheid."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بِطالَةٌ",
+              "nl": "werkloosheid",
+              "woord": "j3-p9-l102-w06"
+            },
+            {
+              "ar": "فَقْرٌ",
+              "nl": "armoede",
+              "woord": "j3-p9-l102-w07"
+            },
+            {
+              "ar": "هِجْرَةٌ",
+              "nl": "migratie",
+              "woord": "j3-p9-l102-w08"
+            },
+            {
+              "ar": "سَكَنٌ",
+              "nl": "huisvesting",
+              "woord": "j3-p9-l102-w09"
+            },
+            {
+              "ar": "حَلٌّ",
+              "nl": "oplossing",
+              "woord": "j3-p9-l102-w13"
+            },
+            {
+              "ar": "سَبَبٌ",
+              "nl": "oorzaak"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "oorzaak-doel",
+          "tekst": "هاجَرَ بِسَبَبِ البِطالَةِ",
+          "vraag": "Waarom emigreerde hij?",
+          "opties": [
+            "vanwege de werkloosheid",
+            "om te studeren",
+            "voor zijn familie"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بِسَبَبِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Oorzaak en doel",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "oorzaak-doel",
+          "zin": "يَدْرُسُ ___ يَجِدَ عَمَلًا.",
+          "nl": "Hij studeert om werk te vinden.",
+          "antwoord": [
+            "لِكَيْ"
+          ],
+          "uitleg": "Doel + manṣūb.",
+          "woordbank": [
+            "لِكَيْ",
+            "لِأَنَّ",
+            "بِسَبَبِ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "oorzaak-doel",
+          "zin": "تَأَخَّرْتُ ___ الزَّحْمَةِ.",
+          "nl": "Ik was te laat vanwege de file.",
+          "antwoord": [
+            "بِسَبَبِ"
+          ],
+          "uitleg": "+ naamwoord.",
+          "woordbank": [
+            "بِسَبَبِ",
+            "لِأَنَّ",
+            "لِكَيْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "oorzaak-doel",
+          "zin": "تَأَخَّرْتُ ___ الطَّريقَ كانَ مُزْدَحِمًا.",
+          "nl": "Ik was te laat omdat de weg druk was.",
+          "antwoord": [
+            "لِأَنَّ"
+          ],
+          "uitleg": "+ zin.",
+          "woordbank": [
+            "لِأَنَّ",
+            "بِسَبَبِ",
+            "لِكَيْ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-doel",
+          "vraag": "Wat betekent {ar|أَدّى إِلى}?",
+          "opties": [
+            "leiden tot",
+            "komen uit",
+            "verminderen"
+          ],
+          "juist": 0,
+          "uitleg": "Gevolg."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-doel",
+          "vraag": "Na {ar|لِكَيْ} staat het werkwoord in de ...",
+          "opties": [
+            "manṣūb",
+            "majzūm",
+            "marfūʿ"
+          ],
+          "juist": 0,
+          "uitleg": "Doel."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "oorzaak-doel",
+          "nl": "Hij werkt twee banen om de huur te betalen.",
+          "woorden": [
+            "يَعْمَلُ",
+            "في",
+            "وَظيفَتَيْنِ",
+            "لِكَيْ",
+            "يَدْفَعَ",
+            "الإيجارَ."
+          ],
+          "uitleg": "{ar|لِكَيْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "oorzaak-doel",
+          "bron": "vanwege de regen",
+          "antwoorden": [
+            "بِسَبَبِ المَطَرِ"
+          ],
+          "uitleg": "{ar|بِسَبَبِ} + genitief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "oorzaak-doel",
+          "bron": "الأَسْعارُ مُرْتَفِعَةٌ، لِذا يَجِبُ أَنْ نُوَفِّرَ.",
+          "antwoorden": [
+            "de prijzen zijn hoog daarom moeten we sparen",
+            "de prijzen zijn hoog dus moeten we sparen"
+          ],
+          "uitleg": "{ar|لِذا}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "غَلاءُ المَعيشَةِ",
+            "nl": "hoge levenskosten"
+          },
+          {
+            "ar": "مُجْتَمَعٌ مَدَنِيٌّ",
+            "nl": "maatschappelijk middenveld"
+          },
+          {
+            "ar": "عَدالَةٌ اِجْتِماعِيَّةٌ",
+            "nl": "sociale rechtvaardigheid"
+          },
+          {
+            "ar": "قَلَّلَ مِنْ",
+            "nl": "verminderen"
+          },
+          {
+            "ar": "نَتيجَةً لِـ",
+            "nl": "als gevolg van"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "Welk woord drukt een DOEL uit?",
+        "opties": [
+          "لِكَيْ",
+          "لِأَنَّ",
+          "بِسَبَبِ"
+        ],
+        "juist": 0,
+        "uitleg": "Doel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "'Vanwege de armoede' is ...",
+        "opties": [
+          "بِسَبَبِ الفَقْرِ",
+          "لِأَنَّ الفَقْرُ",
+          "لِكَيْ الفَقْرِ"
+        ],
+        "juist": 0,
+        "uitleg": "+ genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "{ar|لِذا} betekent ...",
+        "opties": [
+          "daarom",
+          "omdat",
+          "opdat"
+        ],
+        "juist": 0,
+        "uitleg": "Gevolg."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "سافَرَ لِكَيْ يَعْمَلَ.",
+          "سافَرَ لِكَيْ يَعْمَلُ.",
+          "سافَرَ لِأَنَّ يَعْمَلُ."
+        ],
+        "juist": 0,
+        "uitleg": "Manṣūb."
+      },
+      {
+        "type": "luisteren",
+        "tag": "oorzaak-doel",
+        "tekst": "نَعْمَلُ مِنْ أَجْلِ مُسْتَقْبَلٍ أَفْضَلَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We werken voor een betere toekomst.",
+          "We werken vanwege de toekomst.",
+          "De toekomst is beter."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنْ أَجْلِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "اِرْتَفَعَتْ نِسْبَةُ البِطالَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De werkloosheid is gestegen.",
+          "De werkloosheid is gedaald.",
+          "Er is geen werkloosheid."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|البِطالَةُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-doel",
+        "zin": "أَدَّتِ الأَزْمَةُ ___ ارْتِفاعِ الأَسْعارِ.",
+        "nl": "De crisis leidde tot een stijging van de prijzen.",
+        "antwoord": [
+          "إِلى",
+          "الى",
+          "إلى"
+        ],
+        "uitleg": "{ar|أَدّى إِلى}",
+        "woordbank": [
+          "إِلى",
+          "مِنْ",
+          "بِـ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-doel",
+        "zin": "اِدَّخَرَ المالَ ___ يَشْتَرِيَ بَيْتًا.",
+        "nl": "Hij spaarde geld om een huis te kopen.",
+        "antwoord": [
+          "حَتّى"
+        ],
+        "uitleg": "{ar|حَتّى} + manṣūb.",
+        "woordbank": [
+          "حَتّى",
+          "لِأَنَّ",
+          "بِسَبَبِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "ما هُوَ ___ المُشْكِلَةِ؟",
+        "nl": "Wat is de oorzaak van het probleem?",
+        "antwoord": [
+          "سَبَبُ"
+        ],
+        "uitleg": "{ar|سَبَبٌ}",
+        "woordbank": [
+          "سَبَبُ",
+          "حَلُّ",
+          "فَقْرُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "oorzaak-doel",
+        "instructie": "Kies: oorzaak of doel.",
+        "rijen": [
+          {
+            "label": "omdat (+ zin)",
+            "antwoord": "لِأَنَّ",
+            "tr": "li-anna"
+          },
+          {
+            "label": "om te (+ manṣūb)",
+            "antwoord": "لِكَيْ",
+            "tr": "li-kay"
+          }
+        ],
+        "uitleg": "Oorzaak · doel."
+      },
+      {
+        "type": "ordenen",
+        "tag": "oorzaak-doel",
+        "nl": "Veel jongeren zijn geëmigreerd vanwege de werkloosheid.",
+        "woorden": [
+          "هاجَرَ",
+          "كَثيرٌ",
+          "مِنَ",
+          "الشَّبابِ",
+          "بِسَبَبِ",
+          "البِطالَةِ."
+        ],
+        "uitleg": "{ar|بِسَبَبِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de oplossing",
+        "antwoorden": [
+          "الحَلُّ"
+        ],
+        "uitleg": "{ar|الحَلُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "oorzaak-doel",
+        "bron": "أَدّى الجَفافُ إِلى ارْتِفاعِ الأَسْعارِ.",
+        "antwoorden": [
+          "de droogte leidde tot hogere prijzen",
+          "de droogte leidde tot een stijging van de prijzen"
+        ],
+        "uitleg": "{ar|أَدّى إِلى}"
+      }
+    ]
+  }
+}

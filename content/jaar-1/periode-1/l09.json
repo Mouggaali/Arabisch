@@ -1,0 +1,187 @@
+{
+  "id": "j1-p1-l09",
+  "code": "L09",
+  "type": "les",
+  "titel": "Getallen 0–10",
+  "thema": "Tellen, telefoonnummers en leeftijd",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "tellen van 0 tot en met 10.",
+    "de Arabisch-Indische cijfers ٠ tot ٩ lezen en schrijven.",
+    "een telefoonnummer opnoemen en verstaan.",
+    "vragen hoe oud iemand is en een leeftijd tot 10 begrijpen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l09-w01", "ar": "صِفْرٌ", "tr": "ṣifr", "nl": ["nul", "0"], "soort": "telwoord", "notitie": "Cijfer: ٠" },
+    { "id": "j1-p1-l09-w02", "ar": "واحِدٌ", "tr": "wāḥid", "nl": ["een", "1"], "soort": "telwoord", "notitie": "Cijfer: ١" },
+    { "id": "j1-p1-l09-w03", "ar": "اِثْنانِ", "tr": "iṯnān", "nl": ["twee", "2"], "soort": "telwoord", "notitie": "Cijfer: ٢. Een dualisvorm." },
+    { "id": "j1-p1-l09-w04", "ar": "ثَلاثَةٌ", "tr": "ṯalāṯa", "nl": ["drie", "3"], "soort": "telwoord", "notitie": "Cijfer: ٣" },
+    { "id": "j1-p1-l09-w05", "ar": "أَرْبَعَةٌ", "tr": "arbaʿa", "nl": ["vier", "4"], "soort": "telwoord", "notitie": "Cijfer: ٤" },
+    { "id": "j1-p1-l09-w06", "ar": "خَمْسَةٌ", "tr": "ḫamsa", "nl": ["vijf", "5"], "soort": "telwoord", "notitie": "Cijfer: ٥" },
+    { "id": "j1-p1-l09-w07", "ar": "سِتَّةٌ", "tr": "sitta", "nl": ["zes", "6"], "soort": "telwoord", "notitie": "Cijfer: ٦" },
+    { "id": "j1-p1-l09-w08", "ar": "سَبْعَةٌ", "tr": "sabʿa", "nl": ["zeven", "7"], "soort": "telwoord", "notitie": "Cijfer: ٧" },
+    { "id": "j1-p1-l09-w09", "ar": "ثَمانِيَةٌ", "tr": "ṯamāniya", "nl": ["acht", "8"], "soort": "telwoord", "notitie": "Cijfer: ٨" },
+    { "id": "j1-p1-l09-w10", "ar": "تِسْعَةٌ", "tr": "tisʿa", "nl": ["negen", "9"], "soort": "telwoord", "notitie": "Cijfer: ٩" },
+    { "id": "j1-p1-l09-w11", "ar": "عَشَرَةٌ", "tr": "ʿašara", "nl": ["tien", "10"], "soort": "telwoord", "notitie": "Cijfer: ١٠" },
+    { "id": "j1-p1-l09-w12", "ar": "رَقْمٌ", "tr": "raqm", "nl": ["nummer", "cijfer"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l09-w13", "ar": "عَدَدٌ", "tr": "ʿadad", "nl": ["getal", "aantal"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l09-w14", "ar": "كَمْ", "tr": "kam", "nl": ["hoeveel"], "soort": "vraagwoord" },
+    { "id": "j1-p1-l09-w15", "ar": "عُمْرٌ", "tr": "ʿumr", "nl": ["leeftijd"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l09-w16", "ar": "كَمْ عُمْرُكَ؟", "tr": "kam ʿumruka?", "nl": ["hoe oud ben je? (tegen een man)"], "soort": "uitdrukking",
+      "notitie": "Tegen een vrouw: {ar|كَمْ عُمْرُكِ؟}. Letterlijk: hoeveel is jouw leeftijd?" },
+    { "id": "j1-p1-l09-w17", "ar": "سَنَةٌ", "tr": "sana", "nl": ["jaar"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|سَنَواتٌ} (*sanawāt*)." },
+    { "id": "j1-p1-l09-w18", "ar": "رَقْمُ الهاتِفِ", "tr": "raqmu l-hātif", "nl": ["telefoonnummer"], "soort": "uitdrukking", "notitie": "Letterlijk: het nummer van de telefoon." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Tellen van 0 tot 10",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Als je **gewoon telt** (een, twee, drie...) of een nummer opnoemt, gebruik je de vormen uit de tabel. De getallen 3 tot en met 10 eindigen dan op ة.",
+          "Als je een getal combineert met een zelfstandig naamwoord (*drie boeken*), gelden er bijzondere regels. Die leer je in les 42. Nu tel je alleen."
+        ] },
+        { "type": "tabel", "kop": ["Cijfer", "Arabisch", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["٠", "صِفْر|ṣifr", "0, nul"],
+          ["١", "واحِد|wāḥid", "1, een"],
+          ["٢", "اِثْنان|iṯnān", "2, twee"],
+          ["٣", "ثَلاثَة|ṯalāṯa", "3, drie"],
+          ["٤", "أَرْبَعَة|arbaʿa", "4, vier"],
+          ["٥", "خَمْسَة|ḫamsa", "5, vijf"],
+          ["٦", "سِتَّة|sitta", "6, zes"],
+          ["٧", "سَبْعَة|sabʿa", "7, zeven"],
+          ["٨", "ثَمانِيَة|ṯamāniya", "8, acht"],
+          ["٩", "تِسْعَة|tisʿa", "9, negen"],
+          ["١٠", "عَشَرَة|ʿašara", "10, tien"]
+        ] },
+        { "type": "letop", "md": "Arabisch schrijf je van rechts naar links, maar **getallen schrijf je van links naar rechts**, net als bij ons: ١٠ is tien, ٢٥ is vijfentwintig." }
+      ]
+    },
+    {
+      "titel": "Twee soorten cijfers",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In het Midden-Oosten (Egypte, de Golf, de Levant) gebruikt men de **Arabisch-Indische cijfers**: ٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩.",
+          "In de Maghreb (Marokko, Algerije, Tunesië) gebruikt men vooral dezelfde cijfers als wij: 0 1 2 3 ... Die heten in het Arabisch ook wel *Arabische cijfers*, omdat Europa ze via de Arabische wereld leerde kennen."
+        ] },
+        { "type": "waarom", "md": "Je moet beide systemen herkennen. In kranten, prijskaartjes en schoolboeken uit het Midden-Oosten zie je ٣ en ٧, in Marokko 3 en 7. Let vooral op ٥ (vijf, lijkt op een 0) en ٠ (nul, een puntje), en op ٦ (zes) en ٧ (zeven)." }
+      ]
+    },
+    {
+      "titel": "Telefoonnummer en leeftijd",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een telefoonnummer noem je cijfer voor cijfer: ٠٦١٢ = {ar|صِفْر، سِتَّة، واحِد، اِثْنان}.",
+          "Naar iemands leeftijd vraag je met {ar|كَمْ عُمْرُكَ؟} (tegen een man) of {ar|كَمْ عُمْرُكِ؟} (tegen een vrouw). Een jong kind antwoordt bijvoorbeeld {ar|عُمْري سَبْعُ سَنَواتٍ} (*ik ben zeven jaar*)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "ما رَقْمُ هاتِفِكَ؟", "tr": "mā raqmu hātifika?", "nl": "Wat is je telefoonnummer? (tegen een man)" },
+          { "ar": "صِفْر، سِتَّة، ثَلاثَة، ثَمانِيَة، خَمْسَة...", "tr": "ṣifr, sitta, ṯalāṯa, ṯamāniya, ḫamsa...", "nl": "0, 6, 3, 8, 5..." },
+          { "ar": "كَمْ عُمْرُكِ يا لَيْلى؟ — عُمْري تِسْعُ سَنَواتٍ.", "tr": "kam ʿumruki yā Laylā? — ʿumrī tisʿu sanawāt.", "nl": "Hoe oud ben je, Layla? — Ik ben negen jaar." }
+        ] },
+        { "type": "letop", "md": "In {ar|عُمْري تِسْعُ سَنَواتٍ} staat {ar|تِسْعُ} **zonder** ة, hoewel je bij het tellen {ar|تِسْعَةٌ} zegt. Dat komt door de regel van les 42: het getal neemt dan het *omgekeerde* geslacht aan van het getelde woord ({ar|سَنَةٌ} is vrouwelijk). Leer de leeftijdszin nu als vaste uitdrukking." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Getallen herkennen",
+      "items": [
+        { "type": "koppelen", "tag": "getallen", "paren": [
+          { "ar": "ثَلاثَةٌ", "nl": "3", "woord": "j1-p1-l09-w04" },
+          { "ar": "سَبْعَةٌ", "nl": "7", "woord": "j1-p1-l09-w08" },
+          { "ar": "خَمْسَةٌ", "nl": "5", "woord": "j1-p1-l09-w06" },
+          { "ar": "تِسْعَةٌ", "nl": "9", "woord": "j1-p1-l09-w10" },
+          { "ar": "اِثْنانِ", "nl": "2", "woord": "j1-p1-l09-w03" },
+          { "ar": "عَشَرَةٌ", "nl": "10", "woord": "j1-p1-l09-w11" }
+        ], "uitleg": "Zeg elk getal hardop terwijl je het koppelt." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk cijfer is dit: ٥", "opties": ["5", "0", "6", "4"], "juist": 0, "uitleg": "٥ is vijf. Nul is een puntje: ٠." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk cijfer is dit: ٧", "opties": ["7", "6", "8", "2"], "juist": 0, "uitleg": "٧ = 7, ٨ = 8 (ondersteboven), ٦ = 6." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Hoe schrijf je 34 in Arabisch-Indische cijfers?", "opties": ["٣٤", "٤٣", "٣٥", "٢٤"], "juist": 0, "uitleg": "Getallen schrijf je van links naar rechts: ٣ (3) en dan ٤ (4)." },
+        { "type": "luisteren", "tag": "getallen", "tekst": "ثَمانِيَةٌ", "vraag": "Welk getal hoor je?", "opties": ["8", "3", "6", "10"], "juist": 0, "uitleg": "{ar|ثَمانِيَةٌ} (*ṯamāniya*) = 8." },
+        { "type": "luisteren", "tag": "getallen", "tekst": "سِتَّةٌ", "vraag": "Welk getal hoor je?", "opties": ["6", "7", "9", "1"], "juist": 0, "uitleg": "{ar|سِتَّةٌ} (*sitta*) = 6." },
+        { "type": "luisteren", "tag": "getallen", "tekst": "أَرْبَعَةٌ", "vraag": "Welk getal hoor je?", "opties": ["4", "5", "8", "2"], "juist": 0, "uitleg": "{ar|أَرْبَعَةٌ} (*arbaʿa*) = 4." }
+      ]
+    },
+    {
+      "titel": "Tellen",
+      "items": [
+        { "type": "vervoegen", "tag": "getallen", "instructie": "Schrijf het getal in het Arabisch (harakat mag je weglaten).",
+          "rijen": [
+            { "label": "1", "antwoord": "واحِد", "tr": "wāḥid" },
+            { "label": "2", "antwoord": "اِثْنان", "tr": "iṯnān" },
+            { "label": "3", "antwoord": "ثَلاثَة", "tr": "ṯalāṯa" },
+            { "label": "4", "antwoord": "أَرْبَعَة", "tr": "arbaʿa" },
+            { "label": "5", "antwoord": "خَمْسَة", "tr": "ḫamsa" }
+          ],
+          "uitleg": "Let op de hamza in {ar|أَرْبَعَة}." },
+        { "type": "vervoegen", "tag": "getallen", "instructie": "Schrijf het getal in het Arabisch.",
+          "rijen": [
+            { "label": "6", "antwoord": "سِتَّة", "tr": "sitta" },
+            { "label": "7", "antwoord": "سَبْعَة", "tr": "sabʿa" },
+            { "label": "8", "antwoord": "ثَمانِيَة", "tr": "ṯamāniya" },
+            { "label": "9", "antwoord": "تِسْعَة", "tr": "tisʿa" },
+            { "label": "10", "antwoord": "عَشَرَة", "tr": "ʿašara" }
+          ],
+          "uitleg": "Bij tellen eindigen 3 tot en met 10 op ة." },
+        { "type": "invullen", "tag": "getallen", "zin": "واحِد، اِثْنان، ثَلاثَة، ___، خَمْسَة", "nl": "1, 2, 3, ..., 5",
+          "woordbank": ["أَرْبَعَة", "سِتَّة", "سَبْعَة"], "antwoord": ["أَرْبَعَة"], "uitleg": "Na drie komt vier: {ar|أَرْبَعَة}." },
+        { "type": "invullen", "tag": "getallen", "zin": "سَبْعَة، ثَمانِيَة، ___، عَشَرَة", "nl": "7, 8, ..., 10", "antwoord": ["تِسْعَة"], "uitleg": "{ar|تِسْعَة} = 9." },
+        { "type": "ordenen", "tag": "getallen", "nl": "Tel van 6 tot en met 10 (begin rechts).", "woorden": ["سِتَّة", "سَبْعَة", "ثَمانِيَة", "تِسْعَة", "عَشَرَة"], "uitleg": "De volgorde loopt van rechts naar links." }
+      ]
+    },
+    {
+      "titel": "Nummers en leeftijd",
+      "items": [
+        { "type": "luisteren", "tag": "getallen", "tekst": "صِفْر، سِتَّة، واحِد، اِثْنان", "vraag": "Welk nummer hoor je?", "opties": ["0612", "0621", "0712", "0613"], "juist": 0, "uitleg": "Cijfer voor cijfer: 0, 6, 1, 2." },
+        { "type": "meerkeuze", "tag": "leeftijd", "vraag": "Je vraagt een meisje hoe oud ze is. Wat zeg je?", "opties": ["كَمْ عُمْرُكِ؟", "كَمْ عُمْرُكَ؟", "ما اسْمُكِ؟", "كَمْ رَقْمُكِ؟"], "juist": 0, "uitleg": "Tegen een meisje: -ki." },
+        { "type": "meerkeuze", "tag": "leeftijd", "vraag": "Wat betekent {ar|عُمْري خَمْسُ سَنَواتٍ}?", "opties": ["Ik ben vijf jaar.", "Ik heb vijf jaar gewerkt.", "Het is vijf uur.", "Mijn nummer is vijf."], "juist": 0,
+          "uitleg": "{ar|عُمْري} = mijn leeftijd; {ar|سَنَواتٍ} = jaren." },
+        { "type": "ordenen", "tag": "leeftijd", "nl": "Hoe oud ben je? (tegen een man)", "woorden": ["كَمْ", "عُمْرُكَ؟"], "uitleg": "{ar|كَمْ} = hoeveel." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "getallen", "bron": "nul", "antwoorden": ["صِفْرٌ", "صِفْر"], "uitleg": "{ar|صِفْرٌ}: hiervan komt ons woord *cijfer*." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "getallen", "bron": "tien", "antwoorden": ["عَشَرَةٌ", "عَشَرَة"], "uitleg": "{ar|عَشَرَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "leeftijd", "bron": "Hoe oud ben je? (tegen een vrouw)", "antwoorden": ["كَمْ عُمْرُكِ؟"], "eind": true, "uitleg": "{ar|كَمْ عُمْرُكِ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "getallen", "bron": "واحِد، اِثْنان، ثَلاثَة", "tr": "wāḥid, iṯnān, ṯalāṯa", "antwoorden": ["een twee drie", "1 2 3", "één twee drie"], "uitleg": "1, 2, 3." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "getallen", "bron": "رَقْمُ الهاتِفِ", "tr": "raqmu l-hātif", "antwoorden": ["het telefoonnummer", "telefoonnummer", "het nummer van de telefoon"], "uitleg": "Een iḍāfa (les 14): *het nummer van de telefoon*." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "getallen", "paren": [
+        { "ar": "واحِدٌ", "nl": "1" },
+        { "ar": "أَرْبَعَةٌ", "nl": "4" },
+        { "ar": "سِتَّةٌ", "nl": "6" },
+        { "ar": "ثَمانِيَةٌ", "nl": "8" },
+        { "ar": "صِفْرٌ", "nl": "0" }
+      ], "uitleg": "Herhaal de getallen." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk cijfer is dit: ٦", "opties": ["6", "7", "2", "9"], "juist": 0, "uitleg": "٦ = 6." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal staat hier: ١٠", "opties": ["10", "1", "01", "100"], "juist": 0, "uitleg": "١ en ٠ van links naar rechts: 10." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Hoe schrijf je 9 in Arabisch-Indische cijfers?", "opties": ["٩", "٦", "٨", "٧"], "juist": 0, "uitleg": "٩ = 9." },
+      { "type": "luisteren", "tag": "getallen", "tekst": "سَبْعَةٌ", "vraag": "Welk getal hoor je?", "opties": ["7", "9", "4"], "juist": 0, "uitleg": "{ar|سَبْعَةٌ} = 7." },
+      { "type": "luisteren", "tag": "getallen", "tekst": "اِثْنانِ", "vraag": "Welk getal hoor je?", "opties": ["2", "3", "8"], "juist": 0, "uitleg": "{ar|اِثْنانِ} = 2." },
+      { "type": "luisteren", "tag": "getallen", "tekst": "خَمْسَة، ثَلاثَة، صِفْر", "vraag": "Welk nummer hoor je?", "opties": ["530", "350", "503"], "juist": 0, "uitleg": "5, 3, 0." },
+      { "type": "invullen", "tag": "getallen", "zin": "أَرْبَعَة، ___، سِتَّة", "nl": "4, ..., 6", "antwoord": ["خَمْسَة"], "uitleg": "{ar|خَمْسَة} = 5." },
+      { "type": "vervoegen", "tag": "getallen", "instructie": "Schrijf het getal in het Arabisch.",
+        "rijen": [
+          { "label": "3", "antwoord": "ثَلاثَة", "tr": "ṯalāṯa" },
+          { "label": "9", "antwoord": "تِسْعَة", "tr": "tisʿa" },
+          { "label": "1", "antwoord": "واحِد", "tr": "wāḥid" }
+        ], "uitleg": "{ar|ثَلاثَة} · {ar|تِسْعَة} · {ar|واحِد}" },
+      { "type": "ordenen", "tag": "getallen", "nl": "Tel van 1 tot en met 4 (begin rechts).", "woorden": ["واحِد", "اِثْنان", "ثَلاثَة", "أَرْبَعَة"], "uitleg": "Van rechts naar links." },
+      { "type": "meerkeuze", "tag": "leeftijd", "vraag": "Wat vraagt iemand met {ar|كَمْ عُمْرُكَ؟}?", "opties": ["Hoe oud ben je?", "Hoeveel kost het?", "Wat is je nummer?"], "juist": 0, "uitleg": "{ar|عُمْر} = leeftijd." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "getallen", "bron": "acht", "antwoorden": ["ثَمانِيَةٌ", "ثَمانِيَة"], "uitleg": "{ar|ثَمانِيَةٌ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "getallen", "bron": "twee", "antwoorden": ["اِثْنانِ", "اِثْنان"], "uitleg": "{ar|اِثْنانِ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "getallen", "bron": "عَشَرَةٌ", "tr": "ʿašara", "antwoorden": ["tien", "10"], "uitleg": "{ar|عَشَرَةٌ} = 10." }
+    ]
+  }
+}

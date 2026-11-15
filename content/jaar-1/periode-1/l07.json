@@ -1,0 +1,194 @@
+{
+  "id": "j1-p1-l07",
+  "code": "L07",
+  "type": "les",
+  "titel": "Mensen beschrijven",
+  "thema": "Uiterlijk, karakter en gevoel van mensen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "iemand beschrijven met bijvoeglijke naamwoorden.",
+    "mannelijke en vrouwelijke woorden herkennen, ook zonder ة.",
+    "een bijvoeglijk naamwoord achter een zelfstandig naamwoord laten congrueren in geslacht en bepaaldheid.",
+    "het verschil maken tussen 'de nieuwe student' en 'de student is nieuw'."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l07-w01", "ar": "ذَكِيٌّ", "tr": "ḏakī", "nl": ["slim", "intelligent"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w02", "ar": "لَطيفٌ", "tr": "laṭīf", "nl": ["aardig", "vriendelijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w03", "ar": "كَريمٌ", "tr": "karīm", "nl": ["gul", "gastvrij"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w04", "ar": "هادِئٌ", "tr": "hādiʾ", "nl": ["rustig", "kalm"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|هادِئَةٌ}." },
+    { "id": "j1-p1-l07-w05", "ar": "مَشْهورٌ", "tr": "mašhūr", "nl": ["beroemd"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w06", "ar": "غَنِيٌّ", "tr": "ġanī", "nl": ["rijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w07", "ar": "فَقيرٌ", "tr": "faqīr", "nl": ["arm"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w08", "ar": "قَوِيٌّ", "tr": "qawī", "nl": ["sterk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w09", "ar": "ضَعيفٌ", "tr": "ḍaʿīf", "nl": ["zwak"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w10", "ar": "سَمينٌ", "tr": "samīn", "nl": ["dik"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w11", "ar": "نَحيفٌ", "tr": "naḥīf", "nl": ["dun", "slank"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w12", "ar": "شابٌّ", "tr": "šābb", "nl": ["jong (persoon)", "jongeman"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|شابَّةٌ}." },
+    { "id": "j1-p1-l07-w13", "ar": "مُسِنٌّ", "tr": "musinn", "nl": ["bejaard", "op leeftijd"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w14", "ar": "وَسيمٌ", "tr": "wasīm", "nl": ["knap (van een man)"], "soort": "bijvoeglijk naamwoord",
+      "notitie": "Voor een vrouw gebruik je meestal {ar|جَميلَةٌ}." },
+    { "id": "j1-p1-l07-w15", "ar": "حَزينٌ", "tr": "ḥazīn", "nl": ["verdrietig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w16", "ar": "غاضِبٌ", "tr": "ġāḍib", "nl": ["boos"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w17", "ar": "جائِعٌ", "tr": "jāʾiʿ", "nl": ["hongerig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w18", "ar": "مُجْتَهِدٌ", "tr": "mujtahid", "nl": ["ijverig", "hardwerkend"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l07-w19", "ar": "شَخْصٌ", "tr": "šaḫṣ", "nl": ["persoon"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l07-w20", "ar": "جارٌ", "tr": "jār", "nl": ["buurman"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l07-w21", "ar": "جارَةٌ", "tr": "jāra", "nl": ["buurvrouw"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l07-w22", "ar": "أُسْتاذٌ", "tr": "ustāḏ", "nl": ["docent", "professor", "meester"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l07-w23", "ar": "أُسْتاذَةٌ", "tr": "ustāḏa", "nl": ["docente", "professor (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l07-w25", "ar": "اِمْرَأَةٌ", "tr": "imraʾa", "nl": ["vrouw"], "soort": "zelfstandig naamwoord",
+      "notitie": "Met lidwoord meestal {ar|المَرْأَةُ} (*al-marʾa*): de begin-i valt dan weg." },
+    { "id": "j1-p1-l07-w24", "ar": "جِدًّا", "tr": "jiddan", "nl": ["heel", "erg", "zeer"], "soort": "bijwoord",
+      "notitie": "Staat ná het bijvoeglijk naamwoord: {ar|ذَكِيٌّ جِدًّا} = heel slim." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Mannelijk en vrouwelijk",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Elk Arabisch zelfstandig naamwoord is **mannelijk** of **vrouwelijk**. De meeste vrouwelijke woorden eindigen op **ة** (ta marbūṭa): {ar|طاوِلَةٌ}, {ar|جارَةٌ}, {ar|سَيّارَةٌ}.",
+          "Een paar woorden zijn vrouwelijk zonder ة. Dat zijn vooral woorden voor vrouwelijke personen, zoals {ar|بِنْتٌ} (meisje) en {ar|أُمٌّ} (moeder), en enkele andere woorden, zoals {ar|شَمْسٌ} (zon). Die leer je gewoon uit je hoofd."
+        ] },
+        { "type": "tabel", "kop": ["Mannelijk", "Vrouwelijk", "Betekenis"], "arKolommen": [0, 1], "rijen": [
+          ["جارٌ|jār", "جارَةٌ|jāra", "buurman / buurvrouw"],
+          ["أُسْتاذٌ|ustāḏ", "أُسْتاذَةٌ|ustāḏa", "docent / docente"],
+          ["ذَكِيٌّ|ḏakī", "ذَكِيَّةٌ|ḏakiyya", "slim"],
+          ["هادِئٌ|hādiʾ", "هادِئَةٌ|hādiʾa", "rustig"],
+          ["شابٌّ|šābb", "شابَّةٌ|šābba", "jong"]
+        ] },
+        { "type": "waarom", "md": "Bij personen volgt het grammaticale geslacht meestal het echte geslacht. Bij dingen is het een eigenschap van het woord, zoals *de* en *het* in het Nederlands. Daarom leer je bij elk woord ook het geslacht. De ة is daarbij de belangrijkste aanwijzing." }
+      ]
+    },
+    {
+      "titel": "Het bijvoeglijk naamwoord volgt het zelfstandig naamwoord",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In het Arabisch staat het bijvoeglijk naamwoord **achter** het zelfstandig naamwoord: {ar|رَجُلٌ طَويلٌ} = *een lange man* (letterlijk: man lang).",
+          "Het bijvoeglijk naamwoord neemt alles over van het zelfstandig naamwoord: het **geslacht** (ة of niet), de **bepaaldheid** ({ar|ال} of tanwīn) en de naamvalsuitgang."
+        ] },
+        { "type": "tabel", "kop": ["Arabisch", "Nederlands"], "arKolommen": [0], "rijen": [
+          ["رَجُلٌ طَويلٌ|rajulun ṭawīl", "een lange man"],
+          ["الرَّجُلُ الطَّويلُ|ar-rajulu ṭ-ṭawīl", "de lange man"],
+          ["بِنْتٌ ذَكِيَّةٌ|bintun ḏakiyya", "een slim meisje"],
+          ["البِنْتُ الذَّكِيَّةُ|al-bintu ḏ-ḏakiyya", "het slimme meisje"],
+          ["جارَةٌ لَطيفَةٌ|jāratun laṭīfa", "een aardige buurvrouw"],
+          ["الأُسْتاذُ المَشْهورُ|al-ustāḏu l-mašhūr", "de beroemde docent"]
+        ] },
+        { "type": "waarom", "md": "Omdat het bijvoeglijk naamwoord achter het zelfstandig naamwoord staat, laat de overeenkomst (congruentie) zien dat de twee bij elkaar horen. Zie je een woord met dezelfde uitgang en hetzelfde lidwoord, dan weet je: dit beschrijft het vorige woord." }
+      ]
+    },
+    {
+      "titel": "Woordgroep of zin?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Hier komt les 4 samen met deze les. Als het bijvoeglijk naamwoord **ook** {ar|ال} heeft, is het een woordgroep: {ar|الطّالِبُ الجَديدُ} = *de nieuwe student*. Heeft het **geen** {ar|ال}, dan is het het gezegde van een zin: {ar|الطّالِبُ جَديدٌ} = *de student is nieuw*.",
+          "Je kunt de twee ook combineren: {ar|الطّالِبُ الجَديدُ ذَكِيٌّ} = *de nieuwe student is slim*."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "الطّالِبُ الجَديدُ", "tr": "aṭ-ṭālibu l-jadīd", "nl": "de nieuwe student" },
+          { "ar": "الطّالِبُ جَديدٌ.", "tr": "aṭ-ṭālibu jadīd.", "nl": "De student is nieuw." },
+          { "ar": "الطّالِبُ الجَديدُ ذَكِيٌّ جِدًّا.", "tr": "aṭ-ṭālibu l-jadīdu ḏakiyyun jiddan.", "nl": "De nieuwe student is heel slim." },
+          { "ar": "الجارَةُ اللَّطيفَةُ مُسِنَّةٌ.", "tr": "al-jāratu l-laṭīfatu musinna.", "nl": "De aardige buurvrouw is op leeftijd." },
+          { "ar": "هُوَ شَخْصٌ كَريمٌ.", "tr": "huwa šaḫṣun karīm.", "nl": "Hij is een gul persoon." }
+        ] },
+        { "type": "letop", "md": "{ar|جِدًّا} (heel) staat **na** het bijvoeglijk naamwoord en verandert nooit: {ar|ذَكِيٌّ جِدًّا}, {ar|ذَكِيَّةٌ جِدًّا}." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden en tegenstellingen",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "غَنِيٌّ", "nl": "rijk", "woord": "j1-p1-l07-w06" },
+          { "ar": "فَقيرٌ", "nl": "arm", "woord": "j1-p1-l07-w07" },
+          { "ar": "قَوِيٌّ", "nl": "sterk", "woord": "j1-p1-l07-w08" },
+          { "ar": "ضَعيفٌ", "nl": "zwak", "woord": "j1-p1-l07-w09" },
+          { "ar": "سَمينٌ", "nl": "dik", "woord": "j1-p1-l07-w10" },
+          { "ar": "نَحيفٌ", "nl": "slank", "woord": "j1-p1-l07-w11" }
+        ], "uitleg": "Leer bijvoeglijke naamwoorden in paren." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "هِيَ حَزينَةٌ", "vraag": "Wat hoor je?", "opties": ["Zij is verdrietig.", "Zij is boos.", "Hij is verdrietig.", "Zij is hongerig."], "juist": 0, "uitleg": "{ar|حَزينَةٌ} = verdrietig (v)." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "رَجُلٌ مَشْهورٌ", "vraag": "Wat hoor je?", "opties": ["een beroemde man", "de beroemde man", "de man is beroemd"], "juist": 0, "uitleg": "Allebei tanwīn: *een beroemde man*." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l07-w18", "vraag": "Wat betekent dit?", "ar": "مُجْتَهِدٌ", "tr": "mujtahid", "opties": ["ijverig", "slim", "rustig", "gul"], "juist": 0, "uitleg": "{ar|مُجْتَهِدٌ} = ijverig." }
+      ]
+    },
+    {
+      "titel": "Congruentie",
+      "items": [
+        { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak het bijvoeglijk naamwoord vrouwelijk (zonder tanwīn).",
+          "rijen": [
+            { "label": "ذَكِيّ → een slim meisje", "ar": "بِنْتٌ", "antwoord": "ذَكِيَّة", "tr": "ḏakiyya" },
+            { "label": "لَطيف → een aardige buurvrouw", "ar": "جارَةٌ", "antwoord": "لَطيفَة", "tr": "laṭīfa" },
+            { "label": "هادِئ → een rustige docente", "ar": "أُسْتاذَةٌ", "antwoord": "هادِئَة", "tr": "hādiʾa" },
+            { "label": "قَوِيّ → een sterke vrouw", "ar": "اِمْرَأَةٌ", "antwoord": "قَوِيَّة", "tr": "qawiyya" }
+          ],
+          "uitleg": "Vrouwelijk = + ة. Bij ـِيّ wordt het ـِيَّة." },
+        { "type": "invullen", "tag": "congruentie", "zin": "بِنْتٌ ___", "nl": "een verdrietig meisje",
+          "woordbank": ["حَزينَةٌ", "حَزينٌ", "الحَزينَةُ"], "antwoord": ["حَزينَةٌ"], "uitleg": "{ar|بِنْتٌ} is vrouwelijk en onbepaald: {ar|حَزينَةٌ}." },
+        { "type": "invullen", "tag": "congruentie", "zin": "الأُسْتاذُ ___", "nl": "de beroemde docent",
+          "woordbank": ["المَشْهورُ", "مَشْهورٌ", "المَشْهورَةُ"], "antwoord": ["المَشْهورُ"],
+          "uitleg": "Bepaald zelfstandig naamwoord → bepaald bijvoeglijk naamwoord: {ar|المَشْهورُ}." },
+        { "type": "invullen", "tag": "congruentie", "zin": "الشَّمْسُ ___.", "nl": "De zon is sterk.",
+          "woordbank": ["قَوِيَّةٌ", "قَوِيٌّ", "القَوِيَّةُ"], "antwoord": ["قَوِيَّةٌ"],
+          "uitleg": "{ar|شَمْسٌ} is vrouwelijk zonder ة. Het gezegde is onbepaald: {ar|قَوِيَّةٌ}." },
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Wat betekent {ar|الجارُ الكَريمُ}?", "opties": ["de gulle buurman", "de buurman is gul", "een gulle buurman"], "juist": 0,
+          "uitleg": "Beide bepaald: een woordgroep." },
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Welke zin betekent 'Het meisje is slim'?", "opties": ["البِنْتُ ذَكِيَّةٌ.", "البِنْتُ الذَّكِيَّةُ", "بِنْتٌ ذَكِيَّةٌ"], "juist": 0,
+          "uitleg": "Bepaald onderwerp + onbepaald gezegde = zin." }
+      ]
+    },
+    {
+      "titel": "Beschrijvingen bouwen",
+      "items": [
+        { "type": "ordenen", "tag": "congruentie", "nl": "De nieuwe student is heel slim.", "woorden": ["الطّالِبُ", "الجَديدُ", "ذَكِيٌّ", "جِدًّا."], "uitleg": "Woordgroep + gezegde + {ar|جِدًّا}." },
+        { "type": "ordenen", "tag": "congruentie", "nl": "Hij is een gul persoon.", "woorden": ["هُوَ", "شَخْصٌ", "كَريمٌ."], "uitleg": "Het bijvoeglijk naamwoord staat achter het zelfstandig naamwoord." },
+        { "type": "ordenen", "tag": "congruentie", "nl": "De aardige buurvrouw is op leeftijd.", "woorden": ["الجارَةُ", "اللَّطيفَةُ", "مُسِنَّةٌ."], "uitleg": "Alles vrouwelijk." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "een slimme jongen", "antwoorden": ["وَلَدٌ ذَكِيٌّ"], "uitleg": "{ar|وَلَدٌ ذَكِيٌّ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "de rustige buurvrouw", "antwoorden": ["الجارَةُ الهادِئَةُ"], "uitleg": "{ar|الجارَةُ الهادِئَةُ}: allebei bepaald en vrouwelijk." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bepaaldheid", "bron": "De docent is boos.", "antwoorden": ["الأُسْتاذُ غاضِبٌ"], "uitleg": "{ar|الأُسْتاذُ غاضِبٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "الوَلَدُ الصَّغيرُ جائِعٌ.", "tr": "al-waladu ṣ-ṣaġīru jāʾiʿ.", "antwoorden": ["de kleine jongen heeft honger", "de kleine jongen is hongerig", "het kleine kind heeft honger", "het kleine kind is hongerig"], "uitleg": "Woordgroep {ar|الوَلَدُ الصَّغيرُ} + gezegde {ar|جائِعٌ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "أُسْتاذَةٌ مُجْتَهِدَةٌ", "tr": "ustāḏatun mujtahida", "antwoorden": ["een ijverige docente", "een hardwerkende docente", "een ijverige lerares", "een hardwerkende lerares"], "uitleg": "Beide onbepaald: *een ...*." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "هِيَ قَوِيَّةٌ جِدًّا.", "tr": "hiya qawiyyatun jiddan.", "antwoorden": ["zij is heel sterk", "ze is heel sterk", "zij is erg sterk", "ze is erg sterk", "zij is zeer sterk"], "uitleg": "{ar|جِدًّا} = heel." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "ذَكِيٌّ", "nl": "slim" },
+        { "ar": "لَطيفٌ", "nl": "aardig" },
+        { "ar": "غاضِبٌ", "nl": "boos" },
+        { "ar": "شَخْصٌ", "nl": "persoon" },
+        { "ar": "جِدًّا", "nl": "heel" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "congruentie", "vraag": "'Een rijke vrouw' is ...", "opties": ["اِمْرَأَةٌ غَنِيَّةٌ", "اِمْرَأَةٌ غَنِيٌّ", "اِمْرَأَةٌ الغَنِيَّةُ"], "juist": 0, "uitleg": "Vrouwelijk en onbepaald." },
+      { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Wat betekent {ar|الرَّجُلُ فَقيرٌ}?", "opties": ["De man is arm.", "de arme man", "een arme man"], "juist": 0, "uitleg": "Onbepaald gezegde: een zin." },
+      { "type": "meerkeuze", "tag": "congruentie", "vraag": "Welk woord is vrouwelijk, hoewel het geen ة heeft?", "opties": ["بِنْتٌ", "بابٌ", "قَلَمٌ", "شَخْصٌ"], "juist": 0, "uitleg": "{ar|بِنْتٌ} (meisje) is vrouwelijk." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "البِنْتُ الذَّكِيَّةُ", "vraag": "Wat hoor je?", "opties": ["het slimme meisje", "het meisje is slim", "een slim meisje"], "juist": 0, "uitleg": "Twee keer ال: woordgroep." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "هُوَ جائِعٌ", "vraag": "Wat hoor je?", "opties": ["Hij heeft honger.", "Hij is boos.", "Hij is jong."], "juist": 0, "uitleg": "{ar|جائِعٌ} = hongerig." },
+      { "type": "invullen", "tag": "congruentie", "zin": "جارٌ ___", "nl": "een aardige buurman", "woordbank": ["لَطيفٌ", "لَطيفَةٌ", "اللَّطيفُ"], "antwoord": ["لَطيفٌ"], "uitleg": "Mannelijk en onbepaald." },
+      { "type": "invullen", "tag": "congruentie", "zin": "الطّالِبَةُ ___", "nl": "de ijverige studente", "woordbank": ["المُجْتَهِدَةُ", "مُجْتَهِدَةٌ", "المُجْتَهِدُ"], "antwoord": ["المُجْتَهِدَةُ"], "uitleg": "Bepaald en vrouwelijk." },
+      { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak het bijvoeglijk naamwoord vrouwelijk (zonder tanwīn).",
+        "rijen": [
+          { "label": "غَنِيّ → rijk", "antwoord": "غَنِيَّة", "tr": "ġaniyya" },
+          { "label": "حَزين → verdrietig", "antwoord": "حَزينَة", "tr": "ḥazīna" },
+          { "label": "شابّ → jong", "antwoord": "شابَّة", "tr": "šābba" }
+        ], "uitleg": "+ ة" },
+      { "type": "ordenen", "tag": "congruentie", "nl": "De rijke man is gul.", "woorden": ["الرَّجُلُ", "الغَنِيُّ", "كَريمٌ."], "uitleg": "Woordgroep + gezegde." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "een beroemde docente", "antwoorden": ["أُسْتاذَةٌ مَشْهورَةٌ"], "uitleg": "{ar|أُسْتاذَةٌ مَشْهورَةٌ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "bepaaldheid", "bron": "De jongen is sterk.", "antwoorden": ["الوَلَدُ قَوِيٌّ"], "uitleg": "{ar|الوَلَدُ قَوِيٌّ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "الجارُ المُسِنُّ", "tr": "al-jāru l-musinn", "antwoorden": ["de bejaarde buurman", "de oude buurman", "de buurman op leeftijd"], "uitleg": "Woordgroep." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "أَنا سَعيدٌ جِدًّا.", "tr": "ana saʿīdun jiddan.", "antwoorden": ["ik ben heel blij", "ik ben erg blij", "ik ben zeer blij", "ik ben heel gelukkig"], "uitleg": "{ar|جِدًّا} = heel." }
+    ]
+  }
+}

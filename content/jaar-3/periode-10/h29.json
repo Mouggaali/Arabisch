@@ -1,0 +1,453 @@
+{
+  "id": "j3-p10-h29",
+  "code": "H29",
+  "type": "herhaling",
+  "titel": "Herhaling blok 10B",
+  "thema": "Voltooid verleden, trappen, abstracta en deelwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het voltooid verleden en toekomend gebruiken.",
+    "overtreffende trappen, abstracta op ـِيَّة en deelwoorden met مُـ herkennen.",
+    "Darija-uitdrukkingen in de juiste situatie gebruiken."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 113–116 en D23.",
+  "grammatica": [
+    {
+      "titel": "Blok 10B in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "voltooid verleden",
+              "كانَ قَدْ + māḍī",
+              "كانَ القِطارُ قَدْ غادَرَ"
+            ],
+            [
+              "voltooid toekomend",
+              "سَيَكونُ قَدْ + māḍī",
+              "سَيَكونُ قَدْ أَنْهى"
+            ],
+            [
+              "overtreffende trap",
+              "أَفْعَلُ + gen.; أَحَدُ أَفْعَلِ …",
+              "أَحَدُ أَشْهَرِ المُغَنّينَ"
+            ],
+            [
+              "abstracta",
+              "ـِيَّة (vrouwelijk, mv ـِيّات)",
+              "هُوِيَّةٌ، حُرِّيَّةٌ"
+            ],
+            [
+              "deelwoorden II–X",
+              "مُـ; -i- actief, -a- passief",
+              "مُسْتَخْدِمٌ / مُسْتَخْدَمٌ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Let bij deelwoorden en abstracta op **kleine klinkerverschillen**: ze veranderen de betekenis volledig. Lees in teksten zonder harakat de context om te beslissen."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "voltooid-verleden",
+          "vraag": "'Ik had al gegeten' is ...",
+          "opties": [
+            "كُنْتُ قَدْ أَكَلْتُ",
+            "كُنْتُ آكُلُ",
+            "سَآكُلُ"
+          ],
+          "juist": 0,
+          "uitleg": "Voltooid verleden."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "overtreffende-trap",
+          "vraag": "'Een van de oudste universiteiten' is ...",
+          "opties": [
+            "إِحْدى أَقْدَمِ الجامِعاتِ",
+            "أَحَدُ أَقْدَمُ جامِعَةٍ",
+            "أَقْدَمُ الجامِعَةِ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِحْدى}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "deelwoord-afgeleid",
+          "vraag": "{ar|مُشاهَدٌ} betekent ...",
+          "opties": [
+            "bekeken",
+            "kijker",
+            "het kijken"
+          ],
+          "juist": 0,
+          "uitleg": "Passief III."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "ثَوْرَةٌ",
+              "nl": "revolutie",
+              "woord": "j3-p10-l113-w04"
+            },
+            {
+              "ar": "مِهْرَجانٌ",
+              "nl": "festival",
+              "woord": "j3-p10-l114-w11"
+            },
+            {
+              "ar": "هُوِيَّةٌ",
+              "nl": "identiteit",
+              "woord": "j3-p10-l115-w01"
+            },
+            {
+              "ar": "مُخْتَبَرٌ",
+              "nl": "laboratorium",
+              "woord": "j3-p10-l116-w03"
+            },
+            {
+              "ar": "الصبر",
+              "nl": "geduld (Darija)",
+              "woord": "j3-p10-d23-w08"
+            },
+            {
+              "ar": "غُرْبَةٌ",
+              "nl": "leven ver van huis",
+              "woord": "j3-p10-l115-w04"
+            }
+          ],
+          "uitleg": "Woorden uit blok 10B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "voltooid-verleden",
+          "zin": "عِنْدَما وَصَلْنا كانَ الفيلْمُ قَدْ ___.",
+          "nl": "Toen we aankwamen, was de film al begonnen.",
+          "antwoord": [
+            "بَدَأَ"
+          ],
+          "uitleg": "Māḍī.",
+          "woordbank": [
+            "بَدَأَ",
+            "يَبْدَأُ",
+            "بِدايَةٌ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "abstract-iyya",
+          "zin": "لِلصِّحَّةِ ___ كُبْرى.",
+          "nl": "Gezondheid is van het grootste belang.",
+          "antwoord": [
+            "أَهَمِّيَّةٌ"
+          ],
+          "uitleg": "Abstract.",
+          "woordbank": [
+            "أَهَمِّيَّةٌ",
+            "مُهِمَّةٌ",
+            "أَهَمُّ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "deelwoord-afgeleid",
+          "instructie": "Actief deelwoord.",
+          "rijen": [
+            {
+              "label": "دَرَّسَ",
+              "antwoord": "مُدَرِّس",
+              "tr": "mudarris"
+            },
+            {
+              "label": "اِسْتَخْدَمَ",
+              "antwoord": "مُسْتَخْدِم",
+              "tr": "mustaḫdim"
+            }
+          ],
+          "uitleg": "-i-.",
+          "streng": true
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-uitdrukkingen",
+          "tekst": "تبارك الله عليك",
+          "vraag": "Wat drukt de spreker uit?",
+          "opties": [
+            "bewondering",
+            "boosheid",
+            "verdriet"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "overtreffende-trap",
+          "nl": "Dit is het mooiste lied.",
+          "woorden": [
+            "هٰذِهِ",
+            "أَجْمَلُ",
+            "أُغْنِيَةٍ."
+          ],
+          "uitleg": "Overtreffende trap."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "abstract-iyya",
+          "bron": "de vrijheid",
+          "antwoorden": [
+            "الحُرِّيَّةُ",
+            "الحرية"
+          ],
+          "uitleg": "{ar|الحُرِّيَّةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "voltooid-verleden",
+          "bron": "كانَ المَغْرِبُ قَدْ خَضَعَ لِلْحِمايَةِ.",
+          "antwoorden": [
+            "marokko had onder het protectoraat gestaan",
+            "marokko was onder het protectoraat gevallen"
+          ],
+          "uitleg": "Voltooid verleden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "{ar|كانوا قَدْ ذَهَبوا} betekent ...",
+        "opties": [
+          "zij waren gegaan",
+          "zij gingen altijd",
+          "zij zullen gaan"
+        ],
+        "juist": 0,
+        "uitleg": "Voltooid verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "{ar|سَيَكونُ قَدْ وَصَلَ} betekent ...",
+        "opties": [
+          "hij zal aangekomen zijn",
+          "hij was aangekomen",
+          "hij kwam altijd aan"
+        ],
+        "juist": 0,
+        "uitleg": "Voltooid toekomend."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'Het creatiefst' is ...",
+        "opties": [
+          "الأَكْثَرُ إِبْداعًا",
+          "الأَبْدَعُ إِبْداعٌ",
+          "المُبْدِعُ الأَكْبَرُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَكْثَرُ} + tamyīz."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "abstract-iyya",
+        "vraag": "Welk woord is **geen** abstract zelfstandig naamwoord op ـِيَّة?",
+        "opties": [
+          "هَدِيَّةٌ",
+          "حُرِّيَّةٌ",
+          "إِنْسانِيَّةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|هَدِيَّةٌ} (cadeau) is een gewoon woord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "{ar|مُسْتَقْبَلٌ} (toekomst) is grammaticaal ...",
+        "opties": [
+          "een passief deelwoord van vorm X",
+          "een maṣdar",
+          "een actief deelwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Het tegemoet-getredene."
+      },
+      {
+        "type": "luisteren",
+        "tag": "overtreffende-trap",
+        "tekst": "هِيَ إِحْدى أَشْهَرِ الفَنّاناتِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Zij is een van de bekendste kunstenaressen.",
+          "Zij is de enige kunstenares.",
+          "Zij is geen kunstenares."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِحْدى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "deelwoord-afgeleid",
+        "tekst": "يَعْمَلُ في مُخْتَبَرٍ كَبيرٍ",
+        "vraag": "Waar werkt hij?",
+        "opties": [
+          "in een groot laboratorium",
+          "in een grote fabriek",
+          "op een groot congres"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُخْتَبَرٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "voltooid-verleden",
+        "zin": "كُنّا قَدْ ___ قَبْلَ المَطَرِ.",
+        "nl": "We waren vóór de regen aangekomen.",
+        "antwoord": [
+          "وَصَلْنا"
+        ],
+        "uitleg": "1e persoon mv.",
+        "woordbank": [
+          "وَصَلْنا",
+          "نَصِلُ",
+          "وَصَلوا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "deelwoord-afgeleid",
+        "zin": "الرِّسالَةُ ___ أَمْسِ.",
+        "nl": "De brief is gisteren verzonden.",
+        "antwoord": [
+          "مُرْسَلَةٌ"
+        ],
+        "uitleg": "Passief.",
+        "woordbank": [
+          "مُرْسَلَةٌ",
+          "مُرْسِلَةٌ",
+          "إِرْسالٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "abstract-iyya",
+        "zin": "هُوَ يَشْعُرُ بِـ___ كَبيرَةٍ.",
+        "nl": "Hij voelt een grote verantwoordelijkheid.",
+        "antwoord": [
+          "مَسْؤولِيَّةٍ"
+        ],
+        "uitleg": "Abstract.",
+        "woordbank": [
+          "مَسْؤولِيَّةٍ",
+          "مَسْؤولٍ",
+          "مَسْأَلَةٍ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُعاهَدَةٌ",
+            "nl": "verdrag"
+          },
+          {
+            "ar": "إيقاعٌ",
+            "nl": "ritme"
+          },
+          {
+            "ar": "اِنْتِماءٌ",
+            "nl": "verbondenheid"
+          },
+          {
+            "ar": "نَظَرِيَّةٌ",
+            "nl": "theorie"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "deelwoord-afgeleid",
+        "nl": "De gebruikers zijn tevreden.",
+        "woorden": [
+          "المُسْتَخْدِمونَ",
+          "راضونَ."
+        ],
+        "uitleg": "Actief X."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "overtreffende-trap",
+        "bron": "de mooiste stad",
+        "antwoorden": [
+          "أَجْمَلُ مَدينَةٍ",
+          "أجمل مدينة"
+        ],
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "abstract-iyya",
+        "bron": "التَّعَدُّدِيَّةُ غِنًى.",
+        "antwoorden": [
+          "diversiteit is een rijkdom",
+          "diversiteit is een verrijking"
+        ],
+        "uitleg": "{ar|تَعَدُّدِيَّةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-uitdrukkingen",
+        "bron": "الجار قبل الدار",
+        "antwoorden": [
+          "eerst de buur dan het huis",
+          "de buurman voor het huis"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ljāṛ qbəl ddāṛ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "id": "j3-p10-l115",
+  "code": "L115",
+  "type": "les",
+  "titel": "Migratie en identiteit",
+  "thema": "Leven tussen twee culturen; abstracte zelfstandige naamwoorden op ـِيَّة",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over migratie, integratie en identiteit praten.",
+    "abstracte zelfstandige naamwoorden op ـِيَّة vormen en herkennen.",
+    "over je eigen achtergrond vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l115-w01",
+      "ar": "هُوِيَّةٌ",
+      "tr": "huwiyya",
+      "nl": [
+        "identiteit"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vaak uitgesproken als {tr|hawiyya}."
+    },
+    {
+      "id": "j3-p10-l115-w02",
+      "ar": "اِنْتِماءٌ",
+      "tr": "intimāʾ",
+      "nl": [
+        "het erbij horen, verbondenheid"
+      ],
+      "soort": "maṣdar (VIII)"
+    },
+    {
+      "id": "j3-p10-l115-w03",
+      "ar": "اِنْدِماجٌ",
+      "tr": "indimāj",
+      "nl": [
+        "integratie"
+      ],
+      "soort": "maṣdar (VII)"
+    },
+    {
+      "id": "j3-p10-l115-w04",
+      "ar": "غُرْبَةٌ",
+      "tr": "ġurba",
+      "nl": [
+        "het leven ver van huis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w05",
+      "ar": "جالِيَةٌ",
+      "tr": "jāliya",
+      "nl": [
+        "gemeenschap in het buitenland"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w06",
+      "ar": "مُهاجِرٌ",
+      "tr": "muhājir",
+      "nl": [
+        "migrant"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w07",
+      "ar": "وَطَنٌ",
+      "tr": "waṭan",
+      "nl": [
+        "vaderland"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w08",
+      "ar": "بَلَدُ الأَصْلِ",
+      "tr": "baladu l-aṣl",
+      "nl": [
+        "land van herkomst"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l115-w09",
+      "ar": "حُرِّيَّةٌ",
+      "tr": "ḥurriyya",
+      "nl": [
+        "vrijheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w10",
+      "ar": "إِنْسانِيَّةٌ",
+      "tr": "insāniyya",
+      "nl": [
+        "menselijkheid, mensheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w11",
+      "ar": "أَهَمِّيَّةٌ",
+      "tr": "ahammiyya",
+      "nl": [
+        "belang"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w12",
+      "ar": "عُنْصُرِيَّةٌ",
+      "tr": "ʿunṣuriyya",
+      "nl": [
+        "racisme"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w13",
+      "ar": "إِمْكانِيَّةٌ",
+      "tr": "imkāniyya",
+      "nl": [
+        "mogelijkheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w14",
+      "ar": "تَعَدُّدِيَّةٌ",
+      "tr": "taʿaddudiyya",
+      "nl": [
+        "diversiteit, pluralisme"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l115-w16",
+      "ar": "الجيلُ الثّاني",
+      "tr": "al-jīlu ṯ-ṯānī",
+      "nl": [
+        "de tweede generatie"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Abstracte zelfstandige naamwoorden op ـِيَّة",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Plak je **ـِيَّة** achter een woord, dan krijg je een **abstract begrip** (het Nederlandse *-heid*, *-isme*, *-iteit*). Vaak gaat het via de nisba: {ar|إِنْسانٌ} (mens) → {ar|إِنْسانِيٌّ} (menselijk) → {ar|إِنْسانِيَّةٌ} (menselijkheid)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Basis",
+            "Abstract",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "حُرٌّ (vrij)",
+              "حُرِّيَّةٌ",
+              "vrijheid"
+            ],
+            [
+              "مَسْؤولٌ (verantwoordelijk)",
+              "مَسْؤولِيَّةٌ",
+              "verantwoordelijkheid"
+            ],
+            [
+              "أَهَمُّ (belangrijker)",
+              "أَهَمِّيَّةٌ",
+              "belang"
+            ],
+            [
+              "إِمْكانٌ (mogelijkheid)",
+              "إِمْكانِيَّةٌ",
+              "mogelijkheid"
+            ],
+            [
+              "عُنْصُرٌ (ras, element)",
+              "عُنْصُرِيَّةٌ",
+              "racisme"
+            ],
+            [
+              "هُوَ (hij)",
+              "هُوِيَّةٌ",
+              "identiteit"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|هُوِيَّةٌ} komt letterlijk van {ar|هُوَ} (*hij*): *het hij-zijn*, wat iemand is. De klassieke filosofen vormden zo nieuwe begrippen, en het Arabisch doet dat nog steeds: {ar|رَقْمِيَّةٌ}, {ar|عَوْلَمِيَّةٌ}. Deze woorden zijn altijd **vrouwelijk**."
+        },
+        {
+          "type": "letop",
+          "md": "Het meervoud gaat op {ar|ـِيّاتٌ}: {ar|مَسْؤولِيّاتٌ} (verantwoordelijkheden), {ar|إِمْكانِيّاتٌ} (mogelijkheden)."
+        }
+      ]
+    },
+    {
+      "titel": "Tussen twee culturen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وُلِدْتُ في هولَنْدا، لٰكِنَّ هُوِيَّتي مَغْرِبِيَّةٌ وَهولَنْدِيَّةٌ مَعًا.",
+              "tr": "wulidtu fī hūlandā, lākinna huwiyyatī maġribiyyatun wa-hūlandiyyatun maʿan.",
+              "nl": "Ik ben in Nederland geboren, maar mijn identiteit is Marokkaans en Nederlands tegelijk."
+            },
+            {
+              "ar": "يُعاني بَعْضُ المُهاجِرينَ مِنَ الغُرْبَةِ.",
+              "tr": "yuʿānī baʿḍu l-muhājirīna mina l-ġurba.",
+              "nl": "Sommige migranten lijden onder het leven ver van huis."
+            },
+            {
+              "ar": "لِلُّغَةِ أَهَمِّيَّةٌ كَبيرَةٌ في الاِنْدِماجِ.",
+              "tr": "li-l-luġati ahammiyyatun kabīratun fi l-indimāj.",
+              "nl": "Taal is van groot belang voor integratie."
+            },
+            {
+              "ar": "أَبْناءُ الجيلِ الثّاني غالِبًا ثُنائِيّو اللُّغَةِ.",
+              "tr": "abnāʾu l-jīli ṯ-ṯānī ġāliban ṯunāʾiyyu l-luġa.",
+              "nl": "Kinderen van de tweede generatie zijn vaak tweetalig.",
+              "review": {
+                "status": "onzeker",
+                "note": "ثُنائِيّو (mv, iḍāfa: ـونَ valt weg) laten controleren; in pausa uitgesproken als ṯunāʾiyyu l-luġa."
+              }
+            },
+            {
+              "ar": "التَّعَدُّدِيَّةُ غِنًى لِلْمُجْتَمَعِ.",
+              "tr": "at-taʿaddudiyyatu ġinan li-l-mujtamaʿ.",
+              "nl": "Diversiteit is een rijkdom voor de samenleving."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "هُوِيَّةٌ",
+              "nl": "identiteit",
+              "woord": "j3-p10-l115-w01"
+            },
+            {
+              "ar": "اِنْدِماجٌ",
+              "nl": "integratie",
+              "woord": "j3-p10-l115-w03"
+            },
+            {
+              "ar": "غُرْبَةٌ",
+              "nl": "leven ver van huis",
+              "woord": "j3-p10-l115-w04"
+            },
+            {
+              "ar": "جالِيَةٌ",
+              "nl": "gemeenschap in het buitenland",
+              "woord": "j3-p10-l115-w05"
+            },
+            {
+              "ar": "حُرِّيَّةٌ",
+              "nl": "vrijheid",
+              "woord": "j3-p10-l115-w09"
+            },
+            {
+              "ar": "عُنْصُرِيَّةٌ",
+              "nl": "racisme",
+              "woord": "j3-p10-l115-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "abstract-iyya",
+          "tekst": "لِلُّغَةِ أَهَمِّيَّةٌ كَبيرَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Taal is heel belangrijk.",
+            "Taal is niet belangrijk.",
+            "Taal is moeilijk."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَهَمِّيَّةٌ}"
+        }
+      ]
+    },
+    {
+      "titel": "Abstracta vormen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "abstract-iyya",
+          "instructie": "Vorm het abstracte zelfstandig naamwoord.",
+          "rijen": [
+            {
+              "label": "إِنْسانٌ → menselijkheid",
+              "antwoord": "إِنْسانِيَّة",
+              "tr": "insāniyya"
+            },
+            {
+              "label": "حُرٌّ → vrijheid",
+              "antwoord": "حُرِّيَّة",
+              "tr": "ḥurriyya"
+            },
+            {
+              "label": "مَسْؤولٌ → verantwoordelijkheid",
+              "antwoord": "مَسْؤولِيَّة",
+              "tr": "masʾūliyya"
+            }
+          ],
+          "uitleg": "Basis + ـِيَّة."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "abstract-iyya",
+          "vraag": "Welk geslacht hebben woorden op ـِيَّة?",
+          "opties": [
+            "vrouwelijk",
+            "mannelijk",
+            "het verschilt"
+          ],
+          "juist": 0,
+          "uitleg": "Altijd vrouwelijk."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "abstract-iyya",
+          "vraag": "Het meervoud van {ar|إِمْكانِيَّةٌ} is ...",
+          "opties": [
+            "إِمْكانِيّاتٌ",
+            "إِمْكانِيّونَ",
+            "أَماكِنُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ـِيّاتٌ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "abstract-iyya",
+          "zin": "لِلتَّعْليمِ ___ كَبيرَةٌ.",
+          "nl": "Onderwijs is van groot belang.",
+          "antwoord": [
+            "أَهَمِّيَّةٌ"
+          ],
+          "uitleg": "Abstract.",
+          "woordbank": [
+            "أَهَمِّيَّةٌ",
+            "مُهِمٌّ",
+            "أَهَمُّ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "abstract-iyya",
+          "zin": "يُحارِبُ القانونُ ___.",
+          "nl": "De wet bestrijdt racisme.",
+          "antwoord": [
+            "العُنْصُرِيَّةَ"
+          ],
+          "uitleg": "{ar|عُنْصُرِيَّةٌ}",
+          "woordbank": [
+            "العُنْصُرِيَّةَ",
+            "العُنْصُرَ",
+            "العُنْصُرِيَّ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "abstract-iyya",
+          "nl": "Mijn identiteit is Marokkaans en Nederlands tegelijk.",
+          "woorden": [
+            "هُوِيَّتي",
+            "مَغْرِبِيَّةٌ",
+            "وَهولَنْدِيَّةٌ",
+            "مَعًا."
+          ],
+          "uitleg": "Identiteit."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de integratie",
+          "antwoorden": [
+            "الاِنْدِماجُ",
+            "الاندماج"
+          ],
+          "uitleg": "{ar|الاِنْدِماجُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "abstract-iyya",
+          "bron": "التَّعَدُّدِيَّةُ غِنًى لِلْمُجْتَمَعِ.",
+          "antwoorden": [
+            "diversiteit is een rijkdom voor de samenleving",
+            "diversiteit is een verrijking voor de samenleving"
+          ],
+          "uitleg": "{ar|تَعَدُّدِيَّةٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "اِنْتِماءٌ",
+            "nl": "verbondenheid"
+          },
+          {
+            "ar": "مُهاجِرٌ",
+            "nl": "migrant"
+          },
+          {
+            "ar": "وَطَنٌ",
+            "nl": "vaderland"
+          },
+          {
+            "ar": "بَلَدُ الأَصْلِ",
+            "nl": "land van herkomst"
+          },
+          {
+            "ar": "إِنْسانِيَّةٌ",
+            "nl": "menselijkheid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "abstract-iyya",
+        "vraag": "{ar|ـِيَّة} maakt van een woord ...",
+        "opties": [
+          "een abstract begrip",
+          "een meervoud",
+          "een werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "-heid, -isme."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "abstract-iyya",
+        "vraag": "Waar komt {ar|هُوِيَّةٌ} vandaan?",
+        "opties": [
+          "van هُوَ (hij)",
+          "van هَواءٌ (lucht)",
+          "van هِوايَةٌ (hobby)"
+        ],
+        "juist": 0,
+        "uitleg": "Het hij-zijn."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "abstract-iyya",
+        "vraag": "'Verantwoordelijkheden' is ...",
+        "opties": [
+          "مَسْؤولِيّاتٌ",
+          "مَسْؤولونَ",
+          "مَسائِلُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ـِيّاتٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|غُرْبَةٌ} betekent ...",
+        "opties": [
+          "het leven ver van huis",
+          "vreemdeling",
+          "het westen"
+        ],
+        "juist": 0,
+        "uitleg": "Zelfde wortel als {ar|غَريبٌ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "abstract-iyya",
+        "tekst": "أَبْناءُ الجيلِ الثّاني ثُنائِيّو اللُّغَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Kinderen van de tweede generatie zijn tweetalig.",
+          "De tweede generatie spreekt geen Arabisch.",
+          "Er zijn twee generaties."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ثُنائِيُّ اللُّغَةِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "يُعاني المُهاجِرُ مِنَ الغُرْبَةِ",
+        "vraag": "Waaronder lijdt de migrant?",
+        "opties": [
+          "het leven ver van huis",
+          "de kou",
+          "werkloosheid"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الغُرْبَةُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "abstract-iyya",
+        "zin": "الإِنْسانُ يُحِبُّ ___.",
+        "nl": "De mens houdt van vrijheid.",
+        "antwoord": [
+          "الحُرِّيَّةَ"
+        ],
+        "uitleg": "Abstract, accusatief.",
+        "woordbank": [
+          "الحُرِّيَّةَ",
+          "الحُرَّ",
+          "الحُرِّيّاتُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "abstract-iyya",
+        "zin": "هَلْ هُناكَ ___ لِلْعَمَلِ مِنَ البَيْتِ؟",
+        "nl": "Is er een mogelijkheid om thuis te werken?",
+        "antwoord": [
+          "إِمْكانِيَّةٌ"
+        ],
+        "uitleg": "{ar|إِمْكانِيَّةٌ}",
+        "woordbank": [
+          "إِمْكانِيَّةٌ",
+          "مُمْكِنٌ",
+          "أَمْكَنَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تَعيشُ في هولَنْدا ___ مَغْرِبِيَّةٌ كَبيرَةٌ.",
+        "nl": "In Nederland woont een grote Marokkaanse gemeenschap.",
+        "antwoord": [
+          "جالِيَةٌ"
+        ],
+        "uitleg": "{ar|جالِيَةٌ}",
+        "woordbank": [
+          "جالِيَةٌ",
+          "غُرْبَةٌ",
+          "هُوِيَّةٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "abstract-iyya",
+        "instructie": "Vorm het abstracte woord.",
+        "rijen": [
+          {
+            "label": "عُنْصُرٌ → racisme",
+            "antwoord": "عُنْصُرِيَّة",
+            "tr": "ʿunṣuriyya"
+          },
+          {
+            "label": "إِمْكانٌ → mogelijkheid",
+            "antwoord": "إِمْكانِيَّة",
+            "tr": "imkāniyya"
+          }
+        ],
+        "uitleg": "+ ـِيَّة."
+      },
+      {
+        "type": "ordenen",
+        "tag": "abstract-iyya",
+        "nl": "Taal is van groot belang voor integratie.",
+        "woorden": [
+          "لِلُّغَةِ",
+          "أَهَمِّيَّةٌ",
+          "كَبيرَةٌ",
+          "في",
+          "الاِنْدِماجِ."
+        ],
+        "uitleg": "{ar|أَهَمِّيَّةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "abstract-iyya",
+        "bron": "de identiteit",
+        "antwoorden": [
+          "الهُوِيَّةُ",
+          "الهوية"
+        ],
+        "uitleg": "{ar|الهُوِيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "abstract-iyya",
+        "bron": "أَشْعُرُ بِالاِنْتِماءِ إِلى البَلَدَيْنِ.",
+        "antwoorden": [
+          "ik voel me verbonden met beide landen",
+          "ik voel dat ik bij beide landen hoor"
+        ],
+        "uitleg": "{ar|اِنْتِماءٌ}"
+      }
+    ]
+  }
+}

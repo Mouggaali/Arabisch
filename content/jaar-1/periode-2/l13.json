@@ -1,0 +1,164 @@
+{
+  "id": "j1-p2-l13",
+  "code": "L13",
+  "type": "les",
+  "titel": "Getallen 11–20",
+  "thema": "Aantallen en leeftijden noemen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "tellen van 11 tot en met 20.",
+    "vragen naar een aantal met كَمْ + enkelvoud in de accusatief.",
+    "een aantal tussen 11 en 20 noemen met een zelfstandig naamwoord (mannelijk).",
+    "mijn leeftijd noemen met عامًا."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l13-w01", "ar": "أَحَدَ عَشَرَ", "tr": "aḥada ʿašar", "nl": ["elf", "11"], "soort": "telwoord", "notitie": "١١" },
+    { "id": "j1-p2-l13-w02", "ar": "اِثْنا عَشَرَ", "tr": "iṯnā ʿašar", "nl": ["twaalf", "12"], "soort": "telwoord", "notitie": "١٢" },
+    { "id": "j1-p2-l13-w03", "ar": "ثَلاثَةَ عَشَرَ", "tr": "ṯalāṯata ʿašar", "nl": ["dertien", "13"], "soort": "telwoord", "notitie": "١٣" },
+    { "id": "j1-p2-l13-w04", "ar": "أَرْبَعَةَ عَشَرَ", "tr": "arbaʿata ʿašar", "nl": ["veertien", "14"], "soort": "telwoord", "notitie": "١٤" },
+    { "id": "j1-p2-l13-w05", "ar": "خَمْسَةَ عَشَرَ", "tr": "ḫamsata ʿašar", "nl": ["vijftien", "15"], "soort": "telwoord", "notitie": "١٥" },
+    { "id": "j1-p2-l13-w06", "ar": "سِتَّةَ عَشَرَ", "tr": "sittata ʿašar", "nl": ["zestien", "16"], "soort": "telwoord", "notitie": "١٦" },
+    { "id": "j1-p2-l13-w07", "ar": "سَبْعَةَ عَشَرَ", "tr": "sabʿata ʿašar", "nl": ["zeventien", "17"], "soort": "telwoord", "notitie": "١٧" },
+    { "id": "j1-p2-l13-w08", "ar": "ثَمانِيَةَ عَشَرَ", "tr": "ṯamāniyata ʿašar", "nl": ["achttien", "18"], "soort": "telwoord", "notitie": "١٨" },
+    { "id": "j1-p2-l13-w09", "ar": "تِسْعَةَ عَشَرَ", "tr": "tisʿata ʿašar", "nl": ["negentien", "19"], "soort": "telwoord", "notitie": "١٩" },
+    { "id": "j1-p2-l13-w10", "ar": "عِشْرونَ", "tr": "ʿišrūn", "nl": ["twintig", "20"], "soort": "telwoord", "notitie": "٢٠" },
+    { "id": "j1-p2-l13-w11", "ar": "عامٌ", "tr": "ʿām", "nl": ["jaar"], "soort": "zelfstandig naamwoord", "notitie": "Mannelijk; {ar|سَنَةٌ} is vrouwelijk. Voor leeftijd met 11–99 is {ar|عامًا} het makkelijkst." },
+    { "id": "j1-p2-l13-w12", "ar": "دَقيقَةٌ", "tr": "daqīqa", "nl": ["minuut"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w13", "ar": "فَريقٌ", "tr": "farīq", "nl": ["team", "ploeg"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w14", "ar": "لاعِبٌ", "tr": "lāʿib", "nl": ["speler"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w15", "ar": "صَفْحَةٌ", "tr": "ṣafḥa", "nl": ["pagina", "bladzijde"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w16", "ar": "تَمْرينٌ", "tr": "tamrīn", "nl": ["oefening", "training"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w17", "ar": "نُقْطَةٌ", "tr": "nuqṭa", "nl": ["punt"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l13-w18", "ar": "تَقْريبًا", "tr": "taqrīban", "nl": ["ongeveer"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De getallen 11 tot en met 20",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De getallen 11 tot en met 19 bestaan uit **twee woorden**: eerst de eenheid, dan {ar|عَشَرَ} (tien). Net als bij ons: *vier-tien*. Beide delen eindigen op een vaste fatḥa en veranderen niet van naamval.",
+          "Bij 11 en 12 is de eenheid bijzonder: {ar|أَحَدَ} in plaats van {ar|واحِدٌ}, en {ar|اِثْنا} in plaats van {ar|اِثْنانِ}. **20** is {ar|عِشْرونَ}: een meervoudsvorm van tien."
+        ] },
+        { "type": "tabel", "kop": ["Cijfer", "Arabisch", "Opbouw"], "arKolommen": [0, 1], "rijen": [
+          ["١١", "أَحَدَ عَشَرَ|aḥada ʿašar", "een + tien"],
+          ["١٢", "اِثْنا عَشَرَ|iṯnā ʿašar", "twee + tien"],
+          ["١٣", "ثَلاثَةَ عَشَرَ|ṯalāṯata ʿašar", "drie + tien"],
+          ["١٤", "أَرْبَعَةَ عَشَرَ|arbaʿata ʿašar", "vier + tien"],
+          ["١٥", "خَمْسَةَ عَشَرَ|ḫamsata ʿašar", "vijf + tien"],
+          ["١٦", "سِتَّةَ عَشَرَ|sittata ʿašar", "zes + tien"],
+          ["١٧", "سَبْعَةَ عَشَرَ|sabʿata ʿašar", "zeven + tien"],
+          ["١٨", "ثَمانِيَةَ عَشَرَ|ṯamāniyata ʿašar", "acht + tien"],
+          ["١٩", "تِسْعَةَ عَشَرَ|tisʿata ʿašar", "negen + tien"],
+          ["٢٠", "عِشْرونَ|ʿišrūn", "twintig"]
+        ] },
+        { "type": "letop", "md": "Dit zijn de vormen voor gewoon tellen en voor **mannelijke** woorden. Bij vrouwelijke woorden veranderen ze ({ar|خَمْسَ عَشْرَةَ طالِبَةً}). Dat oefen je in les 42; houd het nu bij mannelijke woorden." }
+      ]
+    },
+    {
+      "titel": "Hoeveel? كَمْ + enkelvoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Na {ar|كَمْ} (hoeveel) staat in het Arabisch een **enkelvoud in de accusatief** (-an): {ar|كَمْ طالِبًا؟} = *hoeveel studenten?* (letterlijk: hoeveel student?).",
+          "Ook na de getallen 11 tot en met 99 staat het getelde woord in het **enkelvoud, accusatief**: {ar|خَمْسَةَ عَشَرَ طالِبًا} = *vijftien studenten*; {ar|عِشْرونَ لاعِبًا} = *twintig spelers*."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "كَمْ طالِبًا في الصَّفِّ؟", "tr": "kam ṭāliban fi ṣ-ṣaff?", "nl": "Hoeveel studenten zitten er in de klas?" },
+          { "ar": "في الصَّفِّ ثَمانِيَةَ عَشَرَ طالِبًا.", "tr": "fi ṣ-ṣaffi ṯamāniyata ʿašara ṭāliban.", "nl": "Er zitten achttien studenten in de klas." },
+          { "ar": "في الفَريقِ أَحَدَ عَشَرَ لاعِبًا.", "tr": "fi l-farīqi aḥada ʿašara lāʿiban.", "nl": "In het team zitten elf spelers." },
+          { "ar": "الكِتابُ عِشْرونَ صَفْحَةً تَقْريبًا.", "tr": "al-kitābu ʿišrūna ṣafḥatan taqrīban.", "nl": "Het boek is ongeveer twintig bladzijden.",
+            "review": { "status": "onzeker", "note": "Bij 20 + vrouwelijk woord verandert عِشْرونَ niet; صَفْحَةً in de accusatief is juist. Controleer of de zinsconstructie (boek = 20 bladzijden) natuurlijk is; alternatief: في الكِتابِ عِشْرونَ صَفْحَةً." } }
+        ] },
+        { "type": "waarom", "md": "Het getelde woord heet hier *tamyīz* (verduidelijking): *vijftien, en wel aan studenten*. Een verduidelijking staat in het Arabisch in de accusatief, en omdat het getal het aantal al aangeeft, volstaat het enkelvoud." }
+      ]
+    },
+    {
+      "titel": "Je leeftijd noemen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Met {ar|عامٌ} (jaar, mannelijk) gebruik je voor leeftijden van 11 tot 20 precies de vormen uit de tabel: {ar|عُمْري خَمْسَةَ عَشَرَ عامًا} = *ik ben vijftien jaar*."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "كَمْ عُمْرُكَ؟ — عُمْري سَبْعَةَ عَشَرَ عامًا.", "tr": "kam ʿumruka? — ʿumrī sabʿata ʿašara ʿāman.", "nl": "Hoe oud ben je? — Ik ben zeventien." },
+          { "ar": "عُمْرُ أَخي عِشْرونَ عامًا.", "tr": "ʿumru aḫī ʿišrūna ʿāman.", "nl": "Mijn broer is twintig." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Getallen 11–20",
+      "items": [
+        { "type": "koppelen", "tag": "getallen-11-20", "paren": [
+          { "ar": "أَحَدَ عَشَرَ", "nl": "11", "woord": "j1-p2-l13-w01" },
+          { "ar": "اِثْنا عَشَرَ", "nl": "12", "woord": "j1-p2-l13-w02" },
+          { "ar": "خَمْسَةَ عَشَرَ", "nl": "15", "woord": "j1-p2-l13-w05" },
+          { "ar": "سَبْعَةَ عَشَرَ", "nl": "17", "woord": "j1-p2-l13-w07" },
+          { "ar": "تِسْعَةَ عَشَرَ", "nl": "19", "woord": "j1-p2-l13-w09" },
+          { "ar": "عِشْرونَ", "nl": "20", "woord": "j1-p2-l13-w10" }
+        ], "uitleg": "Eenheid + {ar|عَشَرَ}." },
+        { "type": "luisteren", "tag": "getallen-11-20", "tekst": "سِتَّةَ عَشَرَ", "vraag": "Welk getal hoor je?", "opties": ["16", "6", "13", "60"], "juist": 0, "uitleg": "*sittata ʿašar* = 16." },
+        { "type": "luisteren", "tag": "getallen-11-20", "tekst": "اِثْنا عَشَرَ", "vraag": "Welk getal hoor je?", "opties": ["12", "2", "20", "11"], "juist": 0, "uitleg": "*iṯnā ʿašar* = 12." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ١٨?", "opties": ["18", "81", "17", "13"], "juist": 0, "uitleg": "١ = 1, ٨ = 8." },
+        { "type": "vervoegen", "tag": "getallen-11-20", "instructie": "Schrijf het getal in het Arabisch (harakat mag je weglaten).",
+          "rijen": [
+            { "label": "13", "antwoord": "ثَلاثَةَ عَشَرَ", "tr": "ṯalāṯata ʿašar" },
+            { "label": "14", "antwoord": "أَرْبَعَةَ عَشَرَ", "tr": "arbaʿata ʿašar" },
+            { "label": "18", "antwoord": "ثَمانِيَةَ عَشَرَ", "tr": "ṯamāniyata ʿašar" },
+            { "label": "20", "antwoord": "عِشْرونَ", "tr": "ʿišrūn" }
+          ], "uitleg": "Twee woorden: eenheid met ة + {ar|عَشَرَ}." }
+      ]
+    },
+    {
+      "titel": "Hoeveel?",
+      "items": [
+        { "type": "invullen", "tag": "kam-tamyiz", "zin": "كَمْ ___ في الفَريقِ؟", "nl": "Hoeveel spelers zitten er in het team?", "woordbank": ["لاعِبًا", "لاعِبٌ", "لاعِبونَ"], "antwoord": ["لاعِبًا"], "uitleg": "Na {ar|كَمْ}: enkelvoud, accusatief." },
+        { "type": "invullen", "tag": "kam-tamyiz", "zin": "في الصَّفِّ خَمْسَةَ عَشَرَ ___.", "nl": "Er zitten vijftien studenten in de klas.", "woordbank": ["طالِبًا", "طُلّابٌ", "طالِبٌ"], "antwoord": ["طالِبًا"], "uitleg": "Na 11–99: enkelvoud, accusatief." },
+        { "type": "meerkeuze", "tag": "kam-tamyiz", "vraag": "Welke is juist voor 'twintig minuten'?", "opties": ["عِشْرونَ دَقيقَةً", "عِشْرونَ دَقائِقُ", "عِشْرونَ دَقيقَةٌ"], "juist": 0, "uitleg": "Enkelvoud in de accusatief: {ar|دَقيقَةً}." },
+        { "type": "ordenen", "tag": "kam-tamyiz", "nl": "Hoeveel studenten zitten er in de klas?", "woorden": ["كَمْ", "طالِبًا", "في", "الصَّفِّ؟"], "uitleg": "{ar|كَمْ} + enkelvoud accusatief." },
+        { "type": "ordenen", "tag": "leeftijd", "nl": "Ik ben zeventien (jaar).", "woorden": ["عُمْري", "سَبْعَةَ", "عَشَرَ", "عامًا."], "uitleg": "{ar|عُمْري} + getal + {ar|عامًا}." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "getallen-11-20", "bron": "elf", "antwoorden": ["أَحَدَ عَشَرَ"], "uitleg": "{ar|أَحَدَ عَشَرَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kam-tamyiz", "bron": "Hoeveel bladzijden?", "antwoorden": ["كَمْ صَفْحَةً؟"], "uitleg": "{ar|كَمْ صَفْحَةً؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "leeftijd", "bron": "Ik ben twintig jaar.", "antwoorden": ["عُمْري عِشْرونَ عامًا"], "uitleg": "{ar|عُمْري عِشْرونَ عامًا}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "kam-tamyiz", "bron": "في الكِتابِ اِثْنا عَشَرَ تَمْرينًا.", "tr": "fi l-kitābi ṯnā ʿašara tamrīnan.", "antwoorden": ["in het boek staan twaalf oefeningen", "er staan twaalf oefeningen in het boek", "het boek heeft twaalf oefeningen", "in het boek zijn twaalf oefeningen"], "uitleg": "12 + enkelvoud accusatief." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "leeftijd", "bron": "عُمْرُ أُخْتي أَرْبَعَةَ عَشَرَ عامًا.", "tr": "ʿumru uḫtī arbaʿata ʿašara ʿāman.", "antwoorden": ["mijn zus is veertien jaar", "mijn zus is veertien", "mijn zus is 14 jaar"], "uitleg": "Letterlijk: de leeftijd van mijn zus is veertien jaar." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "getallen-11-20", "paren": [
+        { "ar": "ثَلاثَةَ عَشَرَ", "nl": "13" },
+        { "ar": "سِتَّةَ عَشَرَ", "nl": "16" },
+        { "ar": "ثَمانِيَةَ عَشَرَ", "nl": "18" },
+        { "ar": "عِشْرونَ", "nl": "20" }
+      ], "uitleg": "Herhaal de getallen." },
+      { "type": "luisteren", "tag": "getallen-11-20", "tekst": "أَرْبَعَةَ عَشَرَ", "vraag": "Welk getal hoor je?", "opties": ["14", "4", "40", "15"], "juist": 0, "uitleg": "14" },
+      { "type": "luisteren", "tag": "getallen-11-20", "tekst": "أَحَدَ عَشَرَ", "vraag": "Welk getal hoor je?", "opties": ["11", "1", "12"], "juist": 0, "uitleg": "11" },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ١٢?", "opties": ["12", "21", "11"], "juist": 0, "uitleg": "١٢ = 12." },
+      { "type": "meerkeuze", "tag": "kam-tamyiz", "vraag": "Wat volgt op كَمْ?", "opties": ["een enkelvoud in de accusatief", "een meervoud", "een woord met ال"], "juist": 0, "uitleg": "{ar|كَمْ طالِبًا؟}" },
+      { "type": "meerkeuze", "tag": "kam-tamyiz", "vraag": "'Negentien spelers' is ...", "opties": ["تِسْعَةَ عَشَرَ لاعِبًا", "تِسْعَةَ عَشَرَ لاعِبونَ", "تِسْعَةُ لاعِبينَ"], "juist": 0, "uitleg": "Enkelvoud accusatief." },
+      { "type": "invullen", "tag": "kam-tamyiz", "zin": "كَمْ ___؟", "nl": "Hoeveel jaar?", "woordbank": ["عامًا", "عامٌ", "أَعْوامٌ"], "antwoord": ["عامًا"], "uitleg": "Enkelvoud accusatief." },
+      { "type": "invullen", "tag": "getallen-11-20", "zin": "عَشَرَة، أَحَدَ عَشَرَ، ___", "nl": "10, 11, ...", "antwoord": ["اِثْنا عَشَرَ"], "uitleg": "12 = {ar|اِثْنا عَشَرَ}." },
+      { "type": "vervoegen", "tag": "getallen-11-20", "instructie": "Schrijf het getal in het Arabisch.",
+        "rijen": [
+          { "label": "15", "antwoord": "خَمْسَةَ عَشَرَ", "tr": "ḫamsata ʿašar" },
+          { "label": "17", "antwoord": "سَبْعَةَ عَشَرَ", "tr": "sabʿata ʿašar" }
+        ], "uitleg": "{ar|خَمْسَةَ عَشَرَ} · {ar|سَبْعَةَ عَشَرَ}" },
+      { "type": "ordenen", "tag": "kam-tamyiz", "nl": "In het team zitten elf spelers.", "woorden": ["في", "الفَريقِ", "أَحَدَ", "عَشَرَ", "لاعِبًا."], "uitleg": "Plaatsbepaling vooraan, dan het aantal." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "getallen-11-20", "bron": "negentien", "antwoorden": ["تِسْعَةَ عَشَرَ"], "uitleg": "{ar|تِسْعَةَ عَشَرَ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "leeftijd", "bron": "Ik ben achttien jaar.", "antwoorden": ["عُمْري ثَمانِيَةَ عَشَرَ عامًا"], "uitleg": "{ar|عُمْري ثَمانِيَةَ عَشَرَ عامًا}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "kam-tamyiz", "bron": "كَمْ دَقيقَةً؟", "tr": "kam daqīqa?", "antwoorden": ["hoeveel minuten", "hoeveel minuut"], "uitleg": "{ar|كَمْ} + enkelvoud." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "getallen-11-20", "bron": "عِشْرونَ نُقْطَةً", "tr": "ʿišrūna nuqṭa", "antwoorden": ["twintig punten", "20 punten"], "uitleg": "20 + enkelvoud accusatief." }
+    ]
+  }
+}

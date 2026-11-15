@@ -1,0 +1,447 @@
+{
+  "id": "j3-p12-h36",
+  "code": "H36",
+  "type": "herhaling",
+  "titel": "Herhaling jaar 3",
+  "thema": "Alles van jaar 3: voorbereiding op PT12 en het B1-eindexamen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de grammatica van jaar 3 in context toepassen.",
+    "de vier examenvaardigheden met strategie inzetten.",
+    "je voorbereiden op PT12 en NE6."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 12 (les 133–144 en D28–D30) en je zwakke punten uit het dashboard.",
+  "grammatica": [
+    {
+      "titel": "Jaar 3 in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Periode",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "9 complexe zinnen",
+              "lijdende vorm, voorwaarden, bijzinnen, ḥāl, mafʿūl muṭlaq",
+              "لَوْ دَرَسْتَ لَنَجَحْتَ"
+            ],
+            [
+              "10 standpunten",
+              "maṣdar-stijl, beperking, oorzaak-gevolg, krant, brief, betoog",
+              "مِمّا أَدّى إِلى …"
+            ],
+            [
+              "11 verdieping",
+              "woordvorming, voorzetsels, nadruk, vocatief, klassiek, projecten",
+              "رُبَّ ضارَّةٍ نافِعَةٌ"
+            ],
+            [
+              "12 B1",
+              "advies, voorwaarden, nuanceren, verteltijden, examentraining",
+              "سَواءٌ … أَمْ …"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Je hebt nu alle grammatica van B1 gezien. De periodetoets en de eindevaluatie toetsen niet of je regels kunt opzeggen, maar of je ze **gebruikt** in echte teksten en gesprekken."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "'Er wordt gezegd dat …' is ...",
+          "opties": [
+            "يُقالُ إِنَّ …",
+            "يَقولُ إِنَّ …",
+            "قالَ أَنَّ …"
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "verteltijden",
+          "vraag": "{ar|فَإِذا بِـ} drukt uit ...",
+          "opties": [
+            "een plotselinge ontdekking",
+            "een voorwaarde",
+            "een doel"
+          ],
+          "juist": 0,
+          "uitleg": "Verrassing."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Welke schrijfwijze is juist?",
+          "opties": [
+            "كَتَبوا",
+            "كَتَبو",
+            "كَتَبُ"
+          ],
+          "juist": 0,
+          "uitleg": "Alif na {ar|ـوا}."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تَعْليماتٌ",
+              "nl": "instructies"
+            },
+            {
+              "ar": "نَبْرَةٌ",
+              "nl": "toon",
+              "woord": "j3-p12-l142-w05"
+            },
+            {
+              "ar": "مِعْيارٌ",
+              "nl": "criterium",
+              "woord": "j3-p12-l143-w01"
+            },
+            {
+              "ar": "طَلاقَةٌ",
+              "nl": "vloeiendheid",
+              "woord": "j3-p12-l144-w04"
+            },
+            {
+              "ar": "بالتوفيق",
+              "nl": "veel succes (Darija)",
+              "woord": "j3-p12-d30-w02"
+            },
+            {
+              "ar": "مُرادِفٌ",
+              "nl": "synoniem",
+              "woord": "j3-p12-l141-w08"
+            }
+          ],
+          "uitleg": "Woorden uit blok 12C."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "examen",
+          "zin": "أُريدُ أَنْ ___ في الاِمْتِحانِ.",
+          "nl": "Ik wil slagen voor het examen.",
+          "antwoord": [
+            "أَنْجَحَ"
+          ],
+          "uitleg": "Manṣūb.",
+          "woordbank": [
+            "أَنْجَحَ",
+            "أَنْجَحُ",
+            "نَجَحْتُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "reisadvies",
+          "zin": "يُنْصَحُ ___ قَبْلَ الاِمْتِحانِ.",
+          "nl": "Het is aan te raden voor het examen te slapen.",
+          "antwoord": [
+            "بِالنَّوْمِ"
+          ],
+          "uitleg": "Maṣdar.",
+          "woordbank": [
+            "بِالنَّوْمِ",
+            "أَنْ نامَ",
+            "نائِمٌ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "spreken",
+          "nl": "Wat mij betreft is de fiets het beste vervoermiddel.",
+          "woorden": [
+            "بِالنِّسْبَةِ",
+            "إِلَيَّ،",
+            "الدَّرّاجَةُ",
+            "أَفْضَلُ",
+            "وَسيلَةِ",
+            "نَقْلٍ."
+          ],
+          "uitleg": "Mening."
+        },
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "أُجِّلَ الاِمْتِحانُ إِلى الأُسْبوعِ القادِمِ",
+          "vraag": "Wat is er met het examen?",
+          "opties": [
+            "Uitgesteld tot volgende week.",
+            "Het is vandaag.",
+            "Het is afgeschaft."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أُجِّلَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "examen",
+          "bron": "volgens de tekst",
+          "antwoorden": [
+            "حَسَبَ النَّصِّ",
+            "حسب النص"
+          ],
+          "uitleg": "{ar|حَسَبَ النَّصِّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "nuanceren",
+          "bron": "سَواءٌ أَنَجَحْتَ أَمْ لا، فَقَدْ تَعَلَّمْتَ كَثيرًا.",
+          "antwoorden": [
+            "of je nu slaagt of niet je hebt veel geleerd",
+            "of je nu geslaagd bent of niet, je hebt veel geleerd"
+          ],
+          "uitleg": "{ar|سَواءٌ … أَمْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-afsluiting",
+          "bron": "الله يوفقك",
+          "antwoorden": [
+            "moge god je succes geven",
+            "veel succes"
+          ],
+          "uitleg": "Darija.",
+          "tr": "ļļāh ywəffqək"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Het boek werd vertaald' is ...",
+        "opties": [
+          "تُرْجِمَ الكِتابُ",
+          "تَرْجَمَ الكِتابَ",
+          "يُتَرْجِمُ الكِتابُ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend vierletterig."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "'Als ik tijd had, zou ik reizen' is ...",
+        "opties": [
+          "لَوْ كانَ عِنْدي وَقْتٌ لَسافَرْتُ",
+          "إِذا عِنْدي وَقْتٌ أُسافِرُ",
+          "إِنْ كانَ وَقْتٌ سافَرْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "{ar|لا يُسْمَحُ بِالدُّخولِ إِلّا لِلْمُوَظَّفينَ} betekent ...",
+        "opties": [
+          "Alleen personeel mag naar binnen.",
+          "Personeel mag niet naar binnen.",
+          "Iedereen mag naar binnen."
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "{ar|ما دامَ} betekent ...",
+        "opties": [
+          "zolang",
+          "zodra",
+          "hoewel"
+        ],
+        "juist": 0,
+        "uitleg": "Duur."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Welke zin is correct?",
+        "opties": [
+          "المُدُنُ القَديمَةُ جَميلَةٌ.",
+          "المُدُنُ القَديمُ جَميلٌ.",
+          "المُدُنُ قَديمونَ جَميلونَ."
+        ],
+        "juist": 0,
+        "uitleg": "Niet-menselijk meervoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "صَحيحٌ أَنَّ الاِمْتِحانَ صَعْبٌ، إِلّا أَنَّني مُسْتَعِدٌّ",
+        "vraag": "Hoe voelt de spreker zich?",
+        "opties": [
+          "voorbereid, ondanks de moeilijkheid",
+          "niet voorbereid",
+          "ziek"
+        ],
+        "juist": 0,
+        "uitleg": "Toegeving."
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ",
+        "vraag": "Wat doet de spreker?",
+        "opties": [
+          "tijd winnen",
+          "afsluiten",
+          "weigeren"
+        ],
+        "juist": 0,
+        "uitleg": "Strategie."
+      },
+      {
+        "type": "invullen",
+        "tag": "nuanceren",
+        "zin": "لَيْسَ الاِمْتِحانُ صَعْبًا فَقَطْ، ___ طَويلٌ أَيْضًا.",
+        "nl": "Het examen is niet alleen moeilijk, maar ook lang.",
+        "antwoord": [
+          "بَلْ"
+        ],
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}",
+        "woordbank": [
+          "بَلْ",
+          "أَمْ",
+          "لِأَنَّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "verteltijden",
+        "zin": "عِنْدَما وَصَلْتُ كانَ الاِمْتِحانُ قَدْ ___.",
+        "nl": "Toen ik aankwam, was het examen al begonnen.",
+        "antwoord": [
+          "بَدَأَ"
+        ],
+        "uitleg": "Voltooid verleden.",
+        "woordbank": [
+          "بَدَأَ",
+          "يَبْدَأُ",
+          "سَيَبْدَأُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "اِسْتَمِعْ إِلى التَّسْجيلِ ثُمَّ ___ الجَوابَ الصَّحيحَ.",
+        "nl": "Luister naar de opname en kies dan het juiste antwoord.",
+        "antwoord": [
+          "اِخْتَرِ"
+        ],
+        "uitleg": "Gebiedende wijs.",
+        "woordbank": [
+          "اِخْتَرِ",
+          "اِخْتارَ",
+          "يَخْتارُ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "قَلْعَةٌ",
+            "nl": "fort"
+          },
+          {
+            "ar": "عَقْدُ عَمَلٍ",
+            "nl": "arbeidscontract"
+          },
+          {
+            "ar": "سَدٌّ",
+            "nl": "stuwdam"
+          },
+          {
+            "ar": "أُطْروحَةٌ",
+            "nl": "stelling"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "In de eerste plaats leert de student zelfstandig te zijn.",
+        "woorden": [
+          "في",
+          "المَقامِ",
+          "الأَوَّلِ،",
+          "يَتَعَلَّمُ",
+          "الطّالِبُ",
+          "الاِسْتِقْلالَ."
+        ],
+        "uitleg": "Betoog."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "spreken",
+        "bron": "laat me even nadenken",
+        "antwoorden": [
+          "دَعْني أُفَكِّرُ",
+          "دعني أفكر"
+        ],
+        "uitleg": "Strategie."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "reisadvies",
+        "bron": "لا بُدَّ مِنِ احْتِرامِ العاداتِ.",
+        "antwoorden": [
+          "je moet de gewoonten respecteren",
+          "het respecteren van de gewoonten is noodzakelijk"
+        ],
+        "uitleg": "{ar|لا بُدَّ مِنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-afsluiting",
+        "bron": "ما فهمتش، عاود عافاك",
+        "antwoorden": [
+          "ik begrijp het niet herhaal het alsjeblieft",
+          "ik heb het niet begrepen, wil je het herhalen"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ma fhəmtš, ʿāwəd ʿāfāk"
+      }
+    ]
+  }
+}

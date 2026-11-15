@@ -1,0 +1,211 @@
+{
+  "id": "j1-p1-l03",
+  "code": "L03",
+  "type": "les",
+  "titel": "Afkomst en nationaliteit",
+  "thema": "Zeggen waar je vandaan komt en welke nationaliteit je hebt",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "vragen waar iemand vandaan komt en zeggen waar ik vandaan kom.",
+    "de namen van een aantal landen noemen.",
+    "een nationaliteit vormen met de nisba-uitgang ـِيّ / ـِيَّة, voor een man en een vrouw.",
+    "مِنْ en مِنَ correct gebruiken."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l03-w01", "ar": "مِنْ", "tr": "min", "nl": ["van", "uit"], "soort": "voorzetsel",
+      "notitie": "Voor ال wordt het {ar|مِنَ}: {ar|مِنَ المَغْرِبِ}." },
+    { "id": "j1-p1-l03-w02", "ar": "أَيْنَ", "tr": "ayna", "nl": ["waar"], "soort": "vraagwoord" },
+    { "id": "j1-p1-l03-w03", "ar": "مِنْ أَيْنَ؟", "tr": "min ayna?", "nl": ["waarvandaan?", "waar kom je vandaan?"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l03-w04", "ar": "بَلَدٌ", "tr": "balad", "nl": ["land"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l03-w05", "ar": "مَدينَةٌ", "tr": "madīna", "nl": ["stad"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l03-w06", "ar": "هولَنْدا", "tr": "Hūlandā", "nl": ["Nederland"], "soort": "eigennaam",
+      "review": { "status": "onzeker", "note": "Vocalisatie van de leenwoordnaam (هولَنْدا, Hūlandā). Controleer de gangbare spelling; ook هُولَنْدا komt voor." } },
+    { "id": "j1-p1-l03-w07", "ar": "بَلْجيكا", "tr": "Baljīkā", "nl": ["België"], "soort": "eigennaam",
+      "review": { "status": "onzeker", "note": "Vocalisatie van de leenwoordnaam; controleer of بَلْجِيكا / Baljīkā gangbaar is." } },
+    { "id": "j1-p1-l03-w08", "ar": "المَغْرِبُ", "tr": "al-Maġrib", "nl": ["Marokko"], "soort": "eigennaam",
+      "notitie": "Letterlijk: het westen, de plaats waar de zon ondergaat." },
+    { "id": "j1-p1-l03-w09", "ar": "مِصْرُ", "tr": "Miṣr", "nl": ["Egypte"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w10", "ar": "تونِسُ", "tr": "Tūnis", "nl": ["Tunesië", "Tunis"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w11", "ar": "الجَزائِرُ", "tr": "al-Jazāʾir", "nl": ["Algerije", "Algiers"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w12", "ar": "سورِيا", "tr": "Sūriyā", "nl": ["Syrië"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w13", "ar": "لُبْنانُ", "tr": "Lubnān", "nl": ["Libanon"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w14", "ar": "فَرَنْسا", "tr": "Faransā", "nl": ["Frankrijk"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w15", "ar": "أَلْمانِيا", "tr": "Almāniyā", "nl": ["Duitsland"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w16", "ar": "تُرْكِيا", "tr": "Turkiyā", "nl": ["Turkije"], "soort": "eigennaam" },
+    { "id": "j1-p1-l03-w17", "ar": "هولَنْدِيٌّ", "tr": "hūlandī", "nl": ["Nederlander", "Nederlands (m)"], "soort": "bijvoeglijk naamwoord",
+      "notitie": "Vrouwelijk: {ar|هولَنْدِيَّةٌ} (*hūlandiyya*)." },
+    { "id": "j1-p1-l03-w18", "ar": "مَغْرِبِيٌّ", "tr": "maġribī", "nl": ["Marokkaan", "Marokkaans (m)"], "soort": "bijvoeglijk naamwoord",
+      "notitie": "Vrouwelijk: {ar|مَغْرِبِيَّةٌ} (*maġribiyya*)." },
+    { "id": "j1-p1-l03-w19", "ar": "مِصْرِيٌّ", "tr": "miṣrī", "nl": ["Egyptenaar", "Egyptisch (m)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l03-w20", "ar": "عَرَبِيٌّ", "tr": "ʿarabī", "nl": ["Arabier", "Arabisch (m)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l03-w21", "ar": "العَرَبِيَّةُ", "tr": "al-ʿarabiyya", "nl": ["het Arabisch (de taal)"], "soort": "zelfstandig naamwoord",
+      "notitie": "Kort voor {ar|اللُّغَةُ العَرَبِيَّةُ}, de Arabische taal." },
+    { "id": "j1-p1-l03-w22", "ar": "لُغَةٌ", "tr": "luġa", "nl": ["taal"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Waar kom je vandaan?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Je vraagt naar iemands afkomst met {ar|مِنْ أَيْنَ أَنْتَ؟} (tegen een man) of {ar|مِنْ أَيْنَ أَنْتِ؟} (tegen een vrouw). Letterlijk: *van waar (ben) jij?*",
+          "Je antwoordt met {ar|أَنا مِنْ} + land: {ar|أَنا مِنْ هولَنْدا}, *ik (ben) uit Nederland*. Ook hier staat er geen werkwoord."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مِنْ أَيْنَ أَنْتَ؟", "tr": "min ayna anta?", "nl": "Waar kom jij vandaan?" },
+          { "ar": "أَنا مِنْ هولَنْدا.", "tr": "ana min Hūlandā.", "nl": "Ik kom uit Nederland." },
+          { "ar": "هِيَ مِنَ المَغْرِبِ.", "tr": "hiya mina l-Maġrib.", "nl": "Zij komt uit Marokko." },
+          { "ar": "وَأَنْتِ؟ مِنْ أَيْنَ أَنْتِ؟", "tr": "wa-anti? min ayna anti?", "nl": "En jij? Waar kom jij vandaan?" }
+        ] },
+        { "type": "letop", "md": "Voor een woord met {ar|ال} wordt {ar|مِنْ} uitgesproken én geschreven als {ar|مِنَ}: {ar|مِنَ المَغْرِبِ} (*mina l-Maġrib*), {ar|مِنَ الجَزائِرِ} (*mina l-Jazāʾir*)." },
+        { "type": "waarom", "md": "De n van {ar|مِنْ} heeft een sukūn, en de l van het lidwoord ook. Het Arabisch laat geen twee medeklinkers zonder klinker direct na elkaar staan. Daarom komt er een hulpklinker tussen; bij {ar|مِنْ} is dat een a." }
+      ]
+    },
+    {
+      "titel": "Nationaliteit: de nisba-uitgang ـِيّ / ـِيَّة",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Van een land maak je een nationaliteit (*Nederlander, Nederlands*) met de **nisba-uitgang**: ـِيّ voor een man, ـِيَّة voor een vrouw.",
+          "Zo werkt het: **1.** haal het lidwoord {ar|ال} weg; **2.** haal een eind-ا of -يا weg; **3.** plak ـِيّ (m) of ـِيَّة (v) erachter."
+        ] },
+        { "type": "tabel", "kop": ["Land", "Man", "Vrouw"], "arKolommen": [0, 1, 2], "rijen": [
+          ["هولَنْدا|Hūlandā", "هولَنْدِيّ|hūlandī", "هولَنْدِيَّة|hūlandiyya"],
+          ["المَغْرِب|al-Maġrib", "مَغْرِبِيّ|maġribī", "مَغْرِبِيَّة|maġribiyya"],
+          ["مِصْر|Miṣr", "مِصْرِيّ|miṣrī", "مِصْرِيَّة|miṣriyya"],
+          ["تونِس|Tūnis", "تونِسِيّ|tūnisī", "تونِسِيَّة|tūnisiyya"],
+          ["الجَزائِر|al-Jazāʾir", "جَزائِرِيّ|jazāʾirī", "جَزائِرِيَّة|jazāʾiriyya"],
+          ["سورِيا|Sūriyā", "سورِيّ|sūrī", "سورِيَّة|sūriyya"],
+          ["لُبْنان|Lubnān", "لُبْنانِيّ|lubnānī", "لُبْنانِيَّة|lubnāniyya"],
+          ["فَرَنْسا|Faransā", "فَرَنْسِيّ|faransī", "فَرَنْسِيَّة|faransiyya"],
+          ["أَلْمانِيا|Almāniyā", "أَلْمانِيّ|almānī", "أَلْمانِيَّة|almāniyya"],
+          ["تُرْكِيا|Turkiyā", "تُرْكِيّ|turkī", "تُرْكِيَّة|turkiyya"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "أَنا هولَنْدِيٌّ وَهِيَ مَغْرِبِيَّةٌ.", "tr": "ana hūlandiyyun wa-hiya maġribiyya.", "nl": "Ik ben Nederlander en zij is Marokkaanse." },
+          { "ar": "هُوَ مِصْرِيٌّ.", "tr": "huwa miṣrī.", "nl": "Hij is Egyptenaar." },
+          { "ar": "هِيَ لُبْنانِيَّةٌ.", "tr": "hiya lubnāniyya.", "nl": "Zij is Libanese." }
+        ] },
+        { "type": "waarom", "md": "*Nisba* betekent *verband*: de uitgang zegt dat iets of iemand bij iets hoort. Hij werkt niet alleen bij landen. Van {ar|عَرَب} (Arabieren) komt {ar|عَرَبِيّ} (Arabisch), en de taal heet {ar|العَرَبِيَّةُ}, vrouwelijk omdat {ar|لُغَةٌ} (taal) vrouwelijk is. Je komt deze uitgang nog heel vaak tegen." },
+        { "type": "letop", "md": "In de woordenlijst lees je de pausavorm *maġribī*. Midden in een zin hoor je de volledige uitspraak met tanwīn: {ar|مَغْرِبِيٌّ} *maġribiyyun*. De shadda op de ي hoort er altijd bij." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Landen",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "هولَنْدا", "nl": "Nederland", "woord": "j1-p1-l03-w06" },
+          { "ar": "المَغْرِبُ", "nl": "Marokko", "woord": "j1-p1-l03-w08" },
+          { "ar": "مِصْرُ", "nl": "Egypte", "woord": "j1-p1-l03-w09" },
+          { "ar": "أَلْمانِيا", "nl": "Duitsland", "woord": "j1-p1-l03-w15" },
+          { "ar": "لُبْنانُ", "nl": "Libanon", "woord": "j1-p1-l03-w13" },
+          { "ar": "تُرْكِيا", "nl": "Turkije", "woord": "j1-p1-l03-w16" }
+        ], "uitleg": "Veel landnamen lijken op hun Nederlandse naam; let op Marokko en Egypte." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "الجَزائِرُ", "vraag": "Welk land hoor je?",
+          "opties": ["Algerije", "Tunesië", "Syrië", "Frankrijk"], "juist": 0, "uitleg": "{ar|الجَزائِرُ} (*al-Jazāʾir*) = Algerije." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "مِنْ أَيْنَ أَنْتِ؟", "vraag": "Wat wordt er gevraagd?",
+          "opties": ["Waar kom jij vandaan?", "Hoe heet jij?", "Wie is zij?", "Hoe gaat het?"], "juist": 0,
+          "uitleg": "{ar|مِنْ أَيْنَ} = waarvandaan." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l03-w02", "vraag": "Wat betekent {ar|أَيْنَ}?",
+          "opties": ["waar", "wie", "hoe", "van"], "juist": 0, "uitleg": "{ar|أَيْنَ} = waar; {ar|مِنْ أَيْنَ} = waarvandaan." }
+      ]
+    },
+    {
+      "titel": "Nationaliteiten vormen",
+      "items": [
+        { "type": "vervoegen", "tag": "nisba", "instructie": "Maak de nationaliteit voor een man en een vrouw (zonder tanwīn).",
+          "rijen": [
+            { "label": "Marokko · man", "ar": "المَغْرِبُ", "antwoord": "مَغْرِبِيّ", "tr": "maġribī" },
+            { "label": "Marokko · vrouw", "ar": "المَغْرِبُ", "antwoord": "مَغْرِبِيَّة", "tr": "maġribiyya" },
+            { "label": "Nederland · man", "ar": "هولَنْدا", "antwoord": "هولَنْدِيّ", "tr": "hūlandī" },
+            { "label": "Nederland · vrouw", "ar": "هولَنْدا", "antwoord": "هولَنْدِيَّة", "tr": "hūlandiyya" }
+          ],
+          "uitleg": "Lidwoord weg, eind-ا weg, dan ـِيّ (m) of ـِيَّة (v)." },
+        { "type": "invullen", "tag": "nisba", "zin": "هِيَ ___.", "nl": "Zij is Egyptische.",
+          "woordbank": ["مِصْرِيَّةٌ", "مِصْرِيٌّ", "مِصْرُ"], "antwoord": ["مِصْرِيَّةٌ"],
+          "uitleg": "Voor een vrouw: ـِيَّة. {ar|مِصْرُ} is het land zelf." },
+        { "type": "invullen", "tag": "nisba", "zin": "أَنا ___.", "nl": "Ik ben Fransman.",
+          "woordbank": ["فَرَنْسِيٌّ", "فَرَنْسا", "فَرَنْسِيَّةٌ"], "antwoord": ["فَرَنْسِيٌّ"],
+          "uitleg": "{ar|فَرَنْسا} → eind-ا weg → {ar|فَرَنْسِيٌّ}." },
+        { "type": "meerkeuze", "tag": "nisba", "vraag": "Hoe noem je een vrouw uit Syrië?",
+          "opties": ["سورِيَّةٌ", "سورِيٌّ", "سورِيا"], "juist": 0,
+          "uitleg": "{ar|سورِيا}: haal -يا weg en voeg ـِيَّة toe: {ar|سورِيَّةٌ}." },
+        { "type": "meerkeuze", "tag": "nisba", "vraag": "Welke vorm hoort bij een man uit Algerije?",
+          "opties": ["جَزائِرِيٌّ", "الجَزائِرِيٌّ", "جَزائِرُ", "جَزائِرِيَّةٌ"], "juist": 0,
+          "uitleg": "Het lidwoord valt weg: {ar|الجَزائِر} → {ar|جَزائِرِيٌّ}." }
+      ]
+    },
+    {
+      "titel": "مِنْ of مِنَ?",
+      "items": [
+        { "type": "invullen", "tag": "afkomst", "zin": "هِيَ ___ المَغْرِبِ.", "nl": "Zij komt uit Marokko.",
+          "woordbank": ["مِنَ", "مِنْ"], "antwoord": ["مِنَ"], "uitleg": "Voor ال: {ar|مِنَ}." },
+        { "type": "invullen", "tag": "afkomst", "zin": "أَنا ___ هولَنْدا.", "nl": "Ik kom uit Nederland.",
+          "woordbank": ["مِنْ", "مِنَ"], "antwoord": ["مِنْ"], "uitleg": "{ar|هولَنْدا} heeft geen ال, dus gewoon {ar|مِنْ}." },
+        { "type": "ordenen", "tag": "afkomst", "nl": "Waar kom jij vandaan? (tegen een man)", "woorden": ["مِنْ", "أَيْنَ", "أَنْتَ؟"],
+          "uitleg": "Letterlijk: van waar jij?" },
+        { "type": "ordenen", "tag": "nisba", "nl": "Ik kom uit Nederland, ik ben Nederlander.", "woorden": ["أَنا", "مِنْ", "هولَنْدا،", "أَنا", "هولَنْدِيٌّ."],
+          "uitleg": "Twee nominale zinnen achter elkaar, zonder werkwoord." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "afkomst", "bron": "Waar kom je vandaan? (tegen een vrouw)", "antwoorden": ["مِنْ أَيْنَ أَنْتِ؟"], "eind": true,
+          "uitleg": "{ar|مِنْ أَيْنَ أَنْتِ؟}, met kasra op de ت." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "afkomst", "bron": "Ik kom uit Marokko.", "antwoorden": ["أَنا مِنَ المَغْرِبِ"],
+          "uitleg": "{ar|أَنا مِنَ المَغْرِبِ}: let op مِنَ voor ال." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "nisba", "bron": "Arabisch (m)", "antwoorden": ["عَرَبِيٌّ", "عَرَبِيّ"], "uitleg": "{ar|عَرَبِيٌّ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "nisba", "bron": "هِيَ تونِسِيَّةٌ.", "tr": "hiya tūnisiyya.",
+          "antwoorden": ["zij is tunesische", "zij is een tunesische", "ze is tunesische", "zij komt uit tunesie", "zij is tunesisch"],
+          "uitleg": "{ar|تونِسِيَّةٌ}: vrouw uit Tunesië." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "afkomst", "bron": "هُوَ مِنْ أَلْمانِيا.", "tr": "huwa min Almāniyā.",
+          "antwoorden": ["hij komt uit duitsland", "hij is uit duitsland", "hij is van duitsland"], "uitleg": "{ar|مِنْ} = uit, van." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "العَرَبِيَّةُ", "tr": "al-ʿarabiyya",
+          "antwoorden": ["het arabisch", "arabisch", "de arabische taal"], "uitleg": "De taal heet {ar|العَرَبِيَّةُ}." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "فَرَنْسا", "nl": "Frankrijk" },
+        { "ar": "سورِيا", "nl": "Syrië" },
+        { "ar": "مَدينَةٌ", "nl": "stad" },
+        { "ar": "بَلَدٌ", "nl": "land" },
+        { "ar": "لُغَةٌ", "nl": "taal" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "afkomst", "vraag": "Hoe vraag je een man waar hij vandaan komt?",
+        "opties": ["مِنْ أَيْنَ أَنْتَ؟", "مِنْ أَيْنَ أَنْتِ؟", "ما اسْمُكَ؟", "مَنْ أَنْتَ؟"], "juist": 0, "uitleg": "{ar|مِنْ أَيْنَ أَنْتَ؟}" },
+      { "type": "meerkeuze", "tag": "nisba", "vraag": "Een vrouw uit Libanon is ...",
+        "opties": ["لُبْنانِيَّةٌ", "لُبْنانِيٌّ", "لُبْنانُ"], "juist": 0, "uitleg": "ـِيَّة voor een vrouw." },
+      { "type": "meerkeuze", "tag": "afkomst", "vraag": "Welke zin is correct?",
+        "opties": ["هُوَ مِنَ المَغْرِبِ.", "هُوَ مِنْ المَغْرِبِ.", "هُوَ مِنَ هولَنْدا."], "juist": 0,
+        "uitleg": "{ar|مِنَ} alleen voor {ar|ال}." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنا مِصْرِيٌّ", "vraag": "Wat zegt de spreker?",
+        "opties": ["Ik ben Egyptenaar.", "Ik kom uit Marokko.", "Ik ben Arabier.", "Ik ben Syriër."], "juist": 0, "uitleg": "{ar|مِصْرِيٌّ} = Egyptenaar." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "تُرْكِيا", "vraag": "Welk land hoor je?", "opties": ["Turkije", "Tunesië", "Duitsland"], "juist": 0, "uitleg": "{ar|تُرْكِيا} (*Turkiyā*)." },
+      { "type": "invullen", "tag": "nisba", "zin": "هِيَ ___.", "nl": "Zij is Nederlandse.",
+        "woordbank": ["هولَنْدِيَّةٌ", "هولَنْدِيٌّ", "هولَنْدا"], "antwoord": ["هولَنْدِيَّةٌ"], "uitleg": "ـِيَّة voor een vrouw." },
+      { "type": "invullen", "tag": "afkomst", "zin": "___ أَيْنَ أَنْتَ؟", "nl": "Waar kom jij vandaan?", "antwoord": ["مِنْ"], "uitleg": "{ar|مِنْ أَيْنَ} = waarvandaan." },
+      { "type": "vervoegen", "tag": "nisba", "instructie": "Maak de nationaliteit (zonder tanwīn).",
+        "rijen": [
+          { "label": "Tunesië · man", "ar": "تونِسُ", "antwoord": "تونِسِيّ", "tr": "tūnisī" },
+          { "label": "Duitsland · vrouw", "ar": "أَلْمانِيا", "antwoord": "أَلْمانِيَّة", "tr": "almāniyya" },
+          { "label": "Algerije · man", "ar": "الجَزائِرُ", "antwoord": "جَزائِرِيّ", "tr": "jazāʾirī" }
+        ], "uitleg": "Lidwoord en eind-ا/-يا weg, dan ـِيّ of ـِيَّة." },
+      { "type": "ordenen", "tag": "afkomst", "nl": "Zij komt uit Algerije.", "woorden": ["هِيَ", "مِنَ", "الجَزائِرِ."], "uitleg": "{ar|مِنَ} voor {ar|ال}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "nisba", "bron": "Ik ben Marokkaan.", "antwoorden": ["أَنا مَغْرِبِيٌّ", "أَنا مَغْرِبِيّ"], "uitleg": "{ar|أَنا مَغْرِبِيٌّ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "afkomst", "bron": "Ik kom uit Nederland.", "antwoorden": ["أَنا مِنْ هولَنْدا"], "uitleg": "{ar|أَنا مِنْ هولَنْدا}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "afkomst", "bron": "مِنْ أَيْنَ أَنْتَ؟", "tr": "min ayna anta?",
+        "antwoorden": ["waar kom je vandaan", "waar kom jij vandaan", "waar ben je vandaan", "waarvandaan ben jij", "waar komt u vandaan"], "uitleg": "Letterlijk: van waar jij?" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "nisba", "bron": "هِيَ عَرَبِيَّةٌ.", "tr": "hiya ʿarabiyya.",
+        "antwoorden": ["zij is arabische", "zij is een arabische", "ze is arabische", "zij is arabisch"], "uitleg": "{ar|عَرَبِيَّةٌ}: Arabische (vrouw)." }
+    ]
+  }
+}

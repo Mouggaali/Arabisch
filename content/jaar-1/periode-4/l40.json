@@ -1,0 +1,738 @@
+{
+  "id": "j1-p4-l40",
+  "code": "L40",
+  "type": "les",
+  "titel": "Twee vrienden op reis",
+  "thema": "Over twee personen praten in alle tijden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de dualis gebruiken bij zelfstandig naamwoord, bijvoeglijk naamwoord en voornaamwoord.",
+    "werkwoorden vervoegen in de dualis, in māḍī en muḍāriʿ.",
+    "de volledige tabel van 13 persoonsvormen beheersen.",
+    "over twee personen vertellen met كِلاهُما / كِلْتاهُما (allebei)."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l40-w01",
+      "ar": "رَفيقٌ",
+      "tr": "rafīq",
+      "nl": [
+        "metgezel",
+        "reisgenoot"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w02",
+      "ar": "خَيْمَةٌ",
+      "tr": "ḫayma",
+      "nl": [
+        "tent"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w03",
+      "ar": "غابَةٌ",
+      "tr": "ġāba",
+      "nl": [
+        "bos"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w04",
+      "ar": "صَحْراءُ",
+      "tr": "ṣaḥrāʾ",
+      "nl": [
+        "woestijn"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk; geen tanwīn."
+    },
+    {
+      "id": "j1-p4-l40-w05",
+      "ar": "واحَةٌ",
+      "tr": "wāḥa",
+      "nl": [
+        "oase"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w06",
+      "ar": "جَمَلٌ",
+      "tr": "jamal",
+      "nl": [
+        "kameel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w07",
+      "ar": "بُحَيْرَةٌ",
+      "tr": "buḥayra",
+      "nl": [
+        "meer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w08",
+      "ar": "نُجومٌ",
+      "tr": "nujūm",
+      "nl": [
+        "sterren"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|نَجْمٌ}."
+    },
+    {
+      "id": "j1-p4-l40-w09",
+      "ar": "لَيْلَةٌ",
+      "tr": "layla",
+      "nl": [
+        "nacht (één)",
+        "avond"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w10",
+      "ar": "كِلاهُما",
+      "tr": "kilāhumā",
+      "nl": [
+        "allebei (m)"
+      ],
+      "soort": "voornaamwoord",
+      "notitie": "Vrouwelijk: {ar|كِلْتاهُما}."
+    },
+    {
+      "id": "j1-p4-l40-w11",
+      "ar": "تَوْأَمٌ",
+      "tr": "tawʾam",
+      "nl": [
+        "tweeling (één van)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w12",
+      "ar": "اِثْنانِ مَعًا",
+      "tr": "iṯnāni maʿan",
+      "nl": [
+        "met z'n tweeën"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l40-w13",
+      "ar": "مُغامَرَةٌ",
+      "tr": "muġāmara",
+      "nl": [
+        "avontuur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w14",
+      "ar": "خَريطَةُ الطَّريقِ",
+      "tr": "ḫarīṭatu ṭ-ṭarīq",
+      "nl": [
+        "routekaart"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l40-w15",
+      "ar": "رَمْلٌ",
+      "tr": "raml",
+      "nl": [
+        "zand"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w16",
+      "ar": "حارِسٌ",
+      "tr": "ḥāris",
+      "nl": [
+        "bewaker"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l40-w17",
+      "ar": "قَمَرٌ كامِلٌ",
+      "tr": "qamarun kāmil",
+      "nl": [
+        "volle maan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l40-w18",
+      "ar": "مُتَشابِهٌ",
+      "tr": "mutašābih",
+      "nl": [
+        "gelijkend",
+        "op elkaar lijkend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De dualis bij werkwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Je kent de dualis al bij zelfstandige naamwoorden (les 29). Ook werkwoorden hebben dualisvormen. Daarmee is de tabel compleet: **13 persoonsvormen**.",
+            "Māḍī: ـا (zij twee, m), ـَتا (zij twee, v), ـْتُما (jullie twee). Muḍāriʿ: ـانِ, met يَـ (m) of تَـ (v / jullie twee)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "أَنْتُما (jullie twee)",
+              "كَتَبْتُما|katabtumā",
+              "تَكْتُبانِ|taktubāni"
+            ],
+            [
+              "هُما (zij twee, m)",
+              "كَتَبا|katabā",
+              "يَكْتُبانِ|yaktubāni"
+            ],
+            [
+              "هُما (zij twee, v)",
+              "كَتَبَتا|katabatā",
+              "تَكْتُبانِ|taktubāni"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De dualis-uitgangen lijken op elkaar: steeds een **ā**. In de māḍī is het {ar|ـا}, in de muḍāriʿ {ar|ـانِ}. Het voornaamwoord ({ar|هُما}, {ar|أَنْتُما}) en de suffixen ({ar|ـهُما}, {ar|ـكُما}) hebben ook *-umā*. Wie die ā herkent, herkent de dualis. In de vervoegingstrainer kun je nu alle 13 vormen oefenen."
+        }
+      ]
+    },
+    {
+      "titel": "Alles in de dualis",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "In een zin over twee personen congrueert alles: het zelfstandig naamwoord ({ar|صَديقانِ}), het bijvoeglijk naamwoord ({ar|سَعيدانِ}), het voornaamwoord ({ar|هُما}) en het werkwoord ({ar|سافَرا}).",
+            "Staat het werkwoord vóór het onderwerp (verbale zin), dan blijft het **enkelvoud**, net als bij het meervoud: {ar|سافَرَ الصَّديقانِ} (*de twee vrienden reisden*)."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سافَرَ الصَّديقانِ إِلى الصَّحْراءِ.",
+              "tr": "sāfara ṣ-ṣadīqāni ila ṣ-ṣaḥrāʾ.",
+              "nl": "De twee vrienden reisden naar de woestijn."
+            },
+            {
+              "ar": "هُما سَعيدانِ جِدًّا.",
+              "tr": "humā saʿīdāni jiddan.",
+              "nl": "Zij (twee) zijn heel blij."
+            },
+            {
+              "ar": "نامَ الصَّديقانِ في خَيْمَةٍ صَغيرَةٍ وَنَظَرا إِلى النُّجومِ.",
+              "tr": "nāma ṣ-ṣadīqāni fī ḫaymatin ṣaġīratin wa-naẓarā ila n-nujūm.",
+              "nl": "De twee vrienden sliepen in een kleine tent en keken naar de sterren.",
+              "review": {
+                "status": "onzeker",
+                "note": "نامَ (hol werkwoord) is nieuw; controleren."
+              }
+            },
+            {
+              "ar": "هَلْ تَتَكَلَّمانِ العَرَبِيَّةَ؟ — نَعَمْ، كِلانا نَتَكَلَّمُها.",
+              "tr": "hal tatakallamāni l-ʿarabiyya? — naʿam, kilānā natakallamuhā.",
+              "nl": "Spreken jullie (twee) Arabisch? — Ja, we spreken het allebei.",
+              "review": {
+                "status": "onzeker",
+                "note": "كِلانا + werkwoord (enkelvoud of meervoud?) controleren."
+              }
+            },
+            {
+              "ar": "البِنْتانِ تَوْأَمٌ، وَكِلْتاهُما طالِبَةٌ.",
+              "tr": "al-bintāni tawʾamun, wa-kiltāhumā ṭāliba.",
+              "nl": "De twee meisjes zijn een tweeling en allebei studente.",
+              "review": {
+                "status": "onzeker",
+                "note": "Congruentie na كِلْتاهُما (enkelvoud طالِبَةٌ) controleren."
+              }
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كِلاهُما} / {ar|كِلْتاهُما} (*allebei*) wordt grammaticaal als **enkelvoud** behandeld."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "خَيْمَةٌ",
+              "nl": "tent",
+              "woord": "j1-p4-l40-w02"
+            },
+            {
+              "ar": "غابَةٌ",
+              "nl": "bos",
+              "woord": "j1-p4-l40-w03"
+            },
+            {
+              "ar": "صَحْراءُ",
+              "nl": "woestijn",
+              "woord": "j1-p4-l40-w04"
+            },
+            {
+              "ar": "واحَةٌ",
+              "nl": "oase",
+              "woord": "j1-p4-l40-w05"
+            },
+            {
+              "ar": "جَمَلٌ",
+              "nl": "kameel",
+              "woord": "j1-p4-l40-w06"
+            },
+            {
+              "ar": "بُحَيْرَةٌ",
+              "nl": "meer",
+              "woord": "j1-p4-l40-w07"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "dualis-werkwoord",
+          "tekst": "سافَرا مَعًا",
+          "vraag": "Wie reisden?",
+          "opties": [
+            "zij twee",
+            "wij",
+            "zij (veel)"
+          ],
+          "juist": 0,
+          "uitleg": "ـا = zij twee (m)."
+        }
+      ]
+    },
+    {
+      "titel": "Dualis bij werkwoorden",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "dualis-werkwoord",
+          "instructie": "Vervoeg كَتَبَ in de dualis (māḍī).",
+          "rijen": [
+            {
+              "label": "jullie twee",
+              "ar": "أَنْتُما",
+              "antwoord": "كَتَبْتُما",
+              "tr": "katabtumā"
+            },
+            {
+              "label": "zij twee (m)",
+              "ar": "هُما",
+              "antwoord": "كَتَبا",
+              "tr": "katabā"
+            },
+            {
+              "label": "zij twee (v)",
+              "ar": "هُما",
+              "antwoord": "كَتَبَتا",
+              "tr": "katabatā"
+            }
+          ],
+          "uitleg": "ـْتُما / ـا / ـَتا"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "dualis-werkwoord",
+          "instructie": "Vervoeg يَلْعَبُ in de dualis (muḍāriʿ).",
+          "rijen": [
+            {
+              "label": "jullie twee",
+              "antwoord": "تَلْعَبانِ",
+              "tr": "talʿabāni"
+            },
+            {
+              "label": "zij twee (m)",
+              "antwoord": "يَلْعَبانِ",
+              "tr": "yalʿabāni"
+            },
+            {
+              "label": "zij twee (v)",
+              "antwoord": "تَلْعَبانِ",
+              "tr": "talʿabāni"
+            }
+          ],
+          "uitleg": "ـانِ; يَـ alleen bij zij twee (m)."
+        },
+        {
+          "type": "invullen",
+          "tag": "dualis-werkwoord",
+          "zin": "الصَّديقانِ ___ إِلى البَحْرِ.",
+          "nl": "De twee vrienden gingen naar zee.",
+          "woordbank": [
+            "ذَهَبا",
+            "ذَهَبُوا",
+            "ذَهَبَ"
+          ],
+          "antwoord": [
+            "ذَهَبا"
+          ],
+          "uitleg": "Onderwerp vooraan → dualis."
+        },
+        {
+          "type": "invullen",
+          "tag": "dualis-werkwoord",
+          "zin": "___ الطّالِبَتانِ في المَكْتَبَةِ.",
+          "nl": "De twee studentes studeren in de bibliotheek.",
+          "woordbank": [
+            "تَدْرُسُ",
+            "تَدْرُسانِ",
+            "يَدْرُسانِ"
+          ],
+          "antwoord": [
+            "تَدْرُسُ"
+          ],
+          "uitleg": "Werkwoord vóór het onderwerp → enkelvoud (vrouwelijk)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "dualis-werkwoord",
+          "vraag": "Wat betekent {ar|هَلْ فَهِمْتُما؟}?",
+          "opties": [
+            "Hebben jullie (twee) het begrepen?",
+            "Hebben zij het begrepen?",
+            "Heb jij het begrepen?"
+          ],
+          "juist": 0,
+          "uitleg": "ـْتُما = jullie twee."
+        }
+      ]
+    },
+    {
+      "titel": "Alles in de dualis",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "dualis-naamwoord",
+          "zin": "هُما ___.",
+          "nl": "Zij (twee m) zijn blij.",
+          "woordbank": [
+            "سَعيدانِ",
+            "سُعَداءُ",
+            "سَعيدٌ"
+          ],
+          "antwoord": [
+            "سَعيدانِ"
+          ],
+          "uitleg": "Dualis bijvoeglijk naamwoord."
+        },
+        {
+          "type": "ordenen",
+          "tag": "dualis-werkwoord",
+          "nl": "De twee vrienden reisden naar de woestijn.",
+          "woorden": [
+            "سافَرَ",
+            "الصَّديقانِ",
+            "إِلى",
+            "الصَّحْراءِ."
+          ],
+          "uitleg": "Verbale zin: werkwoord in het enkelvoud."
+        },
+        {
+          "type": "ordenen",
+          "tag": "dualis-naamwoord",
+          "nl": "Zij (twee) zijn heel blij.",
+          "woorden": [
+            "هُما",
+            "سَعيدانِ",
+            "جِدًّا."
+          ],
+          "uitleg": "Dualis."
+        },
+        {
+          "type": "luisteren",
+          "tag": "dualis-werkwoord",
+          "tekst": "هُما يَسْكُنانِ في القَرْيَةِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Zij twee wonen in het dorp.",
+            "Zij wonen in de stad.",
+            "Jullie twee wonen in het dorp."
+          ],
+          "juist": 0,
+          "uitleg": "يَـ ... ـانِ = zij twee (m)."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dualis-werkwoord",
+          "bron": "zij twee (m) schreven",
+          "antwoorden": [
+            "كَتَبا"
+          ],
+          "uitleg": "{ar|كَتَبا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dualis-werkwoord",
+          "bron": "jullie twee drinken",
+          "antwoorden": [
+            "تَشْرَبانِ"
+          ],
+          "uitleg": "{ar|تَشْرَبانِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "dualis-werkwoord",
+          "bron": "رَجَعَتا مِنَ الغابَةِ.",
+          "antwoorden": [
+            "zij twee kwamen terug uit het bos",
+            "ze kwamen met z'n tweeën terug uit het bos",
+            "de twee kwamen terug uit het bos"
+          ],
+          "uitleg": "ـَتا = zij twee (v)."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "dualis-naamwoord",
+          "bron": "عِنْدي صَديقانِ مِنْ مِصْرَ.",
+          "antwoorden": [
+            "ik heb twee vrienden uit egypte"
+          ],
+          "uitleg": "Dualis."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رَفيقٌ",
+            "nl": "reisgenoot"
+          },
+          {
+            "ar": "رَمْلٌ",
+            "nl": "zand"
+          },
+          {
+            "ar": "مُغامَرَةٌ",
+            "nl": "avontuur"
+          },
+          {
+            "ar": "لَيْلَةٌ",
+            "nl": "nacht"
+          },
+          {
+            "ar": "تَوْأَمٌ",
+            "nl": "tweeling"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-werkwoord",
+        "vraag": "'Zij twee (v) gingen' is ...",
+        "opties": [
+          "ذَهَبَتا",
+          "ذَهَبا",
+          "ذَهَبْنَ"
+        ],
+        "juist": 0,
+        "uitleg": "ـَتا"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-werkwoord",
+        "vraag": "'Jullie twee wonen' is ...",
+        "opties": [
+          "تَسْكُنانِ",
+          "تَسْكُنونَ",
+          "يَسْكُنانِ"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ ... ـانِ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-werkwoord",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "نَجَحَ الطّالِبانِ.",
+          "نَجَحا الطّالِبانِ.",
+          "نَجَحُوا الطّالِبانِ."
+        ],
+        "juist": 0,
+        "uitleg": "Werkwoord eerst → enkelvoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "dualis-werkwoord",
+        "tekst": "أَنْتُما مُتْعَبانِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Jullie (twee) zijn moe.",
+          "Zij (twee) zijn moe.",
+          "Wij zijn moe."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْتُما}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "dualis-werkwoord",
+        "tekst": "تَدْرُسانِ العَرَبِيَّةَ",
+        "vraag": "Wie studeren?",
+        "opties": [
+          "jullie twee (of zij twee, v)",
+          "wij",
+          "ik"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ ... ـانِ"
+      },
+      {
+        "type": "invullen",
+        "tag": "dualis-werkwoord",
+        "zin": "الوَلَدانِ ___ في الحَديقَةِ.",
+        "nl": "De twee jongens spelen in de tuin.",
+        "woordbank": [
+          "يَلْعَبانِ",
+          "يَلْعَبونَ",
+          "تَلْعَبانِ"
+        ],
+        "antwoord": [
+          "يَلْعَبانِ"
+        ],
+        "uitleg": "Onderwerp vooraan → dualis (m)."
+      },
+      {
+        "type": "invullen",
+        "tag": "dualis-naamwoord",
+        "zin": "عِنْدي ___.",
+        "nl": "Ik heb twee kamelen.",
+        "antwoord": [
+          "جَمَلانِ"
+        ],
+        "uitleg": "{ar|جَمَلانِ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "dualis-werkwoord",
+        "instructie": "Vervoeg شَرِبَ in de dualis (māḍī).",
+        "rijen": [
+          {
+            "label": "zij twee (m)",
+            "antwoord": "شَرِبا",
+            "tr": "šaribā"
+          },
+          {
+            "label": "jullie twee",
+            "antwoord": "شَرِبْتُما",
+            "tr": "šaribtumā"
+          }
+        ],
+        "uitleg": "ـا / ـْتُما"
+      },
+      {
+        "type": "ordenen",
+        "tag": "dualis-werkwoord",
+        "nl": "De twee vrienden sliepen in een tent.",
+        "woorden": [
+          "نامَ",
+          "الصَّديقانِ",
+          "في",
+          "خَيْمَةٍ."
+        ],
+        "uitleg": "Verbale zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dualis-werkwoord",
+        "bron": "zij twee (v) speelden",
+        "antwoorden": [
+          "لَعِبَتا"
+        ],
+        "uitleg": "{ar|لَعِبَتا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dualis-naamwoord",
+        "bron": "twee tenten",
+        "antwoorden": [
+          "خَيْمَتانِ"
+        ],
+        "uitleg": "{ar|خَيْمَتانِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "dualis-werkwoord",
+        "bron": "هَلْ أَكَلْتُما؟",
+        "antwoorden": [
+          "hebben jullie gegeten",
+          "hebben jullie twee gegeten"
+        ],
+        "uitleg": "ـْتُما"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "dualis-naamwoord",
+        "bron": "كِلاهُما مُهَنْدِسٌ.",
+        "antwoorden": [
+          "ze zijn allebei ingenieur",
+          "zij zijn allebei ingenieur",
+          "allebei zijn ze ingenieur"
+        ],
+        "uitleg": "{ar|كِلاهُما} + enkelvoud."
+      }
+    ]
+  }
+}

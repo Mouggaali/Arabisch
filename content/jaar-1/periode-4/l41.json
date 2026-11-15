@@ -1,0 +1,750 @@
+{
+  "id": "j1-p4-l41",
+  "code": "L41",
+  "type": "les",
+  "titel": "Grote getallen",
+  "thema": "Prijzen, afstanden, inwoners en jaartallen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "honderdtallen, duizendtallen en miljoenen noemen.",
+    "een samengesteld getal in de juiste volgorde zeggen.",
+    "een jaartal lezen en zeggen.",
+    "vragen naar en vertellen over afstanden en aantallen inwoners."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l41-w02",
+      "ar": "مِئَتانِ",
+      "tr": "miʾatān",
+      "nl": [
+        "tweehonderd"
+      ],
+      "soort": "telwoord",
+      "notitie": "Dualis van {ar|مِئَةٌ}."
+    },
+    {
+      "id": "j1-p4-l41-w03",
+      "ar": "ثَلاثُمِئَةٍ",
+      "tr": "ṯalāṯumiʾa",
+      "nl": [
+        "driehonderd"
+      ],
+      "soort": "telwoord",
+      "notitie": "Eenheid + {ar|مِئَةٍ}, aan elkaar geschreven."
+    },
+    {
+      "id": "j1-p4-l41-w04",
+      "ar": "خَمْسُمِئَةٍ",
+      "tr": "ḫamsumiʾa",
+      "nl": [
+        "vijfhonderd"
+      ],
+      "soort": "telwoord"
+    },
+    {
+      "id": "j1-p4-l41-w05",
+      "ar": "أَلْفٌ",
+      "tr": "alf",
+      "nl": [
+        "duizend"
+      ],
+      "soort": "telwoord"
+    },
+    {
+      "id": "j1-p4-l41-w06",
+      "ar": "أَلْفانِ",
+      "tr": "alfān",
+      "nl": [
+        "tweeduizend"
+      ],
+      "soort": "telwoord"
+    },
+    {
+      "id": "j1-p4-l41-w07",
+      "ar": "آلافٌ",
+      "tr": "ālāf",
+      "nl": [
+        "duizenden (mv van duizend)"
+      ],
+      "soort": "telwoord (mv)",
+      "notitie": "{ar|ثَلاثَةُ آلافٍ} = drieduizend."
+    },
+    {
+      "id": "j1-p4-l41-w08",
+      "ar": "مَلْيونٌ",
+      "tr": "malyūn",
+      "nl": [
+        "miljoen"
+      ],
+      "soort": "telwoord",
+      "notitie": "Ook {ar|مِلْيونٌ}. Meervoud: {ar|مَلايينُ}."
+    },
+    {
+      "id": "j1-p4-l41-w09",
+      "ar": "كيلومِتْرٌ",
+      "tr": "kīlūmitr",
+      "nl": [
+        "kilometer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w10",
+      "ar": "مَسافَةٌ",
+      "tr": "masāfa",
+      "nl": [
+        "afstand"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w11",
+      "ar": "سُكّانٌ",
+      "tr": "sukkān",
+      "nl": [
+        "inwoners",
+        "bevolking"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|ساكِنٌ}."
+    },
+    {
+      "id": "j1-p4-l41-w14",
+      "ar": "قَرْنٌ",
+      "tr": "qarn",
+      "nl": [
+        "eeuw"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w15",
+      "ar": "مَبْلَغٌ",
+      "tr": "mablaġ",
+      "nl": [
+        "bedrag"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w17",
+      "ar": "عاصِمَةٌ",
+      "tr": "ʿāṣima",
+      "nl": [
+        "hoofdstad"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w19",
+      "ar": "مِلْيارٌ",
+      "tr": "milyār",
+      "nl": [
+        "miljard"
+      ],
+      "soort": "telwoord"
+    },
+    {
+      "id": "j1-p4-l41-w20",
+      "ar": "مِساحَةٌ",
+      "tr": "misāḥa",
+      "nl": [
+        "oppervlakte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l41-w21",
+      "ar": "مِتْرٌ مُرَبَّعٌ",
+      "tr": "mitrun murabbaʿ",
+      "nl": [
+        "vierkante meter"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l41-w22",
+      "ar": "اِرْتِفاعٌ",
+      "tr": "irtifāʿ",
+      "nl": [
+        "hoogte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Honderd, duizend, miljoen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Honderd",
+            "Duizend"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "1×",
+              "مِئَةٌ|miʾa",
+              "أَلْفٌ|alf"
+            ],
+            [
+              "2×",
+              "مِئَتانِ|miʾatān",
+              "أَلْفانِ|alfān"
+            ],
+            [
+              "3×",
+              "ثَلاثُمِئَةٍ|ṯalāṯumiʾa",
+              "ثَلاثَةُ آلافٍ|ṯalāṯatu ālāf"
+            ],
+            [
+              "5×",
+              "خَمْسُمِئَةٍ|ḫamsumiʾa",
+              "خَمْسَةُ آلافٍ|ḫamsatu ālāf"
+            ],
+            [
+              "10×",
+              "أَلْفٌ|alf",
+              "عَشَرَةُ آلافٍ|ʿašaratu ālāf"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "**Honderd** blijft na 3–9 enkelvoud ({ar|ثَلاثُمِئَةٍ}), en het geheel wordt aan elkaar geschreven. **Duizend** krijgt na 3–10 het meervoud {ar|آلافٌ}. Waarom dat verschil? Het is een vaste traditie; onthoud het als twee losse patronen. Bij 2 gebruik je bij beide de dualis."
+        }
+      ]
+    },
+    {
+      "titel": "Samengestelde getallen en jaartallen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Volgorde: **duizendtallen – honderdtallen – eenheden – tientallen**, met {ar|وَ} ertussen. De eenheid komt dus vóór het tiental, net als in het Nederlands (*vijfentwintig*).",
+            "Een jaartal lees je als een gewoon getal: {ar|١٩٩٨} = *duizend negenhonderd achtennegentig*. Je zegt het niet in twee helften zoals in het Nederlands (*negentien achtennegentig*)."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "مِئَةٌ وَخَمْسونَ",
+              "tr": "miʾatun wa-ḫamsūn",
+              "nl": "150"
+            },
+            {
+              "ar": "أَلْفٌ وَتِسْعُمِئَةٍ وَثَمانِيَةٌ وَتِسْعونَ",
+              "tr": "alfun wa-tisʿumiʾatin wa-ṯamāniyatun wa-tisʿūn",
+              "nl": "1998"
+            },
+            {
+              "ar": "أَلْفانِ وَخَمْسَةٌ وَعِشْرونَ",
+              "tr": "alfāni wa-ḫamsatun wa-ʿišrūn",
+              "nl": "2025"
+            },
+            {
+              "ar": "المَسافَةُ بَيْنَ الرِّباطِ وَمَرّاكُشَ حَوالَيْ ثَلاثِمِئَةِ كيلومِتْرٍ.",
+              "tr": "al-masāfatu bayna r-Ribāṭi wa-Marrākuša ḥawālay ṯalāṯimiʾati kīlūmitr.",
+              "nl": "De afstand tussen Rabat en Marrakesh is ongeveer 300 kilometer.",
+              "review": {
+                "status": "onzeker",
+                "note": "Naamval ثَلاثِمِئَةِ na حَوالَيْ en de afstand (± 320 km) controleren."
+              }
+            },
+            {
+              "ar": "عَدَدُ سُكّانِ هولَنْدا حَوالَيْ ثَمانِيَةَ عَشَرَ مَلْيونًا.",
+              "tr": "ʿadadu sukkāni Hōlandā ḥawālay ṯamāniyata ʿašara malyūnan.",
+              "nl": "Nederland heeft ongeveer 18 miljoen inwoners.",
+              "review": {
+                "status": "onzeker",
+                "note": "Naamvallen na حَوالَيْ controleren; volksgetal ± 18 miljoen (2025)."
+              }
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "In het dagelijks leven worden grote getallen vaak in cijfers geschreven en zonder naamvalsuitgangen uitgesproken. Die precieze regels (welk woord na welk getal) volgen in les 42."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "grote-getallen",
+          "paren": [
+            {
+              "ar": "مِئَةٌ",
+              "nl": "100"
+            },
+            {
+              "ar": "مِئَتانِ",
+              "nl": "200",
+              "woord": "j1-p4-l41-w02"
+            },
+            {
+              "ar": "خَمْسُمِئَةٍ",
+              "nl": "500",
+              "woord": "j1-p4-l41-w04"
+            },
+            {
+              "ar": "أَلْفٌ",
+              "nl": "1000",
+              "woord": "j1-p4-l41-w05"
+            },
+            {
+              "ar": "أَلْفانِ",
+              "nl": "2000",
+              "woord": "j1-p4-l41-w06"
+            },
+            {
+              "ar": "مَلْيونٌ",
+              "nl": "1.000.000",
+              "woord": "j1-p4-l41-w08"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَسافَةٌ",
+              "nl": "afstand",
+              "woord": "j1-p4-l41-w10"
+            },
+            {
+              "ar": "سُكّانٌ",
+              "nl": "inwoners",
+              "woord": "j1-p4-l41-w11"
+            },
+            {
+              "ar": "قَرْنٌ",
+              "nl": "eeuw",
+              "woord": "j1-p4-l41-w14"
+            },
+            {
+              "ar": "عاصِمَةٌ",
+              "nl": "hoofdstad",
+              "woord": "j1-p4-l41-w17"
+            },
+            {
+              "ar": "مَبْلَغٌ",
+              "nl": "bedrag",
+              "woord": "j1-p4-l41-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "grote-getallen",
+          "tekst": "ثَلاثُمِئَةٍ",
+          "vraag": "Welk getal hoor je?",
+          "opties": [
+            "300",
+            "30",
+            "3000"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ثَلاثُمِئَةٍ}"
+        }
+      ]
+    },
+    {
+      "titel": "Honderd en duizend",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "grote-getallen",
+          "zin": "٢٠٠ = ___",
+          "nl": "tweehonderd",
+          "woordbank": [
+            "مِئَتانِ",
+            "مِئَةٌ",
+            "أَلْفانِ"
+          ],
+          "antwoord": [
+            "مِئَتانِ"
+          ],
+          "uitleg": "Dualis van {ar|مِئَةٌ}."
+        },
+        {
+          "type": "invullen",
+          "tag": "grote-getallen",
+          "zin": "٣٠٠٠ = ثَلاثَةُ ___",
+          "nl": "drieduizend",
+          "woordbank": [
+            "آلافٍ",
+            "أَلْفٍ",
+            "مِئَةٍ"
+          ],
+          "antwoord": [
+            "آلافٍ"
+          ],
+          "uitleg": "Na 3–10: meervoud {ar|آلافٍ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "grote-getallen",
+          "vraag": "'Vierhonderd' is ...",
+          "opties": [
+            "أَرْبَعُمِئَةٍ",
+            "أَرْبَعُ مِئاتٍ",
+            "أَرْبَعونَ"
+          ],
+          "juist": 0,
+          "uitleg": "Honderd blijft enkelvoud."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "grote-getallen",
+          "instructie": "Schrijf het getal in woorden.",
+          "rijen": [
+            {
+              "label": "100",
+              "antwoord": "مِئَةٌ",
+              "tr": "miʾa"
+            },
+            {
+              "label": "1000",
+              "antwoord": "أَلْفٌ",
+              "tr": "alf"
+            },
+            {
+              "label": "2000",
+              "antwoord": "أَلْفانِ",
+              "tr": "alfān"
+            },
+            {
+              "label": "500",
+              "antwoord": "خَمْسُمِئَةٍ",
+              "tr": "ḫamsumiʾa"
+            }
+          ],
+          "uitleg": "{ar|مِئَةٌ} · {ar|أَلْفٌ} · {ar|أَلْفانِ} · {ar|خَمْسُمِئَةٍ}"
+        }
+      ]
+    },
+    {
+      "titel": "Jaartallen en samengestelde getallen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "jaartallen",
+          "nl": "2025 (begin rechts)",
+          "woorden": [
+            "أَلْفانِ",
+            "وَخَمْسَةٌ",
+            "وَعِشْرونَ"
+          ],
+          "uitleg": "Duizendtal – eenheid – tiental."
+        },
+        {
+          "type": "ordenen",
+          "tag": "jaartallen",
+          "nl": "1998 (begin rechts)",
+          "woorden": [
+            "أَلْفٌ",
+            "وَتِسْعُمِئَةٍ",
+            "وَثَمانِيَةٌ",
+            "وَتِسْعونَ"
+          ],
+          "uitleg": "Duizend – honderd – eenheid – tiental."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "jaartallen",
+          "vraag": "Hoe lees je het jaartal ١٩٩٠?",
+          "opties": [
+            "أَلْفٌ وَتِسْعُمِئَةٍ وَتِسْعونَ",
+            "تِسْعَةَ عَشَرَ تِسْعونَ",
+            "أَلْفٌ وَتِسْعونَ"
+          ],
+          "juist": 0,
+          "uitleg": "Als een gewoon getal: 1000 + 900 + 90."
+        },
+        {
+          "type": "luisteren",
+          "tag": "grote-getallen",
+          "tekst": "مِئَةٌ وَخَمْسونَ",
+          "vraag": "Welk getal hoor je?",
+          "opties": [
+            "150",
+            "105",
+            "500"
+          ],
+          "juist": 0,
+          "uitleg": "100 + 50."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "grote-getallen",
+          "bron": "duizend",
+          "antwoorden": [
+            "أَلْفٌ",
+            "أَلْف"
+          ],
+          "uitleg": "{ar|أَلْفٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de hoofdstad",
+          "antwoorden": [
+            "العاصِمَةُ"
+          ],
+          "uitleg": "{ar|العاصِمَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "grote-getallen",
+          "bron": "مِئَتا كيلومِتْرٍ",
+          "antwoorden": [
+            "tweehonderd kilometer",
+            "200 kilometer",
+            "200 km"
+          ],
+          "uitleg": "{ar|مِئَتا} (de ـنِ valt weg in een iḍāfa)."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "كَمْ عَدَدُ سُكّانِ المَدينَةِ؟",
+          "antwoorden": [
+            "hoeveel inwoners heeft de stad",
+            "hoeveel inwoners telt de stad",
+            "wat is het aantal inwoners van de stad"
+          ],
+          "uitleg": "{ar|عَدَدُ سُكّانِ} = het aantal inwoners."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "grote-getallen",
+        "paren": [
+          {
+            "ar": "مِئَةٌ",
+            "nl": "100"
+          },
+          {
+            "ar": "ثَلاثُمِئَةٍ",
+            "nl": "300"
+          },
+          {
+            "ar": "أَلْفانِ",
+            "nl": "2000"
+          },
+          {
+            "ar": "مَلْيونٌ",
+            "nl": "1.000.000"
+          }
+        ],
+        "uitleg": "Grote getallen."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رَقْمٌ",
+            "nl": "nummer"
+          },
+          {
+            "ar": "بَلَدٌ",
+            "nl": "land"
+          },
+          {
+            "ar": "تَقْريبًا",
+            "nl": "ongeveer"
+          },
+          {
+            "ar": "عَدَدٌ",
+            "nl": "aantal"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "grote-getallen",
+        "vraag": "'Zesduizend' is ...",
+        "opties": [
+          "سِتَّةُ آلافٍ",
+          "سِتَّةُ أَلْفٍ",
+          "سِتُّمِئَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Na 3–10: {ar|آلافٍ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "grote-getallen",
+        "vraag": "'Zeshonderd' is ...",
+        "opties": [
+          "سِتُّمِئَةٍ",
+          "سِتَّةُ آلافٍ",
+          "سِتّونَ"
+        ],
+        "juist": 0,
+        "uitleg": "Eenheid + {ar|مِئَةٍ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "jaartallen",
+        "vraag": "In welke volgorde zeg je 1975?",
+        "opties": [
+          "1000 – 900 – 5 – 70",
+          "1000 – 900 – 70 – 5",
+          "19 – 75"
+        ],
+        "juist": 0,
+        "uitleg": "Eenheid vóór tiental."
+      },
+      {
+        "type": "luisteren",
+        "tag": "grote-getallen",
+        "tekst": "أَلْفانِ",
+        "vraag": "Welk getal hoor je?",
+        "opties": [
+          "2000",
+          "200",
+          "1000"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلْفانِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "jaartallen",
+        "tekst": "أَلْفانِ وَعَشَرَةٌ",
+        "vraag": "Welk jaar hoor je?",
+        "opties": [
+          "2010",
+          "2100",
+          "1910"
+        ],
+        "juist": 0,
+        "uitleg": "2000 + 10."
+      },
+      {
+        "type": "invullen",
+        "tag": "grote-getallen",
+        "zin": "٥٠٠ = ___",
+        "nl": "vijfhonderd",
+        "antwoord": [
+          "خَمْسُمِئَةٍ",
+          "خمسمائة"
+        ],
+        "uitleg": "{ar|خَمْسُمِئَةٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "grote-getallen",
+        "zin": "٢٠٠ = ___",
+        "nl": "tweehonderd",
+        "woordbank": [
+          "مِئَتانِ",
+          "مِئَةٌ",
+          "مَلْيونٌ"
+        ],
+        "antwoord": [
+          "مِئَتانِ"
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "grote-getallen",
+        "instructie": "Schrijf het getal in woorden.",
+        "rijen": [
+          {
+            "label": "300",
+            "antwoord": "ثَلاثُمِئَةٍ",
+            "tr": "ṯalāṯumiʾa"
+          },
+          {
+            "label": "1.000.000",
+            "antwoord": "مَلْيونٌ",
+            "tr": "malyūn"
+          }
+        ],
+        "uitleg": "{ar|ثَلاثُمِئَةٍ} · {ar|مَلْيونٌ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "jaartallen",
+        "nl": "2025 (begin rechts)",
+        "woorden": [
+          "أَلْفانِ",
+          "وَخَمْسَةٌ",
+          "وَعِشْرونَ"
+        ],
+        "uitleg": "Duizendtal – eenheid – tiental."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de afstand",
+        "antwoorden": [
+          "المَسافَةُ"
+        ],
+        "uitleg": "{ar|المَسافَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "في القَرْنِ العِشْرينَ",
+        "antwoorden": [
+          "in de twintigste eeuw",
+          "in de 20e eeuw",
+          "in de 20ste eeuw"
+        ],
+        "uitleg": "{ar|القَرْنُ} = de eeuw.",
+        "review": {
+          "status": "onzeker",
+          "note": "القَرْنِ العِشْرينَ (rangtelwoord 20 = العِشْرون) controleren."
+        }
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "grote-getallen",
+        "bron": "عِنْدي أَلْفُ دِرْهَمٍ.",
+        "antwoorden": [
+          "ik heb duizend dirham",
+          "ik heb 1000 dirham"
+        ],
+        "uitleg": "{ar|أَلْفُ} + genitief enkelvoud."
+      }
+    ]
+  }
+}

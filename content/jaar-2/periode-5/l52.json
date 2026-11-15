@@ -1,0 +1,752 @@
+{
+  "id": "j2-p5-l52",
+  "code": "L52",
+  "type": "les",
+  "titel": "Koken en recepten",
+  "thema": "Een recept lezen en instructies geven",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de gebiedende wijs van vorm I maken voor alle tweede personen.",
+    "de juiste beginklinker kiezen: اُ of اِ.",
+    "een instructie ontkennen met لا + majzūm.",
+    "een eenvoudig recept volgen en uitleggen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l52-w01",
+      "ar": "وَصْفَةٌ",
+      "tr": "waṣfa",
+      "nl": [
+        "recept"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w02",
+      "ar": "مُكَوِّناتٌ",
+      "tr": "mukawwināt",
+      "nl": [
+        "ingrediënten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p5-l52-w03",
+      "ar": "ثومٌ",
+      "tr": "ṯūm",
+      "nl": [
+        "knoflook"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w04",
+      "ar": "فُلْفُلٌ",
+      "tr": "fulful",
+      "nl": [
+        "peper"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w05",
+      "ar": "زَيْتُ الزَّيْتونِ",
+      "tr": "zaytu z-zaytūn",
+      "nl": [
+        "olijfolie"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p5-l52-w06",
+      "ar": "قِدْرٌ",
+      "tr": "qidr",
+      "nl": [
+        "kookpan"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w07",
+      "ar": "مِقْلاةٌ",
+      "tr": "miqlāh",
+      "nl": [
+        "koekenpan"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon مِفْعال/مِفْعَلَة: werktuig (les 121)."
+    },
+    {
+      "id": "j2-p5-l52-w10",
+      "ar": "قَطَعَ",
+      "tr": "qaṭaʿa",
+      "nl": [
+        "snijden"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَقْطَعُ}; gebiedende wijs: {ar|اِقْطَعْ}."
+    },
+    {
+      "id": "j2-p5-l52-w11",
+      "ar": "خَلَطَ",
+      "tr": "ḫalaṭa",
+      "nl": [
+        "mengen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَخْلِطُ}; gebiedende wijs: {ar|اِخْلِطْ}."
+    },
+    {
+      "id": "j2-p5-l52-w12",
+      "ar": "سَكَبَ",
+      "tr": "sakaba",
+      "nl": [
+        "gieten",
+        "schenken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَسْكُبُ}; gebiedende wijs: {ar|اُسْكُبْ}."
+    },
+    {
+      "id": "j2-p5-l52-w13",
+      "ar": "قِطَعٌ صَغيرَةٌ",
+      "tr": "qiṭaʿun ṣaġīra",
+      "nl": [
+        "kleine stukjes"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l52-w14",
+      "ar": "نارٌ هادِئَةٌ",
+      "tr": "nārun hādiʾa",
+      "nl": [
+        "laag vuur"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l52-w15",
+      "ar": "ناضِجٌ",
+      "tr": "nāḍij",
+      "nl": [
+        "gaar",
+        "rijp"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w16",
+      "ar": "طاجينٌ",
+      "tr": "ṭājīn",
+      "nl": [
+        "tajine"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w17",
+      "ar": "كُسْكُسٌ",
+      "tr": "kuskus",
+      "nl": [
+        "couscous"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w18",
+      "ar": "مِقْدارٌ",
+      "tr": "miqdār",
+      "nl": [
+        "hoeveelheid",
+        "maat"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w19",
+      "ar": "طازَجٌ",
+      "tr": "ṭāzaj",
+      "nl": [
+        "vers"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l52-w20",
+      "ar": "بَهاراتٌ",
+      "tr": "bahārāt",
+      "nl": [
+        "specerijen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De gebiedende wijs (vorm I)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Neem de **majzūm** van de 2e persoon en haal de {ar|تَـ} vooraan weg: {ar|تَكْتُبْ} → *ktub*. Omdat een Arabisch woord niet met twee medeklinkers kan beginnen, komt er een **alif** met een hulpklinker voor: {ar|اُكْتُبْ}.",
+            "De hulpklinker volgt de stamklinker: is die **u**, dan **اُ**; is die **a** of **i**, dan **اِ**."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Muḍāriʿ",
+            "Stamklinker",
+            "Gebiedende wijs (m)"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "يَكْتُبُ",
+              "u",
+              "اُكْتُبْ|uktub"
+            ],
+            [
+              "يَسْكُبُ",
+              "u",
+              "اُسْكُبْ|uskub"
+            ],
+            [
+              "يَشْرَبُ",
+              "a",
+              "اِشْرَبْ|išrab"
+            ],
+            [
+              "يَقْطَعُ",
+              "a",
+              "اِقْطَعْ|iqṭaʿ"
+            ],
+            [
+              "يَجْلِسُ",
+              "i",
+              "اِجْلِسْ|ijlis"
+            ],
+            [
+              "يَخْلِطُ",
+              "i",
+              "اِخْلِطْ|iḫliṭ"
+            ]
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Tegen",
+            "Vorm",
+            "Uitgang"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "een man",
+              "اُكْتُبْ",
+              "sukūn"
+            ],
+            [
+              "een vrouw",
+              "اُكْتُبي",
+              "ـي"
+            ],
+            [
+              "twee personen",
+              "اُكْتُبا",
+              "ـا"
+            ],
+            [
+              "mannen / gemengd",
+              "اُكْتُبوا",
+              "ـوا (stille alif)"
+            ],
+            [
+              "vrouwen",
+              "اُكْتُبْنَ",
+              "ـْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De uitgangen zijn precies die van de majzūm ({ar|تَكْتُبي}، {ar|تَكْتُبوا} …). Ken je de majzūm, dan ken je de gebiedende wijs: alleen het begin verandert. Ontkennen gaat met de majzūm zelf: {ar|اُكْتُبْ} ↔ {ar|لا تَكْتُبْ}."
+        },
+        {
+          "type": "letop",
+          "md": "Recepten in kranten en op verpakkingen gebruiken vaak de **maṣdar** in plaats van de gebiedende wijs: {ar|تَقْطيعُ البَصَلِ} (*het snijden van de ui*). Herken die vorm; je leert de maṣdar van afgeleide vormen in les 60."
+        }
+      ]
+    },
+    {
+      "titel": "Een recept: tomatensaus",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِغْسِلِ الطَّماطِمَ وَاقْطَعْها قِطَعًا صَغيرَةً.",
+              "tr": "iġsili ṭ-ṭamāṭima wa-qṭaʿhā qiṭaʿan ṣaġīra.",
+              "nl": "Was de tomaten en snijd ze in kleine stukjes."
+            },
+            {
+              "ar": "اُسْكُبْ زَيْتَ الزَّيْتونِ في القِدْرِ.",
+              "tr": "uskub zayta z-zaytūni fi l-qidr.",
+              "nl": "Giet olijfolie in de pan."
+            },
+            {
+              "ar": "اِخْلِطِ الطَّماطِمَ مَعَ الثّومِ وَالبَهاراتِ.",
+              "tr": "iḫliṭi ṭ-ṭamāṭima maʿa ṯ-ṯūmi wa-l-bahārāt.",
+              "nl": "Meng de tomaten met de knoflook en de specerijen."
+            },
+            {
+              "ar": "اُطْبُخْها عَلى نارٍ هادِئَةٍ عِشْرينَ دَقيقَةً.",
+              "tr": "uṭbuḫhā ʿalā nārin hādiʾatin ʿišrīna daqīqa.",
+              "nl": "Laat het twintig minuten op laag vuur koken."
+            },
+            {
+              "ar": "لا تَفْتَحِ الفُرْنَ قَبْلَ أَنْ يَنْضَجَ الخُبْزُ!",
+              "tr": "lā taftaḥi l-furna qabla an yanḍaja l-ḫubz!",
+              "nl": "Doe de oven niet open voordat het brood gaar is!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "وَصْفَةٌ",
+              "nl": "recept",
+              "woord": "j2-p5-l52-w01"
+            },
+            {
+              "ar": "ثومٌ",
+              "nl": "knoflook",
+              "woord": "j2-p5-l52-w03"
+            },
+            {
+              "ar": "قِدْرٌ",
+              "nl": "kookpan",
+              "woord": "j2-p5-l52-w06"
+            },
+            {
+              "ar": "فُرْنٌ",
+              "nl": "oven"
+            },
+            {
+              "ar": "سِكّينٌ",
+              "nl": "mes"
+            },
+            {
+              "ar": "بَهاراتٌ",
+              "nl": "specerijen",
+              "woord": "j2-p5-l52-w20"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "gebiedende-wijs",
+          "tekst": "اِقْطَعِ البَصَلَ",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "de ui snijden",
+            "de ui wassen",
+            "de ui koken"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِقْطَعْ} = snijd!"
+        }
+      ]
+    },
+    {
+      "titel": "Gebiedende wijs maken",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "gebiedende-wijs",
+          "instructie": "Maak de gebiedende wijs (tegen een man).",
+          "rijen": [
+            {
+              "label": "يَكْتُبُ",
+              "antwoord": "اُكْتُبْ",
+              "tr": "uktub"
+            },
+            {
+              "label": "يَشْرَبُ",
+              "antwoord": "اِشْرَبْ",
+              "tr": "išrab"
+            },
+            {
+              "label": "يَجْلِسُ",
+              "antwoord": "اِجْلِسْ",
+              "tr": "ijlis"
+            },
+            {
+              "label": "يَدْخُلُ",
+              "antwoord": "اُدْخُلْ",
+              "tr": "udḫul"
+            }
+          ],
+          "uitleg": "u → اُ; a/i → اِ"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "gebiedende-wijs",
+          "instructie": "Maak de gebiedende wijs van اِفْتَحْ (open!) voor iedere persoon.",
+          "rijen": [
+            {
+              "label": "een vrouw",
+              "antwoord": "اِفْتَحي",
+              "tr": "iftaḥī"
+            },
+            {
+              "label": "twee personen",
+              "antwoord": "اِفْتَحا",
+              "tr": "iftaḥā"
+            },
+            {
+              "label": "een groep (m)",
+              "antwoord": "اِفْتَحوا",
+              "tr": "iftaḥū"
+            },
+            {
+              "label": "een groep vrouwen",
+              "antwoord": "اِفْتَحْنَ",
+              "tr": "iftaḥna"
+            }
+          ],
+          "uitleg": "ـي · ـا · ـوا · ـْنَ"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebiedende-wijs",
+          "vraag": "Welke beginklinker krijgt de gebiedende wijs van {ar|يَسْكُبُ}?",
+          "opties": [
+            "اُ (u)",
+            "اِ (i)",
+            "اَ (a)"
+          ],
+          "juist": 0,
+          "uitleg": "Stamklinker u → {ar|اُسْكُبْ}."
+        },
+        {
+          "type": "invullen",
+          "tag": "gebiedende-wijs",
+          "zin": "يا سارَةُ، ___ الصُّحونَ مِنْ فَضْلِكِ.",
+          "nl": "Sara, was alsjeblieft de borden.",
+          "woordbank": [
+            "اِغْسِلي",
+            "اِغْسِلْ",
+            "تَغْسِلينَ"
+          ],
+          "antwoord": [
+            "اِغْسِلي"
+          ],
+          "uitleg": "Tegen een vrouw: ـي."
+        },
+        {
+          "type": "invullen",
+          "tag": "gebiedende-wijs",
+          "zin": "يا أَوْلادُ، ___ هُنا!",
+          "nl": "Jongens, ga hier zitten!",
+          "woordbank": [
+            "اِجْلِسوا",
+            "اِجْلِسْ",
+            "تَجْلِسونَ"
+          ],
+          "antwoord": [
+            "اِجْلِسوا"
+          ],
+          "uitleg": "Tegen een groep: ـوا."
+        }
+      ]
+    },
+    {
+      "titel": "Het recept",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "gebiedende-wijs",
+          "nl": "Giet olijfolie in de pan.",
+          "woorden": [
+            "اُسْكُبْ",
+            "زَيْتَ",
+            "الزَّيْتونِ",
+            "في",
+            "القِدْرِ."
+          ],
+          "uitleg": "Gebiedende wijs + lijdend voorwerp."
+        },
+        {
+          "type": "invullen",
+          "tag": "verbod",
+          "zin": "لا ___ الفُرْنَ الآنَ!",
+          "nl": "Doe de oven nu niet open!",
+          "woordbank": [
+            "تَفْتَحِ",
+            "اِفْتَحِ",
+            "تَفْتَحُ"
+          ],
+          "antwoord": [
+            "تَفْتَحِ",
+            "تَفْتَحْ"
+          ],
+          "uitleg": "Ontkenning: {ar|لا} + majzūm, niet de gebiedende wijs."
+        },
+        {
+          "type": "luisteren",
+          "tag": "gebiedende-wijs",
+          "tekst": "اُطْبُخْها عَلى نارٍ هادِئَةٍ",
+          "vraag": "Hoe moet je het koken?",
+          "opties": [
+            "op laag vuur",
+            "in de oven",
+            "heel snel"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نارٌ هادِئَةٌ} = laag vuur."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "gebiedende-wijs",
+          "bron": "Schrijf! (tegen een man)",
+          "antwoorden": [
+            "اُكْتُبْ"
+          ],
+          "uitleg": "{ar|اُكْتُبْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "gebiedende-wijs",
+          "bron": "اِخْلِطِ الطَّماطِمَ مَعَ الثّومِ.",
+          "antwoorden": [
+            "meng de tomaten met de knoflook",
+            "meng de tomaten met knoflook"
+          ],
+          "uitleg": "{ar|اِخْلِطْ} = meng!"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُكَوِّناتٌ",
+            "nl": "ingrediënten"
+          },
+          {
+            "ar": "مِقْلاةٌ",
+            "nl": "koekenpan"
+          },
+          {
+            "ar": "طازَجٌ",
+            "nl": "vers"
+          },
+          {
+            "ar": "ناضِجٌ",
+            "nl": "gaar"
+          },
+          {
+            "ar": "فُلْفُلٌ",
+            "nl": "peper"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs",
+        "vraag": "De gebiedende wijs van {ar|يَدْرُسُ} (tegen een man) is ...",
+        "opties": [
+          "اُدْرُسْ",
+          "اِدْرُسْ",
+          "تَدْرُسْ"
+        ],
+        "juist": 0,
+        "uitleg": "Stamklinker u → اُ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs",
+        "vraag": "De gebiedende wijs van {ar|يَلْعَبُ} (tegen een groep) is ...",
+        "opties": [
+          "اِلْعَبوا",
+          "اُلْعُبوا",
+          "تَلْعَبونَ"
+        ],
+        "juist": 0,
+        "uitleg": "Stamklinker a → اِ; groep → ـوا."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verbod",
+        "vraag": "'Snijd het niet! (m)' is ...",
+        "opties": [
+          "لا تَقْطَعْهُ!",
+          "لا اِقْطَعْهُ!",
+          "لَمْ تَقْطَعْهُ!"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا} + majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs",
+        "vraag": "Tegen wie zeg je {ar|اِشْرَبا}?",
+        "opties": [
+          "twee personen",
+          "een vrouw",
+          "een groep vrouwen"
+        ],
+        "juist": 0,
+        "uitleg": "ـا = dualis."
+      },
+      {
+        "type": "luisteren",
+        "tag": "gebiedende-wijs",
+        "tekst": "اِغْسِلي يَدَيْكِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Was je handen! (tegen een vrouw)",
+          "Was je handen! (tegen een man)",
+          "Ze wast haar handen."
+        ],
+        "juist": 0,
+        "uitleg": "ـي = vrouw."
+      },
+      {
+        "type": "luisteren",
+        "tag": "verbod",
+        "tekst": "لا تَلْمَسوا الفُرْنَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Raak de oven niet aan! (groep)",
+          "Raak de oven aan!",
+          "Ze raakten de oven niet aan."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا} + majzūm, groep."
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs",
+        "zin": "___ الماءَ في الكَأْسِ.",
+        "nl": "Giet het water in het glas. (m)",
+        "woordbank": [
+          "اُسْكُبِ",
+          "اِسْكُبِ",
+          "تَسْكُبُ"
+        ],
+        "antwoord": [
+          "اُسْكُبِ",
+          "اُسْكُبْ"
+        ],
+        "uitleg": "Stamklinker u → {ar|اُسْكُبْ}.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs",
+        "zin": "يا بَناتُ، ___ الكِتابَ!",
+        "nl": "Meisjes, open het boek!",
+        "woordbank": [
+          "اِفْتَحْنَ",
+          "اِفْتَحوا",
+          "اِفْتَحي"
+        ],
+        "antwoord": [
+          "اِفْتَحْنَ"
+        ],
+        "uitleg": "Groep vrouwen: ـْنَ."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "gebiedende-wijs",
+        "instructie": "Maak de gebiedende wijs van اِقْطَعْ (snijd!).",
+        "rijen": [
+          {
+            "label": "een vrouw",
+            "antwoord": "اِقْطَعي",
+            "tr": "iqṭaʿī"
+          },
+          {
+            "label": "een groep (m)",
+            "antwoord": "اِقْطَعوا",
+            "tr": "iqṭaʿū"
+          }
+        ],
+        "uitleg": "ـي · ـوا"
+      },
+      {
+        "type": "ordenen",
+        "tag": "gebiedende-wijs",
+        "nl": "Was de tomaten en snijd ze in kleine stukjes.",
+        "woorden": [
+          "اِغْسِلِ",
+          "الطَّماطِمَ",
+          "وَاقْطَعْها",
+          "قِطَعًا",
+          "صَغيرَةً."
+        ],
+        "uitleg": "Twee gebiedende wijzen met {ar|وَ}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebiedende-wijs",
+        "bron": "Ga zitten! (tegen een vrouw)",
+        "antwoorden": [
+          "اِجْلِسي"
+        ],
+        "uitleg": "{ar|اِجْلِسي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "verbod",
+        "bron": "Drink niet! (tegen een man)",
+        "antwoorden": [
+          "لا تَشْرَبْ"
+        ],
+        "uitleg": "{ar|لا تَشْرَبْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "gebiedende-wijs",
+        "bron": "اُكْتُبوا أَسْماءَكُمْ هُنا.",
+        "antwoorden": [
+          "schrijf jullie namen hier",
+          "schrijven jullie je namen hier",
+          "schrijf hier jullie namen",
+          "schrijf je naam hier"
+        ],
+        "uitleg": "Groep → ـوا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "id": "j3-p12-h34",
+  "code": "H34",
+  "type": "herhaling",
+  "titel": "Herhaling blok 12A",
+  "thema": "Reizen, werken, debatteren en vertellen op B1-niveau",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "advies geven en voorwaarden stellen.",
+    "nuanceren in een debat en een verhaal vertellen in alle tijden.",
+    "over een vakantie in Marokko vertellen in het Darija."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 133–136 en D28.",
+  "grammatica": [
+    {
+      "titel": "Blok 12A in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "reisadvies",
+              "يُنْصَحُ بِـ، مِنَ الأَفْضَلِ أَنْ، لا بُدَّ مِنْ",
+              "يُنْصَحُ بِزِيارَةِ البَتْراءِ"
+            ],
+            [
+              "voorwaarden",
+              "بِشَرْطِ أَنْ، ما دامَ، طالَما، يُشْتَرَطُ",
+              "ما دُمْتَ هُنا …"
+            ],
+            [
+              "nuanceren",
+              "سَواءٌ … أَمْ، لَيْسَ فَقَطْ … بَلْ، لا … وَلا",
+              "لا هٰذا وَلا ذاكَ"
+            ],
+            [
+              "verteltijden",
+              "كانَ + muḍāriʿ، كانَ قَدْ، فَإِذا بِـ، لَمْ يَكَدْ … حَتّى",
+              "فَإِذا بِرِسالَةٍ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Blok 12A herhaalt de grammatica van jaar 3 in **realistische B1-situaties**: reizen, werken, debatteren en vertellen. Er komt weinig nieuwe grammatica bij; het gaat om combineren."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "reisadvies",
+          "vraag": "Welke formule is het sterkst?",
+          "opties": [
+            "لا بُدَّ مِنْ",
+            "يُنْصَحُ بِـ",
+            "مِنَ الأَفْضَلِ أَنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Verplicht."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voorwaarde-contract",
+          "vraag": "{ar|ما دامَ} betekent ...",
+          "opties": [
+            "zolang",
+            "zodra",
+            "hoewel"
+          ],
+          "juist": 0,
+          "uitleg": "Duur."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "nuanceren",
+          "vraag": "Na {ar|سَواءٌ} volgt ...",
+          "opties": [
+            "أَمْ",
+            "أَوْ",
+            "بَلْ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَمْ}"
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قَلْعَةٌ",
+              "nl": "fort",
+              "woord": "j3-p12-l133-w05"
+            },
+            {
+              "ar": "عَقْدُ إيجارٍ",
+              "nl": "huurcontract",
+              "woord": "j3-p12-l134-w02"
+            },
+            {
+              "ar": "قَضِيَّةٌ",
+              "nl": "kwestie",
+              "woord": "j3-p12-l135-w01"
+            },
+            {
+              "ar": "سِرٌّ",
+              "nl": "geheim",
+              "woord": "j3-p12-l136-w15"
+            },
+            {
+              "ar": "الشط",
+              "nl": "strand (Darija)",
+              "woord": "j3-p12-d28-w01"
+            },
+            {
+              "ar": "مُغْتَرِبٌ",
+              "nl": "expat",
+              "woord": "j3-p12-l134-w04"
+            }
+          ],
+          "uitleg": "Woorden uit blok 12A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "reisadvies",
+          "zin": "يُنْصَحُ ___ الماءِ المَعْدِنِيِّ.",
+          "nl": "Het is aan te raden mineraalwater te drinken.",
+          "antwoord": [
+            "بِشُرْبِ"
+          ],
+          "uitleg": "Maṣdar.",
+          "woordbank": [
+            "بِشُرْبِ",
+            "أَنْ يَشْرَبُ",
+            "شَرِبَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "verteltijden",
+          "zin": "فَتَحْتُ الدُّرْجَ فَإِذا ___ قَديمٍ.",
+          "nl": "Ik opende de la en opeens: een oude sleutel.",
+          "antwoord": [
+            "بِمِفْتاحٍ"
+          ],
+          "uitleg": "Genitief.",
+          "woordbank": [
+            "بِمِفْتاحٍ",
+            "مِفْتاحٌ",
+            "مِفْتاحًا"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "voorwaarde-contract",
+          "instructie": "Vervoeg ما دامَ.",
+          "rijen": [
+            {
+              "label": "zolang jij (m) …",
+              "antwoord": "ما دُمْتَ",
+              "tr": "mā dumta"
+            },
+            {
+              "label": "zolang zij (mv, m) …",
+              "antwoord": "ما داموا",
+              "tr": "mā dāmū"
+            }
+          ],
+          "uitleg": "Hol."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-vakantie",
+          "tekst": "كنا كل نهار ف الشط",
+          "vraag": "Waar waren ze elke dag?",
+          "opties": [
+            "op het strand",
+            "in het dorp",
+            "in het hotel"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "nuanceren",
+          "nl": "Noch de leraren, noch de ouders zijn het eens.",
+          "woorden": [
+            "لا",
+            "المُعَلِّمونَ",
+            "وَلا",
+            "الآباءُ",
+            "مُتَّفِقونَ."
+          ],
+          "uitleg": "{ar|لا … وَلا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "reisadvies",
+          "bron": "het is beter om …",
+          "antwoorden": [
+            "مِنَ الأَفْضَلِ أَنْ",
+            "من الأفضل أن"
+          ],
+          "uitleg": "{ar|مِنَ الأَفْضَلِ أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "voorwaarde-contract",
+          "bron": "يُشْتَرَطُ إِتْقانُ اللُّغَةِ العَرَبِيَّةِ.",
+          "antwoorden": [
+            "goede beheersing van het arabisch is vereist",
+            "het arabisch goed beheersen is een vereiste"
+          ],
+          "uitleg": "{ar|يُشْتَرَطُ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "{ar|يُنْصَحُ بِالحَجْزِ مُبَكِّرًا} betekent ...",
+        "opties": [
+          "Het is aan te raden vroeg te boeken.",
+          "Je hebt vroeg geboekt.",
+          "Boek niet te vroeg."
+        ],
+        "juist": 0,
+        "uitleg": "Advies."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "'Op voorwaarde dat je komt' is ...",
+        "opties": [
+          "بِشَرْطِ أَنْ تَأْتِيَ",
+          "ما دُمْتَ تَأْتي",
+          "لِأَنَّكَ تَأْتي"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِشَرْطِ أَنْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nuanceren",
+        "vraag": "'Niet alleen mooi, maar ook goedkoop' is ...",
+        "opties": [
+          "لَيْسَ جَميلًا فَقَطْ، بَلْ رَخيصٌ أَيْضًا",
+          "لا جَميلٌ وَلا رَخيصٌ",
+          "سَواءٌ جَميلٌ أَمْ رَخيصٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "{ar|فَإِذا بِـ} drukt uit ...",
+        "opties": [
+          "iets plotselings",
+          "een gewoonte",
+          "een voorwaarde"
+        ],
+        "juist": 0,
+        "uitleg": "Verrassing."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "{ar|كانَ يَعْمَلُ} tegenover {ar|كانَ قَدْ عَمِلَ}:",
+        "opties": [
+          "werkte (altijd) tegenover had gewerkt",
+          "zal werken tegenover werkte",
+          "geen verschil"
+        ],
+        "juist": 0,
+        "uitleg": "Verteltijden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "reisadvies",
+        "tekst": "لا بُدَّ مِنْ جَوازِ سَفَرٍ",
+        "vraag": "Wat is verplicht?",
+        "opties": [
+          "een paspoort",
+          "een visum",
+          "een gids"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا بُدَّ مِنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "verteltijden",
+        "tekst": "لَمْ نَكَدْ نَصِلُ حَتّى بَدَأَ المَطَرُ",
+        "vraag": "Wanneer begon het te regenen?",
+        "opties": [
+          "meteen nadat ze aankwamen",
+          "lang voordat ze aankwamen",
+          "het regende niet"
+        ],
+        "juist": 0,
+        "uitleg": "Nauwelijks … of."
+      },
+      {
+        "type": "invullen",
+        "tag": "voorwaarde-contract",
+        "zin": "___ في المُرَشَّحِ خِبْرَةٌ في التَّسْويقِ.",
+        "nl": "De kandidaat moet ervaring in marketing hebben.",
+        "antwoord": [
+          "يُشْتَرَطُ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "يُشْتَرَطُ",
+          "يُنْصَحُ",
+          "يَشْتَرِطُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "nuanceren",
+        "zin": "سَواءٌ أَكانَ صَباحًا ___ مَساءً.",
+        "nl": "Of het nu ochtend of avond is.",
+        "antwoord": [
+          "أَمْ"
+        ],
+        "uitleg": "{ar|سَواءٌ … أَمْ}",
+        "woordbank": [
+          "أَمْ",
+          "أَوْ",
+          "بَلْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "verteltijden",
+        "zin": "كانَ أَخي قَدْ ___ عِنْدَما وَصَلْتُ.",
+        "nl": "Mijn broer was al vertrokken toen ik aankwam.",
+        "antwoord": [
+          "غادَرَ"
+        ],
+        "uitleg": "Voltooid verleden.",
+        "woordbank": [
+          "غادَرَ",
+          "يُغادِرُ",
+          "سَيُغادِرُ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "آثارٌ",
+            "nl": "oudheden"
+          },
+          {
+            "ar": "فَتْرَةُ التَّجْرِبَةِ",
+            "nl": "proeftijd"
+          },
+          {
+            "ar": "الرَّأْيُ العامُّ",
+            "nl": "publieke opinie"
+          },
+          {
+            "ar": "حَبْكَةٌ",
+            "nl": "plot"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "reisadvies",
+        "nl": "Het is aan te raden de piramides 's ochtends te bezoeken.",
+        "woorden": [
+          "يُنْصَحُ",
+          "بِزِيارَةِ",
+          "الأَهْراماتِ",
+          "في",
+          "الصَّباحِ."
+        ],
+        "uitleg": "Advies."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "verteltijden",
+        "bron": "op dat moment",
+        "antwoorden": [
+          "في تِلْكَ اللَّحْظَةِ",
+          "في تلك اللحظة"
+        ],
+        "uitleg": "{ar|في تِلْكَ اللَّحْظَةِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "nuanceren",
+        "bron": "هٰذِهِ قَضِيَّةٌ مُثيرَةٌ لِلْجَدَلِ.",
+        "antwoorden": [
+          "dit is een omstreden kwestie",
+          "dit is een controversiële zaak"
+        ],
+        "uitleg": "Debat."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-vakantie",
+        "bron": "الصهد كان بزاف",
+        "antwoorden": [
+          "het was erg heet",
+          "het was heel warm"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ṣṣhəḍ kān bəzzāf"
+      }
+    ]
+  }
+}

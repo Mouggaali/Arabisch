@@ -1,0 +1,571 @@
+{
+  "id": "j2-p7-pt7",
+  "code": "PT7",
+  "type": "periodetoets",
+  "titel": "Periodetoets 7",
+  "thema": "Alle leerdoelen van periode 7 (les 73 tot en met 84, D13–D15)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** overtreffende trap, actief en passief deelwoord, betrekkelijke bijzin (L73–L76).",
+    "**Getoetst:** bijzin zonder الَّذي, كانَ + muḍāriʿ en قَدْ, ḥāl, أَنْ en أَنَّ (L77–L80).",
+    "**Getoetst:** tamyīz, modaliteit, telwoorden 11–19, tijdsvoegwoorden (L81–L84).",
+    "**Getoetst:** Darija: gevoelens en weer, telefoneren, gebiedende wijs (D13–D15).",
+    "Geslaagd vanaf 70%. Maak eerst H21."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'De hoogste berg' is ...",
+        "opties": [
+          "أَعْلى جَبَلٍ",
+          "أَعْلى الجَبَلِ",
+          "جَبَلٌ أَعْلى"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "Vrouwelijk van {ar|الأَكْبَرُ} is ...",
+        "opties": [
+          "الكُبْرى",
+          "الكَبيرَةُ",
+          "الأَكْبَرَةُ"
+        ],
+        "juist": 0,
+        "uitleg": "الفُعْلى."
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "هٰذا ___ مَطْعَمٍ في المَدينَةِ.",
+        "nl": "Dit is het beste restaurant van de stad.",
+        "antwoord": [
+          "أَفْضَلُ"
+        ],
+        "uitleg": "iḍāfa.",
+        "woordbank": [
+          "أَفْضَلُ",
+          "الأَفْضَلُ",
+          "فاضِلٌ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "'Ik ben op weg naar huis' is ...",
+        "opties": [
+          "أَنا ذاهِبٌ إِلى البَيْتِ",
+          "أَنا مَذْهوبٌ إِلى البَيْتِ",
+          "أَنا ذَهَبْتُ البَيْتَ"
+        ],
+        "juist": 0,
+        "uitleg": "Actief deelwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "Wat betekent {ar|مَحْجوزٌ}?",
+        "opties": [
+          "gereserveerd",
+          "reservering",
+          "reserveerder"
+        ],
+        "juist": 0,
+        "uitleg": "مَفْعول."
+      },
+      {
+        "type": "invullen",
+        "tag": "passief-deelwoord",
+        "zin": "المَحَلُّ ___ اليَوْمَ.",
+        "nl": "De winkel is vandaag gesloten.",
+        "antwoord": [
+          "مُغْلَقٌ"
+        ],
+        "uitleg": "Passief.",
+        "woordbank": [
+          "مُغْلَقٌ",
+          "مُغْلِقٌ",
+          "إِغْلاقٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "'De vrouw die ik zag' is ...",
+        "opties": [
+          "المَرْأَةُ الَّتي رَأَيْتُها",
+          "المَرْأَةُ الَّذي رَأَيْتُهُ",
+          "اِمْرَأَةٌ الَّتي رَأَيْتُها"
+        ],
+        "juist": 0,
+        "uitleg": "الَّتي + ʿāʾid."
+      },
+      {
+        "type": "invullen",
+        "tag": "betrekkelijke-bijzin",
+        "zin": "الطُّلّابُ ___ نَجَحوا سُعَداءُ.",
+        "nl": "De studenten die geslaagd zijn, zijn blij.",
+        "antwoord": [
+          "الَّذينَ"
+        ],
+        "uitleg": "Mannelijk meervoud.",
+        "woordbank": [
+          "الَّذينَ",
+          "الَّذي",
+          "الَّتي"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "'Een huis dat ik kocht' is ...",
+        "opties": [
+          "بَيْتٌ اِشْتَرَيْتُهُ",
+          "بَيْتٌ الَّذي اِشْتَرَيْتُهُ",
+          "البَيْتُ اِشْتَرَيْتُهُ"
+        ],
+        "juist": 0,
+        "uitleg": "Onbepaald."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "Wat betekent {ar|لَمْ أَفْهَمْ ما قالَ}?",
+        "opties": [
+          "Ik begreep niet wat hij zei.",
+          "Hij zei niets.",
+          "Wat zei hij?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما} = wat."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "'Ik woonde (toen) in Fez' is ...",
+        "opties": [
+          "كُنْتُ أَسْكُنُ في فاسَ",
+          "سَكَنْتُ في فاسَ مَرَّةً",
+          "سَأَسْكُنُ في فاسَ"
+        ],
+        "juist": 0,
+        "uitleg": "Duur in het verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "{ar|قَدْ} + muḍāriʿ betekent ...",
+        "opties": [
+          "misschien",
+          "al",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "Mogelijkheid."
+      },
+      {
+        "type": "invullen",
+        "tag": "hal",
+        "zin": "رَجَعَتِ البِنْتُ ___.",
+        "nl": "Het meisje kwam blij terug.",
+        "antwoord": [
+          "سَعيدَةً"
+        ],
+        "uitleg": "ḥāl.",
+        "woordbank": [
+          "سَعيدَةً",
+          "سَعيدَةٌ",
+          "السَّعيدَةُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal",
+        "vraag": "Wat is een ḥāl?",
+        "opties": [
+          "een toestandsbepaling in de accusatief",
+          "een bijvoeglijk naamwoord met ال",
+          "een voorzetsel"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "invullen",
+        "tag": "an-anna",
+        "zin": "أَعْرِفُ ___ الاِمْتِحانَ صَعْبٌ.",
+        "nl": "Ik weet dat het examen moeilijk is.",
+        "antwoord": [
+          "أَنَّ"
+        ],
+        "uitleg": "Feit.",
+        "woordbank": [
+          "أَنَّ",
+          "أَنْ",
+          "لَنْ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "an-anna",
+        "zin": "أُريدُ ___ أَسْتَريحَ.",
+        "nl": "Ik wil uitrusten.",
+        "antwoord": [
+          "أَنْ"
+        ],
+        "uitleg": "Handeling.",
+        "woordbank": [
+          "أَنْ",
+          "أَنَّ",
+          "إِنَّ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Hoeveel kinderen?' is ...",
+        "opties": [
+          "كَمْ طِفْلًا؟",
+          "كَمْ أَطْفالٍ؟",
+          "كَمْ طِفْلٌ؟"
+        ],
+        "juist": 0,
+        "uitleg": "Accusatief enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "'Je moet lezen' is ...",
+        "opties": [
+          "يَجِبُ أَنْ تَقْرَأَ",
+          "يَجِبُ تَقْرَأُ",
+          "تَجِبُ أَنْ تَقْرَأَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَجِبُ أَنْ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "modaliteit",
+        "zin": "هَلْ ___ أَنْ أَجْلِسَ هُنا؟",
+        "nl": "Mag ik hier zitten?",
+        "antwoord": [
+          "يُمْكِنُ"
+        ],
+        "uitleg": "{ar|يُمْكِنُ} = mogen/kunnen.",
+        "woordbank": [
+          "يُمْكِنُ",
+          "يَجِبُ",
+          "يَنْبَغي"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'Achttien vrouwen' is ...",
+        "opties": [
+          "ثَمانِيَ عَشْرَةَ امْرَأَةً",
+          "ثَمانِيَةَ عَشَرَ امْرَأَةً",
+          "ثَمانِيَ عَشْرَةَ نِساءٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'De twaalfde dag' is ...",
+        "opties": [
+          "اليَوْمُ الثّاني عَشَرَ",
+          "اليَوْمُ اثْنا عَشَرَ",
+          "اِثْنا عَشَرَ يَوْمًا"
+        ],
+        "juist": 0,
+        "uitleg": "Rangtelwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Voordat ik ga slapen' is ...",
+        "opties": [
+          "قَبْلَ أَنْ أَنامَ",
+          "قَبْلَ أَنْ نِمْتُ",
+          "بَعْدَ أَنْ أَنامَ"
+        ],
+        "juist": 0,
+        "uitleg": "+ manṣūb."
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "___ كُنْتُ أَدْرُسُ، رَنَّ الهاتِفُ.",
+        "nl": "Terwijl ik studeerde, ging de telefoon.",
+        "antwoord": [
+          "بَيْنَما"
+        ],
+        "uitleg": "{ar|بَيْنَما}",
+        "woordbank": [
+          "بَيْنَما",
+          "بَعْدَ أَنْ",
+          "قَبْلَ أَنْ"
+        ]
+      },
+      {
+        "type": "luisteren",
+        "tag": "actief-deelwoord",
+        "tekst": "نَحْنُ راجِعونَ مِنَ السَّفَرِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We zijn terug van reis.",
+          "We gaan op reis.",
+          "We reisden niet."
+        ],
+        "juist": 0,
+        "uitleg": "Actief deelwoord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal",
+        "tekst": "خَرَجَ مِنَ الاِمْتِحانِ مُبْتَسِمًا",
+        "vraag": "Hoe verliet hij het examen?",
+        "opties": [
+          "glimlachend",
+          "huilend",
+          "boos"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tamyiz",
+        "tekst": "كَمْ ساعَةً تَنامُ؟",
+        "vraag": "Wat wordt er gevraagd?",
+        "opties": [
+          "Hoeveel uur slaap je?",
+          "Hoe laat ga je slapen?",
+          "Slaap je goed?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كَمْ} + tamyīz."
+      },
+      {
+        "type": "luisteren",
+        "tag": "modaliteit",
+        "tekst": "لا يُمْكِنُني أَنْ آتِيَ غَدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik kan morgen niet komen.",
+          "Ik kom morgen.",
+          "Ik moet morgen komen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا يُمْكِنُ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "بُرْجٌ",
+            "nl": "toren"
+          },
+          {
+            "ar": "راكِبٌ",
+            "nl": "passagier"
+          },
+          {
+            "ar": "لافِتَةٌ",
+            "nl": "bord"
+          },
+          {
+            "ar": "شَخْصِيَّةٌ",
+            "nl": "persoonlijkheid"
+          },
+          {
+            "ar": "سِمْسارٌ",
+            "nl": "makelaar"
+          }
+        ],
+        "uitleg": "Woordenschat periode 7."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "خِبْرَةٌ",
+            "nl": "ervaring"
+          },
+          {
+            "ar": "بيئَةٌ",
+            "nl": "milieu"
+          },
+          {
+            "ar": "رَكْضٌ",
+            "nl": "hardlopen"
+          },
+          {
+            "ar": "نِسْبَةٌ",
+            "nl": "percentage"
+          },
+          {
+            "ar": "لِصٌّ",
+            "nl": "dief"
+          }
+        ],
+        "uitleg": "Woordenschat periode 7."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "actief-deelwoord",
+        "instructie": "Actief en passief deelwoord van كَتَبَ.",
+        "rijen": [
+          {
+            "label": "actief",
+            "antwoord": "كاتِبٌ",
+            "tr": "kātib"
+          },
+          {
+            "label": "passief",
+            "antwoord": "مَكْتوبٌ",
+            "tr": "maktūb"
+          }
+        ],
+        "uitleg": "فاعِل · مَفْعول"
+      },
+      {
+        "type": "ordenen",
+        "tag": "betrekkelijke-bijzin",
+        "nl": "De man die naast ons woont is arts.",
+        "woorden": [
+          "الرَّجُلُ",
+          "الَّذي",
+          "يَسْكُنُ",
+          "بِجانِبِنا",
+          "طَبيبٌ."
+        ],
+        "uitleg": "{ar|الَّذي}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "tijdsvoegwoorden",
+        "nl": "Nadat we gegeten hadden, gingen we naar buiten.",
+        "woorden": [
+          "بَعْدَ",
+          "أَنْ",
+          "أَكَلْنا،",
+          "خَرَجْنا."
+        ],
+        "uitleg": "+ māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-gevoel-weer",
+        "vraag": "'Ik heb het koud' in het Darija is ...",
+        "opties": [
+          "فيا البرد",
+          "أنا برد",
+          "كتصب الشتا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فيا البرد}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-telefoon",
+        "vraag": "Hoe neem je in Marokko de telefoon op?",
+        "opties": [
+          "ألو",
+          "بسلامة",
+          "عيط"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ألو}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-gebod",
+        "vraag": "'Wees niet bang' in het Darija is ...",
+        "opties": [
+          "ما تخافش",
+          "لا تخاف",
+          "خاف"
+        ],
+        "juist": 0,
+        "uitleg": "ما … ش."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "passief-deelwoord",
+        "bron": "verboden",
+        "antwoorden": [
+          "مَمْنوعٌ",
+          "مَمْنوع"
+        ],
+        "uitleg": "مَفْعول."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "an-anna",
+        "bron": "Ik denk dat hij gelijk heeft.",
+        "antwoorden": [
+          "أَظُنُّ أَنَّهُ عَلى حَقٍّ",
+          "أَعْتَقِدُ أَنَّهُ عَلى حَقٍّ",
+          "أَظُنُّ أَنَّهُ مُحِقٌّ",
+          "أَعْتَقِدُ أَنَّهُ مُحِقٌّ"
+        ],
+        "uitleg": "{ar|أَنَّ} + suffix."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "overtreffende-trap",
+        "bron": "فاسُ مِنْ أَقْدَمِ المُدُنِ في العالَمِ.",
+        "antwoorden": [
+          "fez is een van de oudste steden ter wereld",
+          "fez is een van de oudste steden van de wereld",
+          "fès is een van de oudste steden ter wereld"
+        ],
+        "uitleg": "{ar|مِنْ أَفْعَلِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-mudari",
+        "bron": "كانَتْ جَدَّتي تَحْكي لَنا حِكاياتٍ.",
+        "antwoorden": [
+          "mijn oma vertelde ons verhalen",
+          "mijn grootmoeder vertelde ons verhalen",
+          "mijn oma vertelde ons altijd verhalen"
+        ],
+        "uitleg": "Gewoonte."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hal",
+        "bron": "دَخَلَ الطِّفْلُ باكِيًا.",
+        "antwoorden": [
+          "het kind kwam huilend binnen",
+          "het kind kwam binnen huilend"
+        ],
+        "uitleg": "ḥāl."
+      }
+    ]
+  }
+}

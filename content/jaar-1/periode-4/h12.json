@@ -1,0 +1,559 @@
+{
+  "id": "j1-p4-h12",
+  "code": "H12",
+  "type": "herhaling",
+  "titel": "Herhaling jaar 1",
+  "thema": "De hoofdlijnen van het eerste jaar",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de nominale en de verbale zin bouwen en ontkennen.",
+    "werkwoorden vervoegen in māḍī, muḍāriʿ en toekomst.",
+    "bepaaldheid, iḍāfa en congruentie correct toepassen.",
+    "getallen, vergrotende trap, كُلّ / بَعْض en voegwoorden gebruiken."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal je flashcards en vooral de woorden die de app als moeilijk markeert.",
+  "grammatica": [
+    {
+      "titel": "Jaar 1 in één tabel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "nominale zin",
+              "bepaald onderwerp + onbepaald gezegde",
+              "البَيْتُ كَبيرٌ."
+            ],
+            [
+              "bijv. nw na zelfst. nw",
+              "congrueert, ook in bepaaldheid",
+              "البَيْتُ الكَبيرُ"
+            ],
+            [
+              "iḍāfa",
+              "eerste lid zonder ال, tweede in genitief",
+              "بَيْتُ المُعَلِّمِ"
+            ],
+            [
+              "hebben",
+              "عِنْدَ + suffix",
+              "عِنْدي سَيّارَةٌ."
+            ],
+            [
+              "verleden 'zijn'",
+              "كانَ + accusatief",
+              "كانَ الجَوُّ جَميلًا."
+            ],
+            [
+              "verbale zin",
+              "werkwoord vooraan in het enkelvoud",
+              "ذَهَبَ الطُّلّابُ."
+            ],
+            [
+              "toekomst",
+              "سَـ / سَوْفَ + muḍāriʿ",
+              "سَأُسافِرُ."
+            ],
+            [
+              "wens",
+              "أُريدُ أَنْ + muḍāriʿ op -a",
+              "أُريدُ أَنْ أَنامَ."
+            ],
+            [
+              "ontkenning",
+              "لَيْسَ / لا / ما",
+              "لَسْتُ / لا أَعْرِفُ / ما فَهِمْتُ"
+            ],
+            [
+              "vergelijken",
+              "أَفْعَلُ مِنْ",
+              "أَكْبَرُ مِنْ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bijna alles in deze tabel draait om drie vragen: **is het woord bepaald of niet**, **welke naamval heeft het**, en **wie is de persoon**? Wie die drie bij elke zin stelt, maakt de meeste fouten niet meer."
+        }
+      ]
+    },
+    {
+      "titel": "Een jaar Arabisch",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "قَبْلَ سَنَةٍ كانَتِ العَرَبِيَّةُ جَديدَةً لي.",
+              "tr": "qabla sanatin kānati l-ʿarabiyyatu jadīdatan lī.",
+              "nl": "Een jaar geleden was Arabisch nieuw voor me."
+            },
+            {
+              "ar": "الآنَ أَقْرَأُ نُصوصًا قَصيرَةً وَأَكْتُبُ رَسائِلَ.",
+              "tr": "al-āna aqraʾu nuṣūṣan qaṣīratan wa-aktubu rasāʾil.",
+              "nl": "Nu lees ik korte teksten en schrijf ik berichten."
+            },
+            {
+              "ar": "العَرَبِيَّةُ صَعْبَةٌ، لٰكِنَّها جَميلَةٌ جِدًّا.",
+              "tr": "al-ʿarabiyyatu ṣaʿbatun, lākinnahā jamīlatun jiddan.",
+              "nl": "Arabisch is moeilijk, maar het is heel mooi."
+            },
+            {
+              "ar": "في السَّنَةِ القادِمَةِ سَأَتَعَلَّمُ أَكْثَرَ.",
+              "tr": "fi s-sanati l-qādimati sa-ataʿallamu akṯar.",
+              "nl": "Volgend jaar ga ik meer leren."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Zinnen bouwen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "bepaaldheid",
+          "vraag": "Wat betekent {ar|الكِتابُ الجَديدُ}?",
+          "opties": [
+            "het nieuwe boek",
+            "het boek is nieuw",
+            "een nieuw boek"
+          ],
+          "juist": 0,
+          "uitleg": "Beide bepaald → bijvoeglijk."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "idafa",
+          "vraag": "'De auto van mijn vader' is ...",
+          "opties": [
+            "سَيّارَةُ أَبي",
+            "السَّيّارَةُ أَبي",
+            "سَيّارَةٌ أَبي"
+          ],
+          "juist": 0,
+          "uitleg": "Iḍāfa: eerste lid zonder ال en zonder tanwīn."
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-accusatief",
+          "zin": "كانَ الاِمْتِحانُ ___.",
+          "nl": "Het examen was makkelijk.",
+          "woordbank": [
+            "سَهْلًا",
+            "سَهْلٌ",
+            "السَّهْلُ"
+          ],
+          "antwoord": [
+            "سَهْلًا"
+          ],
+          "uitleg": "Na {ar|كانَ}: accusatief."
+        },
+        {
+          "type": "invullen",
+          "tag": "verbale-zin",
+          "zin": "___ الأَوْلادُ في الحَديقَةِ.",
+          "nl": "De jongens speelden in de tuin.",
+          "woordbank": [
+            "لَعِبَ",
+            "لَعِبُوا"
+          ],
+          "antwoord": [
+            "لَعِبَ"
+          ],
+          "uitleg": "Werkwoord vooraan → enkelvoud."
+        },
+        {
+          "type": "ordenen",
+          "tag": "voegwoorden",
+          "nl": "Arabisch is moeilijk, maar het is heel mooi.",
+          "woorden": [
+            "العَرَبِيَّةُ",
+            "صَعْبَةٌ،",
+            "لٰكِنَّها",
+            "جَميلَةٌ",
+            "جِدًّا."
+          ],
+          "uitleg": "{ar|لٰكِنَّ} + suffix."
+        }
+      ]
+    },
+    {
+      "titel": "Werkwoorden en getallen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vervoeging-overzicht",
+          "instructie": "Vul de juiste vorm van 'leren / studeren' (دَرَسَ / يَدْرُسُ) in.",
+          "rijen": [
+            {
+              "label": "wij studeerden",
+              "antwoord": "دَرَسْنا",
+              "tr": "darasnā"
+            },
+            {
+              "label": "zij (v) studeert",
+              "antwoord": "تَدْرُسُ",
+              "tr": "tadrusu"
+            },
+            {
+              "label": "zij (m mv) zullen studeren",
+              "antwoord": "سَيَدْرُسونَ",
+              "tr": "sa-yadrusūna"
+            },
+            {
+              "label": "zij twee (m) studeerden",
+              "antwoord": "دَرَسا",
+              "tr": "darasā"
+            }
+          ],
+          "uitleg": "Verleden – heden – toekomst – dualis."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "في الصَّفِّ ___ طُلّابٍ.",
+          "nl": "Er zijn zeven studenten in de klas.",
+          "woordbank": [
+            "سَبْعَةُ",
+            "سَبْعُ"
+          ],
+          "antwoord": [
+            "سَبْعَةُ"
+          ],
+          "uitleg": "{ar|طالِبٌ} mannelijk → met ة."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vergrotende-trap",
+          "vraag": "'Marrakesh is warmer dan Rabat' is ...",
+          "opties": [
+            "مَرّاكُشُ أَحَرُّ مِنَ الرِّباطِ.",
+            "مَرّاكُشُ حارَّةٌ مِنَ الرِّباطِ.",
+            "مَرّاكُشُ أَحْرَرُ مِنَ الرِّباطِ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|حارٌّ} (ح-ر-ر) → {ar|أَحَرُّ}."
+        },
+        {
+          "type": "luisteren",
+          "tag": "toekomst",
+          "tekst": "في السَّنَةِ القادِمَةِ سَأَتَعَلَّمُ أَكْثَرَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Volgend jaar ga ik meer leren.",
+            "Vorig jaar leerde ik veel.",
+            "Dit jaar leer ik minder."
+          ],
+          "juist": 0,
+          "uitleg": "سَـ = toekomst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "أَفْضَلُ",
+              "nl": "beter",
+              "woord": "j1-p4-l45-w13"
+            },
+            {
+              "ar": "تَقْليدٌ",
+              "nl": "traditie",
+              "woord": "j1-p4-l46-w07"
+            },
+            {
+              "ar": "شَرِكَةٌ",
+              "nl": "bedrijf"
+            },
+            {
+              "ar": "دَعْوَةٌ",
+              "nl": "uitnodiging",
+              "woord": "j1-p4-l48-w13"
+            },
+            {
+              "ar": "والو",
+              "nl": "niets (Darija)",
+              "woord": "j1-p4-d06-w04"
+            },
+            {
+              "ar": "حَيٌّ",
+              "nl": "wijk",
+              "woord": "j1-p4-l45-w17"
+            }
+          ],
+          "uitleg": "Woorden uit blok 4C."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "hebben-inda",
+          "bron": "Wij hebben een groot huis.",
+          "antwoorden": [
+            "عِنْدَنا بَيْتٌ كَبيرٌ",
+            "لَنا بَيْتٌ كَبيرٌ"
+          ],
+          "uitleg": "{ar|عِنْدَنا} + onbepaald."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "ontkenning-overzicht",
+          "bron": "Ik ben geen student. (m)",
+          "antwoorden": [
+            "لَسْتُ طالِبًا"
+          ],
+          "uitleg": "{ar|لَسْتُ} + accusatief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kull-bad",
+          "bron": "أَزورُ جَدَّتي كُلَّ أُسْبوعٍ.",
+          "antwoorden": [
+            "ik bezoek mijn oma elke week",
+            "ik bezoek elke week mijn oma",
+            "ik bezoek mijn grootmoeder elke week",
+            "ik bezoek elke week mijn grootmoeder"
+          ],
+          "uitleg": "{ar|كُلَّ أُسْبوعٍ} = elke week."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-ontkenning",
+          "bron": "ماكانعرفش",
+          "tr": "makanʿṛəfš",
+          "antwoorden": [
+            "ik weet het niet",
+            "ik weet niet"
+          ],
+          "uitleg": "Darija: ما … ش."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "nominale-zin",
+        "vraag": "Welke zin betekent 'Het huis is groot'?",
+        "opties": [
+          "البَيْتُ كَبيرٌ.",
+          "البَيْتُ الكَبيرُ.",
+          "بَيْتٌ كَبيرٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Bepaald + onbepaald = zin."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "meervoud-dingen",
+        "vraag": "'De nieuwe auto's' is ...",
+        "opties": [
+          "السَّيّاراتُ الجَديدَةُ",
+          "السَّيّاراتُ الجُدُدُ",
+          "السَّيّاراتُ الجَديداتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Niet-menselijk meervoud → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Twaalf maanden' heeft na het getal ...",
+        "opties": [
+          "accusatief enkelvoud: شَهْرًا",
+          "genitief meervoud: أَشْهُرٍ",
+          "dualis: شَهْرانِ"
+        ],
+        "juist": 0,
+        "uitleg": "11–99: accusatief enkelvoud ({ar|اِثْنا عَشَرَ شَهْرًا})."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voegwoorden",
+        "vraag": "'Hij was moe, dus sliep hij.' Welk voegwoord?",
+        "opties": [
+          "فَـ",
+          "ثُمَّ",
+          "أَوْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ} = gevolg."
+      },
+      {
+        "type": "luisteren",
+        "tag": "madi-meervoud",
+        "tekst": "سافَرْنا إِلى المَغْرِبِ في الصَّيْفِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We reisden in de zomer naar Marokko.",
+          "We reizen in de zomer naar Marokko.",
+          "Ze reisden in de winter naar Marokko."
+        ],
+        "juist": 0,
+        "uitleg": "ـْنا = wij, verleden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vergrotende-trap",
+        "tekst": "أَخي أَصْغَرُ مِنّي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn broer is jonger dan ik.",
+          "Mijn broer is ouder dan ik.",
+          "Ik ben jonger dan mijn broer."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَصْغَرُ مِنّي}"
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "هَلْ تَفْهَمُ___؟",
+        "nl": "Begrijp je mij?",
+        "woordbank": [
+          "ـني",
+          "ـي",
+          "ـكَ"
+        ],
+        "antwoord": [
+          "ـني",
+          "ني"
+        ],
+        "uitleg": "ـني bij een werkwoord."
+      },
+      {
+        "type": "invullen",
+        "tag": "kull-bad",
+        "zin": "___ الطُّلّابِ نَجَحوا.",
+        "nl": "Sommige studenten zijn geslaagd.",
+        "woordbank": [
+          "بَعْضُ",
+          "كُلَّ"
+        ],
+        "antwoord": [
+          "بَعْضُ"
+        ],
+        "uitleg": "{ar|بَعْضُ} = sommige."
+      },
+      {
+        "type": "invullen",
+        "tag": "an-mudari",
+        "zin": "أُريدُ أَنْ ___ العَرَبِيَّةَ جَيِّدًا.",
+        "nl": "Ik wil goed Arabisch spreken.",
+        "woordbank": [
+          "أَتَكَلَّمَ",
+          "أَتَكَلَّمُ",
+          "تَكَلَّمْتُ"
+        ],
+        "antwoord": [
+          "أَتَكَلَّمَ"
+        ],
+        "uitleg": "Na {ar|أَنْ}: -a.",
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vervoeging-overzicht",
+        "instructie": "Vervoeg شَرِبَ / يَشْرَبُ.",
+        "rijen": [
+          {
+            "label": "jullie (m), verleden",
+            "antwoord": "شَرِبْتُمْ",
+            "tr": "šaribtum"
+          },
+          {
+            "label": "zij (v mv), heden",
+            "antwoord": "يَشْرَبْنَ",
+            "tr": "yašrabna"
+          },
+          {
+            "label": "ik, toekomst",
+            "antwoord": "سَأَشْرَبُ",
+            "tr": "sa-ašrabu"
+          }
+        ],
+        "uitleg": "{ar|شَرِبْتُمْ} · {ar|يَشْرَبْنَ} · {ar|سَأَشْرَبُ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "kana-hebben",
+        "nl": "Ik had een kat.",
+        "woorden": [
+          "كانَتْ",
+          "عِنْدي",
+          "قِطَّةٌ."
+        ],
+        "uitleg": "{ar|كانَتْ} vanwege {ar|قِطَّةٌ}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "toekomst",
+        "bron": "Ik zal je morgen bellen. (m)",
+        "antwoorden": [
+          "سَأَتَّصِلُ بِكَ غَدًا",
+          "سَوْفَ أَتَّصِلُ بِكَ غَدًا",
+          "غَدًا سَأَتَّصِلُ بِكَ"
+        ],
+        "uitleg": "{ar|اِتَّصَلَ بِـ} + toekomst."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dualis-naamwoord",
+        "bron": "twee steden",
+        "antwoorden": [
+          "مَدينَتانِ",
+          "مَدينَتَيْنِ"
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "idafa",
+        "bron": "مِفْتاحُ البَيْتِ عَلى الطّاوِلَةِ.",
+        "antwoorden": [
+          "de sleutel van het huis ligt op de tafel",
+          "de huissleutel ligt op tafel",
+          "de sleutel van het huis ligt op tafel",
+          "de huissleutel ligt op de tafel"
+        ],
+        "uitleg": "Iḍāfa + voorzetsel."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-toekomst",
+        "bron": "غدا غادي نمشي للسوق.",
+        "tr": "ġədda ġādi nəmši l-ssūq.",
+        "antwoorden": [
+          "morgen ga ik naar de markt",
+          "ik ga morgen naar de markt"
+        ],
+        "uitleg": "Darija: غادي = toekomst."
+      }
+    ]
+  }
+}

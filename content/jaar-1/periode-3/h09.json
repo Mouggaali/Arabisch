@@ -1,0 +1,117 @@
+{
+  "id": "j1-p3-h09",
+  "code": "H09",
+  "type": "herhaling",
+  "titel": "Herhaling periode 3",
+  "thema": "Verleden, heden en toekomst; maanden, rangtelwoorden en vrije tijd",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "drie tijden gebruiken: māḍī, muḍāriʿ en toekomst met سَـ / سَوْفَ.",
+    "zijn in drie tijden: zin zonder werkwoord, كانَ, سَيَكونُ.",
+    "data noemen met rangtelwoorden en maanden.",
+    "over hobby's praten met de maṣdar."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 3 (les 25–36 en D01–D03) voordat je de periodetoets maakt.",
+
+  "grammatica": [
+    {
+      "titel": "Drie tijden",
+      "blokken": [
+        { "type": "tabel", "kop": ["", "Verleden", "Heden", "Toekomst"], "arKolommen": [1, 2, 3], "rijen": [
+          ["schrijven (ik)", "كَتَبْتُ", "أَكْتُبُ", "سَأَكْتُبُ"],
+          ["gaan (wij)", "ذَهَبْنا", "نَذْهَبُ", "سَنَذْهَبُ"],
+          ["zijn (hij)", "كانَ مَريضًا", "هُوَ مَريضٌ", "سَيَكونُ مَريضًا"],
+          ["hebben (ik)", "كانَ عِنْدي", "عِنْدي", "سَيَكونُ عِنْدي"],
+          ["ontkenning", "ما كَتَبْتُ", "لا أَكْتُبُ", "لَنْ أَكْتُبَ (les 50)"]
+        ] },
+        { "type": "waarom", "md": "Valt je iets op? *Zijn* heeft in de tegenwoordige tijd geen werkwoord, maar in verleden en toekomst wel ({ar|كانَ}, {ar|سَيَكونُ}), en dan staat het gezegde in de accusatief. Ook *hebben* gaat in alle tijden met {ar|عِنْدَ}." }
+      ]
+    },
+    {
+      "titel": "Een jaar in het leven van Sara",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "وُلِدَتْ سارَةُ في الخامِسِ مِنْ مارِسَ.", "tr": "wulidat Sāratu fi l-ḫāmisi min māris.", "nl": "Sara is geboren op 5 maart." },
+          { "ar": "في الصَّيْفِ الماضي سافَرَتْ إِلى المَغْرِبِ.", "tr": "fi ṣ-ṣayfi l-māḍī sāfarat ila l-Maġrib.", "nl": "Afgelopen zomer reisde ze naar Marokko." },
+          { "ar": "هِوايَتُها التَّصْويرُ وَالسِّباحَةُ.", "tr": "hiwāyatuhā t-taṣwīru wa-s-sibāḥa.", "nl": "Haar hobby's zijn fotograferen en zwemmen." },
+          { "ar": "سَتَدْرُسُ في الجامِعَةِ السَّنَةَ القادِمَةَ.", "tr": "sa-tadrusu fi l-jāmiʿati s-sanata l-qādima.", "nl": "Volgend jaar gaat ze aan de universiteit studeren." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Tijden",
+      "items": [
+        { "type": "vervoegen", "tag": "toekomst", "instructie": "Vul de juiste vorm van 'drinken' in.",
+          "rijen": [
+            { "label": "ik dronk", "antwoord": "شَرِبْتُ", "tr": "šaribtu" },
+            { "label": "ik drink", "antwoord": "أَشْرَبُ", "tr": "ašrabu" },
+            { "label": "ik zal drinken", "antwoord": "سَأَشْرَبُ", "tr": "sa-ašrabu" }
+          ], "uitleg": "Verleden – heden – toekomst." },
+        { "type": "invullen", "tag": "kana-accusatief", "zin": "سَيَكونُ الاِمْتِحانُ ___.", "nl": "Het examen zal moeilijk zijn.", "woordbank": ["صَعْبًا", "صَعْبٌ", "الصَّعْبُ"], "antwoord": ["صَعْبًا"], "uitleg": "Na {ar|سَيَكونُ}: accusatief." },
+        { "type": "invullen", "tag": "madi-ontkenning", "zin": "___ ذَهَبْنا إِلى السّينَما.", "nl": "We gingen niet naar de bioscoop.", "woordbank": ["ما", "لا", "لَيْسَ"], "antwoord": ["ما"], "uitleg": "{ar|ما} + māḍī." },
+        { "type": "luisteren", "tag": "toekomst", "tekst": "سَنَحْتَفِلُ بِعيدِ ميلادِها", "vraag": "Wat hoor je?", "opties": ["We zullen haar verjaardag vieren.", "We vierden haar verjaardag.", "Zij viert haar verjaardag."], "juist": 0, "uitleg": "سَـ = toekomst." },
+        { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "'De zesde maand' is ...", "opties": ["الشَّهْرُ السّادِسُ", "الشَّهْرُ السّادِسَةُ", "سِتَّةُ أَشْهُرٍ"], "juist": 0, "uitleg": "Mannelijk rangtelwoord." }
+      ]
+    },
+    {
+      "titel": "Gemengd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "الشِّتاءُ", "nl": "winter", "woord": "j1-p3-l33-w17" },
+          { "ar": "مُشْمِسٌ", "nl": "zonnig", "woord": "j1-p3-l34-w02" },
+          { "ar": "مَرَّةٌ", "nl": "keer", "woord": "j1-p3-l35-w13" },
+          { "ar": "السِّباحَةُ", "nl": "het zwemmen", "woord": "j1-p3-l36-w04" },
+          { "ar": "شحال", "nl": "hoeveel (Darija)", "woord": "j1-p3-d03-w11" },
+          { "ar": "عيدُ ميلادٍ", "nl": "verjaardag", "woord": "j1-p3-l35-w14" }
+        ], "uitleg": "Woorden uit les 33–36 en D03." },
+        { "type": "ordenen", "tag": "masdar", "nl": "Haar hobby's zijn fotograferen en zwemmen.", "woorden": ["هِوايَتُها", "التَّصْويرُ", "وَالسِّباحَةُ."], "uitleg": "Maṣdar als gezegde." },
+        { "type": "ordenen", "tag": "toekomst", "nl": "Volgend jaar gaat ze aan de universiteit studeren.", "woorden": ["سَتَدْرُسُ", "في", "الجامِعَةِ", "السَّنَةَ", "القادِمَةَ."], "uitleg": "سَـ + tijdsbepaling." },
+        { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "Welke zin is juist?", "opties": ["وَصَلَ الضُّيوفُ.", "وَصَلُوا الضُّيوفُ.", "الضُّيوفُ وَصَلَ."], "juist": 0, "uitleg": "Werkwoord eerst → enkelvoud. ({ar|الضُّيوفُ} = de gasten.)" }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "toekomst", "bron": "Wij zullen reizen.", "antwoorden": ["سَنُسافِرُ", "سَوْفَ نُسافِرُ"], "uitleg": "{ar|سَنُسافِرُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kana", "bron": "Wij waren moe.", "antwoorden": ["كُنّا مُتْعَبينَ"], "uitleg": "{ar|كُنّا مُتْعَبينَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "datum", "bron": "في العاشِرِ مِنْ مايو", "antwoorden": ["op 10 mei", "op tien mei", "op de tiende mei"], "uitleg": "Datum." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "masdar", "bron": "أُحِبُّ القِراءَةَ في الشِّتاءِ.", "antwoorden": ["ik lees graag in de winter", "ik houd van lezen in de winter", "in de winter lees ik graag"], "uitleg": "Maṣdar als lijdend voorwerp." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "'Zij (m mv) kwamen terug' is ...", "opties": ["رَجَعُوا", "رَجَعْنا", "يَرْجِعونَ"], "juist": 0, "uitleg": "ـُوا" },
+      { "type": "meerkeuze", "tag": "toekomst", "vraag": "'Ik zal werken' is ...", "opties": ["سَأَعْمَلُ", "عَمِلْتُ", "أَعْمَلَ"], "juist": 0, "uitleg": "سَـ + muḍāriʿ." },
+      { "type": "meerkeuze", "tag": "kana", "vraag": "'Jullie (m) waren' is ...", "opties": ["كُنْتُمْ", "كانُوا", "كُنّا"], "juist": 0, "uitleg": "{ar|كُنْتُمْ}" },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "'De kleren zijn duur' is ...", "opties": ["المَلابِسُ غالِيَةٌ.", "المَلابِسُ غالونَ.", "المَلابِسُ غالٍ."], "juist": 0, "uitleg": "Dingen → vrouwelijk enkelvoud." },
+      { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "قَرَأَتِ الكِتابَ في يَوْمَيْنِ", "vraag": "Wat hoor je?", "opties": ["Zij las het boek in twee dagen.", "Ik las het boek in twee dagen.", "Zij leest het boek in twee dagen."], "juist": 0, "uitleg": "ـَتْ = zij; {ar|يَوْمَيْنِ} = twee dagen." },
+      { "type": "luisteren", "tag": "seizoenen", "tekst": "الجَوُّ مُعْتَدِلٌ في الرَّبيعِ", "vraag": "Wat hoor je?", "opties": ["In de lente is het weer mild.", "In de herfst is het koud.", "In de zomer is het heet."], "juist": 0, "uitleg": "{ar|الرَّبيعُ} = de lente." },
+      { "type": "invullen", "tag": "dualis-naamwoord", "zin": "عِنْدي ___ وَأُخْتٌ.", "nl": "Ik heb twee broers en een zus.", "woordbank": ["أَخَوانِ", "أَخَوَيْنِ", "إِخْوَةٌ"], "antwoord": ["أَخَوانِ"], "uitleg": "Dualis van {ar|أَخٌ}: {ar|أَخَوانِ}." },
+      { "type": "invullen", "tag": "rangtelwoorden", "zin": "هٰذا هُوَ الدَّرْسُ ___.", "nl": "Dit is de laatste les.", "antwoord": ["الأَخيرُ"], "uitleg": "Met {ar|هُوَ} ertussen: *dit is de laatste les*. Zonder {ar|هُوَ} zou het *deze laatste les* zijn." },
+      { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg كَتَبَ in de verleden tijd.",
+        "rijen": [
+          { "label": "jullie (v)", "antwoord": "كَتَبْتُنَّ", "tr": "katabtunna" },
+          { "label": "zij (v mv)", "antwoord": "كَتَبْنَ", "tr": "katabna" },
+          { "label": "jij (v)", "antwoord": "كَتَبْتِ", "tr": "katabti", "eind": true }
+        ], "uitleg": "{ar|كَتَبْتُنَّ} · {ar|كَتَبْنَ} · {ar|كَتَبْتِ}" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَطَرٌ", "nl": "regen" },
+        { "ar": "الأولى", "nl": "de eerste (v)" },
+        { "ar": "مُفيدٌ", "nl": "nuttig" },
+        { "ar": "بِنْطالٌ", "nl": "broek" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "kana-hebben", "nl": "Toen ik klein was, had ik een rode fiets.", "woorden": ["عِنْدَما", "كُنْتُ", "صَغيرًا", "كانَتْ", "عِنْدي", "دَرّاجَةٌ", "حَمْراءُ."], "uitleg": "{ar|كانَتْ} vanwege {ar|دَرّاجَةٌ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "toekomst", "bron": "Het zal morgen regenen.", "antwoorden": ["سَيُمْطِرُ غَدًا", "سَوْفَ يُمْطِرُ غَدًا", "غَدًا سَيُمْطِرُ"], "uitleg": "{ar|سَيُمْطِرُ غَدًا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "Ik houd van reizen.", "antwoorden": ["أُحِبُّ السَّفَرَ"], "uitleg": "{ar|أُحِبُّ السَّفَرَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "نَجَحَ الطُّلّابُ في الاِمْتِحانِ.", "antwoorden": ["de studenten slaagden voor het examen", "de studenten zijn geslaagd voor het examen"], "uitleg": "Verbale zin." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-getallen", "bron": "جوج", "tr": "žūž", "antwoorden": ["twee", "2"], "uitleg": "Darija: 2." }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "id": "j3-p10-h30",
+  "code": "H30",
+  "type": "herhaling",
+  "titel": "Herhaling periode 10",
+  "thema": "Teksten: koppen, brieven, nieuws en betogen; alles van periode 10",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "krantenkoppen, formele brieven, nieuwsfragmenten en betogen herkennen.",
+    "de grammatica van periode 10 in teksten toepassen.",
+    "je voorbereiden op PT10 en NE5."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 10 (les 109–120 en D22–D24).",
+  "grammatica": [
+    {
+      "titel": "Blok 10C in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vaardigheid",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "krantenkoppen",
+              "maṣdar, naamwoord + muḍāriʿ",
+              "تَوْقيعُ اتِّفاقِيَّةٍ"
+            ],
+            [
+              "formele brief",
+              "تَحِيَّةً طَيِّبَةً وَبَعْدُ; meervoud van respect",
+              "تَفَضَّلوا بِقَبولِ …"
+            ],
+            [
+              "nieuws beluisteren",
+              "أَفادَ، وَفْقًا لِـ، مِنَ المُتَوَقَّعِ",
+              "وَفْقًا لِلشُّرْطَةِ"
+            ],
+            [
+              "betoog",
+              "صَحيحٌ أَنَّ … إِلّا أَنَّ; خُلاصَةُ القَوْلِ",
+              "عَلاوَةً عَلى ذٰلِكَ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Blok 10C draait om **teksten**, niet om losse zinnen. Je hebt geleerd hoe een kop, een brief, een nieuwsbericht en een betoog in elkaar zitten. Die kennis heb je nodig voor de niveau-evaluatie B1−."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "krantenstijl",
+          "vraag": "Welke kop is in krantenstijl?",
+          "opties": [
+            "اِرْتِفاعُ أَسْعارِ الوَقودِ",
+            "كانَتْ أَسْعارُ الوَقودِ قَدِ ارْتَفَعَتْ",
+            "هَلِ ارْتَفَعَتْ أَسْعارُ الوَقودِ؟"
+          ],
+          "juist": 0,
+          "uitleg": "Maṣdar-kop."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "formeel-register",
+          "vraag": "Welke slotformule is formeel?",
+          "opties": [
+            "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ",
+            "بِالسَّلامَةِ",
+            "إِلى اللِّقاءِ يا صاحِبي"
+          ],
+          "juist": 0,
+          "uitleg": "Hoogachtend."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "{ar|فَضْلًا عَنْ} betekent ...",
+          "opties": [
+            "naast, afgezien van",
+            "daartegenover",
+            "kortom"
+          ],
+          "juist": 0,
+          "uitleg": "Toevoegen."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِنْتِخاباتٌ",
+              "nl": "verkiezingen",
+              "woord": "j3-p10-l117-w03"
+            },
+            {
+              "ar": "مُرْفَقاتٌ",
+              "nl": "bijlagen",
+              "woord": "j3-p10-l118-w10"
+            },
+            {
+              "ar": "مُذيعٌ",
+              "nl": "nieuwslezer"
+            },
+            {
+              "ar": "حَلٌّ وَسَطٌ",
+              "nl": "compromis",
+              "woord": "j3-p10-l120-w08"
+            },
+            {
+              "ar": "شاف",
+              "nl": "zien (Darija)",
+              "woord": "j3-p10-d24-w01"
+            },
+            {
+              "ar": "شَكْوى",
+              "nl": "klacht",
+              "woord": "j3-p10-l118-w11"
+            }
+          ],
+          "uitleg": "Woorden uit blok 10C."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "formeel-register",
+          "zin": "___ إِرْسالُ الوَثائِقِ.",
+          "nl": "Gelieve de documenten op te sturen.",
+          "antwoord": [
+            "يُرْجى"
+          ],
+          "uitleg": "Lijdend.",
+          "woordbank": [
+            "يُرْجى",
+            "يَرْجو",
+            "رَجا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "luistervaardigheid",
+          "zin": "___ لِلْوَزارَةِ، اِنْخَفَضَتِ البَطالَةُ.",
+          "nl": "Volgens het ministerie is de werkloosheid gedaald.",
+          "antwoord": [
+            "وَفْقًا"
+          ],
+          "uitleg": "Bron.",
+          "woordbank": [
+            "وَفْقًا",
+            "خُلاصَةُ",
+            "فَضْلًا"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "argumenteren",
+          "nl": "Kortom, we moeten een compromis vinden.",
+          "woorden": [
+            "خُلاصَةُ",
+            "القَوْلِ،",
+            "يَجِبُ",
+            "أَنْ",
+            "نَجِدَ",
+            "حَلًّا",
+            "وَسَطًا."
+          ],
+          "uitleg": "Conclusie."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-fusha",
+          "tekst": "شفتو البارح",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb hem gisteren gezien.",
+            "Ik zie hem morgen.",
+            "Ik heb hem niet gezien."
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "krantenstijl",
+          "bron": "Premier treedt af (kop)",
+          "antwoorden": [
+            "رَئيسُ الحُكومَةِ يَسْتَقيلُ",
+            "رئيس الحكومة يستقيل",
+            "اِسْتِقالَةُ رَئيسِ الحُكومَةِ"
+          ],
+          "uitleg": "Kop."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "argumenteren",
+          "bron": "لا شَكَّ أَنَّ التَّعْليمَ مُهِمٌّ.",
+          "antwoorden": [
+            "het lijdt geen twijfel dat onderwijs belangrijk is",
+            "onderwijs is zonder twijfel belangrijk"
+          ],
+          "uitleg": "{ar|لا شَكَّ أَنَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "formeel-register",
+          "bron": "في اِنْتِظارِ رَدِّكُمْ.",
+          "antwoorden": [
+            "in afwachting van uw antwoord"
+          ],
+          "uitleg": "Slot."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "krantenstijl",
+        "vraag": "Wat is typisch voor een krantenkop?",
+        "opties": [
+          "maṣdar of naamwoord + muḍāriʿ",
+          "كانَ + māḍī",
+          "gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "Krantenstijl."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "{ar|حَضْرَةَ السَّيِّدِ} hoort bij ...",
+        "opties": [
+          "de aanhef",
+          "het slot",
+          "de bijlage"
+        ],
+        "juist": 0,
+        "uitleg": "Geachte heer."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|أَفادَ مُراسِلُنا} betekent ...",
+        "opties": [
+          "onze correspondent meldt",
+          "onze presentator vraagt",
+          "onze krant schrijft"
+        ],
+        "juist": 0,
+        "uitleg": "Nieuws."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Na {ar|إِلّا أَنَّ} staat het onderwerp in de ...",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Zoals na {ar|أَنَّ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|كلا} is Fusha ...",
+        "opties": [
+          "أَكَلَ",
+          "قالَ",
+          "كانَ"
+        ],
+        "juist": 0,
+        "uitleg": "Eten."
+      },
+      {
+        "type": "luisteren",
+        "tag": "krantenstijl",
+        "tekst": "المُنْتَخَبُ الوَطَنِيُّ يَتَأَهَّلُ إِلى النِّهائِيِّ",
+        "vraag": "Wat is het nieuws?",
+        "opties": [
+          "Het nationale elftal plaatst zich voor de finale.",
+          "Het elftal is uitgeschakeld.",
+          "De finale is uitgesteld."
+        ],
+        "juist": 0,
+        "uitleg": "Kop."
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "عَلاوَةً عَلى ذٰلِكَ، الرِّياضَةُ مُفيدَةٌ لِلصِّحَّةِ",
+        "vraag": "Wat doet de spreker?",
+        "opties": [
+          "Hij voegt een argument toe.",
+          "Hij trekt een conclusie.",
+          "Hij geeft een tegenargument."
+        ],
+        "juist": 0,
+        "uitleg": "Bovendien."
+      },
+      {
+        "type": "invullen",
+        "tag": "formeel-register",
+        "zin": "أَتَقَدَّمُ إِلَيْكُمْ ___ عَلى التَّأْخيرِ.",
+        "nl": "Ik dien bij u een klacht in over de vertraging.",
+        "antwoord": [
+          "بِشَكْوى"
+        ],
+        "uitleg": "Klacht.",
+        "woordbank": [
+          "بِشَكْوى",
+          "بِمُرْفَقاتٍ",
+          "بِتَحِيَّةٍ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "luistervaardigheid",
+        "zin": "مِنَ ___ أَنْ تَنْخَفِضَ الحَرارَةُ.",
+        "nl": "Naar verwachting zal de temperatuur dalen.",
+        "antwoord": [
+          "المُتَوَقَّعِ"
+        ],
+        "uitleg": "Passief deelwoord.",
+        "woordbank": [
+          "المُتَوَقَّعِ",
+          "المُتَوَقِّعِ",
+          "التَّوَقُّعِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "مِنْ جِهَةٍ مُفيدٌ، وَ___ جِهَةٍ أُخْرى مُكْلِفٌ.",
+        "nl": "Enerzijds nuttig, anderzijds duur.",
+        "antwoord": [
+          "مِنْ"
+        ],
+        "uitleg": "Afwegen.",
+        "woordbank": [
+          "مِنْ",
+          "في",
+          "عَلى"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عاجِلٌ",
+            "nl": "breaking"
+          },
+          {
+            "ar": "اِسْتِفْسارٌ",
+            "nl": "informatieverzoek"
+          },
+          {
+            "ar": "غَزيرٌ",
+            "nl": "hevig"
+          },
+          {
+            "ar": "تَرْكيزٌ",
+            "nl": "concentratie"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "krantenstijl",
+        "nl": "Drie doden bij verkeersongeluk",
+        "woorden": [
+          "مَصْرَعُ",
+          "ثَلاثَةِ",
+          "أَشْخاصٍ",
+          "في",
+          "حادِثِ",
+          "سَيْرٍ"
+        ],
+        "uitleg": "Kop."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "formeel-register",
+        "bron": "betreft:",
+        "antwoorden": [
+          "المَوْضوعُ:",
+          "الموضوع",
+          "المَوْضوعُ"
+        ],
+        "uitleg": "{ar|المَوْضوعُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "argumenteren",
+        "bron": "صَحيحٌ أَنَّهُ صَعْبٌ، إِلّا أَنَّهُ مُمْكِنٌ.",
+        "antwoorden": [
+          "het klopt dat het moeilijk is maar het is mogelijk",
+          "het is weliswaar moeilijk maar toch mogelijk"
+        ],
+        "uitleg": "Toegeven en weerleggen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-fusha",
+        "bron": "سد الباب",
+        "antwoorden": [
+          "doe de deur dicht",
+          "sluit de deur"
+        ],
+        "uitleg": "Darija.",
+        "tr": "sədd lbāb"
+      }
+    ]
+  }
+}

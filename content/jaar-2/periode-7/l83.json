@@ -1,0 +1,633 @@
+{
+  "id": "j2-p7-l83",
+  "code": "L83",
+  "type": "les",
+  "titel": "Statistieken",
+  "thema": "Cijfers en percentages; de telwoorden volledig",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de telwoorden 11–19 met de juiste congruentie gebruiken.",
+    "rangtelwoorden vanaf 11 en breuken gebruiken.",
+    "statistieken en percentages lezen en navertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l83-w01",
+      "ar": "إِحْصاءٌ",
+      "tr": "iḥṣāʾ",
+      "nl": [
+        "statistiek, telling"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|إِحْصاءاتٌ}."
+    },
+    {
+      "id": "j2-p7-l83-w02",
+      "ar": "نِسْبَةٌ",
+      "tr": "nisba",
+      "nl": [
+        "percentage, verhouding"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l83-w03",
+      "ar": "في المِئَةِ",
+      "tr": "fi l-miʾa",
+      "nl": [
+        "procent"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|عِشْرونَ في المِئَةِ} = 20%."
+    },
+    {
+      "id": "j2-p7-l83-w04",
+      "ar": "الحادي عَشَرَ",
+      "tr": "al-ḥādiya ʿašara",
+      "nl": [
+        "de elfde"
+      ],
+      "soort": "rangtelwoord",
+      "notitie": "Vrouwelijk: {ar|الحادِيَةَ عَشْرَةَ}."
+    },
+    {
+      "id": "j2-p7-l83-w05",
+      "ar": "الثّاني عَشَرَ",
+      "tr": "aṯ-ṯāniya ʿašara",
+      "nl": [
+        "de twaalfde"
+      ],
+      "soort": "rangtelwoord"
+    },
+    {
+      "id": "j2-p7-l83-w06",
+      "ar": "العِشْرونَ",
+      "tr": "al-ʿišrūn",
+      "nl": [
+        "de twintigste"
+      ],
+      "soort": "rangtelwoord",
+      "notitie": "Vanaf 20: rangtelwoord = hoofdtelwoord met ال."
+    },
+    {
+      "id": "j2-p7-l83-w07",
+      "ar": "المِئَةُ",
+      "tr": "al-miʾa",
+      "nl": [
+        "de honderdste"
+      ],
+      "soort": "rangtelwoord"
+    },
+    {
+      "id": "j2-p7-l83-w08",
+      "ar": "اِرْتَفَعَ",
+      "tr": "irtafaʿa",
+      "nl": [
+        "stijgen"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Maṣdar {ar|اِرْتِفاعٌ}."
+    },
+    {
+      "id": "j2-p7-l83-w09",
+      "ar": "اِنْخَفَضَ",
+      "tr": "inḫafaḍa",
+      "nl": [
+        "dalen"
+      ],
+      "soort": "werkwoord (VII)",
+      "notitie": "Maṣdar {ar|اِنْخِفاضٌ}."
+    },
+    {
+      "id": "j2-p7-l83-w10",
+      "ar": "مُعَدَّلُ البِطالَةِ",
+      "tr": "muʿaddalu l-biṭāla",
+      "nl": [
+        "werkloosheidscijfer"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l83-w12",
+      "ar": "ثُلُثٌ",
+      "tr": "ṯuluṯ",
+      "nl": [
+        "derde (deel)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l83-w14",
+      "ar": "غالِبِيَّةٌ",
+      "tr": "ġālibiyya",
+      "nl": [
+        "meerderheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l83-w15",
+      "ar": "أَقَلِّيَّةٌ",
+      "tr": "aqalliyya",
+      "nl": [
+        "minderheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l83-w16",
+      "ar": "مَسْحٌ",
+      "tr": "masḥ",
+      "nl": [
+        "enquête, onderzoek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l83-w17",
+      "ar": "نَتائِجُ",
+      "tr": "natāʾij",
+      "nl": [
+        "resultaten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Diptoot."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Telwoorden: het hele systeem",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Getal",
+            "Regel",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "1–2",
+              "bijvoeglijk / dualis",
+              "طالِبٌ واحِدٌ، طالِبانِ"
+            ],
+            [
+              "3–10",
+              "omgekeerd geslacht + genitief meervoud",
+              "ثَلاثَةُ طُلّابٍ، ثَلاثُ طالِباتٍ"
+            ],
+            [
+              "11–12",
+              "beide delen congrueren, accusatief enkelvoud",
+              "أَحَدَ عَشَرَ طالِبًا، إِحْدى عَشْرَةَ طالِبَةً"
+            ],
+            [
+              "13–19",
+              "eenheid omgekeerd, tiental congrueert",
+              "ثَلاثَةَ عَشَرَ طالِبًا، ثَلاثَ عَشْرَةَ طالِبَةً"
+            ],
+            [
+              "20–99",
+              "accusatief enkelvoud",
+              "عِشْرونَ طالِبًا"
+            ],
+            [
+              "100, 1000",
+              "genitief enkelvoud",
+              "مِئَةُ طالِبٍ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij 13–19 werken twee regels tegelijk: de **eenheid** volgt de omgekeerde regel van 3–10, het **tiental** {ar|عَشَرَ / عَشْرَةَ} volgt het gewone geslacht. Daarom {ar|ثَلاثَ عَشْرَةَ طالِبَةً}: ثَلاثَ zonder ة (vrouwelijk woord), عَشْرَةَ met ة. In gesproken Arabisch zie je dit vaak vereenvoudigd; in geschreven teksten blijft het zo."
+        },
+        {
+          "type": "letop",
+          "md": "Getallen worden in de iʿrāb verbogen: {ar|عِشْرونَ} (nom.) / {ar|عِشْرينَ} (acc./gen.): {ar|في عِشْرينَ يَوْمًا}. De vormen 11–19 zijn onveranderlijk (behalve {ar|اِثْنا / اِثْنَيْ عَشَرَ})."
+        }
+      ]
+    },
+    {
+      "titel": "Rangtelwoorden vanaf 11 en breuken",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|الحادي عَشَرَ}، {ar|الثّاني عَشَرَ}، {ar|الثّالِثَ عَشَرَ} … Vanaf 20 gebruik je het hoofdtelwoord met ال: {ar|القَرْنُ العِشْرونَ} (de twintigste eeuw). Breuken: {ar|نِصْفٌ}، {ar|ثُلُثٌ}، {ar|رُبْعٌ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِرْتَفَعَتْ نِسْبَةُ البِطالَةِ إِلى عَشَرَةٍ في المِئَةِ.",
+              "tr": "irtafaʿat nisbatu l-biṭālati ilā ʿašaratin fi l-miʾa.",
+              "nl": "Het werkloosheidspercentage steeg tot tien procent."
+            },
+            {
+              "ar": "شارَكَ في المَسْحِ خَمْسَةَ عَشَرَ أَلْفَ شَخْصٍ.",
+              "tr": "šāraka fi l-masḥi ḫamsata ʿašara alfa šaḫṣ.",
+              "nl": "Vijftienduizend mensen deden mee aan de enquête."
+            },
+            {
+              "ar": "ثُلُثُ السُّكّانِ يَسْكُنونَ في المُدُنِ.",
+              "tr": "ṯuluṯu s-sukkāni yaskunūna fi l-mudun.",
+              "nl": "Een derde van de bevolking woont in steden.",
+              "review": {
+                "status": "onzeker",
+                "note": "Congruentie werkwoord na ثُلُث (enkelvoud of meervoud) controleren."
+              }
+            },
+            {
+              "ar": "وُلِدْتُ في القَرْنِ العِشْرينَ.",
+              "tr": "wulidtu fi l-qarni l-ʿišrīn.",
+              "nl": "Ik ben geboren in de twintigste eeuw."
+            },
+            {
+              "ar": "نَجَحَتْ إِحْدى عَشْرَةَ طالِبَةً.",
+              "tr": "najaḥat iḥdā ʿašrata ṭāliba.",
+              "nl": "Elf studentes zijn geslaagd."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "نِسْبَةٌ",
+              "nl": "percentage",
+              "woord": "j2-p7-l83-w02"
+            },
+            {
+              "ar": "نِصْفٌ",
+              "nl": "helft"
+            },
+            {
+              "ar": "ثُلُثٌ",
+              "nl": "derde deel",
+              "woord": "j2-p7-l83-w12"
+            },
+            {
+              "ar": "رُبْعٌ",
+              "nl": "kwart"
+            },
+            {
+              "ar": "غالِبِيَّةٌ",
+              "nl": "meerderheid",
+              "woord": "j2-p7-l83-w14"
+            },
+            {
+              "ar": "أَقَلِّيَّةٌ",
+              "nl": "minderheid",
+              "woord": "j2-p7-l83-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "telwoorden-volledig",
+          "tekst": "ثَلاثَ عَشْرَةَ طالِبَةً",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "dertien studentes",
+            "drie studentes",
+            "dertig studentes"
+          ],
+          "juist": 0,
+          "uitleg": "13 + vrouwelijk."
+        }
+      ]
+    },
+    {
+      "titel": "Getallen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "telwoorden-volledig",
+          "vraag": "'Dertien jongens' is ...",
+          "opties": [
+            "ثَلاثَةَ عَشَرَ وَلَدًا",
+            "ثَلاثَ عَشْرَةَ وَلَدًا",
+            "ثَلاثَةَ عَشْرَةَ أَوْلادٍ"
+          ],
+          "juist": 0,
+          "uitleg": "Eenheid omgekeerd, tiental congrueert."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "telwoorden-volledig",
+          "vraag": "'Elf vrouwen' is ...",
+          "opties": [
+            "إِحْدى عَشْرَةَ امْرَأَةً",
+            "أَحَدَ عَشَرَ امْرَأَةً",
+            "إِحْدى عَشَرَ نِساءٍ"
+          ],
+          "juist": 0,
+          "uitleg": "11: beide delen vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoorden-volledig",
+          "zin": "في الصَّفِّ خَمْسَ عَشْرَةَ ___.",
+          "nl": "Er zijn vijftien studentes in de klas.",
+          "antwoord": [
+            "طالِبَةً"
+          ],
+          "uitleg": "Accusatief enkelvoud.",
+          "woordbank": [
+            "طالِبَةً",
+            "طالِباتٍ",
+            "طالِبَةٍ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoorden-volledig",
+          "zin": "هٰذا هُوَ الطّابِقُ ___.",
+          "nl": "Dit is de twaalfde verdieping.",
+          "antwoord": [
+            "الثّاني عَشَرَ"
+          ],
+          "uitleg": "Rangtelwoord mannelijk.",
+          "woordbank": [
+            "الثّاني عَشَرَ",
+            "اِثْنا عَشَرَ",
+            "الثّانِيَةَ عَشْرَةَ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "telwoorden-volledig",
+          "instructie": "Rangtelwoorden.",
+          "rijen": [
+            {
+              "label": "11e (m)",
+              "antwoord": "الحادي عَشَرَ",
+              "tr": "al-ḥādiya ʿašara"
+            },
+            {
+              "label": "20e",
+              "antwoord": "العِشْرونَ",
+              "tr": "al-ʿišrūn"
+            }
+          ],
+          "uitleg": "Vanaf 20: hoofdtelwoord met ال."
+        }
+      ]
+    },
+    {
+      "titel": "Statistieken",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "telwoorden-volledig",
+          "nl": "Het werkloosheidspercentage steeg tot tien procent.",
+          "woorden": [
+            "اِرْتَفَعَتْ",
+            "نِسْبَةُ",
+            "البِطالَةِ",
+            "إِلى",
+            "عَشَرَةٍ",
+            "في",
+            "المِئَةِ."
+          ],
+          "uitleg": "{ar|في المِئَةِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de helft",
+          "antwoorden": [
+            "النِّصْفُ"
+          ],
+          "uitleg": "{ar|النِّصْفُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "telwoorden-volledig",
+          "bron": "اِنْخَفَضَتِ الأَسْعارُ بِنِسْبَةِ خَمْسَةٍ في المِئَةِ.",
+          "antwoorden": [
+            "de prijzen daalden met vijf procent",
+            "de prijzen zijn met vijf procent gedaald"
+          ],
+          "uitleg": "{ar|اِنْخَفَضَ} = dalen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِحْصاءٌ",
+            "nl": "statistiek"
+          },
+          {
+            "ar": "مَسْحٌ",
+            "nl": "enquête"
+          },
+          {
+            "ar": "اِرْتَفَعَ",
+            "nl": "stijgen"
+          },
+          {
+            "ar": "اِنْخَفَضَ",
+            "nl": "dalen"
+          },
+          {
+            "ar": "نَتائِجُ",
+            "nl": "resultaten"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'Veertien boeken' is ...",
+        "opties": [
+          "أَرْبَعَةَ عَشَرَ كِتابًا",
+          "أَرْبَعَ عَشْرَةَ كِتابًا",
+          "أَرْبَعَةَ عَشَرَ كُتُبٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Mannelijk woord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'Twaalf meisjes' is ...",
+        "opties": [
+          "اِثْنَتا عَشْرَةَ بِنْتًا",
+          "اِثْنا عَشَرَ بِنْتًا",
+          "اِثْنَتا عَشْرَةَ بَناتٍ"
+        ],
+        "juist": 0,
+        "uitleg": "12 vrouwelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'De twintigste eeuw' is ...",
+        "opties": [
+          "القَرْنُ العِشْرونَ",
+          "القَرْنُ العاشِرُ",
+          "عِشْرونَ قَرْنًا"
+        ],
+        "juist": 0,
+        "uitleg": "Hoofdtelwoord met ال."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'In twintig dagen' is ...",
+        "opties": [
+          "في عِشْرينَ يَوْمًا",
+          "في عِشْرونَ يَوْمًا",
+          "في عِشْرينَ أَيّامٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Genitief van {ar|عِشْرونَ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "telwoorden-volledig",
+        "tekst": "شارَكَ في المَسْحِ أَلْفُ شَخْصٍ",
+        "vraag": "Hoeveel mensen deden mee?",
+        "opties": [
+          "duizend",
+          "honderd",
+          "tienduizend"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلْفُ شَخْصٍ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "نِصْفُ الطُّلّابِ مِنَ المَغْرِبِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De helft van de studenten komt uit Marokko.",
+          "Een kwart van de studenten komt uit Marokko.",
+          "Alle studenten komen uit Marokko."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نِصْفٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoorden-volledig",
+        "zin": "عِنْدي سَبْعَةَ عَشَرَ ___.",
+        "nl": "Ik heb zeventien postzegels.",
+        "antwoord": [
+          "طابِعًا"
+        ],
+        "uitleg": "11–99: accusatief enkelvoud.",
+        "woordbank": [
+          "طابِعًا",
+          "طَوابِعَ",
+          "طابِعٍ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِرْتَفَعَتِ الأَسْعارُ بِنِسْبَةِ عَشَرَةٍ في ___.",
+        "nl": "De prijzen stegen met tien procent.",
+        "antwoord": [
+          "المِئَةِ"
+        ],
+        "uitleg": "{ar|في المِئَةِ}",
+        "woordbank": [
+          "المِئَةِ",
+          "الأَلْفِ",
+          "العَشَرَةِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoorden-volledig",
+        "zin": "أَسْكُنُ في الطّابِقِ ___.",
+        "nl": "Ik woon op de elfde verdieping.",
+        "antwoord": [
+          "الحادي عَشَرَ"
+        ],
+        "uitleg": "Rangtelwoord.",
+        "woordbank": [
+          "الحادي عَشَرَ",
+          "أَحَدَ عَشَرَ",
+          "الحادِيَةَ عَشْرَةَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "telwoorden-volledig",
+        "instructie": "Schrijf het getal in woorden (met طالِبًا).",
+        "rijen": [
+          {
+            "label": "13 (m)",
+            "antwoord": "ثَلاثَةَ عَشَرَ",
+            "tr": "ṯalāṯata ʿašara"
+          },
+          {
+            "label": "15 (m)",
+            "antwoord": "خَمْسَةَ عَشَرَ",
+            "tr": "ḫamsata ʿašara"
+          }
+        ],
+        "uitleg": "Eenheid met ة bij mannelijk woord."
+      },
+      {
+        "type": "ordenen",
+        "tag": "telwoorden-volledig",
+        "nl": "Ik ben geboren in de twintigste eeuw.",
+        "woorden": [
+          "وُلِدْتُ",
+          "في",
+          "القَرْنِ",
+          "العِشْرينَ."
+        ],
+        "uitleg": "Genitief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "een kwart",
+        "antwoorden": [
+          "رُبْعٌ"
+        ],
+        "uitleg": "{ar|رُبْعٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "telwoorden-volledig",
+        "bron": "نَجَحَتْ إِحْدى عَشْرَةَ طالِبَةً.",
+        "antwoorden": [
+          "elf studentes zijn geslaagd",
+          "elf studentes slaagden"
+        ],
+        "uitleg": "11 vrouwelijk."
+      }
+    ]
+  }
+}

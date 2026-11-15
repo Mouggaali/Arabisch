@@ -1,0 +1,616 @@
+{
+  "id": "j3-p12-l142",
+  "code": "L142",
+  "type": "les",
+  "titel": "Examentraining: luisteren",
+  "thema": "Het luisterexamen B1: berichten, wijzigingen en toon",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het verloop van een luisterexamen kennen (twee keer luisteren).",
+    "de toon en het doel van een spreker bepalen.",
+    "wijzigingen (أُجِّلَ، بَدَلًا مِنْ) en details correct opvangen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l142-w01",
+      "ar": "اِسْتَمِعْ إِلى",
+      "tr": "istamiʿ ilā",
+      "nl": [
+        "luister naar"
+      ],
+      "soort": "examenopdracht"
+    },
+    {
+      "id": "j3-p12-l142-w02",
+      "ar": "مَرَّتَيْنِ",
+      "tr": "marratayn",
+      "nl": [
+        "twee keer"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p12-l142-w03",
+      "ar": "التَّسْجيلُ",
+      "tr": "at-tasjīl",
+      "nl": [
+        "de opname"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p12-l142-w04",
+      "ar": "المُتَحَدِّثُ",
+      "tr": "al-mutaḥaddiṯ",
+      "nl": [
+        "de spreker"
+      ],
+      "soort": "deelwoord (V)"
+    },
+    {
+      "id": "j3-p12-l142-w05",
+      "ar": "نَبْرَةٌ",
+      "tr": "nabra",
+      "nl": [
+        "toon (van de stem)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l142-w06",
+      "ar": "مُنْزَعِجٌ",
+      "tr": "munzaʿij",
+      "nl": [
+        "geïrriteerd"
+      ],
+      "soort": "deelwoord (VII)"
+    },
+    {
+      "id": "j3-p12-l142-w07",
+      "ar": "مُقْتَنِعٌ",
+      "tr": "muqtaniʿ",
+      "nl": [
+        "overtuigd"
+      ],
+      "soort": "deelwoord (VIII)"
+    },
+    {
+      "id": "j3-p12-l142-w08",
+      "ar": "ساخِرٌ",
+      "tr": "sāḫir",
+      "nl": [
+        "spottend, sarcastisch"
+      ],
+      "soort": "deelwoord"
+    },
+    {
+      "id": "j3-p12-l142-w09",
+      "ar": "مُتَفائِلٌ",
+      "tr": "mutafāʾil",
+      "nl": [
+        "optimistisch"
+      ],
+      "soort": "deelwoord (VI)"
+    },
+    {
+      "id": "j3-p12-l142-w10",
+      "ar": "مُتَشائِمٌ",
+      "tr": "mutašāʾim",
+      "nl": [
+        "pessimistisch"
+      ],
+      "soort": "deelwoord (VI)"
+    },
+    {
+      "id": "j3-p12-l142-w12",
+      "ar": "مُحايِدٌ",
+      "tr": "muḥāyid",
+      "nl": [
+        "neutraal"
+      ],
+      "soort": "deelwoord (III)"
+    },
+    {
+      "id": "j3-p12-l142-w13",
+      "ar": "الهَدَفُ مِنَ المُكالَمَةِ",
+      "tr": "al-hadafu mina l-mukālama",
+      "nl": [
+        "het doel van het telefoongesprek"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l142-w14",
+      "ar": "اِعْتَذَرَ عَنِ الحُضورِ",
+      "tr": "iʿtaḏara ʿani l-ḥuḍūr",
+      "nl": [
+        "zich afmelden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l142-w16",
+      "ar": "بَدَلًا مِنْ",
+      "tr": "badalan min",
+      "nl": [
+        "in plaats van"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het luisterexamen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Stap",
+            "Wat je doet"
+          ],
+          "rijen": [
+            [
+              "vóór het luisteren",
+              "lees de vragen en onderstreep de vraagwoorden (wie, wat, waarom, wanneer)"
+            ],
+            [
+              "1e keer luisteren",
+              "luister naar het geheel: wie praat er, waarover, met welke toon?"
+            ],
+            [
+              "2e keer luisteren",
+              "vul de details in: getallen, tijden, namen"
+            ],
+            [
+              "na het luisteren",
+              "kies; twijfel je, kies dan het antwoord dat bij de toon past"
+            ]
+          ],
+          "arKolommen": []
+        },
+        {
+          "type": "waarom",
+          "md": "Bij een B1-luisterexamen hoor je het fragment meestal **twee keer** ({ar|مَرَّتَيْنِ}). Gebruik de eerste keer voor de grote lijn en de tweede voor details. Vragen naar de **toon** ({ar|نَبْرَةٌ}) of het **doel** van een gesprek kun je alleen beantwoorden als je het geheel begrijpt."
+        },
+        {
+          "type": "letop",
+          "md": "Sommige vragen gaan over een verandering: *de vergadering is verplaatst* ({ar|أُجِّلَ}), *in plaats van dinsdag* ({ar|بَدَلًا مِنَ الثُّلاثاءِ}). Let op het **nieuwe** gegeven, niet het oude."
+        }
+      ]
+    },
+    {
+      "titel": "De toon van de spreker",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Toon",
+            "Woord",
+            "Typisch zinnetje"
+          ],
+          "rijen": [
+            [
+              "optimistisch",
+              "مُتَفائِلٌ",
+              "أَنا مُتَأَكِّدٌ أَنَّ كُلَّ شَيْءٍ سَيَكونُ بِخَيْرٍ"
+            ],
+            [
+              "pessimistisch",
+              "مُتَشائِمٌ",
+              "لا أَظُنُّ أَنَّ هٰذا سَيَنْجَحُ"
+            ],
+            [
+              "geïrriteerd",
+              "مُنْزَعِجٌ",
+              "هٰذِهِ ثالِثُ مَرَّةٍ!"
+            ],
+            [
+              "bezorgd",
+              "قَلِقٌ",
+              "أَخْشى أَنْ …"
+            ],
+            [
+              "sarcastisch",
+              "ساخِرٌ",
+              "يا لَها مِنْ فِكْرَةٍ عَبْقَرِيَّةٍ!"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَهْلًا، أَتَّصِلُ لِأُخْبِرَكَ أَنَّ الاِجْتِماعَ أُجِّلَ إِلى يَوْمِ الخَميسِ بَدَلًا مِنَ الثُّلاثاءِ.",
+              "tr": "ahlan, attaṣilu li-uḫbiraka anna l-ijtimāʿa ujjila ilā yawmi l-ḫamīsi badalan mina ṯ-ṯulāṯāʾ.",
+              "nl": "Hallo, ik bel om je te zeggen dat de vergadering verzet is naar donderdag in plaats van dinsdag."
+            },
+            {
+              "ar": "هٰذِهِ ثالِثُ مَرَّةٍ يَتَأَخَّرُ فيها القِطارُ هٰذا الأُسْبوعَ!",
+              "tr": "hāḏihi ṯāliṯu marratin yataʾaḫḫaru fīha l-qiṭāru hāḏa l-usbūʿ!",
+              "nl": "Dit is de derde keer deze week dat de trein te laat is!"
+            },
+            {
+              "ar": "أَخْشى أَلّا نَجِدَ مَكانًا في الفُنْدُقِ.",
+              "tr": "aḫšā allā najida makānan fi l-funduq.",
+              "nl": "Ik ben bang dat we geen plaats in het hotel vinden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "examen",
+          "paren": [
+            {
+              "ar": "التَّسْجيلُ",
+              "nl": "de opname",
+              "woord": "j3-p12-l142-w03"
+            },
+            {
+              "ar": "المُتَحَدِّثُ",
+              "nl": "de spreker",
+              "woord": "j3-p12-l142-w04"
+            },
+            {
+              "ar": "نَبْرَةٌ",
+              "nl": "toon",
+              "woord": "j3-p12-l142-w05"
+            },
+            {
+              "ar": "مُنْزَعِجٌ",
+              "nl": "geïrriteerd",
+              "woord": "j3-p12-l142-w06"
+            },
+            {
+              "ar": "مُتَفائِلٌ",
+              "nl": "optimistisch",
+              "woord": "j3-p12-l142-w09"
+            },
+            {
+              "ar": "أَجَّلَ",
+              "nl": "uitstellen"
+            }
+          ],
+          "uitleg": "Examenwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "هٰذِهِ ثالِثُ مَرَّةٍ يَتَأَخَّرُ فيها القِطارُ!",
+          "vraag": "Welke toon heeft de spreker?",
+          "opties": [
+            "geïrriteerd",
+            "optimistisch",
+            "neutraal"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُنْزَعِجٌ}"
+        }
+      ]
+    },
+    {
+      "titel": "Oefenexamen",
+      "items": [
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "أَتَّصِلُ لِأُخْبِرَكَ أَنَّ الاِجْتِماعَ أُجِّلَ إِلى يَوْمِ الخَميسِ بَدَلًا مِنَ الثُّلاثاءِ",
+          "vraag": "Wanneer is de vergadering nu?",
+          "opties": [
+            "donderdag",
+            "dinsdag",
+            "woensdag"
+          ],
+          "juist": 0,
+          "uitleg": "Het nieuwe gegeven."
+        },
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "أَخْشى أَلّا نَجِدَ مَكانًا في الفُنْدُقِ",
+          "vraag": "Hoe voelt de spreker zich?",
+          "opties": [
+            "bezorgd",
+            "blij",
+            "geïrriteerd"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَخْشى}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "أَنا مُتَأَكِّدٌ أَنَّ كُلَّ شَيْءٍ سَيَكونُ بِخَيْرٍ",
+          "vraag": "Welke toon heeft de spreker?",
+          "opties": [
+            "optimistisch",
+            "pessimistisch",
+            "sarcastisch"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُتَفائِلٌ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "ne-luisteren",
+          "tekst": "أَعْتَذِرُ عَنِ الحُضورِ غَدًا لِأَنَّني مَريضٌ",
+          "vraag": "Wat is het doel van het bericht?",
+          "opties": [
+            "zich afmelden voor morgen",
+            "een afspraak maken",
+            "iemand uitnodigen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِعْتَذَرَ عَنِ الحُضورِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Wat doe je bij de **tweede** keer luisteren?",
+          "opties": [
+            "details invullen (getallen, tijden)",
+            "alleen de toon bepalen",
+            "niets"
+          ],
+          "juist": 0,
+          "uitleg": "Details."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "examen",
+          "nl": "Luister twee keer naar de opname.",
+          "woorden": [
+            "اِسْتَمِعْ",
+            "إِلى",
+            "التَّسْجيلِ",
+            "مَرَّتَيْنِ."
+          ],
+          "uitleg": "Instructie."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "examen",
+          "bron": "de spreker",
+          "antwoorden": [
+            "المُتَحَدِّثُ",
+            "المتحدث"
+          ],
+          "uitleg": "{ar|المُتَحَدِّثُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "examen",
+          "bron": "ما الهَدَفُ مِنَ المُكالَمَةِ؟",
+          "antwoorden": [
+            "wat is het doel van het telefoongesprek",
+            "waarom wordt er gebeld"
+          ],
+          "uitleg": "Doel."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "examen",
+        "paren": [
+          {
+            "ar": "مُقْتَنِعٌ",
+            "nl": "overtuigd"
+          },
+          {
+            "ar": "ساخِرٌ",
+            "nl": "sarcastisch"
+          },
+          {
+            "ar": "مُتَشائِمٌ",
+            "nl": "pessimistisch"
+          },
+          {
+            "ar": "مُحايِدٌ",
+            "nl": "neutraal"
+          },
+          {
+            "ar": "بَدَلًا مِنْ",
+            "nl": "in plaats van"
+          }
+        ],
+        "uitleg": "Toon."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Hoe vaak hoor je het fragment meestal?",
+        "opties": [
+          "twee keer",
+          "één keer",
+          "vier keer"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَرَّتَيْنِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "{ar|يا لَها مِنْ فِكْرَةٍ عَبْقَرِيَّةٍ!} na een slecht plan is ...",
+        "opties": [
+          "sarcastisch",
+          "optimistisch",
+          "neutraal"
+        ],
+        "juist": 0,
+        "uitleg": "Toon."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Wat lees je vóór het luisteren?",
+        "opties": [
+          "de vragen",
+          "niets",
+          "de transcriptie"
+        ],
+        "juist": 0,
+        "uitleg": "Voorbereiden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لا أَظُنُّ أَنَّ هٰذا المَشْروعَ سَيَنْجَحُ",
+        "vraag": "Welke toon heeft de spreker?",
+        "opties": [
+          "pessimistisch",
+          "optimistisch",
+          "enthousiast"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُتَشائِمٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أُجِّلَتِ المُباراةُ إِلى الأُسْبوعِ القادِمِ",
+        "vraag": "Wat is er met de wedstrijd?",
+        "opties": [
+          "Die is uitgesteld tot volgende week.",
+          "Die is vandaag.",
+          "Die is afgelast."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أُجِّلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "سَنَلْتَقي في المَقْهى بَدَلًا مِنَ المَكْتَبَةِ",
+        "vraag": "Waar spreken ze af?",
+        "opties": [
+          "in het café",
+          "in de bibliotheek",
+          "thuis"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَدَلًا مِنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أَتَّصِلُ لِأَحْجِزَ طاوِلَةً لِأَرْبَعَةِ أَشْخاصٍ",
+        "vraag": "Waarom belt de spreker?",
+        "opties": [
+          "om een tafel voor vier te reserveren",
+          "om te klagen",
+          "om een afspraak af te zeggen"
+        ],
+        "juist": 0,
+        "uitleg": "Doel."
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "كانَتْ ___ المُتَحَدِّثِ ساخِرَةً.",
+        "nl": "De toon van de spreker was sarcastisch.",
+        "antwoord": [
+          "نَبْرَةُ"
+        ],
+        "uitleg": "{ar|نَبْرَةٌ}",
+        "woordbank": [
+          "نَبْرَةُ",
+          "تَسْجيلُ",
+          "مُكالَمَةُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "___ الاِجْتِماعُ إِلى يَوْمِ الخَميسِ.",
+        "nl": "De vergadering is verzet naar donderdag.",
+        "antwoord": [
+          "أُجِّلَ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "أُجِّلَ",
+          "أَجَّلَ",
+          "يُؤَجِّلُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "اِسْتَمِعْ إِلى التَّسْجيلِ ___.",
+        "nl": "Luister twee keer naar de opname.",
+        "antwoord": [
+          "مَرَّتَيْنِ"
+        ],
+        "uitleg": "Dualis.",
+        "woordbank": [
+          "مَرَّتَيْنِ",
+          "مَرَّةً",
+          "دائِمًا"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "examen",
+        "instructie": "Geef het tegenovergestelde.",
+        "rijen": [
+          {
+            "label": "مُتَفائِلٌ",
+            "antwoord": "مُتَشائِم",
+            "tr": "mutašāʾim"
+          },
+          {
+            "label": "مُقْتَنِعٌ (overtuigd) ↔ twijfelend",
+            "antwoord": "مُتَرَدِّد",
+            "tr": "mutaraddid"
+          }
+        ],
+        "uitleg": "Toon."
+      },
+      {
+        "type": "ordenen",
+        "tag": "examen",
+        "nl": "De spreker is optimistisch.",
+        "woorden": [
+          "المُتَحَدِّثُ",
+          "مُتَفائِلٌ."
+        ],
+        "uitleg": "Toon."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-luisteren",
+        "bron": "أَعْتَذِرُ عَنِ الحُضورِ.",
+        "antwoorden": [
+          "ik meld me af",
+          "ik kan helaas niet komen",
+          "excuses dat ik niet kan komen"
+        ],
+        "uitleg": "{ar|اِعْتَذَرَ عَنِ الحُضورِ}"
+      }
+    ]
+  }
+}

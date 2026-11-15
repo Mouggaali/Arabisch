@@ -1,0 +1,179 @@
+{
+  "id": "j1-p3-l32",
+  "code": "L32",
+  "type": "les",
+  "titel": "Mensen en beroepen",
+  "thema": "Over groepen mensen en hun beroepen praten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "beroepen noemen in enkelvoud en meervoud.",
+    "het mannelijk klankmeervoud (ـونَ / ـينَ) en het vrouwelijk klankmeervoud (ـاتٌ / ـاتٍ) vormen.",
+    "weten dat veel woorden een gebroken meervoud hebben dat je als paar leert.",
+    "zeggen waar mensen werken."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l32-w01", "ar": "عامِلٌ", "tr": "ʿāmil", "nl": ["arbeider", "werknemer"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|عُمّالٌ}." },
+    { "id": "j1-p3-l32-w02", "ar": "عُمّالٌ", "tr": "ʿummāl", "nl": ["arbeiders"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l32-w03", "ar": "نَجّارٌ", "tr": "najjār", "nl": ["timmerman"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w04", "ar": "خَبّازٌ", "tr": "ḫabbāz", "nl": ["bakker"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w05", "ar": "طَبّاخٌ", "tr": "ṭabbāḫ", "nl": ["kok"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w06", "ar": "سائِقٌ", "tr": "sāʾiq", "nl": ["chauffeur", "bestuurder"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w07", "ar": "فَلّاحٌ", "tr": "fallāḥ", "nl": ["boer"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w08", "ar": "شُرْطِيٌّ", "tr": "šurṭī", "nl": ["politieagent"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w09", "ar": "صَحَفِيٌّ", "tr": "ṣaḥafī", "nl": ["journalist"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w10", "ar": "رَسّامٌ", "tr": "rassām", "nl": ["schilder (kunstenaar)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w11", "ar": "رِجالٌ", "tr": "rijāl", "nl": ["mannen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|رَجُلٌ}." },
+    { "id": "j1-p3-l32-w12", "ar": "نِساءٌ", "tr": "nisāʾ", "nl": ["vrouwen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud bij {ar|اِمْرَأَةٌ} (een ander woord)." },
+    { "id": "j1-p3-l32-w13", "ar": "أَوْلادٌ", "tr": "awlād", "nl": ["jongens", "kinderen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|وَلَدٌ}." },
+    { "id": "j1-p3-l32-w14", "ar": "بَناتٌ", "tr": "banāt", "nl": ["meisjes", "dochters"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|بِنْتٌ}." },
+    { "id": "j1-p3-l32-w15", "ar": "أَطِبّاءُ", "tr": "aṭibbāʾ", "nl": ["artsen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|طَبيبٌ}; geen tanwīn." },
+    { "id": "j1-p3-l32-w16", "ar": "زُمَلاءُ", "tr": "zumalāʾ", "nl": ["collega's"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|زَميلٌ}; geen tanwīn." },
+    { "id": "j1-p3-l32-w17", "ar": "مُهَنْدِسونَ", "tr": "muhandisūn", "nl": ["ingenieurs"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l32-w18", "ar": "طَبيباتٌ", "tr": "ṭabībāt", "nl": ["artsen (v)"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l32-w19", "ar": "مُوَظَّفونَ", "tr": "muwaẓẓafūn", "nl": ["medewerkers"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l32-w20", "ar": "شَرِكَةٌ", "tr": "šarika", "nl": ["bedrijf", "firma"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w21", "ar": "مَصْنَعٌ", "tr": "maṣnaʿ", "nl": ["fabriek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l32-w22", "ar": "مَخْبَزٌ", "tr": "maḫbaz", "nl": ["bakkerij"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Klankmeervouden: een uitgang erbij",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Bij een **klankmeervoud** blijft het woord heel en komt er een uitgang achter.",
+          "**Mannelijk** (voor mannen of gemengde groepen): **ـونَ** als onderwerp, **ـينَ** na een voorzetsel, als lijdend voorwerp en na {ar|لَيْسَ}/{ar|كانَ}: {ar|مُهَنْدِسٌ} → {ar|مُهَنْدِسونَ} / {ar|مُهَنْدِسينَ}.",
+          "**Vrouwelijk**: ة valt weg, **ـاتٌ** komt erbij; in accusatief en genitief **ـاتٍ** (met kasra, nooit -ātan!): {ar|طَبيبَةٌ} → {ar|طَبيباتٌ} / {ar|طَبيباتٍ}."
+        ] },
+        { "type": "tabel", "kop": ["Enkelvoud", "Meervoud (-u)", "Meervoud (-a / -i)"], "arKolommen": [0, 1, 2], "rijen": [
+          ["مُعَلِّمٌ|muʿallim", "مُعَلِّمونَ|muʿallimūna", "مُعَلِّمينَ|muʿallimīna"],
+          ["مُوَظَّفٌ|muwaẓẓaf", "مُوَظَّفونَ|muwaẓẓafūna", "مُوَظَّفينَ|muwaẓẓafīna"],
+          ["طَبيبَةٌ|ṭabība", "طَبيباتٌ|ṭabībātun", "طَبيباتٍ|ṭabībātin"],
+          ["مُمَرِّضَةٌ|mumarriḍa", "مُمَرِّضاتٌ|mumarriḍātun", "مُمَرِّضاتٍ|mumarriḍātin"]
+        ] },
+        { "type": "letop", "md": "Veel beroepswoorden op het patroon {ar|فَعّالٌ} ({ar|خَبّازٌ}, {ar|طَبّاخٌ}, {ar|نَجّارٌ}) krijgen ook het klankmeervoud ـونَ: {ar|خَبّازونَ}." }
+      ]
+    },
+    {
+      "titel": "Gebroken meervouden: leer ze als paar",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Bij een **gebroken meervoud** verandert het woord van binnen: andere klinkers, soms een extra letter. De drie medeklinkers van de wortel blijven: {ar|رَجُلٌ} → {ar|رِجالٌ} (r-j-l), {ar|وَلَدٌ} → {ar|أَوْلادٌ} (w-l-d), {ar|طَبيبٌ} → {ar|أَطِبّاءُ} (ṭ-b-b).",
+          "Er zijn zo'n twintig patronen, maar welk patroon een woord krijgt, moet je per woord leren. In de woordenlijsten staat daarom bij elk zelfstandig naamwoord het meervoud. In jaar 2 (les 66–67) leer je de patronen herkennen."
+        ] },
+        { "type": "tabel", "kop": ["Enkelvoud", "Gebroken meervoud", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["رَجُلٌ|rajul", "رِجالٌ|rijāl", "man – mannen"],
+          ["وَلَدٌ|walad", "أَوْلادٌ|awlād", "jongen – jongens"],
+          ["طالِبٌ|ṭālib", "طُلّابٌ|ṭullāb", "student – studenten"],
+          ["عامِلٌ|ʿāmil", "عُمّالٌ|ʿummāl", "arbeider – arbeiders"],
+          ["طَبيبٌ|ṭabīb", "أَطِبّاءُ|aṭibbāʾ", "arts – artsen"],
+          ["كِتابٌ|kitāb", "كُتُبٌ|kutub", "boek – boeken"],
+          ["بَيْتٌ|bayt", "بُيوتٌ|buyūt", "huis – huizen"]
+        ] },
+        { "type": "waarom", "md": "Gebroken meervouden zijn een overblijfsel van een heel oud systeem en komen in alle Arabische varianten voor, ook in het Darija ({ar|رجال}, {ar|ولاد}). Juist doordat de wortel blijft, herken je het woord bijna altijd. Voor mensen gebruik je bij een gebroken meervoud een meervoudig bijvoeglijk naamwoord of werkwoord; voor dingen een vrouwelijk enkelvoud (les 31)." }
+      ]
+    },
+    {
+      "titel": "Waar werken ze?",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "يَعْمَلُ العُمّالُ في المَصْنَعِ.", "tr": "yaʿmalu l-ʿummālu fi l-maṣnaʿ.", "nl": "De arbeiders werken in de fabriek." },
+          { "ar": "أَبي خَبّازٌ، يَعْمَلُ في مَخْبَزٍ.", "tr": "abī ḫabbāz, yaʿmalu fī maḫbaz.", "nl": "Mijn vader is bakker, hij werkt in een bakkerij." },
+          { "ar": "في المُسْتَشْفى أَطِبّاءُ وَمُمَرِّضاتٌ.", "tr": "fi l-mustašfā aṭibbāʾu wa-mumarriḍāt.", "nl": "In het ziekenhuis zijn artsen en verpleegsters." },
+          { "ar": "زُمَلائي في الشَّرِكَةِ لُطَفاءُ.", "tr": "zumalāʾī fi š-šarikati luṭafāʾ.", "nl": "Mijn collega's in het bedrijf zijn aardig.",
+            "review": { "status": "onzeker", "note": "لُطَفاءُ (meervoud van لَطيفٌ voor personen) is nieuw; controleren of dit niet te vroeg is." } },
+          { "ar": "أَعْرِفُ مُهَنْدِسينَ كَثيرينَ.", "tr": "aʿrifu muhandisīna kaṯīrīn.", "nl": "Ik ken veel ingenieurs." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Beroepen",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "نَجّارٌ", "nl": "timmerman", "woord": "j1-p3-l32-w03" },
+          { "ar": "خَبّازٌ", "nl": "bakker", "woord": "j1-p3-l32-w04" },
+          { "ar": "طَبّاخٌ", "nl": "kok", "woord": "j1-p3-l32-w05" },
+          { "ar": "سائِقٌ", "nl": "chauffeur", "woord": "j1-p3-l32-w06" },
+          { "ar": "شُرْطِيٌّ", "nl": "politieagent", "woord": "j1-p3-l32-w08" },
+          { "ar": "صَحَفِيٌّ", "nl": "journalist", "woord": "j1-p3-l32-w09" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "koppelen", "tag": "meervoud-paar", "paren": [
+          { "ar": "رِجالٌ", "nl": "mannen", "woord": "j1-p3-l32-w11" },
+          { "ar": "نِساءٌ", "nl": "vrouwen", "woord": "j1-p3-l32-w12" },
+          { "ar": "أَوْلادٌ", "nl": "jongens", "woord": "j1-p3-l32-w13" },
+          { "ar": "بَناتٌ", "nl": "meisjes", "woord": "j1-p3-l32-w14" },
+          { "ar": "أَطِبّاءُ", "nl": "artsen", "woord": "j1-p3-l32-w15" }
+        ], "uitleg": "Gebroken meervouden en {ar|بَناتٌ}." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "أُمّي صَحَفِيَّةٌ", "vraag": "Wat is de moeder?", "opties": ["journaliste", "verpleegster", "arts"], "juist": 0, "uitleg": "{ar|صَحَفِيَّةٌ} = journaliste." }
+      ]
+    },
+    {
+      "titel": "Meervouden maken",
+      "items": [
+        { "type": "vervoegen", "tag": "klankmeervoud", "instructie": "Maak het klankmeervoud (onderwerpsvorm, zonder tanwīn).",
+          "rijen": [
+            { "label": "مُعَلِّمٌ → leraren", "antwoord": "مُعَلِّمونَ", "tr": "muʿallimūn" },
+            { "label": "مُهَنْدِسَةٌ → ingenieurs (v)", "antwoord": "مُهَنْدِسات", "tr": "muhandisāt" },
+            { "label": "خَبّازٌ → bakkers", "antwoord": "خَبّازونَ", "tr": "ḫabbāzūn" },
+            { "label": "مُمَرِّضَةٌ → verpleegsters", "antwoord": "مُمَرِّضات", "tr": "mumarriḍāt" }
+          ], "uitleg": "ـونَ voor mannen; ـات voor vrouwen." },
+        { "type": "invullen", "tag": "klankmeervoud", "zin": "أَعْرِفُ ___ كَثيرينَ.", "nl": "Ik ken veel ingenieurs.", "woordbank": ["مُهَنْدِسينَ", "مُهَنْدِسونَ", "مُهَنْدِسًا"], "antwoord": ["مُهَنْدِسينَ"], "uitleg": "Lijdend voorwerp: ـينَ." },
+        { "type": "invullen", "tag": "klankmeervoud", "zin": "ذَهَبْتُ مَعَ ___.", "nl": "Ik ging met de verpleegsters.", "woordbank": ["المُمَرِّضاتِ", "المُمَرِّضاتَ", "المُمَرِّضاتُ"], "antwoord": ["المُمَرِّضاتِ"], "uitleg": "Na een voorzetsel: ـاتِ (genitief)." },
+        { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Wat is het meervoud van {ar|طَبيبٌ}?", "opties": ["أَطِبّاءُ", "طَبيبونَ", "طَبيباتٌ"], "juist": 0, "uitleg": "Gebroken meervoud." },
+        { "type": "meerkeuze", "tag": "klankmeervoud", "vraag": "Welke vorm is NOOIT juist?", "opties": ["طَبيباتًا", "طَبيباتٌ", "طَبيباتٍ"], "juist": 0, "uitleg": "Het vrouwelijk klankmeervoud krijgt geen -an: accusatief is ـاتٍ." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "verbale-zin", "nl": "De arbeiders werken in de fabriek.", "woorden": ["يَعْمَلُ", "العُمّالُ", "في", "المَصْنَعِ."], "uitleg": "Verbale zin: werkwoord in het enkelvoud." },
+        { "type": "ordenen", "tag": "meervoud-paar", "nl": "In het ziekenhuis zijn artsen en verpleegsters.", "woorden": ["في", "المُسْتَشْفى", "أَطِبّاءُ", "وَمُمَرِّضاتٌ."], "uitleg": "Plaatsbepaling vooraan." },
+        { "type": "luisteren", "tag": "meervoud-paar", "tekst": "الرِّجالُ في المَقْهى", "vraag": "Wat hoor je?", "opties": ["De mannen zijn in het café.", "De man is in het café.", "De vrouwen zijn in het café."], "juist": 0, "uitleg": "{ar|الرِّجالُ} = de mannen." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-paar", "bron": "de kinderen (jongens)", "antwoorden": ["الأَوْلادُ"], "uitleg": "{ar|الأَوْلادُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "klankmeervoud", "bron": "Zij (m) zijn medewerkers.", "antwoorden": ["هُمْ مُوَظَّفونَ"], "uitleg": "{ar|هُمْ مُوَظَّفونَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "أَبي سائِقُ حافِلَةٍ.", "antwoorden": ["mijn vader is buschauffeur", "mijn vader is chauffeur van een bus"], "uitleg": "Iḍāfa: chauffeur van een bus." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "klankmeervoud", "bron": "الطَّبيباتُ في العِيادَةِ.", "antwoorden": ["de artsen zijn in de praktijk", "de dokters zijn in de praktijk", "de artsen zijn in de kliniek"], "uitleg": "Vrouwelijk klankmeervoud." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-paar", "bron": "البَناتُ في المَدْرَسَةِ.", "antwoorden": ["de meisjes zijn op school", "de meisjes zijn in de school", "de dochters zijn op school"], "uitleg": "{ar|البَناتُ} = de meisjes." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "فَلّاحٌ", "nl": "boer" },
+        { "ar": "رَسّامٌ", "nl": "schilder" },
+        { "ar": "شَرِكَةٌ", "nl": "bedrijf" },
+        { "ar": "مَصْنَعٌ", "nl": "fabriek" },
+        { "ar": "مَخْبَزٌ", "nl": "bakkerij" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "klankmeervoud", "vraag": "'Leraren' (onderwerp) is ...", "opties": ["مُعَلِّمونَ", "مُعَلِّمينَ", "مُعَلِّماتٍ"], "juist": 0, "uitleg": "ـونَ" },
+      { "type": "meerkeuze", "tag": "klankmeervoud", "vraag": "'Met de collega's (v)' is ...", "opties": ["مَعَ الزَّميلاتِ", "مَعَ الزَّميلاتَ", "مَعَ الزَّميلاتُ"], "juist": 0, "uitleg": "Genitief: ـاتِ." },
+      { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Het meervoud van {ar|رَجُلٌ} is ...", "opties": ["رِجالٌ", "رَجُلونَ", "رَجُلاتٌ"], "juist": 0, "uitleg": "Gebroken meervoud." },
+      { "type": "luisteren", "tag": "klankmeervoud", "tekst": "المُوَظَّفونَ في الشَّرِكَةِ", "vraag": "Wat hoor je?", "opties": ["De medewerkers zijn in het bedrijf.", "De medewerker is in het bedrijf.", "De medewerkers zijn in de fabriek."], "juist": 0, "uitleg": "ـونَ = meervoud." },
+      { "type": "luisteren", "tag": "meervoud-paar", "tekst": "الأَوْلادُ يَلْعَبونَ", "vraag": "Wat hoor je?", "opties": ["De jongens spelen.", "De jongen speelt.", "De meisjes spelen."], "juist": 0, "uitleg": "{ar|الأَوْلادُ} = de jongens." },
+      { "type": "invullen", "tag": "klankmeervoud", "zin": "هُنَّ ___.", "nl": "Zij zijn verpleegsters.", "woordbank": ["مُمَرِّضاتٌ", "مُمَرِّضونَ", "مُمَرِّضَةٌ"], "antwoord": ["مُمَرِّضاتٌ"], "uitleg": "Vrouwelijk klankmeervoud." },
+      { "type": "invullen", "tag": "meervoud-paar", "zin": "في المُسْتَشْفى ___ كَثيرونَ.", "nl": "In het ziekenhuis zijn veel artsen.", "antwoord": ["أَطِبّاءُ"], "uitleg": "{ar|أَطِبّاءُ}" },
+      { "type": "vervoegen", "tag": "klankmeervoud", "instructie": "Maak het meervoud (onderwerpsvorm, zonder tanwīn).",
+        "rijen": [
+          { "label": "طَبّاخٌ → koks", "antwoord": "طَبّاخونَ", "tr": "ṭabbāḫūn" },
+          { "label": "زَميلَةٌ → collega's (v)", "antwoord": "زَميلات", "tr": "zamīlāt" }
+        ], "uitleg": "ـونَ / ـات" },
+      { "type": "ordenen", "tag": "woordenschat", "nl": "Mijn vader is bakker, hij werkt in een bakkerij.", "woorden": ["أَبي", "خَبّازٌ،", "يَعْمَلُ", "في", "مَخْبَزٍ."], "uitleg": "Nominale zin + werkwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-paar", "bron": "de vrouwen", "antwoorden": ["النِّساءُ"], "uitleg": "{ar|النِّساءُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "klankmeervoud", "bron": "Wij zijn ingenieurs.", "antwoorden": ["نَحْنُ مُهَنْدِسونَ"], "uitleg": "{ar|نَحْنُ مُهَنْدِسونَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-paar", "bron": "العُمّالُ مُتْعَبونَ.", "antwoorden": ["de arbeiders zijn moe", "de werknemers zijn moe"], "uitleg": "Mensen: meervoud." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "الشُّرْطِيُّ أَمامَ البَنْكِ.", "antwoorden": ["de politieagent is voor de bank", "de agent staat voor de bank", "de politieagent staat voor de bank"], "uitleg": "{ar|البَنْكُ} = de bank." }
+    ]
+  }
+}

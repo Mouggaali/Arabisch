@@ -1,0 +1,670 @@
+{
+  "id": "j2-p6-l71",
+  "code": "L71",
+  "type": "les",
+  "titel": "Reizen II",
+  "thema": "Vliegen, douane en bagage; assimilerende en verdubbelde werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "assimilerende werkwoorden (eerste wortelletter و) vervoegen: وَصَلَ / يَصِلُ.",
+    "verdubbelde werkwoorden (2e = 3e wortelletter) vervoegen: مَرَّ / مَرَرْتُ / يَمُرُّ.",
+    "op het vliegveld en bij de douane communiceren."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l71-w01",
+      "ar": "وَجَدَ",
+      "tr": "wajada",
+      "nl": [
+        "vinden"
+      ],
+      "soort": "werkwoord (assimilerend)",
+      "notitie": "{ar|يَجِدُ}; gebiedende wijs {ar|جِدْ}."
+    },
+    {
+      "id": "j2-p6-l71-w02",
+      "ar": "وَضَعَ",
+      "tr": "waḍaʿa",
+      "nl": [
+        "leggen",
+        "zetten"
+      ],
+      "soort": "werkwoord (assimilerend)",
+      "notitie": "{ar|يَضَعُ}; gebiedende wijs {ar|ضَعْ}."
+    },
+    {
+      "id": "j2-p6-l71-w03",
+      "ar": "وَقَفَ",
+      "tr": "waqafa",
+      "nl": [
+        "stoppen",
+        "gaan staan"
+      ],
+      "soort": "werkwoord (assimilerend)",
+      "notitie": "{ar|يَقِفُ}; gebiedende wijs {ar|قِفْ}."
+    },
+    {
+      "id": "j2-p6-l71-w04",
+      "ar": "وَعَدَ",
+      "tr": "waʿada",
+      "nl": [
+        "beloven"
+      ],
+      "soort": "werkwoord (assimilerend)",
+      "notitie": "{ar|يَعِدُ}; maṣdar {ar|وَعْدٌ}."
+    },
+    {
+      "id": "j2-p6-l71-w05",
+      "ar": "مَرَّ بِـ",
+      "tr": "marra bi-",
+      "nl": [
+        "langskomen bij",
+        "passeren"
+      ],
+      "soort": "werkwoord (verdubbeld)",
+      "notitie": "{ar|مَرَرْتُ} · {ar|يَمُرُّ}"
+    },
+    {
+      "id": "j2-p6-l71-w06",
+      "ar": "حَلَّ",
+      "tr": "ḥalla",
+      "nl": [
+        "oplossen"
+      ],
+      "soort": "werkwoord (verdubbeld)",
+      "notitie": "{ar|حَلَلْتُ} · {ar|يَحُلُّ}; {ar|حَلٌّ} = oplossing."
+    },
+    {
+      "id": "j2-p6-l71-w07",
+      "ar": "ضَلَّ الطَّريقَ",
+      "tr": "ḍalla ṭ-ṭarīq",
+      "nl": [
+        "verdwalen"
+      ],
+      "soort": "werkwoord (verdubbeld)",
+      "notitie": "{ar|ضَلَلْتُ} · {ar|يَضِلُّ}"
+    },
+    {
+      "id": "j2-p6-l71-w08",
+      "ar": "تَأْشيرَةٌ",
+      "tr": "taʾšīra",
+      "nl": [
+        "visum"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l71-w09",
+      "ar": "الجَمارِكُ",
+      "tr": "al-jamārik",
+      "nl": [
+        "de douane"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p6-l71-w10",
+      "ar": "أَمْتِعَةٌ",
+      "tr": "amtiʿa",
+      "nl": [
+        "bagage"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p6-l71-w11",
+      "ar": "إِقْلاعٌ",
+      "tr": "iqlāʿ",
+      "nl": [
+        "het opstijgen",
+        "vertrek (vliegtuig)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l71-w12",
+      "ar": "هُبوطٌ",
+      "tr": "hubūṭ",
+      "nl": [
+        "landing"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l71-w13",
+      "ar": "بَوّابَةٌ",
+      "tr": "bawwāba",
+      "nl": [
+        "gate",
+        "poort"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l71-w14",
+      "ar": "مَقْعَدٌ",
+      "tr": "maqʿad",
+      "nl": [
+        "stoel (in vervoer)",
+        "zitplaats"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l71-w16",
+      "ar": "رِحْلَةٌ جَوِّيَّةٌ",
+      "tr": "riḥlatun jawwiyya",
+      "nl": [
+        "vlucht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l71-w18",
+      "ar": "حِزامُ الأَمانِ",
+      "tr": "ḥizāmu l-amān",
+      "nl": [
+        "veiligheidsgordel"
+      ],
+      "soort": "iḍāfa"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Assimilerende werkwoorden: و vooraan",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Begint de wortel met **و** en heeft de muḍāriʿ een **i**, dan valt de و in de muḍāriʿ weg: {ar|وَصَلَ} → {ar|يَصِلُ}، {ar|وَجَدَ} → {ar|يَجِدُ}.",
+            "De māḍī is gewoon regelmatig ({ar|وَصَلْتُ}). De gebiedende wijs is heel kort: {ar|صِلْ}، {ar|قِفْ}، {ar|ضَعْ}."
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom valt de و weg? In *yawṣilu* vormt de و samen met de a een tweeklank die in deze positie wegvalt. Daardoor lijkt {ar|يَصِلُ} een tweeletterig werkwoord. Ken je deze werkwoorden, dan begrijp je ook {ar|صِلَةٌ} (verbinding) en {ar|جِهَةٌ} (kant)."
+        }
+      ]
+    },
+    {
+      "titel": "Verdubbelde werkwoorden: 2e = 3e letter",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "hij",
+              "مَرَّ",
+              "يَمُرُّ"
+            ],
+            [
+              "zij (ev)",
+              "مَرَّتْ",
+              "تَمُرُّ"
+            ],
+            [
+              "zij (m mv)",
+              "مَرّوا",
+              "يَمُرّونَ"
+            ],
+            [
+              "ik",
+              "مَرَرْتُ",
+              "أَمُرُّ"
+            ],
+            [
+              "wij",
+              "مَرَرْنا",
+              "نَمُرُّ"
+            ],
+            [
+              "zij (v mv)",
+              "مَرَرْنَ",
+              "يَمْرُرْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij een **klinker-uitgang** smelten de twee gelijke letters samen tot één met shadda ({ar|مَرَّ}، {ar|مَرّوا}). Bij een **medeklinker-uitgang** kan dat niet, en komen ze weer los ({ar|مَرَرْتُ}). Hetzelfde patroon zag je al bij {ar|ظَلَّ} → {ar|ظَلِلْتُ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وَصَلَتِ الطّائِرَةُ مُتَأَخِّرَةً.",
+              "tr": "waṣalati ṭ-ṭāʾiratu mutaʾaḫḫira.",
+              "nl": "Het vliegtuig kwam te laat aan."
+            },
+            {
+              "ar": "لَمْ أَجِدْ حَقيبَتي!",
+              "tr": "lam ajid ḥaqībatī!",
+              "nl": "Ik heb mijn koffer niet gevonden!"
+            },
+            {
+              "ar": "مَرَرْنا بِالجَمارِكِ بِسُرْعَةٍ.",
+              "tr": "mararnā bi-l-jamāriki bi-surʿa.",
+              "nl": "We kwamen snel door de douane."
+            },
+            {
+              "ar": "ضَعْ أَمْتِعَتَكَ هُنا، مِنْ فَضْلِكَ.",
+              "tr": "ḍaʿ amtiʿataka hunā, min faḍlik.",
+              "nl": "Zet uw bagage hier, alstublieft."
+            },
+            {
+              "ar": "وَعَدْتُكَ أَنْ أَزورَكَ.",
+              "tr": "waʿadtuka an azūrak.",
+              "nl": "Ik heb je beloofd je te bezoeken."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تَأْشيرَةٌ",
+              "nl": "visum",
+              "woord": "j2-p6-l71-w08"
+            },
+            {
+              "ar": "الجَمارِكُ",
+              "nl": "douane",
+              "woord": "j2-p6-l71-w09"
+            },
+            {
+              "ar": "أَمْتِعَةٌ",
+              "nl": "bagage",
+              "woord": "j2-p6-l71-w10"
+            },
+            {
+              "ar": "بَوّابَةٌ",
+              "nl": "gate",
+              "woord": "j2-p6-l71-w13"
+            },
+            {
+              "ar": "مَقْعَدٌ",
+              "nl": "zitplaats",
+              "woord": "j2-p6-l71-w14"
+            },
+            {
+              "ar": "هُبوطٌ",
+              "nl": "landing",
+              "woord": "j2-p6-l71-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "assimilerend-verdubbeld",
+          "tekst": "لَمْ أَجِدْ حَقيبَتي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb mijn koffer niet gevonden.",
+            "Ik heb mijn koffer gevonden.",
+            "Ik zoek mijn tas."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَجِدْ}: majzūm van {ar|يَجِدُ}."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "assimilerend-verdubbeld",
+          "instructie": "Vervoeg وَصَلَ / يَصِلُ.",
+          "rijen": [
+            {
+              "label": "ik, māḍī",
+              "antwoord": "وَصَلْتُ",
+              "tr": "waṣaltu"
+            },
+            {
+              "label": "hij, muḍāriʿ",
+              "antwoord": "يَصِلُ",
+              "tr": "yaṣilu"
+            },
+            {
+              "label": "wij, muḍāriʿ",
+              "antwoord": "نَصِلُ",
+              "tr": "naṣilu"
+            }
+          ],
+          "uitleg": "و valt weg in de muḍāriʿ."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "assimilerend-verdubbeld",
+          "instructie": "Vervoeg مَرَّ / يَمُرُّ.",
+          "rijen": [
+            {
+              "label": "ik, māḍī",
+              "antwoord": "مَرَرْتُ",
+              "tr": "marartu"
+            },
+            {
+              "label": "zij (ev), māḍī",
+              "antwoord": "مَرَّتْ",
+              "tr": "marrat"
+            },
+            {
+              "label": "hij, muḍāriʿ",
+              "antwoord": "يَمُرُّ",
+              "tr": "yamurru"
+            }
+          ],
+          "uitleg": "Los voor een medeklinker, samen voor een klinker."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "assimilerend-verdubbeld",
+          "vraag": "'Stop!' (tegen een man) is ...",
+          "opties": [
+            "قِفْ",
+            "اِوْقِفْ",
+            "وَقِفْ"
+          ],
+          "juist": 0,
+          "uitleg": "Assimilerend: zeer korte gebiedende wijs."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "assimilerend-verdubbeld",
+          "vraag": "'Wij hebben het probleem opgelost' is ...",
+          "opties": [
+            "حَلَلْنا المُشْكِلَةَ.",
+            "حَلَّنا المُشْكِلَةَ.",
+            "حَلْنا المُشْكِلَةَ."
+          ],
+          "juist": 0,
+          "uitleg": "Medeklinker-uitgang → letters los."
+        },
+        {
+          "type": "invullen",
+          "tag": "assimilerend-verdubbeld",
+          "zin": "أَيْنَ ___ الحَقائِبَ؟",
+          "nl": "Waar leg ik de koffers?",
+          "woordbank": [
+            "أَضَعُ",
+            "أَوْضَعُ",
+            "وَضَعْتُ"
+          ],
+          "antwoord": [
+            "أَضَعُ"
+          ],
+          "uitleg": "و valt weg."
+        }
+      ]
+    },
+    {
+      "titel": "Op het vliegveld",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "assimilerend-verdubbeld",
+          "nl": "We kwamen snel door de douane.",
+          "woorden": [
+            "مَرَرْنا",
+            "بِالجَمارِكِ",
+            "بِسُرْعَةٍ."
+          ],
+          "uitleg": "{ar|مَرَرْنا}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "الرِّحْلَةُ مُتَأَخِّرَةٌ ساعَةً",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De vlucht heeft een uur vertraging.",
+            "De vlucht vertrekt over een uur.",
+            "De vlucht is geannuleerd."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُتَأَخِّرٌ} = vertraagd."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "assimilerend-verdubbeld",
+          "bron": "Ik vond.",
+          "antwoorden": [
+            "وَجَدْتُ"
+          ],
+          "uitleg": "Māḍī regelmatig."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "اِرْبِطْ حِزامَ الأَمانِ.",
+          "antwoorden": [
+            "doe je veiligheidsgordel om",
+            "maak je veiligheidsgordel vast",
+            "doe de veiligheidsgordel om",
+            "maak de veiligheidsgordel vast"
+          ],
+          "uitleg": "{ar|حِزامُ الأَمانِ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِقْلاعٌ",
+            "nl": "opstijgen"
+          },
+          {
+            "ar": "مَمَرٌّ",
+            "nl": "gangpad"
+          },
+          {
+            "ar": "وَعَدَ",
+            "nl": "beloven"
+          },
+          {
+            "ar": "حَلَّ",
+            "nl": "oplossen"
+          },
+          {
+            "ar": "وَضَعَ",
+            "nl": "leggen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "assimilerend-verdubbeld",
+        "vraag": "De muḍāriʿ van {ar|وَجَدَ} (hij) is ...",
+        "opties": [
+          "يَجِدُ",
+          "يَوْجِدُ",
+          "يوجَدُ"
+        ],
+        "juist": 0,
+        "uitleg": "و valt weg. ({ar|يوجَدُ} = er is, lijdende vorm.)"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "assimilerend-verdubbeld",
+        "vraag": "'Ik passeerde' is ...",
+        "opties": [
+          "مَرَرْتُ",
+          "مَرَّتُ",
+          "مَرْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Letters los voor -tu."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "assimilerend-verdubbeld",
+        "vraag": "'Zij (m mv) passeerden' is ...",
+        "opties": [
+          "مَرّوا",
+          "مَرَروا",
+          "مَرْروا"
+        ],
+        "juist": 0,
+        "uitleg": "Klinker-uitgang → shadda."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "assimilerend-verdubbeld",
+        "vraag": "Wat is de wortel van {ar|يَصِلُ}?",
+        "opties": [
+          "و ص ل",
+          "ي ص ل",
+          "ص ل ل"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَصَلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "assimilerend-verdubbeld",
+        "tekst": "قِفْ هُنا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Stop hier.",
+          "Kom hier.",
+          "Zet het hier neer."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قِفْ} van {ar|وَقَفَ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "assimilerend-verdubbeld",
+        "tekst": "ضَلَلْنا الطَّريقَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We zijn verdwaald.",
+          "We hebben de weg gevonden.",
+          "We zijn aangekomen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضَلَّ الطَّريقَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "assimilerend-verdubbeld",
+        "zin": "مَتى ___ القِطارُ؟",
+        "nl": "Wanneer komt de trein aan?",
+        "woordbank": [
+          "يَصِلُ",
+          "يَوْصِلُ",
+          "وَصَلَ"
+        ],
+        "antwoord": [
+          "يَصِلُ"
+        ],
+        "uitleg": "Muḍāriʿ zonder و."
+      },
+      {
+        "type": "invullen",
+        "tag": "assimilerend-verdubbeld",
+        "zin": "سَـ___ بِكَ غَدًا.",
+        "nl": "Ik kom morgen bij je langs.",
+        "woordbank": [
+          "أَمُرُّ",
+          "مَرَرْتُ",
+          "أَمْرُرُ"
+        ],
+        "antwoord": [
+          "أَمُرُّ"
+        ],
+        "uitleg": "Muḍāriʿ verdubbeld: shadda."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "assimilerend-verdubbeld",
+        "instructie": "Gebiedende wijs (tegen een man).",
+        "rijen": [
+          {
+            "label": "وَضَعَ / يَضَعُ",
+            "antwoord": "ضَعْ",
+            "tr": "ḍaʿ"
+          },
+          {
+            "label": "وَقَفَ / يَقِفُ",
+            "antwoord": "قِفْ",
+            "tr": "qif"
+          }
+        ],
+        "uitleg": "Zonder و en zonder hulpalif."
+      },
+      {
+        "type": "ordenen",
+        "tag": "assimilerend-verdubbeld",
+        "nl": "Het vliegtuig kwam te laat aan.",
+        "woorden": [
+          "وَصَلَتِ",
+          "الطّائِرَةُ",
+          "مُتَأَخِّرَةً."
+        ],
+        "uitleg": "Māḍī regelmatig."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het visum",
+        "antwoorden": [
+          "التَّأْشيرَةُ"
+        ],
+        "uitleg": "{ar|التَّأْشيرَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "assimilerend-verdubbeld",
+        "bron": "وَعَدْتُكَ أَنْ أَزورَكَ.",
+        "antwoorden": [
+          "ik heb je beloofd je te bezoeken",
+          "ik beloofde je je te bezoeken",
+          "ik heb je beloofd om je te bezoeken"
+        ],
+        "uitleg": "{ar|وَعَدَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "assimilerend-verdubbeld",
+        "bron": "هٰذا حَلٌّ جَيِّدٌ.",
+        "antwoorden": [
+          "dit is een goede oplossing",
+          "dat is een goede oplossing"
+        ],
+        "uitleg": "{ar|حَلٌّ} = oplossing."
+      }
+    ]
+  }
+}

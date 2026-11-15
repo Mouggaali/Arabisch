@@ -1,0 +1,87 @@
+{
+  "id": "j2-p5-pt5",
+  "code": "PT5",
+  "type": "periodetoets",
+  "titel": "Periodetoets 5",
+  "thema": "Alle leerdoelen van periode 5 (les 49 tot en met 60, D07–D09)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** wortel en patroon, manṣūb na أَنْ / لَنْ / كَيْ / لِـ / حَتّى, majzūm na لَمْ, verbod en gebiedende wijs (L49–L52).",
+    "**Getoetst:** vorm II tot en met V met maṣdar en deelwoord (L53–L56).",
+    "**Getoetst:** vorm VI tot en met X, assimilatie in vorm VIII, het overzicht van alle vormen (L57–L60).",
+    "**Getoetst:** Darija: bezit met ديال, aan tafel, op de markt (D07–D09).",
+    "Geslaagd vanaf 70%. Maak eerst H15 en oefen de vormen in de vervoegingstrainer."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "wortel-patroon", "vraag": "Wat is de wortel van {ar|مَدْروسٌ}?", "opties": ["د ر س", "م د ر", "د ر و"], "juist": 0, "uitleg": "مَفْعول" },
+      { "type": "meerkeuze", "tag": "wortel-patroon", "vraag": "{ar|طَبَخَ} = koken. Wat betekent {ar|مَطْبَخٌ}?", "opties": ["keuken", "kok", "gekookt"], "juist": 0, "uitleg": "مَفْعَل = plaats." },
+      { "type": "meerkeuze", "tag": "wortel-patroon", "vraag": "Welk patroon betekent *wat gedaan is*?", "opties": ["مَفْعول", "فاعِل", "فِعالَة"], "juist": 0, "uitleg": "{ar|مَكْتوبٌ} = geschreven." },
+      { "type": "invullen", "tag": "mansub", "zin": "يُريدونَ أَنْ ___ إِلى البَحْرِ.", "nl": "Ze willen naar zee gaan.", "woordbank": ["يَذْهَبوا", "يَذْهَبونَ", "ذَهَبوا"], "antwoord": ["يَذْهَبوا"], "uitleg": "Manṣūb: ـونَ → ـوا." },
+      { "type": "meerkeuze", "tag": "lan", "vraag": "'Ik zal het niet vergeten' is ...", "opties": ["لَنْ أَنْساهُ", "لَمْ أَنْسَهُ", "لا أَنْساهُ"], "juist": 0, "uitleg": "{ar|لَنْ} = toekomst ontkend." },
+      { "type": "invullen", "tag": "majzum-lam", "zin": "لَمْ ___ الرِّسالَةَ بَعْدُ.", "nl": "Jij (v) hebt het bericht nog niet gelezen.", "woordbank": ["تَقْرَئي", "تَقْرَئينَ", "قَرَأْتِ"], "antwoord": ["تَقْرَئي"], "uitleg": "Majzūm: ـينَ → ـي." },
+      { "type": "meerkeuze", "tag": "majzum-lam", "vraag": "Welke zin betekent 'Hij is niet gekomen' (formeel)?", "opties": ["لَمْ يَحْضُرْ.", "لَنْ يَحْضُرَ.", "لا يَحْضُرُ."], "juist": 0, "uitleg": "{ar|لَمْ} + majzūm = verleden ontkend." },
+      { "type": "meerkeuze", "tag": "gebiedende-wijs", "vraag": "De gebiedende wijs van {ar|يَكْتُبُ} tegen een vrouw is ...", "opties": ["اُكْتُبي", "اِكْتُبي", "تَكْتُبي"], "juist": 0, "uitleg": "Stamklinker u → اُ; vrouw → ـي." },
+      { "type": "invullen", "tag": "verbod", "zin": "لا ___ هُنا!", "nl": "Ga hier niet zitten! (groep)", "woordbank": ["تَجْلِسوا", "اِجْلِسوا", "تَجْلِسونَ"], "antwoord": ["تَجْلِسوا"], "uitleg": "{ar|لا} + majzūm." },
+      { "type": "luisteren", "tag": "gebiedende-wijs", "tekst": "اِفْتَحوا الكُتُبَ", "vraag": "Wat hoor je?", "opties": ["Open de boeken! (groep)", "Ze openden de boeken.", "Doe de boeken niet open!"], "juist": 0, "uitleg": "Gebiedende wijs, groep." },
+      { "type": "meerkeuze", "tag": "vorm-2", "vraag": "'Zij (ev) geeft les' is ...", "opties": ["تُدَرِّسُ", "تَدْرُسُ", "دَرَّسَتْ"], "juist": 0, "uitleg": "Vorm II muḍāriʿ." },
+      { "type": "meerkeuze", "tag": "vorm-3", "vraag": "Welke betekenis past bij vorm III?", "opties": ["een handeling gericht op of met iemand", "iets vanzelf laten gebeuren", "een kleur krijgen"], "juist": 0, "uitleg": "{ar|ساعَدَ}، {ar|قابَلَ}" },
+      { "type": "invullen", "tag": "vorm-4", "zin": "سَـ___ لَكَ الصُّوَرَ غَدًا.", "nl": "Ik stuur je de foto's morgen.", "woordbank": ["أُرْسِلُ", "أَرْسَلْتُ", "أَرْسُلُ"], "antwoord": ["أُرْسِلُ"], "uitleg": "Vorm IV muḍāriʿ, ik.", "streng": true },
+      { "type": "meerkeuze", "tag": "vorm-5", "vraag": "'Ze (m mv) spreken' is ...", "opties": ["يَتَكَلَّمونَ", "يُكَلِّمونَ", "تَكَلَّموا"], "juist": 0, "uitleg": "Vorm V muḍāriʿ." },
+      { "type": "vervoegen", "tag": "masdar-afgeleid", "instructie": "Geef de maṣdar.",
+        "rijen": [
+          { "label": "قَدَّمَ (II)", "antwoord": "تَقْديمٌ", "tr": "taqdīm" },
+          { "label": "ناقَشَ (III)", "antwoord": "مُناقَشَةٌ", "tr": "munāqaša" },
+          { "label": "أَعْلَنَ (IV)", "antwoord": "إِعْلانٌ", "tr": "iʿlān" },
+          { "label": "تَقَدَّمَ (V)", "antwoord": "تَقَدُّمٌ", "tr": "taqaddum" }
+        ], "uitleg": "تَفْعيل · مُفاعَلَة · إِفْعال · تَفَعُّل" },
+      { "type": "luisteren", "tag": "vorm-4", "tekst": "أَغْلِقِ النّافِذَةَ مِنْ فَضْلِكَ", "vraag": "Wat hoor je?", "opties": ["Doe alsjeblieft het raam dicht.", "Doe alsjeblieft het raam open.", "Het raam is dicht."], "juist": 0, "uitleg": "{ar|أَغْلِقْ} = sluit!" },
+      { "type": "luisteren", "tag": "vorm-5", "tekst": "تَحَسَّنَتْ لُغَتي العَرَبِيَّةُ", "vraag": "Wat hoor je?", "opties": ["Mijn Arabisch is beter geworden.", "Ik heb mijn Arabisch vergeten.", "Ik leer Arabisch."], "juist": 0, "uitleg": "Vorm V." },
+      { "type": "meerkeuze", "tag": "vorm-6", "vraag": "'We wisselden ervaringen uit' is ...", "opties": ["تَبادَلْنا التَّجارِبَ.", "بادَلْنا التَّجارِبَ.", "نَتَبادَلُ التَّجارِبَ."], "juist": 0, "uitleg": "Vorm VI māḍī." },
+      { "type": "meerkeuze", "tag": "vorm-7-8", "vraag": "Welke zin heeft vorm VII?", "opties": ["اِنْقَطَعَ الخَطُّ.", "قَطَعْتُ الخُبْزَ.", "اِقْطَعِ الخُبْزَ."], "juist": 0, "uitleg": "{ar|اِنْقَطَعَ} = werd verbroken (vanzelf)." },
+      { "type": "meerkeuze", "tag": "vorm-7-8", "vraag": "Wat is de wortel van {ar|اِضْطَرَبَ}?", "opties": ["ض ر ب", "ض ط ر", "ط ر ب"], "juist": 0, "uitleg": "ط is de aangepaste ت van vorm VIII." },
+      { "type": "invullen", "tag": "vorm-7-8", "zin": "___ في القاعَةِ في السّاعَةِ التّاسِعَةِ.", "nl": "We kwamen om negen uur samen in de zaal.", "woordbank": ["اِجْتَمَعْنا", "جَمَعْنا", "نَجْتَمِعُ"], "antwoord": ["اِجْتَمَعْنا"], "uitleg": "Vorm VIII māḍī." },
+      { "type": "meerkeuze", "tag": "vorm-10", "vraag": "{ar|خَدَمَ} = dienen. Wat betekent {ar|اِسْتَخْدَمَ}?", "opties": ["gebruiken", "bediende", "dienst"], "juist": 0, "uitleg": "Vorm X: laten dienen voor = gebruiken." },
+      { "type": "invullen", "tag": "vorm-10", "zin": "هَلْ ___ الحاسوبَ في عَمَلِكُمْ؟", "nl": "Gebruiken jullie (m) de computer op je werk?", "woordbank": ["تَسْتَخْدِمونَ", "يَسْتَخْدِمونَ", "اِسْتَخْدَمْتُمْ"], "antwoord": ["تَسْتَخْدِمونَ"], "uitleg": "Vorm X, jullie (m)." },
+      { "type": "luisteren", "tag": "vorm-10", "tekst": "اِسْتَغْرَقَتِ الرِّحْلَةُ ثَلاثَ ساعاتٍ", "vraag": "Hoe lang duurde de reis?", "opties": ["drie uur", "dertig minuten", "dertien uur"], "juist": 0, "uitleg": "{ar|اِسْتَغْرَقَ} = duren." },
+      { "type": "vervoegen", "tag": "afgeleide-vormen", "instructie": "Geef het actief deelwoord.",
+        "rijen": [
+          { "label": "دَرَّبَ (II)", "antwoord": "مُدَرِّبٌ", "tr": "mudarrib" },
+          { "label": "هاجَمَ (III)", "antwoord": "مُهاجِمٌ", "tr": "muhājim" },
+          { "label": "اِسْتَخْدَمَ (X)", "antwoord": "مُسْتَخْدِمٌ", "tr": "mustaḫdim" }
+        ], "uitleg": "مُـ + stam met i." },
+      { "type": "meerkeuze", "tag": "afgeleide-vormen", "vraag": "Bij welke vormen heeft het voorvoegsel van de muḍāriʿ een u?", "opties": ["II, III, IV", "V, VI", "VII–X"], "juist": 0, "uitleg": "{ar|يُفَعِّلُ}، {ar|يُفاعِلُ}، {ar|يُفْعِلُ}" },
+      { "type": "meerkeuze", "tag": "masdar-afgeleid", "vraag": "{ar|اِنْتِقالٌ} is de maṣdar van vorm ...", "opties": ["VIII", "VII", "X"], "juist": 0, "uitleg": "اِفْتِعال (wortel ن-ق-ل)." },
+      { "type": "ordenen", "tag": "vorm-6", "nl": "We ontmoetten elkaar toevallig op een feest.", "woorden": ["تَقابَلْنا", "صُدْفَةً", "في", "حَفْلَةٍ."], "uitleg": "Vorm VI." },
+      { "type": "ordenen", "tag": "mansub", "nl": "Ik spaar geld om een huis te kopen.", "woorden": ["أُوَفِّرُ", "المالَ", "لِأَشْتَرِيَ", "بَيْتًا."], "uitleg": "{ar|لِـ} + manṣūb." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "رِوايَةٌ", "nl": "roman" },
+        { "ar": "فاتورَةٌ", "nl": "rekening" },
+        { "ar": "وَصْفَةٌ", "nl": "recept" },
+        { "ar": "مُباراةٌ", "nl": "wedstrijd" },
+        { "ar": "لَهْجَةٌ", "nl": "dialect" }
+      ], "uitleg": "Woordenschat periode 5." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَوْعِدٌ", "nl": "afspraak" },
+        { "ar": "جيرانٌ", "nl": "buren" },
+        { "ar": "شاشَةٌ", "nl": "scherm" },
+        { "ar": "قُبولٌ", "nl": "toelating" },
+        { "ar": "مُدَرِّسٌ", "nl": "docent" }
+      ], "uitleg": "Woordenschat periode 5." },
+      { "type": "meerkeuze", "tag": "darija-bezit", "vraag": "'Hun auto' in het Darija is ...", "opties": ["الطوموبيل ديالهوم", "الطوموبيل ديالي", "ديالهوم الطوموبيل ديال"], "juist": 0, "uitleg": "ديال + ـهوم." },
+      { "type": "meerkeuze", "tag": "darija-eten", "vraag": "Wat zeg je in het Darija als je vol zit?", "opties": ["شبعت", "جيعان", "زيد"], "juist": 0, "uitleg": "{ar|شبعت}" },
+      { "type": "meerkeuze", "tag": "darija-markt", "vraag": "Hoe vraag je in het Darija naar de laatste prijs?", "opties": ["شنو آخر ثمن؟", "فين السوق؟", "عندك الصرف؟"], "juist": 0, "uitleg": "{ar|آخر ثمن}" },
+      { "type": "luisteren", "tag": "darija-markt", "tekst": "عطيني نص كيلو ديال مطيشة", "vraag": "Wat wil de klant?", "opties": ["een halve kilo tomaten", "twee kilo tomaten", "een halve kilo vis"], "juist": 0, "uitleg": "{ar|نص كيلو} · {ar|مطيشة}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "vorm-5", "bron": "Ik leer.", "antwoorden": ["أَتَعَلَّمُ"], "uitleg": "Vorm V." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "majzum-lam", "bron": "We hebben niet betaald. (met لَمْ)", "antwoorden": ["لَمْ نَدْفَعْ"], "uitleg": "{ar|لَمْ} + majzūm." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vorm-3", "bron": "شارَكَتْ في المُسابَقَةِ وَفازَتْ.", "antwoorden": ["ze deed mee aan de wedstrijd en won", "zij deed mee aan de wedstrijd en won", "ze heeft meegedaan aan de wedstrijd en gewonnen"], "uitleg": "Vorm III; {ar|فازَ} = winnen." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vorm-7-8", "bron": "اِقْتَرَبَ مَوْعِدُ الاِمْتِحانِ.", "antwoorden": ["de examendatum komt dichterbij", "het examen nadert", "de datum van het examen nadert", "de examendatum nadert"], "uitleg": "Vorm VIII." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-bezit", "bron": "الدراري ديالنا", "tr": "ddṛāri dyālna", "antwoorden": ["onze kinderen", "de kinderen van ons"], "uitleg": "Darija ديال." }
+    ]
+  }
+}

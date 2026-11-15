@@ -1,0 +1,444 @@
+{
+  "id": "j3-p12-h35",
+  "code": "H35",
+  "type": "herhaling",
+  "titel": "Herhaling blok 12B",
+  "thema": "De vier vaardigheden: lezen, luisteren, schrijven en spreken",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "leesstrategieën toepassen op een lange tekst.",
+    "luister-, schrijf- en spreekstrategieën gebruiken.",
+    "in het Darija over jezelf vertellen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 137–140 en D29.",
+  "grammatica": [
+    {
+      "titel": "Blok 12B in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vaardigheid",
+            "Strategie",
+            "Formules"
+          ],
+          "rijen": [
+            [
+              "lezen",
+              "oriënteren, kernzinnen, signaalwoorden",
+              "غَيْرَ أَنَّ · وَمَعَ ذٰلِكَ · بَيْنَما"
+            ],
+            [
+              "luisteren",
+              "voorspellen, kernwoorden, getallen",
+              "نَرْجو مِنَ السّادَةِ الرُّكّابِ …"
+            ],
+            [
+              "schrijven",
+              "bouwplan van vijf alinea's",
+              "في المَقامِ الأَوَّلِ · لا يُمْكِنُ إِنْكارُ"
+            ],
+            [
+              "spreken",
+              "tijd winnen, omschrijven, herhaling vragen",
+              "دَعْني أُفَكِّرُ · يَعْني · هَلْ يُمْكِنُ أَنْ تُعيدَ؟"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met deze vier strategieën ben je klaar voor de examentraining in blok 12C. Een strategie helpt je ook als je niet elk woord kent: dat is precies wat B1 betekent."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Wat lees je eerst bij een lange tekst?",
+          "opties": [
+            "de eerste en laatste zin",
+            "de moeilijkste woorden",
+            "alleen de getallen"
+          ],
+          "juist": 0,
+          "uitleg": "Oriënteren."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "luistervaardigheid",
+          "vraag": "{ar|أُلْغِيَتِ الرِّحْلَةُ} betekent ...",
+          "opties": [
+            "de vlucht is geannuleerd",
+            "de vlucht vertrekt",
+            "de vlucht is vol"
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "spreken",
+          "vraag": "Hoe win je tijd?",
+          "opties": [
+            "سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ",
+            "لا أَعْرِفُ",
+            "مَعَ السَّلامَةِ"
+          ],
+          "juist": 0,
+          "uitleg": "Tijd winnen."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "سَدٌّ",
+              "nl": "stuwdam",
+              "woord": "j3-p12-l137-w04"
+            },
+            {
+              "ar": "أَمْتِعَةٌ",
+              "nl": "bagage"
+            },
+            {
+              "ar": "أُطْروحَةٌ",
+              "nl": "stelling",
+              "woord": "j3-p12-l139-w01"
+            },
+            {
+              "ar": "بِبُطْءٍ",
+              "nl": "langzaam",
+              "woord": "j3-p12-l140-w05"
+            },
+            {
+              "ar": "كنتوحش",
+              "nl": "ik mis (Darija)",
+              "woord": "j3-p12-d29-w10"
+            },
+            {
+              "ar": "صُنْبورٌ",
+              "nl": "kraan",
+              "woord": "j3-p12-l137-w12"
+            }
+          ],
+          "uitleg": "Woorden uit blok 12B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "في ___ الأَوَّلِ، الدِّراسَةُ مُفيدَةٌ.",
+          "nl": "In de eerste plaats is studeren nuttig.",
+          "antwoord": [
+            "المَقامِ"
+          ],
+          "uitleg": "{ar|في المَقامِ الأَوَّلِ}",
+          "woordbank": [
+            "المَقامِ",
+            "المُقَدِّمَةِ",
+            "الخَلْفِيَّةِ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "spreken",
+          "zin": "في ___ أَرى جِبالًا.",
+          "nl": "Op de achtergrond zie ik bergen.",
+          "antwoord": [
+            "الخَلْفِيَّةِ"
+          ],
+          "uitleg": "Foto.",
+          "woordbank": [
+            "الخَلْفِيَّةِ",
+            "المُقَدِّمَةِ",
+            "الخاتِمَةِ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "luistervaardigheid",
+          "nl": "Wilt u zo snel mogelijk terugbellen?",
+          "woorden": [
+            "يُرْجى",
+            "مُعاوَدَةُ",
+            "الاِتِّصالِ",
+            "في",
+            "أَقْرَبِ",
+            "وَقْتٍ."
+          ],
+          "uitleg": "Spraakbericht."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-eindopdracht",
+          "tekst": "بغيت نولي أستاذة",
+          "vraag": "Wat wil de spreekster worden?",
+          "opties": [
+            "lerares",
+            "arts",
+            "vertaalster"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "leesvaardigheid",
+          "bron": "drinkwater",
+          "antwoorden": [
+            "الماءُ الصّالِحُ لِلشُّرْبِ",
+            "الماء الصالح للشرب"
+          ],
+          "uitleg": "{ar|الماءُ الصّالِحُ لِلشُّرْبِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "argumenteren",
+          "bron": "لا يُمْكِنُ إِنْكارُ أَنَّها تَجْرِبَةٌ صَعْبَةٌ.",
+          "antwoorden": [
+            "het valt niet te ontkennen dat het een moeilijke ervaring is",
+            "je kunt niet ontkennen dat het een moeilijke ervaring is"
+          ],
+          "uitleg": "Toegeven."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "spreken",
+          "bron": "هَلْ يُمْكِنُ أَنْ تُعيدَ بِبُطْءٍ؟",
+          "antwoorden": [
+            "kunt u het langzaam herhalen",
+            "kun je het langzaam herhalen"
+          ],
+          "uitleg": "Herhaling."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Welk woord geeft een **tegenstelling**?",
+        "opties": [
+          "غَيْرَ أَنَّ",
+          "مِمّا",
+          "فَـ"
+        ],
+        "juist": 0,
+        "uitleg": "Echter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|نَأْسَفُ لِإِعْلامِكُمْ} kondigt aan ...",
+        "opties": [
+          "slecht nieuws",
+          "goed nieuws",
+          "een vraag"
+        ],
+        "juist": 0,
+        "uitleg": "Helaas."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Hoeveel woorden heeft het betoog ongeveer?",
+        "opties": [
+          "200",
+          "50",
+          "1000"
+        ],
+        "juist": 0,
+        "uitleg": "B1-opdracht."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "{ar|بِعِبارَةٍ بَسيطَةٍ} betekent ...",
+        "opties": [
+          "eenvoudig gezegd",
+          "kortom",
+          "in de eerste plaats"
+        ],
+        "juist": 0,
+        "uitleg": "Omschrijven."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|ولّى} is Fusha ...",
+        "opties": [
+          "أَصْبَحَ",
+          "وَلّى (weggaan)",
+          "وَلَدَ"
+        ],
+        "juist": 0,
+        "uitleg": "Worden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "نَرْجو مِنَ الرُّكّابِ التَّوَجُّهَ إِلى البَوّابَةِ رَقْمَ اثْنَيْ عَشَرَ",
+        "vraag": "Naar welke gate?",
+        "opties": [
+          "12",
+          "2",
+          "20"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اثْنَيْ عَشَرَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "مِنْ جِهَتي، أُفَضِّلُ القِطارَ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Wat mij betreft, heb ik liever de trein.",
+          "De trein is te duur.",
+          "Ik neem nooit de trein."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنْ جِهَتي}"
+      },
+      {
+        "type": "invullen",
+        "tag": "leesvaardigheid",
+        "zin": "يَسْتَهْلِكُ القِطاعُ ___ الجُزْءَ الأَكْبَرَ مِنَ الماءِ.",
+        "nl": "De landbouwsector verbruikt het grootste deel van het water.",
+        "antwoord": [
+          "الفِلاحِيُّ"
+        ],
+        "uitleg": "Tekst L137.",
+        "woordbank": [
+          "الفِلاحِيُّ",
+          "السِّياحِيُّ",
+          "الصِّناعِيُّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "يَدُلُّ ذٰلِكَ ___ نَجاحِ المَشْروعِ.",
+        "nl": "Dat wijst op het succes van het project.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|دَلَّ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "إِلى",
+          "مِنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "___ أَنَّ الطَّقْسَ جَميلٌ في الصّورَةِ.",
+        "nl": "Het lijkt erop dat het weer mooi is op de foto.",
+        "antwoord": [
+          "يَبْدو"
+        ],
+        "uitleg": "{ar|يَبْدو أَنَّ}",
+        "woordbank": [
+          "يَبْدو",
+          "يَعْني",
+          "يَصِفُ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "الرَّيُّ",
+            "nl": "irrigatie"
+          },
+          {
+            "ar": "رُكّابٌ",
+            "nl": "passagiers"
+          },
+          {
+            "ar": "حُجَّةٌ مُضادَّةٌ",
+            "nl": "tegenargument"
+          },
+          {
+            "ar": "في المُقَدِّمَةِ",
+            "nl": "op de voorgrond"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "Kortom, het is een onvergetelijke ervaring.",
+        "woorden": [
+          "خُلاصَةُ",
+          "القَوْلِ،",
+          "إِنَّها",
+          "تَجْرِبَةٌ",
+          "لا",
+          "تُنْسى."
+        ],
+        "uitleg": "Conclusie."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "spreken",
+        "bron": "een goede vraag",
+        "antwoorden": [
+          "سُؤالٌ وَجيهٌ",
+          "سؤال وجيه"
+        ],
+        "uitleg": "{ar|سُؤالٌ وَجيهٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "الماء ثروة مشتركة.",
+        "antwoorden": [
+          "water is een gemeenschappelijke rijkdom",
+          "water is een gedeelde rijkdom"
+        ],
+        "uitleg": "Zonder harakat."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-eindopdracht",
+        "bron": "كبرت ف هولندا",
+        "antwoorden": [
+          "ik ben in nederland opgegroeid"
+        ],
+        "uitleg": "Darija.",
+        "tr": "kbərt f-hūlanda"
+      }
+    ]
+  }
+}

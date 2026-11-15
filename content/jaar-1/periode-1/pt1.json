@@ -1,0 +1,99 @@
+{
+  "id": "j1-p1-pt1",
+  "code": "PT1",
+  "type": "periodetoets",
+  "titel": "Periodetoets 1",
+  "thema": "Alle leerdoelen van periode 1 (les 1 tot en met 12)",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "**Getoetst:** begroeten en afscheid, voorstellen en afkomst (L01–L03).",
+    "**Getoetst:** de nominale zin, geslacht en congruentie, bepaaldheid en zonneletters (L04–L08).",
+    "**Getoetst:** voornaamwoorden enkelvoud en meervoud, aanwijzende voornaamwoorden en vragen (L02, L05, L08).",
+    "**Getoetst:** getallen 0–10, hebben, bezittelijke achtervoegsels en ontkenning met لَيْسَ (L09–L12).",
+    "Geslaagd vanaf 70%. Maak eerst H03 en herhaal je flashcards."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "antwoord-begroeting", "vraag": "Wat antwoord je op {ar|صَباحُ الخَيْرِ}?", "opties": ["صَباحُ النّورِ", "مَساءُ الخَيْرِ", "وَعَلَيْكُمُ السَّلامُ", "عَفْوًا"], "juist": 0, "uitleg": "{ar|صَباحُ النّورِ}" },
+      { "type": "meerkeuze", "tag": "aanspreekvorm", "vraag": "Je vraagt een vrouw hoe het gaat.", "opties": ["كَيْفَ حالُكِ؟", "كَيْفَ حالُكَ؟", "كَيْفَ حالُكُمْ؟"], "juist": 0, "uitleg": "-ki tegen een vrouw." },
+      { "type": "luisteren", "tag": "afscheid", "tekst": "إِلى اللِّقاءِ", "vraag": "Wat hoor je?", "opties": ["tot ziens", "welkom", "dank je", "goedemorgen"], "juist": 0, "uitleg": "{ar|إِلى اللِّقاءِ} = tot ziens." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "beleefdheid", "bron": "dank je", "antwoorden": ["شُكْرًا"], "uitleg": "{ar|شُكْرًا}" },
+
+      { "type": "meerkeuze", "tag": "voorstellen", "vraag": "Hoe vraag je een man naar zijn naam?", "opties": ["ما اسْمُكَ؟", "ما اسْمُكِ؟", "مَنْ هُوَ؟", "مِنْ أَيْنَ أَنْتَ؟"], "juist": 0, "uitleg": "{ar|ما اسْمُكَ؟}" },
+      { "type": "ordenen", "tag": "voorstellen", "nl": "Hallo, ik ben Sara. Aangenaam.", "woorden": ["مَرْحَبًا،", "أَنا", "سارَةُ.", "تَشَرَّفْنا."], "uitleg": "Begroeting, naam, {ar|تَشَرَّفْنا}." },
+      { "type": "meerkeuze", "tag": "afkomst", "vraag": "Welke zin is correct?", "opties": ["أَنا مِنَ المَغْرِبِ.", "أَنا مِنْ المَغْرِبِ.", "أَنا مِنَ هولَنْدا."], "juist": 0, "uitleg": "{ar|مِنَ} alleen voor ال." },
+      { "type": "invullen", "tag": "nisba", "zin": "هِيَ ___.", "nl": "Zij is Marokkaanse.", "woordbank": ["مَغْرِبِيَّةٌ", "مَغْرِبِيٌّ", "المَغْرِبُ"], "antwoord": ["مَغْرِبِيَّةٌ"], "uitleg": "ـِيَّة voor een vrouw." },
+      { "type": "vervoegen", "tag": "nisba", "instructie": "Maak de nationaliteit (zonder tanwīn).",
+        "rijen": [
+          { "label": "Egypte · man", "antwoord": "مِصْرِيّ", "tr": "miṣrī" },
+          { "label": "Nederland · vrouw", "antwoord": "هولَنْدِيَّة", "tr": "hūlandiyya" }
+        ], "uitleg": "ـِيّ / ـِيَّة" },
+
+      { "type": "meerkeuze", "tag": "nominale-zin", "vraag": "Wat betekent {ar|أَنا طَبيبٌ}?", "opties": ["Ik ben arts.", "Ik was arts.", "Mijn arts."], "juist": 0, "uitleg": "Nominale zin zonder *zijn*." },
+      { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Welke betekent 'het huis is groot'?", "opties": ["البَيْتُ كَبيرٌ", "البَيْتُ الكَبيرُ", "بَيْتٌ كَبيرٌ"], "juist": 0, "uitleg": "Bepaald onderwerp + onbepaald gezegde." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "Zij is ingenieur.", "antwoorden": ["هِيَ مُهَنْدِسَةٌ"], "uitleg": "{ar|هِيَ مُهَنْدِسَةٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "السَّيّارَةُ جَديدَةٌ.", "tr": "as-sayyāratu jadīda.", "antwoorden": ["de auto is nieuw"], "uitleg": "Een zin." },
+
+      { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "'Jullie' tegen een groep vrouwen is ...", "opties": ["أَنْتُنَّ", "أَنْتُمْ", "هُنَّ", "أَنْتُما"], "juist": 0, "uitleg": "{ar|أَنْتُنَّ}" },
+      { "type": "vervoegen", "tag": "voornaamwoorden-mv", "instructie": "Vul het voornaamwoord in.",
+        "rijen": [
+          { "label": "wij", "antwoord": "نَحْنُ", "tr": "naḥnu" },
+          { "label": "zij (m mv)", "antwoord": "هُمْ", "tr": "hum" },
+          { "label": "jij (v)", "antwoord": "أَنْتِ", "tr": "anti", "eind": true }
+        ], "uitleg": "{ar|نَحْنُ} · {ar|هُمْ} · {ar|أَنْتِ}" },
+      { "type": "luisteren", "tag": "dualis-herkennen", "tekst": "أَنْتُما", "vraag": "Wat hoor je?", "opties": ["jullie twee", "jullie (v)", "zij twee"], "juist": 0, "uitleg": "Dualis." },
+
+      { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Hoe spreek je {ar|الرَّجُلُ} uit?", "opties": ["ar-rajul", "al-rajul", "a-rajul"], "juist": 0, "uitleg": "ر is een zonneletter." },
+      { "type": "meerkeuze", "tag": "lidwoord", "vraag": "Wat betekent {ar|قَلَمٌ}?", "opties": ["een pen", "de pen", "pennen"], "juist": 0, "uitleg": "Tanwīn = een." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "de zon", "antwoorden": ["الشَّمْسُ"], "uitleg": "{ar|الشَّمْسُ}" },
+
+      { "type": "invullen", "tag": "congruentie", "zin": "البِنْتُ ___", "nl": "het slimme meisje", "woordbank": ["الذَّكِيَّةُ", "ذَكِيَّةٌ", "الذَّكِيُّ"], "antwoord": ["الذَّكِيَّةُ"], "uitleg": "Bepaald en vrouwelijk." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "een aardige buurvrouw", "antwoorden": ["جارَةٌ لَطيفَةٌ"], "uitleg": "{ar|جارَةٌ لَطيفَةٌ}" },
+      { "type": "ordenen", "tag": "congruentie", "nl": "De nieuwe docent is heel aardig.", "woorden": ["الأُسْتاذُ", "الجَديدُ", "لَطيفٌ", "جِدًّا."], "uitleg": "Woordgroep + gezegde + {ar|جِدًّا}." },
+
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Je wijst naar een fiets ({ar|دَرّاجَةٌ}) ver weg: 'Dat is een fiets.'", "opties": ["تِلْكَ دَرّاجَةٌ.", "ذٰلِكَ دَرّاجَةٌ.", "هٰذِهِ دَرّاجَةٌ."], "juist": 0, "uitleg": "Veraf + vrouwelijk." },
+      { "type": "meerkeuze", "tag": "vragen", "vraag": "Wat is een passende vraag bij een onbekend voorwerp?", "opties": ["ما هٰذا؟", "مَنْ هٰذا؟", "كَمْ هٰذا؟"], "juist": 0, "uitleg": "{ar|ما} voor dingen." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vragen", "bron": "هَلْ هٰذا مِفْتاحُكَ؟", "tr": "hal hāḏā miftāḥuka?", "antwoorden": ["is dit jouw sleutel", "is dit je sleutel", "is dat jouw sleutel", "is dat je sleutel"], "uitleg": "{ar|هَلْ} + {ar|مِفْتاحُكَ} (jouw sleutel)." },
+
+      { "type": "luisteren", "tag": "getallen", "tekst": "سَبْعَة، اِثْنان، تِسْعَة", "vraag": "Welk nummer hoor je?", "opties": ["729", "792", "279"], "juist": 0, "uitleg": "7, 2, 9." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ٣٥?", "opties": ["35", "53", "25", "36"], "juist": 0, "uitleg": "٣ = 3, ٥ = 5." },
+      { "type": "vervoegen", "tag": "getallen", "instructie": "Schrijf het getal in het Arabisch.",
+        "rijen": [
+          { "label": "4", "antwoord": "أَرْبَعَة", "tr": "arbaʿa" },
+          { "label": "8", "antwoord": "ثَمانِيَة", "tr": "ṯamāniya" }
+        ], "uitleg": "{ar|أَرْبَعَة} · {ar|ثَمانِيَة}" },
+
+      { "type": "meerkeuze", "tag": "hebben-inda", "vraag": "'Wij hebben een vraag' is ...", "opties": ["عِنْدَنا سُؤالٌ.", "نَحْنُ سُؤالٌ.", "عِنْدَهُمْ سُؤالٌ."], "juist": 0, "uitleg": "{ar|عِنْدَنا}" },
+      { "type": "meerkeuze", "tag": "hebben-keuze", "vraag": "'Heb je je paspoort bij je?' Welk voorzetsel?", "opties": ["مَعَ", "لِـ", "عِنْدَ"], "juist": 0, "uitleg": "Bij je dragen: {ar|مَعَ}." },
+      { "type": "invullen", "tag": "hebben-inda", "zin": "___ صُداعٌ.", "nl": "Hij heeft hoofdpijn.", "woordbank": ["عِنْدَهُ", "عِنْدَها", "لَهُ"], "antwoord": ["عِنْدَهُ"], "uitleg": "{ar|عِنْدَهُ}" },
+
+      { "type": "vervoegen", "tag": "bezit-suffix", "instructie": "Maak bezittelijk.",
+        "rijen": [
+          { "label": "mijn zus", "antwoord": "أُخْتي", "tr": "uḫtī" },
+          { "label": "hun huis", "antwoord": "بَيْتُهُمْ", "tr": "baytuhum" },
+          { "label": "haar familie", "antwoord": "عائِلَتُها", "tr": "ʿāʾilatuhā" }
+        ], "uitleg": "ة → ت in {ar|عائِلَتُها}." },
+      { "type": "luisteren", "tag": "bezit-suffix", "tekst": "جَدَّتُنا", "vraag": "Wat hoor je?", "opties": ["onze oma", "mijn oma", "hun oma"], "juist": 0, "uitleg": "ـنا = ons." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "أَخوها مُعَلِّمٌ.", "tr": "aḫūhā muʿallim.", "antwoorden": ["haar broer is leraar", "haar broer is een leraar"], "uitleg": "{ar|أَخوها} = haar broer." },
+
+      { "type": "meerkeuze", "tag": "laysa", "vraag": "'Ik ben niet' is ...", "opties": ["لَسْتُ", "لَيْسَ", "لَسْنا", "لَسْتَ"], "juist": 0, "uitleg": "{ar|لَسْتُ}" },
+      { "type": "invullen", "tag": "laysa-accusatief", "zin": "هُوَ لَيْسَ ___.", "nl": "Hij is niet bezig.", "woordbank": ["مَشْغولًا", "مَشْغولٌ", "مَشْغولَةً"], "antwoord": ["مَشْغولًا"], "uitleg": "Accusatief, mannelijk." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "laysa-hebben", "bron": "Ik heb geen tijd.", "antwoorden": ["لَيْسَ عِنْدي وَقْتٌ"], "uitleg": "{ar|لَيْسَ عِنْدي وَقْتٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "لَسْنا طُلّابًا.", "tr": "lasnā ṭullāban.", "antwoorden": ["wij zijn geen studenten", "we zijn geen studenten", "wij zijn niet studenten"], "uitleg": "{ar|لَسْنا} + accusatief." },
+      { "type": "ordenen", "tag": "laysa", "nl": "Mijn moeder is niet hier, zij is in Marokko.", "woorden": ["أُمّي", "لَيْسَتْ", "هُنا،", "هِيَ", "في", "المَغْرِبِ."], "uitleg": "{ar|لَيْسَتْ هُنا} + nominale zin met {ar|في} (in)." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَدْرَسَةٌ", "nl": "school" },
+        { "ar": "نافِذَةٌ", "nl": "raam" },
+        { "ar": "حَزينٌ", "nl": "verdrietig" },
+        { "ar": "هَدِيَّةٌ", "nl": "cadeau" },
+        { "ar": "عُطْلَةٌ", "nl": "vakantie" },
+        { "ar": "زَوْجٌ", "nl": "echtgenoot" }
+      ], "uitleg": "Woordenschat uit de hele periode." }
+    ]
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "id": "j2-p8-l86",
+  "code": "L86",
+  "type": "les",
+  "titel": "Onderwijs",
+  "thema": "Scholen, universiteit en examens; alle ontkenningen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de juiste ontkenning kiezen: لا، لَمْ، لَنْ، ما، لَيْسَ، غَيْرُ.",
+    "غَيْرُ gebruiken om een naamwoord te ontkennen.",
+    "over het onderwijssysteem praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l86-w01",
+      "ar": "نِظامٌ تَعْليمِيٌّ",
+      "tr": "niẓāmun taʿlīmiyy",
+      "nl": [
+        "onderwijssysteem"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l86-w02",
+      "ar": "إِلْزامِيٌّ",
+      "tr": "ilzāmiyy",
+      "nl": [
+        "verplicht"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w03",
+      "ar": "مَجّانِيٌّ",
+      "tr": "majjāniyy",
+      "nl": [
+        "gratis"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w04",
+      "ar": "رُسوبٌ",
+      "tr": "rusūb",
+      "nl": [
+        "zakken (voor een examen)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|رَسَبَ} = zakken."
+    },
+    {
+      "id": "j2-p8-l86-w05",
+      "ar": "غِيابٌ",
+      "tr": "ġiyāb",
+      "nl": [
+        "afwezigheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w06",
+      "ar": "غَيْرُ",
+      "tr": "ġayru",
+      "nl": [
+        "niet-, on-"
+      ],
+      "soort": "partikel",
+      "notitie": "{ar|غَيْرُ مُمْكِنٍ} = onmogelijk."
+    },
+    {
+      "id": "j2-p8-l86-w07",
+      "ar": "شَهادَةُ البَكالوريا",
+      "tr": "šahādatu l-bakālūriyā",
+      "nl": [
+        "eindexamendiploma (bac)"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l86-w08",
+      "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+      "tr": "minḥatun dirāsiyya",
+      "nl": [
+        "studiebeurs"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l86-w09",
+      "ar": "تَخَصُّصٌ جامِعِيٌّ",
+      "tr": "taḫaṣṣuṣun jāmiʿiyy",
+      "nl": [
+        "studierichting"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l86-w10",
+      "ar": "مُحاضَرَةٌ",
+      "tr": "muḥāḍara",
+      "nl": [
+        "college, lezing"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w11",
+      "ar": "أُسْتاذٌ جامِعِيٌّ",
+      "tr": "ustāḏun jāmiʿiyy",
+      "nl": [
+        "hoogleraar"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l86-w12",
+      "ar": "مُتَفَوِّقٌ",
+      "tr": "mutafawwiq",
+      "nl": [
+        "uitblinkend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w13",
+      "ar": "ضَعيفٌ في",
+      "tr": "ḍaʿīfun fī",
+      "nl": [
+        "zwak in"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w16",
+      "ar": "تَسَرُّبٌ مَدْرَسِيٌّ",
+      "tr": "tasarrubun madrasiyy",
+      "nl": [
+        "voortijdig schoolverlaten"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l86-w17",
+      "ar": "دَبْلومٌ",
+      "tr": "diblūm",
+      "nl": [
+        "diploma (vakopleiding)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l86-w18",
+      "ar": "سَنَةٌ دِراسِيَّةٌ",
+      "tr": "sanatun dirāsiyya",
+      "nl": [
+        "schooljaar"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Alle ontkenningen op een rij",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Ontkenning",
+            "Wanneer",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "لا + muḍāriʿ",
+              "heden / algemeen",
+              "لا أَفْهَمُ"
+            ],
+            [
+              "لا + majzūm",
+              "verbod",
+              "لا تَتَأَخَّرْ"
+            ],
+            [
+              "لَمْ + majzūm",
+              "verleden (formeel)",
+              "لَمْ أَفْهَمْ"
+            ],
+            [
+              "ما + māḍī",
+              "verleden (minder formeel)",
+              "ما فَهِمْتُ"
+            ],
+            [
+              "لَنْ + manṣūb",
+              "toekomst",
+              "لَنْ أَفْهَمَ"
+            ],
+            [
+              "لَيْسَ + accusatief",
+              "zin zonder werkwoord",
+              "لَيْسَ صَعْبًا"
+            ],
+            [
+              "غَيْرُ + genitief",
+              "on-, niet- (bij naamwoord)",
+              "غَيْرُ صَعْبٍ"
+            ],
+            [
+              "لا + naamwoord (accusatief, zonder tanwīn)",
+              "er is geen enkel …",
+              "لا شَكَّ"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zoveel? Elke ontkenning past bij een ander soort zin of tijd. De keuze hangt af van **twee vragen**: is er een werkwoord? En zo ja, welke tijd? Zonder werkwoord: {ar|لَيْسَ} of {ar|غَيْرُ}. Met werkwoord: {ar|لا} (heden), {ar|لَمْ}/{ar|ما} (verleden), {ar|لَنْ} (toekomst)."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|غَيْرُ} staat altijd in een **iḍāfa**: {ar|غَيْرُ مُمْكِنٍ} (onmogelijk), {ar|طالِبٌ غَيْرُ مُجْتَهِدٍ} (een niet-ijverige student). {ar|غَيْرُ} zelf krijgt de naamval van het woord dat het vervangt."
+        }
+      ]
+    },
+    {
+      "titel": "Onderwijs",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "التَّعْليمُ إِلْزامِيٌّ حَتّى سِنِّ السّادِسَةَ عَشْرَةَ.",
+              "tr": "at-taʿlīmu ilzāmiyyun ḥattā sinni s-sādisata ʿašrata.",
+              "nl": "Onderwijs is verplicht tot zestien jaar.",
+              "review": {
+                "status": "onzeker",
+                "note": "Feitelijk per land controleren."
+              }
+            },
+            {
+              "ar": "لَمْ يَحْضُرِ المُحاضَرَةَ لِأَنَّهُ كانَ مَريضًا.",
+              "tr": "lam yaḥḍuri l-muḥāḍarata li-annahu kāna marīḍan.",
+              "nl": "Hij was niet bij het college omdat hij ziek was."
+            },
+            {
+              "ar": "لَنْ أَرْسُبَ هٰذِهِ المَرَّةَ!",
+              "tr": "lan arsuba hāḏihi l-marra!",
+              "nl": "Deze keer zak ik niet!"
+            },
+            {
+              "ar": "الاِمْتِحانُ لَيْسَ صَعْبًا، لٰكِنَّهُ طَويلٌ.",
+              "tr": "al-imtiḥānu laysa ṣaʿban, lākinnahu ṭawīl.",
+              "nl": "Het examen is niet moeilijk, maar wel lang."
+            },
+            {
+              "ar": "هٰذا الجَوابُ غَيْرُ صَحيحٍ.",
+              "tr": "hāḏa l-jawābu ġayru ṣaḥīḥ.",
+              "nl": "Dit antwoord is onjuist."
+            },
+            {
+              "ar": "لا شَكَّ أَنَّ التَّعْليمَ مُهِمٌّ.",
+              "tr": "lā šakka anna t-taʿlīma muhimm.",
+              "nl": "Er is geen twijfel dat onderwijs belangrijk is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "إِلْزامِيٌّ",
+              "nl": "verplicht",
+              "woord": "j2-p8-l86-w02"
+            },
+            {
+              "ar": "رُسوبٌ",
+              "nl": "zakken",
+              "woord": "j2-p8-l86-w04"
+            },
+            {
+              "ar": "غِيابٌ",
+              "nl": "afwezigheid",
+              "woord": "j2-p8-l86-w05"
+            },
+            {
+              "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+              "nl": "studiebeurs",
+              "woord": "j2-p8-l86-w08"
+            },
+            {
+              "ar": "مُحاضَرَةٌ",
+              "nl": "college",
+              "woord": "j2-p8-l86-w10"
+            },
+            {
+              "ar": "حِصَّةٌ",
+              "nl": "lesuur"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "ontkenning-totaal",
+          "tekst": "لَنْ أَرْسُبَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik zal niet zakken.",
+            "Ik ben niet gezakt.",
+            "Ik zak niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَنْ} = toekomst."
+        }
+      ]
+    },
+    {
+      "titel": "Ontkennen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "ontkenning-totaal",
+          "zin": "___ يَحْضُرْ أَمْسِ.",
+          "nl": "Hij kwam gisteren niet.",
+          "antwoord": [
+            "لَمْ"
+          ],
+          "uitleg": "Verleden: {ar|لَمْ} + majzūm.",
+          "woordbank": [
+            "لَمْ",
+            "لَنْ",
+            "لا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "ontkenning-totaal",
+          "zin": "هٰذا الحَلُّ ___ مُمْكِنٍ.",
+          "nl": "Deze oplossing is onmogelijk.",
+          "antwoord": [
+            "غَيْرُ"
+          ],
+          "uitleg": "{ar|غَيْرُ} + genitief.",
+          "woordbank": [
+            "غَيْرُ",
+            "لَيْسَ",
+            "لا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "ontkenning-totaal",
+          "zin": "الدَّرْسُ ___ صَعْبًا.",
+          "nl": "De les is niet moeilijk.",
+          "antwoord": [
+            "لَيْسَ"
+          ],
+          "uitleg": "Zonder werkwoord + accusatief.",
+          "woordbank": [
+            "لَيْسَ",
+            "غَيْرُ",
+            "لَمْ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ontkenning-totaal",
+          "vraag": "'Ik zal niet komen' is ...",
+          "opties": [
+            "لَنْ آتِيَ",
+            "لَمْ آتِ",
+            "لا أَتَيْتُ"
+          ],
+          "juist": 0,
+          "uitleg": "Toekomst → {ar|لَنْ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ontkenning-totaal",
+          "vraag": "Wat betekent {ar|لا شَكَّ}?",
+          "opties": [
+            "zonder twijfel",
+            "geen probleem",
+            "niet nu"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لا} + naamwoord zonder tanwīn."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "ontkenning-totaal",
+          "nl": "Het examen is niet moeilijk, maar wel lang.",
+          "woorden": [
+            "الاِمْتِحانُ",
+            "لَيْسَ",
+            "صَعْبًا،",
+            "لٰكِنَّهُ",
+            "طَويلٌ."
+          ],
+          "uitleg": "{ar|لَيْسَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "ontkenning-totaal",
+          "bron": "onjuist (niet juist)",
+          "antwoorden": [
+            "غَيْرُ صَحيحٍ"
+          ],
+          "uitleg": "{ar|غَيْرُ} + genitief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "ontkenning-totaal",
+          "bron": "لَمْ يَحْصُلْ عَلى المِنْحَةِ.",
+          "antwoorden": [
+            "hij heeft de beurs niet gekregen",
+            "hij kreeg de beurs niet",
+            "hij heeft de studiebeurs niet gekregen"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "نِظامٌ تَعْليمِيٌّ",
+            "nl": "onderwijssysteem"
+          },
+          {
+            "ar": "مَجّانِيٌّ",
+            "nl": "gratis"
+          },
+          {
+            "ar": "مُتَفَوِّقٌ",
+            "nl": "uitblinkend"
+          },
+          {
+            "ar": "واجِباتٌ",
+            "nl": "huiswerk"
+          },
+          {
+            "ar": "أُسْتاذٌ جامِعِيٌّ",
+            "nl": "hoogleraar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "Welke ontkenning past bij de toekomst?",
+        "opties": [
+          "لَنْ",
+          "لَمْ",
+          "لَيْسَ"
+        ],
+        "juist": 0,
+        "uitleg": "+ manṣūb."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "Welke ontkenning past bij een zin zonder werkwoord?",
+        "opties": [
+          "لَيْسَ",
+          "لَمْ",
+          "لَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "+ accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "'Een niet-ijverige student' is ...",
+        "opties": [
+          "طالِبٌ غَيْرُ مُجْتَهِدٍ",
+          "طالِبٌ لَيْسَ مُجْتَهِدٌ",
+          "طالِبٌ لا مُجْتَهِدٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غَيْرُ} + genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "'Kom niet te laat!' is ...",
+        "opties": [
+          "لا تَتَأَخَّرْ!",
+          "لَنْ تَتَأَخَّرَ!",
+          "لَمْ تَتَأَخَّرْ!"
+        ],
+        "juist": 0,
+        "uitleg": "Verbod: {ar|لا} + majzūm."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ontkenning-totaal",
+        "tekst": "لَمْ أَفْهَمِ السُّؤالَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb de vraag niet begrepen.",
+          "Ik begrijp de vraag.",
+          "Ik zal de vraag niet begrijpen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "التَّعْليمُ مَجّانِيٌّ في هٰذا البَلَدِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Onderwijs is gratis in dit land.",
+          "Onderwijs is duur in dit land.",
+          "Onderwijs is verplicht."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَجّانِيٌّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-totaal",
+        "zin": "___ أَعْرِفُ الجَوابَ.",
+        "nl": "Ik weet het antwoord niet.",
+        "antwoord": [
+          "لا"
+        ],
+        "uitleg": "Heden → {ar|لا}.",
+        "woordbank": [
+          "لا",
+          "لَمْ",
+          "لَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-totaal",
+        "zin": "هٰذا ___ مَقْبولٍ.",
+        "nl": "Dit is onaanvaardbaar.",
+        "antwoord": [
+          "غَيْرُ"
+        ],
+        "uitleg": "{ar|غَيْرُ} + genitief.",
+        "woordbank": [
+          "غَيْرُ",
+          "لَيْسَ",
+          "ما"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-totaal",
+        "zin": "___ نُسافِرَ هٰذا الصَّيْفَ.",
+        "nl": "We gaan deze zomer niet reizen.",
+        "antwoord": [
+          "لَنْ"
+        ],
+        "uitleg": "Toekomst.",
+        "woordbank": [
+          "لَنْ",
+          "لَمْ",
+          "لا"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "ontkenning-totaal",
+        "instructie": "Ontken met het juiste partikel.",
+        "rijen": [
+          {
+            "label": "fahima (verleden, formeel)",
+            "antwoord": "لَمْ يَفْهَمْ",
+            "tr": "lam yafham"
+          },
+          {
+            "label": "yafhamu (toekomst)",
+            "antwoord": "لَنْ يَفْهَمَ",
+            "tr": "lan yafhama"
+          }
+        ],
+        "uitleg": "Majzūm · manṣūb."
+      },
+      {
+        "type": "ordenen",
+        "tag": "ontkenning-totaal",
+        "nl": "Hij was niet bij het college omdat hij ziek was.",
+        "woorden": [
+          "لَمْ",
+          "يَحْضُرِ",
+          "المُحاضَرَةَ",
+          "لِأَنَّهُ",
+          "كانَ",
+          "مَريضًا."
+        ],
+        "uitleg": "{ar|لَمْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ontkenning-totaal",
+        "bron": "Hij is geen leraar.",
+        "antwoorden": [
+          "لَيْسَ مُعَلِّمًا",
+          "هُوَ لَيْسَ مُعَلِّمًا"
+        ],
+        "uitleg": "{ar|لَيْسَ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ontkenning-totaal",
+        "bron": "لا شَكَّ أَنَّهُ ذَكِيٌّ.",
+        "antwoorden": [
+          "er is geen twijfel dat hij slim is",
+          "ongetwijfeld is hij slim",
+          "zonder twijfel is hij slim"
+        ],
+        "uitleg": "{ar|لا شَكَّ}"
+      }
+    ]
+  }
+}

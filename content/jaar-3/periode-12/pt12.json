@@ -1,0 +1,570 @@
+{
+  "id": "j3-p12-pt12",
+  "code": "PT12",
+  "type": "periodetoets",
+  "titel": "Periodetoets 12",
+  "thema": "Alle leerdoelen van periode 12 (les 133 tot en met 144, D28–D30)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** advies, voorwaarden, nuanceren, verteltijden (L133–L136).",
+    "**Getoetst:** lees-, luister-, schrijf- en spreekstrategieën (L137–L140).",
+    "**Getoetst:** examentraining: instructies, toon, veelgemaakte fouten, spreekformules (L141–L144).",
+    "**Getoetst:** Darija: vakantie, eindopdracht, A2-afsluiting (D28–D30).",
+    "Geslaagd vanaf 70%. Maak eerst H36."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "{ar|يُنْصَحُ بِزِيارَةِ المُتْحَفِ} betekent ...",
+        "opties": [
+          "Het is aan te raden het museum te bezoeken.",
+          "Het museum is gesloten.",
+          "Bezoek het museum niet."
+        ],
+        "juist": 0,
+        "uitleg": "Advies."
+      },
+      {
+        "type": "invullen",
+        "tag": "reisadvies",
+        "zin": "مِنَ الأَفْضَلِ أَنْ ___ مُبَكِّرًا.",
+        "nl": "Je kunt beter vroeg boeken.",
+        "antwoord": [
+          "تَحْجِزَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تَحْجِزَ",
+          "تَحْجِزُ",
+          "حَجَزْتَ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "{ar|لا بُدَّ مِنْ} is ...",
+        "opties": [
+          "sterker dan يُنْصَحُ بِـ",
+          "zwakker dan يُمْكِنُ",
+          "een vraag"
+        ],
+        "juist": 0,
+        "uitleg": "Verplichting."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "'Op voorwaarde dat je betaalt' is ...",
+        "opties": [
+          "بِشَرْطِ أَنْ تَدْفَعَ",
+          "ما دُمْتَ دَفَعْتَ",
+          "لِأَنَّكَ تَدْفَعُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِشَرْطِ أَنْ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "voorwaarde-contract",
+        "zin": "ما ___ هُنا، تَحْتاجُ إِلى تَصْريحٍ.",
+        "nl": "Zolang je (m) hier bent, heb je een vergunning nodig.",
+        "antwoord": [
+          "دُمْتَ"
+        ],
+        "uitleg": "{ar|ما دامَ}",
+        "woordbank": [
+          "دُمْتَ",
+          "دامَ",
+          "دُمْنا"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "{ar|يُشْتَرَطُ} betekent ...",
+        "opties": [
+          "het is een vereiste",
+          "het is verboden",
+          "het is aan te raden"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend VIII."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nuanceren",
+        "vraag": "{ar|سَواءٌ أَكانَ … أَمْ …} betekent ...",
+        "opties": [
+          "of het nu … of …",
+          "niet alleen … maar ook",
+          "noch … noch"
+        ],
+        "juist": 0,
+        "uitleg": "Beide."
+      },
+      {
+        "type": "invullen",
+        "tag": "nuanceren",
+        "zin": "لا الأَبُ ___ الأُمُّ وافَقا.",
+        "nl": "Noch de vader noch de moeder ging akkoord.",
+        "antwoord": [
+          "وَلا"
+        ],
+        "uitleg": "{ar|لا … وَلا}",
+        "woordbank": [
+          "وَلا",
+          "أَمْ",
+          "بَلْ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "'Ik opende de deur en opeens: een kat' is ...",
+        "opties": [
+          "فَتَحْتُ البابَ فَإِذا بِقِطَّةٍ",
+          "فَتَحْتُ البابَ لِأَنَّ قِطَّةً",
+          "فَتَحْتُ البابَ إِذا قِطَّةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَإِذا بِـ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "verteltijden",
+        "zin": "لَمْ ___ أَصِلُ حَتّى بَدَأَ المَطَرُ.",
+        "nl": "Ik was nauwelijks aangekomen of het begon te regenen.",
+        "antwoord": [
+          "أَكَدْ"
+        ],
+        "uitleg": "{ar|لَمْ يَكَدْ}.",
+        "woordbank": [
+          "أَكَدْ",
+          "أَكادُ",
+          "كِدْتُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "verteltijden",
+        "instructie": "Kies de juiste verteltijd.",
+        "rijen": [
+          {
+            "label": "zij (mv, m) woonden (toen)",
+            "antwoord": "كانوا يَسْكُنونَ",
+            "tr": "kānū yaskunūna"
+          },
+          {
+            "label": "zij (mv, m) hadden gewoond",
+            "antwoord": "كانوا قَدْ سَكَنوا",
+            "tr": "kānū qad sakanū"
+          }
+        ],
+        "uitleg": "Verteltijden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Wat doe je eerst bij een lange tekst?",
+        "opties": [
+          "kernzinnen en de eerste en laatste zin lezen",
+          "alle woorden opzoeken",
+          "de getallen tellen"
+        ],
+        "juist": 0,
+        "uitleg": "Oriënteren."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Welk woord geeft een wending?",
+        "opties": [
+          "غَيْرَ أَنَّ",
+          "لِذٰلِكَ",
+          "ثُمَّ"
+        ],
+        "juist": 0,
+        "uitleg": "Echter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|نَرْجو مِنَ السّادَةِ الرُّكّابِ …} hoor je ...",
+        "opties": [
+          "in een omroep",
+          "in een liefdesbrief",
+          "in een recept"
+        ],
+        "juist": 0,
+        "uitleg": "Omroep."
+      },
+      {
+        "type": "invullen",
+        "tag": "luistervaardigheid",
+        "zin": "___ الرِّحْلَةُ بِسَبَبِ الضَّبابِ.",
+        "nl": "De vlucht werd geannuleerd vanwege de mist.",
+        "antwoord": [
+          "أُلْغِيَتِ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "أُلْغِيَتِ",
+          "أَلْغَتِ",
+          "تُلْغي"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Hoeveel alinea's heeft het bouwplan van het betoog?",
+        "opties": [
+          "vijf",
+          "drie",
+          "zeven"
+        ],
+        "juist": 0,
+        "uitleg": "Bouwplan."
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "لا يُمْكِنُ ___ أَنَّ المَشْروعَ مُكْلِفٌ.",
+        "nl": "Het valt niet te ontkennen dat het project duur is.",
+        "antwoord": [
+          "إِنْكارُ"
+        ],
+        "uitleg": "Maṣdar.",
+        "woordbank": [
+          "إِنْكارُ",
+          "أَنْكَرَ",
+          "يُنْكِرُ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "Je verstaat de vraag niet. Je zegt ...",
+        "opties": [
+          "هَلْ يُمْكِنُ أَنْ تُعيدَ؟",
+          "خُلاصَةُ القَوْلِ",
+          "مِنْ جِهَتي"
+        ],
+        "juist": 0,
+        "uitleg": "Herhaling."
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "في ___ أَرى بَحْرًا.",
+        "nl": "Op de achtergrond zie ik een zee.",
+        "antwoord": [
+          "الخَلْفِيَّةِ"
+        ],
+        "uitleg": "Foto.",
+        "woordbank": [
+          "الخَلْفِيَّةِ",
+          "المُقَدِّمَةِ",
+          "الخاتِمَةِ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Welke schrijfwijze is juist?",
+        "opties": [
+          "مَسْؤولِيَّةٌ",
+          "مَسْأولِيَّةٌ",
+          "مسؤوليه"
+        ],
+        "juist": 0,
+        "uitleg": "Hamza en ة."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "{ar|ما ضِدُّ كَلِمَةِ «سَهْلٌ»؟} vraagt naar ...",
+        "opties": [
+          "het tegenovergestelde",
+          "een synoniem",
+          "de wortel"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضِدٌّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "{ar|مُنْزَعِجٌ} beschrijft een toon die ...",
+        "opties": [
+          "geïrriteerd is",
+          "optimistisch is",
+          "neutraal is"
+        ],
+        "juist": 0,
+        "uitleg": "Toon."
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "المُعَلِّمونَ ___ إِلى الاِجْتِماعِ.",
+        "nl": "De leraren gingen naar de vergadering.",
+        "antwoord": [
+          "ذَهَبوا"
+        ],
+        "uitleg": "Alif na {ar|ـوا}.",
+        "woordbank": [
+          "ذَهَبوا",
+          "ذَهَبو",
+          "ذَهَبَتْ"
+        ]
+      },
+      {
+        "type": "luisteren",
+        "tag": "reisadvies",
+        "tekst": "إِذا زُرْتَ الأُرْدُنَّ فَلا تَنْسَ البَتْراءَ",
+        "vraag": "Wat is het advies?",
+        "opties": [
+          "Petra niet vergeten als je naar Jordanië gaat",
+          "niet naar Jordanië gaan",
+          "Petra overslaan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا … فَـ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "voorwaarde-contract",
+        "tekst": "يُشْتَرَطُ إِتْقانُ الإِنْجْليزِيَّةِ",
+        "vraag": "Wat is vereist?",
+        "opties": [
+          "goed Engels",
+          "goed Frans",
+          "een rijbewijs"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُشْتَرَطُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "nuanceren",
+        "tekst": "لَيْسَ رَخيصًا فَقَطْ، بَلْ جَيِّدٌ أَيْضًا",
+        "vraag": "Wat zegt de spreker over het product?",
+        "opties": [
+          "goedkoop én goed",
+          "goedkoop maar slecht",
+          "duur en goed"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "verteltijden",
+        "tekst": "كانَتْ جَدَّتي قَدْ كَتَبَتِ الرِّسالَةَ قَبْلَ سَنَواتٍ",
+        "vraag": "Wanneer werd de brief geschreven?",
+        "opties": [
+          "jaren eerder",
+          "gisteren",
+          "volgend jaar"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَ قَدْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "سَنَلْتَقي يَوْمَ السَّبْتِ بَدَلًا مِنَ الجُمُعَةِ",
+        "vraag": "Wanneer spreken ze af?",
+        "opties": [
+          "zaterdag",
+          "vrijdag",
+          "zondag"
+        ],
+        "juist": 0,
+        "uitleg": "Het nieuwe gegeven."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَعالِمُ سِياحِيَّةٌ",
+            "nl": "bezienswaardigheden"
+          },
+          {
+            "ar": "تَصْريحُ إِقامَةٍ",
+            "nl": "verblijfsvergunning"
+          },
+          {
+            "ar": "قَضِيَّةٌ",
+            "nl": "kwestie"
+          },
+          {
+            "ar": "سِرٌّ",
+            "nl": "geheim"
+          },
+          {
+            "ar": "الرَّيُّ",
+            "nl": "irrigatie"
+          }
+        ],
+        "uitleg": "Woordenschat periode 12."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رُكّابٌ",
+            "nl": "passagiers"
+          },
+          {
+            "ar": "حُجَّةٌ مُضادَّةٌ",
+            "nl": "tegenargument"
+          },
+          {
+            "ar": "طَلاقَةٌ",
+            "nl": "vloeiendheid"
+          },
+          {
+            "ar": "مُرادِفٌ",
+            "nl": "synoniem"
+          },
+          {
+            "ar": "نَبْرَةٌ",
+            "nl": "toon"
+          }
+        ],
+        "uitleg": "Woordenschat periode 12."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|مُغْتَرِبٌ} is ...",
+        "opties": [
+          "iemand die in het buitenland woont",
+          "een toerist",
+          "een gids"
+        ],
+        "juist": 0,
+        "uitleg": "Expat."
+      },
+      {
+        "type": "ordenen",
+        "tag": "verteltijden",
+        "nl": "Op dat moment begreep ik het geheim.",
+        "woorden": [
+          "في",
+          "تِلْكَ",
+          "اللَّحْظَةِ",
+          "فَهِمْتُ",
+          "السِّرَّ."
+        ],
+        "uitleg": "Verhaal."
+      },
+      {
+        "type": "ordenen",
+        "tag": "spreken",
+        "nl": "Wat mij betreft is de zee het mooiste.",
+        "woorden": [
+          "بِالنِّسْبَةِ",
+          "إِلَيَّ،",
+          "أَجْمَلُ",
+          "شَيْءٍ",
+          "البَحْرُ."
+        ],
+        "uitleg": "Mening."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-vakantie",
+        "vraag": "Darija {ar|الشط} is ...",
+        "opties": [
+          "het strand",
+          "de hitte",
+          "het dorp"
+        ],
+        "juist": 0,
+        "uitleg": "Vakantie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-eindopdracht",
+        "vraag": "Darija {ar|تزاديت ف} betekent ...",
+        "opties": [
+          "ik ben geboren in",
+          "ik ben getrouwd in",
+          "ik ben opgegroeid in"
+        ],
+        "juist": 0,
+        "uitleg": "Herkomst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-afsluiting",
+        "vraag": "Darija {ar|حتى حاجة} betekent ...",
+        "opties": [
+          "helemaal niets",
+          "alles",
+          "iets"
+        ],
+        "juist": 0,
+        "uitleg": "Ontkenning."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "reisadvies",
+        "bron": "het is aan te raden",
+        "antwoorden": [
+          "يُنْصَحُ",
+          "ينصح"
+        ],
+        "uitleg": "{ar|يُنْصَحُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "examen",
+        "bron": "het tegenovergestelde",
+        "antwoorden": [
+          "الضِّدُّ",
+          "الضد",
+          "ضِدٌّ"
+        ],
+        "uitleg": "{ar|ضِدٌّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "voorwaarde-contract",
+        "bron": "فَتْرَةُ التَّجْرِبَةِ ثَلاثَةُ أَشْهُرٍ.",
+        "antwoorden": [
+          "de proeftijd is drie maanden",
+          "de proefperiode duurt drie maanden"
+        ],
+        "uitleg": "Contract."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "الماء ثروة مشتركة.",
+        "antwoorden": [
+          "water is een gemeenschappelijke rijkdom",
+          "water is een gedeelde rijkdom"
+        ],
+        "uitleg": "Zonder harakat."
+      }
+    ]
+  }
+}

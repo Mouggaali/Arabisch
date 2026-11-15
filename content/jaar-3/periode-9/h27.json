@@ -1,0 +1,448 @@
+{
+  "id": "j3-p9-h27",
+  "code": "H27",
+  "type": "herhaling",
+  "titel": "Herhaling periode 9",
+  "thema": "Complexe zinnen: alles van periode 9",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de lijdende vorm, voorwaarden en bijzinnen combineren.",
+    "mafʿūl muṭlaq, li-ajlihi en ḥāl-zinnen herkennen.",
+    "een tekst zonder harakat lezen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 9 (les 97–108 en D19–D21) voordat je de periodetoets maakt.",
+  "grammatica": [
+    {
+      "titel": "Periode 9 in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "lijdende vorm",
+              "u–i / yu–a; تَمَّ + maṣdar",
+              "كُتِبَ · يُقالُ"
+            ],
+            [
+              "voorwaarde",
+              "إِذا / إِنْ / لَوْ",
+              "لَوْ دَرَسْتَ لَنَجَحْتَ"
+            ],
+            [
+              "bijzinnen",
+              "tijd, oorzaak, doel, toegeving",
+              "كُلَّما · بِسَبَبِ · لِكَيْ · رَغْمَ"
+            ],
+            [
+              "indirecte rede",
+              "قالَ إِنَّ / سَأَلَ إِنْ",
+              "قالَ إِنَّهُ مَريضٌ"
+            ],
+            [
+              "mafʿūl muṭlaq / li-ajlihi",
+              "maṣdar in de accusatief",
+              "نَجَحَ نَجاحًا · خَوْفًا مِنْ"
+            ],
+            [
+              "ḥāl-zin",
+              "وَهُوَ / وَقَدْ / muḍāriʿ",
+              "دَخَلَ وَهُوَ يَبْتَسِمُ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Periode 9 heeft je de middelen voor **complexe zinnen** gegeven. Lees elke ingewikkelde zin door eerst het hoofdwerkwoord te zoeken en daarna de bijzinnen eraan te hangen."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "mafool-mutlaq",
+          "vraag": "Wat is {ar|فَرَحًا} in {ar|فَرِحَ فَرَحًا كَبيرًا}?",
+          "opties": [
+            "mafʿūl muṭlaq",
+            "ḥāl",
+            "tamyīz"
+          ],
+          "juist": 0,
+          "uitleg": "Zelfde wortel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hal-zin",
+          "vraag": "'Hij kwam rennend' is ...",
+          "opties": [
+            "جاءَ يَرْكُضُ",
+            "جاءَ وَرَكَضَ",
+            "جاءَ لِيَرْكُضَ"
+          ],
+          "juist": 0,
+          "uitleg": "Muḍāriʿ-ḥāl."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hoe lees je {ar|كتبت الرسالة} als 'de brief werd geschreven'?",
+          "opties": [
+            "كُتِبَتِ الرِّسالَةُ",
+            "كَتَبَتِ الرِّسالَةَ",
+            "كَتَبْتُ الرِّسالَةَ"
+          ],
+          "juist": 0,
+          "uitleg": "Context + klinkers."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "جائِزَةٌ",
+              "nl": "prijs",
+              "woord": "j3-p9-l105-w03"
+            },
+            {
+              "ar": "غَريبٌ",
+              "nl": "vreemdeling",
+              "woord": "j3-p9-l106-w15"
+            },
+            {
+              "ar": "فَأْرٌ",
+              "nl": "muis",
+              "woord": "j3-p9-l107-w01"
+            },
+            {
+              "ar": "مُقْنِعٌ",
+              "nl": "overtuigend",
+              "woord": "j3-p9-l108-w13"
+            },
+            {
+              "ar": "الخلصة",
+              "nl": "salaris (Darija)",
+              "woord": "j3-p9-d21-w03"
+            },
+            {
+              "ar": "رُبَّما",
+              "nl": "misschien"
+            }
+          ],
+          "uitleg": "Woorden uit blok 9C."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "mafool-mutlaq",
+          "zin": "سافَرَ ___ في المُغامَرَةِ.",
+          "nl": "Hij reisde uit liefde voor avontuur.",
+          "antwoord": [
+            "حُبًّا"
+          ],
+          "uitleg": "Mafʿūl li-ajlihi.",
+          "woordbank": [
+            "حُبًّا",
+            "حُبٌّ",
+            "يُحِبُّ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "hal-zin",
+          "zin": "رَجَعَتْ ___ مُتْعَبَةٌ.",
+          "nl": "Ze kwam moe terug.",
+          "antwoord": [
+            "وَهِيَ"
+          ],
+          "uitleg": "ḥāl-zin.",
+          "woordbank": [
+            "وَهِيَ",
+            "وَهُوَ",
+            "لِأَنَّها"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "discussie",
+          "nl": "Ik ben het helemaal met je eens.",
+          "woorden": [
+            "أَتَّفِقُ",
+            "مَعَكَ",
+            "تَمامًا."
+          ],
+          "uitleg": "Discussie."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-werk",
+          "tekst": "كيخصك الوراق",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Je hebt de papieren nodig.",
+            "De papieren zijn klaar.",
+            "Teken de papieren."
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "discussie",
+          "bron": "met andere woorden",
+          "antwoorden": [
+            "بِعِبارَةٍ أُخْرى"
+          ],
+          "uitleg": "Herformuleren."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "mafool-mutlaq",
+          "bron": "نَجَحَتْ نَجاحًا باهِرًا.",
+          "antwoorden": [
+            "ze slaagde met schitterend succes",
+            "ze had een enorm succes",
+            "ze slaagde glansrijk"
+          ],
+          "uitleg": "Mafʿūl muṭlaq."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hal-zin",
+          "bron": "دَخَلَ وَقَدْ تَغَيَّرَ كَثيرًا.",
+          "antwoorden": [
+            "hij kwam binnen inmiddels erg veranderd",
+            "hij kwam binnen en was erg veranderd"
+          ],
+          "uitleg": "{ar|وَقَدْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Het museum werd gesticht' is ...",
+        "opties": [
+          "أُسِّسَ المُتْحَفُ",
+          "أَسَّسَ المُتْحَفَ",
+          "يُؤَسِّسُ المُتْحَفُ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend II."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "'Als ik het had geweten, was ik gekomen' is ...",
+        "opties": [
+          "لَوْ عَرَفْتُ لَجِئْتُ",
+          "إِذا عَرَفْتُ جِئْتُ",
+          "إِنْ أَعْرِفْ أَجِئْ"
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "{ar|كُلَّما} betekent ...",
+        "opties": [
+          "telkens wanneer",
+          "nadat",
+          "sinds"
+        ],
+        "juist": 0,
+        "uitleg": "Herhaling."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mafool-mutlaq",
+        "vraag": "Welk woord geeft een reden?",
+        "opties": [
+          "خَوْفًا",
+          "سَريعًا",
+          "يَوْمِيًّا"
+        ],
+        "juist": 0,
+        "uitleg": "Mafʿūl li-ajlihi."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "Wat is de functie van {ar|وَ} in {ar|خَرَجَ وَهُوَ يَضْحَكُ}?",
+        "opties": [
+          "ḥāl (terwijl)",
+          "en",
+          "eed"
+        ],
+        "juist": 0,
+        "uitleg": "Wāw al-ḥāl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "indirecte-rede",
+        "tekst": "قالَ المُديرُ إِنَّ الاِجْتِماعَ مُؤَجَّلٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De directeur zei dat de vergadering uitgesteld is.",
+          "De directeur stelde de vergadering uit.",
+          "De vergadering gaat door."
+        ],
+        "juist": 0,
+        "uitleg": "Indirect."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal-zin",
+        "tekst": "جَلَسَ العَجوزُ صامِتًا",
+        "vraag": "Hoe zat de oude man?",
+        "opties": [
+          "zwijgend",
+          "lachend",
+          "huilend"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-doel",
+        "zin": "تَأَخَّرْنا ___ الزَّحْمَةِ.",
+        "nl": "We waren te laat door de drukte.",
+        "antwoord": [
+          "بِسَبَبِ"
+        ],
+        "uitleg": "Oorzaak.",
+        "woordbank": [
+          "بِسَبَبِ",
+          "لِكَيْ",
+          "رَغْمَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "mafool-mutlaq",
+        "zin": "اِحْتَرَمْتُهُ ___ كَبيرًا.",
+        "nl": "Ik had veel respect voor hem.",
+        "antwoord": [
+          "اِحْتِرامًا"
+        ],
+        "uitleg": "Mafʿūl muṭlaq.",
+        "woordbank": [
+          "اِحْتِرامًا",
+          "مُحْتَرَمًا",
+          "اِحْتِرامٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "discussie",
+        "zin": "لا ___ مَعَكَ.",
+        "nl": "Ik ben het niet met je eens.",
+        "antwoord": [
+          "أَتَّفِقُ"
+        ],
+        "uitleg": "Discussie.",
+        "woordbank": [
+          "أَتَّفِقُ",
+          "أُؤَيِّدُ",
+          "أُضيفُ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِنْجازٌ",
+            "nl": "prestatie"
+          },
+          {
+            "ar": "عَصًا",
+            "nl": "stok"
+          },
+          {
+            "ar": "عِبْرَةٌ",
+            "nl": "moraal"
+          },
+          {
+            "ar": "مُحاوَرَةٌ",
+            "nl": "debat"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "hal-zin",
+        "nl": "Hij kwam binnen terwijl hij glimlachte.",
+        "woorden": [
+          "دَخَلَ",
+          "وَهُوَ",
+          "يَبْتَسِمُ."
+        ],
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "mafool-mutlaq",
+        "bron": "uit angst voor",
+        "antwoorden": [
+          "خَوْفًا مِنْ"
+        ],
+        "uitleg": "Mafʿūl li-ajlihi."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "وهكذا أنقذ الفأر الأسد.",
+        "antwoorden": [
+          "en zo redde de muis de leeuw",
+          "zo redde de muis de leeuw"
+        ],
+        "uitleg": "Zonder harakat."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-werk",
+        "bron": "سني هنا عافاك",
+        "antwoorden": [
+          "teken hier alstublieft",
+          "teken hier alsjeblieft"
+        ],
+        "uitleg": "Darija.",
+        "tr": "sənni hna ʿāfāk"
+      }
+    ]
+  }
+}

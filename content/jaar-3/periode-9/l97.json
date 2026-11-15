@@ -1,0 +1,643 @@
+{
+  "id": "j3-p9-l97",
+  "code": "L97",
+  "type": "les",
+  "titel": "Gebeurtenissen",
+  "thema": "Ongelukken en nieuwsfeiten; de lijdende vorm I",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de lijdende vorm van vorm I maken in māḍī (كُتِبَ) en muḍāriʿ (يُكْتَبُ).",
+    "het onderwerp van een lijdende zin (nāʾib al-fāʿil) herkennen.",
+    "een kort nieuwsbericht over een gebeurtenis begrijpen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l97-w01",
+      "ar": "حَدَثَ",
+      "tr": "ḥadaṯa",
+      "nl": [
+        "gebeuren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَحْدُثُ}"
+    },
+    {
+      "id": "j3-p9-l97-w02",
+      "ar": "وَقَعَ حادِثٌ",
+      "tr": "waqaʿa ḥādiṯ",
+      "nl": [
+        "er gebeurde een ongeluk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l97-w03",
+      "ar": "جُرِحَ",
+      "tr": "juriḥa",
+      "nl": [
+        "gewond raken (werd gewond)"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p9-l97-w04",
+      "ar": "قُتِلَ",
+      "tr": "qutila",
+      "nl": [
+        "werd gedood"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p9-l97-w05",
+      "ar": "سُرِقَ",
+      "tr": "suriqa",
+      "nl": [
+        "werd gestolen"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p9-l97-w06",
+      "ar": "اُكْتُشِفَ",
+      "tr": "uktušifa",
+      "nl": [
+        "werd ontdekt"
+      ],
+      "soort": "werkwoord (lijdend, VIII)"
+    },
+    {
+      "id": "j3-p9-l97-w07",
+      "ar": "نُقِلَ إِلى",
+      "tr": "nuqila ilā",
+      "nl": [
+        "werd overgebracht naar"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p9-l97-w08",
+      "ar": "شاهِدُ عِيانٍ",
+      "tr": "šāhidu ʿiyān",
+      "nl": [
+        "ooggetuige"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l97-w09",
+      "ar": "سَيّارَةُ إِسْعافٍ",
+      "tr": "sayyāratu isʿāf",
+      "nl": [
+        "ambulance"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l97-w10",
+      "ar": "رِجالُ الإِطْفاءِ",
+      "tr": "rijālu l-iṭfāʾ",
+      "nl": [
+        "brandweer(lieden)"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l97-w11",
+      "ar": "حَريقٌ",
+      "tr": "ḥarīq",
+      "nl": [
+        "brand"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l97-w12",
+      "ar": "ضَحِيَّةٌ",
+      "tr": "ḍaḥiyya",
+      "nl": [
+        "slachtoffer"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|ضَحايا}."
+    },
+    {
+      "id": "j3-p9-l97-w13",
+      "ar": "نائِبُ الفاعِلِ",
+      "tr": "nāʾibu l-fāʿil",
+      "nl": [
+        "onderwerp van een lijdende zin"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j3-p9-l97-w14",
+      "ar": "مَبْنِيٌّ لِلْمَجْهولِ",
+      "tr": "mabniyyun li-l-majhūl",
+      "nl": [
+        "lijdende vorm"
+      ],
+      "soort": "grammaticale term",
+      "notitie": "Letterlijk: gebouwd voor het onbekende."
+    },
+    {
+      "id": "j3-p9-l97-w15",
+      "ar": "تَحْقيقٌ",
+      "tr": "taḥqīq",
+      "nl": [
+        "onderzoek (politie)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l97-w16",
+      "ar": "بِناءً عَلى",
+      "tr": "bināʾan ʿalā",
+      "nl": [
+        "op basis van"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De lijdende vorm van vorm I",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "De lijdende vorm (*passief*) gebruik je als de **dader onbekend of onbelangrijk** is. In vorm I verander je alleen de **klinkers**:",
+            "Māḍī: **u – i**: {ar|كَتَبَ} → {ar|كُتِبَ} (werd geschreven). Muḍāriʿ: **yu – a**: {ar|يَكْتُبُ} → {ar|يُكْتَبُ} (wordt geschreven)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Actief",
+            "Lijdend",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "كَتَبَ / يَكْتُبُ",
+              "كُتِبَ / يُكْتَبُ",
+              "werd / wordt geschreven"
+            ],
+            [
+              "سَرَقَ / يَسْرِقُ",
+              "سُرِقَ / يُسْرَقُ",
+              "werd / wordt gestolen"
+            ],
+            [
+              "فَتَحَ / يَفْتَحُ",
+              "فُتِحَ / يُفْتَحُ",
+              "werd / wordt geopend"
+            ],
+            [
+              "نَقَلَ / يَنْقُلُ",
+              "نُقِلَ / يُنْقَلُ",
+              "werd / wordt overgebracht"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom alleen klinkers? Het Arabisch schrijft zonder harakat {ar|كتب} voor beide; pas de klinkers maken het verschil. Dat is ook waarom kranten soms een ḍamma zetten op een lijdend werkwoord: {ar|سُرِقَ}. Het lijdend voorwerp van de actieve zin wordt het **onderwerp** ({ar|نائِبُ الفاعِلِ}) en staat in de **nominatief**: {ar|سَرَقَ اللِّصُّ السَّيّارَةَ} → {ar|سُرِقَتِ السَّيّارَةُ}."
+        },
+        {
+          "type": "letop",
+          "md": "Het werkwoord congrueert met het nieuwe onderwerp: {ar|سُرِقَتِ السَّيّارَةُ} (vrouwelijk). Een dader noemen doe je liever niet; Arabisch gebruikt dan gewoon de actieve zin."
+        }
+      ]
+    },
+    {
+      "titel": "Een ongelukbericht",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وَقَعَ حادِثُ سَيْرٍ صَباحَ اليَوْمِ في وَسَطِ المَدينَةِ.",
+              "tr": "waqaʿa ḥādiṯu sayrin ṣabāḥa l-yawmi fī wasaṭi l-madīna.",
+              "nl": "Vanochtend gebeurde er een verkeersongeluk in het centrum."
+            },
+            {
+              "ar": "جُرِحَ ثَلاثَةُ أَشْخاصٍ وَنُقِلوا إِلى المُسْتَشْفى.",
+              "tr": "juriḥa ṯalāṯatu ašḫāṣin wa-nuqilū ila l-mustašfā.",
+              "nl": "Drie personen raakten gewond en werden naar het ziekenhuis gebracht."
+            },
+            {
+              "ar": "سُرِقَتْ سَيّارَةٌ مِنْ أَمامِ البَنْكِ.",
+              "tr": "suriqat sayyāratun min amāmi l-bank.",
+              "nl": "Er werd een auto gestolen voor de bank."
+            },
+            {
+              "ar": "يُفْتَحُ المَتْجَرُ في السّاعَةِ التّاسِعَةِ.",
+              "tr": "yuftaḥu l-matjaru fi s-sāʿati t-tāsiʿa.",
+              "nl": "De winkel gaat om negen uur open (wordt geopend)."
+            },
+            {
+              "ar": "فُتِحَ تَحْقيقٌ في الحادِثِ.",
+              "tr": "futiḥa taḥqīqun fi l-ḥādiṯ.",
+              "nl": "Er is een onderzoek naar het ongeluk geopend."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَريقٌ",
+              "nl": "brand",
+              "woord": "j3-p9-l97-w11"
+            },
+            {
+              "ar": "ضَحِيَّةٌ",
+              "nl": "slachtoffer",
+              "woord": "j3-p9-l97-w12"
+            },
+            {
+              "ar": "سَيّارَةُ إِسْعافٍ",
+              "nl": "ambulance",
+              "woord": "j3-p9-l97-w09"
+            },
+            {
+              "ar": "شاهِدُ عِيانٍ",
+              "nl": "ooggetuige",
+              "woord": "j3-p9-l97-w08"
+            },
+            {
+              "ar": "تَحْقيقٌ",
+              "nl": "onderzoek",
+              "woord": "j3-p9-l97-w15"
+            },
+            {
+              "ar": "حَدَثَ",
+              "nl": "gebeuren",
+              "woord": "j3-p9-l97-w01"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "lijdende-vorm",
+          "tekst": "سُرِقَتْ سَيّارَتي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Mijn auto is gestolen.",
+            "Ik heb een auto gestolen.",
+            "Mijn auto is kapot."
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend: u – i."
+        }
+      ]
+    },
+    {
+      "titel": "Lijdende vorm",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "lijdende-vorm",
+          "instructie": "Maak de lijdende vorm (hij/het).",
+          "rijen": [
+            {
+              "label": "كَتَبَ (māḍī)",
+              "antwoord": "كُتِبَ",
+              "tr": "kutiba",
+              "eind": true
+            },
+            {
+              "label": "يَكْتُبُ (muḍāriʿ)",
+              "antwoord": "يُكْتَبُ",
+              "tr": "yuktabu"
+            },
+            {
+              "label": "فَتَحَ (māḍī)",
+              "antwoord": "فُتِحَ",
+              "tr": "futiḥa",
+              "eind": true
+            }
+          ],
+          "uitleg": "u – i / yu – a.",
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "Wat betekent {ar|يُفْتَحُ المَتْجَرُ}?",
+          "opties": [
+            "De winkel gaat open (wordt geopend).",
+            "Hij opent de winkel.",
+            "De winkel is dicht."
+          ],
+          "juist": 0,
+          "uitleg": "Muḍāriʿ lijdend."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "Welke naamval heeft het onderwerp van een lijdende zin?",
+          "opties": [
+            "nominatief (marfūʿ)",
+            "accusatief",
+            "genitief"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نائِبُ الفاعِلِ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "lijdende-vorm",
+          "zin": "___ السَّيّارَةُ أَمْسِ.",
+          "nl": "De auto werd gisteren gestolen.",
+          "antwoord": [
+            "سُرِقَتِ",
+            "سُرِقَتْ"
+          ],
+          "uitleg": "Lijdend, vrouwelijk.",
+          "woordbank": [
+            "سُرِقَتِ",
+            "سَرَقَتِ",
+            "سُرِقَ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "lijdende-vorm",
+          "zin": "___ الجَريحُ إِلى المُسْتَشْفى.",
+          "nl": "De gewonde werd naar het ziekenhuis gebracht.",
+          "antwoord": [
+            "نُقِلَ"
+          ],
+          "uitleg": "Lijdend.",
+          "woordbank": [
+            "نُقِلَ",
+            "نَقَلَ",
+            "يَنْقُلُ"
+          ],
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Het bericht",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "lijdende-vorm",
+          "nl": "Drie personen raakten gewond.",
+          "woorden": [
+            "جُرِحَ",
+            "ثَلاثَةُ",
+            "أَشْخاصٍ."
+          ],
+          "uitleg": "Lijdend werkwoord vooraan."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "lijdende-vorm",
+          "bron": "De brief werd geschreven.",
+          "antwoorden": [
+            "كُتِبَتِ الرِّسالَةُ",
+            "كُتِبَتْ الرِّسالَةُ"
+          ],
+          "uitleg": "Lijdend, vrouwelijk."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "lijdende-vorm",
+          "bron": "فُتِحَ تَحْقيقٌ في الحادِثِ.",
+          "antwoorden": [
+            "er is een onderzoek naar het ongeluk geopend",
+            "er werd een onderzoek naar het ongeluk geopend",
+            "een onderzoek naar het ongeluk werd geopend"
+          ],
+          "uitleg": "Lijdend."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رِجالُ الإِطْفاءِ",
+            "nl": "brandweer"
+          },
+          {
+            "ar": "اُكْتُشِفَ",
+            "nl": "werd ontdekt"
+          },
+          {
+            "ar": "جُرِحَ",
+            "nl": "raakte gewond"
+          },
+          {
+            "ar": "بِناءً عَلى",
+            "nl": "op basis van"
+          },
+          {
+            "ar": "نُقِلَ إِلى",
+            "nl": "werd overgebracht"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "Welke klinkers heeft de lijdende māḍī van vorm I?",
+        "opties": [
+          "u – i",
+          "a – a",
+          "a – i"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُتِبَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "Welke klinkers heeft de lijdende muḍāriʿ?",
+        "opties": [
+          "yu – a",
+          "ya – u",
+          "yu – i"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُكْتَبُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Het boek wordt gelezen' is ...",
+        "opties": [
+          "يُقْرَأُ الكِتابُ",
+          "يَقْرَأُ الكِتابَ",
+          "قُرِئَ الكِتابَ"
+        ],
+        "juist": 0,
+        "uitleg": "Muḍāriʿ lijdend + nominatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "Wanneer gebruik je de lijdende vorm?",
+        "opties": [
+          "als de dader onbekend of onbelangrijk is",
+          "altijd in vragen",
+          "alleen in het heden"
+        ],
+        "juist": 0,
+        "uitleg": "Dader onbekend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "lijdende-vorm",
+        "tekst": "جُرِحَ شَخْصانِ في الحادِثِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Twee mensen raakten gewond bij het ongeluk.",
+          "Twee mensen veroorzaakten het ongeluk.",
+          "Niemand raakte gewond."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "وَصَلَتْ سَيّارَةُ الإِسْعافِ بِسُرْعَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De ambulance kwam snel.",
+          "De brandweer kwam laat.",
+          "De politie kwam niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَيّارَةُ إِسْعافٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ البابُ في السّاعَةِ الثّامِنَةِ.",
+        "nl": "De deur wordt om acht uur geopend.",
+        "antwoord": [
+          "يُفْتَحُ"
+        ],
+        "uitleg": "Muḍāriʿ lijdend.",
+        "woordbank": [
+          "يُفْتَحُ",
+          "يَفْتَحُ",
+          "فَتَحَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ الكَنْزُ في الصَّحْراءِ.",
+        "nl": "De schat werd in de woestijn ontdekt.",
+        "antwoord": [
+          "اُكْتُشِفَ"
+        ],
+        "uitleg": "Lijdend vorm VIII.",
+        "woordbank": [
+          "اُكْتُشِفَ",
+          "اِكْتَشَفَ",
+          "يَكْتَشِفُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "شَبَّ ___ في المَصْنَعِ.",
+        "nl": "Er brak brand uit in de fabriek.",
+        "antwoord": [
+          "حَريقٌ"
+        ],
+        "uitleg": "{ar|شَبَّ حَريقٌ} = er brak brand uit.",
+        "woordbank": [
+          "حَريقٌ",
+          "حادِثٌ",
+          "تَحْقيقٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "lijdende-vorm",
+        "instructie": "Maak de lijdende vorm (zij/het, māḍī).",
+        "rijen": [
+          {
+            "label": "سَرَقَ",
+            "antwoord": "سُرِقَتْ",
+            "tr": "suriqat"
+          },
+          {
+            "label": "نَشَرَ",
+            "antwoord": "نُشِرَتْ",
+            "tr": "nuširat"
+          }
+        ],
+        "uitleg": "u – i + ـَتْ.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "lijdende-vorm",
+        "nl": "Er werd een auto gestolen voor de bank.",
+        "woorden": [
+          "سُرِقَتْ",
+          "سَيّارَةٌ",
+          "مِنْ",
+          "أَمامِ",
+          "البَنْكِ."
+        ],
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "lijdende-vorm",
+        "bron": "Het werd geschreven. (m)",
+        "antwoorden": [
+          "كُتِبَ"
+        ],
+        "uitleg": "u – i."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "lijdende-vorm",
+        "bron": "يُنْشَرُ المَقالُ غَدًا.",
+        "antwoorden": [
+          "het artikel wordt morgen gepubliceerd",
+          "het artikel verschijnt morgen"
+        ],
+        "uitleg": "Muḍāriʿ lijdend."
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "j1-p2-l21",
+  "code": "L21",
+  "type": "les",
+  "titel": "Eten en drinken",
+  "thema": "Zeggen wat je eet, drinkt en lekker vindt",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de belangrijkste woorden voor eten en drinken gebruiken.",
+    "het lijdend voorwerp in de accusatief zetten (أَشْرَبُ الشّايَ / شايًا).",
+    "zeggen wat ik lekker vind met أُحِبُّ.",
+    "de vormen آكُلُ / تَأْكُلُ / يَأْكُلُ (eten) gebruiken."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l21-w01", "ar": "طَعامٌ", "tr": "ṭaʿām", "nl": ["eten", "voedsel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w02", "ar": "خُبْزٌ", "tr": "ḫubz", "nl": ["brood"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w03", "ar": "ماءٌ", "tr": "māʾ", "nl": ["water"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w04", "ar": "حَليبٌ", "tr": "ḥalīb", "nl": ["melk"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w05", "ar": "شايٌ", "tr": "šāy", "nl": ["thee"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w06", "ar": "قَهْوَةٌ", "tr": "qahwa", "nl": ["koffie"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w07", "ar": "عَصيرٌ", "tr": "ʿaṣīr", "nl": ["sap"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w08", "ar": "لَحْمٌ", "tr": "laḥm", "nl": ["vlees"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w09", "ar": "دَجاجٌ", "tr": "dajāj", "nl": ["kip"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w10", "ar": "سَمَكٌ", "tr": "samak", "nl": ["vis"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w11", "ar": "أَرُزٌّ", "tr": "aruzz", "nl": ["rijst"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w12", "ar": "خُضارٌ", "tr": "ḫuḍār", "nl": ["groente"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w13", "ar": "فَواكِهُ", "tr": "fawākih", "nl": ["fruit"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Geen tanwīn (diptoot)." },
+    { "id": "j1-p2-l21-w14", "ar": "تُفّاحٌ", "tr": "tuffāḥ", "nl": ["appels", "appel"], "soort": "zelfstandig naamwoord", "notitie": "Eén appel: {ar|تُفّاحَةٌ}." },
+    { "id": "j1-p2-l21-w15", "ar": "بُرْتُقالٌ", "tr": "burtuqāl", "nl": ["sinaasappels", "sinaasappel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w16", "ar": "مَوْزٌ", "tr": "mawz", "nl": ["bananen", "banaan"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w17", "ar": "جُبْنٌ", "tr": "jubn", "nl": ["kaas"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w18", "ar": "بَيْضٌ", "tr": "bayḍ", "nl": ["eieren"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w19", "ar": "سُكَّرٌ", "tr": "sukkar", "nl": ["suiker"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w20", "ar": "مِلْحٌ", "tr": "milḥ", "nl": ["zout"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w21", "ar": "حَساءٌ", "tr": "ḥasāʾ", "nl": ["soep"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w22", "ar": "فُطورٌ", "tr": "fuṭūr", "nl": ["ontbijt"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w23", "ar": "غَداءٌ", "tr": "ġadāʾ", "nl": ["lunch", "middageten"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w24", "ar": "عَشاءٌ", "tr": "ʿašāʾ", "nl": ["avondeten"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l21-w25", "ar": "لَذيذٌ", "tr": "laḏīḏ", "nl": ["lekker"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l21-w26", "ar": "يَأْكُلُ", "tr": "yaʾkulu", "nl": ["eten (hij eet)"], "soort": "werkwoord", "notitie": "Ik eet: {ar|آكُلُ} (zie grammatica)." },
+    { "id": "j1-p2-l21-w27", "ar": "أُحِبُّ", "tr": "uḥibbu", "nl": ["ik houd van", "ik vind lekker"], "soort": "werkwoord", "notitie": "Jij: {ar|تُحِبُّ}, hij: {ar|يُحِبُّ}." },
+    { "id": "j1-p2-l21-w28", "ar": "مَشْروبٌ", "tr": "mašrūb", "nl": ["drankje", "drank"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Het lijdend voorwerp: accusatief",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het **lijdend voorwerp** (wat je eet of drinkt) staat in de **accusatief**. Bepaald krijgt het -a: {ar|أَشْرَبُ الشّايَ} (*ik drink de thee*). Onbepaald krijgt het -an: {ar|أَشْرَبُ شايًا} (*ik drink thee*).",
+          "Bij een woord met ة schrijf je geen extra alif: {ar|أَشْرَبُ قَهْوَةً}. Na een hamza ook niet: {ar|أَشْرَبُ ماءً}."
+        ] },
+        { "type": "tabel", "kop": ["Onderwerp (-u)", "Lijdend voorwerp bepaald (-a)", "Lijdend voorwerp onbepaald (-an)"], "arKolommen": [0, 1, 2], "rijen": [
+          ["الخُبْزُ|al-ḫubzu", "الخُبْزَ|al-ḫubza", "خُبْزًا|ḫubzan"],
+          ["القَهْوَةُ|al-qahwatu", "القَهْوَةَ|al-qahwata", "قَهْوَةً|qahwatan"],
+          ["الماءُ|al-māʾu", "الماءَ|al-māʾa", "ماءً|māʾan"],
+          ["الأَرُزُّ|al-aruzzu", "الأَرُزَّ|al-aruzza", "أَرُزًّا|aruzzan"]
+        ] },
+        { "type": "waarom", "md": "In het Nederlands zie je aan de **plaats** in de zin wie iets doet en wat er gegeten wordt. In het Arabisch zie je het aan de **uitgang**. Daardoor mag de woordvolgorde vrijer zijn: de -a laat altijd zien wat het lijdend voorwerp is." }
+      ]
+    },
+    {
+      "titel": "Eten en houden van: twee bijzondere werkwoorden",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "{ar|يَأْكُلُ} (eten) begint met een hamza. Bij *ik* zouden er twee hamza's achter elkaar komen ({ar|أَأْكُلُ}). Die smelten samen tot een lange ā: {ar|آكُلُ} (*ākulu*). De andere vormen zijn regelmatig: {ar|تَأْكُلُ، يَأْكُلُ، نَأْكُلُ}.",
+          "{ar|أُحِبُّ} (*ik houd van*) heeft een **u** in het voorvoegsel en een shadda: {ar|أُحِبُّ، تُحِبُّ، يُحِبُّ}. Leer het voorlopig als vaste vorm. Het hoort bij vorm IV (jaar 2)."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "eten", "houden van"], "arKolommen": [1, 2], "rijen": [
+          ["ik", "آكُلُ|ākulu", "أُحِبُّ|uḥibbu"],
+          ["jij (m)", "تَأْكُلُ|taʾkulu", "تُحِبُّ|tuḥibbu"],
+          ["jij (v)", "تَأْكُلِينَ|taʾkulīna", "تُحِبِّينَ|tuḥibbīna"],
+          ["hij", "يَأْكُلُ|yaʾkulu", "يُحِبُّ|yuḥibbu"],
+          ["zij", "تَأْكُلُ|taʾkulu", "تُحِبُّ|tuḥibbu"],
+          ["wij", "نَأْكُلُ|naʾkulu", "نُحِبُّ|nuḥibbu"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "آكُلُ الخُبْزَ وَالجُبْنَ في الفُطورِ.", "tr": "ākulu l-ḫubza wa-l-jubna fi l-fuṭūr.", "nl": "Bij het ontbijt eet ik brood en kaas." },
+          { "ar": "أُحِبُّ السَّمَكَ كَثيرًا.", "tr": "uḥibbu s-samaka kaṯīran.", "nl": "Ik houd erg van vis." },
+          { "ar": "هَلْ تُحِبِّينَ القَهْوَةَ؟ — لا، أُحِبُّ الشّايَ.", "tr": "hal tuḥibbīna l-qahwa? — lā, uḥibbu š-šāy.", "nl": "Houd jij van koffie? — Nee, ik houd van thee." },
+          { "ar": "لا يَأْكُلُ اللَّحْمَ.", "tr": "lā yaʾkulu l-laḥm.", "nl": "Hij eet geen vlees." },
+          { "ar": "الحَساءُ لَذيذٌ جِدًّا!", "tr": "al-ḥasāʾu laḏīḏun jiddan!", "nl": "De soep is heel lekker!" }
+        ] },
+        { "type": "letop", "md": "Na {ar|أُحِبُّ} gebruik je meestal het **bepaalde** woord: {ar|أُحِبُّ الشّايَ} = ik houd van thee (in het algemeen)." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Eten en drinken",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "خُبْزٌ", "nl": "brood", "woord": "j1-p2-l21-w02" },
+          { "ar": "ماءٌ", "nl": "water", "woord": "j1-p2-l21-w03" },
+          { "ar": "حَليبٌ", "nl": "melk", "woord": "j1-p2-l21-w04" },
+          { "ar": "لَحْمٌ", "nl": "vlees", "woord": "j1-p2-l21-w08" },
+          { "ar": "سَمَكٌ", "nl": "vis", "woord": "j1-p2-l21-w10" },
+          { "ar": "جُبْنٌ", "nl": "kaas", "woord": "j1-p2-l21-w17" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "فُطورٌ", "nl": "ontbijt", "woord": "j1-p2-l21-w22" },
+          { "ar": "غَداءٌ", "nl": "lunch", "woord": "j1-p2-l21-w23" },
+          { "ar": "عَشاءٌ", "nl": "avondeten", "woord": "j1-p2-l21-w24" },
+          { "ar": "أَرُزٌّ", "nl": "rijst", "woord": "j1-p2-l21-w11" },
+          { "ar": "دَجاجٌ", "nl": "kip", "woord": "j1-p2-l21-w09" }
+        ], "uitleg": "De drie maaltijden van de dag." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "عَصيرُ البُرْتُقالِ", "vraag": "Wat hoor je?", "opties": ["sinaasappelsap", "appelsap", "melk", "koffie"], "juist": 0, "uitleg": "Iḍāfa: sap van de sinaasappels." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p2-l21-w25", "vraag": "Wat betekent dit?", "ar": "لَذيذٌ", "tr": "laḏīḏ", "opties": ["lekker", "zout", "zoet", "warm"], "juist": 0, "uitleg": "{ar|لَذيذٌ} = lekker." }
+      ]
+    },
+    {
+      "titel": "Accusatief",
+      "items": [
+        { "type": "invullen", "tag": "accusatief-object", "zin": "أَشْرَبُ ___ كُلَّ صَباحٍ.", "nl": "Ik drink elke ochtend koffie.", "woordbank": ["قَهْوَةً", "قَهْوَةٌ", "قَهْوَةٍ"], "antwoord": ["قَهْوَةً"], "uitleg": "Onbepaald lijdend voorwerp: -an (zonder alif na ة)." },
+        { "type": "invullen", "tag": "accusatief-object", "zin": "يَأْكُلُ ___.", "nl": "Hij eet de rijst.", "woordbank": ["الأَرُزَّ", "الأَرُزُّ", "الأَرُزِّ"], "antwoord": ["الأَرُزَّ"], "uitleg": "Bepaald lijdend voorwerp: -a." },
+        { "type": "invullen", "tag": "accusatief-object", "zin": "نَشْرَبُ ___.", "nl": "Wij drinken water.", "woordbank": ["ماءً", "ماءٌ", "ماءًا"], "antwoord": ["ماءً"], "uitleg": "Na hamza geen extra alif: {ar|ماءً}." },
+        { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "Welk woord is in {ar|تَأْكُلُ البِنْتُ التُّفّاحَ} het lijdend voorwerp?", "opties": ["التُّفّاحَ", "البِنْتُ", "تَأْكُلُ"], "juist": 0, "uitleg": "De -a laat zien wat er gegeten wordt." },
+        { "type": "vervoegen", "tag": "akala-ahabba", "instructie": "Vervoeg يَأْكُلُ (eten).",
+          "rijen": [
+            { "label": "ik", "antwoord": "آكُلُ", "tr": "ākulu" },
+            { "label": "jij (m)", "antwoord": "تَأْكُلُ", "tr": "taʾkulu" },
+            { "label": "hij", "antwoord": "يَأْكُلُ", "tr": "yaʾkulu" },
+            { "label": "wij", "antwoord": "نَأْكُلُ", "tr": "naʾkulu" }
+          ], "uitleg": "Bij *ik*: أَأْ → آ." }
+      ]
+    },
+    {
+      "titel": "Wat vind je lekker?",
+      "items": [
+        { "type": "vervoegen", "tag": "akala-ahabba", "instructie": "Vervoeg أُحِبُّ (houden van).",
+          "rijen": [
+            { "label": "ik", "antwoord": "أُحِبُّ", "tr": "uḥibbu" },
+            { "label": "jij (v)", "antwoord": "تُحِبِّينَ", "tr": "tuḥibbīna" },
+            { "label": "hij", "antwoord": "يُحِبُّ", "tr": "yuḥibbu" }
+          ], "uitleg": "Voorvoegsel met u, plus shadda." },
+        { "type": "ordenen", "tag": "accusatief-object", "nl": "Bij het ontbijt eet ik brood en kaas.", "woorden": ["آكُلُ", "الخُبْزَ", "وَالجُبْنَ", "في", "الفُطورِ."], "uitleg": "Twee lijdende voorwerpen in de accusatief." },
+        { "type": "ordenen", "tag": "akala-ahabba", "nl": "Houd jij van koffie? (tegen een vrouw)", "woorden": ["هَلْ", "تُحِبِّينَ", "القَهْوَةَ؟"], "uitleg": "{ar|تُحِبِّينَ}: jij (v)." },
+        { "type": "luisteren", "tag": "akala-ahabba", "tekst": "لا يَأْكُلُ اللَّحْمَ", "vraag": "Wat hoor je?", "opties": ["Hij eet geen vlees.", "Hij eet veel vlees.", "Ik eet geen vlees."], "juist": 0, "uitleg": "{ar|لا} + يَـ." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "accusatief-object", "bron": "Ik drink thee.", "antwoorden": ["أَشْرَبُ شايًا", "أَشْرَبُ الشّايَ", "أَنا أَشْرَبُ شايًا", "أَنا أَشْرَبُ الشّايَ"], "uitleg": "{ar|أَشْرَبُ شايًا} of {ar|أَشْرَبُ الشّايَ}." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "akala-ahabba", "bron": "Ik houd van vis.", "antwoorden": ["أُحِبُّ السَّمَكَ"], "uitleg": "{ar|أُحِبُّ السَّمَكَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "accusatief-object", "bron": "De soep is lekker.", "antwoorden": ["الحَساءُ لَذيذٌ"], "uitleg": "Een nominale zin: hier geen accusatief." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "akala-ahabba", "bron": "آكُلُ الدَّجاجَ مَعَ الأَرُزِّ.", "tr": "ākulu d-dajāja maʿa l-aruzz.", "antwoorden": ["ik eet de kip met de rijst", "ik eet kip met rijst"], "uitleg": "{ar|مَعَ} + genitief." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "accusatief-object", "bron": "هِيَ تَشْرَبُ الحَليبَ.", "tr": "hiya tašrabu l-ḥalīb.", "antwoorden": ["zij drinkt de melk", "zij drinkt melk", "ze drinkt melk", "ze drinkt de melk"], "uitleg": "Lijdend voorwerp: {ar|الحَليبَ}." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "سُكَّرٌ", "nl": "suiker" },
+        { "ar": "مِلْحٌ", "nl": "zout" },
+        { "ar": "بَيْضٌ", "nl": "eieren" },
+        { "ar": "مَوْزٌ", "nl": "bananen" },
+        { "ar": "خُضارٌ", "nl": "groente" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "'Ik eet brood' is ...", "opties": ["آكُلُ خُبْزًا.", "آكُلُ خُبْزٌ.", "أَأْكُلُ خُبْزًا."], "juist": 0, "uitleg": "{ar|آكُلُ} + accusatief." },
+      { "type": "meerkeuze", "tag": "akala-ahabba", "vraag": "'Ik houd van' is ...", "opties": ["أُحِبُّ", "أَحِبُّ", "يُحِبُّ"], "juist": 0, "uitleg": "Voorvoegsel met u." },
+      { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "Welke vorm heeft het onbepaalde lijdend voorwerp van {ar|قَهْوَةٌ}?", "opties": ["قَهْوَةً", "قَهْوَةًا", "قَهْوَةٌ"], "juist": 0, "uitleg": "Na ة geen extra alif." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "نَأْكُلُ العَشاءَ مَساءً", "vraag": "Wat hoor je?", "opties": ["We eten 's avonds het avondeten.", "We eten 's ochtends ontbijt.", "Zij eten 's middags."], "juist": 0, "uitleg": "{ar|العَشاءَ} = het avondeten." },
+      { "type": "luisteren", "tag": "akala-ahabba", "tekst": "تُحِبُّ الفَواكِهَ", "vraag": "Wat hoor je?", "opties": ["Zij houdt van fruit.", "Ik houd van fruit.", "Wij houden van fruit."], "juist": 0, "uitleg": "{ar|تُحِبُّ} = jij (m) of zij." },
+      { "type": "invullen", "tag": "accusatief-object", "zin": "يَشْرَبُ ___.", "nl": "Hij drinkt het sap.", "woordbank": ["العَصيرَ", "العَصيرُ", "عَصيرٌ"], "antwoord": ["العَصيرَ"], "uitleg": "-a" },
+      { "type": "invullen", "tag": "akala-ahabba", "zin": "أَنا ___ السَّمَكَ.", "nl": "Ik eet de vis.", "antwoord": ["آكُلُ"], "uitleg": "{ar|آكُلُ}" },
+      { "type": "vervoegen", "tag": "akala-ahabba", "instructie": "Vul de juiste vorm in.",
+        "rijen": [
+          { "label": "jij (v) eet", "antwoord": "تَأْكُلِينَ", "tr": "taʾkulīna" },
+          { "label": "wij houden van", "antwoord": "نُحِبُّ", "tr": "nuḥibbu" }
+        ], "uitleg": "{ar|تَأْكُلِينَ} · {ar|نُحِبُّ}" },
+      { "type": "ordenen", "tag": "akala-ahabba", "nl": "Ik houd erg van vis.", "woorden": ["أُحِبُّ", "السَّمَكَ", "كَثيرًا."], "uitleg": "Werkwoord + lijdend voorwerp + bijwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "accusatief-object", "bron": "Wij drinken water.", "antwoorden": ["نَشْرَبُ ماءً", "نَشْرَبُ الماءَ", "نَحْنُ نَشْرَبُ ماءً"], "uitleg": "{ar|نَشْرَبُ ماءً}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "akala-ahabba", "bron": "Hij eet geen vlees.", "antwoorden": ["لا يَأْكُلُ اللَّحْمَ", "لا يَأْكُلُ لَحْمًا", "هُوَ لا يَأْكُلُ اللَّحْمَ"], "uitleg": "{ar|لا يَأْكُلُ اللَّحْمَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "الطَّعامُ لَذيذٌ.", "tr": "aṭ-ṭaʿāmu laḏīḏ.", "antwoorden": ["het eten is lekker"], "uitleg": "Nominale zin." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "accusatief-object", "bron": "تَأْكُلُ تُفّاحَةً.", "tr": "taʾkulu tuffāḥa.", "antwoorden": ["zij eet een appel", "jij eet een appel", "ze eet een appel", "je eet een appel"], "uitleg": "{ar|تُفّاحَةً} = een appel (accusatief)." }
+    ]
+  }
+}

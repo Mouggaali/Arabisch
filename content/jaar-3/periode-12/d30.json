@@ -1,0 +1,623 @@
+{
+  "id": "j3-p12-d30",
+  "code": "D30",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: A2-afsluiting",
+  "thema": "Het hele Darija-spoor in één overzicht",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de kern van het Darija-systeem (tijden, ontkenning, bezit, vragen) samenvatten.",
+    "zeggen wat je wel en niet begrijpt en om herhaling vragen.",
+    "iemand succes wensen en afscheid nemen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-d30-w01",
+      "ar": "الله يوفقك",
+      "tr": "ļļāh ywəffqək",
+      "nl": [
+        "moge God je succes geven"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w02",
+      "ar": "بالتوفيق",
+      "tr": "b-ttəwfīq",
+      "nl": [
+        "veel succes"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w03",
+      "ar": "نجحت",
+      "tr": "njəḥt",
+      "nl": [
+        "ik ben geslaagd"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w04",
+      "ar": "سالينا",
+      "tr": "sālīna",
+      "nl": [
+        "we zijn klaar"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w05",
+      "ar": "هادشي",
+      "tr": "hādši",
+      "nl": [
+        "dit (allemaal), deze dingen"
+      ],
+      "soort": "voornaamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w06",
+      "ar": "كولشي",
+      "tr": "kulši",
+      "nl": [
+        "alles"
+      ],
+      "soort": "voornaamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w07",
+      "ar": "شي حاجة",
+      "tr": "ši ḥāja",
+      "nl": [
+        "iets"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w08",
+      "ar": "حتى حاجة",
+      "tr": "ḥtta ḥāja",
+      "nl": [
+        "niets (helemaal niets)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w09",
+      "ar": "تعلمت",
+      "tr": "tʿəlləmt",
+      "nl": [
+        "ik heb geleerd"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w10",
+      "ar": "فهمت",
+      "tr": "fhəmt",
+      "nl": [
+        "ik heb begrepen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w11",
+      "ar": "نسيت",
+      "tr": "nsīt",
+      "nl": [
+        "ik ben vergeten"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w12",
+      "ar": "عاود",
+      "tr": "ʿāwəd",
+      "nl": [
+        "herhalen, opnieuw doen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w13",
+      "ar": "بشوية بشوية",
+      "tr": "b-šwiya b-šwiya",
+      "nl": [
+        "beetje bij beetje"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w14",
+      "ar": "ساهلة",
+      "tr": "sāhla",
+      "nl": [
+        "makkelijk (v)"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d30-w15",
+      "ar": "صعيبة",
+      "tr": "ṣʿība",
+      "nl": [
+        "moeilijk (v)"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het Darija-spoor in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderdeel",
+            "Darija",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "heden",
+              "كا- / كن- + werkwoord",
+              "كنهضر الدارجة"
+            ],
+            [
+              "verleden",
+              "stam + -t / -ti / -na …",
+              "تعلمت، فهمت، نسيت"
+            ],
+            [
+              "toekomst",
+              "غادي + werkwoord",
+              "غادي نمشي"
+            ],
+            [
+              "ontkenning",
+              "ما … ش",
+              "ما فهمتش"
+            ],
+            [
+              "bezit",
+              "ديال",
+              "الكتاب ديالي"
+            ],
+            [
+              "vragen",
+              "شنو، فين، علاش، كيفاش، شكون، إيمتا، شحال",
+              "علاش ما جيتيش؟"
+            ],
+            [
+              "leenwoorden",
+              "Frans en Spaans",
+              "الطوموبيل، البلاصة، الكابين"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met dertig Darija-lessen heb je een **A2-basis**: je kunt in Marokko boodschappen doen, de weg vragen, met familie praten en over jezelf vertellen. Omdat Darija geen vaste spelling heeft, blijft **luisteren naar echte sprekers** de beste manier om verder te komen."
+        },
+        {
+          "type": "letop",
+          "md": "Alle Darija-inhoud in deze cursus is gemarkeerd voor controle door een moedertaalspreker. Uitspraak en woordkeus verschillen per regio (Noord, Rif, Souss, Casablanca …)."
+        }
+      ]
+    },
+    {
+      "titel": "Afscheid van de cursus",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تعلمت بزاف ديال الحوايج ف هاد الكورس.",
+              "tr": "tʿəlləmt bəzzāf dyāl lḥwāyəj f-hād lkūṛ.",
+              "nl": "Ik heb veel dingen geleerd in deze cursus.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الدارجة ماشي صعيبة، بشوية بشوية كتولي ساهلة.",
+              "tr": "ddārija māši ṣʿība, b-šwiya b-šwiya katwəlli sāhla.",
+              "nl": "Darija is niet moeilijk; beetje bij beetje wordt het makkelijk.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "إلا ما فهمتيش شي حاجة، قول ليهم: عاود عافاك.",
+              "tr": "ila ma fhəmtīš ši ḥāja, qūl līhum: ʿāwəd ʿāfāk.",
+              "nl": "Als je iets niet begrijpt, zeg dan: herhaal het alsjeblieft.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "سالينا! الله يوفقك وبالتوفيق ف الامتحان.",
+              "tr": "sālīna! ļļāh ywəffqək w-b-ttəwfīq f-lmtiḥān.",
+              "nl": "We zijn klaar! Veel succes met het examen.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-afsluiting",
+          "paren": [
+            {
+              "ar": "كولشي",
+              "nl": "alles",
+              "woord": "j3-p12-d30-w06"
+            },
+            {
+              "ar": "شي حاجة",
+              "nl": "iets",
+              "woord": "j3-p12-d30-w07"
+            },
+            {
+              "ar": "حتى حاجة",
+              "nl": "niets",
+              "woord": "j3-p12-d30-w08"
+            },
+            {
+              "ar": "عاود",
+              "nl": "herhalen",
+              "woord": "j3-p12-d30-w12"
+            },
+            {
+              "ar": "ساهلة",
+              "nl": "makkelijk",
+              "woord": "j3-p12-d30-w14"
+            },
+            {
+              "ar": "صعيبة",
+              "nl": "moeilijk",
+              "woord": "j3-p12-d30-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-afsluiting",
+          "tekst": "بالتوفيق",
+          "vraag": "Wat wens je?",
+          "opties": [
+            "veel succes",
+            "beterschap",
+            "goede reis"
+          ],
+          "juist": 0,
+          "uitleg": "Wens (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Het systeem",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Hoe ontken je {ar|فهمت} in het Darija?",
+          "opties": [
+            "ما فهمتش",
+            "لا فهمت",
+            "لم فهمت"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ما … ش}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|غادي} drukt uit ...",
+          "opties": [
+            "de toekomst",
+            "het verleden",
+            "een vraag"
+          ],
+          "juist": 0,
+          "uitleg": "Toekomst."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-afsluiting",
+          "zin": "ما فهمت ___.",
+          "nl": "Ik heb helemaal niets begrepen.",
+          "antwoord": [
+            "حتى حاجة"
+          ],
+          "uitleg": "{ar|حتى حاجة}",
+          "woordbank": [
+            "حتى حاجة",
+            "كولشي",
+            "شي حاجة"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-afsluiting",
+          "nl": "Beetje bij beetje wordt het makkelijk.",
+          "woorden": [
+            "بشوية",
+            "بشوية",
+            "كتولي",
+            "ساهلة."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-afsluiting",
+          "bron": "herhaal het alsjeblieft (Darija)",
+          "antwoorden": [
+            "عاود عافاك"
+          ],
+          "uitleg": "{ar|عاود عافاك}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-afsluiting",
+          "bron": "تعلمت كولشي",
+          "antwoorden": [
+            "ik heb alles geleerd"
+          ],
+          "uitleg": "Darija.",
+          "tr": "tʿəlləmt kulši"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-afsluiting",
+        "paren": [
+          {
+            "ar": "نجحت",
+            "nl": "ik ben geslaagd"
+          },
+          {
+            "ar": "سالينا",
+            "nl": "we zijn klaar"
+          },
+          {
+            "ar": "نسيت",
+            "nl": "ik ben vergeten"
+          },
+          {
+            "ar": "هادشي",
+            "nl": "dit allemaal"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|الكتاب ديالي} is Fusha ...",
+        "opties": [
+          "كِتابي",
+          "الكِتابُ لي",
+          "كِتابُكَ"
+        ],
+        "juist": 0,
+        "uitleg": "Bezit."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "{ar|كنهضر} betekent ...",
+        "opties": [
+          "ik praat",
+          "ik praatte",
+          "ik zal praten"
+        ],
+        "juist": 0,
+        "uitleg": "Heden met كن-."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-afsluiting",
+        "vraag": "{ar|الله يوفقك} zeg je ...",
+        "opties": [
+          "om iemand succes te wensen",
+          "om te bedanken voor eten",
+          "bij het afscheid na de hammam"
+        ],
+        "juist": 0,
+        "uitleg": "Wens."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-afsluiting",
+        "tekst": "نجحت ف الامتحان!",
+        "vraag": "Wat vertelt de spreker?",
+        "opties": [
+          "Ik ben geslaagd voor het examen!",
+          "Ik ben gezakt.",
+          "Ik heb morgen examen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نجحت}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-afsluiting",
+        "tekst": "الدارجة ماشي صعيبة",
+        "vraag": "Wat vindt de spreker van Darija?",
+        "opties": [
+          "Het is niet moeilijk.",
+          "Het is heel moeilijk.",
+          "Het is saai."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ماشي صعيبة}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-afsluiting",
+        "zin": "واش فهمتي ___؟",
+        "nl": "Heb je alles begrepen?",
+        "antwoord": [
+          "كولشي"
+        ],
+        "uitleg": "{ar|كولشي}",
+        "woordbank": [
+          "كولشي",
+          "حتى حاجة",
+          "صعيبة"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-afsluiting",
+        "zin": "___ السمية ديالو.",
+        "nl": "Ik ben zijn naam vergeten.",
+        "antwoord": [
+          "نسيت"
+        ],
+        "uitleg": "{ar|نسيت}",
+        "woordbank": [
+          "نسيت",
+          "فهمت",
+          "نجحت"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-afsluiting",
+        "nl": "Ik heb veel geleerd.",
+        "woorden": [
+          "تعلمت",
+          "بزاف."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-afsluiting",
+        "bron": "veel succes (Darija)",
+        "antwoorden": [
+          "بالتوفيق",
+          "الله يوفقك"
+        ],
+        "uitleg": "{ar|بالتوفيق}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-afsluiting",
+        "bron": "we zijn klaar (Darija)",
+        "antwoorden": [
+          "سالينا"
+        ],
+        "uitleg": "{ar|سالينا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-afsluiting",
+        "bron": "بغيتي شي حاجة؟",
+        "antwoorden": [
+          "wil je iets",
+          "wil je iets hebben"
+        ],
+        "uitleg": "Darija.",
+        "tr": "bġīti ši ḥāja?"
+      }
+    ]
+  }
+}

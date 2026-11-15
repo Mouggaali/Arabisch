@@ -1,0 +1,672 @@
+{
+  "id": "j3-p10-l109",
+  "code": "L109",
+  "type": "les",
+  "titel": "Werk en economie",
+  "thema": "Economisch nieuws; de nominaliserende stijl",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over economie, werk en werkloosheid praten.",
+    "een bijzin met أَنْ omzetten in een maṣdar-constructie.",
+    "economische nieuwsberichten in nominale stijl begrijpen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l109-w01",
+      "ar": "اِقْتِصادٌ",
+      "tr": "iqtiṣād",
+      "nl": [
+        "economie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w02",
+      "ar": "اِقْتِصادِيٌّ",
+      "tr": "iqtiṣādiyy",
+      "nl": [
+        "economisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w03",
+      "ar": "بَطالَةٌ",
+      "tr": "baṭāla",
+      "nl": [
+        "werkloosheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w04",
+      "ar": "اِسْتِثْمارٌ",
+      "tr": "istiṯmār",
+      "nl": [
+        "investering"
+      ],
+      "soort": "maṣdar (X)"
+    },
+    {
+      "id": "j3-p10-l109-w05",
+      "ar": "سوقُ العَمَلِ",
+      "tr": "sūqu l-ʿamal",
+      "nl": [
+        "arbeidsmarkt"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l109-w06",
+      "ar": "نُمُوٌّ",
+      "tr": "numuww",
+      "nl": [
+        "groei"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p10-l109-w07",
+      "ar": "تَضَخُّمٌ",
+      "tr": "taḍaḫḫum",
+      "nl": [
+        "inflatie"
+      ],
+      "soort": "maṣdar (V)"
+    },
+    {
+      "id": "j3-p10-l109-w08",
+      "ar": "دَخْلٌ",
+      "tr": "daḫl",
+      "nl": [
+        "inkomen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w09",
+      "ar": "تَصْديرٌ",
+      "tr": "taṣdīr",
+      "nl": [
+        "export"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p10-l109-w10",
+      "ar": "اِسْتيرادٌ",
+      "tr": "istīrād",
+      "nl": [
+        "import"
+      ],
+      "soort": "maṣdar (X)"
+    },
+    {
+      "id": "j3-p10-l109-w11",
+      "ar": "إِنْتاجٌ",
+      "tr": "intāj",
+      "nl": [
+        "productie"
+      ],
+      "soort": "maṣdar (IV)"
+    },
+    {
+      "id": "j3-p10-l109-w12",
+      "ar": "تَوْظيفٌ",
+      "tr": "tawẓīf",
+      "nl": [
+        "werving, aanstelling"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p10-l109-w13",
+      "ar": "أَزْمَةٌ",
+      "tr": "azma",
+      "nl": [
+        "crisis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَزَماتٌ}."
+    },
+    {
+      "id": "j3-p10-l109-w14",
+      "ar": "قِطاعٌ",
+      "tr": "qiṭāʿ",
+      "nl": [
+        "sector"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w15",
+      "ar": "سِياحَةٌ",
+      "tr": "siyāḥa",
+      "nl": [
+        "toerisme"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w16",
+      "ar": "تِجارَةٌ",
+      "tr": "tijāra",
+      "nl": [
+        "handel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l109-w17",
+      "ar": "دَعْمٌ",
+      "tr": "daʿm",
+      "nl": [
+        "steun"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p10-l109-w18",
+      "ar": "اِنْخِفاضٌ",
+      "tr": "inḫifāḍ",
+      "nl": [
+        "daling"
+      ],
+      "soort": "maṣdar (VII)"
+    },
+    {
+      "id": "j3-p10-l109-w19",
+      "ar": "اِسْتِهْلاكٌ",
+      "tr": "istihlāk",
+      "nl": [
+        "consumptie"
+      ],
+      "soort": "maṣdar (X)"
+    },
+    {
+      "id": "j3-p10-l109-w20",
+      "ar": "أُجورٌ",
+      "tr": "ujūr",
+      "nl": [
+        "lonen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|أَجْرٌ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De nominaliserende stijl",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "In zakelijke en journalistieke teksten vervangt het Arabisch een bijzin met {ar|أَنْ} + werkwoord vaak door een **maṣdar**. Het lijdend voorwerp wordt dan een **genitief** (iḍāfa).",
+            "{ar|قَرَّرَتِ الحُكومَةُ أَنْ تَرْفَعَ الأُجورَ} → {ar|قَرَّرَتِ الحُكومَةُ رَفْعَ الأُجورِ} (de regering besloot tot verhoging van de lonen)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Met أَنْ + werkwoord",
+            "Met maṣdar",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "أَنْ نَرْفَعَ الأَسْعارَ",
+              "رَفْعُ الأَسْعارِ",
+              "het verhogen van de prijzen"
+            ],
+            [
+              "أَنْ نُشَجِّعَ الاِسْتِثْمارَ",
+              "تَشْجيعُ الاِسْتِثْمارِ",
+              "het stimuleren van investeringen"
+            ],
+            [
+              "أَنْ يَنْخَفِضَ التَّضَخُّمُ",
+              "اِنْخِفاضُ التَّضَخُّمِ",
+              "de daling van de inflatie"
+            ],
+            [
+              "أَنْ تَدْعَمَ الدَّوْلَةُ الشَّرِكاتِ",
+              "دَعْمُ الدَّوْلَةِ لِلشَّرِكاتِ",
+              "de steun van de staat aan de bedrijven"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom deze stijl? Een maṣdar maakt van een handeling een **ding** waarover je verder kunt praten: je kunt het onderwerp van een zin maken ({ar|أَدّى رَفْعُ الأَسْعارِ إِلى …}). Zo worden zinnen compacter, net als het Nederlandse *de verhoging van* in plaats van *dat men verhoogt*."
+        },
+        {
+          "type": "letop",
+          "md": "Staan zowel de **handelende persoon** als het **lijdend voorwerp** erbij, dan komt de handelende persoon in de genitief en krijgt het voorwerp {ar|لِـ}: {ar|دَعْمُ الدَّوْلَةِ لِلشَّرِكاتِ}."
+        }
+      ]
+    },
+    {
+      "titel": "Economisch nieuws",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تُعاني البِلادُ مِنَ البَطالَةِ.",
+              "tr": "tuʿāni l-bilādu mina l-baṭāla.",
+              "nl": "Het land lijdt onder werkloosheid."
+            },
+            {
+              "ar": "قَرَّرَتِ الحُكومَةُ رَفْعَ الحَدِّ الأَدْنى لِلْأُجورِ.",
+              "tr": "qarrarati l-ḥukūmatu rafʿa l-ḥaddi l-adnā li-l-ujūr.",
+              "nl": "De regering besloot het minimumloon te verhogen."
+            },
+            {
+              "ar": "يَهْدِفُ المَشْروعُ إِلى خَلْقِ فُرَصِ عَمَلٍ جَديدَةٍ.",
+              "tr": "yahdifu l-mašrūʿu ilā ḫalqi furaṣi ʿamalin jadīda.",
+              "nl": "Het project is gericht op het scheppen van nieuwe banen."
+            },
+            {
+              "ar": "أَدّى اِرْتِفاعُ الأَسْعارِ إِلى اِنْخِفاضِ الاِسْتِهْلاكِ.",
+              "tr": "addā rtifāʿu l-asʿāri ilā nḫifāḍi l-istihlāk.",
+              "nl": "De prijsstijging leidde tot een daling van de consumptie."
+            },
+            {
+              "ar": "يَجِبُ تَشْجيعُ الاِسْتِثْمارِ في قِطاعِ السِّياحَةِ.",
+              "tr": "yajibu tašjīʿu l-istiṯmāri fī qiṭāʿi s-siyāḥa.",
+              "nl": "Investeringen in de toerismesector moeten gestimuleerd worden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِقْتِصادٌ",
+              "nl": "economie",
+              "woord": "j3-p10-l109-w01"
+            },
+            {
+              "ar": "بَطالَةٌ",
+              "nl": "werkloosheid",
+              "woord": "j3-p10-l109-w03"
+            },
+            {
+              "ar": "تَضَخُّمٌ",
+              "nl": "inflatie",
+              "woord": "j3-p10-l109-w07"
+            },
+            {
+              "ar": "تَصْديرٌ",
+              "nl": "export",
+              "woord": "j3-p10-l109-w09"
+            },
+            {
+              "ar": "اِسْتيرادٌ",
+              "nl": "import",
+              "woord": "j3-p10-l109-w10"
+            },
+            {
+              "ar": "أَزْمَةٌ",
+              "nl": "crisis",
+              "woord": "j3-p10-l109-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "اِنْخِفاضُ نِسْبَةِ البَطالَةِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "een daling van de werkloosheid",
+            "een stijging van de werkloosheid",
+            "een economische crisis"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِنْخِفاضٌ} = daling."
+        }
+      ]
+    },
+    {
+      "titel": "Maṣdar in plaats van أَنْ",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "nominalisatie",
+          "vraag": "Welke zin is nominaal geschreven?",
+          "opties": [
+            "قَرَّرَتِ الشَّرِكَةُ تَوْظيفَ مُهَنْدِسينَ.",
+            "قَرَّرَتِ الشَّرِكَةُ أَنْ تُوَظِّفَ مُهَنْدِسينَ.",
+            "تُوَظِّفُ الشَّرِكَةُ مُهَنْدِسينَ."
+          ],
+          "juist": 0,
+          "uitleg": "Maṣdar {ar|تَوْظيفَ} + genitief."
+        },
+        {
+          "type": "invullen",
+          "tag": "nominalisatie",
+          "zin": "قَرَّرَ البَنْكُ ___ الفائِدَةِ.",
+          "nl": "De bank besloot de rente te verlagen.",
+          "antwoord": [
+            "خَفْضَ"
+          ],
+          "uitleg": "Maṣdar als lijdend voorwerp.",
+          "woordbank": [
+            "خَفْضَ",
+            "يَخْفِضَ",
+            "مَخْفوضَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "nominalisatie",
+          "zin": "يَجِبُ ___ الصّادِراتِ.",
+          "nl": "De export moet worden gestimuleerd.",
+          "antwoord": [
+            "تَشْجيعُ"
+          ],
+          "uitleg": "Na {ar|يَجِبُ}: maṣdar als onderwerp.",
+          "woordbank": [
+            "تَشْجيعُ",
+            "يُشَجِّعُ",
+            "مُشَجِّعٌ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "nominalisatie",
+          "instructie": "Zet om naar een maṣdar.",
+          "rijen": [
+            {
+              "label": "أَنْ نَسْتَثْمِرَ",
+              "antwoord": "اِسْتِثْمار",
+              "tr": "istiṯmār"
+            },
+            {
+              "label": "أَنْ نُنْتِجَ",
+              "antwoord": "إِنْتاج",
+              "tr": "intāj"
+            },
+            {
+              "label": "أَنْ نَسْتَهْلِكَ",
+              "antwoord": "اِسْتِهْلاك",
+              "tr": "istihlāk"
+            }
+          ],
+          "uitleg": "Maṣdar van vorm X, IV en X."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "nominalisatie",
+          "vraag": "Hoe zeg je 'de steun van de staat aan de boeren'?",
+          "opties": [
+            "دَعْمُ الدَّوْلَةِ لِلْفَلّاحينَ",
+            "دَعْمُ الدَّوْلَةَ الفَلّاحينَ",
+            "الدَّوْلَةُ دَعْمٌ الفَلّاحينَ"
+          ],
+          "juist": 0,
+          "uitleg": "Handelende persoon genitief, voorwerp met {ar|لِـ}."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "nominalisatie",
+          "nl": "De prijsstijging leidde tot een daling van de consumptie.",
+          "woorden": [
+            "أَدّى",
+            "اِرْتِفاعُ",
+            "الأَسْعارِ",
+            "إِلى",
+            "اِنْخِفاضِ",
+            "الاِسْتِهْلاكِ."
+          ],
+          "uitleg": "Maṣdar als onderwerp."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de arbeidsmarkt",
+          "antwoorden": [
+            "سوقُ العَمَلِ",
+            "سوق العمل"
+          ],
+          "uitleg": "{ar|سوقُ العَمَلِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "nominalisatie",
+          "bron": "تُعاني البِلادُ مِنَ البَطالَةِ.",
+          "antwoorden": [
+            "het land lijdt onder werkloosheid",
+            "het land lijdt aan werkloosheid",
+            "het land kampt met werkloosheid"
+          ],
+          "uitleg": "{ar|عانى مِنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "دَخْلٌ",
+            "nl": "inkomen"
+          },
+          {
+            "ar": "قِطاعٌ",
+            "nl": "sector"
+          },
+          {
+            "ar": "تِجارَةٌ",
+            "nl": "handel"
+          },
+          {
+            "ar": "نُمُوٌّ",
+            "nl": "groei"
+          },
+          {
+            "ar": "أُجورٌ",
+            "nl": "lonen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "In de nominale stijl wordt het lijdend voorwerp na een maṣdar ...",
+        "opties": [
+          "een genitief",
+          "een nominatief",
+          "weggelaten"
+        ],
+        "juist": 0,
+        "uitleg": "Iḍāfa."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "'Het verhogen van de belastingen' is ...",
+        "opties": [
+          "رَفْعُ الضَّرائِبِ",
+          "يَرْفَعُ الضَّرائِبَ",
+          "مَرْفوعُ الضَّرائِبِ"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar + genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|تَضَخُّمٌ} betekent ...",
+        "opties": [
+          "inflatie",
+          "investering",
+          "export"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V-maṣdar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "Welke maṣdar hoort bij {ar|اِسْتَوْرَدَ}?",
+        "opties": [
+          "اِسْتيرادٌ",
+          "تَوْريدٌ",
+          "مُسْتَوْرَدٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm X van و-ر-د."
+      },
+      {
+        "type": "luisteren",
+        "tag": "nominalisatie",
+        "tekst": "قَرَّرَتِ الحُكومَةُ دَعْمَ الفَلّاحينَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De regering besloot de boeren te steunen.",
+          "De boeren steunen de regering.",
+          "De regering stopte met steun."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|دَعْمَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "تَراجَعَ الاِسْتِثْمارُ بِسَبَبِ الأَزْمَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De investeringen daalden door de crisis.",
+          "De crisis is voorbij.",
+          "Er wordt veel geïnvesteerd."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الأَزْمَةُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "nominalisatie",
+        "zin": "يَهْدِفُ البَرْنامَجُ إِلى ___ فُرَصِ عَمَلٍ.",
+        "nl": "Het programma is gericht op het scheppen van banen.",
+        "antwoord": [
+          "خَلْقِ"
+        ],
+        "uitleg": "Na {ar|إِلى}: maṣdar in de genitief.",
+        "woordbank": [
+          "خَلْقِ",
+          "يَخْلُقُ",
+          "مَخْلوقِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يَعْتَمِدُ اقْتِصادُ المَغْرِبِ عَلى ___ وَالزِّراعَةِ.",
+        "nl": "De economie van Marokko steunt op toerisme en landbouw.",
+        "antwoord": [
+          "السِّياحَةِ"
+        ],
+        "uitleg": "{ar|سِياحَةٌ}",
+        "woordbank": [
+          "السِّياحَةِ",
+          "البَطالَةِ",
+          "التَّضَخُّمِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "nominalisatie",
+        "zin": "يَجِبُ ___ الأُجورِ.",
+        "nl": "De lonen moeten verhoogd worden.",
+        "antwoord": [
+          "رَفْعُ"
+        ],
+        "uitleg": "Maṣdar als onderwerp.",
+        "woordbank": [
+          "رَفْعُ",
+          "يَرْفَعُ",
+          "مَرْفوعٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "nominalisatie",
+        "instructie": "Geef de maṣdar.",
+        "rijen": [
+          {
+            "label": "وَظَّفَ (II)",
+            "antwoord": "تَوْظيف",
+            "tr": "tawẓīf"
+          },
+          {
+            "label": "صَدَّرَ (II)",
+            "antwoord": "تَصْدير",
+            "tr": "taṣdīr"
+          }
+        ],
+        "uitleg": "Patroon تَفْعيل."
+      },
+      {
+        "type": "ordenen",
+        "tag": "nominalisatie",
+        "nl": "De regering besloot de lonen te verhogen.",
+        "woorden": [
+          "قَرَّرَتِ",
+          "الحُكومَةُ",
+          "رَفْعَ",
+          "الأُجورِ."
+        ],
+        "uitleg": "Nominaal."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de werkloosheid",
+        "antwoorden": [
+          "البَطالَةُ"
+        ],
+        "uitleg": "{ar|البَطالَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "nominalisatie",
+        "bron": "يَجِبُ تَشْجيعُ الاِسْتِثْمارِ.",
+        "antwoorden": [
+          "investeringen moeten gestimuleerd worden",
+          "investering moet worden aangemoedigd",
+          "we moeten investeringen stimuleren"
+        ],
+        "uitleg": "Maṣdar als onderwerp."
+      }
+    ]
+  }
+}

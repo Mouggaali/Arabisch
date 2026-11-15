@@ -1,0 +1,645 @@
+{
+  "id": "j3-p10-d24",
+  "code": "D24",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: verschillen met Fusha systematisch",
+  "thema": "De regels achter het Darija; dagelijkse werkwoorden",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de belangrijkste systematische verschillen tussen Darija en Fusha benoemen.",
+    "dagelijkse Darija-werkwoorden koppelen aan hun Fusha-tegenhanger.",
+    "een eenvoudige zin van het ene register naar het andere omzetten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-d24-w01",
+      "ar": "شاف",
+      "tr": "šāf",
+      "nl": [
+        "zien"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|رَأى}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w02",
+      "ar": "خدا",
+      "tr": "xda",
+      "nl": [
+        "nemen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَخَذَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w03",
+      "ar": "جاب",
+      "tr": "jāb",
+      "nl": [
+        "(mee)brengen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَحْضَرَ / جاءَ بِـ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w04",
+      "ar": "مشا",
+      "tr": "mša",
+      "nl": [
+        "gaan, weggaan"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|ذَهَبَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w05",
+      "ar": "ناض",
+      "tr": "nāḍ",
+      "nl": [
+        "opstaan"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|قامَ / نَهَضَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w06",
+      "ar": "طاح",
+      "tr": "ṭāḥ",
+      "nl": [
+        "vallen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|سَقَطَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w07",
+      "ar": "عيط",
+      "tr": "ʿəyyəṭ",
+      "nl": [
+        "roepen; bellen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|نادى / اِتَّصَلَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w08",
+      "ar": "كلا",
+      "tr": "kla",
+      "nl": [
+        "eten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَكَلَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w09",
+      "ar": "عطا",
+      "tr": "ʿṭa",
+      "nl": [
+        "geven"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَعْطى}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w10",
+      "ar": "هضر",
+      "tr": "hḍəṛ",
+      "nl": [
+        "praten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|تَكَلَّمَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w11",
+      "ar": "سول",
+      "tr": "səwwəl",
+      "nl": [
+        "vragen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|سَأَلَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w12",
+      "ar": "نعس",
+      "tr": "nʿəs",
+      "nl": [
+        "slapen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|نامَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w13",
+      "ar": "سد",
+      "tr": "sədd",
+      "nl": [
+        "dichtdoen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَغْلَقَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w14",
+      "ar": "حل",
+      "tr": "ḥəll",
+      "nl": [
+        "openmaken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|فَتَحَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d24-w15",
+      "ar": "بغا",
+      "tr": "bġa",
+      "nl": [
+        "willen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَرادَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Darija en Fusha naast elkaar",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Kenmerk",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "korte klinkers",
+              "كَتَبَ|kataba",
+              "كتب|ktəb"
+            ],
+            [
+              "ik (muḍāriʿ)",
+              "أَكْتُبُ|aktubu",
+              "كنكتب|kanəktəb"
+            ],
+            [
+              "wij (muḍāriʿ)",
+              "نَكْتُبُ|naktubu",
+              "كنكتبو|kanəktbu"
+            ],
+            [
+              "ontkenning",
+              "لا أَكْتُبُ / لَمْ أَكْتُبْ",
+              "ما كنكتبش|ma kanəktəbš"
+            ],
+            [
+              "toekomst",
+              "سَأَكْتُبُ|sa-aktubu",
+              "غادي نكتب|ġādi nəktəb"
+            ],
+            [
+              "bezit",
+              "كِتابُ أَحْمَدَ",
+              "الكتاب ديال أحمد|lktāb dyāl aḥməd"
+            ],
+            [
+              "ث → ت, ذ → د",
+              "ثَلاثَةٌ، هٰذا",
+              "تلاتة، هادا|tlāta, hāda"
+            ],
+            [
+              "dualis",
+              "كِتابانِ",
+              "جوج كتوبا|žūž ktūba"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Darija is geen *verkeerd Fusha*: het is een eigen systeem met **vaste regels**. Wie de regels kent, ziet dat veel Darija-woorden gewoon Fusha-wortels zijn met een andere klank. De grootste verschillen zitten in de **dagelijkse werkwoorden**: die komen vaak van een andere wortel ({ar|شاف} i.p.v. {ar|رَأى})."
+        },
+        {
+          "type": "letop",
+          "md": "De 1e persoon enkelvoud begint in het Darija met **ن** ({ar|نكتب} = ik schrijf), terwijl dat in het Fusha *wij* is. Het meervoud krijgt dan **ـو** erachter ({ar|نكتبو} = wij schrijven)."
+        }
+      ]
+    },
+    {
+      "titel": "Zelfde zin, twee registers",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "شفت صاحبي البارح ف السوق.",
+              "tr": "šəft ṣāḥbi lbāṛəḥ f-ssūq.",
+              "nl": "Ik zag mijn vriend gisteren op de markt. (Fusha: رَأَيْتُ صَديقي أَمْسِ في السّوقِ.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "جيب ليا الخبز عافاك.",
+              "tr": "jīb līya lxubz ʿāfāk.",
+              "nl": "Breng het brood voor me mee, alsjeblieft. (Fusha: أَحْضِرْ لي الخُبْزَ مِنْ فَضْلِكَ.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ما بغيتش نمشي دابا.",
+              "tr": "ma bġītš nəmši dāba.",
+              "nl": "Ik wil nu niet gaan. (Fusha: لا أُريدُ أَنْ أَذْهَبَ الآنَ.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "سد الباب وحل الشرجم.",
+              "tr": "sədd lbāb w-ḥəll ššəṛžəm.",
+              "nl": "Doe de deur dicht en het raam open. (Fusha: أَغْلِقِ البابَ وَافْتَحِ النّافِذَةَ.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-fusha",
+          "paren": [
+            {
+              "ar": "شاف",
+              "nl": "رَأى",
+              "woord": "j3-p10-d24-w01"
+            },
+            {
+              "ar": "خدا",
+              "nl": "أَخَذَ",
+              "woord": "j3-p10-d24-w02"
+            },
+            {
+              "ar": "مشا",
+              "nl": "ذَهَبَ",
+              "woord": "j3-p10-d24-w04"
+            },
+            {
+              "ar": "طاح",
+              "nl": "سَقَطَ",
+              "woord": "j3-p10-d24-w06"
+            },
+            {
+              "ar": "هضر",
+              "nl": "تَكَلَّمَ",
+              "woord": "j3-p10-d24-w10"
+            },
+            {
+              "ar": "نعس",
+              "nl": "نامَ",
+              "woord": "j3-p10-d24-w12"
+            }
+          ],
+          "uitleg": "Darija – Fusha."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-fusha",
+          "tekst": "ما بغيتش نمشي",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "Ik wil niet gaan.",
+            "Ik ga morgen.",
+            "Ik ben al gegaan."
+          ],
+          "juist": 0,
+          "uitleg": "Darija (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Systematisch vergelijken",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Wat betekent Darija {ar|نكتب}?",
+          "opties": [
+            "ik schrijf",
+            "wij schrijven",
+            "jij schrijft"
+          ],
+          "juist": 0,
+          "uitleg": "1e persoon met ن."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|غادي} komt overeen met Fusha ...",
+          "opties": [
+            "سَـ / سَوْفَ",
+            "لَمْ",
+            "قَدْ"
+          ],
+          "juist": 0,
+          "uitleg": "Toekomst."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-fusha",
+          "zin": "سد الباب و___ الشرجم.",
+          "nl": "Doe de deur dicht en het raam open.",
+          "antwoord": [
+            "حل"
+          ],
+          "uitleg": "{ar|حل} = openmaken.",
+          "woordbank": [
+            "حل",
+            "سد",
+            "طاح"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-fusha",
+          "nl": "Ik zag mijn vriend gisteren.",
+          "woorden": [
+            "شفت",
+            "صاحبي",
+            "البارح."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-fusha",
+          "bron": "praten (Darija)",
+          "antwoorden": [
+            "هضر"
+          ],
+          "uitleg": "{ar|هضر}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-fusha",
+          "bron": "جيب ليا الخبز",
+          "antwoorden": [
+            "breng het brood voor me mee",
+            "breng me het brood",
+            "haal het brood voor me"
+          ],
+          "uitleg": "Darija.",
+          "tr": "jīb līya lxubz"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-fusha",
+        "paren": [
+          {
+            "ar": "كلا",
+            "nl": "أَكَلَ"
+          },
+          {
+            "ar": "عطا",
+            "nl": "أَعْطى"
+          },
+          {
+            "ar": "سول",
+            "nl": "سَأَلَ"
+          },
+          {
+            "ar": "بغا",
+            "nl": "أَرادَ"
+          }
+        ],
+        "uitleg": "Darija – Fusha."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Welke klank wordt ث in het Darija meestal?",
+        "opties": [
+          "ت",
+          "س",
+          "ذ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تلاتة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Hoe ontken je in het Darija?",
+        "opties": [
+          "ما … ش",
+          "لَمْ + majzūm",
+          "لَنْ + manṣūb"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما كنكتبش}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "'Wij schrijven' in het Darija is ...",
+        "opties": [
+          "كنكتبو",
+          "كنكتب",
+          "كيكتبو"
+        ],
+        "juist": 0,
+        "uitleg": "ن…و."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-fusha",
+        "tekst": "عيط ليا من بعد",
+        "vraag": "Wat vraagt de spreker?",
+        "opties": [
+          "Bel me later.",
+          "Kom later langs.",
+          "Eet later."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عيط}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-fusha",
+        "tekst": "طاح الكاس",
+        "vraag": "Wat is er gebeurd?",
+        "opties": [
+          "Het glas is gevallen.",
+          "Het glas is vol.",
+          "Het glas is schoon."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|طاح}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-fusha",
+        "zin": "___ بكري باش نمشي للخدمة.",
+        "nl": "Ik sta vroeg op om naar het werk te gaan.",
+        "antwoord": [
+          "كننوض"
+        ],
+        "uitleg": "{ar|ناض}",
+        "woordbank": [
+          "كننوض",
+          "كننعس",
+          "كنطيح"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-fusha",
+        "zin": "شنو ___ ليك خوك؟",
+        "nl": "Wat heeft je broer je gegeven?",
+        "antwoord": [
+          "عطا"
+        ],
+        "uitleg": "{ar|عطا}",
+        "woordbank": [
+          "عطا",
+          "خدا",
+          "سول"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-fusha",
+        "nl": "Ik wil nu niet gaan.",
+        "woorden": [
+          "ما",
+          "بغيتش",
+          "نمشي",
+          "دابا."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-fusha",
+        "bron": "zien (Darija)",
+        "antwoorden": [
+          "شاف"
+        ],
+        "uitleg": "{ar|شاف}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-fusha",
+        "bron": "slapen (Darija)",
+        "antwoorden": [
+          "نعس"
+        ],
+        "uitleg": "{ar|نعس}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-fusha",
+        "bron": "هضر معايا",
+        "antwoorden": [
+          "praat met mij",
+          "spreek met me"
+        ],
+        "uitleg": "Darija.",
+        "tr": "hḍəṛ mʿāya"
+      }
+    ]
+  }
+}

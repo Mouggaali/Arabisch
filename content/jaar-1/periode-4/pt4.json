@@ -1,0 +1,553 @@
+{
+  "id": "j1-p4-pt4",
+  "code": "PT4",
+  "type": "periodetoets",
+  "titel": "Periodetoets 4",
+  "thema": "Alle leerdoelen van periode 4 (les 37 tot en met 48, D04–D06)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** object-suffixen, vaste voorzetsels, de weg vragen met يوجَدُ, de dualis bij werkwoorden (L37–L40).",
+    "**Getoetst:** grote getallen en jaartallen, telwoordregels, أُريدُ أَنْ, alle 13 personen en de ontkenningen (L41–L44).",
+    "**Getoetst:** vergrotende trap, feestwensen en كُلّ / بَعْض, voegwoorden, een bericht schrijven (L45–L48).",
+    "**Getoetst:** Darija: tegenwoordige tijd, verleden tijd, ontkenning en toekomst (D04–D06).",
+    "Geslaagd vanaf 70%. Maak eerst H12 en herhaal je flashcards."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "'Ze kent mij' is ...",
+        "opties": [
+          "تَعْرِفُني",
+          "تَعْرِفُي",
+          "تَعْرِفُها"
+        ],
+        "juist": 0,
+        "uitleg": "ـني bij een werkwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "Wat betekent {ar|ساعَدْتُهُمْ}?",
+        "opties": [
+          "Ik hielp hen.",
+          "Zij hielpen mij.",
+          "Ik hielp hem."
+        ],
+        "juist": 0,
+        "uitleg": "ـهُمْ = hen."
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "أَيْنَ المِفْتاحُ؟ — لا أَجِدُ___.",
+        "nl": "Waar is de sleutel? — Ik vind hem niet.",
+        "woordbank": [
+          "ـهُ",
+          "ـها",
+          "ـني"
+        ],
+        "antwoord": [
+          "ـهُ",
+          "هُ",
+          "ه"
+        ],
+        "uitleg": "{ar|المِفْتاحُ} is mannelijk → ـهُ."
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "وَصَلْنا ___ المَطارِ في السّاعَةِ الثّالِثَةِ.",
+        "nl": "We kwamen om drie uur aan op het vliegveld.",
+        "woordbank": [
+          "إِلى",
+          "مِنْ",
+          "عَنْ"
+        ],
+        "antwoord": [
+          "إِلى",
+          "الى",
+          "إلى"
+        ],
+        "uitleg": "{ar|وَصَلَ إِلى}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reizen",
+        "vraag": "'Met de trein' is ...",
+        "opties": [
+          "بِالقِطارِ",
+          "مَعَ القِطارِ",
+          "في القِطارُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِـ} + vervoermiddel."
+      },
+      {
+        "type": "invullen",
+        "tag": "yujad",
+        "zin": "___ صَيْدَلِيَّةٌ في هٰذا الشّارِعِ؟",
+        "nl": "Is er een apotheek in deze straat?",
+        "woordbank": [
+          "هَلْ توجَدُ",
+          "هَلْ يوجَدُ"
+        ],
+        "antwoord": [
+          "هَلْ توجَدُ"
+        ],
+        "uitleg": "{ar|صَيْدَلِيَّةٌ} vrouwelijk → {ar|توجَدُ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "de-weg",
+        "tekst": "اِمْشِ مُسْتَقيمًا ثُمَّ خُذِ الشّارِعَ الأَوَّلَ عَلى اليَسارِ",
+        "vraag": "Welke route?",
+        "opties": [
+          "Rechtdoor, dan de eerste straat links.",
+          "Links, dan de tweede straat rechts.",
+          "Rechtdoor tot het plein."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اليَسار} = links."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-werkwoord",
+        "vraag": "'Zij twee (m) gingen' is ...",
+        "opties": [
+          "ذَهَبا",
+          "ذَهَبَتا",
+          "ذَهَبْتُما"
+        ],
+        "juist": 0,
+        "uitleg": "ـا"
+      },
+      {
+        "type": "invullen",
+        "tag": "dualis-werkwoord",
+        "zin": "أَنْتُما ___ في هولَنْدا.",
+        "nl": "Jullie (twee) wonen in Nederland.",
+        "woordbank": [
+          "تَسْكُنانِ",
+          "يَسْكُنانِ",
+          "تَسْكُنونَ"
+        ],
+        "antwoord": [
+          "تَسْكُنانِ"
+        ],
+        "uitleg": "تَـ … ـانِ"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "dualis-werkwoord",
+        "instructie": "Vervoeg فَهِمَ / يَفْهَمُ in de dualis.",
+        "rijen": [
+          {
+            "label": "zij twee (v), verleden",
+            "antwoord": "فَهِمَتا",
+            "tr": "fahimatā"
+          },
+          {
+            "label": "jullie twee, verleden",
+            "antwoord": "فَهِمْتُما",
+            "tr": "fahimtumā"
+          },
+          {
+            "label": "zij twee (m), heden",
+            "antwoord": "يَفْهَمانِ",
+            "tr": "yafhamāni"
+          }
+        ],
+        "uitleg": "ـَتا · ـْتُما · يَـ … ـانِ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "grote-getallen",
+        "vraag": "'Achthonderd' is ...",
+        "opties": [
+          "ثَمانُمِئَةٍ",
+          "ثَمانونَ",
+          "ثَمانِيَةُ آلافٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Eenheid + {ar|مِئَةٍ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "jaartallen",
+        "tekst": "أَلْفانِ وَعِشْرونَ",
+        "vraag": "Welk jaar hoor je?",
+        "opties": [
+          "2020",
+          "2002",
+          "1920"
+        ],
+        "juist": 0,
+        "uitleg": "2000 + 20."
+      },
+      {
+        "type": "invullen",
+        "tag": "grote-getallen",
+        "zin": "٢٠٠٠ = ___",
+        "nl": "tweeduizend",
+        "antwoord": [
+          "أَلْفانِ"
+        ],
+        "uitleg": "Dualis van {ar|أَلْفٌ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Negen boeken' is ...",
+        "opties": [
+          "تِسْعَةُ كُتُبٍ",
+          "تِسْعُ كُتُبٍ",
+          "تِسْعَةُ كِتابًا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كِتابٌ} mannelijk → met ة; genitief meervoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Vijfentwintig studentes' is ...",
+        "opties": [
+          "خَمْسٌ وَعِشْرونَ طالِبَةً",
+          "خَمْسٌ وَعِشْرونَ طالِباتٍ",
+          "خَمْسَةٌ وَعِشْرونَ طالِبَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "11–99: accusatief enkelvoud; vrouwelijk → {ar|خَمْسٌ}."
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoordregels",
+        "zin": "اِشْتَرَيْتُ ___ زُجاجاتٍ مِنَ الماءِ.",
+        "nl": "Ik kocht drie flessen water.",
+        "woordbank": [
+          "ثَلاثَ",
+          "ثَلاثَةَ"
+        ],
+        "antwoord": [
+          "ثَلاثَ"
+        ],
+        "uitleg": "{ar|زُجاجَةٌ} vrouwelijk → zonder ة."
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoordregels",
+        "zin": "في المَكْتَبَةِ أَلْفُ ___.",
+        "nl": "In de bibliotheek zijn duizend boeken.",
+        "woordbank": [
+          "كِتابٍ",
+          "كُتُبٍ",
+          "كِتابًا"
+        ],
+        "antwoord": [
+          "كِتابٍ"
+        ],
+        "uitleg": "1000: genitief enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-mudari",
+        "vraag": "'Ik wil een kamer reserveren' is ...",
+        "opties": [
+          "أُريدُ أَنْ أَحْجِزَ غُرْفَةً.",
+          "أُريدُ أَنْ سَأَحْجِزُ غُرْفَةً.",
+          "أُريدُ حَجَزْتُ غُرْفَةً."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْ} + muḍāriʿ op -a."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hotel",
+        "tekst": "عِنْدَنا غُرْفَةٌ مُزْدَوِجَةٌ لِثَلاثِ لَيالٍ",
+        "vraag": "Wat is er beschikbaar?",
+        "opties": [
+          "Een tweepersoonskamer voor drie nachten.",
+          "Een eenpersoonskamer voor twee nachten.",
+          "Geen kamer."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُزْدَوِجَةٌ} = tweepersoons."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vervoeging-overzicht",
+        "instructie": "Vervoeg سَكَنَ / يَسْكُنُ.",
+        "rijen": [
+          {
+            "label": "jij (v), heden",
+            "antwoord": "تَسْكُنينَ",
+            "tr": "taskunīna"
+          },
+          {
+            "label": "jullie (m), verleden",
+            "antwoord": "سَكَنْتُمْ",
+            "tr": "sakantum"
+          },
+          {
+            "label": "zij (m mv), heden",
+            "antwoord": "يَسْكُنونَ",
+            "tr": "yaskunūna"
+          }
+        ],
+        "uitleg": "{ar|تَسْكُنينَ} · {ar|سَكَنْتُمْ} · {ar|يَسْكُنونَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vervoeging-overzicht",
+        "vraag": "{ar|كَتَبْنا} of {ar|كَتَبْنَ}: welke betekent *zij (v mv) schreven*?",
+        "opties": [
+          "كَتَبْنَ",
+          "كَتَبْنا",
+          "beide"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كَتَبْنا} = wij."
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-overzicht",
+        "zin": "___ أَكَلْتُ اليَوْمَ.",
+        "nl": "Ik heb vandaag niet gegeten.",
+        "woordbank": [
+          "ما",
+          "لا",
+          "لَسْتُ"
+        ],
+        "antwoord": [
+          "ما"
+        ],
+        "uitleg": "Māḍī → {ar|ما}."
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-overzicht",
+        "zin": "هِيَ ___ مُتَزَوِّجَةً.",
+        "nl": "Zij is niet getrouwd.",
+        "woordbank": [
+          "لَيْسَتْ",
+          "لا",
+          "ما"
+        ],
+        "antwoord": [
+          "لَيْسَتْ"
+        ],
+        "uitleg": "Zonder werkwoord → {ar|لَيْسَ} vervoegd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vergrotende-trap",
+        "vraag": "'Deze stad is mooier dan Rabat' is ...",
+        "opties": [
+          "هٰذِهِ المَدينَةُ أَجْمَلُ مِنَ الرِّباطِ.",
+          "هٰذِهِ المَدينَةُ جَميلَةٌ مِنَ الرِّباطِ.",
+          "هٰذِهِ المَدينَةُ أَجْمَلَةٌ مِنَ الرِّباطِ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَجْمَلُ} verandert niet."
+      },
+      {
+        "type": "invullen",
+        "tag": "vergrotende-trap",
+        "zin": "القِطارُ ___ مِنَ الطّائِرَةِ.",
+        "nl": "De trein is goedkoper dan het vliegtuig.",
+        "antwoord": [
+          "أَرْخَصُ"
+        ],
+        "uitleg": "{ar|رَخيصٌ} → {ar|أَرْخَصُ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vergrotende-trap",
+        "tekst": "بَيْتُكُمْ أَقْرَبُ مِنَ المَحَطَّةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Jullie huis ligt dichter bij het station.",
+          "Jullie huis ligt verder van het station.",
+          "Jullie huis is groter dan het station."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَقْرَبُ} = dichterbij."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "feestwensen",
+        "vraag": "Iemand zegt {ar|مَبْروكٌ}. Wat antwoord je?",
+        "opties": [
+          "اللهُ يُبارِكُ فيكَ",
+          "وَعَلَيْكُمُ السَّلامُ",
+          "اللهُ أَكْرَمُ"
+        ],
+        "juist": 0,
+        "uitleg": "Antwoord op een felicitatie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kull-bad",
+        "vraag": "'Alle huizen' is ...",
+        "opties": [
+          "كُلُّ البُيوتِ",
+          "كُلُّ بَيْتٍ",
+          "كُلُّ البَيْتِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُلُّ} + bepaald meervoud = alle."
+      },
+      {
+        "type": "invullen",
+        "tag": "kull-bad",
+        "zin": "أَزورُ جَدّي ___ شَهْرٍ.",
+        "nl": "Ik bezoek mijn opa elke maand.",
+        "woordbank": [
+          "كُلَّ",
+          "بَعْضَ"
+        ],
+        "antwoord": [
+          "كُلَّ"
+        ],
+        "uitleg": "{ar|كُلَّ} + onbepaald enkelvoud = elke."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voegwoorden",
+        "vraag": "Welke zin is juist? (omdat zij werkt)",
+        "opties": [
+          "لِأَنَّها تَعْمَلُ",
+          "لِأَنَّ تَعْمَلُ",
+          "لِأَنْ هِيَ تَعْمَلُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لِأَنَّ} + suffix."
+      },
+      {
+        "type": "invullen",
+        "tag": "voegwoorden",
+        "zin": "أَكَلْنا ___ ذَهَبْنا إِلى السّينَما.",
+        "nl": "We hebben gegeten en daarna zijn we naar de bioscoop gegaan.",
+        "woordbank": [
+          "ثُمَّ",
+          "لِأَنَّ",
+          "لٰكِنَّ"
+        ],
+        "antwoord": [
+          "ثُمَّ"
+        ],
+        "uitleg": "{ar|ثُمَّ} = daarna."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bericht-schrijven",
+        "vraag": "Hoe begin je een bericht aan je vriend Karim?",
+        "opties": [
+          "عَزيزي كَريمُ،",
+          "عَزيزَتي كَريمُ،",
+          "مَعَ تَحِيّاتي كَريمُ،"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عَزيزي} aan een man."
+      },
+      {
+        "type": "ordenen",
+        "tag": "bericht-schrijven",
+        "nl": "Ik hoop dat het goed met je gaat.",
+        "woorden": [
+          "أَتَمَنّى",
+          "أَنْ",
+          "تَكونَ",
+          "بِخَيْرٍ."
+        ],
+        "uitleg": "{ar|أَتَمَنّى أَنْ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "telwoordregels",
+        "nl": "Ik heb vijf eieren gekocht.",
+        "woorden": [
+          "اِشْتَرَيْتُ",
+          "خَمْسَ",
+          "بَيْضاتٍ."
+        ],
+        "uitleg": "Vrouwelijk woord → {ar|خَمْسَ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-presens",
+        "vraag": "'Wij werken' in het Darija is ...",
+        "opties": [
+          "كانخدمو",
+          "كانخدم",
+          "كايخدمو"
+        ],
+        "juist": 0,
+        "uitleg": "ka-n- … -u = wij."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-verleden",
+        "vraag": "Het Darija {ar|مشيت} betekent ...",
+        "opties": [
+          "ik ging",
+          "ik kom",
+          "ik ga gaan"
+        ],
+        "juist": 0,
+        "uitleg": "Verleden tijd, ik."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-ontkenning",
+        "vraag": "'Ik heb het niet begrepen' in het Darija is ...",
+        "opties": [
+          "مافهمتش",
+          "ماشي فهمت",
+          "لا فهمت"
+        ],
+        "juist": 0,
+        "uitleg": "ما … ش."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-toekomst",
+        "tekst": "غادي نمشي غدا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik ga morgen.",
+          "Ik ging gisteren.",
+          "Ik ga niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غادي} = toekomst."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "object-suffix",
+        "bron": "Hij helpt ons.",
+        "antwoorden": [
+          "يُساعِدُنا",
+          "هُوَ يُساعِدُنا"
+        ],
+        "uitleg": "{ar|يُساعِدُنا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vergrotende-trap",
+        "bron": "الحَيُّ الجَديدُ أَهْدَأُ.",
+        "antwoorden": [
+          "de nieuwe wijk is rustiger"
+        ],
+        "uitleg": "{ar|أَهْدَأُ} = rustiger."
+      }
+    ]
+  }
+}

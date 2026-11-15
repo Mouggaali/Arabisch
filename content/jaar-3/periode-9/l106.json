@@ -1,0 +1,613 @@
+{
+  "id": "j3-p9-l106",
+  "code": "L106",
+  "type": "les",
+  "titel": "Verhalen",
+  "thema": "Een spannend verhaal; de ḥāl als zin",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de ḥāl als zin gebruiken (وَهُوَ …، وَقَدْ …، muḍāriʿ).",
+    "enkelvoudige en zin-ḥāl afwisselen in een verhaal.",
+    "een scène levendig beschrijven."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l106-w01",
+      "ar": "وَهُوَ",
+      "tr": "wa-huwa",
+      "nl": [
+        "terwijl hij"
+      ],
+      "soort": "constructie (ḥāl)"
+    },
+    {
+      "id": "j3-p9-l106-w02",
+      "ar": "وَقَدْ",
+      "tr": "wa-qad",
+      "nl": [
+        "terwijl … al (ḥāl met māḍī)"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p9-l106-w03",
+      "ar": "حامِلًا",
+      "tr": "ḥāmilan",
+      "nl": [
+        "dragend"
+      ],
+      "soort": "ḥāl"
+    },
+    {
+      "id": "j3-p9-l106-w04",
+      "ar": "صامِتًا",
+      "tr": "ṣāmitan",
+      "nl": [
+        "zwijgend"
+      ],
+      "soort": "ḥāl"
+    },
+    {
+      "id": "j3-p9-l106-w05",
+      "ar": "باكِيًا",
+      "tr": "bākiyan",
+      "nl": [
+        "huilend"
+      ],
+      "soort": "ḥāl"
+    },
+    {
+      "id": "j3-p9-l106-w06",
+      "ar": "مُتَرَدِّدًا",
+      "tr": "mutaraddidan",
+      "nl": [
+        "aarzelend"
+      ],
+      "soort": "ḥāl"
+    },
+    {
+      "id": "j3-p9-l106-w07",
+      "ar": "مُبْتَسِمٌ",
+      "tr": "mubtasim",
+      "nl": [
+        "glimlachend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l106-w08",
+      "ar": "عَجوزٌ",
+      "tr": "ʿajūz",
+      "nl": [
+        "oude man / vrouw"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l106-w09",
+      "ar": "عَصًا",
+      "tr": "ʿaṣan",
+      "nl": [
+        "stok"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l106-w10",
+      "ar": "ظَلامٌ",
+      "tr": "ẓalām",
+      "nl": [
+        "duisternis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l106-w11",
+      "ar": "طَرَقَ البابَ",
+      "tr": "ṭaraqa l-bāb",
+      "nl": [
+        "op de deur kloppen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l106-w12",
+      "ar": "هَمَسَ",
+      "tr": "hamasa",
+      "nl": [
+        "fluisteren"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p9-l106-w13",
+      "ar": "اِلْتَفَتَ",
+      "tr": "iltafata",
+      "nl": [
+        "omkijken"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p9-l106-w14",
+      "ar": "خُطُواتٌ",
+      "tr": "ḫuṭuwāt",
+      "nl": [
+        "voetstappen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p9-l106-w15",
+      "ar": "غَريبٌ",
+      "tr": "ġarīb",
+      "nl": [
+        "vreemdeling, vreemd"
+      ],
+      "soort": "zelfstandig naamwoord / bijvoeglijk"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De ḥāl als zin (jumla ḥāliyya)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Een ḥāl kan ook een **hele zin** zijn, meestal ingeleid door {ar|وَ} (*terwijl*): {ar|دَخَلَ وَهُوَ يَبْتَسِمُ} (hij kwam binnen, glimlachend / terwijl hij glimlachte).",
+            "Mogelijke vormen: {ar|وَ} + voornaamwoord + muḍāriʿ of naamwoord ({ar|وَهُوَ مُتْعَبٌ}), of een muḍāriʿ zonder {ar|وَ} ({ar|جاءَ يَرْكُضُ}), of {ar|وَقَدْ} + māḍī ({ar|رَجَعَ وَقَدْ تَغَيَّرَ} = hij kwam terug, (inmiddels) veranderd)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Type ḥāl",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "enkelvoudig (les 79)",
+              "دَخَلَ مُبْتَسِمًا",
+              "hij kwam glimlachend binnen"
+            ],
+            [
+              "وَ + nominale zin",
+              "دَخَلَ وَهُوَ مُبْتَسِمٌ",
+              "hij kwam binnen terwijl hij glimlachte"
+            ],
+            [
+              "muḍāriʿ",
+              "جاءَ يَرْكُضُ",
+              "hij kwam rennend"
+            ],
+            [
+              "وَقَدْ + māḍī",
+              "رَجَعَ وَقَدْ كَبِرَ",
+              "hij kwam terug, inmiddels volwassen"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|وَ} als *terwijl*? Hier is {ar|وَ} niet *en* maar een **toestandsmarkering** ({ar|واوُ الحالِ}). Je herkent het doordat er direct een voornaamwoord ({ar|وَهُوَ}، {ar|وَهِيَ}) of {ar|قَدْ} volgt. Verhalen gebruiken dit heel vaak om scènes levendig te maken."
+        }
+      ]
+    },
+    {
+      "titel": "Een verhaal",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في لَيْلَةٍ مُظْلِمَةٍ طَرَقَ غَريبٌ البابَ وَهُوَ يَرْتَجِفُ مِنَ البَرْدِ.",
+              "tr": "fī laylatin muẓlimatin ṭaraqa ġarībun l-bāba wa-huwa yartajifu mina l-bard.",
+              "nl": "Op een donkere avond klopte een vreemdeling op de deur, bibberend van de kou.",
+              "review": {
+                "status": "onzeker",
+                "note": "يَرْتَجِفُ (vorm VIII, bibberen) is nieuw; controleren."
+              }
+            },
+            {
+              "ar": "فَتَحَتِ العَجوزُ البابَ مُتَرَدِّدَةً.",
+              "tr": "fataḥati l-ʿajūzu l-bāba mutaraddidatan.",
+              "nl": "De oude vrouw deed aarzelend de deur open."
+            },
+            {
+              "ar": "دَخَلَ الرَّجُلُ حامِلًا عَصًا قَديمَةً.",
+              "tr": "daḫala r-rajulu ḥāmilan ʿaṣan qadīma.",
+              "nl": "De man kwam binnen met (dragend) een oude stok."
+            },
+            {
+              "ar": "جَلَسَ صامِتًا وَعَيْناهُ تَنْظُرانِ إِلى النّارِ.",
+              "tr": "jalasa ṣāmitan wa-ʿaynāhu tanẓurāni ila n-nār.",
+              "nl": "Hij ging zwijgend zitten, zijn ogen gericht op het vuur."
+            },
+            {
+              "ar": "ثُمَّ هَمَسَ وَقَدِ ابْتَسَمَ: «شُكْرًا.»",
+              "tr": "ṯumma hamasa wa-qadi btasama: šukran.",
+              "nl": "Toen fluisterde hij met een glimlach: 'Dank je.'"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عَجوزٌ",
+              "nl": "oude man/vrouw",
+              "woord": "j3-p9-l106-w08"
+            },
+            {
+              "ar": "عَصًا",
+              "nl": "stok",
+              "woord": "j3-p9-l106-w09"
+            },
+            {
+              "ar": "ظَلامٌ",
+              "nl": "duisternis",
+              "woord": "j3-p9-l106-w10"
+            },
+            {
+              "ar": "هَمَسَ",
+              "nl": "fluisteren",
+              "woord": "j3-p9-l106-w12"
+            },
+            {
+              "ar": "اِلْتَفَتَ",
+              "nl": "omkijken",
+              "woord": "j3-p9-l106-w13"
+            },
+            {
+              "ar": "غَريبٌ",
+              "nl": "vreemdeling",
+              "woord": "j3-p9-l106-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "hal-zin",
+          "tekst": "دَخَلَ وَهُوَ يَبْتَسِمُ",
+          "vraag": "Hoe kwam hij binnen?",
+          "opties": [
+            "glimlachend",
+            "huilend",
+            "rennend"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|وَهُوَ} + muḍāriʿ."
+        }
+      ]
+    },
+    {
+      "titel": "Ḥāl-zinnen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "hal-zin",
+          "zin": "خَرَجَتْ ___ تَبْكي.",
+          "nl": "Ze ging huilend naar buiten.",
+          "antwoord": [
+            "وَهِيَ"
+          ],
+          "uitleg": "{ar|وَ} + voornaamwoord.",
+          "woordbank": [
+            "وَهِيَ",
+            "وَهُوَ",
+            "لِأَنَّها"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "hal-zin",
+          "zin": "رَجَعَ مِنَ السَّفَرِ ___ تَغَيَّرَ كَثيرًا.",
+          "nl": "Hij kwam terug van de reis, inmiddels erg veranderd.",
+          "antwoord": [
+            "وَقَدْ"
+          ],
+          "uitleg": "{ar|وَقَدْ} + māḍī.",
+          "woordbank": [
+            "وَقَدْ",
+            "وَلَنْ",
+            "وَلَمْ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hal-zin",
+          "vraag": "Wat betekent {ar|جاءَ يَرْكُضُ}?",
+          "opties": [
+            "Hij kwam rennend.",
+            "Hij rende en kwam.",
+            "Hij zal rennen."
+          ],
+          "juist": 0,
+          "uitleg": "Muḍāriʿ als ḥāl."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hal-zin",
+          "vraag": "Welke {ar|وَ} is een ḥāl-markering?",
+          "opties": [
+            "دَخَلَ وَهُوَ مُتْعَبٌ",
+            "أَكَلْتُ وَشَرِبْتُ",
+            "أَحْمَدُ وَسَميرٌ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|وَ} + voornaamwoord + toestand."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "hal-zin",
+          "instructie": "Maak een enkelvoudige ḥāl (accusatief).",
+          "rijen": [
+            {
+              "label": "zwijgend (m)",
+              "antwoord": "صامِتًا",
+              "tr": "ṣāmitan"
+            },
+            {
+              "label": "huilend (v)",
+              "antwoord": "باكِيَةً",
+              "tr": "bākiyatan"
+            }
+          ],
+          "uitleg": "Onbepaald, accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Het verhaal",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "hal-zin",
+          "nl": "De oude vrouw deed aarzelend de deur open.",
+          "woorden": [
+            "فَتَحَتِ",
+            "العَجوزُ",
+            "البابَ",
+            "مُتَرَدِّدَةً."
+          ],
+          "uitleg": "Enkelvoudige ḥāl."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "hal-zin",
+          "bron": "Hij ging zwijgend zitten.",
+          "antwoorden": [
+            "جَلَسَ صامِتًا"
+          ],
+          "uitleg": "ḥāl."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hal-zin",
+          "bron": "دَخَلَ الرَّجُلُ حامِلًا عَصًا.",
+          "antwoorden": [
+            "de man kwam binnen met een stok",
+            "de man kwam binnen een stok dragend"
+          ],
+          "uitleg": "ḥāl."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "طَرَقَ البابَ",
+            "nl": "op de deur kloppen"
+          },
+          {
+            "ar": "خُطُواتٌ",
+            "nl": "voetstappen"
+          },
+          {
+            "ar": "مُتَرَدِّدًا",
+            "nl": "aarzelend"
+          },
+          {
+            "ar": "حامِلًا",
+            "nl": "dragend"
+          },
+          {
+            "ar": "وَهُوَ",
+            "nl": "terwijl hij"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "Wat drukt {ar|وَهُوَ مُتْعَبٌ} na een werkwoord uit?",
+        "opties": [
+          "de toestand van het onderwerp (terwijl hij moe was)",
+          "een tweede handeling",
+          "een reden"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "'Hij kwam terug, inmiddels volwassen' is ...",
+        "opties": [
+          "رَجَعَ وَقَدْ كَبِرَ",
+          "رَجَعَ وَكَبِرَ",
+          "رَجَعَ لِأَنَّهُ كَبِرَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَقَدْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "Hoe heet de {ar|وَ} in {ar|دَخَلَ وَهُوَ يَضْحَكُ}?",
+        "opties": [
+          "واوُ الحالِ",
+          "واوُ العَطْفِ (en)",
+          "واوُ القَسَمِ"
+        ],
+        "juist": 0,
+        "uitleg": "Toestands-wāw."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal-zin",
+        "vraag": "'Ze kwam glimlachend binnen' (zin-ḥāl) is ...",
+        "opties": [
+          "دَخَلَتْ وَهِيَ تَبْتَسِمُ",
+          "دَخَلَتْ وَتَبْتَسِمُ",
+          "دَخَلَتْ لِتَبْتَسِمَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَهِيَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal-zin",
+        "tekst": "جَلَسَ صامِتًا",
+        "vraag": "Hoe zat hij?",
+        "opties": [
+          "zwijgend",
+          "lachend",
+          "slapend"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal-zin",
+        "tekst": "خَرَجَتْ وَهِيَ تَبْكي",
+        "vraag": "Hoe ging ze naar buiten?",
+        "opties": [
+          "huilend",
+          "zingend",
+          "rennend"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "invullen",
+        "tag": "hal-zin",
+        "zin": "جاءَ الطِّفْلُ ___.",
+        "nl": "Het kind kwam rennend.",
+        "antwoord": [
+          "يَرْكُضُ"
+        ],
+        "uitleg": "Muḍāriʿ als ḥāl.",
+        "woordbank": [
+          "يَرْكُضُ",
+          "رَكَضَ",
+          "رَكْضٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "hal-zin",
+        "zin": "قَرَأَ الرِّسالَةَ ___ سَعيدٌ.",
+        "nl": "Hij las de brief, blij.",
+        "antwoord": [
+          "وَهُوَ"
+        ],
+        "uitleg": "{ar|وَهُوَ} + naamwoord.",
+        "woordbank": [
+          "وَهُوَ",
+          "وَقَدْ",
+          "لٰكِنَّهُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "سَمِعْتُ ___ في الظَّلامِ.",
+        "nl": "Ik hoorde voetstappen in het donker.",
+        "antwoord": [
+          "خُطُواتٍ"
+        ],
+        "uitleg": "{ar|خُطُواتٌ}",
+        "woordbank": [
+          "خُطُواتٍ",
+          "عَصًا",
+          "غَريبًا"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "hal-zin",
+        "instructie": "Zin-ḥāl met وَ + voornaamwoord.",
+        "rijen": [
+          {
+            "label": "terwijl zij …",
+            "antwoord": "وَهِيَ",
+            "tr": "wa-hiya"
+          },
+          {
+            "label": "terwijl zij (mv) …",
+            "antwoord": "وَهُمْ",
+            "tr": "wa-hum"
+          }
+        ],
+        "uitleg": "Voornaamwoord."
+      },
+      {
+        "type": "ordenen",
+        "tag": "hal-zin",
+        "nl": "Hij kwam binnen terwijl hij glimlachte.",
+        "woorden": [
+          "دَخَلَ",
+          "وَهُوَ",
+          "يَبْتَسِمُ."
+        ],
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de vreemdeling",
+        "antwoorden": [
+          "الغَريبُ"
+        ],
+        "uitleg": "{ar|الغَريبُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hal-zin",
+        "bron": "اِلْتَفَتَ وَهُوَ خائِفٌ.",
+        "antwoorden": [
+          "hij keek bang om",
+          "hij keek om terwijl hij bang was"
+        ],
+        "uitleg": "ḥāl-zin."
+      }
+    ]
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "id": "j2-p6-l67",
+  "code": "L67",
+  "type": "les",
+  "titel": "Beroepen en instellingen",
+  "thema": "Overheid, rechtspraak en beroepen; diptote meervouden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de diptote meervoudspatronen herkennen: فُعَلاءُ، أَفْعِلاءُ، فَواعِلُ، مَفاعِلُ / مَفاعيلُ.",
+    "deze meervouden correct verbuigen (geen tanwīn, genitief -a).",
+    "instellingen en beroepen in de samenleving benoemen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l67-w01",
+      "ar": "وُزَراءُ",
+      "tr": "wuzarāʾ",
+      "nl": [
+        "ministers"
+      ],
+      "soort": "meervoud (فُعَلاءُ)",
+      "notitie": "Enkelvoud: {ar|وَزيرٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w02",
+      "ar": "سُفَراءُ",
+      "tr": "sufarāʾ",
+      "nl": [
+        "ambassadeurs"
+      ],
+      "soort": "meervoud (فُعَلاءُ)",
+      "notitie": "Enkelvoud: {ar|سَفيرٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w03",
+      "ar": "أَغْنِياءُ",
+      "tr": "aġniyāʾ",
+      "nl": [
+        "rijken"
+      ],
+      "soort": "meervoud (أَفْعِلاءُ)",
+      "notitie": "Enkelvoud: {ar|غَنِيٌّ}."
+    },
+    {
+      "id": "j2-p6-l67-w04",
+      "ar": "أَقْوِياءُ",
+      "tr": "aqwiyāʾ",
+      "nl": [
+        "sterken"
+      ],
+      "soort": "meervoud (أَفْعِلاءُ)",
+      "notitie": "Enkelvoud: {ar|قَوِيٌّ}."
+    },
+    {
+      "id": "j2-p6-l67-w05",
+      "ar": "مَكاتِبُ",
+      "tr": "makātib",
+      "nl": [
+        "kantoren",
+        "bureaus"
+      ],
+      "soort": "meervoud (مَفاعِلُ)",
+      "notitie": "Enkelvoud: {ar|مَكْتَبٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w06",
+      "ar": "مَصانِعُ",
+      "tr": "maṣāniʿ",
+      "nl": [
+        "fabrieken"
+      ],
+      "soort": "meervoud (مَفاعِلُ)"
+    },
+    {
+      "id": "j2-p6-l67-w07",
+      "ar": "مَفاتيحُ",
+      "tr": "mafātīḥ",
+      "nl": [
+        "sleutels"
+      ],
+      "soort": "meervoud (مَفاعيلُ)",
+      "notitie": "Enkelvoud: {ar|مِفْتاحٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w08",
+      "ar": "عَواصِمُ",
+      "tr": "ʿawāṣim",
+      "nl": [
+        "hoofdsteden"
+      ],
+      "soort": "meervoud (فَواعِلُ)",
+      "notitie": "Enkelvoud: {ar|عاصِمَةٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w09",
+      "ar": "وَزارَةٌ",
+      "tr": "wizāra",
+      "nl": [
+        "ministerie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|وِزارَةٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w10",
+      "ar": "سِفارَةٌ",
+      "tr": "sifāra",
+      "nl": [
+        "ambassade"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l67-w11",
+      "ar": "بَلَدِيَّةٌ",
+      "tr": "baladiyya",
+      "nl": [
+        "gemeente(huis)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l67-w12",
+      "ar": "مَحْكَمَةٌ",
+      "tr": "maḥkama",
+      "nl": [
+        "rechtbank"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَحاكِمُ} (diptoot)."
+    },
+    {
+      "id": "j2-p6-l67-w13",
+      "ar": "مُحامٍ",
+      "tr": "muḥāmin",
+      "nl": [
+        "advocaat"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Met lidwoord: {ar|المُحامي}. Meervoud: {ar|مُحامونَ}."
+    },
+    {
+      "id": "j2-p6-l67-w14",
+      "ar": "قاضٍ",
+      "tr": "qāḍin",
+      "nl": [
+        "rechter"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Met lidwoord: {ar|القاضي}. Meervoud: {ar|قُضاةٌ}."
+    },
+    {
+      "id": "j2-p6-l67-w15",
+      "ar": "مُؤَسَّسَةٌ",
+      "tr": "muʾassasa",
+      "nl": [
+        "instelling",
+        "organisatie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l67-w16",
+      "ar": "حُكومَةٌ",
+      "tr": "ḥukūma",
+      "nl": [
+        "regering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l67-w17",
+      "ar": "مُواطِنٌ",
+      "tr": "muwāṭin",
+      "nl": [
+        "burger",
+        "staatsburger"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l67-w18",
+      "ar": "قانونٌ",
+      "tr": "qānūn",
+      "nl": [
+        "wet"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قَوانينُ} (diptoot, فَواعيلُ)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vier diptote meervoudspatronen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Patroon",
+            "Enkelvoud",
+            "Meervoud",
+            "Typisch voor"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "فُعَلاءُ",
+              "وَزيرٌ / زَميلٌ",
+              "وُزَراءُ / زُمَلاءُ",
+              "personen op فَعيل"
+            ],
+            [
+              "أَفْعِلاءُ",
+              "صَديقٌ / غَنِيٌّ",
+              "أَصْدِقاءُ / أَغْنِياءُ",
+              "personen, vaak met verdubbeling of ي"
+            ],
+            [
+              "فَواعِلُ",
+              "شارِعٌ / عاصِمَةٌ",
+              "شَوارِعُ / عَواصِمُ",
+              "woorden op فاعِل(ة) voor dingen"
+            ],
+            [
+              "مَفاعِلُ / مَفاعيلُ",
+              "مَكْتَبٌ / مِفْتاحٌ",
+              "مَكاتِبُ / مَفاتيحُ",
+              "woorden met مَـ / مِـ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Herkenbaar aan hun **vorm**: twee lettergrepen na een korte eerste, met in het midden een lange ā ({ar|مَكاتِبُ}), of de uitgang {ar|ـاءُ}. Al deze patronen zijn **diptoot** (les 62): {ar|في مَكاتِبَ كَثيرَةٍ}, niet met tanwīn. Met ال of in een iḍāfa verbuigen ze weer gewoon."
+        },
+        {
+          "type": "letop",
+          "md": "Woorden op {ar|ـٍ} zoals {ar|مُحامٍ} en {ar|قاضٍ} zijn **defectief**: de ي verschijnt alleen met lidwoord ({ar|المُحامي}) of in de accusatief ({ar|رَأَيْتُ مُحامِيًا}). Meer hierover in les 70."
+        }
+      ]
+    },
+    {
+      "titel": "De samenleving",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِجْتَمَعَ الوُزَراءُ في مَقَرِّ الحُكومَةِ.",
+              "tr": "ijtamaʿa l-wuzarāʾu fī maqarri l-ḥukūma.",
+              "nl": "De ministers kwamen bijeen in het regeringsgebouw."
+            },
+            {
+              "ar": "تَعْمَلُ أُخْتي في مَكاتِبِ البَلَدِيَّةِ.",
+              "tr": "taʿmalu uḫtī fī makātibi l-baladiyya.",
+              "nl": "Mijn zus werkt op de kantoren van de gemeente."
+            },
+            {
+              "ar": "زُرْنا سِفاراتٍ وَمُؤَسَّساتٍ كَثيرَةً.",
+              "tr": "zurnā sifārātin wa-muʾassasātin kaṯīra.",
+              "nl": "We hebben veel ambassades en instellingen bezocht."
+            },
+            {
+              "ar": "يَحْتَرِمُ المُواطِنونَ القانونَ.",
+              "tr": "yaḥtarimu l-muwāṭinūna l-qānūn.",
+              "nl": "De burgers respecteren de wet."
+            },
+            {
+              "ar": "في المَدينَةِ مَصانِعُ كَبيرَةٌ.",
+              "tr": "fi l-madīnati maṣāniʿu kabīra.",
+              "nl": "In de stad zijn grote fabrieken."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "وَزارَةٌ",
+              "nl": "ministerie",
+              "woord": "j2-p6-l67-w09"
+            },
+            {
+              "ar": "سِفارَةٌ",
+              "nl": "ambassade",
+              "woord": "j2-p6-l67-w10"
+            },
+            {
+              "ar": "بَلَدِيَّةٌ",
+              "nl": "gemeente",
+              "woord": "j2-p6-l67-w11"
+            },
+            {
+              "ar": "مَحْكَمَةٌ",
+              "nl": "rechtbank",
+              "woord": "j2-p6-l67-w12"
+            },
+            {
+              "ar": "حُكومَةٌ",
+              "nl": "regering",
+              "woord": "j2-p6-l67-w16"
+            },
+            {
+              "ar": "قانونٌ",
+              "nl": "wet",
+              "woord": "j2-p6-l67-w18"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "gebroken-mv",
+          "paren": [
+            {
+              "ar": "وُزَراءُ",
+              "nl": "ministers",
+              "woord": "j2-p6-l67-w01"
+            },
+            {
+              "ar": "سُفَراءُ",
+              "nl": "ambassadeurs",
+              "woord": "j2-p6-l67-w02"
+            },
+            {
+              "ar": "مَكاتِبُ",
+              "nl": "kantoren",
+              "woord": "j2-p6-l67-w05"
+            },
+            {
+              "ar": "مَفاتيحُ",
+              "nl": "sleutels",
+              "woord": "j2-p6-l67-w07"
+            },
+            {
+              "ar": "عَواصِمُ",
+              "nl": "hoofdsteden",
+              "woord": "j2-p6-l67-w08"
+            }
+          ],
+          "uitleg": "Diptote meervouden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "يَعْمَلُ أَبي مُحامِيًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Mijn vader werkt als advocaat.",
+            "Mijn vader werkt als rechter.",
+            "Mijn vader werkt bij de gemeente."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُحامٍ} → accusatief {ar|مُحامِيًا}."
+        }
+      ]
+    },
+    {
+      "titel": "Patronen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "gebroken-mv",
+          "instructie": "Geef het meervoud.",
+          "rijen": [
+            {
+              "label": "وَزيرٌ (فُعَلاءُ)",
+              "antwoord": "وُزَراءُ",
+              "tr": "wuzarāʾ"
+            },
+            {
+              "label": "غَنِيٌّ (أَفْعِلاءُ)",
+              "antwoord": "أَغْنِياءُ",
+              "tr": "aġniyāʾ"
+            },
+            {
+              "label": "عاصِمَةٌ (فَواعِلُ)",
+              "antwoord": "عَواصِمُ",
+              "tr": "ʿawāṣim"
+            },
+            {
+              "label": "مَصْنَعٌ (مَفاعِلُ)",
+              "antwoord": "مَصانِعُ",
+              "tr": "maṣāniʿ"
+            }
+          ],
+          "uitleg": "Vier diptote patronen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "diptoten",
+          "vraag": "'In veel kantoren' is ...",
+          "opties": [
+            "في مَكاتِبَ كَثيرَةٍ",
+            "في مَكاتِبٍ كَثيرَةٍ",
+            "في مَكاتِبِ كَثيرَةٍ"
+          ],
+          "juist": 0,
+          "uitleg": "Diptoot: genitief -a."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebroken-mv",
+          "vraag": "Het meervoud van {ar|مِفْتاحٌ} is ...",
+          "opties": [
+            "مَفاتيحُ",
+            "مَفاتِحُ",
+            "مِفْتاحاتٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Lange ī in het enkelvoud → مَفاعيلُ."
+        },
+        {
+          "type": "invullen",
+          "tag": "gebroken-mv",
+          "zin": "اِجْتَمَعَ ___ في الوَزارَةِ.",
+          "nl": "De ministers kwamen bijeen op het ministerie.",
+          "woordbank": [
+            "الوُزَراءُ",
+            "الوَزيرونَ",
+            "الوُزَراءِ"
+          ],
+          "antwoord": [
+            "الوُزَراءُ"
+          ],
+          "uitleg": "Onderwerp; patroon فُعَلاءُ.",
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Instellingen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "gebroken-mv",
+          "nl": "Mijn zus werkt op de kantoren van de gemeente.",
+          "woorden": [
+            "تَعْمَلُ",
+            "أُخْتي",
+            "في",
+            "مَكاتِبِ",
+            "البَلَدِيَّةِ."
+          ],
+          "uitleg": "In een iḍāfa: gewone -i."
+        },
+        {
+          "type": "luisteren",
+          "tag": "gebroken-mv",
+          "tekst": "في المَدينَةِ مَصانِعُ كَبيرَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "In de stad zijn grote fabrieken.",
+            "In de stad is één grote fabriek.",
+            "In de stad zijn veel kantoren."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَصانِعُ} = fabrieken."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de regering",
+          "antwoorden": [
+            "الحُكومَةُ"
+          ],
+          "uitleg": "{ar|الحُكومَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "gebroken-mv",
+          "bron": "أَيْنَ المَفاتيحُ؟",
+          "antwoorden": [
+            "waar zijn de sleutels"
+          ],
+          "uitleg": "مَفاعيلُ"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُحامٍ",
+            "nl": "advocaat"
+          },
+          {
+            "ar": "قاضٍ",
+            "nl": "rechter"
+          },
+          {
+            "ar": "مُواطِنٌ",
+            "nl": "burger"
+          },
+          {
+            "ar": "مُؤَسَّسَةٌ",
+            "nl": "instelling"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|سَفيرٌ} is ...",
+        "opties": [
+          "سُفَراءُ",
+          "سُفُرٌ",
+          "أَسْفارٌ"
+        ],
+        "juist": 0,
+        "uitleg": "فَعيل → فُعَلاءُ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|قَوِيٌّ} is ...",
+        "opties": [
+          "أَقْوِياءُ",
+          "قُوَراءُ",
+          "أَقْواءٌ"
+        ],
+        "juist": 0,
+        "uitleg": "أَفْعِلاءُ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Welk meervoud is een diptoot?",
+        "opties": [
+          "عَواصِمُ",
+          "جِبالٌ",
+          "طُرُقٌ"
+        ],
+        "juist": 0,
+        "uitleg": "فَواعِلُ is diptoot."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "'Met ministers' (onbepaald) is ...",
+        "opties": [
+          "مَعَ وُزَراءَ",
+          "مَعَ وُزَراءٍ",
+          "مَعَ وُزَراءِ"
+        ],
+        "juist": 0,
+        "uitleg": "Diptoot: genitief -a."
+      },
+      {
+        "type": "luisteren",
+        "tag": "gebroken-mv",
+        "tekst": "زُرْنا عَواصِمَ عَرَبِيَّةً كَثيرَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We bezochten veel Arabische hoofdsteden.",
+          "We bezochten één Arabische hoofdstad.",
+          "We woonden in een Arabische hoofdstad."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عَواصِمُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "ذَهَبْتُ إِلى السِّفارَةِ",
+        "vraag": "Waar ging de spreker heen?",
+        "opties": [
+          "naar de ambassade",
+          "naar de rechtbank",
+          "naar het ministerie"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|السِّفارَةُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "gebroken-mv",
+        "zin": "نَسيتُ ___ في السَّيّارَةِ.",
+        "nl": "Ik heb de sleutels in de auto laten liggen.",
+        "woordbank": [
+          "المَفاتيحَ",
+          "المَفاتيحُ",
+          "مَفاتيحٍ"
+        ],
+        "antwoord": [
+          "المَفاتيحَ"
+        ],
+        "uitleg": "Lijdend voorwerp → -a.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "diptoten",
+        "zin": "تَعْمَلُ في ___ مُخْتَلِفَةٍ.",
+        "nl": "Ze werkt in verschillende fabrieken.",
+        "woordbank": [
+          "مَصانِعَ",
+          "مَصانِعٍ",
+          "مَصْنَعٍ"
+        ],
+        "antwoord": [
+          "مَصانِعَ"
+        ],
+        "uitleg": "Diptoot, genitief -a.",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "gebroken-mv",
+        "instructie": "Geef het meervoud.",
+        "rijen": [
+          {
+            "label": "صَديقٌ",
+            "antwoord": "أَصْدِقاءُ",
+            "tr": "aṣdiqāʾ"
+          },
+          {
+            "label": "مَكْتَبٌ",
+            "antwoord": "مَكاتِبُ",
+            "tr": "makātib"
+          }
+        ],
+        "uitleg": "أَفْعِلاءُ · مَفاعِلُ"
+      },
+      {
+        "type": "ordenen",
+        "tag": "gebroken-mv",
+        "nl": "De ministers kwamen bijeen in het regeringsgebouw.",
+        "woorden": [
+          "اِجْتَمَعَ",
+          "الوُزَراءُ",
+          "في",
+          "مَقَرِّ",
+          "الحُكومَةِ."
+        ],
+        "uitleg": "Verbale zin: werkwoord enkelvoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebroken-mv",
+        "bron": "de vrienden",
+        "antwoorden": [
+          "الأَصْدِقاءُ"
+        ],
+        "uitleg": "أَفْعِلاءُ"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "القاضي في المَحْكَمَةِ.",
+        "antwoorden": [
+          "de rechter is in de rechtbank",
+          "de rechter zit in de rechtbank"
+        ],
+        "uitleg": "{ar|القاضي} = de rechter."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "gebroken-mv",
+        "bron": "يَعيشُ الأَغْنِياءُ في هٰذا الحَيِّ.",
+        "antwoorden": [
+          "de rijken wonen in deze wijk",
+          "rijke mensen wonen in deze wijk",
+          "de rijken leven in deze wijk"
+        ],
+        "uitleg": "{ar|أَغْنِياءُ}"
+      }
+    ]
+  }
+}

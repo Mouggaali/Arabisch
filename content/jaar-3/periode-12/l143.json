@@ -1,0 +1,707 @@
+{
+  "id": "j3-p12-l143",
+  "code": "L143",
+  "type": "les",
+  "titel": "Examentraining: schrijven",
+  "thema": "Het schrijfexamen B1: criteria en veelgemaakte fouten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de beoordelingscriteria van het schrijfexamen kennen.",
+    "veelgemaakte fouten herkennen en verbeteren (ة/ه، ى/ي، hamza، ـوا، congruentie).",
+    "een eigen tekst systematisch nalezen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l143-w01",
+      "ar": "مِعْيارٌ",
+      "tr": "miʿyār",
+      "nl": [
+        "criterium"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَعاييرُ}."
+    },
+    {
+      "id": "j3-p12-l143-w02",
+      "ar": "سَلامَةُ اللُّغَةِ",
+      "tr": "salāmatu l-luġa",
+      "nl": [
+        "correct taalgebruik"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w03",
+      "ar": "ثَراءُ المُفْرَداتِ",
+      "tr": "ṯarāʾu l-mufradāt",
+      "nl": [
+        "rijke woordenschat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w04",
+      "ar": "تَدْقيقٌ",
+      "tr": "tadqīq",
+      "nl": [
+        "nalezen, controle"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p12-l143-w05",
+      "ar": "خَطَأٌ إِمْلائِيٌّ",
+      "tr": "ḫaṭaʾun imlāʾiyy",
+      "nl": [
+        "spelfout"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w06",
+      "ar": "خَطَأٌ نَحْوِيٌّ",
+      "tr": "ḫaṭaʾun naḥwiyy",
+      "nl": [
+        "grammaticafout"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w07",
+      "ar": "الأَلِفُ الفارِقَةُ",
+      "tr": "al-alifu l-fāriqa",
+      "nl": [
+        "de 'onderscheidende alif' (na ـوا)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w08",
+      "ar": "تَطابُقٌ",
+      "tr": "taṭābuq",
+      "nl": [
+        "congruentie, overeenstemming"
+      ],
+      "soort": "maṣdar (VI)"
+    },
+    {
+      "id": "j3-p12-l143-w09",
+      "ar": "مُلائِمٌ",
+      "tr": "mulāʾim",
+      "nl": [
+        "passend, geschikt"
+      ],
+      "soort": "deelwoord (III)"
+    },
+    {
+      "id": "j3-p12-l143-w10",
+      "ar": "سِجِلٌّ لُغَوِيٌّ",
+      "tr": "sijillun luġawiyy",
+      "nl": [
+        "taalregister"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w11",
+      "ar": "فِكْرَةٌ واضِحَةٌ",
+      "tr": "fikratun wāḍiḥa",
+      "nl": [
+        "een heldere gedachte"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w13",
+      "ar": "أَعادَ قِراءَةَ",
+      "tr": "aʿāda qirāʾata",
+      "nl": [
+        "herlezen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w14",
+      "ar": "مَوْضوعُ الكِتابَةِ",
+      "tr": "mawḍūʿu l-kitāba",
+      "nl": [
+        "schrijfopdracht, onderwerp"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w15",
+      "ar": "تَنْفيذُ المُهِمَّةِ",
+      "tr": "tanfīḏu l-muhimma",
+      "nl": [
+        "uitvoering van de opdracht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l143-w16",
+      "ar": "التَّنْظيمُ",
+      "tr": "at-tanẓīm",
+      "nl": [
+        "de opbouw, organisatie"
+      ],
+      "soort": "maṣdar (II)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Beoordelingscriteria",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Criterium",
+            "Arabisch",
+            "Vraag aan jezelf"
+          ],
+          "rijen": [
+            [
+              "opdracht uitgevoerd",
+              "تَنْفيذُ المُهِمَّةِ",
+              "Heb ik alle gevraagde punten behandeld?"
+            ],
+            [
+              "opbouw",
+              "التَّنْظيمُ",
+              "Inleiding, alinea's, slot? Verbindingswoorden?"
+            ],
+            [
+              "woordenschat",
+              "ثَراءُ المُفْرَداتِ",
+              "Gebruik ik gevarieerde woorden, niet steeds dezelfde?"
+            ],
+            [
+              "correct taalgebruik",
+              "سَلامَةُ اللُّغَةِ",
+              "Spelling, congruentie, naamvallen, werkwoordsvormen?"
+            ],
+            [
+              "register",
+              "السِّجِلُّ اللُّغَوِيُّ",
+              "Formeel of informeel, passend bij de lezer?"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Examinatoren lezen met een **vaste lijst** ({ar|مَعاييرُ}). Ken je die lijst, dan weet je waar je punten kunt halen. De meeste punten verlies je niet aan moeilijke grammatica, maar aan **kleine, herhaalde fouten** en aan een opdracht die maar half is uitgevoerd."
+        },
+        {
+          "type": "letop",
+          "md": "Lees je tekst aan het eind minstens één keer helemaal na ({ar|تَدْقيقٌ}), speciaal op de fouten in de tabel hieronder."
+        }
+      ]
+    },
+    {
+      "titel": "Veelgemaakte fouten",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Fout",
+            "Fout geschreven",
+            "Juist"
+          ],
+          "rijen": [
+            [
+              "ة / ه",
+              "مدرسه",
+              "مَدْرَسَةٌ"
+            ],
+            [
+              "ى / ي",
+              "إلي المدرسة",
+              "إِلى المَدْرَسَةِ"
+            ],
+            [
+              "hamza",
+              "انا، اكل، مسأول",
+              "أَنا، أَكَلَ، مَسْؤولٌ"
+            ],
+            [
+              "alif na ـوا",
+              "ذهبو",
+              "ذَهَبوا"
+            ],
+            [
+              "congruentie",
+              "المدن كبير",
+              "المُدُنُ كَبيرَةٌ"
+            ],
+            [
+              "manṣūb na أَنْ",
+              "أريد أن أذهبُ",
+              "أُريدُ أَنْ أَذْهَبَ"
+            ],
+            [
+              "ontkenning verleden",
+              "لم ذهبت",
+              "لَمْ أَذْهَبْ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Deze fouten komen bij bijna alle leerders terug, omdat ze in de **uitspraak** niet of nauwelijks te horen zijn: {ar|ـة} en {ar|ـه} klinken in pausa allebei als -a, en de {ar|ا} na {ar|ـوا} wordt helemaal niet uitgesproken."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "examen",
+          "paren": [
+            {
+              "ar": "مِعْيارٌ",
+              "nl": "criterium",
+              "woord": "j3-p12-l143-w01"
+            },
+            {
+              "ar": "تَدْقيقٌ",
+              "nl": "nalezen",
+              "woord": "j3-p12-l143-w04"
+            },
+            {
+              "ar": "خَطَأٌ إِمْلائِيٌّ",
+              "nl": "spelfout",
+              "woord": "j3-p12-l143-w05"
+            },
+            {
+              "ar": "تَطابُقٌ",
+              "nl": "congruentie",
+              "woord": "j3-p12-l143-w08"
+            },
+            {
+              "ar": "سِجِلٌّ لُغَوِيٌّ",
+              "nl": "taalregister",
+              "woord": "j3-p12-l143-w10"
+            },
+            {
+              "ar": "تَجَنَّبَ",
+              "nl": "vermijden"
+            }
+          ],
+          "uitleg": "Schrijfexamen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Waar verlies je de meeste punten?",
+          "opties": [
+            "kleine herhaalde fouten en een half uitgevoerde opdracht",
+            "te moeilijke woorden",
+            "een te korte titel"
+          ],
+          "juist": 0,
+          "uitleg": "Criteria."
+        }
+      ]
+    },
+    {
+      "titel": "Fouten verbeteren",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Welke schrijfwijze is juist?",
+          "opties": [
+            "ذَهَبوا",
+            "ذَهَبو",
+            "ذاهَبوا"
+          ],
+          "juist": 0,
+          "uitleg": "Alif na {ar|ـوا}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Welke schrijfwijze is juist?",
+          "opties": [
+            "مَسْؤولٌ",
+            "مَسْأولٌ",
+            "مَسْئولٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Hamza op wāw."
+        },
+        {
+          "type": "invullen",
+          "tag": "examen",
+          "zin": "أُريدُ أَنْ ___ إِلى المَغْرِبِ.",
+          "nl": "Ik wil naar Marokko gaan.",
+          "antwoord": [
+            "أَذْهَبَ"
+          ],
+          "uitleg": "Manṣūb na {ar|أَنْ}.",
+          "woordbank": [
+            "أَذْهَبَ",
+            "أَذْهَبُ",
+            "ذَهَبْتُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "examen",
+          "zin": "المُدُنُ في المَغْرِبِ ___.",
+          "nl": "De steden in Marokko zijn groot.",
+          "antwoord": [
+            "كَبيرَةٌ"
+          ],
+          "uitleg": "Niet-menselijk meervoud → vrouwelijk enkelvoud.",
+          "woordbank": [
+            "كَبيرَةٌ",
+            "كَبيرٌ",
+            "كِبارٌ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "examen",
+          "zin": "لَمْ ___ أَمْسِ.",
+          "nl": "Ik ben gisteren niet gegaan.",
+          "antwoord": [
+            "أَذْهَبْ"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm.",
+          "woordbank": [
+            "أَذْهَبْ",
+            "ذَهَبْتُ",
+            "أَذْهَبُ"
+          ],
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Schrijven",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "examen",
+          "nl": "Ik lees mijn tekst nog één keer na.",
+          "woorden": [
+            "أُعيدُ",
+            "قِراءَةَ",
+            "نَصّي",
+            "مَرَّةً",
+            "أُخْرى."
+          ],
+          "uitleg": "Nalezen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "examen",
+          "bron": "de spelfout",
+          "antwoorden": [
+            "الخَطَأُ الإِمْلائِيُّ",
+            "الخطأ الإملائي",
+            "خَطَأٌ إِمْلائِيٌّ"
+          ],
+          "uitleg": "{ar|خَطَأٌ إِمْلائِيٌّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "examen",
+          "bron": "يَجِبُ أَنْ تَتَجَنَّبَ الأَخْطاءَ النَّحْوِيَّةَ.",
+          "antwoorden": [
+            "je moet grammaticafouten vermijden",
+            "vermijd grammaticale fouten"
+          ],
+          "uitleg": "{ar|تَجَنَّبَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "examen",
+          "opdracht": "Schrijf een e-mail van ongeveer 80 woorden aan een Marokkaanse vriend over je stad en je plannen. Controleer daarna met de criteria en de lijst met veelgemaakte fouten.",
+          "model": [
+            {
+              "ar": "عَزيزي سَميرُ،",
+              "tr": "ʿazīzī Samīr,",
+              "nl": "Beste Samir,"
+            },
+            {
+              "ar": "السَّلامُ عَلَيْكُمْ. أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ.",
+              "tr": "as-salāmu ʿalaykum. atamannā an takūna bi-ḫayr.",
+              "nl": "Hallo! Ik hoop dat het goed met je gaat."
+            },
+            {
+              "ar": "أَنا الآنَ في مَرّاكُشَ مَعَ عائِلَتي. الجَوُّ حارٌّ جِدًّا، لٰكِنَّ المَدينَةَ جَميلَةٌ.",
+              "tr": "ana l-āna fī Marrākuša maʿa ʿāʾilatī. al-jawwu ḥārrun jiddan, lākinna l-madīnata jamīla.",
+              "nl": "Ik ben nu in Marrakesh met mijn familie. Het is erg warm, maar de stad is mooi."
+            },
+            {
+              "ar": "أَمْسِ زُرْنا السّوقَ وَاشْتَرَيْتُ هَدِيَّةً لَكَ.",
+              "tr": "amsi zurnā s-sūqa wa-štaraytu hadiyyatan lak.",
+              "nl": "Gisteren bezochten we de markt en heb ik een cadeau voor je gekocht."
+            },
+            {
+              "ar": "سَنَرْجِعُ إِلى هولَنْدا الأُسْبوعَ القادِمَ.",
+              "tr": "sa-narjiʿu ilā Hōlandā l-usbūʿa l-qādim.",
+              "nl": "Volgende week gaan we terug naar Nederland."
+            },
+            {
+              "ar": "بِالمُناسَبَةِ، هَلْ تُريدُ أَنْ نَلْتَقِيَ يَوْمَ السَّبْتِ؟",
+              "tr": "bi-l-munāsaba, hal turīdu an naltaqiya yawma s-sabt?",
+              "nl": "Trouwens, wil je zaterdag afspreken?"
+            },
+            {
+              "ar": "سَلِّمْ عَلى أُسْرَتِكَ. في انْتِظارِ رَدِّكَ.",
+              "tr": "sallim ʿalā usratik. fi ntiẓāri raddik.",
+              "nl": "Doe de groeten aan je familie. Ik wacht op je antwoord."
+            },
+            {
+              "ar": "مَعَ تَحِيّاتي، صَديقُكَ المُخْلِصُ يوسُفُ",
+              "tr": "maʿa taḥiyyātī, ṣadīquka l-muḫliṣu Yūsuf",
+              "nl": "Groetjes, je trouwe vriend Youssef"
+            }
+          ],
+          "checklist": [
+            "Alle gevraagde punten staan erin (stad én plannen).",
+            "Duidelijke opbouw: aanhef, alinea's, afsluiting.",
+            "{ar|ة} en {ar|ه}, {ar|ى} en {ar|ي} goed geschreven.",
+            "Hamza goed geschreven ({ar|أَنا، مَسْؤولٌ}).",
+            "Alif na {ar|ـوا} ({ar|ذَهَبوا}).",
+            "Congruentie en manṣūb na {ar|أَنْ} kloppen."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "عَزيزي",
+            "أَسْكُنُ في",
+            "أَنْوي أَنْ",
+            "أَتَمَنّى أَنْ"
+          ],
+          "minimum": 60
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "examen",
+        "paren": [
+          {
+            "ar": "سَلامَةُ اللُّغَةِ",
+            "nl": "correct taalgebruik"
+          },
+          {
+            "ar": "ثَراءُ المُفْرَداتِ",
+            "nl": "rijke woordenschat"
+          },
+          {
+            "ar": "مُلائِمٌ",
+            "nl": "passend"
+          },
+          {
+            "ar": "أَعادَ قِراءَةَ",
+            "nl": "herlezen"
+          },
+          {
+            "ar": "بَريدٌ إِلِكْتْرونِيٌّ",
+            "nl": "e-mail"
+          }
+        ],
+        "uitleg": "Schrijfexamen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Welke schrijfwijze is juist?",
+        "opties": [
+          "إِلى المَدْرَسَةِ",
+          "إِلي المَدْرَسَةِ",
+          "إِلى المَدْرَسَهِ"
+        ],
+        "juist": 0,
+        "uitleg": "ى en ة."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Welke schrijfwijze is juist?",
+        "opties": [
+          "أَنا",
+          "انا",
+          "آنا"
+        ],
+        "juist": 0,
+        "uitleg": "Hamza op alif."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Wat betekent {ar|السِّجِلُّ اللُّغَوِيُّ}?",
+        "opties": [
+          "het taalregister (formeel/informeel)",
+          "het woordenboek",
+          "de spelling"
+        ],
+        "juist": 0,
+        "uitleg": "Register."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Welke zin is correct?",
+        "opties": [
+          "الطُّلّابُ ذَهَبوا إِلى الجامِعَةِ.",
+          "الطُّلّابُ ذَهَبو إِلى الجامِعَةِ.",
+          "الطُّلّابُ ذَهَبَتْ إِلى الجامِعَةِ."
+        ],
+        "juist": 0,
+        "uitleg": "Mensen → ـوا."
+      },
+      {
+        "type": "luisteren",
+        "tag": "examen",
+        "tekst": "أَعِدْ قِراءَةَ النَّصِّ قَبْلَ أَنْ تُسَلِّمَهُ",
+        "vraag": "Wat moet je doen?",
+        "opties": [
+          "de tekst nalezen voor je hem inlevert",
+          "de tekst vertalen",
+          "de tekst korter maken"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَعادَ قِراءَةَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "examen",
+        "tekst": "الفِكْرَةُ واضِحَةٌ لٰكِنْ هُناكَ أَخْطاءٌ إِمْلائِيَّةٌ",
+        "vraag": "Wat is het commentaar?",
+        "opties": [
+          "Het idee is helder, maar er zijn spelfouten.",
+          "Er zijn geen fouten.",
+          "Het idee is onduidelijk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَخْطاءٌ إِمْلائِيَّةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "الكُتُبُ الجَديدَةُ ___.",
+        "nl": "De nieuwe boeken zijn duur.",
+        "antwoord": [
+          "غالِيَةٌ"
+        ],
+        "uitleg": "Niet-menselijk meervoud.",
+        "woordbank": [
+          "غالِيَةٌ",
+          "غالٍ",
+          "غالونَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "المُعَلِّمونَ ___ الاِمْتِحانَ.",
+        "nl": "De leraren hebben het examen opgesteld.",
+        "antwoord": [
+          "كَتَبوا"
+        ],
+        "uitleg": "Alif na {ar|ـوا}.",
+        "woordbank": [
+          "كَتَبوا",
+          "كَتَبو",
+          "كَتَبَتْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "هٰذِهِ ___ جَميلَةٌ.",
+        "nl": "Dit is een mooie stad.",
+        "antwoord": [
+          "مَدينَةٌ"
+        ],
+        "uitleg": "{ar|ة}",
+        "woordbank": [
+          "مَدينَةٌ",
+          "مَدينَهٌ",
+          "مَدينٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "examen",
+        "instructie": "Verbeter de fout.",
+        "rijen": [
+          {
+            "label": "مدرسه",
+            "antwoord": "مَدْرَسَة",
+            "tr": "madrasa"
+          },
+          {
+            "label": "ذهبو",
+            "antwoord": "ذَهَبوا",
+            "tr": "ḏahabū"
+          }
+        ],
+        "uitleg": "Veelgemaakte fouten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "examen",
+        "nl": "Je moet spelfouten vermijden.",
+        "woorden": [
+          "يَجِبُ",
+          "أَنْ",
+          "تَتَجَنَّبَ",
+          "الأَخْطاءَ",
+          "الإِمْلائِيَّةَ."
+        ],
+        "uitleg": "Advies."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "examen",
+        "bron": "het criterium",
+        "antwoorden": [
+          "المِعْيارُ",
+          "المعيار"
+        ],
+        "uitleg": "{ar|المِعْيارُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "examen",
+        "bron": "اِسْتَعْمِلْ سِجِلًّا لُغَوِيًّا مُلائِمًا.",
+        "antwoorden": [
+          "gebruik een passend taalregister",
+          "gebruik een geschikt register"
+        ],
+        "uitleg": "Register."
+      }
+    ]
+  }
+}

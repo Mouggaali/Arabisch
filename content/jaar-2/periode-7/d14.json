@@ -1,0 +1,624 @@
+{
+  "id": "j2-p7-d14",
+  "code": "D14",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: telefoneren en afspreken",
+  "thema": "Bellen, berichten sturen en een afspraak maken",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een telefoongesprek beginnen en afsluiten in het Darija.",
+    "een afspraak maken: dag, tijd en plaats.",
+    "veelgebruikte Franse leenwoorden rond de telefoon herkennen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-d14-w01",
+      "ar": "ألو",
+      "tr": "alō",
+      "nl": [
+        "hallo (aan de telefoon)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w02",
+      "ar": "شكون معايا؟",
+      "tr": "škūn mʿāya?",
+      "nl": [
+        "met wie spreek ik?"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w03",
+      "ar": "عيط ل",
+      "tr": "ʿəyyəṭ l-",
+      "nl": [
+        "bellen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|عيطت ليك} = ik heb je gebeld.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w04",
+      "ar": "تلفون",
+      "tr": "tilifūn",
+      "nl": [
+        "telefoon"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w05",
+      "ar": "نمرة",
+      "tr": "nəmra",
+      "nl": [
+        "(telefoon)nummer"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w06",
+      "ar": "ميساج",
+      "tr": "mēsāj",
+      "nl": [
+        "bericht (sms)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Uit het Frans *message*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w07",
+      "ar": "نتلاقاو",
+      "tr": "ntlāqāw",
+      "nl": [
+        "laten we afspreken / we zien elkaar"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w08",
+      "ar": "فوقاش؟",
+      "tr": "fūqāš?",
+      "nl": [
+        "hoe laat? wanneer?"
+      ],
+      "soort": "vraagwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w09",
+      "ar": "مع الخمسة",
+      "tr": "mʿa lxəmsa",
+      "nl": [
+        "rond vijf uur"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w10",
+      "ar": "ماشي مشكل",
+      "tr": "māši muškil",
+      "nl": [
+        "geen probleem"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w11",
+      "ar": "صافي، اتفقنا",
+      "tr": "ṣāfi, ttafəqna",
+      "nl": [
+        "oké, afgesproken"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w12",
+      "ar": "مشغول",
+      "tr": "mašġūl",
+      "nl": [
+        "bezet, druk"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w13",
+      "ar": "تسنى شوية",
+      "tr": "tsənna šwiya",
+      "nl": [
+        "wacht even"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w14",
+      "ar": "نعاود ليك",
+      "tr": "nʿāwəd lik",
+      "nl": [
+        "ik bel je terug"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d14-w15",
+      "ar": "الريزو",
+      "tr": "rrīzo",
+      "nl": [
+        "het bereik (netwerk)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Uit het Frans *réseau*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Aan de telefoon",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "hallo?",
+              "مَرْحَبًا",
+              "ألو|alō"
+            ],
+            [
+              "met wie spreek ik?",
+              "مَنْ مَعي؟",
+              "شكون معايا؟|škūn mʿāya?"
+            ],
+            [
+              "ik bel je terug",
+              "سَأَتَّصِلُ بِكَ لاحِقًا",
+              "نعاود ليك|nʿāwəd lik"
+            ],
+            [
+              "wacht even",
+              "اِنْتَظِرْ قَليلًا",
+              "تسنى شوية|tsənna šwiya"
+            ],
+            [
+              "afgesproken",
+              "اِتَّفَقْنا",
+              "اتفقنا|ttafəqna"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Darija leent veel telefoonwoorden uit het Frans ({ar|ميساج}، {ar|الريزو}). Het werkwoord {ar|عيط} (*roepen*) betekent nu ook *bellen*. Dat zie je vaker: een oud woord krijgt een moderne betekenis."
+        }
+      ]
+    },
+    {
+      "titel": "Een afspraak maken",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "ألو، شكون معايا؟",
+              "tr": "alō, škūn mʿāya?",
+              "nl": "Hallo, met wie spreek ik?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "نتلاقاو غدا؟ — واخا، فوقاش؟",
+              "tr": "ntlāqāw ġədda? — waxxa, fūqāš?",
+              "nl": "Zullen we morgen afspreken? — Oké, hoe laat?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "مع الخمسة قدام المحطة.",
+              "tr": "mʿa lxəmsa qddām lmḥəṭṭa.",
+              "nl": "Rond vijf uur voor het station.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "دابا مشغول، نعاود ليك.",
+              "tr": "dāba mašġūl, nʿāwəd lik.",
+              "nl": "Ik ben nu bezig, ik bel je terug.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-telefoon",
+          "paren": [
+            {
+              "ar": "ألو",
+              "nl": "hallo (telefoon)",
+              "woord": "j2-p7-d14-w01"
+            },
+            {
+              "ar": "نمرة",
+              "nl": "nummer",
+              "woord": "j2-p7-d14-w05"
+            },
+            {
+              "ar": "ميساج",
+              "nl": "bericht",
+              "woord": "j2-p7-d14-w06"
+            },
+            {
+              "ar": "فوقاش؟",
+              "nl": "hoe laat?",
+              "woord": "j2-p7-d14-w08"
+            },
+            {
+              "ar": "الريزو",
+              "nl": "bereik",
+              "woord": "j2-p7-d14-w15"
+            },
+            {
+              "ar": "بسلامة",
+              "nl": "dag"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-telefoon",
+          "tekst": "نعاود ليك",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "Ik bel je terug.",
+            "Ik bel je nooit.",
+            "Bel me morgen."
+          ],
+          "juist": 0,
+          "uitleg": "*nʿāwəd lik* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Afspreken",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-telefoon",
+          "zin": "___ غدا؟",
+          "nl": "Zullen we morgen afspreken?",
+          "antwoord": [
+            "نتلاقاو"
+          ],
+          "uitleg": "{ar|نتلاقاو}",
+          "woordbank": [
+            "نتلاقاو",
+            "نعاود",
+            "عيط"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-telefoon",
+          "zin": "دابا ___، نعاود ليك.",
+          "nl": "Ik ben nu bezig, ik bel je terug.",
+          "antwoord": [
+            "مشغول"
+          ],
+          "uitleg": "{ar|مشغول}",
+          "woordbank": [
+            "مشغول",
+            "فرحان",
+            "عيان"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Het Darija {ar|عيط ل} betekent ...",
+          "opties": [
+            "bellen",
+            "schrijven",
+            "wachten"
+          ],
+          "juist": 0,
+          "uitleg": "Van *roepen*."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-telefoon",
+          "nl": "Oké, afgesproken.",
+          "woorden": [
+            "صافي،",
+            "اتفقنا."
+          ],
+          "uitleg": "Afsluiting."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-telefoon",
+          "bron": "wacht even (Darija)",
+          "antwoorden": [
+            "تسنى شوية"
+          ],
+          "uitleg": "{ar|تسنى شوية}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-telefoon",
+          "bron": "شكون معايا؟",
+          "antwoorden": [
+            "met wie spreek ik",
+            "wie is daar"
+          ],
+          "uitleg": "Aan de telefoon.",
+          "tr": "škūn mʿāya?"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-telefoon",
+        "paren": [
+          {
+            "ar": "تلفون",
+            "nl": "telefoon"
+          },
+          {
+            "ar": "ماشي مشكل",
+            "nl": "geen probleem"
+          },
+          {
+            "ar": "مع الخمسة",
+            "nl": "rond vijf uur"
+          },
+          {
+            "ar": "مشغول",
+            "nl": "bezet"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-telefoon",
+        "vraag": "Hoe neem je de telefoon op in Marokko?",
+        "opties": [
+          "ألو",
+          "بسلامة",
+          "اتفقنا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ألو}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-telefoon",
+        "vraag": "{ar|الريزو} komt uit het ...",
+        "opties": [
+          "Frans",
+          "Spaans",
+          "Fusha"
+        ],
+        "juist": 0,
+        "uitleg": "*réseau*"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Het Darija {ar|فوقاش؟} betekent ...",
+        "opties": [
+          "hoe laat? / wanneer?",
+          "waar?",
+          "waarom?"
+        ],
+        "juist": 0,
+        "uitleg": "Tijdvraag."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-telefoon",
+        "tekst": "ماشي مشكل",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Geen probleem.",
+          "Er is een probleem.",
+          "Niet nu."
+        ],
+        "juist": 0,
+        "uitleg": "*māši muškil*"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-telefoon",
+        "tekst": "عيطت ليك البارح",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb je gisteren gebeld.",
+          "Bel me morgen.",
+          "Je hebt me gebeld."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عيطت}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-telefoon",
+        "zin": "عطيني ___ ديالك.",
+        "nl": "Geef me je nummer.",
+        "antwoord": [
+          "النمرة"
+        ],
+        "uitleg": "{ar|نمرة}",
+        "woordbank": [
+          "النمرة",
+          "الميساج",
+          "الريزو"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-telefoon",
+        "zin": "___ شوية، شي واحد كيدق.",
+        "nl": "Wacht even, er wordt aangebeld.",
+        "antwoord": [
+          "تسنى"
+        ],
+        "uitleg": "{ar|تسنى}",
+        "woordbank": [
+          "تسنى",
+          "عيط",
+          "نعاود"
+        ],
+        "review": {
+          "status": "onzeker",
+          "note": "شي واحد كيدق laten nakijken."
+        }
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-telefoon",
+        "nl": "Ik ben nu bezig, ik bel je terug.",
+        "woorden": [
+          "دابا",
+          "مشغول،",
+          "نعاود",
+          "ليك."
+        ],
+        "uitleg": "Afsluiten."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-telefoon",
+        "bron": "hallo (aan de telefoon, Darija)",
+        "antwoorden": [
+          "ألو"
+        ],
+        "uitleg": "{ar|ألو}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-telefoon",
+        "bron": "afgesproken (Darija)",
+        "antwoorden": [
+          "اتفقنا",
+          "صافي، اتفقنا"
+        ],
+        "uitleg": "{ar|اتفقنا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-telefoon",
+        "bron": "صيفط ليا ميساج",
+        "antwoorden": [
+          "stuur me een bericht",
+          "stuur mij een berichtje",
+          "stuur me een sms"
+        ],
+        "uitleg": "{ar|صيفط} = sturen.",
+        "tr": "ṣifṭ liya mēsāj",
+        "review": {
+          "status": "onzeker",
+          "note": "صيفط (sturen) laten nakijken."
+        }
+      }
+    ]
+  }
+}

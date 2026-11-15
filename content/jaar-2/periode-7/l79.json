@@ -1,0 +1,630 @@
+{
+  "id": "j2-p7-l79",
+  "code": "L79",
+  "type": "les",
+  "titel": "Bij de dokter",
+  "thema": "Klachten, onderzoek en medicijnen; de ḥāl",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een ḥāl gebruiken om te zeggen hoe iemand iets doet.",
+    "de ḥāl laten congrueren en in de accusatief zetten.",
+    "bij de dokter je klachten uitleggen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l79-w02",
+      "ar": "مَوْعِدٌ طِبِّيٌّ",
+      "tr": "mawʿidun ṭibbiyy",
+      "nl": [
+        "doktersafspraak"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l79-w03",
+      "ar": "فَحَصَ",
+      "tr": "faḥaṣa",
+      "nl": [
+        "onderzoeken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَفْحَصُ}; maṣdar {ar|فَحْصٌ}."
+    },
+    {
+      "id": "j2-p7-l79-w09",
+      "ar": "ضَغْطُ الدَّمِ",
+      "tr": "ḍaġṭu d-dam",
+      "nl": [
+        "bloeddruk"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l79-w10",
+      "ar": "مُسْرِعًا",
+      "tr": "musriʿan",
+      "nl": [
+        "haastig, snel (ḥāl)"
+      ],
+      "soort": "bijwoord (ḥāl)"
+    },
+    {
+      "id": "j2-p7-l79-w11",
+      "ar": "مُتَأَلِّمًا",
+      "tr": "mutaʾalliman",
+      "nl": [
+        "met pijn (ḥāl)"
+      ],
+      "soort": "bijwoord (ḥāl)"
+    },
+    {
+      "id": "j2-p7-l79-w12",
+      "ar": "مُبْتَسِمًا",
+      "tr": "mubtasiman",
+      "nl": [
+        "glimlachend (ḥāl)"
+      ],
+      "soort": "bijwoord (ḥāl)"
+    },
+    {
+      "id": "j2-p7-l79-w13",
+      "ar": "حَبَّةٌ",
+      "tr": "ḥabba",
+      "nl": [
+        "pil, tablet"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l79-w14",
+      "ar": "مَرَّتَيْنِ في اليَوْمِ",
+      "tr": "marratayni fi l-yawm",
+      "nl": [
+        "twee keer per dag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l79-w15",
+      "ar": "شُفِيَ",
+      "tr": "šufiya",
+      "nl": [
+        "genezen zijn"
+      ],
+      "soort": "werkwoord (lijdend)",
+      "notitie": "{ar|الشِّفاءُ} = genezing; {ar|شِفاءً عاجِلًا} = beterschap."
+    },
+    {
+      "id": "j2-p7-l79-w16",
+      "ar": "تَحْليلٌ",
+      "tr": "taḥlīl",
+      "nl": [
+        "(bloed)onderzoek, analyse"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l79-w18",
+      "ar": "أَلَمٌ في البَطْنِ",
+      "tr": "alamun fi l-baṭn",
+      "nl": [
+        "buikpijn"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l79-w19",
+      "ar": "صَيْدَلِيٌّ",
+      "tr": "ṣaydaliyy",
+      "nl": [
+        "apotheker"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l79-w20",
+      "ar": "حُقْنَةٌ",
+      "tr": "ḥuqna",
+      "nl": [
+        "injectie, prik"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l79-w22",
+      "ar": "أَعْراضٌ",
+      "tr": "aʿrāḍ",
+      "nl": [
+        "symptomen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p7-l79-w23",
+      "ar": "نَصيحَةٌ",
+      "tr": "naṣīḥa",
+      "nl": [
+        "advies"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l79-w24",
+      "ar": "مِيزانُ الحَرارَةِ",
+      "tr": "mīzānu l-ḥarāra",
+      "nl": [
+        "thermometer"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l79-w25",
+      "ar": "أَشِعَّةٌ",
+      "tr": "ašiʿʿa",
+      "nl": [
+        "röntgenfoto"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De ḥāl: hoe iemand iets doet",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "De **ḥāl** beschrijft de **toestand** van het onderwerp of voorwerp **terwijl** de handeling gebeurt. Het is een onbepaald naamwoord (meestal een deelwoord) in de **accusatief**: {ar|جاءَ مُسْرِعًا} = hij kwam haastig (aan)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Zin",
+            "ḥāl",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "دَخَلَ المَريضُ مُتَأَلِّمًا",
+              "مُتَأَلِّمًا",
+              "de patiënt kwam binnen met pijn"
+            ],
+            [
+              "خَرَجَتْ مِنَ العِيادَةِ مُبْتَسِمَةً",
+              "مُبْتَسِمَةً",
+              "ze verliet de praktijk glimlachend"
+            ],
+            [
+              "رَجَعوا إِلى البَيْتِ سُعَداءَ",
+              "سُعَداءَ",
+              "ze gingen blij naar huis"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom accusatief? De ḥāl is geen onderwerp en geen gezegde, maar een **bijkomende** bepaling bij het werkwoord, zoals een tijdsbepaling ({ar|صَباحًا}). Alles wat 'extra' bij het werkwoord hangt, staat in de accusatief. De ḥāl **congrueert** wel in geslacht en getal met het woord waar hij bij hoort."
+        },
+        {
+          "type": "letop",
+          "md": "Verschil: {ar|رَجَعَ سَعيدًا} (hij kwam blij terug, ḥāl) tegenover {ar|رَجَعَ الرَّجُلُ السَّعيدُ} (de blije man kwam terug, bijvoeglijk). De ḥāl is altijd **onbepaald**."
+        }
+      ]
+    },
+    {
+      "titel": "Bij de dokter",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "دَخَلْتُ العِيادَةَ مُتْعَبًا.",
+              "tr": "daḫaltu l-ʿiyādata mutʿaban.",
+              "nl": "Ik ging moe de praktijk binnen."
+            },
+            {
+              "ar": "فَحَصَني الطَّبيبُ وَقالَ إِنَّ عِنْدي زُكامًا.",
+              "tr": "faḥaṣanī ṭ-ṭabību wa-qāla inna ʿindī zukāman.",
+              "nl": "De dokter onderzocht me en zei dat ik verkouden ben."
+            },
+            {
+              "ar": "خُذْ حَبَّةً مَرَّتَيْنِ في اليَوْمِ.",
+              "tr": "ḫuḏ ḥabbatan marratayni fi l-yawm.",
+              "nl": "Neem twee keer per dag een tablet."
+            },
+            {
+              "ar": "خَرَجْتُ مِنَ العِيادَةِ مُرْتاحًا.",
+              "tr": "ḫarajtu mina l-ʿiyādati murtāḥan.",
+              "nl": "Ik verliet de praktijk opgelucht."
+            },
+            {
+              "ar": "شِفاءً عاجِلًا!",
+              "tr": "šifāʾan ʿājilan!",
+              "nl": "Beterschap!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عِيادَةٌ",
+              "nl": "praktijk"
+            },
+            {
+              "ar": "دَواءٌ",
+              "nl": "medicijn"
+            },
+            {
+              "ar": "حَرارَةٌ",
+              "nl": "koorts"
+            },
+            {
+              "ar": "سُعالٌ",
+              "nl": "hoest"
+            },
+            {
+              "ar": "زُكامٌ",
+              "nl": "verkoudheid"
+            },
+            {
+              "ar": "حَبَّةٌ",
+              "nl": "tablet",
+              "woord": "j2-p7-l79-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "hal",
+          "tekst": "جاءَ الطِّفْلُ مُسْرِعًا",
+          "vraag": "Hoe kwam het kind?",
+          "opties": [
+            "haastig",
+            "langzaam",
+            "huilend"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُسْرِعًا} = ḥāl."
+        }
+      ]
+    },
+    {
+      "titel": "De ḥāl",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "hal",
+          "zin": "خَرَجَتِ المَريضَةُ ___.",
+          "nl": "De patiënte ging glimlachend naar buiten.",
+          "antwoord": [
+            "مُبْتَسِمَةً"
+          ],
+          "uitleg": "ḥāl: onbepaald, accusatief, vrouwelijk.",
+          "woordbank": [
+            "مُبْتَسِمَةً",
+            "مُبْتَسِمَةٌ",
+            "المُبْتَسِمَةُ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "hal",
+          "zin": "رَجَعَ الأَوْلادُ ___.",
+          "nl": "De kinderen kwamen blij terug.",
+          "antwoord": [
+            "سُعَداءَ"
+          ],
+          "uitleg": "ḥāl in het meervoud, accusatief.",
+          "woordbank": [
+            "سُعَداءَ",
+            "سَعيدًا",
+            "سُعَداءُ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hal",
+          "vraag": "In welke zin is het onderstreepte woord een ḥāl?",
+          "opties": [
+            "دَخَلَ الطَّبيبُ مُبْتَسِمًا.",
+            "الطَّبيبُ المُبْتَسِمُ لَطيفٌ.",
+            "الطَّبيبُ مُبْتَسِمٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Onbepaald, accusatief, bij een werkwoord."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hal",
+          "vraag": "Welke naamval heeft een ḥāl?",
+          "opties": [
+            "manṣūb",
+            "marfūʿ",
+            "majrūr"
+          ],
+          "juist": 0,
+          "uitleg": "Accusatief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "hal",
+          "instructie": "Maak een ḥāl van het deelwoord (accusatief).",
+          "rijen": [
+            {
+              "label": "hij kwam haastig: جاءَ ___",
+              "antwoord": "مُسْرِعًا",
+              "tr": "musriʿan"
+            },
+            {
+              "label": "zij kwam haastig: جاءَتْ ___",
+              "antwoord": "مُسْرِعَةً",
+              "tr": "musriʿatan"
+            }
+          ],
+          "uitleg": "Congruentie + accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Bij de dokter",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "hal",
+          "nl": "De dokter onderzocht me en zei dat ik verkouden ben.",
+          "woorden": [
+            "فَحَصَني",
+            "الطَّبيبُ",
+            "وَقالَ",
+            "إِنَّ",
+            "عِنْدي",
+            "زُكامًا."
+          ],
+          "uitleg": "{ar|قالَ إِنَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "Beterschap!",
+          "antwoorden": [
+            "شِفاءً عاجِلًا"
+          ],
+          "uitleg": "{ar|شِفاءً عاجِلًا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hal",
+          "bron": "دَخَلَ المَريضُ مُتَأَلِّمًا.",
+          "antwoorden": [
+            "de patiënt kwam binnen met pijn",
+            "de patiënt kwam met pijn binnen",
+            "de zieke kwam binnen met pijn"
+          ],
+          "uitleg": "ḥāl."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ضَغْطُ الدَّمِ",
+            "nl": "bloeddruk"
+          },
+          {
+            "ar": "تَحْليلٌ",
+            "nl": "bloedonderzoek"
+          },
+          {
+            "ar": "وَصْفَةٌ طِبِّيَّةٌ",
+            "nl": "medisch recept"
+          },
+          {
+            "ar": "فَحَصَ",
+            "nl": "onderzoeken"
+          },
+          {
+            "ar": "مَوْعِدٌ طِبِّيٌّ",
+            "nl": "doktersafspraak"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal",
+        "vraag": "Wat is een ḥāl?",
+        "opties": [
+          "een bepaling die de toestand tijdens de handeling beschrijft",
+          "een tijdsbepaling",
+          "een bijvoeglijk naamwoord met ال"
+        ],
+        "juist": 0,
+        "uitleg": "Toestand."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal",
+        "vraag": "'Zij kwam glimlachend binnen' is ...",
+        "opties": [
+          "دَخَلَتْ مُبْتَسِمَةً",
+          "دَخَلَتْ مُبْتَسِمَةٌ",
+          "دَخَلَتِ المُبْتَسِمَةُ"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl: accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal",
+        "vraag": "Kan een ḥāl ال hebben?",
+        "opties": [
+          "nee, hij is altijd onbepaald",
+          "ja, altijd",
+          "alleen in het meervoud"
+        ],
+        "juist": 0,
+        "uitleg": "Onbepaald."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Wat zeg je tegen een zieke?",
+        "opties": [
+          "شِفاءً عاجِلًا",
+          "مَبْروكٌ",
+          "رَمَضانُ كَريمٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Beterschap."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal",
+        "tekst": "رَجَعَتْ مِنَ المُسْتَشْفى سَعيدَةً",
+        "vraag": "Hoe kwam ze terug?",
+        "opties": [
+          "blij",
+          "ziek",
+          "moe"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَعيدَةً} = ḥāl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "خُذْ هٰذا الدَّواءَ مَرَّتَيْنِ في اليَوْمِ",
+        "vraag": "Hoe vaak moet je het medicijn nemen?",
+        "opties": [
+          "twee keer per dag",
+          "één keer per dag",
+          "drie keer per week"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَرَّتَيْنِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "hal",
+        "zin": "جاءَ صَديقي ___.",
+        "nl": "Mijn vriend kwam haastig.",
+        "antwoord": [
+          "مُسْرِعًا"
+        ],
+        "uitleg": "ḥāl.",
+        "woordbank": [
+          "مُسْرِعًا",
+          "مُسْرِعٌ",
+          "المُسْرِعُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "hal",
+        "zin": "خَرَجْنا مِنَ العِيادَةِ ___.",
+        "nl": "We verlieten de praktijk opgelucht.",
+        "antwoord": [
+          "مُرْتاحينَ"
+        ],
+        "uitleg": "ḥāl meervoud, accusatief.",
+        "woordbank": [
+          "مُرْتاحينَ",
+          "مُرْتاحونَ",
+          "مُرْتاحًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "عِنْدي ___ وَسُعالٌ.",
+        "nl": "Ik heb koorts en hoest.",
+        "antwoord": [
+          "حَرارَةٌ"
+        ],
+        "uitleg": "{ar|حَرارَةٌ}",
+        "woordbank": [
+          "حَرارَةٌ",
+          "دَواءٌ",
+          "عِيادَةٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "hal",
+        "instructie": "Maak de ḥāl (accusatief).",
+        "rijen": [
+          {
+            "label": "glimlachend (m)",
+            "antwoord": "مُبْتَسِمًا",
+            "tr": "mubtasiman"
+          },
+          {
+            "label": "met pijn (v)",
+            "antwoord": "مُتَأَلِّمَةً",
+            "tr": "mutaʾallimatan"
+          }
+        ],
+        "uitleg": "Onbepaald, accusatief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "hal",
+        "nl": "Neem twee keer per dag een tablet.",
+        "woorden": [
+          "خُذْ",
+          "حَبَّةً",
+          "مَرَّتَيْنِ",
+          "في",
+          "اليَوْمِ."
+        ],
+        "uitleg": "Gebiedende wijs."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het medicijn",
+        "antwoorden": [
+          "الدَّواءُ"
+        ],
+        "uitleg": "{ar|الدَّواءُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hal",
+        "bron": "رَجَعَ الأَوْلادُ مِنَ المَدْرَسَةِ مُتْعَبينَ.",
+        "antwoorden": [
+          "de kinderen kwamen moe terug van school",
+          "de jongens kwamen moe terug van school",
+          "de kinderen kwamen moe thuis van school"
+        ],
+        "uitleg": "ḥāl meervoud."
+      }
+    ]
+  }
+}

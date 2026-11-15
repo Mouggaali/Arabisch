@@ -1,0 +1,671 @@
+{
+  "id": "j2-p7-l73",
+  "code": "L73",
+  "type": "les",
+  "titel": "Steden vergelijken",
+  "thema": "De grootste, de oudste, de mooiste",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de overtreffende trap vormen met أَفْعَلُ + iḍāfa (أَكْبَرُ مَدينَةٍ).",
+    "de bepaalde vormen الأَفْعَلُ / الفُعْلى gebruiken (الأَكْبَرُ، الكُبْرى).",
+    "steden en landen vergelijken en rangschikken."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l73-w01",
+      "ar": "الكُبْرى",
+      "tr": "al-kubrā",
+      "nl": [
+        "de grootste (v)"
+      ],
+      "soort": "overtreffende trap",
+      "notitie": "Mannelijk: {ar|الأَكْبَرُ}."
+    },
+    {
+      "id": "j2-p7-l73-w02",
+      "ar": "الصُّغْرى",
+      "tr": "aṣ-ṣuġrā",
+      "nl": [
+        "de kleinste (v)"
+      ],
+      "soort": "overtreffende trap",
+      "notitie": "Mannelijk: {ar|الأَصْغَرُ}."
+    },
+    {
+      "id": "j2-p7-l73-w03",
+      "ar": "العُلْيا",
+      "tr": "al-ʿulyā",
+      "nl": [
+        "de hoogste (v)"
+      ],
+      "soort": "overtreffende trap",
+      "notitie": "Mannelijk: {ar|الأَعْلى}."
+    },
+    {
+      "id": "j2-p7-l73-w04",
+      "ar": "أَشْهَرُ",
+      "tr": "ašhar",
+      "nl": [
+        "beroemder",
+        "beroemdst"
+      ],
+      "soort": "vergrotende trap",
+      "notitie": "Van {ar|مَشْهورٌ}."
+    },
+    {
+      "id": "j2-p7-l73-w05",
+      "ar": "أَطْوَلُ",
+      "tr": "aṭwal",
+      "nl": [
+        "langer",
+        "langst"
+      ],
+      "soort": "vergrotende trap"
+    },
+    {
+      "id": "j2-p7-l73-w06",
+      "ar": "أَعْلى",
+      "tr": "aʿlā",
+      "nl": [
+        "hoger",
+        "hoogst"
+      ],
+      "soort": "vergrotende trap"
+    },
+    {
+      "id": "j2-p7-l73-w07",
+      "ar": "أَكْثَرُ سُكّانًا",
+      "tr": "akṯaru sukkānan",
+      "nl": [
+        "met de meeste inwoners"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l73-w08",
+      "ar": "مَشْهورٌ بِـ",
+      "tr": "mašhūrun bi-",
+      "nl": [
+        "beroemd om"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w09",
+      "ar": "مَعْروفٌ",
+      "tr": "maʿrūf",
+      "nl": [
+        "bekend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w10",
+      "ar": "بُرْجٌ",
+      "tr": "burj",
+      "nl": [
+        "toren"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَبْراجٌ}."
+    },
+    {
+      "id": "j2-p7-l73-w11",
+      "ar": "ناطِحَةُ سَحابٍ",
+      "tr": "nāṭiḥatu saḥāb",
+      "nl": [
+        "wolkenkrabber"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l73-w12",
+      "ar": "ساحِلٌ",
+      "tr": "sāḥil",
+      "nl": [
+        "kust"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w13",
+      "ar": "مَوْقِعٌ",
+      "tr": "mawqiʿ",
+      "nl": [
+        "ligging",
+        "plaats",
+        "website"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w14",
+      "ar": "مُناخٌ",
+      "tr": "munāḫ",
+      "nl": [
+        "klimaat"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w15",
+      "ar": "عالَمٌ",
+      "tr": "ʿālam",
+      "nl": [
+        "wereld"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|في العالَمِ} = ter wereld."
+    },
+    {
+      "id": "j2-p7-l73-w16",
+      "ar": "عَريقٌ",
+      "tr": "ʿarīq",
+      "nl": [
+        "eeuwenoud",
+        "met lange traditie"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l73-w17",
+      "ar": "مُقارَنَةٌ",
+      "tr": "muqārana",
+      "nl": [
+        "vergelijking"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar vorm III van {ar|قارَنَ}."
+    },
+    {
+      "id": "j2-p7-l73-w18",
+      "ar": "بِالمُقارَنَةِ مَعَ",
+      "tr": "bi-l-muqārana maʿa",
+      "nl": [
+        "vergeleken met"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De overtreffende trap: أَفْعَلُ + iḍāfa",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Zet {ar|أَفْعَلُ} vóór een **onbepaald enkelvoud** in de genitief: {ar|أَكْبَرُ مَدينَةٍ} = de grootste stad. Of vóór een **bepaald meervoud**: {ar|أَكْبَرُ المُدُنِ} = de grootste van de steden.",
+            "{ar|أَفْعَلُ} blijft ook hier onveranderd, ook bij vrouwelijke woorden: {ar|أَجْمَلُ مَدينَةٍ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "أَفْعَلُ + onbepaald enkelvoud",
+              "أَكْبَرُ مَدينَةٍ في المَغْرِبِ",
+              "de grootste stad van Marokko"
+            ],
+            [
+              "أَفْعَلُ + bepaald meervoud",
+              "أَقْدَمُ المُدُنِ",
+              "de oudste van de steden"
+            ],
+            [
+              "الأَفْعَلُ (m) als bijv. nw",
+              "البُرْجُ الأَعْلى",
+              "de hoogste toren"
+            ],
+            [
+              "الفُعْلى (v) als bijv. nw",
+              "المَدينَةُ الكُبْرى",
+              "de grootste stad"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom een iḍāfa? Letterlijk zeg je *de grootste van (een) stad*: {ar|أَكْبَرُ} is het 'hoofd' van de iḍāfa. De vrouwelijke vorm {ar|الكُبْرى} bestaat alleen voor een paar veelgebruikte woorden ({ar|الكُبْرى}، {ar|الصُّغْرى}، {ar|العُلْيا}، {ar|الأولى}); bij de meeste woorden gebruik je gewoon de iḍāfa."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|أَعْلى} eindigt op ى (zwakke wortel ع-ل-و), zoals {ar|أَغْلى} in les 45. Ook {ar|أَكْثَرُ} + accusatief (tamyīz) kan: {ar|أَكْثَرُ المُدُنِ سُكّانًا} = de stad met de meeste inwoners."
+        }
+      ]
+    },
+    {
+      "titel": "Steden vergelijken",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "الدّارُ البَيْضاءُ أَكْبَرُ مَدينَةٍ في المَغْرِبِ.",
+              "tr": "ad-dāru l-bayḍāʾu akbaru madīnatin fi l-Maġrib.",
+              "nl": "Casablanca is de grootste stad van Marokko."
+            },
+            {
+              "ar": "فاسُ مِنْ أَقْدَمِ المُدُنِ العَرَبِيَّةِ.",
+              "tr": "Fāsu min aqdami l-mudani l-ʿarabiyya.",
+              "nl": "Fez is een van de oudste Arabische steden."
+            },
+            {
+              "ar": "بُرْجُ خَليفَةَ أَعْلى بِناءٍ في العالَمِ.",
+              "tr": "burju Ḫalīfata aʿlā bināʾin fi l-ʿālam.",
+              "nl": "De Burj Khalifa is het hoogste gebouw ter wereld."
+            },
+            {
+              "ar": "القاهِرَةُ أَكْثَرُ المُدُنِ العَرَبِيَّةِ سُكّانًا.",
+              "tr": "al-Qāhiratu akṯaru l-mudani l-ʿarabiyyati sukkānan.",
+              "nl": "Caïro is de Arabische stad met de meeste inwoners."
+            },
+            {
+              "ar": "مَرّاكُشُ مَشْهورَةٌ بِساحَةِ جامِعِ الفَنا.",
+              "tr": "Marrākušu mašhūratun bi-sāḥati jāmiʿi l-fanā.",
+              "nl": "Marrakesh is beroemd om het plein Jemaa el-Fna."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بُرْجٌ",
+              "nl": "toren",
+              "woord": "j2-p7-l73-w10"
+            },
+            {
+              "ar": "ساحِلٌ",
+              "nl": "kust",
+              "woord": "j2-p7-l73-w12"
+            },
+            {
+              "ar": "مُناخٌ",
+              "nl": "klimaat",
+              "woord": "j2-p7-l73-w14"
+            },
+            {
+              "ar": "عالَمٌ",
+              "nl": "wereld",
+              "woord": "j2-p7-l73-w15"
+            },
+            {
+              "ar": "مَعْروفٌ",
+              "nl": "bekend",
+              "woord": "j2-p7-l73-w09"
+            },
+            {
+              "ar": "مُقارَنَةٌ",
+              "nl": "vergelijking",
+              "woord": "j2-p7-l73-w17"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "overtreffende-trap",
+          "tekst": "هٰذِهِ أَجْمَلُ مَدينَةٍ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Dit is de mooiste stad.",
+            "Deze stad is mooier.",
+            "Dit is een mooie stad."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "Overtreffende trap",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "overtreffende-trap",
+          "zin": "النّيلُ ___ نَهْرٍ في إِفْريقيا.",
+          "nl": "De Nijl is de langste rivier van Afrika.",
+          "woordbank": [
+            "أَطْوَلُ",
+            "الأَطْوَلُ",
+            "طَويلٌ"
+          ],
+          "antwoord": [
+            "أَطْوَلُ"
+          ],
+          "uitleg": "{ar|أَفْعَلُ} (zonder ال) + onbepaald enkelvoud."
+        },
+        {
+          "type": "invullen",
+          "tag": "overtreffende-trap",
+          "zin": "هٰذِهِ هِيَ المَدينَةُ ___.",
+          "nl": "Dit is de grootste stad.",
+          "woordbank": [
+            "الكُبْرى",
+            "الأَكْبَرُ",
+            "كَبيرَةٌ"
+          ],
+          "antwoord": [
+            "الكُبْرى"
+          ],
+          "uitleg": "Vrouwelijk bijvoeglijk: {ar|الفُعْلى}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "overtreffende-trap",
+          "vraag": "'De oudste van de steden' is ...",
+          "opties": [
+            "أَقْدَمُ المُدُنِ",
+            "أَقْدَمُ مُدُنٍ",
+            "المُدُنُ الأَقْدَمُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفْعَلُ} + bepaald meervoud."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "overtreffende-trap",
+          "vraag": "Wat betekent {ar|أَشْهَرُ كاتِبٍ}?",
+          "opties": [
+            "de beroemdste schrijver",
+            "een beroemde schrijver",
+            "beroemder dan de schrijver"
+          ],
+          "juist": 0,
+          "uitleg": "iḍāfa = overtreffende trap."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "overtreffende-trap",
+          "instructie": "Geef de mannelijke en vrouwelijke bepaalde vorm.",
+          "rijen": [
+            {
+              "label": "groot (m)",
+              "antwoord": "الأَكْبَرُ",
+              "tr": "al-akbar"
+            },
+            {
+              "label": "groot (v)",
+              "antwoord": "الكُبْرى",
+              "tr": "al-kubrā"
+            },
+            {
+              "label": "klein (v)",
+              "antwoord": "الصُّغْرى",
+              "tr": "aṣ-ṣuġrā"
+            }
+          ],
+          "uitleg": "الأَفْعَلُ / الفُعْلى"
+        }
+      ]
+    },
+    {
+      "titel": "Vergelijken",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "overtreffende-trap",
+          "nl": "Casablanca is de grootste stad van Marokko.",
+          "woorden": [
+            "الدّارُ",
+            "البَيْضاءُ",
+            "أَكْبَرُ",
+            "مَدينَةٍ",
+            "في",
+            "المَغْرِبِ."
+          ],
+          "uitleg": "{ar|أَكْبَرُ مَدينَةٍ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "المُناخُ في الشَّمالِ مُعْتَدِلٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Het klimaat in het noorden is gematigd.",
+            "Het noorden is heet.",
+            "Er is geen regen in het noorden."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|المُناخُ} = klimaat."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "overtreffende-trap",
+          "bron": "de hoogste toren",
+          "antwoorden": [
+            "أَعْلى بُرْجٍ",
+            "البُرْجُ الأَعْلى"
+          ],
+          "uitleg": "{ar|أَعْلى بُرْجٍ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "overtreffende-trap",
+          "bron": "فاسُ مِنْ أَقْدَمِ المُدُنِ.",
+          "antwoorden": [
+            "fez is een van de oudste steden",
+            "fès is een van de oudste steden"
+          ],
+          "uitleg": "{ar|مِنْ أَفْعَلِ …} = een van de …ste."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ناطِحَةُ سَحابٍ",
+            "nl": "wolkenkrabber"
+          },
+          {
+            "ar": "مَوْقِعٌ",
+            "nl": "ligging"
+          },
+          {
+            "ar": "عَريقٌ",
+            "nl": "eeuwenoud"
+          },
+          {
+            "ar": "مَشْهورٌ بِـ",
+            "nl": "beroemd om"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'De mooiste dag' is ...",
+        "opties": [
+          "أَجْمَلُ يَوْمٍ",
+          "أَجْمَلُ اليَوْمِ",
+          "يَوْمٌ أَجْمَلُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "Welke vorm is vrouwelijk?",
+        "opties": [
+          "العُلْيا",
+          "الأَعْلى",
+          "أَعْلى"
+        ],
+        "juist": 0,
+        "uitleg": "الفُعْلى-patroon."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "Wat betekent {ar|مِنْ أَجْمَلِ المُدُنِ}?",
+        "opties": [
+          "een van de mooiste steden",
+          "mooier dan de steden",
+          "de mooiste stad"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنْ} = een van."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'De grootste stad' (vrouwelijk bijvoeglijk) is ...",
+        "opties": [
+          "المَدينَةُ الكُبْرى",
+          "المَدينَةُ الأَكْبَرُ",
+          "المَدينَةُ الكَبيرَةُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الكُبْرى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "overtreffende-trap",
+        "tekst": "هُوَ أَشْهَرُ لاعِبٍ في البَلَدِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hij is de beroemdste speler van het land.",
+          "Hij is een bekende speler.",
+          "Hij speelt beter dan ik."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَشْهَرُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "تَقَعُ المَدينَةُ عَلى السّاحِلِ",
+        "vraag": "Waar ligt de stad?",
+        "opties": [
+          "aan de kust",
+          "in de bergen",
+          "in de woestijn"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|السّاحِلُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "هٰذا ___ يَوْمٍ في حَياتي.",
+        "nl": "Dit is de mooiste dag van mijn leven.",
+        "woordbank": [
+          "أَجْمَلُ",
+          "الأَجْمَلُ",
+          "جَميلٌ"
+        ],
+        "antwoord": [
+          "أَجْمَلُ"
+        ],
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "هٰذا ___ جَبَلٍ في البَلَدِ.",
+        "nl": "Dit is de hoogste berg van het land.",
+        "woordbank": [
+          "أَعْلى",
+          "العُلْيا",
+          "عالٍ"
+        ],
+        "antwoord": [
+          "أَعْلى"
+        ],
+        "uitleg": "{ar|أَعْلى} + onbepaald enkelvoud."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "overtreffende-trap",
+        "instructie": "Maak de vergrotende/overtreffende vorm (أَفْعَلُ).",
+        "rijen": [
+          {
+            "label": "مَشْهورٌ",
+            "antwoord": "أَشْهَرُ",
+            "tr": "ašhar"
+          },
+          {
+            "label": "طَويلٌ",
+            "antwoord": "أَطْوَلُ",
+            "tr": "aṭwal"
+          }
+        ],
+        "uitleg": "Patroon أَفْعَلُ."
+      },
+      {
+        "type": "ordenen",
+        "tag": "overtreffende-trap",
+        "nl": "De Burj Khalifa is het hoogste gebouw ter wereld.",
+        "woorden": [
+          "بُرْجُ",
+          "خَليفَةَ",
+          "أَعْلى",
+          "بِناءٍ",
+          "في",
+          "العالَمِ."
+        ],
+        "uitleg": "{ar|أَعْلى بِناءٍ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "overtreffende-trap",
+        "bron": "de grootste stad",
+        "antwoorden": [
+          "أَكْبَرُ مَدينَةٍ",
+          "المَدينَةُ الكُبْرى"
+        ],
+        "uitleg": "{ar|أَكْبَرُ مَدينَةٍ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "overtreffende-trap",
+        "bron": "أَشْهَرُ المُدُنِ السِّياحِيَّةِ",
+        "antwoorden": [
+          "de beroemdste toeristische steden",
+          "de bekendste toeristische steden",
+          "de beroemdste van de toeristische steden"
+        ],
+        "uitleg": "{ar|أَفْعَلُ} + bepaald meervoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "بِالمُقارَنَةِ مَعَ أَمْسْتِرْدامَ، الرِّباطُ صَغيرَةٌ.",
+        "antwoorden": [
+          "vergeleken met amsterdam is rabat klein",
+          "in vergelijking met amsterdam is rabat klein"
+        ],
+        "uitleg": "{ar|بِالمُقارَنَةِ مَعَ}"
+      }
+    ]
+  }
+}

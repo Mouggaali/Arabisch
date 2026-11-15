@@ -1,0 +1,581 @@
+{
+  "id": "j2-p6-pt6",
+  "code": "PT6",
+  "type": "periodetoets",
+  "titel": "Periodetoets 6",
+  "thema": "Alle leerdoelen van periode 6 (les 61 tot en met 72, D10–D12)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** naamvallen, diptoten, de vijf zelfstandige naamwoorden, kāna en zusters (L61–L64).",
+    "**Getoetst:** inna en zusters, gebroken meervouden, congruentie (L65–L68).",
+    "**Getoetst:** holle, defectieve, assimilerende, verdubbelde en hamza-werkwoorden (L69–L72).",
+    "**Getoetst:** Darija: de weg, het huis, vraagwoorden (D10–D12).",
+    "Geslaagd vanaf 70%. Maak eerst H18."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval heeft {ar|القِطارَ} in {ar|رَكِبْتُ القِطارَ}?",
+        "opties": [
+          "manṣūb",
+          "marfūʿ",
+          "majrūr"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend voorwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Wie doet wat in {ar|ساعَدَ الوَلَدَ الرَّجُلُ}?",
+        "opties": [
+          "De man hielp de jongen.",
+          "De jongen hielp de man.",
+          "Ze hielpen elkaar."
+        ],
+        "juist": 0,
+        "uitleg": "-u = onderwerp."
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "سافَرْنا إِلى ___.",
+        "nl": "We reisden naar de stad.",
+        "woordbank": [
+          "المَدينَةِ",
+          "المَدينَةُ",
+          "المَدينَةَ"
+        ],
+        "antwoord": [
+          "المَدينَةِ"
+        ],
+        "uitleg": "Na {ar|إِلى} → -i.",
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "'In Londen' is ...",
+        "opties": [
+          "في لَنْدَنَ",
+          "في لَنْدَنٍ",
+          "في لَنْدَنِ"
+        ],
+        "juist": 0,
+        "uitleg": "Diptoot: genitief -a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Welk woord is een diptoot?",
+        "opties": [
+          "مَدارِسُ",
+          "مَدْرَسَةٌ",
+          "دُروسٌ"
+        ],
+        "juist": 0,
+        "uitleg": "مَفاعِلُ."
+      },
+      {
+        "type": "invullen",
+        "tag": "diptoten",
+        "zin": "زُرْنا ___ قَديمَةً.",
+        "nl": "We bezochten oude moskeeën.",
+        "woordbank": [
+          "مَساجِدَ",
+          "مَساجِدًا",
+          "مَساجِدٍ"
+        ],
+        "antwoord": [
+          "مَساجِدَ"
+        ],
+        "uitleg": "Diptoot: geen tanwīn.",
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "'Ik ken je broer' is ...",
+        "opties": [
+          "أَعْرِفُ أَخاكَ.",
+          "أَعْرِفُ أَخوكَ.",
+          "أَعْرِفُ أَخيكَ."
+        ],
+        "juist": 0,
+        "uitleg": "Accusatief → ا."
+      },
+      {
+        "type": "invullen",
+        "tag": "vijf-namen",
+        "zin": "___ سَميرٍ في البَيْتِ.",
+        "nl": "Abu Samir is thuis.",
+        "woordbank": [
+          "أَبو",
+          "أَبا",
+          "أَبي"
+        ],
+        "antwoord": [
+          "أَبو"
+        ],
+        "uitleg": "Onderwerp → و."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "'De straat werd druk' is ...",
+        "opties": [
+          "أَصْبَحَ الشّارِعُ مُزْدَحِمًا.",
+          "أَصْبَحَ الشّارِعَ مُزْدَحِمٌ.",
+          "أَصْبَحَ الشّارِعُ مُزْدَحِمٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Gezegde → -a."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-zusters",
+        "zin": "ما زالَ أَبي ___.",
+        "nl": "Mijn vader is nog steeds actief.",
+        "woordbank": [
+          "نَشيطًا",
+          "نَشيطٌ",
+          "نَشيطٍ"
+        ],
+        "antwoord": [
+          "نَشيطًا"
+        ],
+        "uitleg": "Na {ar|ما زالَ}: accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "inna-zusters",
+        "vraag": "'Ik weet dat de les moeilijk is' is ...",
+        "opties": [
+          "أَعْرِفُ أَنَّ الدَّرْسَ صَعْبٌ.",
+          "أَعْرِفُ أَنَّ الدَّرْسُ صَعْبًا.",
+          "أَعْرِفُ أَنَّ الدَّرْسَ صَعْبًا."
+        ],
+        "juist": 0,
+        "uitleg": "Onderwerp -a, gezegde -u."
+      },
+      {
+        "type": "invullen",
+        "tag": "inna-zusters",
+        "zin": "لَيْتَ ___ أَطْوَلُ.",
+        "nl": "Was de vakantie maar langer.",
+        "woordbank": [
+          "العُطْلَةَ",
+          "العُطْلَةُ",
+          "العُطْلَةِ"
+        ],
+        "antwoord": [
+          "العُطْلَةَ"
+        ],
+        "uitleg": "{ar|لَيْتَ} + -a.",
+        "streng": true
+      },
+      {
+        "type": "luisteren",
+        "tag": "inna-zusters",
+        "tekst": "لَعَلَّكَ مُتْعَبٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Je bent vast moe.",
+          "Je was moe.",
+          "Je bent niet moe."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَعَلَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|جَبَلٌ} is ...",
+        "opties": [
+          "جِبالٌ",
+          "أَجْبالٌ",
+          "جُبولٌ"
+        ],
+        "juist": 0,
+        "uitleg": "فِعال."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|وَزيرٌ} is ...",
+        "opties": [
+          "وُزَراءُ",
+          "أَوْزارٌ",
+          "وَزيرونَ"
+        ],
+        "juist": 0,
+        "uitleg": "فُعَلاءُ."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "gebroken-mv",
+        "instructie": "Geef het meervoud.",
+        "rijen": [
+          {
+            "label": "طَريقٌ",
+            "antwoord": "طُرُقٌ",
+            "tr": "ṭuruq"
+          },
+          {
+            "label": "مِفْتاحٌ",
+            "antwoord": "مَفاتيحُ",
+            "tr": "mafātīḥ"
+          },
+          {
+            "label": "شَجَرَةٌ",
+            "antwoord": "أَشْجارٌ",
+            "tr": "ašjār"
+          }
+        ],
+        "uitleg": "فُعُل · مَفاعيلُ · أَفْعال"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "'De nieuwe huizen' is ...",
+        "opties": [
+          "البُيوتُ الجَديدَةُ",
+          "البُيوتُ الجُدُدُ",
+          "البُيوتُ الجَديدونَ"
+        ],
+        "juist": 0,
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "invullen",
+        "tag": "congruentie",
+        "zin": "المُهَنْدِساتُ ___ في الشَّرِكَةِ.",
+        "nl": "De ingenieurs (v) werken bij het bedrijf.",
+        "woordbank": [
+          "يَعْمَلْنَ",
+          "تَعْمَلُ",
+          "يَعْمَلونَ"
+        ],
+        "antwoord": [
+          "يَعْمَلْنَ"
+        ],
+        "uitleg": "Mensen (v), werkwoord na onderwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "وَصَلَ الضُّيوفُ.",
+          "وَصَلوا الضُّيوفُ.",
+          "وَصَلَتِ الضُّيوفُ الرِّجالُ."
+        ],
+        "juist": 0,
+        "uitleg": "Werkwoord vóór → enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Ik zei' is ...",
+        "opties": [
+          "قُلْتُ",
+          "قالْتُ",
+          "قِلْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "و-type → u."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Hij heeft niet geslapen' is ...",
+        "opties": [
+          "لَمْ يَنَمْ",
+          "لَمْ يَنامُ",
+          "لَمْ يَنامْ"
+        ],
+        "juist": 0,
+        "uitleg": "Korte stam."
+      },
+      {
+        "type": "invullen",
+        "tag": "zwakke-ww",
+        "zin": "هَلْ ___ سَيّارَتَكَ؟",
+        "nl": "Heb je je auto verkocht? (m)",
+        "woordbank": [
+          "بِعْتَ",
+          "باعْتَ",
+          "تَبيعُ"
+        ],
+        "antwoord": [
+          "بِعْتَ"
+        ],
+        "uitleg": "ي-type → i.",
+        "eind": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Wij liepen' is ...",
+        "opties": [
+          "مَشَيْنا",
+          "مَشْنا",
+          "مَشَوْنا"
+        ],
+        "juist": 0,
+        "uitleg": "ي verschijnt."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Vergeet niet!' (m) is ...",
+        "opties": [
+          "لا تَنْسَ!",
+          "لا تَنْسى!",
+          "لا نَسيتَ!"
+        ],
+        "juist": 0,
+        "uitleg": "Verbod: korte a."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "zwakke-ww",
+        "instructie": "Geef de muḍāriʿ (hij).",
+        "rijen": [
+          {
+            "label": "دَعا",
+            "antwoord": "يَدْعو",
+            "tr": "yadʿū"
+          },
+          {
+            "label": "وَجَدَ",
+            "antwoord": "يَجِدُ",
+            "tr": "yajidu"
+          },
+          {
+            "label": "مَرَّ",
+            "antwoord": "يَمُرُّ",
+            "tr": "yamurru"
+          }
+        ],
+        "uitleg": "و-defectief · assimilerend · verdubbeld"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Stop!' (m) is ...",
+        "opties": [
+          "قِفْ",
+          "اِوْقِفْ",
+          "قَفْ"
+        ],
+        "juist": 0,
+        "uitleg": "Van {ar|وَقَفَ / يَقِفُ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-ww",
+        "vraag": "'Neem!' (m) is ...",
+        "opties": [
+          "خُذْ",
+          "اُؤْخُذْ",
+          "أَخُذْ"
+        ],
+        "juist": 0,
+        "uitleg": "Korte gebiedende wijs."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-spelling",
+        "vraag": "Hoe schrijf je *masʾūl* (verantwoordelijk)?",
+        "opties": [
+          "مَسْؤولٌ",
+          "مَسْأولٌ",
+          "مَسْئولٌ"
+        ],
+        "juist": 0,
+        "uitleg": "ū erna → ؤ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "zwakke-ww",
+        "tekst": "عُدْتُ مِنَ العَمَلِ مُتَأَخِّرًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik kwam laat terug van mijn werk.",
+          "Ik ga laat naar mijn werk.",
+          "Ik werk tot laat."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عُدْتُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "hamza-ww",
+        "tekst": "سَأَلْتُ المُذيعَ سُؤالًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik stelde de presentator een vraag.",
+          "De presentator stelde mij een vraag.",
+          "Ik beantwoordde een vraag."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَأَلْتُ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "صَيّادٌ",
+            "nl": "visser"
+          },
+          {
+            "ar": "جَزيرَةٌ",
+            "nl": "eiland"
+          },
+          {
+            "ar": "حَفيدٌ",
+            "nl": "kleinzoon"
+          },
+          {
+            "ar": "ريفٌ",
+            "nl": "platteland"
+          },
+          {
+            "ar": "رَأْيٌ",
+            "nl": "mening"
+          }
+        ],
+        "uitleg": "Woordenschat periode 6."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "طَبيعَةٌ",
+            "nl": "natuur"
+          },
+          {
+            "ar": "حُكومَةٌ",
+            "nl": "regering"
+          },
+          {
+            "ar": "تاجِرٌ",
+            "nl": "handelaar"
+          },
+          {
+            "ar": "أَمْتِعَةٌ",
+            "nl": "bagage"
+          },
+          {
+            "ar": "مَجَلَّةٌ",
+            "nl": "tijdschrift"
+          }
+        ],
+        "uitleg": "Woordenschat periode 6."
+      },
+      {
+        "type": "ordenen",
+        "tag": "inna-zusters",
+        "nl": "Ik denk dat dit idee uitstekend is.",
+        "woorden": [
+          "أَعْتَقِدُ",
+          "أَنَّ",
+          "هٰذِهِ",
+          "الفِكْرَةَ",
+          "مُمْتازَةٌ."
+        ],
+        "uitleg": "{ar|أَنَّ} + -a + -u."
+      },
+      {
+        "type": "ordenen",
+        "tag": "zwakke-ww",
+        "nl": "We hebben onze vrienden uitgenodigd voor het avondeten.",
+        "woorden": [
+          "دَعَوْنا",
+          "أَصْدِقاءَنا",
+          "إِلى",
+          "العَشاءِ."
+        ],
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-weg",
+        "vraag": "'Rechtdoor' in het Darija is ...",
+        "opties": [
+          "نيشان",
+          "على ليمن",
+          "تما"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نيشان}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-huis",
+        "vraag": "Het Darija {ar|البيت} betekent ...",
+        "opties": [
+          "kamer",
+          "huis",
+          "dak"
+        ],
+        "juist": 0,
+        "uitleg": "Huis = {ar|الدار}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-vragen",
+        "vraag": "Fusha {ar|لِماذا} is in het Darija ...",
+        "opties": [
+          "علاش",
+          "فين",
+          "كيفاش"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|علاش}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "zwakke-ww",
+        "bron": "Ik ben vergeten.",
+        "antwoorden": [
+          "نَسيتُ"
+        ],
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-zusters",
+        "bron": "صارَتِ المَدينَةُ كَبيرَةً.",
+        "antwoorden": [
+          "de stad is groot geworden",
+          "de stad werd groot"
+        ],
+        "uitleg": "{ar|صارَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "gebroken-mv",
+        "bron": "في المَغْرِبِ جِبالٌ عالِيَةٌ.",
+        "antwoorden": [
+          "in marokko zijn hoge bergen",
+          "marokko heeft hoge bergen",
+          "er zijn hoge bergen in marokko"
+        ],
+        "uitleg": "Meervoud dingen."
+      }
+    ]
+  }
+}

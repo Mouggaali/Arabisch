@@ -1,0 +1,699 @@
+{
+  "id": "j1-p4-d06",
+  "code": "D06",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: ontkenning en toekomst",
+  "thema": "Nee zeggen en plannen maken in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een werkwoord ontkennen met ما … ش.",
+    "een zin zonder werkwoord ontkennen met ماشي.",
+    "de toekomst uitdrukken met غادي (of غا)."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-d06-w01",
+      "ar": "ماكانعرفش",
+      "tr": "makanʿṛəfš",
+      "nl": [
+        "ik weet het niet"
+      ],
+      "soort": "werkwoord (ontkend)",
+      "notitie": "ما + كانعرف + ش. Fusha: {ar|لا أَعْرِفُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija-spelling (ماكانعرفش / ما كنعرفش) bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w02",
+      "ar": "مافهمتش",
+      "tr": "mafhəmtš",
+      "nl": [
+        "ik heb het niet begrepen"
+      ],
+      "soort": "werkwoord (ontkend)",
+      "notitie": "Fusha: {ar|ما فَهِمْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w03",
+      "ar": "ماشي",
+      "tr": "māši",
+      "nl": [
+        "niet (zonder werkwoord)"
+      ],
+      "soort": "ontkenning",
+      "notitie": "{ar|ماشي مشكل} = geen probleem.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w04",
+      "ar": "والو",
+      "tr": "wālu",
+      "nl": [
+        "niets"
+      ],
+      "soort": "voornaamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w05",
+      "ar": "غادي",
+      "tr": "ġādi",
+      "nl": [
+        "gaan (toekomst)",
+        "zal"
+      ],
+      "soort": "partikel",
+      "notitie": "Vaak verkort tot {ar|غا}: {ar|غانمشي}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w06",
+      "ar": "غادي نمشي",
+      "tr": "ġādi nəmši",
+      "nl": [
+        "ik ga (zal gaan)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|سَأَذْهَبُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w07",
+      "ar": "غدا",
+      "tr": "ġədda",
+      "nl": [
+        "morgen"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Fusha: {ar|غَدًا}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w08",
+      "ar": "مشكل",
+      "tr": "muškil",
+      "nl": [
+        "probleem"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|مُشْكِلَةٌ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w09",
+      "ar": "بغيت",
+      "tr": "bġīt",
+      "nl": [
+        "ik wil"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vorm van de verleden tijd, maar betekenis tegenwoordig. Fusha: {ar|أُريدُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w10",
+      "ar": "مابغيتش",
+      "tr": "mabġītš",
+      "nl": [
+        "ik wil niet"
+      ],
+      "soort": "werkwoord (ontkend)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w11",
+      "ar": "عمري",
+      "tr": "ʿəmmri",
+      "nl": [
+        "nooit (+ ontkenning)"
+      ],
+      "soort": "bijwoord",
+      "notitie": "{ar|عمري ما مشيت} = ik ben er nooit geweest.",
+      "review": {
+        "status": "onzeker",
+        "note": "Constructie عمري ما + verleden tijd bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w12",
+      "ar": "حتى واحد",
+      "tr": "ḥtta wāḥəd",
+      "nl": [
+        "niemand"
+      ],
+      "soort": "voornaamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w13",
+      "ar": "السيمانة الجاية",
+      "tr": "ssimana jjāya",
+      "nl": [
+        "volgende week"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w14",
+      "ar": "إن شاء الله",
+      "tr": "inšāḷḷāh",
+      "nl": [
+        "als God het wil",
+        "hopelijk"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Ook in het Fusha: {ar|إِنْ شاءَ اللهُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Controleren of dit niet al in een eerdere les staat."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w15",
+      "ar": "ماكاينش",
+      "tr": "makaynš",
+      "nl": [
+        "er is niet",
+        "er is geen"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Ontkenning van {ar|كاين} (er is).",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d06-w16",
+      "ar": "كاين",
+      "tr": "kāyn",
+      "nl": [
+        "er is"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Fusha: {ar|هُناكَ} / {ar|يوجَدُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Ontkennen met ما … ش",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Een werkwoord ontken je in het Darija met **ما** ervoor en **ش** erachter, zoals het Franse *ne … pas*. Dat werkt in de tegenwoordige én de verleden tijd.",
+            "Een zin **zonder werkwoord** ontken je met **ماشي**: {ar|ماشي مغربي} (*geen Marokkaan*), {ar|ماشي مشكل} (*geen probleem*)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Bevestigend",
+            "Ontkennend"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "heden",
+              "كانعرف|kanʿṛəf",
+              "ماكانعرفش|makanʿṛəfš"
+            ],
+            [
+              "verleden",
+              "فهمت|fhəmt",
+              "مافهمتش|mafhəmtš"
+            ],
+            [
+              "er is",
+              "كاين|kāyn",
+              "ماكاينش|makaynš"
+            ],
+            [
+              "zonder werkwoord",
+              "مغربي|məġribi",
+              "ماشي مغربي|māši məġribi"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De ش komt waarschijnlijk van {ar|شَيْء} (*iets*): *ik weet niet iets*. Zo is ook het Franse *pas* (een *stap*) ontstaan. Fusha kent die ش niet; daar gebruik je {ar|لا}, {ar|ما} of {ar|لَيْسَ}."
+        }
+      ]
+    },
+    {
+      "titel": "De toekomst met غادي",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Zet **غادي** (of kort **غا**) vóór de werkwoordsvorm **zonder** كا: {ar|غادي نكتب} (*ik ga schrijven*), {ar|غادي يمشي} (*hij gaat weg*). Het lijkt op het Nederlandse *ik ga …*: {ar|غادي} komt van een woord voor *gaand*."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "غدا غادي نمشي للسوق.",
+              "tr": "ġədda ġādi nəmši l-ssūq.",
+              "nl": "Morgen ga ik naar de markt.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ماكانعرفش، سمحلي.",
+              "tr": "makanʿṛəfš, sməḥli.",
+              "nl": "Ik weet het niet, sorry.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "السيمانة الجاية غادي نسافرو لمراكش إن شاء الله.",
+              "tr": "ssimana jjāya ġādi nsāfṛu l-məṛṛākəš inšāḷḷāh.",
+              "nl": "Volgende week reizen we naar Marrakesh, als God het wil.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ماكاينش الخبز اليوم.",
+              "tr": "makaynš lxubz lyūm.",
+              "nl": "Er is vandaag geen brood.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-ontkenning",
+          "paren": [
+            {
+              "ar": "ماكانعرفش",
+              "nl": "ik weet het niet",
+              "woord": "j1-p4-d06-w01"
+            },
+            {
+              "ar": "مافهمتش",
+              "nl": "ik heb het niet begrepen",
+              "woord": "j1-p4-d06-w02"
+            },
+            {
+              "ar": "والو",
+              "nl": "niets",
+              "woord": "j1-p4-d06-w04"
+            },
+            {
+              "ar": "ماشي مشكل",
+              "nl": "geen probleem",
+              "woord": "j1-p4-d06-w03"
+            },
+            {
+              "ar": "غدا",
+              "nl": "morgen",
+              "woord": "j1-p4-d06-w07"
+            },
+            {
+              "ar": "كاين",
+              "nl": "er is",
+              "woord": "j1-p4-d06-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-ontkenning",
+          "tekst": "ماكانعرفش",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik weet het niet.",
+            "Ik weet het.",
+            "Ik ga het weten."
+          ],
+          "juist": 0,
+          "uitleg": "*makanʿṛəfš* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Ontkennen en toekomst",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-ontkenning",
+          "zin": "___ مشكل.",
+          "nl": "Geen probleem.",
+          "woordbank": [
+            "ماشي",
+            "ما",
+            "والو"
+          ],
+          "antwoord": [
+            "ماشي"
+          ],
+          "uitleg": "Zonder werkwoord → {ar|ماشي}."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-toekomst",
+          "zin": "غدا ___ نمشي للخدمة.",
+          "nl": "Morgen ga ik naar mijn werk.",
+          "woordbank": [
+            "غادي",
+            "كا",
+            "ما"
+          ],
+          "antwoord": [
+            "غادي"
+          ],
+          "uitleg": "{ar|غادي} + werkwoord zonder كا."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "darija-ontkenning",
+          "instructie": "Maak ontkennend met ما … ش.",
+          "rijen": [
+            {
+              "label": "كانفهم (ik begrijp)",
+              "antwoord": "ماكانفهمش",
+              "tr": "makanfhəmš"
+            },
+            {
+              "label": "كتبت (ik schreef)",
+              "antwoord": "ماكتبتش",
+              "tr": "maktəbtš"
+            },
+            {
+              "label": "بغيت (ik wil)",
+              "antwoord": "مابغيتش",
+              "tr": "mabġītš"
+            }
+          ],
+          "uitleg": "ما + werkwoord + ش."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Fusha {ar|سَأَذْهَبُ} is in het Darija ...",
+          "opties": [
+            "غادي نمشي",
+            "كانمشي",
+            "مشيت"
+          ],
+          "juist": 0,
+          "uitleg": "Toekomst = {ar|غادي}."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-toekomst",
+          "nl": "Morgen ga ik naar de markt.",
+          "woorden": [
+            "غدا",
+            "غادي",
+            "نمشي",
+            "للسوق."
+          ],
+          "uitleg": "Tijd – غادي – werkwoord – plaats."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-ontkenning",
+          "bron": "niets (Darija)",
+          "antwoorden": [
+            "والو"
+          ],
+          "uitleg": "{ar|والو}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-ontkenning",
+          "bron": "er is niet / er is geen (Darija)",
+          "antwoorden": [
+            "ماكاينش"
+          ],
+          "uitleg": "{ar|ماكاينش}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-ontkenning",
+          "bron": "مافهمتش",
+          "tr": "mafhəmtš",
+          "antwoorden": [
+            "ik heb het niet begrepen",
+            "ik begreep het niet",
+            "ik heb het niet verstaan",
+            "ik snap het niet"
+          ],
+          "uitleg": "ما … ش + verleden tijd."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-ontkenning",
+        "paren": [
+          {
+            "ar": "مابغيتش",
+            "nl": "ik wil niet"
+          },
+          {
+            "ar": "حتى واحد",
+            "nl": "niemand"
+          },
+          {
+            "ar": "مشكل",
+            "nl": "probleem"
+          },
+          {
+            "ar": "بغيت",
+            "nl": "ik wil"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-ontkenning",
+        "vraag": "Hoe ontken je een werkwoord in het Darija?",
+        "opties": [
+          "ما + werkwoord + ش",
+          "لا + werkwoord",
+          "لَيْسَ + werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Zoals *ne … pas*."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-ontkenning",
+        "vraag": "'Ik ben geen Marokkaan' in het Darija is ...",
+        "opties": [
+          "ماشي مغربي",
+          "لا مغربي",
+          "ماكانمغربيش"
+        ],
+        "juist": 0,
+        "uitleg": "Zonder werkwoord → {ar|ماشي}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-toekomst",
+        "vraag": "Wat betekent {ar|غادي نكتب}?",
+        "opties": [
+          "Ik ga schrijven.",
+          "Ik schreef.",
+          "Ik schrijf niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غادي} = toekomst."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-toekomst",
+        "tekst": "غدا غادي نمشي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Morgen ga ik.",
+          "Gisteren ging ik.",
+          "Ik ga niet."
+        ],
+        "juist": 0,
+        "uitleg": "*ġədda ġādi nəmši*"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-ontkenning",
+        "tekst": "والو",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "niets",
+          "niemand",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "*wālu*"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-ontkenning",
+        "zin": "___ الخبز اليوم.",
+        "nl": "Er is vandaag geen brood.",
+        "woordbank": [
+          "ماكاينش",
+          "كاين",
+          "ماشي"
+        ],
+        "antwoord": [
+          "ماكاينش"
+        ],
+        "uitleg": "Ontkenning van {ar|كاين}."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-toekomst",
+        "zin": "السيمانة الجاية ___ نسافرو.",
+        "nl": "Volgende week gaan we reizen.",
+        "woordbank": [
+          "غادي",
+          "كا",
+          "ما"
+        ],
+        "antwoord": [
+          "غادي"
+        ],
+        "uitleg": "{ar|غادي} = toekomst."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "darija-ontkenning",
+        "instructie": "Maak ontkennend met ما … ش.",
+        "rijen": [
+          {
+            "label": "كانشرب (ik drink)",
+            "antwoord": "ماكانشربش",
+            "tr": "makanšṛəbš"
+          },
+          {
+            "label": "مشيت (ik ging)",
+            "antwoord": "مامشيتش",
+            "tr": "mamšītš"
+          }
+        ],
+        "uitleg": "ما + werkwoord + ش."
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-ontkenning",
+        "nl": "Ik weet het niet, sorry.",
+        "woorden": [
+          "ماكانعرفش،",
+          "سمحلي."
+        ],
+        "uitleg": "{ar|سمحلي} = sorry."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-toekomst",
+        "bron": "morgen (Darija)",
+        "antwoorden": [
+          "غدا"
+        ],
+        "uitleg": "{ar|غدا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-ontkenning",
+        "bron": "geen probleem (Darija)",
+        "antwoorden": [
+          "ماشي مشكل"
+        ],
+        "uitleg": "{ar|ماشي مشكل}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-toekomst",
+        "bron": "غادي نكتب",
+        "tr": "ġādi nəktəb",
+        "antwoorden": [
+          "ik ga schrijven",
+          "ik zal schrijven"
+        ],
+        "uitleg": "{ar|غادي} + werkwoord."
+      }
+    ]
+  }
+}

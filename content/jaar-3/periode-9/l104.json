@@ -1,0 +1,620 @@
+{
+  "id": "j3-p9-l104",
+  "code": "L104",
+  "type": "les",
+  "titel": "Interview en verslag",
+  "thema": "Een interview navertellen; de indirecte rede",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "uitspraken indirect weergeven met قالَ إِنَّ en ذَكَرَ / أَوْضَحَ أَنَّ.",
+    "vragen indirect weergeven (إِنْ كانَ، عَمّا، أَيْنَ …).",
+    "opdrachten weergeven met طَلَبَ أَنْ."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l104-w01",
+      "ar": "مُقابَلَةٌ صَحَفِيَّةٌ",
+      "tr": "muqābalatun ṣaḥafiyya",
+      "nl": [
+        "interview (pers)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l104-w02",
+      "ar": "أَجابَ",
+      "tr": "ajāba",
+      "nl": [
+        "antwoorden"
+      ],
+      "soort": "werkwoord (IV, hol)",
+      "notitie": "{ar|أَجابَ عَنِ السُّؤالِ}"
+    },
+    {
+      "id": "j3-p9-l104-w03",
+      "ar": "أَوْضَحَ",
+      "tr": "awḍaḥa",
+      "nl": [
+        "verduidelijken, uitleggen"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p9-l104-w04",
+      "ar": "أَشارَ إِلى",
+      "tr": "ašāra ilā",
+      "nl": [
+        "wijzen op, vermelden"
+      ],
+      "soort": "werkwoord (IV, hol)"
+    },
+    {
+      "id": "j3-p9-l104-w05",
+      "ar": "ذَكَرَ",
+      "tr": "ḏakara",
+      "nl": [
+        "noemen, vermelden"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p9-l104-w06",
+      "ar": "أَعْرَبَ عَنْ",
+      "tr": "aʿraba ʿan",
+      "nl": [
+        "uiting geven aan"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p9-l104-w07",
+      "ar": "نَقَلَ عَنْ",
+      "tr": "naqala ʿan",
+      "nl": [
+        "citeren, overnemen van"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p9-l104-w08",
+      "ar": "تَساءَلَ",
+      "tr": "tasāʾala",
+      "nl": [
+        "zich afvragen"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j3-p9-l104-w09",
+      "ar": "سَأَلَهُ عَمّا",
+      "tr": "saʾalahu ʿammā",
+      "nl": [
+        "vroeg hem wat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l104-w10",
+      "ar": "سَأَلَ إِنْ كانَ",
+      "tr": "saʾala in kāna",
+      "nl": [
+        "vroeg of"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l104-w11",
+      "ar": "مُحاوِرٌ",
+      "tr": "muḥāwir",
+      "nl": [
+        "interviewer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l104-w12",
+      "ar": "ضَيْفُ البَرْنامَجِ",
+      "tr": "ḍayfu l-barnāmaj",
+      "nl": [
+        "gast van het programma"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l104-w13",
+      "ar": "تَصْريحٌ",
+      "tr": "taṣrīḥ",
+      "nl": [
+        "verklaring"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l104-w14",
+      "ar": "وِفْقًا لِـ",
+      "tr": "wifqan li-",
+      "nl": [
+        "volgens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l104-w15",
+      "ar": "حَرْفِيًّا",
+      "tr": "ḥarfiyyan",
+      "nl": [
+        "letterlijk"
+      ],
+      "soort": "bijwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Indirecte rede",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Direct",
+            "Indirect",
+            "Regel"
+          ],
+          "rijen": [
+            [
+              "قالَ: «أَنا مَريضٌ.»",
+              "قالَ إِنَّهُ مَريضٌ.",
+              "na قالَ: إِنَّ + accusatief"
+            ],
+            [
+              "ذَكَرَ: «الخُطَّةُ جاهِزَةٌ.»",
+              "ذَكَرَ أَنَّ الخُطَّةَ جاهِزَةٌ.",
+              "na andere werkwoorden: أَنَّ"
+            ],
+            [
+              "سَأَلَ: «هَلْ أَنْتَ مُسْتَعِدٌّ؟»",
+              "سَأَلَهُ هَلْ هُوَ مُسْتَعِدٌّ.",
+              "ja/nee-vraag: هَلْ of إِنْ كانَ"
+            ],
+            [
+              "سَأَلَ: «ماذا تُريدُ؟»",
+              "سَأَلَهُ عَمّا يُريدُ.",
+              "open vraag: vraagwoord blijft"
+            ],
+            [
+              "قالَ لَهُ: «اُكْتُبْ!»",
+              "طَلَبَ مِنْهُ أَنْ يَكْتُبَ.",
+              "opdracht: أَنْ + manṣūb"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De twee aandachtspunten: (1) **personen verschuiven** ({ar|أَنا} → {ar|هُوَ}), net als in het Nederlands; (2) de **tijd blijft meestal staan** – Arabisch past de werkwoordstijd niet aan zoals het Nederlands soms doet."
+        },
+        {
+          "type": "letop",
+          "md": "Alleen na {ar|قالَ} gebruik je {ar|إِنَّ}. Na {ar|ذَكَرَ}، {ar|أَوْضَحَ}، {ar|أَشارَ إِلى}، {ar|أَعْلَنَ} gebruik je {ar|أَنَّ}."
+        }
+      ]
+    },
+    {
+      "titel": "Een interview navertellen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "قالَ الوَزيرُ إِنَّ الحُكومَةَ سَتَبْني مَدارِسَ جَديدَةً.",
+              "tr": "qāla l-wazīru inna l-ḥukūmata sa-tabnī madārisa jadīda.",
+              "nl": "De minister zei dat de regering nieuwe scholen gaat bouwen."
+            },
+            {
+              "ar": "وَأَوْضَحَ أَنَّ المَشْروعَ سَيَبْدَأُ العامَ القادِمَ.",
+              "tr": "wa-awḍaḥa anna l-mašrūʿa sa-yabdaʾu l-ʿāma l-qādim.",
+              "nl": "En hij legde uit dat het project volgend jaar begint."
+            },
+            {
+              "ar": "سَأَلَهُ المُحاوِرُ عَمّا سَيَحْدُثُ لِلْمُعَلِّمينَ.",
+              "tr": "saʾalahu l-muḥāwiru ʿammā sa-yaḥduṯu li-l-muʿallimīn.",
+              "nl": "De interviewer vroeg hem wat er met de leraren zal gebeuren."
+            },
+            {
+              "ar": "وَسَأَلَهُ إِنْ كانَتِ المِيزانِيَّةُ كافِيَةً.",
+              "tr": "wa-saʾalahu in kānati l-mīzāniyyatu kāfiya.",
+              "nl": "En hij vroeg hem of het budget voldoende was."
+            },
+            {
+              "ar": "أَعْرَبَ الضَّيْفُ عَنْ تَفاؤُلِهِ.",
+              "tr": "aʿraba ḍ-ḍayfu ʿan tafāʾulih.",
+              "nl": "De gast gaf blijk van zijn optimisme."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "أَجابَ",
+              "nl": "antwoorden",
+              "woord": "j3-p9-l104-w02"
+            },
+            {
+              "ar": "أَوْضَحَ",
+              "nl": "uitleggen",
+              "woord": "j3-p9-l104-w03"
+            },
+            {
+              "ar": "ذَكَرَ",
+              "nl": "vermelden",
+              "woord": "j3-p9-l104-w05"
+            },
+            {
+              "ar": "تَساءَلَ",
+              "nl": "zich afvragen",
+              "woord": "j3-p9-l104-w08"
+            },
+            {
+              "ar": "مُحاوِرٌ",
+              "nl": "interviewer",
+              "woord": "j3-p9-l104-w11"
+            },
+            {
+              "ar": "تَصْريحٌ",
+              "nl": "verklaring",
+              "woord": "j3-p9-l104-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "indirecte-rede",
+          "tekst": "قالَ إِنَّهُ مَريضٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Hij zei dat hij ziek is.",
+            "Hij zei: ik ben ziek!",
+            "Hij vroeg of je ziek bent."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قالَ إِنَّ}"
+        }
+      ]
+    },
+    {
+      "titel": "Indirecte rede",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "indirecte-rede",
+          "zin": "قالَتْ ___ ها مُتْعَبَةٌ.",
+          "nl": "Ze zei dat ze moe was.",
+          "antwoord": [
+            "إِنَّ"
+          ],
+          "uitleg": "Na {ar|قالَ}: إِنَّ.",
+          "woordbank": [
+            "إِنَّ",
+            "أَنَّ",
+            "أَنْ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "indirecte-rede",
+          "zin": "ذَكَرَ المُديرُ ___ الشَّرِكَةَ ناجِحَةٌ.",
+          "nl": "De directeur vermeldde dat het bedrijf succesvol is.",
+          "antwoord": [
+            "أَنَّ"
+          ],
+          "uitleg": "Na {ar|ذَكَرَ}: أَنَّ.",
+          "woordbank": [
+            "أَنَّ",
+            "إِنَّ",
+            "أَنْ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "indirecte-rede",
+          "zin": "سَأَلْتُهُ ___ كانَ مُسْتَعِدًّا.",
+          "nl": "Ik vroeg hem of hij klaar was.",
+          "antwoord": [
+            "إِنْ"
+          ],
+          "uitleg": "Ja/nee-vraag: {ar|إِنْ كانَ}.",
+          "woordbank": [
+            "إِنْ",
+            "أَنَّ",
+            "لِأَنَّ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "indirecte-rede",
+          "vraag": "Indirect van {ar|قالَ لَهُ: «اُكْتُبْ!»} is ...",
+          "opties": [
+            "طَلَبَ مِنْهُ أَنْ يَكْتُبَ",
+            "قالَ إِنَّهُ اُكْتُبْ",
+            "سَأَلَهُ هَلْ يَكْتُبُ"
+          ],
+          "juist": 0,
+          "uitleg": "Opdracht → أَنْ + manṣūb."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "indirecte-rede",
+          "vraag": "Na welk werkwoord gebruik je إِنَّ (en niet أَنَّ)?",
+          "opties": [
+            "قالَ",
+            "ذَكَرَ",
+            "أَوْضَحَ"
+          ],
+          "juist": 0,
+          "uitleg": "Alleen قالَ."
+        }
+      ]
+    },
+    {
+      "titel": "Navertellen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "indirecte-rede",
+          "nl": "De minister zei dat de regering nieuwe scholen gaat bouwen.",
+          "woorden": [
+            "قالَ",
+            "الوَزيرُ",
+            "إِنَّ",
+            "الحُكومَةَ",
+            "سَتَبْني",
+            "مَدارِسَ",
+            "جَديدَةً."
+          ],
+          "uitleg": "{ar|قالَ إِنَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "indirecte-rede",
+          "bron": "Hij vroeg me wat ik wilde.",
+          "antwoorden": [
+            "سَأَلَني عَمّا أُريدُ",
+            "سَأَلَني ماذا أُريدُ"
+          ],
+          "uitleg": "Open vraag."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "indirecte-rede",
+          "bron": "أَوْضَحَ أَنَّ المَشْروعَ سَيَبْدَأُ قَريبًا.",
+          "antwoorden": [
+            "hij legde uit dat het project binnenkort begint",
+            "hij verduidelijkte dat het project binnenkort zal beginnen"
+          ],
+          "uitleg": "{ar|أَوْضَحَ أَنَّ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَشارَ إِلى",
+            "nl": "wijzen op"
+          },
+          {
+            "ar": "أَعْرَبَ عَنْ",
+            "nl": "uiting geven aan"
+          },
+          {
+            "ar": "نَقَلَ عَنْ",
+            "nl": "citeren"
+          },
+          {
+            "ar": "وِفْقًا لِـ",
+            "nl": "volgens"
+          },
+          {
+            "ar": "حَرْفِيًّا",
+            "nl": "letterlijk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "'Hij zei dat hij klaar was' is ...",
+        "opties": [
+          "قالَ إِنَّهُ جاهِزٌ",
+          "قالَ أَنَّهُ جاهِزٌ",
+          "قالَ أَنْ جاهِزٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Na {ar|قالَ}: إِنَّ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "'Ze vroeg of het museum open was' is ...",
+        "opties": [
+          "سَأَلَتْ إِنْ كانَ المُتْحَفُ مَفْتوحًا",
+          "سَأَلَتْ أَنَّ المُتْحَفَ مَفْتوحٌ",
+          "قالَتْ إِنَّ المُتْحَفَ مَفْتوحٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Ja/nee-vraag."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "Wat verandert in de indirecte rede?",
+        "opties": [
+          "de personen (ik → hij)",
+          "altijd de tijd",
+          "niets"
+        ],
+        "juist": 0,
+        "uitleg": "Personen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "{ar|سَأَلَهُ عَمّا يُريدُ} betekent ...",
+        "opties": [
+          "Hij vroeg hem wat hij wilde.",
+          "Hij vroeg hem of hij iets wilde.",
+          "Hij wilde niets."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عَمّا} = عَنْ + ما."
+      },
+      {
+        "type": "luisteren",
+        "tag": "indirecte-rede",
+        "tekst": "ذَكَرَتِ الوَكالَةُ أَنَّ الرِّحْلَةَ أُلْغِيَتْ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het persbureau meldde dat de vlucht geannuleerd is.",
+          "De vlucht vertrekt op tijd.",
+          "Het persbureau annuleerde de vlucht."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ذَكَرَ أَنَّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "indirecte-rede",
+        "tekst": "طَلَبَ مِنّي أَنْ أَنْتَظِرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hij vroeg me te wachten.",
+          "Ik vroeg hem te wachten.",
+          "Hij wachtte op mij."
+        ],
+        "juist": 0,
+        "uitleg": "Opdracht."
+      },
+      {
+        "type": "invullen",
+        "tag": "indirecte-rede",
+        "zin": "أَشارَ التَّقْريرُ إِلى ___ البِطالَةَ اِرْتَفَعَتْ.",
+        "nl": "Het rapport wees erop dat de werkloosheid is gestegen.",
+        "antwoord": [
+          "أَنَّ"
+        ],
+        "uitleg": "{ar|أَشارَ إِلى أَنَّ}",
+        "woordbank": [
+          "أَنَّ",
+          "إِنَّ",
+          "أَنْ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "indirecte-rede",
+        "zin": "سَأَلَني المُحاوِرُ ___ أَسْكُنُ.",
+        "nl": "De interviewer vroeg me waar ik woon.",
+        "antwoord": [
+          "أَيْنَ"
+        ],
+        "uitleg": "Open vraag: vraagwoord blijft.",
+        "woordbank": [
+          "أَيْنَ",
+          "أَنَّ",
+          "إِنَّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أَعْرَبَ الوَزيرُ ___ سَعادَتِهِ.",
+        "nl": "De minister gaf uiting aan zijn blijdschap.",
+        "antwoord": [
+          "عَنْ",
+          "عن"
+        ],
+        "uitleg": "{ar|أَعْرَبَ عَنْ}",
+        "woordbank": [
+          "عَنْ",
+          "إِلى",
+          "عَلى"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "indirecte-rede",
+        "instructie": "Kies إِنَّ of أَنَّ.",
+        "rijen": [
+          {
+            "label": "قالَ ___",
+            "antwoord": "إِنَّ",
+            "tr": "inna"
+          },
+          {
+            "label": "أَعْلَنَ ___",
+            "antwoord": "أَنَّ",
+            "tr": "anna"
+          }
+        ],
+        "uitleg": "Alleen na قالَ: إِنَّ.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "indirecte-rede",
+        "nl": "De interviewer vroeg hem wat er zal gebeuren.",
+        "woorden": [
+          "سَأَلَهُ",
+          "المُحاوِرُ",
+          "عَمّا",
+          "سَيَحْدُثُ."
+        ],
+        "uitleg": "Open vraag."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "indirecte-rede",
+        "bron": "Ze zei dat ze moe was.",
+        "antwoorden": [
+          "قالَتْ إِنَّها مُتْعَبَةٌ"
+        ],
+        "uitleg": "{ar|قالَتْ إِنَّها}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "indirecte-rede",
+        "bron": "قالَ الطَّبيبُ إِنَّ حالَتَهُ مُسْتَقِرَّةٌ.",
+        "antwoorden": [
+          "de dokter zei dat zijn toestand stabiel is",
+          "de arts zei dat zijn toestand stabiel was"
+        ],
+        "uitleg": "Indirect."
+      }
+    ]
+  }
+}

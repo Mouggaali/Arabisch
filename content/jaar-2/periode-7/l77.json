@@ -1,0 +1,608 @@
+{
+  "id": "j2-p7-l77",
+  "code": "L77",
+  "type": "les",
+  "titel": "Woning zoeken",
+  "thema": "Een appartement huren; bijzinnen zonder الَّذي",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een bijzin maken na een onbepaald woord (zonder الَّذي).",
+    "ما (wat) en مَنْ (wie) als betrekkelijk voornaamwoord gebruiken.",
+    "advertenties lezen en vragen stellen over een woning."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l77-w01",
+      "ar": "إِعْلانٌ عَقارِيٌّ",
+      "tr": "iʿlānun ʿaqāriyy",
+      "nl": [
+        "woningadvertentie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l77-w02",
+      "ar": "سِمْسارٌ",
+      "tr": "simsār",
+      "nl": [
+        "makelaar"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|سَماسِرَةٌ}."
+    },
+    {
+      "id": "j2-p7-l77-w03",
+      "ar": "مُؤَثَّثٌ",
+      "tr": "muʾaṯṯaṯ",
+      "nl": [
+        "gemeubileerd"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Passief deelwoord vorm II van {ar|أَثاثٌ}."
+    },
+    {
+      "id": "j2-p7-l77-w05",
+      "ar": "مِصْعَدٌ",
+      "tr": "miṣʿad",
+      "nl": [
+        "lift"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l77-w08",
+      "ar": "مُسْتَأْجِرٌ",
+      "tr": "mustaʾjir",
+      "nl": [
+        "huurder"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vorm X van أ-ج-ر."
+    },
+    {
+      "id": "j2-p7-l77-w09",
+      "ar": "مالِكٌ",
+      "tr": "mālik",
+      "nl": [
+        "eigenaar"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l77-w10",
+      "ar": "عَقْدُ الإيجارِ",
+      "tr": "ʿaqdu l-ījār",
+      "nl": [
+        "huurcontract"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l77-w11",
+      "ar": "تَأْمينٌ",
+      "tr": "taʾmīn",
+      "nl": [
+        "borg"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook: verzekering."
+    },
+    {
+      "id": "j2-p7-l77-w12",
+      "ar": "شَهْرِيًّا",
+      "tr": "šahriyyan",
+      "nl": [
+        "per maand"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p7-l77-w15",
+      "ar": "مَطْبَخٌ مُجَهَّزٌ",
+      "tr": "maṭbaḫun mujahhaz",
+      "nl": [
+        "ingerichte keuken"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l77-w18",
+      "ar": "بَحَثَ عَنْ",
+      "tr": "baḥaṯa ʿan",
+      "nl": [
+        "zoeken naar"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَبْحَثُ عَنْ}"
+    },
+    {
+      "id": "j2-p7-l77-w20",
+      "ar": "قَبْوٌ",
+      "tr": "qabw",
+      "nl": [
+        "kelder"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l77-w21",
+      "ar": "مَدْخَلٌ",
+      "tr": "madḫal",
+      "nl": [
+        "ingang (van een gebouw)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l77-w23",
+      "ar": "فَواتيرُ الماءِ وَالكَهْرَباءِ",
+      "tr": "fawātīru l-māʾi wa-l-kahrabāʾ",
+      "nl": [
+        "water- en elektriciteitsrekeningen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l77-w24",
+      "ar": "مِساحَةٌ واسِعَةٌ",
+      "tr": "misāḥatun wāsiʿa",
+      "nl": [
+        "ruime oppervlakte"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De bijzin na een onbepaald woord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Staat het hoofdwoord **onbepaald**, dan gebruik je **geen** {ar|الَّذي}: de bijzin volgt direct, als een bijvoeglijk naamwoord: {ar|أَبْحَثُ عَنْ شَقَّةٍ تَكونُ قَريبَةً مِنَ العَمَلِ} (ik zoek een appartement dat dicht bij het werk ligt).",
+            "De ʿāʾid blijft wel nodig: {ar|بَيْتٌ سَكَنْتُ فيهِ} = een huis waarin ik woonde."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Hoofdwoord",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "bepaald → الَّذي",
+              "الشَّقَّةُ الَّتي رَأَيْتُها",
+              "het appartement dat ik zag"
+            ],
+            [
+              "onbepaald → niets",
+              "شَقَّةٌ رَأَيْتُها",
+              "een appartement dat ik zag"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom geen {ar|الَّذي}? {ar|الَّذي} bevat zelf het lidwoord ال en moet dus bij een **bepaald** woord staan, net zoals een bijvoeglijk naamwoord met ال alleen bij een bepaald woord past ({ar|البَيْتُ الكَبيرُ} tegenover {ar|بَيْتٌ كَبيرٌ})."
+        }
+      ]
+    },
+    {
+      "titel": "ما en مَنْ als betrekkelijk voornaamwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Zonder hoofdwoord gebruik je {ar|ما} (*wat*) en {ar|مَنْ} (*wie*): {ar|لَمْ أَفْهَمْ ما قالَ} (ik begreep niet wat hij zei), {ar|مَنْ يَسْكُنُ هُنا؟} kan ook een vraag zijn; de context beslist."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَبْحَثُ عَنْ شَقَّةٍ فيها شُرْفَةٌ.",
+              "tr": "abḥaṯu ʿan šaqqatin fīhā šurfa.",
+              "nl": "Ik zoek een appartement met (waarin is) een balkon."
+            },
+            {
+              "ar": "وَجَدْنا بَيْتًا يَقَعُ قُرْبَ البَحْرِ.",
+              "tr": "wajadnā baytan yaqaʿu qurba l-baḥr.",
+              "nl": "We vonden een huis dat bij zee ligt."
+            },
+            {
+              "ar": "الإيجارُ أَغْلى مِمّا تَوَقَّعْتُ.",
+              "tr": "al-ījāru aġlā mimmā tawaqqaʿt.",
+              "nl": "De huur is hoger dan ik verwachtte."
+            },
+            {
+              "ar": "مَنْ يَبْحَثُ يَجِدْ.",
+              "tr": "man yabḥaṯ yajid.",
+              "nl": "Wie zoekt, die vindt.",
+              "review": {
+                "status": "onzeker",
+                "note": "Voorwaardelijke majzūm (les 99); spreekwoordelijk."
+              }
+            },
+            {
+              "ar": "هَلْ هٰذا كُلُّ ما عِنْدَكُمْ؟",
+              "tr": "hal hāḏā kullu mā ʿindakum?",
+              "nl": "Is dit alles wat jullie hebben?"
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|مِمّا} = {ar|مِنْ} + {ar|ما}: *dan wat*. Zo ook {ar|عَمّا} = {ar|عَنْ} + {ar|ما}."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "سِمْسارٌ",
+              "nl": "makelaar",
+              "woord": "j2-p7-l77-w02"
+            },
+            {
+              "ar": "طابِقٌ",
+              "nl": "verdieping"
+            },
+            {
+              "ar": "مِصْعَدٌ",
+              "nl": "lift",
+              "woord": "j2-p7-l77-w05"
+            },
+            {
+              "ar": "شُرْفَةٌ",
+              "nl": "balkon"
+            },
+            {
+              "ar": "مُسْتَأْجِرٌ",
+              "nl": "huurder",
+              "woord": "j2-p7-l77-w08"
+            },
+            {
+              "ar": "مالِكٌ",
+              "nl": "eigenaar",
+              "woord": "j2-p7-l77-w09"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "bijzin-onbepaald",
+          "tekst": "أَبْحَثُ عَنْ شَقَّةٍ فيها شُرْفَةٌ",
+          "vraag": "Wat zoekt de spreker?",
+          "opties": [
+            "een appartement met balkon",
+            "een huis met tuin",
+            "een kamer met lift"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|فيها شُرْفَةٌ}"
+        }
+      ]
+    },
+    {
+      "titel": "Bijzinnen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "bijzin-onbepaald",
+          "vraag": "'Een huis dat ik kocht' is ...",
+          "opties": [
+            "بَيْتٌ اِشْتَرَيْتُهُ",
+            "بَيْتٌ الَّذي اِشْتَرَيْتُهُ",
+            "البَيْتُ اِشْتَرَيْتُهُ"
+          ],
+          "juist": 0,
+          "uitleg": "Onbepaald → geen الَّذي."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "bijzin-onbepaald",
+          "vraag": "'Het huis dat ik kocht' is ...",
+          "opties": [
+            "البَيْتُ الَّذي اِشْتَرَيْتُهُ",
+            "بَيْتٌ الَّذي اِشْتَرَيْتُهُ",
+            "البَيْتُ اِشْتَرَيْتُهُ"
+          ],
+          "juist": 0,
+          "uitleg": "Bepaald → الَّذي."
+        },
+        {
+          "type": "invullen",
+          "tag": "bijzin-onbepaald",
+          "zin": "لَمْ أَفْهَمْ ___ قالَ.",
+          "nl": "Ik begreep niet wat hij zei.",
+          "antwoord": [
+            "ما"
+          ],
+          "uitleg": "{ar|ما} = wat.",
+          "woordbank": [
+            "ما",
+            "مَنْ",
+            "الَّذي"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "bijzin-onbepaald",
+          "zin": "___ يَدْرُسُ يَنْجَحُ.",
+          "nl": "Wie studeert, slaagt.",
+          "antwoord": [
+            "مَنْ"
+          ],
+          "uitleg": "{ar|مَنْ} = wie.",
+          "woordbank": [
+            "مَنْ",
+            "ما",
+            "الَّذي"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "bijzin-onbepaald",
+          "zin": "وَجَدْنا شَقَّةً ___ غُرْفَتانِ.",
+          "nl": "We vonden een appartement met twee kamers.",
+          "antwoord": [
+            "فيها"
+          ],
+          "uitleg": "Onbepaald + ʿāʾid.",
+          "woordbank": [
+            "فيها",
+            "الَّتي",
+            "فيهِ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Woning zoeken",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "bijzin-onbepaald",
+          "nl": "We vonden een huis dat bij zee ligt.",
+          "woorden": [
+            "وَجَدْنا",
+            "بَيْتًا",
+            "يَقَعُ",
+            "قُرْبَ",
+            "البَحْرِ."
+          ],
+          "uitleg": "Bijzin zonder الَّذي."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het huurcontract",
+          "antwoorden": [
+            "عَقْدُ الإيجارِ"
+          ],
+          "uitleg": "{ar|عَقْدُ الإيجارِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "bijzin-onbepaald",
+          "bron": "الإيجارُ أَغْلى مِمّا تَوَقَّعْتُ.",
+          "antwoorden": [
+            "de huur is hoger dan ik verwachtte",
+            "de huur is duurder dan ik had verwacht",
+            "de huur is hoger dan ik had verwacht"
+          ],
+          "uitleg": "{ar|مِمّا} = dan wat."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُؤَثَّثٌ",
+            "nl": "gemeubileerd"
+          },
+          {
+            "ar": "تَأْمينٌ",
+            "nl": "borg"
+          },
+          {
+            "ar": "شَهْرِيًّا",
+            "nl": "per maand"
+          },
+          {
+            "ar": "غُرْفَةُ النَّوْمِ",
+            "nl": "slaapkamer"
+          },
+          {
+            "ar": "بَحَثَ عَنْ",
+            "nl": "zoeken naar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "Wanneer gebruik je GEEN الَّذي?",
+        "opties": [
+          "na een onbepaald woord",
+          "na een bepaald woord",
+          "na een eigennaam"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الَّذي} bevat ال."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "'Een vriend die in Rabat woont' is ...",
+        "opties": [
+          "صَديقٌ يَسْكُنُ في الرِّباطِ",
+          "صَديقٌ الَّذي يَسْكُنُ في الرِّباطِ",
+          "الصَّديقُ يَسْكُنُ في الرِّباطِ"
+        ],
+        "juist": 0,
+        "uitleg": "Onbepaald."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "Wat betekent {ar|اِفْعَلْ ما تُريدُ}?",
+        "opties": [
+          "Doe wat je wilt.",
+          "Wat wil je doen?",
+          "Doe niet wat je wilt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما} = wat."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "{ar|عَمّا} is ...",
+        "opties": [
+          "عَنْ + ما",
+          "عَمَّ + ا",
+          "عَلى + ما"
+        ],
+        "juist": 0,
+        "uitleg": "Samentrekking."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "الشَّقَّةُ في الطّابِقِ الثّالِثِ وَفيها مِصْعَدٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het appartement is op de derde verdieping en er is een lift.",
+          "Er is geen lift.",
+          "Het appartement is op de begane grond."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الطّابِقُ الثّالِثُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "bijzin-onbepaald",
+        "tekst": "هٰذا كُلُّ ما عِنْدي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Dit is alles wat ik heb.",
+          "Ik heb niets.",
+          "Wat heb je?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُلُّ ما}"
+      },
+      {
+        "type": "invullen",
+        "tag": "bijzin-onbepaald",
+        "zin": "أُريدُ بَيْتًا ___ حَديقَةٌ.",
+        "nl": "Ik wil een huis met een tuin.",
+        "antwoord": [
+          "فيهِ"
+        ],
+        "uitleg": "{ar|بَيْتٌ} mannelijk → فيهِ.",
+        "woordbank": [
+          "فيهِ",
+          "فيها",
+          "الَّذي"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "bijzin-onbepaald",
+        "zin": "سَمِعْتُ ___ قُلْتَ.",
+        "nl": "Ik hoorde wat je zei.",
+        "antwoord": [
+          "ما"
+        ],
+        "uitleg": "{ar|ما} = wat.",
+        "woordbank": [
+          "ما",
+          "مَنْ",
+          "الَّتي"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "الشَّقَّةُ ___، فيها كُلُّ الأَثاثِ.",
+        "nl": "Het appartement is gemeubileerd, alle meubels zijn er.",
+        "antwoord": [
+          "مُؤَثَّثَةٌ"
+        ],
+        "uitleg": "{ar|مُؤَثَّثٌ}",
+        "woordbank": [
+          "مُؤَثَّثَةٌ",
+          "مُشْمِسَةٌ",
+          "هادِئَةٌ"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "bijzin-onbepaald",
+        "nl": "Ik zoek een appartement met een balkon.",
+        "woorden": [
+          "أَبْحَثُ",
+          "عَنْ",
+          "شَقَّةٍ",
+          "فيها",
+          "شُرْفَةٌ."
+        ],
+        "uitleg": "Onbepaald + ʿāʾid."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "bijzin-onbepaald",
+        "bron": "een boek dat ik las",
+        "antwoorden": [
+          "كِتابٌ قَرَأْتُهُ"
+        ],
+        "uitleg": "Onbepaald → geen الَّذي."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "bijzin-onbepaald",
+        "bron": "مَنْ يَسْكُنُ في هٰذا البَيْتِ؟",
+        "antwoorden": [
+          "wie woont er in dit huis",
+          "wie woont in dit huis"
+        ],
+        "uitleg": "Hier is {ar|مَنْ} een vraagwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "الإيجارُ خَمْسَةُ آلافِ دِرْهَمٍ شَهْرِيًّا.",
+        "antwoorden": [
+          "de huur is vijfduizend dirham per maand",
+          "de huur is 5000 dirham per maand"
+        ],
+        "uitleg": "{ar|شَهْرِيًّا}"
+      }
+    ]
+  }
+}

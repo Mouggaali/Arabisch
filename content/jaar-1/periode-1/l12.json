@@ -1,0 +1,191 @@
+{
+  "id": "j1-p1-l12",
+  "code": "L12",
+  "type": "les",
+  "titel": "Hoe voel ik me?",
+  "thema": "Gevoelens en toestanden benoemen en ontkennen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "gevoelens en toestanden benoemen.",
+    "een nominale zin ontkennen met لَيْسَ, vervoegd voor alle personen.",
+    "het gezegde na لَيْسَ in de accusatief zetten (-an / -atan).",
+    "zeggen dat ik iets niet heb: لَيْسَ عِنْدي ..."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l12-w01", "ar": "لَيْسَ", "tr": "laysa", "nl": ["is niet", "(ontkenning van zijn)"], "soort": "werkwoord (ontkenning)" },
+    { "id": "j1-p1-l12-w02", "ar": "لٰكِنْ", "tr": "lākin", "nl": ["maar"], "soort": "voegwoord" },
+    { "id": "j1-p1-l12-w03", "ar": "مَسْرورٌ", "tr": "masrūr", "nl": ["blij", "tevreden"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w04", "ar": "قَلِقٌ", "tr": "qaliq", "nl": ["ongerust", "bezorgd"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w05", "ar": "خائِفٌ", "tr": "ḫāʾif", "nl": ["bang"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w06", "ar": "مُتَوَتِّرٌ", "tr": "mutawattir", "nl": ["gespannen", "zenuwachtig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w07", "ar": "مُرْتاحٌ", "tr": "murtāḥ", "nl": ["ontspannen", "op je gemak"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w08", "ar": "مُسْتَعِدٌّ", "tr": "mustaʿidd", "nl": ["klaar", "bereid"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w09", "ar": "مُتَأَخِّرٌ", "tr": "mutaʾaḫḫir", "nl": ["te laat", "laat"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w10", "ar": "مُتَأَكِّدٌ", "tr": "mutaʾakkid", "nl": ["zeker (van iets)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w11", "ar": "حاضِرٌ", "tr": "ḥāḍir", "nl": ["aanwezig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w12", "ar": "غائِبٌ", "tr": "ġāʾib", "nl": ["afwezig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w13", "ar": "صَحيحٌ", "tr": "ṣaḥīḥ", "nl": ["juist", "correct"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w14", "ar": "خَطَأٌ", "tr": "ḫaṭaʾ", "nl": ["fout", "vergissing"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l12-w15", "ar": "مُمْكِنٌ", "tr": "mumkin", "nl": ["mogelijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l12-w16", "ar": "الآنَ", "tr": "al-āna", "nl": ["nu"], "soort": "bijwoord" },
+    { "id": "j1-p1-l12-w17", "ar": "اليَوْمَ", "tr": "al-yawma", "nl": ["vandaag"], "soort": "bijwoord" },
+    { "id": "j1-p1-l12-w18", "ar": "قَليلًا", "tr": "qalīlan", "nl": ["een beetje"], "soort": "bijwoord" },
+    { "id": "j1-p1-l12-w19", "ar": "أَبَدًا", "tr": "abadan", "nl": ["helemaal niet", "nooit"], "soort": "bijwoord", "notitie": "Alleen in een ontkennende zin: {ar|لَسْتُ خائِفًا أَبَدًا} = ik ben helemaal niet bang." },
+    { "id": "j1-p1-l12-w20", "ar": "تَمامًا", "tr": "tamāman", "nl": ["helemaal", "volkomen"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Ontkennen met لَيْسَ",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een nominale zin ontken je met {ar|لَيْسَ}, *is niet*. Het is een bijzonder werkwoord: het heeft alleen deze vorm (geen verleden of toekomst), maar het verandert wel per persoon.",
+          "Je zet {ar|لَيْسَ} na het onderwerp (of vooraan): {ar|أَنا لَسْتُ مَريضًا} = *ik ben niet ziek*."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "لَيْسَ", "Voorbeeld"], "arKolommen": [0, 1, 2], "rijen": [
+          ["أَنا", "لَسْتُ|lastu", "لَسْتُ مَريضًا|lastu marīḍan"],
+          ["أَنْتَ", "لَسْتَ|lasta", "لَسْتَ مُتَأَخِّرًا|lasta mutaʾaḫḫiran"],
+          ["أَنْتِ", "لَسْتِ|lasti", "لَسْتِ مُتَأَخِّرَةً|lasti mutaʾaḫḫiratan"],
+          ["هُوَ", "لَيْسَ|laysa", "لَيْسَ هُنا|laysa hunā"],
+          ["هِيَ", "لَيْسَتْ|laysat", "لَيْسَتْ مَشْغولَةً|laysat mašġūlatan"],
+          ["نَحْنُ", "لَسْنا|lasnā", "لَسْنا خائِفينَ|lasnā ḫāʾifīna"],
+          ["أَنْتُمْ", "لَسْتُمْ|lastum", "لَسْتُمْ غائِبينَ|lastum ġāʾibīna"],
+          ["أَنْتُنَّ", "لَسْتُنَّ|lastunna", "لَسْتُنَّ قَلِقاتٍ|lastunna qaliqātin"],
+          ["هُمْ", "لَيْسوا|laysū", "لَيْسوا طُلّابًا|laysū ṭullāban"],
+          ["هُنَّ", "لَسْنَ|lasna", "لَسْنَ مُسْتَعِدّاتٍ|lasna mustaʿiddātin"]
+        ] },
+        { "type": "letop", "md": "De dualisvormen zijn {ar|لَسْتُما} (jullie twee), {ar|لَيْسا} (zij twee, m) en {ar|لَيْسَتا} (zij twee, v). Die hoef je nu alleen te herkennen." }
+      ]
+    },
+    {
+      "titel": "Na لَيْسَ: het gezegde in de accusatief",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Na {ar|لَيْسَ} krijgt het gezegde de **accusatief** (naamval van het lijdend voorwerp). Bij een onbepaald woord wordt -un dan **-an**: {ar|مَريضٌ} → {ar|مَريضًا}.",
+          "Bij een woord met ة schrijf je geen extra alif: {ar|مَشْغولَةٌ} → {ar|مَشْغولَةً} (*-atan*). Meervouden op ـونَ worden ـينَ: {ar|مُعَلِّمونَ} → {ar|مُعَلِّمينَ}. Meervouden op ـاتٌ worden ـاتٍ."
+        ] },
+        { "type": "tabel", "kop": ["Bevestigend", "Ontkennend", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["أَنا مَريضٌ|ana marīḍ", "أَنا لَسْتُ مَريضًا|ana lastu marīḍan", "ik ben (niet) ziek"],
+          ["هِيَ مَشْغولَةٌ|hiya mašġūla", "هِيَ لَيْسَتْ مَشْغولَةً|hiya laysat mašġūlatan", "zij is (niet) bezig"],
+          ["نَحْنُ طُلّابٌ|naḥnu ṭullāb", "نَحْنُ لَسْنا طُلّابًا|naḥnu lasnā ṭullāban", "wij zijn (geen) studenten"],
+          ["هُمْ مُعَلِّمونَ|hum muʿallimūn", "هُمْ لَيْسوا مُعَلِّمينَ|hum laysū muʿallimīna", "zij zijn (geen) leraren"]
+        ] },
+        { "type": "waarom", "md": "{ar|لَيْسَ} gedraagt zich als een werkwoord. Het gezegde wordt daardoor een soort *aanvulling* bij dat werkwoord, en zo'n aanvulling staat in het Arabisch in de accusatief. Je ziet dit straks terug bij {ar|كانَ} (*was*, les 28), dat precies hetzelfde werkt." },
+        { "type": "letop", "md": "Aan het eind van een zin hoor je -an vaak als -ā (pausa): *lastu marīḍā*. In deze cursus schrijven we bij {ar|لَيْسَ} de volledige vorm, zodat je de accusatief duidelijk ziet." }
+      ]
+    },
+    {
+      "titel": "Iets niet hebben: لَيْسَ عِنْدي",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Ik heb geen tijd* zeg je met {ar|لَيْسَ} vóór {ar|عِنْدي}: {ar|لَيْسَ عِنْدي وَقْتٌ}. Het zelfstandig naamwoord blijft hier gewoon in de nominatief (-un), want het is het onderwerp."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "لَيْسَ عِنْدي وَقْتٌ الآنَ.", "tr": "laysa ʿindī waqtun al-ān.", "nl": "Ik heb nu geen tijd." },
+          { "ar": "لَيْسَ عِنْدَهُ مُشْكِلَةٌ.", "tr": "laysa ʿindahu muškila.", "nl": "Hij heeft geen probleem.",
+            "review": { "status": "onzeker", "note": "Bij een vrouwelijk onderwerp (مُشْكِلَةٌ) is ook لَيْسَتْ عِنْدَهُ مُشْكِلَةٌ mogelijk. Bevestigen welke vorm we als standaard aanleren." } },
+          { "ar": "أَنا لَسْتُ قَلِقًا، أَنا مُرْتاحٌ تَمامًا.", "tr": "ana lastu qaliqan, ana murtāḥun tamāman.", "nl": "Ik ben niet ongerust, ik ben helemaal ontspannen." },
+          { "ar": "هِيَ لَيْسَتْ هُنا اليَوْمَ، هِيَ غائِبَةٌ.", "tr": "hiya laysat hunā l-yawma, hiya ġāʾiba.", "nl": "Zij is er vandaag niet, zij is afwezig." },
+          { "ar": "هٰذا لَيْسَ صَحيحًا.", "tr": "hāḏā laysa ṣaḥīḥan.", "nl": "Dit is niet juist." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gevoelens",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "خائِفٌ", "nl": "bang", "woord": "j1-p1-l12-w05" },
+          { "ar": "قَلِقٌ", "nl": "ongerust", "woord": "j1-p1-l12-w04" },
+          { "ar": "مُرْتاحٌ", "nl": "ontspannen", "woord": "j1-p1-l12-w07" },
+          { "ar": "مُسْتَعِدٌّ", "nl": "klaar", "woord": "j1-p1-l12-w08" },
+          { "ar": "غائِبٌ", "nl": "afwezig", "woord": "j1-p1-l12-w12" },
+          { "ar": "حاضِرٌ", "nl": "aanwezig", "woord": "j1-p1-l12-w11" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنا مُتَوَتِّرٌ قَليلًا", "vraag": "Wat hoor je?", "opties": ["Ik ben een beetje zenuwachtig.", "Ik ben helemaal niet bang.", "Ik ben te laat."], "juist": 0, "uitleg": "{ar|مُتَوَتِّرٌ} = zenuwachtig, {ar|قَليلًا} = een beetje." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l12-w09", "vraag": "Wat betekent dit?", "ar": "مُتَأَخِّرٌ", "tr": "mutaʾaḫḫir", "opties": ["te laat", "zeker", "klaar", "bezorgd"], "juist": 0, "uitleg": "{ar|مُتَأَخِّرٌ} = (te) laat." }
+      ]
+    },
+    {
+      "titel": "لَيْسَ vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "laysa", "instructie": "Vul de juiste vorm van لَيْسَ in.",
+          "rijen": [
+            { "label": "ik ben niet", "ar": "أَنا", "antwoord": "لَسْتُ", "tr": "lastu", "eind": true },
+            { "label": "jij (m) bent niet", "ar": "أَنْتَ", "antwoord": "لَسْتَ", "tr": "lasta", "eind": true },
+            { "label": "jij (v) bent niet", "ar": "أَنْتِ", "antwoord": "لَسْتِ", "tr": "lasti", "eind": true },
+            { "label": "hij is niet", "ar": "هُوَ", "antwoord": "لَيْسَ", "tr": "laysa" },
+            { "label": "zij is niet", "ar": "هِيَ", "antwoord": "لَيْسَتْ", "tr": "laysat" }
+          ],
+          "uitleg": "Bij ik / jij (m) / jij (v) zit het verschil alleen in de laatste klinker: -tu, -ta, -ti." },
+        { "type": "vervoegen", "tag": "laysa", "instructie": "Vul de juiste vorm van لَيْسَ in (meervoud).",
+          "rijen": [
+            { "label": "wij zijn niet", "ar": "نَحْنُ", "antwoord": "لَسْنا", "tr": "lasnā" },
+            { "label": "jullie (m) zijn niet", "ar": "أَنْتُمْ", "antwoord": "لَسْتُمْ", "tr": "lastum" },
+            { "label": "zij (m mv) zijn niet", "ar": "هُمْ", "antwoord": "لَيْسوا", "tr": "laysū" },
+            { "label": "zij (v mv) zijn niet", "ar": "هُنَّ", "antwoord": "لَسْنَ", "tr": "lasna" }
+          ],
+          "uitleg": "Let op de stille alif in {ar|لَيْسوا}." },
+        { "type": "meerkeuze", "tag": "laysa", "vraag": "'Wij zijn niet bang' is ...", "opties": ["لَسْنا خائِفينَ.", "نَحْنُ لَيْسَ خائِفونَ.", "لَسْتُ خائِفًا."], "juist": 0, "uitleg": "{ar|لَسْنا} + accusatief meervoud {ar|خائِفينَ}." },
+        { "type": "luisteren", "tag": "laysa", "tekst": "هِيَ لَيْسَتْ هُنا", "vraag": "Wat hoor je?", "opties": ["Zij is er niet.", "Hij is er niet.", "Zij is hier."], "juist": 0, "uitleg": "{ar|لَيْسَتْ} = zij is niet." }
+      ]
+    },
+    {
+      "titel": "De accusatief na لَيْسَ",
+      "items": [
+        { "type": "invullen", "tag": "laysa-accusatief", "zin": "أَنا لَسْتُ ___.", "nl": "Ik ben niet ziek.", "woordbank": ["مَريضًا", "مَريضٌ", "المَريضُ"], "antwoord": ["مَريضًا"], "uitleg": "Na {ar|لَيْسَ}: accusatief {ar|مَريضًا}." },
+        { "type": "invullen", "tag": "laysa-accusatief", "zin": "هِيَ لَيْسَتْ ___.", "nl": "Zij is niet moe.", "woordbank": ["مُتْعَبَةً", "مُتْعَبَةٌ", "مُتْعَبًا"], "antwoord": ["مُتْعَبَةً"], "uitleg": "Vrouwelijk + accusatief: -atan, zonder extra alif." },
+        { "type": "invullen", "tag": "laysa-accusatief", "zin": "هٰذا لَيْسَ ___.", "nl": "Dit is niet juist.", "woordbank": ["صَحيحًا", "صَحيحٌ", "صَحيحَةً"], "antwoord": ["صَحيحًا"], "uitleg": "{ar|صَحيحًا}" },
+        { "type": "invullen", "tag": "laysa-hebben", "zin": "___ عِنْدي وَقْتٌ.", "nl": "Ik heb geen tijd.", "woordbank": ["لَيْسَ", "لَسْتُ", "لا"], "antwoord": ["لَيْسَ"],
+          "uitleg": "Het onderwerp is {ar|وَقْتٌ} (hij), dus {ar|لَيْسَ}, niet {ar|لَسْتُ}." },
+        { "type": "ordenen", "tag": "laysa", "nl": "Ik ben niet ongerust, ik ben helemaal ontspannen.", "woorden": ["لَسْتُ", "قَلِقًا،", "أَنا", "مُرْتاحٌ", "تَمامًا."], "uitleg": "Ontkenning met accusatief, daarna een gewone nominale zin." },
+        { "type": "ordenen", "tag": "laysa-hebben", "nl": "Hij heeft nu geen tijd.", "woorden": ["لَيْسَ", "عِنْدَهُ", "وَقْتٌ", "الآنَ."], "uitleg": "{ar|لَيْسَ} + {ar|عِنْدَهُ} + onderwerp." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "laysa", "bron": "Ik ben niet bang. (man)", "antwoorden": ["لَسْتُ خائِفًا", "أَنا لَسْتُ خائِفًا"], "uitleg": "{ar|لَسْتُ خائِفًا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "laysa-hebben", "bron": "Ik heb geen probleem.", "antwoorden": ["لَيْسَ عِنْدي مُشْكِلَةٌ", "لَيْسَتْ عِنْدي مُشْكِلَةٌ"], "uitleg": "{ar|لَيْسَ عِنْدي مُشْكِلَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "laysa", "bron": "Zij is niet hier.", "antwoorden": ["هِيَ لَيْسَتْ هُنا", "لَيْسَتْ هُنا"], "uitleg": "{ar|هِيَ لَيْسَتْ هُنا}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "لَسْتُ مُتَأَكِّدًا.", "tr": "lastu mutaʾakkidan.", "antwoorden": ["ik ben niet zeker", "ik weet het niet zeker", "ik ben er niet zeker van"], "uitleg": "{ar|مُتَأَكِّدٌ} = zeker." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "هُمْ لَيْسوا مُسْتَعِدّينَ.", "tr": "hum laysū mustaʿiddīna.", "antwoorden": ["zij zijn niet klaar", "ze zijn niet klaar", "zij zijn niet bereid", "ze zijn niet bereid"], "uitleg": "Meervoud accusatief: ـينَ." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "لَسْتِ وَحيدَةً.", "tr": "lasti waḥīdatan.", "antwoorden": ["jij bent niet alleen", "je bent niet alleen"], "uitleg": "{ar|لَسْتِ}: tegen een vrouw." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "الآنَ", "nl": "nu" },
+        { "ar": "اليَوْمَ", "nl": "vandaag" },
+        { "ar": "لٰكِنْ", "nl": "maar" },
+        { "ar": "خَطَأٌ", "nl": "fout" },
+        { "ar": "مُمْكِنٌ", "nl": "mogelijk" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "laysa", "vraag": "'Jij (v) bent niet' is ...", "opties": ["لَسْتِ", "لَسْتَ", "لَيْسَتْ", "لَسْتُ"], "juist": 0, "uitleg": "-ti voor een vrouw." },
+      { "type": "meerkeuze", "tag": "laysa-accusatief", "vraag": "Welke zin is juist?", "opties": ["هُوَ لَيْسَ مَشْغولًا.", "هُوَ لَيْسَ مَشْغولٌ.", "هُوَ لَسْتُ مَشْغولًا."], "juist": 0, "uitleg": "{ar|لَيْسَ} + accusatief." },
+      { "type": "meerkeuze", "tag": "laysa-hebben", "vraag": "Hoe zeg je 'Wij hebben geen auto'?", "opties": ["لَيْسَ عِنْدَنا سَيّارَةٌ.", "لَسْنا عِنْدَنا سَيّارَةٌ.", "نَحْنُ لَيْسَ سَيّارَةً."], "juist": 0, "uitleg": "{ar|لَيْسَ} + {ar|عِنْدَنا} + onderwerp." },
+      { "type": "luisteren", "tag": "laysa", "tekst": "لَسْنا مُتَأَخِّرينَ", "vraag": "Wat hoor je?", "opties": ["Wij zijn niet te laat.", "Zij zijn niet te laat.", "Ik ben niet te laat."], "juist": 0, "uitleg": "{ar|لَسْنا} = wij zijn niet." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنا خائِفٌ قَليلًا", "vraag": "Wat hoor je?", "opties": ["Ik ben een beetje bang.", "Ik ben helemaal niet bang.", "Ik ben niet bang."], "juist": 0, "uitleg": "{ar|قَليلًا} = een beetje." },
+      { "type": "invullen", "tag": "laysa-accusatief", "zin": "أَنْتَ لَسْتَ ___.", "nl": "Jij bent niet afwezig.", "woordbank": ["غائِبًا", "غائِبٌ", "غائِبَةً"], "antwoord": ["غائِبًا"], "uitleg": "Mannelijk + accusatief." },
+      { "type": "invullen", "tag": "laysa", "zin": "هُمْ ___ هُنا.", "nl": "Zij (m mv) zijn hier niet.", "antwoord": ["لَيْسوا"], "uitleg": "{ar|لَيْسوا}, met stille alif." },
+      { "type": "vervoegen", "tag": "laysa", "instructie": "Vul de juiste vorm van لَيْسَ in.",
+        "rijen": [
+          { "label": "zij (ev) is niet", "antwoord": "لَيْسَتْ", "tr": "laysat" },
+          { "label": "wij zijn niet", "antwoord": "لَسْنا", "tr": "lasnā" },
+          { "label": "ik ben niet", "antwoord": "لَسْتُ", "tr": "lastu", "eind": true }
+        ], "uitleg": "{ar|لَيْسَتْ} · {ar|لَسْنا} · {ar|لَسْتُ}" },
+      { "type": "ordenen", "tag": "laysa", "nl": "Dit is niet juist.", "woorden": ["هٰذا", "لَيْسَ", "صَحيحًا."], "uitleg": "{ar|لَيْسَ} + accusatief." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "laysa", "bron": "Hij is niet ziek.", "antwoorden": ["هُوَ لَيْسَ مَريضًا", "لَيْسَ مَريضًا"], "uitleg": "{ar|هُوَ لَيْسَ مَريضًا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "laysa-hebben", "bron": "Ik heb geen tijd.", "antwoorden": ["لَيْسَ عِنْدي وَقْتٌ"], "uitleg": "{ar|لَيْسَ عِنْدي وَقْتٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "هِيَ لَيْسَتْ قَلِقَةً.", "tr": "hiya laysat qaliqatan.", "antwoorden": ["zij is niet ongerust", "ze is niet ongerust", "zij is niet bezorgd", "ze is niet bezorgd"], "uitleg": "{ar|لَيْسَتْ} + accusatief." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "لَسْتُ خائِفًا أَبَدًا.", "tr": "lastu ḫāʾifan abadan.", "antwoorden": ["ik ben helemaal niet bang", "ik ben nooit bang", "ik ben totaal niet bang"], "uitleg": "{ar|أَبَدًا} versterkt de ontkenning." }
+    ]
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "id": "j2-p8-l87",
+  "code": "L87",
+  "type": "les",
+  "titel": "Cultuur en religie",
+  "thema": "Erfgoed, religie en tolerantie; uitzondering met إِلّا، غَيْرُ، سِوى",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "uitzonderingen maken met إِلّا، غَيْرُ en سِوى.",
+    "'alleen maar' uitdrukken met لا … إِلّا.",
+    "over cultuur, religie en tradities praten met respect voor verschillen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l87-w02",
+      "ar": "سِوى",
+      "tr": "siwā",
+      "nl": [
+        "behalve, anders dan"
+      ],
+      "soort": "partikel",
+      "notitie": "+ genitief."
+    },
+    {
+      "id": "j2-p8-l87-w03",
+      "ar": "ثَقافَةٌ",
+      "tr": "ṯaqāfa",
+      "nl": [
+        "cultuur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w04",
+      "ar": "تُراثٌ",
+      "tr": "turāṯ",
+      "nl": [
+        "erfgoed"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w05",
+      "ar": "دينٌ",
+      "tr": "dīn",
+      "nl": [
+        "religie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَدْيانٌ}."
+    },
+    {
+      "id": "j2-p8-l87-w06",
+      "ar": "عَقيدَةٌ",
+      "tr": "ʿaqīda",
+      "nl": [
+        "geloof, overtuiging"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w07",
+      "ar": "عِبادَةٌ",
+      "tr": "ʿibāda",
+      "nl": [
+        "aanbidding"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w08",
+      "ar": "صَلاةٌ",
+      "tr": "ṣalāh",
+      "nl": [
+        "gebed"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w09",
+      "ar": "حَجٌّ",
+      "tr": "ḥajj",
+      "nl": [
+        "bedevaart (hadj)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w10",
+      "ar": "زَكاةٌ",
+      "tr": "zakāh",
+      "nl": [
+        "aalmoes (zakat)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w11",
+      "ar": "كَنيسٌ",
+      "tr": "kanīs",
+      "nl": [
+        "synagoge"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w12",
+      "ar": "تَسامُحٌ",
+      "tr": "tasāmuḥ",
+      "nl": [
+        "tolerantie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w13",
+      "ar": "اِحْتَرَمَ",
+      "tr": "iḥtarama",
+      "nl": [
+        "respecteren"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p8-l87-w14",
+      "ar": "مُتَنَوِّعٌ",
+      "tr": "mutanawwiʿ",
+      "nl": [
+        "divers, gevarieerd"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w15",
+      "ar": "عادَةٌ وَتَقاليدُ",
+      "tr": "ʿādātun wa-taqālīd",
+      "nl": [
+        "gewoonten en tradities"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l87-w16",
+      "ar": "مَهْرَجانٌ",
+      "tr": "mahrajān",
+      "nl": [
+        "festival"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l87-w17",
+      "ar": "فَنٌّ",
+      "tr": "fann",
+      "nl": [
+        "kunst"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فُنونٌ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Uitzondering: إِلّا، غَيْرُ، سِوى",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Wat volgt",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "إِلّا",
+              "naamwoord (naamval: zie letop)",
+              "حَضَرَ الطُّلّابُ إِلّا سَميرًا",
+              "de studenten kwamen, behalve Samir"
+            ],
+            [
+              "غَيْرَ",
+              "genitief",
+              "حَضَرَ الطُّلّابُ غَيْرَ سَميرٍ",
+              "idem"
+            ],
+            [
+              "سِوى",
+              "genitief (onveranderlijk)",
+              "حَضَرَ الطُّلّابُ سِوى سَميرٍ",
+              "idem"
+            ],
+            [
+              "لا … إِلّا",
+              "beperking",
+              "لا أَتَكَلَّمُ إِلّا العَرَبِيَّةَ",
+              "ik spreek alleen Arabisch"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|لا … إِلّا} (*niet … behalve*) is de gewone manier om **alleen maar** te zeggen. {ar|لا أَمْلِكُ إِلّا عَشَرَةَ دَراهِمَ} = ik heb maar tien dirham. Het is sterker dan {ar|فَقَطْ} (alleen)."
+        },
+        {
+          "type": "letop",
+          "md": "Naamval na {ar|إِلّا}: in een **bevestigende** zin met het geheel genoemd: accusatief ({ar|نَجَحَ الطُّلّابُ إِلّا سَميرًا}). In een **ontkennende** zin zonder genoemd geheel: de naamval die het woord ook zonder {ar|لا … إِلّا} zou hebben ({ar|ما نَجَحَ إِلّا سَميرٌ} = alleen Samir slaagde)."
+        }
+      ]
+    },
+    {
+      "titel": "Cultuur en religie",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "المَغْرِبُ بَلَدٌ ذو ثَقافَةٍ مُتَنَوِّعَةٍ.",
+              "tr": "al-Maġribu baladun ḏū ṯaqāfatin mutanawwiʿa.",
+              "nl": "Marokko is een land met een diverse cultuur."
+            },
+            {
+              "ar": "زُرْنا كُلَّ المَعالِمِ إِلّا المُتْحَفَ.",
+              "tr": "zurnā kulla l-maʿālimi illa l-mutḥaf.",
+              "nl": "We bezochten alle bezienswaardigheden behalve het museum."
+            },
+            {
+              "ar": "لا يَعْرِفُ هٰذا التُّراثَ إِلّا القَليلُ.",
+              "tr": "lā yaʿrifu hāḏa t-turāṯa illa l-qalīl.",
+              "nl": "Slechts weinigen kennen dit erfgoed."
+            },
+            {
+              "ar": "في المَدينَةِ مَساجِدُ وَكَنائِسُ وَكَنيسٌ.",
+              "tr": "fi l-madīnati masājidu wa-kanāʾisu wa-kanīs.",
+              "nl": "In de stad zijn moskeeën, kerken en een synagoge."
+            },
+            {
+              "ar": "التَّسامُحُ وَالاِحْتِرامُ أَساسُ العَيْشِ المُشْتَرَكِ.",
+              "tr": "at-tasāmuḥu wa-l-iḥtirāmu asāsu l-ʿayši l-muštarak.",
+              "nl": "Tolerantie en respect zijn de basis van samenleven."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "ثَقافَةٌ",
+              "nl": "cultuur",
+              "woord": "j2-p8-l87-w03"
+            },
+            {
+              "ar": "تُراثٌ",
+              "nl": "erfgoed",
+              "woord": "j2-p8-l87-w04"
+            },
+            {
+              "ar": "دينٌ",
+              "nl": "religie",
+              "woord": "j2-p8-l87-w05"
+            },
+            {
+              "ar": "تَسامُحٌ",
+              "nl": "tolerantie",
+              "woord": "j2-p8-l87-w12"
+            },
+            {
+              "ar": "مَهْرَجانٌ",
+              "nl": "festival",
+              "woord": "j2-p8-l87-w16"
+            },
+            {
+              "ar": "فَنٌّ",
+              "nl": "kunst",
+              "woord": "j2-p8-l87-w17"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "uitzondering",
+          "tekst": "لا أَتَكَلَّمُ إِلّا العَرَبِيَّةَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik spreek alleen Arabisch.",
+            "Ik spreek geen Arabisch.",
+            "Ik spreek ook Arabisch."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لا … إِلّا} = alleen."
+        }
+      ]
+    },
+    {
+      "titel": "Uitzondering",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "uitzondering",
+          "zin": "نَجَحَ الطُّلّابُ ___ سَميرًا.",
+          "nl": "De studenten slaagden, behalve Samir.",
+          "antwoord": [
+            "إِلّا"
+          ],
+          "uitleg": "{ar|إِلّا} + accusatief.",
+          "woordbank": [
+            "إِلّا",
+            "غَيْرُ",
+            "سِوى"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "uitzondering",
+          "zin": "حَضَرَ الجَميعُ ___ أَخي.",
+          "nl": "Iedereen kwam, behalve mijn broer.",
+          "antwoord": [
+            "غَيْرَ"
+          ],
+          "uitleg": "{ar|غَيْرَ} + genitief.",
+          "woordbank": [
+            "غَيْرَ",
+            "إِلّا",
+            "لا"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitzondering",
+          "vraag": "Wat betekent {ar|لا أَمْلِكُ إِلّا عَشَرَةَ دَراهِمَ}?",
+          "opties": [
+            "Ik heb maar tien dirham.",
+            "Ik heb geen tien dirham.",
+            "Ik heb tien dirham over."
+          ],
+          "juist": 0,
+          "uitleg": "Beperking."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitzondering",
+          "vraag": "Welke naamval volgt op {ar|سِوى}?",
+          "opties": [
+            "genitief",
+            "accusatief",
+            "nominatief"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سِوى} + genitief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "uitzondering",
+          "instructie": "Vul in (naamval!).",
+          "rijen": [
+            {
+              "label": "زُرْنا المُدُنَ إِلّا ___ (فاسُ)",
+              "antwoord": "فاسَ",
+              "tr": "Fāsa",
+              "eind": true
+            },
+            {
+              "label": "حَضَرَ الكُلُّ غَيْرَ ___ (المُديرُ)",
+              "antwoord": "المُديرِ",
+              "tr": "al-mudīri",
+              "eind": true
+            }
+          ],
+          "uitleg": "إِلّا + accusatief · غَيْرَ + genitief."
+        }
+      ]
+    },
+    {
+      "titel": "Cultuur",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "uitzondering",
+          "nl": "We bezochten alle bezienswaardigheden behalve het museum.",
+          "woorden": [
+            "زُرْنا",
+            "كُلَّ",
+            "المَعالِمِ",
+            "إِلّا",
+            "المُتْحَفَ."
+          ],
+          "uitleg": "{ar|إِلّا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de cultuur",
+          "antwoorden": [
+            "الثَّقافَةُ"
+          ],
+          "uitleg": "{ar|الثَّقافَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "uitzondering",
+          "bron": "ما نَجَحَ إِلّا سَميرٌ.",
+          "antwoorden": [
+            "alleen samir slaagde",
+            "alleen samir is geslaagd",
+            "niemand slaagde behalve samir"
+          ],
+          "uitleg": "{ar|ما … إِلّا}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عَقيدَةٌ",
+            "nl": "geloof"
+          },
+          {
+            "ar": "صَلاةٌ",
+            "nl": "gebed"
+          },
+          {
+            "ar": "حَجٌّ",
+            "nl": "bedevaart"
+          },
+          {
+            "ar": "مُتَنَوِّعٌ",
+            "nl": "divers"
+          },
+          {
+            "ar": "اِحْتَرَمَ",
+            "nl": "respecteren"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitzondering",
+        "vraag": "'Ik eet alleen groente' is ...",
+        "opties": [
+          "لا آكُلُ إِلّا الخُضَرَ",
+          "لا آكُلُ الخُضَرَ",
+          "آكُلُ الخُضَرَ إِلّا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا … إِلّا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitzondering",
+        "vraag": "Na {ar|غَيْرَ} (behalve) volgt ...",
+        "opties": [
+          "genitief",
+          "accusatief",
+          "een werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitzondering",
+        "vraag": "'Iedereen kwam behalve Laila' is ...",
+        "opties": [
+          "حَضَرَ الجَميعُ إِلّا لَيْلى",
+          "حَضَرَ الجَميعُ لا لَيْلى",
+          "حَضَرَتْ لَيْلى إِلّا الجَميعُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِلّا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Wat is {ar|تُراثٌ}?",
+        "opties": [
+          "erfgoed",
+          "tolerantie",
+          "gebed"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تُراثٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "uitzondering",
+        "tekst": "لا يَعْرِفُ الجَوابَ إِلّا أَنْتَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Alleen jij kent het antwoord.",
+          "Jij kent het antwoord niet.",
+          "Niemand kent het antwoord."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا … إِلّا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَضَرْنا مَهْرَجانَ المُوسيقى",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We waren op het muziekfestival.",
+          "We speelden muziek.",
+          "We bezochten een museum."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَهْرَجانٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "uitzondering",
+        "zin": "قَرَأْتُ الكُتُبَ كُلَّها ___ كِتابًا واحِدًا.",
+        "nl": "Ik las alle boeken behalve één.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "{ar|إِلّا} + accusatief.",
+        "woordbank": [
+          "إِلّا",
+          "غَيْرُ",
+          "لا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "uitzondering",
+        "zin": "لا أُحِبُّ ___ القَهْوَةَ.",
+        "nl": "Ik houd alleen van koffie.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "{ar|لا … إِلّا} = alleen.",
+        "woordbank": [
+          "إِلّا",
+          "غَيْرُ",
+          "لَيْسَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "___ أَساسُ العَيْشِ المُشْتَرَكِ.",
+        "nl": "Tolerantie is de basis van samenleven.",
+        "antwoord": [
+          "التَّسامُحُ"
+        ],
+        "uitleg": "{ar|التَّسامُحُ}",
+        "woordbank": [
+          "التَّسامُحُ",
+          "التُّراثُ",
+          "الحَجُّ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "uitzondering",
+        "instructie": "Kies het uitzonderingswoord.",
+        "rijen": [
+          {
+            "label": "behalve (+ accusatief)",
+            "antwoord": "إِلّا",
+            "tr": "illā"
+          },
+          {
+            "label": "behalve (+ genitief, onveranderlijk)",
+            "antwoord": "سِوى",
+            "tr": "siwā"
+          }
+        ],
+        "uitleg": "إِلّا · سِوى"
+      },
+      {
+        "type": "ordenen",
+        "tag": "uitzondering",
+        "nl": "Ik spreek alleen Arabisch.",
+        "woorden": [
+          "لا",
+          "أَتَكَلَّمُ",
+          "إِلّا",
+          "العَرَبِيَّةَ."
+        ],
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de kunst",
+        "antwoorden": [
+          "الفَنُّ"
+        ],
+        "uitleg": "{ar|الفَنُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "uitzondering",
+        "bron": "زُرْنا كُلَّ المُدُنِ سِوى مَرّاكُشَ.",
+        "antwoorden": [
+          "we bezochten alle steden behalve marrakesh",
+          "we hebben alle steden bezocht behalve marrakesh",
+          "we bezochten alle steden behalve marrakech"
+        ],
+        "uitleg": "{ar|سِوى} + genitief (diptoot: -a)."
+      }
+    ]
+  }
+}

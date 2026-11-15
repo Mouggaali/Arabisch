@@ -1,0 +1,158 @@
+{
+  "id": "j1-p3-l36",
+  "code": "L36",
+  "type": "les",
+  "titel": "Vrije tijd",
+  "thema": "Hobby's en voorkeuren",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "hobby's en vrijetijdsactiviteiten noemen.",
+    "de maṣdar (het verbaal naamwoord) herkennen en gebruiken: أُحِبُّ القِراءَةَ.",
+    "een maṣdar met lijdend voorwerp maken als iḍāfa: مُشاهَدَةُ الأَفْلامِ.",
+    "voorkeuren uitdrukken met أُحِبُّ en أُفَضِّلُ."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l36-w01", "ar": "وَقْتُ الفَراغِ", "tr": "waqtu l-farāġ", "nl": ["vrije tijd"], "soort": "iḍāfa" },
+    { "id": "j1-p3-l36-w02", "ar": "القِراءَةُ", "tr": "al-qirāʾa", "nl": ["het lezen"], "soort": "maṣdar", "notitie": "Van {ar|قَرَأَ}." },
+    { "id": "j1-p3-l36-w03", "ar": "الكِتابَةُ", "tr": "al-kitāba", "nl": ["het schrijven"], "soort": "maṣdar", "notitie": "Van {ar|كَتَبَ}." },
+    { "id": "j1-p3-l36-w04", "ar": "السِّباحَةُ", "tr": "as-sibāḥa", "nl": ["het zwemmen"], "soort": "maṣdar", "notitie": "Van {ar|سَبَحَ}." },
+    { "id": "j1-p3-l36-w05", "ar": "الطَّبْخُ", "tr": "aṭ-ṭabḫ", "nl": ["het koken"], "soort": "maṣdar", "notitie": "Van {ar|طَبَخَ}." },
+    { "id": "j1-p3-l36-w06", "ar": "الرَّسْمُ", "tr": "ar-rasm", "nl": ["het tekenen"], "soort": "maṣdar", "notitie": "Van {ar|رَسَمَ}." },
+    { "id": "j1-p3-l36-w07", "ar": "كُرَةُ القَدَمِ", "tr": "kuratu l-qadam", "nl": ["voetbal"], "soort": "iḍāfa", "notitie": "Letterlijk: bal van de voet." },
+    { "id": "j1-p3-l36-w08", "ar": "المَشْيُ", "tr": "al-mašy", "nl": ["het wandelen"], "soort": "maṣdar" },
+    { "id": "j1-p3-l36-w09", "ar": "السَّفَرُ", "tr": "as-safar", "nl": ["het reizen"], "soort": "maṣdar" },
+    { "id": "j1-p3-l36-w10", "ar": "الموسيقى", "tr": "al-mūsīqā", "nl": ["de muziek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l36-w11", "ar": "الغِناءُ", "tr": "al-ġināʾ", "nl": ["het zingen"], "soort": "maṣdar" },
+    { "id": "j1-p3-l36-w12", "ar": "الرَّقْصُ", "tr": "ar-raqṣ", "nl": ["het dansen"], "soort": "maṣdar" },
+    { "id": "j1-p3-l36-w13", "ar": "التَّصْويرُ", "tr": "at-taṣwīr", "nl": ["het fotograferen"], "soort": "maṣdar" },
+    { "id": "j1-p3-l36-w14", "ar": "مُشاهَدَةُ الأَفْلامِ", "tr": "mušāhadatu l-aflām", "nl": ["films kijken"], "soort": "iḍāfa" },
+    { "id": "j1-p3-l36-w15", "ar": "الأَلْعابُ الإِلِكْتْرونِيَّةُ", "tr": "al-alʿābu l-iliktrūniyya", "nl": ["videogames"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l36-w16", "ar": "أُفَضِّلُ", "tr": "ufaḍḍilu", "nl": ["ik heb liever", "ik geef de voorkeur aan"], "soort": "werkwoord", "notitie": "Hij: {ar|يُفَضِّلُ}. Vorm II (les 53)." },
+    { "id": "j1-p3-l36-w17", "ar": "مُمِلٌّ", "tr": "mumill", "nl": ["saai"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l36-w18", "ar": "مُفيدٌ", "tr": "mufīd", "nl": ["nuttig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l36-w19", "ar": "نادٍ", "tr": "nādin", "nl": ["club", "vereniging"], "soort": "zelfstandig naamwoord", "notitie": "Met lidwoord: {ar|النّادي}." },
+    { "id": "j1-p3-l36-w20", "ar": "مَسْبَحٌ", "tr": "masbaḥ", "nl": ["zwembad"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De maṣdar: het werkwoord als zelfstandig naamwoord",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Bij elk werkwoord hoort een **maṣdar** (verbaal naamwoord): het werkwoord als zelfstandig naamwoord, zoals *het lezen* bij *lezen*. {ar|قَرَأَ} → {ar|القِراءَةُ}, {ar|كَتَبَ} → {ar|الكِتابَةُ}.",
+          "Bij werkwoorden van vorm I verschilt het patroon per werkwoord; leer de maṣdar daarom samen met het werkwoord. Bij de afgeleide vormen (jaar 2) is het patroon vast."
+        ] },
+        { "type": "tabel", "kop": ["Werkwoord", "Maṣdar", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["قَرَأَ|qaraʾa", "قِراءَةٌ|qirāʾa", "lezen"],
+          ["كَتَبَ|kataba", "كِتابَةٌ|kitāba", "schrijven"],
+          ["سَبَحَ|sabaḥa", "سِباحَةٌ|sibāḥa", "zwemmen"],
+          ["طَبَخَ|ṭabaḫa", "طَبْخٌ|ṭabḫ", "koken"],
+          ["رَسَمَ|rasama", "رَسْمٌ|rasm", "tekenen"],
+          ["لَعِبَ|laʿiba", "لَعِبٌ|laʿib", "spelen"],
+          ["سافَرَ|sāfara", "سَفَرٌ|safar", "reizen"],
+          ["شاهَدَ|šāhada", "مُشاهَدَةٌ|mušāhada", "kijken"]
+        ] },
+        { "type": "waarom", "md": "In het Nederlands zeg je *ik lees graag*; in het Arabisch zeg je liever *ik houd van het lezen*: {ar|أُحِبُّ القِراءَةَ}. De maṣdar is in het Arabisch heel gewoon, vooral in formele en geschreven taal, en hij komt in alle volgende jaren terug." }
+      ]
+    },
+    {
+      "titel": "Maṣdar in zinnen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een maṣdar gedraagt zich als een gewoon zelfstandig naamwoord: hij kan onderwerp zijn ({ar|القِراءَةُ مُفيدَةٌ}), lijdend voorwerp ({ar|أُحِبُّ السِّباحَةَ}), of na een voorzetsel staan.",
+          "Wil je zeggen *wát* je leest of kijkt, maak dan een iḍāfa: {ar|قِراءَةُ الكُتُبِ} (het lezen van boeken), {ar|مُشاهَدَةُ الأَفْلامِ} (het kijken van films)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "ما هِوايَتُكَ؟ — هِوايَتي الرَّسْمُ.", "tr": "mā hiwāyatuk? — hiwāyatī r-rasm.", "nl": "Wat is je hobby? — Mijn hobby is tekenen." },
+          { "ar": "أُحِبُّ السِّباحَةَ وَالمَشْيَ.", "tr": "uḥibbu s-sibāḥata wa-l-mašy.", "nl": "Ik houd van zwemmen en wandelen." },
+          { "ar": "أُفَضِّلُ مُشاهَدَةَ الأَفْلامِ في وَقْتِ الفَراغِ.", "tr": "ufaḍḍilu mušāhadata l-aflāmi fī waqti l-farāġ.", "nl": "In mijn vrije tijd kijk ik het liefst films." },
+          { "ar": "القِراءَةُ مُفيدَةٌ، لٰكِنَّ الأَلْعابَ الإِلِكْتْرونِيَّةَ مُمْتِعَةٌ.", "tr": "al-qirāʾatu mufīdatun, lākinna l-alʿāba l-iliktrūniyyata mumtiʿa.", "nl": "Lezen is nuttig, maar videogames zijn leuk." },
+          { "ar": "يَلْعَبُ أَخي كُرَةَ القَدَمِ في النّادي.", "tr": "yalʿabu aḫī kurata l-qadami fi n-nādī.", "nl": "Mijn broer speelt voetbal bij de club." }
+        ] },
+        { "type": "letop", "md": "Na {ar|لٰكِنَّ} (met shadda) staat het onderwerp in de accusatief ({ar|الأَلْعابَ}); na {ar|لٰكِنْ} (zonder shadda) verandert er niets. Dit volgt uit dezelfde regel als bij {ar|لِأَنَّ} (les 24)." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Hobby's",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "القِراءَةُ", "nl": "het lezen", "woord": "j1-p3-l36-w02" },
+          { "ar": "السِّباحَةُ", "nl": "het zwemmen", "woord": "j1-p3-l36-w04" },
+          { "ar": "الرَّسْمُ", "nl": "het tekenen", "woord": "j1-p3-l36-w06" },
+          { "ar": "المَشْيُ", "nl": "het wandelen", "woord": "j1-p3-l36-w08" },
+          { "ar": "السَّفَرُ", "nl": "het reizen", "woord": "j1-p3-l36-w09" },
+          { "ar": "كُرَةُ القَدَمِ", "nl": "voetbal", "woord": "j1-p3-l36-w07" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "masdar", "tekst": "أُحِبُّ الطَّبْخَ وَالموسيقى", "vraag": "Waar houdt de spreker van?", "opties": ["koken en muziek", "lezen en muziek", "koken en dansen"], "juist": 0, "uitleg": "{ar|الطَّبْخَ} = het koken." },
+        { "type": "meerkeuze", "tag": "masdar", "vraag": "Welke maṣdar hoort bij {ar|كَتَبَ}?", "opties": ["الكِتابَةُ", "الكِتابُ", "المَكْتَبُ"], "juist": 0, "uitleg": "{ar|الكِتابُ} = het boek; {ar|المَكْتَبُ} = het bureau." }
+      ]
+    },
+    {
+      "titel": "De maṣdar gebruiken",
+      "items": [
+        { "type": "vervoegen", "tag": "masdar", "instructie": "Geef de maṣdar (met ال).",
+          "rijen": [
+            { "label": "قَرَأَ (lezen)", "antwoord": "القِراءَةُ", "tr": "al-qirāʾa" },
+            { "label": "سَبَحَ (zwemmen)", "antwoord": "السِّباحَةُ", "tr": "as-sibāḥa" },
+            { "label": "رَسَمَ (tekenen)", "antwoord": "الرَّسْمُ", "tr": "ar-rasm" },
+            { "label": "سافَرَ (reizen)", "antwoord": "السَّفَرُ", "tr": "as-safar" }
+          ], "uitleg": "Leer de maṣdar samen met het werkwoord." },
+        { "type": "invullen", "tag": "masdar", "zin": "أُحِبُّ ___.", "nl": "Ik houd van lezen.", "woordbank": ["القِراءَةَ", "القِراءَةُ", "أَقْرَأُ"], "antwoord": ["القِراءَةَ"], "uitleg": "Maṣdar als lijdend voorwerp: accusatief." },
+        { "type": "invullen", "tag": "masdar", "zin": "___ مُفيدَةٌ.", "nl": "Lezen is nuttig.", "woordbank": ["القِراءَةُ", "القِراءَةَ", "يَقْرَأُ"], "antwoord": ["القِراءَةُ"], "uitleg": "Maṣdar als onderwerp: nominatief." },
+        { "type": "invullen", "tag": "masdar", "zin": "أُفَضِّلُ مُشاهَدَةَ ___.", "nl": "Ik kijk liever films.", "woordbank": ["الأَفْلامِ", "الأَفْلامَ", "الأَفْلامُ"], "antwoord": ["الأَفْلامِ"], "uitleg": "Iḍāfa: genitief." },
+        { "type": "meerkeuze", "tag": "masdar", "vraag": "Wat betekent {ar|قِراءَةُ الكُتُبِ}?", "opties": ["het lezen van boeken", "de boeken lezen (zij)", "de boekenwinkel"], "juist": 0, "uitleg": "Maṣdar + iḍāfa." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "masdar", "nl": "Wat is je hobby? Mijn hobby is tekenen.", "woorden": ["ما", "هِوايَتُكَ؟", "هِوايَتي", "الرَّسْمُ."], "uitleg": "Maṣdar als gezegde." },
+        { "type": "ordenen", "tag": "masdar", "nl": "Mijn broer speelt voetbal bij de club.", "woorden": ["يَلْعَبُ", "أَخي", "كُرَةَ", "القَدَمِ", "في", "النّادي."], "uitleg": "Verbale zin met een iḍāfa als lijdend voorwerp." },
+        { "type": "luisteren", "tag": "masdar", "tekst": "السَّفَرُ مُمْتِعٌ لٰكِنَّهُ غالٍ", "vraag": "Wat hoor je?", "opties": ["Reizen is leuk maar duur.", "Reizen is saai en duur.", "Het reizen is goedkoop."], "juist": 0, "uitleg": "{ar|لٰكِنَّهُ} = maar het." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "Ik houd van zwemmen.", "antwoorden": ["أُحِبُّ السِّباحَةَ"], "uitleg": "{ar|أُحِبُّ السِّباحَةَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "het koken", "antwoorden": ["الطَّبْخُ"], "uitleg": "{ar|الطَّبْخُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "masdar", "bron": "الرَّقْصُ مُمْتِعٌ.", "antwoorden": ["dansen is leuk", "het dansen is leuk"], "uitleg": "Maṣdar als onderwerp." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "هٰذا الفيلْمُ مُمِلٌّ.", "antwoorden": ["deze film is saai"], "uitleg": "{ar|مُمِلٌّ} = saai." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "الغِناءُ", "nl": "het zingen" },
+        { "ar": "الرَّقْصُ", "nl": "het dansen" },
+        { "ar": "مَسْبَحٌ", "nl": "zwembad" },
+        { "ar": "مُفيدٌ", "nl": "nuttig" },
+        { "ar": "مُمِلٌّ", "nl": "saai" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "masdar", "vraag": "De maṣdar van {ar|طَبَخَ} is ...", "opties": ["الطَّبْخُ", "الطَّبّاخُ", "المَطْبَخُ"], "juist": 0, "uitleg": "{ar|الطَّبّاخُ} = de kok; {ar|المَطْبَخُ} = de keuken." },
+      { "type": "meerkeuze", "tag": "masdar", "vraag": "'Ik houd van reizen' is ...", "opties": ["أُحِبُّ السَّفَرَ.", "أُحِبُّ السَّفَرُ.", "أُحِبُّ سافَرَ."], "juist": 0, "uitleg": "Maṣdar als lijdend voorwerp." },
+      { "type": "meerkeuze", "tag": "masdar", "vraag": "'Het schrijven van brieven' is ...", "opties": ["كِتابَةُ الرَّسائِلِ", "الكِتابَةُ الرَّسائِلُ", "كِتابَةٌ رَسائِلَ"], "juist": 0, "uitleg": "Iḍāfa." },
+      { "type": "luisteren", "tag": "masdar", "tekst": "هِوايَتي التَّصْويرُ", "vraag": "Wat is de hobby?", "opties": ["fotograferen", "tekenen", "zingen"], "juist": 0, "uitleg": "{ar|التَّصْويرُ} = het fotograferen." },
+      { "type": "luisteren", "tag": "masdar", "tekst": "أُفَضِّلُ المَشْيَ", "vraag": "Wat doet de spreker liever?", "opties": ["wandelen", "zwemmen", "reizen"], "juist": 0, "uitleg": "{ar|المَشْيَ} = het wandelen." },
+      { "type": "invullen", "tag": "masdar", "zin": "___ مُمْتِعٌ.", "nl": "Tekenen is leuk.", "woordbank": ["الرَّسْمُ", "الرَّسْمَ", "يَرْسُمُ"], "antwoord": ["الرَّسْمُ"], "uitleg": "Onderwerp: nominatief." },
+      { "type": "invullen", "tag": "masdar", "zin": "أُحِبُّ ___ الكُتُبِ.", "nl": "Ik houd van het lezen van boeken.", "antwoord": ["قِراءَةَ"], "uitleg": "Maṣdar zonder ال als eerste deel van een iḍāfa, accusatief." },
+      { "type": "vervoegen", "tag": "masdar", "instructie": "Geef de maṣdar (met ال).",
+        "rijen": [
+          { "label": "كَتَبَ", "antwoord": "الكِتابَةُ", "tr": "al-kitāba" },
+          { "label": "لَعِبَ", "antwoord": "اللَّعِبُ", "tr": "al-laʿib" }
+        ], "uitleg": "{ar|الكِتابَةُ} · {ar|اللَّعِبُ}" },
+      { "type": "ordenen", "tag": "masdar", "nl": "In mijn vrije tijd kijk ik het liefst films.", "woorden": ["أُفَضِّلُ", "مُشاهَدَةَ", "الأَفْلامِ", "في", "وَقْتِ", "الفَراغِ."], "uitleg": "{ar|أُفَضِّلُ} + maṣdar-iḍāfa." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "het lezen", "antwoorden": ["القِراءَةُ"], "uitleg": "{ar|القِراءَةُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "Zwemmen is nuttig.", "antwoorden": ["السِّباحَةُ مُفيدَةٌ"], "uitleg": "{ar|السِّباحَةُ مُفيدَةٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "وَقْتُ الفَراغِ", "antwoorden": ["vrije tijd", "de vrije tijd"], "uitleg": "Iḍāfa." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "masdar", "bron": "أَخي يُحِبُّ الأَلْعابَ الإِلِكْتْرونِيَّةَ.", "antwoorden": ["mijn broer houdt van videogames", "mijn broer houdt van computerspelletjes", "mijn broer speelt graag videogames"], "uitleg": "{ar|يُحِبُّ} + lijdend voorwerp." }
+    ]
+  }
+}

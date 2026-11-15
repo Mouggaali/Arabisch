@@ -1,0 +1,107 @@
+{
+  "id": "j2-p6-h17",
+  "code": "H17",
+  "type": "herhaling",
+  "titel": "Herhaling blok 6B",
+  "thema": "Inna en zusters, gebroken meervouden en congruentie",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "inna en zusters naast kāna en zusters gebruiken.",
+    "gebroken meervouden vormen en (als diptoot) verbuigen.",
+    "bijvoeglijke naamwoorden en werkwoorden laten congrueren met mensen en dingen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 65–68 en D11.",
+
+  "grammatica": [
+    {
+      "titel": "Kāna of inna?",
+      "blokken": [
+        { "type": "tabel", "kop": ["", "Onderwerp", "Gezegde", "Voorbeeld"], "arKolommen": [3], "rijen": [
+          ["zonder partikel", "-u", "-u", "الطَّقْسُ جَميلٌ"],
+          ["kāna en zusters", "-u", "-a", "كانَ الطَّقْسُ جَميلًا"],
+          ["inna en zusters", "-a", "-u", "إِنَّ الطَّقْسَ جَميلٌ"]
+        ] },
+        { "type": "waarom", "md": "Eén tabel, drie situaties. De basis is altijd de nominale zin met twee keer -u. Een werkwoord als {ar|كانَ} verandert het **tweede** deel, een partikel als {ar|إِنَّ} het **eerste**." }
+      ]
+    },
+    {
+      "titel": "Meervoud en congruentie",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "إِنَّ الحَدائِقَ في مَدينَتِنا جَميلَةٌ.", "tr": "inna l-ḥadāʾiqa fī madīnatinā jamīla.", "nl": "De parken in onze stad zijn echt mooi." },
+          { "ar": "أَعْتَقِدُ أَنَّ الوُزَراءَ مَشْغولونَ.", "tr": "aʿtaqidu anna l-wuzarāʾa mašġūlūn.", "nl": "Ik denk dat de ministers het druk hebben." },
+          { "ar": "كانَتِ الجِبالُ عالِيَةً وَالطُّرُقُ ضَيِّقَةً.", "tr": "kānati l-jibālu ʿāliyatan wa-ṭ-ṭuruqu ḍayyiqa.", "nl": "De bergen waren hoog en de wegen smal." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Naamvallen",
+      "items": [
+        { "type": "invullen", "tag": "inna-zusters", "zin": "لَعَلَّ ___ يَصِلُ اليَوْمَ.", "nl": "Hopelijk komt de brief vandaag aan.", "woordbank": ["الخِطابَ", "الخِطابُ", "الخِطابِ"], "antwoord": ["الخِطابَ"], "uitleg": "Onderwerp na {ar|لَعَلَّ} → -a.", "streng": true },
+        { "type": "invullen", "tag": "kana-zusters", "zin": "أَصْبَحَتِ الحَياةُ ___.", "nl": "Het leven werd duur.", "woordbank": ["غالِيَةً", "غالِيَةٌ", "غالِيَةٍ"], "antwoord": ["غالِيَةً"], "uitleg": "Gezegde na {ar|أَصْبَحَ} → -a." },
+        { "type": "meerkeuze", "tag": "inna-zusters", "vraag": "Welke zin is juist?", "opties": ["إِنَّ الطُّلّابَ مُجْتَهِدونَ.", "إِنَّ الطُّلّابُ مُجْتَهِدينَ.", "إِنَّ الطُّلّابَ مُجْتَهِدينَ."], "juist": 0, "uitleg": "Onderwerp -a, gezegde -u (ـونَ)." },
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "رَأْيٌ", "nl": "mening", "woord": "j2-p6-l65-w06" },
+          { "ar": "طَبيعَةٌ", "nl": "natuur", "woord": "j2-p6-l66-w15" },
+          { "ar": "حُكومَةٌ", "nl": "regering", "woord": "j2-p6-l67-w16" },
+          { "ar": "حَدائِقُ", "nl": "parken", "woord": "j2-p6-l68-w03" },
+          { "ar": "الكوزينة", "nl": "keuken (Darija)", "woord": "j2-p6-d11-w02" },
+          { "ar": "قانونٌ", "nl": "wet", "woord": "j2-p6-l67-w18" }
+        ], "uitleg": "Woorden uit blok 6B." }
+      ]
+    },
+    {
+      "titel": "Meervouden",
+      "items": [
+        { "type": "vervoegen", "tag": "gebroken-mv", "instructie": "Geef het meervoud.",
+          "rijen": [
+            { "label": "بَحْرٌ", "antwoord": "بِحارٌ", "tr": "biḥār" },
+            { "label": "نَهْرٌ", "antwoord": "أَنْهارٌ", "tr": "anhār" },
+            { "label": "وَزيرٌ", "antwoord": "وُزَراءُ", "tr": "wuzarāʾ" },
+            { "label": "مِفْتاحٌ", "antwoord": "مَفاتيحُ", "tr": "mafātīḥ" }
+          ], "uitleg": "فِعال · أَفْعال · فُعَلاءُ · مَفاعيلُ" },
+        { "type": "invullen", "tag": "congruentie", "zin": "الأَنْهارُ هُنا ___.", "nl": "De rivieren zijn hier breed.", "woordbank": ["واسِعَةٌ", "واسِعونَ", "واسِعاتٌ"], "antwoord": ["واسِعَةٌ"], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+        { "type": "ordenen", "tag": "inna-zusters", "nl": "Ik denk dat de ministers het druk hebben.", "woorden": ["أَعْتَقِدُ", "أَنَّ", "الوُزَراءَ", "مَشْغولونَ."], "uitleg": "{ar|أَنَّ} + -a + -u." },
+        { "type": "luisteren", "tag": "darija-huis", "tekst": "طفي الضو عافاك", "vraag": "Wat hoor je?", "opties": ["Doe alsjeblieft het licht uit.", "Doe alsjeblieft het licht aan.", "Doe het raam dicht."], "juist": 0, "uitleg": "Darija: {ar|طفي} = uitdoen." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "inna-zusters", "bron": "Ik weet dat zij (ev) ziek is.", "antwoorden": ["أَعْرِفُ أَنَّها مَريضَةٌ"], "uitleg": "{ar|أَنَّها}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "congruentie", "bron": "الطّالِباتُ الجَديداتُ وَصَلْنَ.", "antwoorden": ["de nieuwe studentes zijn aangekomen", "de nieuwe studentes kwamen aan"], "uitleg": "Volledige congruentie." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "gebroken-mv", "bron": "زُرْنا عَواصِمَ كَثيرَةً.", "antwoorden": ["we bezochten veel hoofdsteden", "we hebben veel hoofdsteden bezocht"], "uitleg": "Diptoot." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "inna-zusters", "vraag": "Na welk woord staat het onderwerp in de accusatief?", "opties": ["لَيْتَ", "كانَ", "صارَ"], "juist": 0, "uitleg": "Zuster van inna." },
+      { "type": "meerkeuze", "tag": "kana-zusters", "vraag": "Na welk woord staat het gezegde in de accusatief?", "opties": ["ما زالَ", "إِنَّ", "أَنَّ"], "juist": 0, "uitleg": "Zuster van kāna." },
+      { "type": "meerkeuze", "tag": "gebroken-mv", "vraag": "Het meervoud van {ar|حَقْلٌ} is ...", "opties": ["حُقولٌ", "أَحْقالٌ", "حِقالٌ"], "juist": 0, "uitleg": "فُعول" },
+      { "type": "meerkeuze", "tag": "diptoten", "vraag": "Welk meervoud krijgt GEEN tanwīn?", "opties": ["مَصانِعُ", "جِبالٌ", "أَشْجارٌ"], "juist": 0, "uitleg": "مَفاعِلُ is diptoot." },
+      { "type": "meerkeuze", "tag": "congruentie", "vraag": "'De meisjes speelden' (werkwoord vooraan) is ...", "opties": ["لَعِبَتِ البَناتُ", "لَعِبْنَ البَناتُ", "لَعِبَ البَناتُ"], "juist": 0, "uitleg": "Enkelvoud, vrouwelijk." },
+      { "type": "luisteren", "tag": "inna-zusters", "tekst": "كَأَنَّ المَدينَةَ نائِمَةٌ", "vraag": "Wat hoor je?", "opties": ["Het is alsof de stad slaapt.", "De stad slaapt nooit.", "Hopelijk slaapt de stad."], "juist": 0, "uitleg": "{ar|كَأَنَّ} = alsof." },
+      { "type": "luisteren", "tag": "gebroken-mv", "tekst": "في الغابَةِ ثَعالِبُ وَطُيورٌ", "vraag": "Wat is er in het bos?", "opties": ["vossen en vogels", "leeuwen en honden", "bomen en bloemen"], "juist": 0, "uitleg": "{ar|ثَعالِبُ} · {ar|طُيورٌ}" },
+      { "type": "invullen", "tag": "inna-zusters", "zin": "لَيْتَ ___ قَصيرٌ.", "nl": "Was de weg maar kort.", "woordbank": ["الطَّريقَ", "الطَّريقُ", "الطَّريقِ"], "antwoord": ["الطَّريقَ"], "uitleg": "{ar|لَيْتَ} + -a.", "streng": true },
+      { "type": "invullen", "tag": "congruentie", "zin": "المُعَلِّمونَ ___ عَنِ النَّتائِجِ.", "nl": "De leraren zijn tevreden over de resultaten.", "woordbank": ["راضونَ", "راضِيَةٌ", "راضٍ"], "antwoord": ["راضونَ"], "uitleg": "Mensen → meervoud." },
+      { "type": "invullen", "tag": "gebroken-mv", "zin": "أَيْنَ ___ السَّيّارَةِ؟", "nl": "Waar zijn de autosleutels?", "woordbank": ["مَفاتيحُ", "مِفْتاحٌ", "مَفاتِحُ"], "antwoord": ["مَفاتيحُ"], "uitleg": "مَفاعيلُ" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "فِكْرَةٌ", "nl": "idee" },
+        { "ar": "حَيَوانٌ", "nl": "dier" },
+        { "ar": "مُحامٍ", "nl": "advocaat" },
+        { "ar": "مَسْبَحٌ", "nl": "zwembad" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "congruentie", "nl": "In onze stad zijn grote parken.", "woorden": ["في", "مَدينَتِنا", "حَدائِقُ", "كَبيرَةٌ."], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "gebroken-mv", "bron": "de schepen", "antwoorden": ["السُّفُنُ"], "uitleg": "فُعُل" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "inna-zusters", "bron": "لَعَلَّكَ مُتْعَبٌ.", "antwoorden": ["je bent misschien moe", "je bent vast moe", "misschien ben je moe"], "uitleg": "{ar|لَعَلَّ} + suffix." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-huis", "bron": "كنفيق بكري", "tr": "kanfīq bəkri", "antwoorden": ["ik word vroeg wakker", "ik sta vroeg op"], "uitleg": "Darija." }
+    ]
+  }
+}

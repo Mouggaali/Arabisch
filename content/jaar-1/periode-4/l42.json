@@ -1,0 +1,770 @@
+{
+  "id": "j1-p4-l42",
+  "code": "L42",
+  "type": "les",
+  "titel": "Boodschappen",
+  "thema": "Hoeveel van iets: getallen met zelfstandige naamwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "1 en 2 combineren met een zelfstandig naamwoord.",
+    "3–10 gebruiken met omgekeerde congruentie en een genitief meervoud.",
+    "11–99 gebruiken met een accusatief enkelvoud.",
+    "100 en 1000 gebruiken met een genitief enkelvoud.",
+    "een boodschappenlijst maken en in een winkel om aantallen vragen."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l42-w01",
+      "ar": "قائِمَةُ المُشْتَرَياتِ",
+      "tr": "qāʾimatu l-muštarayāt",
+      "nl": [
+        "boodschappenlijst"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l42-w02",
+      "ar": "زُجاجَةٌ",
+      "tr": "zujāja",
+      "nl": [
+        "fles"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|زُجاجاتٌ}."
+    },
+    {
+      "id": "j1-p4-l42-w03",
+      "ar": "عُلْبَةٌ",
+      "tr": "ʿulba",
+      "nl": [
+        "doos",
+        "blik"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|عُلَبٌ}."
+    },
+    {
+      "id": "j1-p4-l42-w04",
+      "ar": "كيسٌ",
+      "tr": "kīs",
+      "nl": [
+        "zak",
+        "tas"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَكْياسٌ}."
+    },
+    {
+      "id": "j1-p4-l42-w05",
+      "ar": "رَغيفٌ",
+      "tr": "raġīf",
+      "nl": [
+        "brood (één)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَرْغِفَةٌ}."
+    },
+    {
+      "id": "j1-p4-l42-w06",
+      "ar": "بَيْضَةٌ",
+      "tr": "bayḍa",
+      "nl": [
+        "ei"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|بَيْضاتٌ}; {ar|بَيْضٌ} = eieren (verzamelnaam)."
+    },
+    {
+      "id": "j1-p4-l42-w07",
+      "ar": "بُرْتُقالَةٌ",
+      "tr": "burtuqāla",
+      "nl": [
+        "sinaasappel (één)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|بُرْتُقالٌ} = sinaasappels (verzamelnaam)."
+    },
+    {
+      "id": "j1-p4-l42-w08",
+      "ar": "كيلو",
+      "tr": "kīlū",
+      "nl": [
+        "kilo"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Onveranderlijk."
+    },
+    {
+      "id": "j1-p4-l42-w09",
+      "ar": "لِتْرٌ",
+      "tr": "litr",
+      "nl": [
+        "liter"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l42-w10",
+      "ar": "غِرامٌ",
+      "tr": "ġirām",
+      "nl": [
+        "gram"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l42-w11",
+      "ar": "قِطْعَةٌ",
+      "tr": "qiṭʿa",
+      "nl": [
+        "stuk"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قِطَعٌ}."
+    },
+    {
+      "id": "j1-p4-l42-w12",
+      "ar": "طَماطِمُ",
+      "tr": "ṭamāṭim",
+      "nl": [
+        "tomaten"
+      ],
+      "soort": "zelfstandig naamwoord (verzamelnaam)"
+    },
+    {
+      "id": "j1-p4-l42-w13",
+      "ar": "بَصَلٌ",
+      "tr": "baṣal",
+      "nl": [
+        "uien"
+      ],
+      "soort": "zelfstandig naamwoord (verzamelnaam)"
+    },
+    {
+      "id": "j1-p4-l42-w14",
+      "ar": "بَطاطِسُ",
+      "tr": "baṭāṭis",
+      "nl": [
+        "aardappelen"
+      ],
+      "soort": "zelfstandig naamwoord (verzamelnaam)"
+    },
+    {
+      "id": "j1-p4-l42-w15",
+      "ar": "زَيْتٌ",
+      "tr": "zayt",
+      "nl": [
+        "olie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l42-w17",
+      "ar": "اِشْتَرى",
+      "tr": "ištarā",
+      "nl": [
+        "kopen (hij kocht)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَشْتَري}."
+    },
+    {
+      "id": "j1-p4-l42-w18",
+      "ar": "باعَ",
+      "tr": "bāʿa",
+      "nl": [
+        "verkopen (hij verkocht)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَبيعُ}."
+    },
+    {
+      "id": "j1-p4-l42-w19",
+      "ar": "بِقالَةٌ",
+      "tr": "biqāla",
+      "nl": [
+        "kruidenierswinkel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Gangbaarheid van بِقالَة (vs. دُكّان / حانوت) per land controleren."
+      }
+    },
+    {
+      "id": "j1-p4-l42-w20",
+      "ar": "كَمِّيَّةٌ",
+      "tr": "kammiyya",
+      "nl": [
+        "hoeveelheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De vier telwoordregels",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Getal",
+            "Regel",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "1",
+              "bijvoeglijk naamwoord, na het woord, congruent",
+              "كِتابٌ واحِدٌ|kitābun wāḥid"
+            ],
+            [
+              "2",
+              "dualis van het woord (eventueel + اِثْنانِ)",
+              "كِتابانِ|kitābān"
+            ],
+            [
+              "3–10",
+              "omgekeerd geslacht + genitief meervoud",
+              "ثَلاثَةُ كُتُبٍ|ṯalāṯatu kutub"
+            ],
+            [
+              "11–99",
+              "accusatief enkelvoud",
+              "عِشْرونَ كِتابًا|ʿišrūna kitāban"
+            ],
+            [
+              "100, 1000",
+              "genitief enkelvoud",
+              "مِئَةُ كِتابٍ|miʾatu kitāb"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "**Omgekeerde congruentie (3–10):** bij een mannelijk woord krijgt het getal ة ({ar|ثَلاثَةُ رِجالٍ}), bij een vrouwelijk woord niet ({ar|ثَلاثُ بَناتٍ}). Taalkundigen verklaren dit historisch: de vorm op ة was oorspronkelijk een verzamelnaam (*een drietal*). Voor jou is de praktische regel: *kijk naar het enkelvoud van het woord en neem het tegenovergestelde geslacht*."
+        },
+        {
+          "type": "letop",
+          "md": "Kijk bij 3–10 naar het geslacht van het **enkelvoud**: {ar|كِتابٌ} is mannelijk, dus {ar|ثَلاثَةُ كُتُبٍ}, ook al eindigt {ar|كُتُبٌ} niet op ة. {ar|زُجاجَةٌ} is vrouwelijk, dus {ar|ثَلاثُ زُجاجاتٍ}."
+        }
+      ]
+    },
+    {
+      "titel": "In de winkel",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أُريدُ رَغيفًا واحِدًا وَزُجاجَتَيْنِ مِنَ الماءِ.",
+              "tr": "urīdu raġīfan wāḥidan wa-zujājatayni mina l-māʾ.",
+              "nl": "Ik wil één brood en twee flessen water."
+            },
+            {
+              "ar": "اِشْتَرَيْتُ خَمْسَ بَيْضاتٍ وَثَلاثَةَ أَكْياسٍ.",
+              "tr": "ištaraytu ḫamsa bayḍātin wa-ṯalāṯata akyās.",
+              "nl": "Ik heb vijf eieren en drie zakken gekocht."
+            },
+            {
+              "ar": "في الصَّفِّ عِشْرونَ طالِبًا.",
+              "tr": "fi ṣ-ṣaffi ʿišrūna ṭāliban.",
+              "nl": "Er zijn twintig studenten in de klas."
+            },
+            {
+              "ar": "ثَمَنُها مِئَةُ دِرْهَمٍ.",
+              "tr": "ṯamanuhā miʾatu dirham.",
+              "nl": "Het kost honderd dirham."
+            },
+            {
+              "ar": "كَمْ كيلو مِنَ الطَّماطِمِ؟ — كيلوانِ، مِنْ فَضْلِكَ.",
+              "tr": "kam kīlū mina ṭ-ṭamāṭim? — kīluwāni, min faḍlik.",
+              "nl": "Hoeveel kilo tomaten? — Twee kilo, alstublieft.",
+              "review": {
+                "status": "onzeker",
+                "note": "Dualis كيلوانِ en gebruik كَمْ كيلو controleren."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "زُجاجَةٌ",
+              "nl": "fles",
+              "woord": "j1-p4-l42-w02"
+            },
+            {
+              "ar": "كيسٌ",
+              "nl": "zak",
+              "woord": "j1-p4-l42-w04"
+            },
+            {
+              "ar": "رَغيفٌ",
+              "nl": "brood",
+              "woord": "j1-p4-l42-w05"
+            },
+            {
+              "ar": "بَيْضَةٌ",
+              "nl": "ei",
+              "woord": "j1-p4-l42-w06"
+            },
+            {
+              "ar": "بَصَلٌ",
+              "nl": "uien",
+              "woord": "j1-p4-l42-w13"
+            },
+            {
+              "ar": "زَيْتٌ",
+              "nl": "olie",
+              "woord": "j1-p4-l42-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "telwoordregels",
+          "tekst": "ثَلاثُ زُجاجاتٍ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "drie flessen",
+            "dertig flessen",
+            "twee flessen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ثَلاثُ} + genitief meervoud."
+        }
+      ]
+    },
+    {
+      "titel": "1–2 en 3–10",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "اِشْتَرَيْتُ ___.",
+          "nl": "Ik heb twee broden gekocht.",
+          "woordbank": [
+            "رَغيفَيْنِ",
+            "رَغيفانِ",
+            "اِثْنَيْنِ رَغيفٍ"
+          ],
+          "antwoord": [
+            "رَغيفَيْنِ"
+          ],
+          "uitleg": "2 = dualis; lijdend voorwerp → ـَيْنِ."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "عِنْدي ___ أَوْلادٍ.",
+          "nl": "Ik heb drie kinderen (jongens).",
+          "woordbank": [
+            "ثَلاثَةُ",
+            "ثَلاثُ"
+          ],
+          "antwoord": [
+            "ثَلاثَةُ"
+          ],
+          "uitleg": "{ar|وَلَدٌ} is mannelijk → getal mét ة."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "عِنْدي ___ بَناتٍ.",
+          "nl": "Ik heb drie dochters.",
+          "woordbank": [
+            "ثَلاثُ",
+            "ثَلاثَةُ"
+          ],
+          "antwoord": [
+            "ثَلاثُ"
+          ],
+          "uitleg": "{ar|بِنْتٌ} is vrouwelijk → getal zónder ة."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "telwoordregels",
+          "vraag": "'Vijf boeken' is ...",
+          "opties": [
+            "خَمْسَةُ كُتُبٍ",
+            "خَمْسُ كُتُبٍ",
+            "خَمْسَةُ كِتابٍ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كِتابٌ} mannelijk → {ar|خَمْسَةُ}; meervoud in de genitief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "telwoordregels",
+          "instructie": "Vul het getal in met de juiste vorm.",
+          "rijen": [
+            {
+              "label": "4 mannen",
+              "ar": "رِجالٍ",
+              "antwoord": "أَرْبَعَةُ",
+              "tr": "arbaʿatu"
+            },
+            {
+              "label": "4 vrouwen",
+              "ar": "نِساءٍ",
+              "antwoord": "أَرْبَعُ",
+              "tr": "arbaʿu"
+            },
+            {
+              "label": "7 dagen",
+              "ar": "أَيّامٍ",
+              "antwoord": "سَبْعَةُ",
+              "tr": "sabʿatu"
+            },
+            {
+              "label": "7 flessen",
+              "ar": "زُجاجاتٍ",
+              "antwoord": "سَبْعُ",
+              "tr": "sabʿu"
+            }
+          ],
+          "uitleg": "Mannelijk woord → getal met ة; vrouwelijk woord → getal zonder ة."
+        }
+      ]
+    },
+    {
+      "titel": "11–99 en 100–1000",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "في القَرْيَةِ خَمْسونَ ___.",
+          "nl": "In het dorp zijn vijftig huizen.",
+          "woordbank": [
+            "بَيْتًا",
+            "بُيوتٍ",
+            "بَيْتٍ"
+          ],
+          "antwoord": [
+            "بَيْتًا"
+          ],
+          "uitleg": "11–99: accusatief enkelvoud."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "ثَمَنُ السَّيّارَةِ عَشَرَةُ آلافِ ___.",
+          "nl": "De auto kost tienduizend dirham.",
+          "woordbank": [
+            "دِرْهَمٍ",
+            "دِرْهَمًا",
+            "دَراهِمَ"
+          ],
+          "antwoord": [
+            "دِرْهَمٍ"
+          ],
+          "uitleg": "Na {ar|آلافِ} (duizend): genitief enkelvoud."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "telwoordregels",
+          "vraag": "'Honderd studenten' is ...",
+          "opties": [
+            "مِئَةُ طالِبٍ",
+            "مِئَةُ طُلّابٍ",
+            "مِئَةُ طالِبًا"
+          ],
+          "juist": 0,
+          "uitleg": "100: genitief enkelvoud."
+        },
+        {
+          "type": "ordenen",
+          "tag": "telwoordregels",
+          "nl": "Er zijn twintig studenten in de klas.",
+          "woorden": [
+            "في",
+            "الصَّفِّ",
+            "عِشْرونَ",
+            "طالِبًا."
+          ],
+          "uitleg": "Accusatief enkelvoud na 20."
+        },
+        {
+          "type": "ordenen",
+          "tag": "telwoordregels",
+          "nl": "Ik wil één brood en twee flessen water.",
+          "woorden": [
+            "أُريدُ",
+            "رَغيفًا",
+            "واحِدًا",
+            "وَزُجاجَتَيْنِ",
+            "مِنَ",
+            "الماءِ."
+          ],
+          "uitleg": "1 = bijvoeglijk; 2 = dualis."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "telwoordregels",
+          "bron": "twee flessen",
+          "antwoorden": [
+            "زُجاجَتانِ",
+            "زُجاجَتَيْنِ"
+          ],
+          "uitleg": "{ar|زُجاجَتانِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "telwoordregels",
+          "bron": "drie boeken",
+          "antwoorden": [
+            "ثَلاثَةُ كُتُبٍ",
+            "ثَلاثَةَ كُتُبٍ"
+          ],
+          "uitleg": "{ar|ثَلاثَةُ كُتُبٍ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "telwoordregels",
+          "bron": "اِشْتَرَيْتُ خَمْسَ بَيْضاتٍ.",
+          "antwoorden": [
+            "ik heb vijf eieren gekocht",
+            "ik kocht vijf eieren"
+          ],
+          "uitleg": "{ar|بَيْضَةٌ} vrouwelijk → {ar|خَمْسَ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "telwoordregels",
+          "bron": "في الكِتابِ مِئَةُ صَفْحَةٍ.",
+          "antwoorden": [
+            "het boek heeft honderd pagina's",
+            "in het boek staan honderd pagina's",
+            "er zijn honderd pagina's in het boek",
+            "het boek heeft 100 pagina's"
+          ],
+          "uitleg": "100 + genitief enkelvoud."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عُلْبَةٌ",
+            "nl": "doos"
+          },
+          {
+            "ar": "لِتْرٌ",
+            "nl": "liter"
+          },
+          {
+            "ar": "سُكَّرٌ",
+            "nl": "suiker"
+          },
+          {
+            "ar": "اِشْتَرى",
+            "nl": "kopen"
+          },
+          {
+            "ar": "باعَ",
+            "nl": "verkopen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Zes vrouwen' is ...",
+        "opties": [
+          "سِتُّ نِساءٍ",
+          "سِتَّةُ نِساءٍ",
+          "سِتُّ امْرَأَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk woord → getal zonder ة."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Dertig dagen' is ...",
+        "opties": [
+          "ثَلاثونَ يَوْمًا",
+          "ثَلاثونَ أَيّامٍ",
+          "ثَلاثونَ يَوْمٍ"
+        ],
+        "juist": 0,
+        "uitleg": "11–99: accusatief enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Duizend nachten' is ...",
+        "opties": [
+          "أَلْفُ لَيْلَةٍ",
+          "أَلْفُ لَيالٍ",
+          "أَلْفُ لَيْلَةً"
+        ],
+        "juist": 0,
+        "uitleg": "1000: genitief enkelvoud ({ar|أَلْفُ لَيْلَةٍ وَلَيْلَةٌ})."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Eén huis' is ...",
+        "opties": [
+          "بَيْتٌ واحِدٌ",
+          "واحِدُ بَيْتٍ",
+          "واحِدٌ بُيوتٍ"
+        ],
+        "juist": 0,
+        "uitleg": "1: bijvoeglijk, na het woord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "telwoordregels",
+        "tekst": "عِشْرونَ طالِبًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "twintig studenten",
+          "twee studenten",
+          "twaalf studenten"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عِشْرونَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "telwoordregels",
+        "tekst": "سَبْعَةُ أَيّامٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "zeven dagen",
+          "zeventig dagen",
+          "zeven weken"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَبْعَةُ أَيّامٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoordregels",
+        "zin": "عِنْدي ___ إِخْوَةٍ.",
+        "nl": "Ik heb vier broers.",
+        "woordbank": [
+          "أَرْبَعَةُ",
+          "أَرْبَعُ"
+        ],
+        "antwoord": [
+          "أَرْبَعَةُ"
+        ],
+        "uitleg": "{ar|أَخٌ} mannelijk → met ة."
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoordregels",
+        "zin": "في الصَّفِّ خَمْسَ عَشْرَةَ ___.",
+        "nl": "Er zijn vijftien studentes in de klas.",
+        "woordbank": [
+          "طالِبَةً",
+          "طالِباتٍ",
+          "طالِبَةٍ"
+        ],
+        "antwoord": [
+          "طالِبَةً"
+        ],
+        "uitleg": "11–99: accusatief enkelvoud."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "telwoordregels",
+        "instructie": "Vul het getal in met de juiste vorm.",
+        "rijen": [
+          {
+            "label": "3 dochters",
+            "ar": "بَناتٍ",
+            "antwoord": "ثَلاثُ",
+            "tr": "ṯalāṯu"
+          },
+          {
+            "label": "3 zonen",
+            "ar": "أَبْناءٍ",
+            "antwoord": "ثَلاثَةُ",
+            "tr": "ṯalāṯatu"
+          }
+        ],
+        "uitleg": "Omgekeerde congruentie."
+      },
+      {
+        "type": "ordenen",
+        "tag": "telwoordregels",
+        "nl": "Ik heb vijf eieren gekocht.",
+        "woorden": [
+          "اِشْتَرَيْتُ",
+          "خَمْسَ",
+          "بَيْضاتٍ."
+        ],
+        "uitleg": "Vrouwelijk woord → {ar|خَمْسَ}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "telwoordregels",
+        "bron": "twee broden",
+        "antwoorden": [
+          "رَغيفانِ",
+          "رَغيفَيْنِ"
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "telwoordregels",
+        "bron": "ثَمَنُها مِئَةُ دِرْهَمٍ.",
+        "antwoorden": [
+          "het kost honderd dirham",
+          "de prijs is honderd dirham",
+          "het kost 100 dirham",
+          "ze kost honderd dirham"
+        ],
+        "uitleg": "{ar|ثَمَنُ} = prijs."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "telwoordregels",
+        "bron": "عِنْدي ثَلاثُ أَخَواتٍ.",
+        "antwoorden": [
+          "ik heb drie zussen",
+          "ik heb drie zusters"
+        ],
+        "uitleg": "{ar|أُخْتٌ} vrouwelijk → {ar|ثَلاثُ}."
+      }
+    ]
+  }
+}

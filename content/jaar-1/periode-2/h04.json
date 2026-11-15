@@ -1,0 +1,118 @@
+{
+  "id": "j1-p2-h04",
+  "code": "H04",
+  "type": "herhaling",
+  "titel": "Herhaling 2A + periode 1",
+  "thema": "Het huis beschrijven: getallen, iḍāfa, plaats en kleur",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "aantallen tot 20 noemen met het juiste getelde woord.",
+    "iḍāfa en voorzetsel + genitief combineren.",
+    "een kamer beschrijven: wat staat waar, en welke kleur heeft het.",
+    "alles combineren met de stof uit periode 1 (bezit, ontkenning, aanwijzen)."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 13 tot en met 16 en de woorden uit periode 1 die nog op je lijst staan.",
+
+  "grammatica": [
+    {
+      "titel": "Twee keer genitief",
+      "blokken": [
+        { "type": "tabel", "kop": ["Constructie", "Voorbeeld", "Nederlands"], "arKolommen": [1], "rijen": [
+          ["iḍāfa", "بابُ الغُرْفَةِ|bābu l-ġurfa", "de deur van de kamer"],
+          ["voorzetsel + naamwoord", "في الغُرْفَةِ|fi l-ġurfa", "in de kamer"],
+          ["voorzetsel + iḍāfa", "في غُرْفَةِ النَّوْمِ|fī ġurfati n-nawm", "in de slaapkamer"],
+          ["kleur (diptoot)", "سَيّارَةٌ حَمْراءُ|sayyāratun ḥamrāʾ", "een rode auto"],
+          ["kam + enkelvoud", "كَمْ غُرْفَةً؟|kam ġurfa?", "hoeveel kamers?"]
+        ] },
+        { "type": "waarom", "md": "De genitief (-i) komt in twee situaties: na een **voorzetsel** en als **tweede woord van een iḍāfa**. Eigenlijk is het één regel, want veel voorzetsels zijn zelf het eerste woord van een iḍāfa ({ar|تَحْتَ السَّريرِ} = *de onderkant van het bed*)." }
+      ]
+    },
+    {
+      "titel": "Een kamer beschrijven",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "هٰذِهِ غُرْفَةُ نَوْمي.", "tr": "hāḏihi ġurfatu nawmī.", "nl": "Dit is mijn slaapkamer." },
+          { "ar": "في الغُرْفَةِ سَريرٌ أَبْيَضُ وَخِزانَةٌ بُنِّيَّةٌ.", "tr": "fi l-ġurfati sarīrun abyaḍu wa-ḫizānatun bunniyya.", "nl": "In de kamer staan een wit bed en een bruine kast." },
+          { "ar": "المِصْباحُ عَلى الطّاوِلَةِ بِجانِبِ السَّريرِ.", "tr": "al-miṣbāḥu ʿala ṭ-ṭāwilati bi-jānibi s-sarīr.", "nl": "De lamp staat op de tafel naast het bed." },
+          { "ar": "لَيْسَ في الغُرْفَةِ تِلْفازٌ.", "tr": "laysa fi l-ġurfati tilfāz.", "nl": "Er staat geen televisie in de kamer." }
+        ] },
+        { "type": "letop", "md": "{ar|لَيْسَ} vóór een plaatsbepaling ontkent *er is*: {ar|لَيْسَ في الغُرْفَةِ تِلْفازٌ}, net als {ar|لَيْسَ عِنْدي ...}." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "غُرْفَةٌ", "nl": "kamer", "woord": "j1-p2-l14-w01" },
+          { "ar": "خِزانَةٌ", "nl": "kast", "woord": "j1-p2-l15-w13" },
+          { "ar": "أَزْرَقُ", "nl": "blauw", "woord": "j1-p2-l16-w03" },
+          { "ar": "لاعِبٌ", "nl": "speler", "woord": "j1-p2-l13-w14" },
+          { "ar": "بِجانِبِ", "nl": "naast", "woord": "j1-p2-l15-w07" },
+          { "ar": "مَطْبَخٌ", "nl": "keuken", "woord": "j1-p2-l14-w02" }
+        ], "uitleg": "Woorden uit les 13 tot en met 16." },
+        { "type": "luisteren", "tag": "getallen-11-20", "tekst": "في البَيْتِ اِثْنا عَشَرَ مِصْباحًا", "vraag": "Hoeveel lampen zijn er?", "opties": ["12", "2", "20", "11"], "juist": 0, "uitleg": "{ar|اِثْنا عَشَرَ} = 12." },
+        { "type": "meerkeuze", "tag": "idafa", "vraag": "'In de keuken van het appartement' is ...", "opties": ["في مَطْبَخِ الشَّقَّةِ", "في المَطْبَخِ الشَّقَّةِ", "في مَطْبَخُ الشَّقَّةُ"], "juist": 0,
+          "uitleg": "Voorzetsel + iḍāfa: het eerste woord in de genitief zonder ال, het tweede met ال in de genitief." },
+        { "type": "invullen", "tag": "kleuren", "zin": "عِنْدي دَرّاجَةٌ ___.", "nl": "Ik heb een blauwe fiets.", "woordbank": ["زَرْقاءُ", "أَزْرَقُ", "زَرْقاءٌ"], "antwoord": ["زَرْقاءُ"], "uitleg": "Vrouwelijk, zonder tanwīn." },
+        { "type": "invullen", "tag": "kam-tamyiz", "zin": "كَمْ ___ في الشَّقَّةِ؟", "nl": "Hoeveel kamers heeft het appartement?", "woordbank": ["غُرْفَةً", "غُرَفٌ", "غُرْفَةٌ"], "antwoord": ["غُرْفَةً"], "uitleg": "{ar|كَمْ} + enkelvoud accusatief." }
+      ]
+    },
+    {
+      "titel": "Mijn kamer",
+      "items": [
+        { "type": "ordenen", "tag": "voorzetsels", "nl": "De lamp staat op de tafel naast het bed.", "woorden": ["المِصْباحُ", "عَلى", "الطّاوِلَةِ", "بِجانِبِ", "السَّريرِ."], "uitleg": "Twee plaatsbepalingen achter elkaar." },
+        { "type": "ordenen", "tag": "er-is", "nl": "Er staat geen televisie in de kamer.", "woorden": ["لَيْسَ", "في", "الغُرْفَةِ", "تِلْفازٌ."], "uitleg": "{ar|لَيْسَ} + plaatsbepaling + onderwerp." },
+        { "type": "vervoegen", "tag": "idafa", "instructie": "Maak de iḍāfa of plaatsbepaling.",
+          "rijen": [
+            { "label": "de deur van de keuken", "antwoord": "بابُ المَطْبَخِ", "tr": "bābu l-maṭbaḫ" },
+            { "label": "onder de tafel", "antwoord": "تَحْتَ الطّاوِلَةِ", "tr": "taḥta ṭ-ṭāwila" },
+            { "label": "in de slaapkamer", "antwoord": "في غُرْفَةِ النَّوْمِ", "tr": "fī ġurfati n-nawm" }
+          ], "uitleg": "Genitief na voorzetsel en als tweede woord van een iḍāfa." },
+        { "type": "meerkeuze", "tag": "bezit-suffix", "vraag": "Wat betekent {ar|غُرْفَتُها صَغيرَةٌ}?", "opties": ["Haar kamer is klein.", "De kleine kamer.", "Zijn kamer is klein."], "juist": 0, "uitleg": "ـها = haar; ة → ت." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "de tuin van het huis", "antwoorden": ["حَديقَةُ البَيْتِ"], "uitleg": "{ar|حَديقَةُ البَيْتِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "Het bed is wit.", "antwoorden": ["السَّريرُ أَبْيَضُ"], "uitleg": "{ar|السَّريرُ أَبْيَضُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "er-is", "bron": "في الحَديقَةِ شَجَرَةٌ كَبيرَةٌ.", "tr": "fi l-ḥadīqati šajaratun kabīra.", "antwoorden": ["in de tuin staat een grote boom", "er staat een grote boom in de tuin", "in de tuin is een grote boom"], "uitleg": "Plaatsbepaling vooraan: *er staat*." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "kam-tamyiz", "bron": "في العِمارَةِ خَمْسَةَ عَشَرَ طابِقًا.", "tr": "fi l-ʿimārati ḫamsata ʿašara ṭābiqan.", "antwoorden": ["het flatgebouw heeft vijftien verdiepingen", "in het flatgebouw zijn vijftien verdiepingen", "het gebouw heeft vijftien verdiepingen"], "uitleg": "15 + enkelvoud accusatief." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "getallen-11-20", "vraag": "'Dertien' is ...", "opties": ["ثَلاثَةَ عَشَرَ", "ثَلاثَةٌ", "ثَلاثونَ"], "juist": 0, "uitleg": "3 + 10." },
+      { "type": "meerkeuze", "tag": "idafa", "vraag": "Welke is een correcte iḍāfa?", "opties": ["مَكْتَبُ المُديرِ", "المَكْتَبُ المُديرِ", "مَكْتَبٌ المُديرِ"], "juist": 0, "uitleg": "Eerste woord zonder ال en tanwīn." },
+      { "type": "meerkeuze", "tag": "voorzetsel-genitief", "vraag": "'Achter het huis' is ...", "opties": ["خَلْفَ البَيْتِ", "خَلْفَ البَيْتُ", "خَلْفَ بَيْتٌ"], "juist": 0, "uitleg": "Genitief." },
+      { "type": "meerkeuze", "tag": "kleuren", "vraag": "'De groene deur' is ...", "opties": ["البابُ الأَخْضَرُ", "البابُ خَضْراءُ", "البابُ الخَضْراءُ"], "juist": 0, "uitleg": "{ar|بابٌ} is mannelijk." },
+      { "type": "luisteren", "tag": "voorzetsels", "tekst": "الكِتابُ في الخِزانَةِ", "vraag": "Waar is het boek?", "opties": ["in de kast", "op de kast", "naast de kast"], "juist": 0, "uitleg": "{ar|في} = in." },
+      { "type": "luisteren", "tag": "getallen-11-20", "tekst": "عُمْري تِسْعَةَ عَشَرَ عامًا", "vraag": "Hoe oud is de spreker?", "opties": ["19", "9", "90", "17"], "juist": 0, "uitleg": "{ar|تِسْعَةَ عَشَرَ} = 19." },
+      { "type": "invullen", "tag": "idafa", "zin": "غُرْفَةُ ___ كَبيرَةٌ.", "nl": "De kamer van mijn broer is groot.", "woordbank": ["أَخي", "الأَخُ", "أَخٌ"], "antwoord": ["أَخي"], "uitleg": "Een woord met achtervoegsel is bepaald: {ar|غُرْفَةُ أَخي}." },
+      { "type": "invullen", "tag": "kleuren", "zin": "الشَّمْسُ ___.", "nl": "De zon is geel.", "antwoord": ["صَفْراءُ"], "uitleg": "{ar|شَمْسٌ} is vrouwelijk." },
+      { "type": "vervoegen", "tag": "kleuren", "instructie": "Geef de vrouwelijke vorm.",
+        "rijen": [
+          { "label": "أَبْيَضُ", "antwoord": "بَيْضاءُ", "tr": "bayḍāʾ" },
+          { "label": "أَحْمَرُ", "antwoord": "حَمْراءُ", "tr": "ḥamrāʾ" }
+        ], "uitleg": "فَعْلاءُ" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "عِمارَةٌ", "nl": "flatgebouw" },
+        { "ar": "مِرْآةٌ", "nl": "spiegel" },
+        { "ar": "دَقيقَةٌ", "nl": "minuut" },
+        { "ar": "لَوْنٌ", "nl": "kleur" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "idafa", "nl": "De tuin van de buren is groen en mooi.", "woorden": ["حَديقَةُ", "الجيرانِ", "خَضْراءُ", "وَجَميلَةٌ."], "uitleg": "Iḍāfa + twee gezegdes." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsels", "bron": "De kat is onder het bed.", "antwoorden": ["القِطَّةُ تَحْتَ السَّريرِ"], "uitleg": "{ar|القِطَّةُ تَحْتَ السَّريرِ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "kam-tamyiz", "bron": "Hoeveel spelers?", "antwoorden": ["كَمْ لاعِبًا؟"], "uitleg": "{ar|كَمْ لاعِبًا؟}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "سَيّارَةُ أَبي سَوْداءُ.", "tr": "sayyāratu abī sawdāʾ.", "antwoorden": ["de auto van mijn vader is zwart", "mijn vaders auto is zwart"], "uitleg": "Iḍāfa + kleur." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "er-is", "bron": "هُناكَ سِتارَةٌ زَرْقاءُ أَمامَ النّافِذَةِ.", "tr": "hunāka sitāratun zarqāʾu amāma n-nāfiḏa.", "antwoorden": ["er hangt een blauw gordijn voor het raam", "er is een blauw gordijn voor het raam"], "uitleg": "{ar|هُناكَ} + onbepaald + kleur + plaats." }
+    ]
+  }
+}

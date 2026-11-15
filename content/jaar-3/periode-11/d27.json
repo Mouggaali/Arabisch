@@ -1,0 +1,628 @@
+{
+  "id": "j3-p11-d27",
+  "code": "D27",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: rollenspellen II",
+  "thema": "Rollenspel: de kraan lekt en de stroom valt uit",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "uitleggen wat er in huis kapot is.",
+    "een vakman bellen, om reparatie vragen en de prijs bespreken.",
+    "met de huisbaas over de huur en reparaties praten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-d27-w01",
+      "ar": "البلومبي",
+      "tr": "lbəlōmbi",
+      "nl": [
+        "de loodgieter"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Van het Frans *plombier*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w02",
+      "ar": "التريسيان",
+      "tr": "ttrisyān",
+      "nl": [
+        "de elektricien"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Van het Frans *électricien*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w03",
+      "ar": "الضو",
+      "tr": "ḍḍəw",
+      "nl": [
+        "het licht, de stroom"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w04",
+      "ar": "تقطع الضو",
+      "tr": "tqəṭṭəʿ ḍḍəw",
+      "nl": [
+        "de stroom is uitgevallen"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w05",
+      "ar": "خاسر",
+      "tr": "xāsər",
+      "nl": [
+        "kapot"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w06",
+      "ar": "صاوب",
+      "tr": "ṣāwəb",
+      "nl": [
+        "repareren, maken"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w07",
+      "ar": "مول الدار",
+      "tr": "mūl ddāṛ",
+      "nl": [
+        "de huisbaas"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w08",
+      "ar": "الكرا",
+      "tr": "lkra",
+      "nl": [
+        "de huur"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w09",
+      "ar": "الساروت",
+      "tr": "ssārūt",
+      "nl": [
+        "de sleutel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w10",
+      "ar": "كيقطر",
+      "tr": "kayqəṭṭəṛ",
+      "nl": [
+        "het lekt (druppelt)"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w11",
+      "ar": "القادوس",
+      "tr": "lqādūs",
+      "nl": [
+        "de afvoerbuis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w12",
+      "ar": "الحيط",
+      "tr": "lḥīṭ",
+      "nl": [
+        "de muur"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w13",
+      "ar": "الصباغة",
+      "tr": "ṣṣbāġa",
+      "nl": [
+        "de verf"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w14",
+      "ar": "دابا نجي",
+      "tr": "dāba nji",
+      "nl": [
+        "ik kom zo"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d27-w15",
+      "ar": "شحال غادي تاخد",
+      "tr": "šḥāl ġādi tāxud",
+      "nl": [
+        "hoeveel ga je rekenen?"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Rollenspel: iets is kapot",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "In dit rollenspel lekt de kraan en is de stroom uitgevallen. Bel de loodgieter of de elektricien, leg uit wat er kapot is, en vraag naar de prijs. Daarna bel je de huisbaas."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Wat je wilt",
+            "Darija",
+            "Fusha"
+          ],
+          "rijen": [
+            [
+              "zeggen wat kapot is",
+              "… خاسر|xāsər",
+              "… مُعَطَّلٌ"
+            ],
+            [
+              "om reparatie vragen",
+              "واش تقدر تصاوب …؟|waš tqdər tṣāwəb",
+              "هَلْ يُمْكِنُكَ أَنْ تُصْلِحَ …؟"
+            ],
+            [
+              "naar de prijs vragen",
+              "شحال غادي تاخد؟|šḥāl ġādi tāxud",
+              "كَمْ سَتَأْخُذُ؟"
+            ],
+            [
+              "de stroom is uitgevallen",
+              "تقطع الضو|tqəṭṭəʿ ḍḍəw",
+              "اِنْقَطَعَتِ الكَهْرَباءُ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij technische zaken gebruikt het Darija veel **Franse leenwoorden** ({ar|البلومبي}، {ar|التريسيان}، {ar|الروبيني}). Het Fusha-woord ken je wel ({ar|سَبّاكٌ}، {ar|كَهْرَبائِيٌّ}), maar in Marokko hoor je het in dit soort gesprekken zelden."
+        }
+      ]
+    },
+    {
+      "titel": "Dialoog met de loodgieter",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "ألو، الروبيني ديال الكوزينة كيقطر.",
+              "tr": "alō, rrōbīni dyāl lkūzīna kayqəṭṭəṛ.",
+              "nl": "Hallo, de kraan in de keuken lekt.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "واخا، دابا نجي نشوفو.",
+              "tr": "waxxa, dāba nji nšūfu.",
+              "nl": "Oké, ik kom zo kijken.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "واش تقدر تصاوب حتى القادوس؟",
+              "tr": "waš tqdər tṣāwəb ḥtta lqādūs?",
+              "nl": "Kun je ook de afvoer repareren?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "إيه، ولكن خاصني نجيب واحد الطرف.",
+              "tr": "īh, walākin xəṣṣni njīb wāḥəd ṭṭərf.",
+              "nl": "Ja, maar ik moet een onderdeel halen.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "شحال غادي تاخد؟",
+              "tr": "šḥāl ġādi tāxud?",
+              "nl": "Hoeveel ga je rekenen?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ميتين درهم مع الطرف.",
+              "tr": "mītīn dərhəm mʿa ṭṭərf.",
+              "nl": "Tweehonderd dirham inclusief het onderdeel.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-rollenspel",
+          "paren": [
+            {
+              "ar": "البلومبي",
+              "nl": "loodgieter",
+              "woord": "j3-p11-d27-w01"
+            },
+            {
+              "ar": "الضو",
+              "nl": "stroom, licht",
+              "woord": "j3-p11-d27-w03"
+            },
+            {
+              "ar": "خاسر",
+              "nl": "kapot",
+              "woord": "j3-p11-d27-w05"
+            },
+            {
+              "ar": "صاوب",
+              "nl": "repareren",
+              "woord": "j3-p11-d27-w06"
+            },
+            {
+              "ar": "مول الدار",
+              "nl": "huisbaas",
+              "woord": "j3-p11-d27-w07"
+            },
+            {
+              "ar": "الساروت",
+              "nl": "sleutel",
+              "woord": "j3-p11-d27-w09"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-rollenspel",
+          "tekst": "تقطع الضو",
+          "vraag": "Wat is er aan de hand?",
+          "opties": [
+            "De stroom is uitgevallen.",
+            "De kraan lekt.",
+            "De deur is dicht."
+          ],
+          "juist": 0,
+          "uitleg": "Stroomstoring (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Het rollenspel",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-rollenspel",
+          "vraag": "Wie bel je als de stroom uitvalt?",
+          "opties": [
+            "التريسيان",
+            "البلومبي",
+            "الكسال"
+          ],
+          "juist": 0,
+          "uitleg": "Elektricien."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-rollenspel",
+          "vraag": "{ar|كيقطر} betekent ...",
+          "opties": [
+            "het lekt",
+            "het is koud",
+            "het is kapot"
+          ],
+          "juist": 0,
+          "uitleg": "Druppelen."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-rollenspel",
+          "zin": "واش تقدر ___ الروبيني؟",
+          "nl": "Kun je de kraan repareren?",
+          "antwoord": [
+            "تصاوب"
+          ],
+          "uitleg": "{ar|صاوب}",
+          "woordbank": [
+            "تصاوب",
+            "تقطع",
+            "تجيب"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-rollenspel",
+          "nl": "Hoeveel ga je rekenen?",
+          "woorden": [
+            "شحال",
+            "غادي",
+            "تاخد؟"
+          ],
+          "uitleg": "Prijs."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-rollenspel",
+          "bron": "de huur (Darija)",
+          "antwoorden": [
+            "الكرا"
+          ],
+          "uitleg": "{ar|الكرا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-rollenspel",
+          "bron": "الروبيني خاسر",
+          "antwoorden": [
+            "de kraan is kapot"
+          ],
+          "uitleg": "Darija.",
+          "tr": "rrōbīni xāsər"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-rollenspel",
+        "paren": [
+          {
+            "ar": "الحيط",
+            "nl": "muur"
+          },
+          {
+            "ar": "الصباغة",
+            "nl": "verf"
+          },
+          {
+            "ar": "القادوس",
+            "nl": "afvoer"
+          },
+          {
+            "ar": "التريسيان",
+            "nl": "elektricien"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|خاسر} is in het Fusha ...",
+        "opties": [
+          "مُعَطَّلٌ",
+          "خاسِرٌ (verliezer)",
+          "جَديدٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Kapot."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "{ar|مول الدار} is ...",
+        "opties": [
+          "de huisbaas",
+          "de buurman",
+          "de loodgieter"
+        ],
+        "juist": 0,
+        "uitleg": "Eigenaar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "{ar|دابا نجي} betekent ...",
+        "opties": [
+          "ik kom zo",
+          "ik kom morgen",
+          "ik kom niet"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|دابا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-rollenspel",
+        "tekst": "الروبيني ديال الكوزينة كيقطر",
+        "vraag": "Wat is het probleem?",
+        "opties": [
+          "De keukenkraan lekt.",
+          "De keuken is vies.",
+          "Er is geen water."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كيقطر}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-rollenspel",
+        "tekst": "ميتين درهم مع الطرف",
+        "vraag": "Wat kost de reparatie?",
+        "opties": [
+          "200 dirham inclusief onderdeel",
+          "20 dirham",
+          "2000 dirham"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ميتين}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-rollenspel",
+        "zin": "عيطت لـ___ حيت تقطع الضو.",
+        "nl": "Ik belde de huisbaas omdat de stroom was uitgevallen.",
+        "antwoord": [
+          "مول الدار"
+        ],
+        "uitleg": "{ar|مول الدار}",
+        "woordbank": [
+          "مول الدار",
+          "الكسال",
+          "الصباغة"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-rollenspel",
+        "zin": "نسيت ___ داخل الدار.",
+        "nl": "Ik heb de sleutel binnen laten liggen.",
+        "antwoord": [
+          "الساروت"
+        ],
+        "uitleg": "{ar|الساروت}",
+        "woordbank": [
+          "الساروت",
+          "الكرا",
+          "الضو"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-rollenspel",
+        "nl": "Kun je ook de afvoer repareren?",
+        "woorden": [
+          "واش",
+          "تقدر",
+          "تصاوب",
+          "حتى",
+          "القادوس؟"
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-rollenspel",
+        "bron": "de loodgieter (Darija)",
+        "antwoorden": [
+          "البلومبي"
+        ],
+        "uitleg": "{ar|البلومبي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-rollenspel",
+        "bron": "kapot (Darija)",
+        "antwoorden": [
+          "خاسر"
+        ],
+        "uitleg": "{ar|خاسر}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-rollenspel",
+        "bron": "خاصني نخلص الكرا",
+        "antwoorden": [
+          "ik moet de huur betalen"
+        ],
+        "uitleg": "Darija.",
+        "tr": "xəṣṣni nxəlləṣ lkra"
+      }
+    ]
+  }
+}

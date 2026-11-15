@@ -1,0 +1,148 @@
+{
+  "id": "j2-p5-l54",
+  "code": "L54",
+  "type": "les",
+  "titel": "Sport en samenwerken",
+  "thema": "Wedstrijden, teams en samen iets doen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm III (فاعَلَ / يُفاعِلُ) herkennen en vervoegen.",
+    "de betekenis van vorm III afleiden: een handeling gericht op of samen met iemand.",
+    "de maṣdar van vorm III vormen (مُفاعَلَة).",
+    "over een wedstrijd vertellen."
+  ],
+
+  "woorden": [
+    { "id": "j2-p5-l54-w01", "ar": "قابَلَ", "tr": "qābala", "nl": ["ontmoeten"], "soort": "werkwoord (III)", "notitie": "Muḍāriʿ: {ar|يُقابِلُ}; maṣdar {ar|مُقابَلَةٌ} (ontmoeting, interview)." },
+    { "id": "j2-p5-l54-w02", "ar": "شارَكَ في", "tr": "šāraka fī", "nl": ["deelnemen aan"], "soort": "werkwoord (III)", "notitie": "Maṣdar: {ar|مُشارَكَةٌ}." },
+    { "id": "j2-p5-l54-w03", "ar": "نافَسَ", "tr": "nāfasa", "nl": ["concurreren met"], "soort": "werkwoord (III)", "notitie": "Maṣdar: {ar|مُنافَسَةٌ} (competitie)." },
+    { "id": "j2-p5-l54-w04", "ar": "ناقَشَ", "tr": "nāqaša", "nl": ["bespreken", "discussiëren"], "soort": "werkwoord (III)", "notitie": "Maṣdar: {ar|مُناقَشَةٌ}." },
+    { "id": "j2-p5-l54-w05", "ar": "هاجَمَ", "tr": "hājama", "nl": ["aanvallen"], "soort": "werkwoord (III)" },
+    { "id": "j2-p5-l54-w06", "ar": "دافَعَ عَنْ", "tr": "dāfaʿa ʿan", "nl": ["verdedigen"], "soort": "werkwoord (III)", "notitie": "Maṣdar: {ar|دِفاعٌ}." },
+    { "id": "j2-p5-l54-w07", "ar": "مُساعَدَةٌ", "tr": "musāʿada", "nl": ["hulp"], "soort": "zelfstandig naamwoord", "notitie": "Maṣdar van {ar|ساعَدَ}." },
+    { "id": "j2-p5-l54-w08", "ar": "مُباراةٌ", "tr": "mubārāh", "nl": ["wedstrijd"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|مُبارَياتٌ}." },
+    { "id": "j2-p5-l54-w09", "ar": "مُهاجِمٌ", "tr": "muhājim", "nl": ["aanvaller", "spits"], "soort": "zelfstandig naamwoord", "notitie": "Actief deelwoord van vorm III: مُفاعِل." },
+    { "id": "j2-p5-l54-w10", "ar": "مُدافِعٌ", "tr": "mudāfiʿ", "nl": ["verdediger"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w11", "ar": "حارِسُ المَرْمى", "tr": "ḥārisu l-marmā", "nl": ["keeper"], "soort": "iḍāfa" },
+    { "id": "j2-p5-l54-w12", "ar": "خَسِرَ", "tr": "ḫasira", "nl": ["verliezen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَخْسَرُ}." },
+    { "id": "j2-p5-l54-w13", "ar": "تَعادُلٌ", "tr": "taʿādul", "nl": ["gelijkspel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w14", "ar": "بُطولَةٌ", "tr": "buṭūla", "nl": ["kampioenschap", "toernooi"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w15", "ar": "مُشَجِّعٌ", "tr": "mušajjiʿ", "nl": ["supporter"], "soort": "zelfstandig naamwoord", "notitie": "Vorm II: {ar|شَجَّعَ} = aanmoedigen." },
+    { "id": "j2-p5-l54-w16", "ar": "نَتيجَةٌ", "tr": "natīja", "nl": ["uitslag", "resultaat"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w17", "ar": "سَجَّلَ هَدَفًا", "tr": "sajjala hadafan", "nl": ["een doelpunt maken"], "soort": "uitdrukking" },
+    { "id": "j2-p5-l54-w18", "ar": "شَوْطٌ", "tr": "šawṭ", "nl": ["helft (van een wedstrijd)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w19", "ar": "جُمْهورٌ", "tr": "jumhūr", "nl": ["publiek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j2-p5-l54-w20", "ar": "رِياضِيٌّ", "tr": "riyāḍiyy", "nl": ["sporter", "sportief"], "soort": "zelfstandig / bijvoeglijk naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Vorm III: فاعَلَ / يُفاعِلُ",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Vorm III zet een **lange ā** na de eerste wortelletter: {ar|قَبِلَ} (aannemen) → {ar|قابَلَ} (ontmoeten).",
+          "Muḍāriʿ: voorvoegsel met **u**, stam met **i**, net als in vorm II: {ar|يُقابِلُ}، {ar|أُساعِدُ}، {ar|نُشارِكُ}."
+        ] },
+        { "type": "waarom", "md": "Vorm III drukt vaak een handeling uit die **op een ander gericht is** of die je **met een ander** doet: {ar|كَتَبَ} (schrijven) → {ar|كاتَبَ} (corresponderen met); {ar|قَتَلَ} (doden) → {ar|قاتَلَ} (vechten tegen). Daarom heeft vorm III bijna altijd een lijdend voorwerp: je ontmoet *iemand*, je helpt *iemand*." },
+        { "type": "tabel", "kop": ["Persoon", "Māḍī", "Muḍāriʿ"], "arKolommen": [1, 2], "rijen": [
+          ["ik", "ساعَدْتُ", "أُساعِدُ"],
+          ["jij (v)", "ساعَدْتِ", "تُساعِدينَ"],
+          ["hij", "ساعَدَ", "يُساعِدُ"],
+          ["wij", "ساعَدْنا", "نُساعِدُ"],
+          ["zij (m mv)", "ساعَدوا", "يُساعِدونَ"]
+        ] }
+      ]
+    },
+    {
+      "titel": "Maṣdar en deelwoord",
+      "blokken": [
+        { "type": "tekst", "md": "**Maṣdar**: meestal **مُفاعَلَة** ({ar|مُساعَدَةٌ}، {ar|مُشارَكَةٌ}، {ar|مُناقَشَةٌ}), soms **فِعال** ({ar|دِفاعٌ}). **Actief deelwoord**: **مُفاعِل** ({ar|مُهاجِمٌ}، {ar|مُدافِعٌ})." },
+        { "type": "voorbeelden", "items": [
+          { "ar": "شارَكَ فَريقُنا في البُطولَةِ.", "tr": "šāraka farīqunā fi l-buṭūla.", "nl": "Ons team deed mee aan het toernooi." },
+          { "ar": "هاجَمَ المُهاجِمُ وَسَجَّلَ هَدَفًا في الشَّوْطِ الأَوَّلِ.", "tr": "hājama l-muhājimu wa-sajjala hadafan fi š-šawṭi l-awwal.", "nl": "De spits viel aan en scoorde in de eerste helft." },
+          { "ar": "دافَعَ الفَريقُ جَيِّدًا، لٰكِنَّهُ خَسِرَ.", "tr": "dāfaʿa l-farīqu jayyidan, lākinnahu ḫasir.", "nl": "Het team verdedigde goed, maar verloor." },
+          { "ar": "شُكْرًا عَلى مُساعَدَتِكَ!", "tr": "šukran ʿalā musāʿadatik!", "nl": "Bedankt voor je hulp!" },
+          { "ar": "قابَلْتُ اللّاعِبَ بَعْدَ المُباراةِ.", "tr": "qābaltu l-lāʿiba baʿda l-mubārāh.", "nl": "Ik heb de speler na de wedstrijd ontmoet." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مُباراةٌ", "nl": "wedstrijd", "woord": "j2-p5-l54-w08" },
+          { "ar": "مُهاجِمٌ", "nl": "aanvaller", "woord": "j2-p5-l54-w09" },
+          { "ar": "مُدافِعٌ", "nl": "verdediger", "woord": "j2-p5-l54-w10" },
+          { "ar": "حارِسُ المَرْمى", "nl": "keeper", "woord": "j2-p5-l54-w11" },
+          { "ar": "تَعادُلٌ", "nl": "gelijkspel", "woord": "j2-p5-l54-w13" },
+          { "ar": "جُمْهورٌ", "nl": "publiek", "woord": "j2-p5-l54-w19" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "vorm-3", "tekst": "نُشارِكُ في البُطولَةِ", "vraag": "Wat hoor je?", "opties": ["We doen mee aan het toernooi.", "We winnen het toernooi.", "We kijken naar het toernooi."], "juist": 0, "uitleg": "{ar|شارَكَ في} = deelnemen aan." }
+      ]
+    },
+    {
+      "titel": "Vorm III",
+      "items": [
+        { "type": "vervoegen", "tag": "vorm-3", "instructie": "Vervoeg قابَلَ / يُقابِلُ.",
+          "rijen": [
+            { "label": "ik (māḍī)", "antwoord": "قابَلْتُ", "tr": "qābaltu" },
+            { "label": "zij (m mv) (māḍī)", "antwoord": "قابَلوا", "tr": "qābalū" },
+            { "label": "ik (muḍāriʿ)", "antwoord": "أُقابِلُ", "tr": "uqābilu" },
+            { "label": "jij (v) (muḍāriʿ)", "antwoord": "تُقابِلينَ", "tr": "tuqābilīna" }
+          ], "uitleg": "ā na de eerste letter; muḍāriʿ يُـ … ـِـ." },
+        { "type": "meerkeuze", "tag": "vorm-3", "vraag": "Wat is het kenmerk van vorm III?", "opties": ["een lange ā na de eerste wortelletter", "shadda op de middelste letter", "اِسْتَـ vooraan"], "juist": 0, "uitleg": "{ar|فاعَلَ}" },
+        { "type": "meerkeuze", "tag": "vorm-3", "vraag": "{ar|كَتَبَ} = schrijven. Wat betekent {ar|كاتَبَ} waarschijnlijk?", "opties": ["corresponderen met iemand", "veel schrijven", "laten schrijven"], "juist": 0, "uitleg": "Vorm III = gericht op / met iemand." },
+        { "type": "invullen", "tag": "vorm-3", "zin": "هَلْ تَسْتَطيعُ أَنْ ___ني؟", "nl": "Kun je me helpen?", "woordbank": ["تُساعِدَ", "تُساعِدُ", "ساعَدْتَ"], "antwoord": ["تُساعِدَ"], "uitleg": "Na {ar|أَنْ}: manṣūb.", "eind": true },
+        { "type": "invullen", "tag": "masdar-afgeleid", "zin": "شُكْرًا عَلى ___كَ!", "nl": "Bedankt voor je hulp!", "woordbank": ["مُساعَدَتِ", "ساعَدْتَ", "مُساعِدِ"], "antwoord": ["مُساعَدَتِ"], "uitleg": "Maṣdar مُفاعَلَة; ة wordt ت vóór een suffix." }
+      ]
+    },
+    {
+      "titel": "De wedstrijd",
+      "items": [
+        { "type": "ordenen", "tag": "vorm-3", "nl": "Het team verdedigde goed, maar verloor.", "woorden": ["دافَعَ", "الفَريقُ", "جَيِّدًا،", "لٰكِنَّهُ", "خَسِرَ."], "uitleg": "{ar|لٰكِنَّهُ} = maar hij (het team)." },
+        { "type": "vervoegen", "tag": "masdar-afgeleid", "instructie": "Geef de maṣdar (مُفاعَلَة).",
+          "rijen": [
+            { "label": "شارَكَ", "antwoord": "مُشارَكَةٌ", "tr": "mušāraka" },
+            { "label": "ناقَشَ", "antwoord": "مُناقَشَةٌ", "tr": "munāqaša" },
+            { "label": "نافَسَ", "antwoord": "مُنافَسَةٌ", "tr": "munāfasa" }
+          ], "uitleg": "مُـ + r1 + ا + r2 + r3 + ة." },
+        { "type": "luisteren", "tag": "woordenschat", "tekst": "اِنْتَهَتِ المُباراةُ بِالتَّعادُلِ", "vraag": "Hoe eindigde de wedstrijd?", "opties": ["in een gelijkspel", "met winst", "met verlies"], "juist": 0, "uitleg": "{ar|التَّعادُلُ} = gelijkspel." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "vorm-3", "bron": "Ik help je. (m)", "antwoorden": ["أُساعِدُكَ"], "uitleg": "{ar|أُساعِدُكَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vorm-3", "bron": "ناقَشْنا المَشْروعَ في الاِجْتِماعِ.", "antwoorden": ["we bespraken het project in de vergadering", "we hebben het project in de vergadering besproken", "wij hebben het project op de vergadering besproken", "we hebben het project op de vergadering besproken"], "uitleg": "{ar|ناقَشَ} = bespreken." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "خَسِرَ", "nl": "verliezen" },
+        { "ar": "بُطولَةٌ", "nl": "toernooi" },
+        { "ar": "مُشَجِّعٌ", "nl": "supporter" },
+        { "ar": "نَتيجَةٌ", "nl": "uitslag" },
+        { "ar": "شَوْطٌ", "nl": "helft" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "vorm-3", "vraag": "'Zij (ev) helpt' is ...", "opties": ["تُساعِدُ", "تَسْعَدُ", "ساعَدَتْ"], "juist": 0, "uitleg": "Vorm III muḍāriʿ: تُـ … ـِـ." },
+      { "type": "meerkeuze", "tag": "vorm-3", "vraag": "Welk werkwoord is vorm III?", "opties": ["شارَكَ", "شَرِبَ", "شَجَّعَ"], "juist": 0, "uitleg": "ā na de eerste letter." },
+      { "type": "meerkeuze", "tag": "masdar-afgeleid", "vraag": "De maṣdar van {ar|قابَلَ} is ...", "opties": ["مُقابَلَةٌ", "قُبولٌ", "مُقابِلٌ"], "juist": 0, "uitleg": "مُفاعَلَة" },
+      { "type": "meerkeuze", "tag": "vorm-3", "vraag": "Wat betekent {ar|مُهاجِمٌ}?", "opties": ["aanvaller", "aanval", "aangevallen"], "juist": 0, "uitleg": "Actief deelwoord مُفاعِل = wie het doet." },
+      { "type": "luisteren", "tag": "vorm-3", "tekst": "سافَرْنا مَعَ الفَريقِ إِلى مَدْريد", "vraag": "Wat hoor je?", "opties": ["We reisden met het team naar Madrid.", "Het team reisde zonder ons.", "We reizen morgen naar Madrid."], "juist": 0, "uitleg": "{ar|سافَرْنا}" },
+      { "type": "luisteren", "tag": "vorm-3", "tekst": "يُدافِعونَ عَنْ مَرْماهُمْ", "vraag": "Wat doen ze?", "opties": ["Ze verdedigen hun doel.", "Ze vallen aan.", "Ze verliezen."], "juist": 0, "uitleg": "{ar|دافَعَ عَنْ} = verdedigen." },
+      { "type": "invullen", "tag": "vorm-3", "zin": "أُريدُ أَنْ ___ في المُسابَقَةِ.", "nl": "Ik wil meedoen aan de wedstrijd.", "woordbank": ["أُشارِكَ", "أُشارِكُ", "شارَكْتُ"], "antwoord": ["أُشارِكَ"], "uitleg": "{ar|أَنْ} + manṣūb.", "eind": true },
+      { "type": "invullen", "tag": "vorm-3", "zin": "أَمْسِ ___ مُديرَ الشَّرِكَةِ.", "nl": "Gisteren heb ik de directeur van het bedrijf ontmoet.", "woordbank": ["قابَلْتُ", "أُقابِلُ", "قَبِلْتُ"], "antwoord": ["قابَلْتُ"], "uitleg": "Vorm III māḍī, ik." },
+      { "type": "vervoegen", "tag": "vorm-3", "instructie": "Vervoeg ناقَشَ / يُناقِشُ.",
+        "rijen": [
+          { "label": "wij (māḍī)", "antwoord": "ناقَشْنا", "tr": "nāqašnā" },
+          { "label": "zij (m mv) (muḍāriʿ)", "antwoord": "يُناقِشونَ", "tr": "yunāqišūna" }
+        ], "uitleg": "Vorm III." },
+      { "type": "ordenen", "tag": "vorm-3", "nl": "Ons team deed mee aan het toernooi.", "woorden": ["شارَكَ", "فَريقُنا", "في", "البُطولَةِ."], "uitleg": "{ar|شارَكَ في}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "masdar-afgeleid", "bron": "de discussie", "antwoorden": ["المُناقَشَةُ"], "uitleg": "مُفاعَلَة" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "vorm-3", "bron": "Zij (m mv) hielpen ons.", "antwoorden": ["ساعَدونا", "ساعَدُونا"], "uitleg": "{ar|ساعَدوا} + نا (de alif valt weg)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "سَجَّلَ اللّاعِبُ هَدَفَيْنِ.", "antwoorden": ["de speler scoorde twee doelpunten", "de speler maakte twee doelpunten", "de speler heeft twee doelpunten gemaakt", "de speler heeft twee keer gescoord"], "uitleg": "{ar|سَجَّلَ هَدَفًا} = scoren." }
+    ]
+  }
+}

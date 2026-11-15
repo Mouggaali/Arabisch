@@ -1,0 +1,685 @@
+{
+  "id": "j2-p5-l57",
+  "code": "L57",
+  "type": "les",
+  "titel": "Ontmoetingen",
+  "thema": "Afspreken, samenwerken en elkaar leren kennen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm VI (تَفاعَلَ / يَتَفاعَلُ) herkennen en vervoegen.",
+    "de wederkerige betekenis van vorm VI gebruiken (elkaar …).",
+    "de maṣdar (تَفاعُل) en het deelwoord (مُتَفاعِل) van vorm VI vormen.",
+    "vertellen hoe ik iemand heb leren kennen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l57-w01",
+      "ar": "تَقابَلَ",
+      "tr": "taqābala",
+      "nl": [
+        "elkaar ontmoeten"
+      ],
+      "soort": "werkwoord (VI)",
+      "notitie": "Muḍāriʿ: {ar|يَتَقابَلُ}."
+    },
+    {
+      "id": "j2-p5-l57-w02",
+      "ar": "تَبادَلَ",
+      "tr": "tabādala",
+      "nl": [
+        "uitwisselen"
+      ],
+      "soort": "werkwoord (VI)",
+      "notitie": "{ar|تَبادَلْنا الأَرْقامَ} = we wisselden nummers uit."
+    },
+    {
+      "id": "j2-p5-l57-w03",
+      "ar": "تَراسَلَ",
+      "tr": "tarāsala",
+      "nl": [
+        "met elkaar corresponderen"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p5-l57-w04",
+      "ar": "تَشارَكَ",
+      "tr": "tašāraka",
+      "nl": [
+        "samen delen"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p5-l57-w05",
+      "ar": "تَناقَشَ",
+      "tr": "tanāqaša",
+      "nl": [
+        "met elkaar discussiëren"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p5-l57-w06",
+      "ar": "تَصالَحَ",
+      "tr": "taṣālaḥa",
+      "nl": [
+        "zich verzoenen"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p5-l57-w07",
+      "ar": "تَعارَفَ",
+      "tr": "taʿārafa",
+      "nl": [
+        "kennis met elkaar maken"
+      ],
+      "soort": "werkwoord (VI)",
+      "notitie": "Maṣdar: {ar|تَعارُفٌ}."
+    },
+    {
+      "id": "j2-p5-l57-w08",
+      "ar": "تَفاهُمٌ",
+      "tr": "tafāhum",
+      "nl": [
+        "wederzijds begrip"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|تَفاهَمَ}."
+    },
+    {
+      "id": "j2-p5-l57-w10",
+      "ar": "صُدْفَةً",
+      "tr": "ṣudfatan",
+      "nl": [
+        "toevallig"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p5-l57-w11",
+      "ar": "صَداقَةٌ",
+      "tr": "ṣadāqa",
+      "nl": [
+        "vriendschap"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l57-w12",
+      "ar": "عَلاقَةٌ",
+      "tr": "ʿalāqa",
+      "nl": [
+        "relatie",
+        "band"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l57-w13",
+      "ar": "بَعْضُهُمْ بَعْضًا",
+      "tr": "baʿḍuhum baʿḍan",
+      "nl": [
+        "elkaar"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|يُساعِدُ بَعْضُهُمْ بَعْضًا} = ze helpen elkaar."
+    },
+    {
+      "id": "j2-p5-l57-w14",
+      "ar": "مُتَبادَلٌ",
+      "tr": "mutabādal",
+      "nl": [
+        "wederzijds"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Passief deelwoord vorm VI."
+    },
+    {
+      "id": "j2-p5-l57-w16",
+      "ar": "لِقاءٌ",
+      "tr": "liqāʾ",
+      "nl": [
+        "ontmoeting"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l57-w17",
+      "ar": "اِجْتِماعِيٌّ",
+      "tr": "ijtimāʿiyy",
+      "nl": [
+        "sociaal"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l57-w18",
+      "ar": "خَجولٌ",
+      "tr": "ḫajūl",
+      "nl": [
+        "verlegen"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l57-w19",
+      "ar": "اِنْطِباعٌ",
+      "tr": "inṭibāʿ",
+      "nl": [
+        "indruk"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van vorm VII (les 58)."
+    },
+    {
+      "id": "j2-p5-l57-w20",
+      "ar": "تَعاوُنٌ",
+      "tr": "taʿāwun",
+      "nl": [
+        "samenwerking"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|تَعاوَنَ} (samenwerken)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm VI: تَفاعَلَ / يَتَفاعَلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm VI = **تَـ + vorm III**: {ar|قابَلَ} (iemand ontmoeten) → {ar|تَقابَلَ} (elkaar ontmoeten).",
+            "Muḍāriʿ: voorvoegsel met **a**, stam met **a**: {ar|يَتَقابَلُ}، {ar|نَتَبادَلُ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "wij",
+              "تَقابَلْنا",
+              "نَتَقابَلُ"
+            ],
+            [
+              "jullie (m)",
+              "تَقابَلْتُمْ",
+              "تَتَقابَلونَ"
+            ],
+            [
+              "zij (m mv)",
+              "تَقابَلوا",
+              "يَتَقابَلونَ"
+            ],
+            [
+              "zij twee (m)",
+              "تَقابَلا",
+              "يَتَقابَلانِ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Vorm VI is **wederkerig**: de handeling gaat over en weer. Daarom staat het onderwerp bijna altijd in het **meervoud of de dualis**: twee of meer mensen die elkaar iets aandoen. {ar|قابَلْتُ سَميرًا} (ik ontmoette Samir) ↔ {ar|تَقابَلْنا} (we ontmoetten elkaar)."
+        },
+        {
+          "type": "letop",
+          "md": "Wil je met een werkwoord dat geen vorm VI heeft toch *elkaar* zeggen, gebruik dan {ar|بَعْضُهُمْ بَعْضًا}: {ar|يُساعِدُ بَعْضُهُمْ بَعْضًا} (ze helpen elkaar)."
+        }
+      ]
+    },
+    {
+      "titel": "Hoe we elkaar leerden kennen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "**Maṣdar**: **تَفاعُل** ({ar|تَعارُفٌ}، {ar|تَعاوُنٌ}، {ar|تَفاهُمٌ}). **Deelwoord**: **مُتَفاعِل** (actief), **مُتَفاعَل** (passief: {ar|مُتَبادَلٌ})."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَقابَلْنا صُدْفَةً في حَفْلَةٍ عِنْدَ صَديقٍ.",
+              "tr": "taqābalnā ṣudfatan fī ḥaflatin ʿinda ṣadīq.",
+              "nl": "We ontmoetten elkaar toevallig op een feest bij een vriend."
+            },
+            {
+              "ar": "تَبادَلْنا أَرْقامَ الهاتِفِ.",
+              "tr": "tabādalnā arqāma l-hātif.",
+              "nl": "We wisselden telefoonnummers uit."
+            },
+            {
+              "ar": "ثُمَّ تَراسَلْنا كُلَّ يَوْمٍ.",
+              "tr": "ṯumma tarāsalnā kulla yawm.",
+              "nl": "Daarna stuurden we elkaar elke dag berichten."
+            },
+            {
+              "ar": "بَيْنَنا تَفاهُمٌ كَبيرٌ.",
+              "tr": "baynanā tafāhumun kabīr.",
+              "nl": "Er is veel begrip tussen ons."
+            },
+            {
+              "ar": "الاِحْتِرامُ المُتَبادَلُ أَساسُ الصَّداقَةِ.",
+              "tr": "al-iḥtirāmu l-mutabādalu asāsu ṣ-ṣadāqa.",
+              "nl": "Wederzijds respect is de basis van vriendschap."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَوْعِدٌ",
+              "nl": "afspraak"
+            },
+            {
+              "ar": "صُدْفَةً",
+              "nl": "toevallig",
+              "woord": "j2-p5-l57-w10"
+            },
+            {
+              "ar": "صَداقَةٌ",
+              "nl": "vriendschap",
+              "woord": "j2-p5-l57-w11"
+            },
+            {
+              "ar": "عَلاقَةٌ",
+              "nl": "relatie",
+              "woord": "j2-p5-l57-w12"
+            },
+            {
+              "ar": "خَجولٌ",
+              "nl": "verlegen",
+              "woord": "j2-p5-l57-w18"
+            },
+            {
+              "ar": "اِنْطِباعٌ",
+              "nl": "indruk",
+              "woord": "j2-p5-l57-w19"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-6",
+          "tekst": "تَقابَلْنا في الجامِعَةِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "We ontmoetten elkaar op de universiteit.",
+            "Ik ontmoette hem op de universiteit.",
+            "We studeren aan de universiteit."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَقابَلْنا} = we ontmoetten elkaar."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm VI",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vorm-6",
+          "instructie": "Vervoeg تَبادَلَ / يَتَبادَلُ.",
+          "rijen": [
+            {
+              "label": "wij (māḍī)",
+              "antwoord": "تَبادَلْنا",
+              "tr": "tabādalnā"
+            },
+            {
+              "label": "zij (m mv) (māḍī)",
+              "antwoord": "تَبادَلوا",
+              "tr": "tabādalū"
+            },
+            {
+              "label": "wij (muḍāriʿ)",
+              "antwoord": "نَتَبادَلُ",
+              "tr": "natabādalu"
+            },
+            {
+              "label": "zij twee (m) (muḍāriʿ)",
+              "antwoord": "يَتَبادَلانِ",
+              "tr": "yatabādalāni"
+            }
+          ],
+          "uitleg": "تَـ + vorm III; muḍāriʿ يَتَـ … ـَـ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-6",
+          "vraag": "Waarom staat vorm VI meestal in het meervoud of de dualis?",
+          "opties": [
+            "Omdat de handeling wederkerig is (elkaar).",
+            "Omdat vorm VI geen enkelvoud heeft.",
+            "Omdat het een lijdende vorm is."
+          ],
+          "juist": 0,
+          "uitleg": "Elkaar = minstens twee personen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-6",
+          "vraag": "{ar|كاتَبَ} = schrijven aan iemand. Hoe zeg je *ze schreven elkaar*?",
+          "opties": [
+            "تَكاتَبوا",
+            "كاتَبوا",
+            "كَتَبوا"
+          ],
+          "juist": 0,
+          "uitleg": "Vorm VI = vorm III + تَـ: wederkerig."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-6",
+          "zin": "مَتى ___؟",
+          "nl": "Wanneer zien we elkaar? (wij)",
+          "woordbank": [
+            "نَتَقابَلُ",
+            "نُقابِلُ",
+            "تَقابَلْنا"
+          ],
+          "antwoord": [
+            "نَتَقابَلُ"
+          ],
+          "uitleg": "Vorm VI muḍāriʿ, wij."
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "شُكْرًا عَلى ___كُمْ.",
+          "nl": "Bedankt voor jullie samenwerking.",
+          "woordbank": [
+            "تَعاوُنِ",
+            "تَعاوَنَ",
+            "مُتَعاوِنِ"
+          ],
+          "antwoord": [
+            "تَعاوُنِ"
+          ],
+          "uitleg": "Maṣdar تَفاعُل."
+        }
+      ]
+    },
+    {
+      "titel": "Ons verhaal",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-6",
+          "nl": "We wisselden telefoonnummers uit.",
+          "woorden": [
+            "تَبادَلْنا",
+            "أَرْقامَ",
+            "الهاتِفِ."
+          ],
+          "uitleg": "Vorm VI + iḍāfa."
+        },
+        {
+          "type": "ordenen",
+          "tag": "elkaar",
+          "nl": "Ze helpen elkaar.",
+          "woorden": [
+            "يُساعِدُ",
+            "بَعْضُهُمْ",
+            "بَعْضًا."
+          ],
+          "uitleg": "{ar|بَعْضُهُمْ بَعْضًا} = elkaar."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "عِنْدي مَوْعِدٌ مَعَ الطَّبيبِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb een afspraak met de dokter.",
+            "Ik heb de dokter toevallig gezien.",
+            "De dokter heeft geen tijd."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَوْعِدٌ} = afspraak."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-6",
+          "bron": "We ontmoetten elkaar.",
+          "antwoorden": [
+            "تَقابَلْنا"
+          ],
+          "uitleg": "{ar|تَقابَلْنا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-6",
+          "bron": "تَصالَحَ الأَخَوانِ.",
+          "antwoorden": [
+            "de twee broers verzoenden zich",
+            "de twee broers hebben zich verzoend",
+            "de broers hebben zich verzoend"
+          ],
+          "uitleg": "Vorm VI + dualis."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "لِقاءٌ",
+            "nl": "ontmoeting"
+          },
+          {
+            "ar": "حَفْلَةٌ",
+            "nl": "feest"
+          },
+          {
+            "ar": "اِجْتِماعِيٌّ",
+            "nl": "sociaal"
+          },
+          {
+            "ar": "تَعاوُنٌ",
+            "nl": "samenwerking"
+          },
+          {
+            "ar": "مُتَبادَلٌ",
+            "nl": "wederzijds"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-6",
+        "vraag": "Wat is het kenmerk van vorm VI?",
+        "opties": [
+          "تَـ + ā na de eerste wortelletter",
+          "تَـ + shadda",
+          "اِنْـ vooraan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَفاعَلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-6",
+        "vraag": "Wat betekent {ar|تَراسَلْنا}?",
+        "opties": [
+          "We stuurden elkaar berichten.",
+          "We stuurden hem een bericht.",
+          "Ik stuurde een bericht."
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VI = wederkerig."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|تَعارَفَ} is ...",
+        "opties": [
+          "تَعارُفٌ",
+          "تَعْريفٌ",
+          "مَعْرِفَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "تَفاعُل"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-6",
+        "vraag": "'Ze (m mv) wisselen ideeën uit' is ...",
+        "opties": [
+          "يَتَبادَلونَ الأَفْكارَ",
+          "يُبادِلونَ الأَفْكارَ",
+          "تَبادَلوا الأَفْكارَ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VI muḍāriʿ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-6",
+        "tekst": "تَعارَفْنا قَبْلَ خَمْسِ سَنَواتٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We leerden elkaar vijf jaar geleden kennen.",
+          "We kennen elkaar niet.",
+          "We gaan elkaar over vijf jaar zien."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَعارَفَ} = kennismaken met elkaar."
+      },
+      {
+        "type": "luisteren",
+        "tag": "elkaar",
+        "tekst": "يَحْتَرِمُ بَعْضُهُمْ بَعْضًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ze respecteren elkaar.",
+          "Sommigen respecteren hen.",
+          "Ze respecteren niemand."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَعْضُهُمْ بَعْضًا} = elkaar."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-6",
+        "zin": "الطُّلّابُ ___ في المَكْتَبَةِ.",
+        "nl": "De studenten discussiëren met elkaar in de bibliotheek.",
+        "woordbank": [
+          "يَتَناقَشونَ",
+          "يُناقِشونَ",
+          "تَناقَشوا"
+        ],
+        "antwoord": [
+          "يَتَناقَشونَ"
+        ],
+        "uitleg": "Vorm VI muḍāriʿ."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-6",
+        "zin": "بَعْدَ المُشْكِلَةِ ___ الصَّديقانِ.",
+        "nl": "Na het probleem verzoenden de twee vrienden zich.",
+        "woordbank": [
+          "تَصالَحَ",
+          "تَصالَحا",
+          "صالَحَ"
+        ],
+        "antwoord": [
+          "تَصالَحَ"
+        ],
+        "uitleg": "Werkwoord vóór het onderwerp → enkelvoud."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-6",
+        "instructie": "Vervoeg تَقابَلَ / يَتَقابَلُ.",
+        "rijen": [
+          {
+            "label": "jullie (m) (māḍī)",
+            "antwoord": "تَقابَلْتُمْ",
+            "tr": "taqābaltum"
+          },
+          {
+            "label": "zij (m mv) (muḍāriʿ)",
+            "antwoord": "يَتَقابَلونَ",
+            "tr": "yataqābalūna"
+          }
+        ],
+        "uitleg": "Vorm VI."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-6",
+        "nl": "We ontmoetten elkaar toevallig op een feest.",
+        "woorden": [
+          "تَقابَلْنا",
+          "صُدْفَةً",
+          "في",
+          "حَفْلَةٍ."
+        ],
+        "uitleg": "{ar|صُدْفَةً} = toevallig."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de vriendschap",
+        "antwoorden": [
+          "الصَّداقَةُ"
+        ],
+        "uitleg": "{ar|الصَّداقَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-6",
+        "bron": "Wij wisselen uit. (muḍāriʿ)",
+        "antwoorden": [
+          "نَتَبادَلُ"
+        ],
+        "uitleg": "{ar|نَتَبادَلُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "masdar-afgeleid",
+        "bron": "التَّعاوُنُ مُهِمٌّ في العَمَلِ.",
+        "antwoorden": [
+          "samenwerking is belangrijk op het werk",
+          "samenwerking is belangrijk in het werk",
+          "samenwerken is belangrijk op het werk"
+        ],
+        "uitleg": "Maṣdar تَفاعُل."
+      }
+    ]
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "id": "j3-p11-l124",
+  "code": "L124",
+  "type": "les",
+  "titel": "Dromen en zien",
+  "thema": "Dromen, wensen en zien; dubbel zwakke werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over dromen en wensen vertellen.",
+    "de dubbel zwakke werkwoorden رَأى، أَتى en جاءَ vervoegen.",
+    "de korte majzūm-vormen (لَمْ يَرَ، لَمْ يَأْتِ) herkennen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l124-w01",
+      "ar": "رَأى يَرى",
+      "tr": "raʾā yarā",
+      "nl": [
+        "zien"
+      ],
+      "soort": "werkwoord (hamza + defectief)"
+    },
+    {
+      "id": "j3-p11-l124-w02",
+      "ar": "أَتى يَأْتي",
+      "tr": "atā yaʾtī",
+      "nl": [
+        "komen"
+      ],
+      "soort": "werkwoord (hamza + defectief)"
+    },
+    {
+      "id": "j3-p11-l124-w03",
+      "ar": "جاءَ يَجيءُ",
+      "tr": "jāʾa yajīʾu",
+      "nl": [
+        "komen"
+      ],
+      "soort": "werkwoord (hol + hamza)"
+    },
+    {
+      "id": "j3-p11-l124-w04",
+      "ar": "حَلَمَ بِـ",
+      "tr": "ḥalama bi-",
+      "nl": [
+        "dromen van"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l124-w05",
+      "ar": "كابوسٌ",
+      "tr": "kābūs",
+      "nl": [
+        "nachtmerrie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|كَوابيسُ}."
+    },
+    {
+      "id": "j3-p11-l124-w06",
+      "ar": "رُؤْيا",
+      "tr": "ruʾyā",
+      "nl": [
+        "droom, visioen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l124-w07",
+      "ar": "رُؤْيَةٌ",
+      "tr": "ruʾya",
+      "nl": [
+        "het zien, zicht"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p11-l124-w08",
+      "ar": "تَحَقَّقَ",
+      "tr": "taḥaqqaqa",
+      "nl": [
+        "uitkomen, verwezenlijkt worden"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p11-l124-w10",
+      "ar": "بَصَرٌ",
+      "tr": "baṣar",
+      "nl": [
+        "gezichtsvermogen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l124-w11",
+      "ar": "أَعْمى",
+      "tr": "aʿmā",
+      "nl": [
+        "blind"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Vrouwelijk: {ar|عَمْياءُ}."
+    },
+    {
+      "id": "j3-p11-l124-w12",
+      "ar": "مَشْهَدٌ",
+      "tr": "mašhad",
+      "nl": [
+        "scène, tafereel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l124-w13",
+      "ar": "تَفْسيرُ الأَحْلامِ",
+      "tr": "tafsīru l-aḥlām",
+      "nl": [
+        "droomuitleg"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l124-w14",
+      "ar": "غامِضٌ",
+      "tr": "ġāmiḍ",
+      "nl": [
+        "mysterieus, vaag"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p11-l124-w16",
+      "ar": "يَقْظانُ",
+      "tr": "yaqẓān",
+      "nl": [
+        "wakker"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Dubbel zwakke werkwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Sommige veelgebruikte werkwoorden hebben **twee** zwakke plekken: een hamza én een ي/و. Daardoor verschuiven ze sterk. Leer ze als vaste rijtjes."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "رَأى (zien)",
+            "أَتى (komen)",
+            "جاءَ (komen)"
+          ],
+          "rijen": [
+            [
+              "أَنا (māḍī)",
+              "رَأَيْتُ|raʾaytu",
+              "أَتَيْتُ|ataytu",
+              "جِئْتُ|jiʾtu"
+            ],
+            [
+              "هُوَ (māḍī)",
+              "رَأى|raʾā",
+              "أَتى|atā",
+              "جاءَ|jāʾa"
+            ],
+            [
+              "هُمْ (māḍī)",
+              "رَأَوْا|raʾaw",
+              "أَتَوْا|ataw",
+              "جاؤوا|jāʾū"
+            ],
+            [
+              "أَنا (muḍāriʿ)",
+              "أَرى|arā",
+              "آتي|ātī",
+              "أَجيءُ|ajīʾu"
+            ],
+            [
+              "هُوَ (muḍāriʿ)",
+              "يَرى|yarā",
+              "يَأْتي|yaʾtī",
+              "يَجيءُ|yajīʾu"
+            ],
+            [
+              "هُمْ (muḍāriʿ)",
+              "يَرَوْنَ|yarawna",
+              "يَأْتونَ|yaʾtūna",
+              "يَجيئونَ|yajīʾūna"
+            ],
+            [
+              "لَمْ (majzūm)",
+              "لَمْ يَرَ|lam yara",
+              "لَمْ يَأْتِ|lam yaʾti",
+              "لَمْ يَجِئْ|lam yajiʾ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|يَرى} zonder hamza? In de muḍāriʿ van {ar|رَأى} is de hamza historisch weggevallen: {ar|يَرْأى → يَرى}. Daardoor bestaat de stam nog maar uit één letter + klinker, en in de majzūm blijft er heel weinig over: {ar|لَمْ يَرَ}. Dat korte vormpje is in teksten makkelijk te missen."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|جاءَ} en {ar|أَتى} betekenen allebei *komen*; {ar|جاءَ} is in modern Arabisch gewoner. De gebiedende wijs van beide wordt bijna nooit gebruikt: je zegt {ar|تَعالَ} (kom!)."
+        }
+      ]
+    },
+    {
+      "titel": "Over dromen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "رَأَيْتُ حُلْمًا غَريبًا البارِحَةَ.",
+              "tr": "raʾaytu ḥulman ġarīban al-bāriḥa.",
+              "nl": "Ik had vannacht een vreemde droom."
+            },
+            {
+              "ar": "هَلْ تَرى ذٰلِكَ الضَّوْءَ؟",
+              "tr": "hal tarā ḏālika ḍ-ḍawʾ?",
+              "nl": "Zie je dat licht?"
+            },
+            {
+              "ar": "لَمْ أَرَ مِثْلَهُ في حَياتي.",
+              "tr": "lam ara miṯlahu fī ḥayātī.",
+              "nl": "Ik heb nog nooit zoiets gezien."
+            },
+            {
+              "ar": "جاءَ صَديقي وَلَمْ يَأْتِ أَخوهُ.",
+              "tr": "jāʾa ṣadīqī wa-lam yaʾti aḫūh.",
+              "nl": "Mijn vriend kwam, maar zijn broer niet."
+            },
+            {
+              "ar": "سَأَجيءُ غَدًا إِنْ شاءَ اللّٰهُ.",
+              "tr": "sa-ajīʾu ġadan in šāʾa llāh.",
+              "nl": "Ik kom morgen, als God het wil."
+            },
+            {
+              "ar": "أَتَمَنّى أَنْ تَتَحَقَّقَ أَحْلامُكَ.",
+              "tr": "atamannā an tataḥaqqaqa aḥlāmuk.",
+              "nl": "Ik hoop dat je dromen uitkomen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "كابوسٌ",
+              "nl": "nachtmerrie",
+              "woord": "j3-p11-l124-w05"
+            },
+            {
+              "ar": "أُمْنِيَةٌ",
+              "nl": "wens"
+            },
+            {
+              "ar": "بَصَرٌ",
+              "nl": "gezichtsvermogen",
+              "woord": "j3-p11-l124-w10"
+            },
+            {
+              "ar": "مَشْهَدٌ",
+              "nl": "scène",
+              "woord": "j3-p11-l124-w12"
+            },
+            {
+              "ar": "غامِضٌ",
+              "nl": "mysterieus",
+              "woord": "j3-p11-l124-w14"
+            },
+            {
+              "ar": "يَقْظانُ",
+              "nl": "wakker",
+              "woord": "j3-p11-l124-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "dubbel-zwak",
+          "tekst": "لَمْ أَرَ مِثْلَهُ في حَياتي",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "Ik heb nog nooit zoiets gezien.",
+            "Ik zie het elke dag.",
+            "Ik wil het zien."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ أَرَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "dubbel-zwak",
+          "instructie": "Vervoeg رَأى.",
+          "rijen": [
+            {
+              "label": "ik zag",
+              "antwoord": "رَأَيْتُ",
+              "tr": "raʾaytu"
+            },
+            {
+              "label": "ik zie",
+              "antwoord": "أَرى",
+              "tr": "arā"
+            },
+            {
+              "label": "zij (mv, m) zien",
+              "antwoord": "يَرَوْنَ",
+              "tr": "yarawna"
+            }
+          ],
+          "uitleg": "Hamza valt weg in de muḍāriʿ."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "dubbel-zwak",
+          "instructie": "Vervoeg جاءَ.",
+          "rijen": [
+            {
+              "label": "ik kwam",
+              "antwoord": "جِئْتُ",
+              "tr": "jiʾtu"
+            },
+            {
+              "label": "hij komt",
+              "antwoord": "يَجيءُ",
+              "tr": "yajīʾu"
+            }
+          ],
+          "uitleg": "Hol + hamza."
+        },
+        {
+          "type": "invullen",
+          "tag": "dubbel-zwak",
+          "zin": "لَمْ ___ أَخي إِلى الحَفْلَةِ.",
+          "nl": "Mijn broer kwam niet naar het feest.",
+          "antwoord": [
+            "يَأْتِ"
+          ],
+          "uitleg": "Majzūm: ي valt weg.",
+          "woordbank": [
+            "يَأْتِ",
+            "يَأْتي",
+            "أَتى"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "dubbel-zwak",
+          "vraag": "Wat is {ar|لَمْ يَرَ}?",
+          "opties": [
+            "hij heeft niet gezien",
+            "hij zag niet altijd",
+            "hij zal niet zien"
+          ],
+          "juist": 0,
+          "uitleg": "Majzūm van {ar|يَرى}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "dubbel-zwak",
+          "vraag": "Hoe zeg je 'kom!' tegen een man?",
+          "opties": [
+            "تَعالَ",
+            "جِئْ",
+            "اِئْتِ"
+          ],
+          "juist": 0,
+          "uitleg": "Gangbaar."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "dubbel-zwak",
+          "nl": "Ik had vannacht een vreemde droom.",
+          "woorden": [
+            "رَأَيْتُ",
+            "حُلْمًا",
+            "غَريبًا",
+            "البارِحَةَ."
+          ],
+          "uitleg": "{ar|رَأى حُلْمًا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dubbel-zwak",
+          "bron": "Zie je (m) dat licht?",
+          "antwoorden": [
+            "هَلْ تَرى ذٰلِكَ الضَّوْءَ؟",
+            "هل ترى ذلك الضوء",
+            "هَلْ تَرى ذٰلِكَ الضَّوْءَ"
+          ],
+          "uitleg": "{ar|تَرى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "dubbel-zwak",
+          "bron": "أَتَمَنّى أَنْ تَتَحَقَّقَ أَحْلامُكَ.",
+          "antwoorden": [
+            "ik hoop dat je dromen uitkomen",
+            "ik wens dat je dromen uitkomen"
+          ],
+          "uitleg": "{ar|تَحَقَّقَ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حَلَمَ بِـ",
+            "nl": "dromen van"
+          },
+          {
+            "ar": "رُؤْيا",
+            "nl": "visioen"
+          },
+          {
+            "ar": "أَعْمى",
+            "nl": "blind"
+          },
+          {
+            "ar": "تَفْسيرُ الأَحْلامِ",
+            "nl": "droomuitleg"
+          },
+          {
+            "ar": "البارِحَةَ",
+            "nl": "vannacht"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Wij zien' is ...",
+        "opties": [
+          "نَرى",
+          "نَرْأى",
+          "رَأَيْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Hamza weg."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Zij (mv, m) kwamen' (جاءَ) is ...",
+        "opties": [
+          "جاؤوا",
+          "جِئْنا",
+          "يَجيئونَ"
+        ],
+        "juist": 0,
+        "uitleg": "Māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Ik kom' (أَتى) is ...",
+        "opties": [
+          "آتي",
+          "أَأْتي",
+          "أَتَيْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَ + أْ → آ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "Welke vorm hoort na {ar|لَمْ}?",
+        "opties": [
+          "لَمْ يَجِئْ",
+          "لَمْ يَجيءُ",
+          "لَمْ جاءَ"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm."
+      },
+      {
+        "type": "luisteren",
+        "tag": "dubbel-zwak",
+        "tekst": "سَأَجيءُ غَدًا",
+        "vraag": "Wanneer komt de spreker?",
+        "opties": [
+          "morgen",
+          "vandaag",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَأَجيءُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "dubbel-zwak",
+        "tekst": "رَأَتْ كابوسًا مُخيفًا",
+        "vraag": "Wat had ze?",
+        "opties": [
+          "een enge nachtmerrie",
+          "een mooie droom",
+          "een wens"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كابوسٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "dubbel-zwak",
+        "zin": "هَلْ ___ الفيلْمَ الجَديدَ؟",
+        "nl": "Heb jij (m) de nieuwe film gezien?",
+        "antwoord": [
+          "رَأَيْتَ"
+        ],
+        "uitleg": "Māḍī 2e persoon.",
+        "woordbank": [
+          "رَأَيْتَ",
+          "تَرى",
+          "رَأى"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "dubbel-zwak",
+        "zin": "الأَطْفالُ ___ مِنَ المَدْرَسَةِ الآنَ.",
+        "nl": "De kinderen komen nu uit school.",
+        "antwoord": [
+          "يَأْتونَ"
+        ],
+        "uitleg": "Muḍāriʿ mv.",
+        "woordbank": [
+          "يَأْتونَ",
+          "يَأْتي",
+          "أَتَوْا"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أَتَمَنّى أَنْ ___ أَحْلامُكِ.",
+        "nl": "Ik hoop dat je dromen uitkomen.",
+        "antwoord": [
+          "تَتَحَقَّقَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تَتَحَقَّقَ",
+          "تَتَحَقَّقُ",
+          "تَحَقَّقَتْ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "dubbel-zwak",
+        "instructie": "Vervoeg رَأى in de māḍī.",
+        "rijen": [
+          {
+            "label": "zij (v, ev) zag",
+            "antwoord": "رَأَتْ",
+            "tr": "raʾat"
+          },
+          {
+            "label": "wij zagen",
+            "antwoord": "رَأَيْنا",
+            "tr": "raʾaynā"
+          }
+        ],
+        "uitleg": "Māḍī."
+      },
+      {
+        "type": "ordenen",
+        "tag": "dubbel-zwak",
+        "nl": "Mijn vriend kwam, maar zijn broer niet.",
+        "woorden": [
+          "جاءَ",
+          "صَديقي",
+          "وَلَمْ",
+          "يَأْتِ",
+          "أَخوهُ."
+        ],
+        "uitleg": "Twee werkwoorden voor komen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de nachtmerrie",
+        "antwoorden": [
+          "الكابوسُ",
+          "الكابوس"
+        ],
+        "uitleg": "{ar|الكابوسُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "dubbel-zwak",
+        "bron": "لَمْ أَرَهُ مُنْذُ سَنَةٍ.",
+        "antwoorden": [
+          "ik heb hem al een jaar niet gezien",
+          "ik zie hem al een jaar niet"
+        ],
+        "uitleg": "{ar|لَمْ أَرَ}"
+      }
+    ]
+  }
+}

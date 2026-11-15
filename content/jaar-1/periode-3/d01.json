@@ -1,0 +1,140 @@
+{
+  "id": "j1-p3-d01",
+  "code": "D01",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: begroeten en kennismaken",
+  "thema": "Dezelfde situaties als in les 1–3, nu in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "in het Marokkaans begroeten, vragen hoe het gaat en afscheid nemen.",
+    "mijn naam en afkomst noemen in het Darija.",
+    "de belangrijkste verschillen tussen Fusha en Darija bij begroetingen herkennen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-d01-w01", "ar": "سلام", "tr": "slām", "nl": ["hallo", "gegroet"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija: spelling en uitspraak laten bevestigen." } },
+    { "id": "j1-p3-d01-w02", "ar": "السلام عليكم", "tr": "ssalamu ʿlikum", "nl": ["goedendag (formeel)"], "soort": "uitdrukking", "notitie": "Zelfde groet als in het Fusha, maar zonder naamvalsklinkers uitgesproken.", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } },
+    { "id": "j1-p3-d01-w03", "ar": "لاباس؟", "tr": "labās?", "nl": ["gaat het goed?", "alles goed?"], "soort": "uitdrukking", "notitie": "Letterlijk: geen kwaad? Antwoord: {ar|لاباس} (alles goed).", "review": { "status": "onzeker", "note": "Darija: gebruik als vraag en als antwoord bevestigen." } },
+    { "id": "j1-p3-d01-w04", "ar": "كيداير؟", "tr": "kidāyr?", "nl": ["hoe gaat het? (tegen een man)"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija: spelling (كي داير / كيداير) bevestigen." } },
+    { "id": "j1-p3-d01-w05", "ar": "كيدايرة؟", "tr": "kidāyra?", "nl": ["hoe gaat het? (tegen een vrouw)"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija: spelling bevestigen." } },
+    { "id": "j1-p3-d01-w06", "ar": "بخير", "tr": "bxīr", "nl": ["goed"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } },
+    { "id": "j1-p3-d01-w07", "ar": "الحمد لله", "tr": "lḥamdu lillāh", "nl": ["godzijdank"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija-uitspraak (lḥəmdullah) bevestigen." } },
+    { "id": "j1-p3-d01-w08", "ar": "شنو سميتك؟", "tr": "šnu smiytək?", "nl": ["hoe heet je?"], "soort": "uitdrukking", "notitie": "{ar|شنو} = wat (Fusha: {ar|ما}); {ar|سميتك} = jouw naam.", "review": { "status": "onzeker", "note": "Darija: spelling (سميتك / سميتك) en uitspraak bevestigen; ook vrouwelijke aanspreekvorm." } },
+    { "id": "j1-p3-d01-w09", "ar": "سميتي", "tr": "smiyti", "nl": ["mijn naam is", "ik heet"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d01-w10", "ar": "منين نتا؟", "tr": "mnīn nta?", "nl": ["waar kom je vandaan? (tegen een man)"], "soort": "uitdrukking", "notitie": "Tegen een vrouw: {ar|منين نتي؟} (*mnīn nti?*).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d01-w11", "ar": "أنا من هولندا", "tr": "āna mən hulanda", "nl": ["ik kom uit Nederland"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija: uitspraak van Nederland (هولندا / ولاندا) bevestigen." } },
+    { "id": "j1-p3-d01-w12", "ar": "مرحبا", "tr": "mrəḥba", "nl": ["welkom"], "soort": "uitdrukking", "notitie": "In het Darija vooral *welkom*, minder *hallo*.", "review": { "status": "onzeker", "note": "Darija: betekenis/gebruik bevestigen." } },
+    { "id": "j1-p3-d01-w13", "ar": "بسلامة", "tr": "bslāma", "nl": ["tot ziens", "dag"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d01-w14", "ar": "شكرا بزاف", "tr": "šukran bəzzāf", "nl": ["heel erg bedankt"], "soort": "uitdrukking", "notitie": "{ar|بزاف} = veel.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d01-w15", "ar": "الله يخليك", "tr": "llāh yxəllīk", "nl": ["alsjeblieft", "dank je (vriendelijk)"], "soort": "uitdrukking", "notitie": "Letterlijk: moge God je bewaren.", "review": { "status": "onzeker", "note": "Darija: gebruik als 'alsjeblieft' en als dankwoord bevestigen." } },
+    { "id": "j1-p3-d01-w16", "ar": "واخا", "tr": "waxxa", "nl": ["oké", "goed"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d01-w17", "ar": "إيه", "tr": "īh", "nl": ["ja"], "soort": "partikel", "review": { "status": "onzeker", "note": "Darija: spelling (إيه / آه) bevestigen." } },
+    { "id": "j1-p3-d01-w18", "ar": "تشرفنا", "tr": "tšərrfna", "nl": ["aangenaam"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Fusha en Darija naast elkaar",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Marokkaans Darija komt van het Arabisch, maar is in de loop van eeuwen sterk veranderd: korte klinkers vallen vaak weg, er zijn **geen naamvalsuitgangen**, en veel woorden komen uit het Amazigh (Berbers), Frans en Spaans.",
+          "Darija heeft **geen vaste spelling**. In deze cursus schrijven we Darija in Arabisch schrift zoals het in Marokko vaak gebeurt, meestal zonder harakat, en geven we altijd de transliteratie."
+        ] },
+        { "type": "tabel", "kop": ["Fusha", "Darija", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["مَرْحَبًا|marḥaban", "سلام|slām", "hallo"],
+          ["كَيْفَ حالُكَ؟|kayfa ḥāluka?", "كيداير؟ / لاباس؟|kidāyr? / labās?", "hoe gaat het?"],
+          ["بِخَيْرٍ|bi-ḫayr", "بخير / لاباس|bxīr / labās", "goed"],
+          ["ما اسْمُكَ؟|mā smuka?", "شنو سميتك؟|šnu smiytək?", "hoe heet je?"],
+          ["مِنْ أَيْنَ أَنْتَ؟|min ayna anta?", "منين نتا؟|mnīn nta?", "waar kom je vandaan?"],
+          ["مَعَ السَّلامَةِ|maʿa s-salāma", "بسلامة|bslāma", "tot ziens"],
+          ["نَعَمْ|naʿam", "إيه|īh", "ja"]
+        ] },
+        { "type": "waarom", "md": "Fusha leer je voor lezen, schrijven, nieuws en contact in de hele Arabische wereld; Darija voor het dagelijks leven in Marokko. Door ze naast elkaar te zetten zie je dat veel woorden dezelfde wortel hebben ({ar|بِخَيْرٍ} → {ar|بخير}, {ar|مَعَ السَّلامَةِ} → {ar|بسلامة}). Dat maakt beide makkelijker." },
+        { "type": "letop", "md": "**Audio:** de computerstem spreekt Darija meestal als Standaard Arabisch uit. Vertrouw daarom op de transliteratie, en luister zo veel mogelijk naar echte sprekers." }
+      ]
+    },
+    {
+      "titel": "Een kort gesprek",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "سلام، لاباس؟", "tr": "slām, labās?", "nl": "Hoi, alles goed?", "review": { "status": "onzeker", "note": "Darija-dialoog laten nakijken." } },
+          { "ar": "لاباس، الحمد لله. ونتا؟", "tr": "labās, lḥamdu lillāh. u nta?", "nl": "Goed, godzijdank. En jij?", "review": { "status": "onzeker", "note": "Darija-dialoog laten nakijken." } },
+          { "ar": "شنو سميتك؟ — سميتي يوسف.", "tr": "šnu smiytək? — smiyti yusəf.", "nl": "Hoe heet je? — Ik heet Youssef.", "review": { "status": "onzeker", "note": "Darija-dialoog laten nakijken." } },
+          { "ar": "منين نتا؟ — أنا من هولندا.", "tr": "mnīn nta? — āna mən hulanda.", "nl": "Waar kom je vandaan? — Ik kom uit Nederland.", "review": { "status": "onzeker", "note": "Darija-dialoog laten nakijken." } },
+          { "ar": "تشرفنا. بسلامة!", "tr": "tšərrfna. bslāma!", "nl": "Aangenaam. Tot ziens!", "review": { "status": "onzeker", "note": "Darija-dialoog laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Darija-woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-begroeten", "paren": [
+          { "ar": "سلام", "nl": "hallo", "woord": "j1-p3-d01-w01" },
+          { "ar": "لاباس؟", "nl": "alles goed?", "woord": "j1-p3-d01-w03" },
+          { "ar": "بسلامة", "nl": "tot ziens", "woord": "j1-p3-d01-w13" },
+          { "ar": "واخا", "nl": "oké", "woord": "j1-p3-d01-w16" },
+          { "ar": "إيه", "nl": "ja", "woord": "j1-p3-d01-w17" },
+          { "ar": "بزاف", "nl": "veel" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Wat is het Darija-woord voor {ar|ما} (wat)?", "opties": ["شنو", "فين", "منين"], "juist": 0, "uitleg": "{ar|شنو} (*šnu*)." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Welke Darija-uitdrukking hoort bij {ar|مَعَ السَّلامَةِ}?", "opties": ["بسلامة", "سلام", "مرحبا"], "juist": 0, "uitleg": "Dezelfde wortel: سلامة." },
+        { "type": "luisteren", "tag": "darija-begroeten", "tekst": "كيدايرة؟", "vraag": "Tegen wie wordt dit gezegd?", "opties": ["een vrouw", "een man", "een groep"], "juist": 0, "uitleg": "*kidāyra*, met -a: vrouw. (De computerstem kan dit afwijkend uitspreken.)" }
+      ]
+    },
+    {
+      "titel": "Gesprekjes",
+      "items": [
+        { "type": "invullen", "tag": "darija-begroeten", "zin": "___ سميتك؟", "nl": "Hoe heet je?", "woordbank": ["شنو", "منين", "لاباس"], "antwoord": ["شنو"], "uitleg": "{ar|شنو} = wat." },
+        { "type": "invullen", "tag": "darija-begroeten", "zin": "___ نتا؟", "nl": "Waar kom je vandaan?", "woordbank": ["منين", "شنو", "كيداير"], "antwoord": ["منين"], "uitleg": "{ar|منين} = waarvandaan." },
+        { "type": "ordenen", "tag": "darija-begroeten", "nl": "Goed, godzijdank. En jij?", "woorden": ["لاباس،", "الحمد", "لله.", "ونتا؟"], "uitleg": "Vaste volgorde." },
+        { "type": "vervoegen", "tag": "darija-begroeten", "instructie": "Vul de Darija-vorm in.",
+          "rijen": [
+            { "label": "hoe gaat het? (man)", "antwoord": "كيداير", "tr": "kidāyr" },
+            { "label": "hoe gaat het? (vrouw)", "antwoord": "كيدايرة", "tr": "kidāyra" },
+            { "label": "jij (man)", "antwoord": "نتا", "tr": "nta" },
+            { "label": "jij (vrouw)", "antwoord": "نتي", "tr": "nti" }
+          ], "uitleg": "Ook in Darija onderscheid je man en vrouw." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-begroeten", "bron": "tot ziens (Darija)", "antwoorden": ["بسلامة"], "uitleg": "{ar|بسلامة}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-begroeten", "bron": "ik heet Sara (Darija)", "antwoorden": ["سميتي سارة", "سميتي سارا"], "uitleg": "{ar|سميتي سارة}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-begroeten", "bron": "شكرا بزاف", "tr": "šukran bəzzāf", "antwoorden": ["heel erg bedankt", "erg bedankt", "heel veel dank", "dank je wel", "bedankt"], "uitleg": "{ar|بزاف} = veel." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-begroeten", "bron": "مرحبا بيك", "tr": "mrəḥba bik", "antwoorden": ["welkom", "je bent welkom"], "uitleg": "{ar|بيك} = bij jou/voor jou." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-begroeten", "paren": [
+        { "ar": "بخير", "nl": "goed" },
+        { "ar": "تشرفنا", "nl": "aangenaam" },
+        { "ar": "الله يخليك", "nl": "alsjeblieft" },
+        { "ar": "مرحبا", "nl": "welkom" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Wat is {ar|لاباس؟}?", "opties": ["alles goed?", "hoe heet je?", "tot ziens"], "juist": 0, "uitleg": "*labās?*" },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija voor {ar|مِنْ أَيْنَ أَنْتَ؟} is ...", "opties": ["منين نتا؟", "شنو سميتك؟", "كيداير؟"], "juist": 0, "uitleg": "*mnīn nta?*" },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Welke uitspraak over Darija klopt?", "opties": ["Het heeft geen vaste spelling en geen naamvalsuitgangen.", "Het is gelijk aan Fusha.", "Het wordt alleen geschreven, niet gesproken."], "juist": 0, "uitleg": "Zie de grammatica." },
+      { "type": "luisteren", "tag": "darija-begroeten", "tekst": "بسلامة", "vraag": "Wat hoor je?", "opties": ["tot ziens", "hallo", "dank je"], "juist": 0, "uitleg": "*bslāma*" },
+      { "type": "invullen", "tag": "darija-begroeten", "zin": "شكرا ___.", "nl": "Heel erg bedankt.", "woordbank": ["بزاف", "بخير", "واخا"], "antwoord": ["بزاف"], "uitleg": "{ar|بزاف} = veel." },
+      { "type": "invullen", "tag": "darija-begroeten", "zin": "___، الحمد لله.", "nl": "Goed, godzijdank.", "antwoord": ["لاباس", "بخير"], "uitleg": "{ar|لاباس} of {ar|بخير}." },
+      { "type": "vervoegen", "tag": "darija-begroeten", "instructie": "Vul de Darija-vorm in.",
+        "rijen": [
+          { "label": "waar kom je vandaan? (vrouw)", "antwoord": "منين نتي", "tr": "mnīn nti" },
+          { "label": "mijn naam is", "antwoord": "سميتي", "tr": "smiyti" }
+        ], "uitleg": "{ar|منين نتي} · {ar|سميتي}" },
+      { "type": "ordenen", "tag": "darija-begroeten", "nl": "Hoe heet je? Ik heet Youssef.", "woorden": ["شنو", "سميتك؟", "سميتي", "يوسف."], "uitleg": "Vraag en antwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-begroeten", "bron": "oké (Darija)", "antwoorden": ["واخا"], "uitleg": "{ar|واخا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-begroeten", "bron": "hallo (Darija)", "antwoorden": ["سلام"], "uitleg": "{ar|سلام}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-begroeten", "bron": "أنا من هولندا", "tr": "āna mən hulanda", "antwoorden": ["ik kom uit nederland", "ik ben uit nederland"], "uitleg": "{ar|من} = uit." }
+    ]
+  }
+}

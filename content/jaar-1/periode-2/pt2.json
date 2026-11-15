@@ -1,0 +1,100 @@
+{
+  "id": "j1-p2-pt2",
+  "code": "PT2",
+  "type": "periodetoets",
+  "titel": "Periodetoets 2",
+  "thema": "Alle leerdoelen van periode 2 (les 13 tot en met 24)",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "**Getoetst:** getallen 11–100, كَمْ + enkelvoud, prijzen (L13, L17).",
+    "**Getoetst:** iḍāfa, voorzetsels + genitief, er is, kleuren (L14–L16).",
+    "**Getoetst:** dagen, tijdsbepalingen, de muḍāriʿ in enkelvoud en meervoud, ontkenning met لا (L18–L20).",
+    "**Getoetst:** eten en drinken, bestellen, klokkijken, vraagwoorden en لِأَنَّ (L21–L24).",
+    "Geslaagd vanaf 70%. Maak eerst H06 en herhaal je flashcards."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "luisteren", "tag": "getallen-11-20", "tekst": "خَمْسَةَ عَشَرَ", "vraag": "Welk getal hoor je?", "opties": ["15", "5", "50", "51"], "juist": 0, "uitleg": "15" },
+      { "type": "meerkeuze", "tag": "kam-tamyiz", "vraag": "'Hoeveel studenten?' is ...", "opties": ["كَمْ طالِبًا؟", "كَمْ طُلّابٌ؟", "كَمْ طالِبٌ؟"], "juist": 0, "uitleg": "{ar|كَمْ} + enkelvoud accusatief." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "leeftijd", "bron": "Ik ben vijfentwintig jaar.", "antwoorden": ["عُمْري خَمْسَةٌ وَعِشْرونَ عامًا"], "uitleg": "{ar|عُمْري خَمْسَةٌ وَعِشْرونَ عامًا}" },
+      { "type": "meerkeuze", "tag": "getallen-tot-100", "vraag": "Welk getal is {ar|سَبْعَةٌ وَأَرْبَعونَ}?", "opties": ["47", "74", "17", "407"], "juist": 0, "uitleg": "7 + 40." },
+      { "type": "invullen", "tag": "prijzen", "zin": "___ هٰذا؟", "nl": "Hoeveel kost dit?", "woordbank": ["بِكَمْ", "كَمْ", "أَيْنَ"], "antwoord": ["بِكَمْ"], "uitleg": "{ar|بِكَمْ}" },
+
+      { "type": "meerkeuze", "tag": "idafa", "vraag": "'Het huis van de buren' is ...", "opties": ["بَيْتُ الجيرانِ", "البَيْتُ الجيرانِ", "بَيْتٌ الجيرانُ"], "juist": 0, "uitleg": "Iḍāfa." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "de deur van de keuken", "antwoorden": ["بابُ المَطْبَخِ"], "uitleg": "{ar|بابُ المَطْبَخِ}" },
+      { "type": "invullen", "tag": "voorzetsel-genitief", "zin": "الكِتابُ عَلى ___.", "nl": "Het boek ligt op de plank.", "woordbank": ["الرَّفِّ", "الرَّفُّ", "رَفٌّ"], "antwoord": ["الرَّفِّ"], "uitleg": "Genitief na een voorzetsel." },
+      { "type": "luisteren", "tag": "voorzetsels", "tekst": "القِطَّةُ بَيْنَ الكُرْسِيِّ وَالطّاوِلَةِ", "vraag": "Waar is de kat?", "opties": ["tussen de stoel en de tafel", "onder de stoel", "op de tafel"], "juist": 0, "uitleg": "{ar|بَيْنَ} = tussen." },
+      { "type": "meerkeuze", "tag": "er-is", "vraag": "'Er staat een bed in de kamer' is ...", "opties": ["في الغُرْفَةِ سَريرٌ.", "السَّريرُ في الغُرْفَةِ.", "في الغُرْفَةُ سَريرٌ."], "juist": 0, "uitleg": "Onbepaald onderwerp achteraan." },
+      { "type": "meerkeuze", "tag": "kleuren", "vraag": "'Een witte auto' is ...", "opties": ["سَيّارَةٌ بَيْضاءُ", "سَيّارَةٌ أَبْيَضُ", "سَيّارَةٌ بَيْضاءٌ"], "juist": 0, "uitleg": "Vrouwelijk, zonder tanwīn." },
+      { "type": "vervoegen", "tag": "kleuren", "instructie": "Geef de vrouwelijke vorm.",
+        "rijen": [
+          { "label": "أَزْرَقُ", "antwoord": "زَرْقاءُ", "tr": "zarqāʾ" },
+          { "label": "أَسْوَدُ", "antwoord": "سَوْداءُ", "tr": "sawdāʾ" }
+        ], "uitleg": "فَعْلاءُ" },
+
+      { "type": "meerkeuze", "tag": "dagen", "vraag": "Welke dag is {ar|الأَرْبِعاءُ}?", "opties": ["woensdag", "dinsdag", "donderdag"], "juist": 0, "uitleg": "4: woensdag." },
+      { "type": "invullen", "tag": "tijdsbepaling", "zin": "أَعْمَلُ ___.", "nl": "Ik werk 's avonds.", "woordbank": ["مَساءً", "مَساءٌ", "المَساءُ"], "antwoord": ["مَساءً"], "uitleg": "Tijdsbepaling: accusatief." },
+      { "type": "luisteren", "tag": "dagen", "tekst": "يَوْمَ السَّبْتِ", "vraag": "Wanneer?", "opties": ["op zaterdag", "op zondag", "op vrijdag"], "juist": 0, "uitleg": "{ar|السَّبْت} = zaterdag." },
+      { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vervoeg يَسْكُنُ (wonen).",
+        "rijen": [
+          { "label": "ik", "antwoord": "أَسْكُنُ", "tr": "askunu" },
+          { "label": "jij (v)", "antwoord": "تَسْكُنِينَ", "tr": "taskunīna" },
+          { "label": "hij", "antwoord": "يَسْكُنُ", "tr": "yaskunu" }
+        ], "uitleg": "Stamklinker u." },
+      { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَلْعَبُ (spelen).",
+        "rijen": [
+          { "label": "wij", "antwoord": "نَلْعَبُ", "tr": "nalʿabu" },
+          { "label": "jullie (m)", "antwoord": "تَلْعَبونَ", "tr": "talʿabūna" },
+          { "label": "zij (v mv)", "antwoord": "يَلْعَبْنَ", "tr": "yalʿabna" }
+        ], "uitleg": "ـونَ / ـْنَ" },
+      { "type": "meerkeuze", "tag": "ontkenning-la", "vraag": "'Wij begrijpen het niet' is ...", "opties": ["لا نَفْهَمُ.", "لَسْنا نَفْهَمُ.", "نَفْهَمُ لا."], "juist": 0, "uitleg": "{ar|لا} + werkwoord." },
+      { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "يَذْهَبونَ إِلى المَدْرَسَةِ بِالحافِلَةِ", "vraag": "Wat hoor je?", "opties": ["Zij gaan met de bus naar school.", "Wij gaan met de bus naar school.", "Hij gaat met de trein naar school."], "juist": 0, "uitleg": "يَـ ... ـونَ = zij (m)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-meervoud", "bron": "تَطْبُخْنَ العَشاءَ.", "tr": "taṭbuḫna l-ʿašāʾ.", "antwoorden": ["jullie koken het avondeten", "jullie maken het avondeten"], "uitleg": "أَنْتُنَّ: تَـ ... ـْنَ." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ontkenning-la", "bron": "Hij werkt niet.", "antwoorden": ["لا يَعْمَلُ", "هُوَ لا يَعْمَلُ"], "uitleg": "{ar|لا يَعْمَلُ}" },
+
+      { "type": "meerkeuze", "tag": "accusatief-object", "vraag": "'Ik drink water' is ...", "opties": ["أَشْرَبُ ماءً.", "أَشْرَبُ ماءٌ.", "أَشْرَبُ ماءًا."], "juist": 0, "uitleg": "Accusatief; na hamza geen alif." },
+      { "type": "invullen", "tag": "akala-ahabba", "zin": "___ الخُبْزَ.", "nl": "Ik eet het brood.", "woordbank": ["آكُلُ", "أَأْكُلُ", "يَأْكُلُ"], "antwoord": ["آكُلُ"], "uitleg": "{ar|آكُلُ}" },
+      { "type": "luisteren", "tag": "akala-ahabba", "tekst": "هَلْ تُحِبُّ الدَّجاجَ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Houd je van kip?", "Eet je kip?", "Wil je kip?"], "juist": 0, "uitleg": "{ar|تُحِبُّ} = houd jij van." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "حَليبٌ", "nl": "melk" },
+        { "ar": "لَحْمٌ", "nl": "vlees" },
+        { "ar": "جُبْنٌ", "nl": "kaas" },
+        { "ar": "عَصيرٌ", "nl": "sap" },
+        { "ar": "فُطورٌ", "nl": "ontbijt" }
+      ], "uitleg": "Eten en drinken." },
+      { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Je wilt een ober (man) beleefd aanspreken.", "opties": ["لَوْ سَمَحْتَ!", "تَفَضَّلي!", "مَعَ السَّلامَةِ!"], "juist": 0, "uitleg": "{ar|لَوْ سَمَحْتَ}" },
+      { "type": "invullen", "tag": "an-mudari", "zin": "أُريدُ أَنْ ___ قَهْوَةً.", "nl": "Ik wil koffie drinken.", "woordbank": ["أَشْرَبَ", "أَشْرَبُ", "شَرِبَ"], "antwoord": ["أَشْرَبَ"], "uitleg": "Na {ar|أَنْ}: -a." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "bestellen", "bron": "Ik wil thee, alsjeblieft. (tegen een man)", "antwoorden": ["أُريدُ شايًا، مِنْ فَضْلِكَ", "أُريدُ شايًا مِنْ فَضْلِكَ", "أُريدُ الشّايَ مِنْ فَضْلِكَ"], "uitleg": "{ar|أُريدُ شايًا، مِنْ فَضْلِكَ}" },
+
+      { "type": "luisteren", "tag": "klok", "tekst": "السّاعَةُ الثّامِنَةُ وَالنِّصْفُ", "vraag": "Hoe laat is het?", "opties": ["8:30", "7:30", "8:15", "9:30"], "juist": 0, "uitleg": "Acht en een half." },
+      { "type": "meerkeuze", "tag": "klok", "vraag": "Hoe zeg je 'kwart voor elf'?", "opties": ["الحادِيَةَ عَشْرَةَ إِلّا رُبْعًا", "العاشِرَةُ إِلّا رُبْعًا", "العاشِرَةُ وَالرُّبْعُ"], "juist": 0, "uitleg": "Elf min een kwart." },
+      { "type": "vervoegen", "tag": "klok", "instructie": "Schrijf de tijd.",
+        "rijen": [
+          { "label": "4:15", "antwoord": "الرّابِعَةُ وَالرُّبْعُ", "tr": "ar-rābiʿatu wa-r-rubʿ" },
+          { "label": "7:00", "antwoord": "السّابِعَةُ", "tr": "as-sābiʿa" }
+        ], "uitleg": "{ar|الرّابِعَةُ وَالرُّبْعُ} · {ar|السّابِعَةُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "klok", "bron": "في السّاعَةِ الواحِدَةِ", "tr": "fi s-sāʿati l-wāḥida", "antwoorden": ["om een uur", "om 1 uur", "om één uur", "om 13:00"], "uitleg": "{ar|في} + genitief." },
+
+      { "type": "meerkeuze", "tag": "ma-mada", "vraag": "Welk vraagwoord past vóór {ar|تَشْرَبُ}?", "opties": ["ماذا", "ما", "مَنْ"], "juist": 0, "uitleg": "Vóór een werkwoord: {ar|ماذا}." },
+      { "type": "meerkeuze", "tag": "vraagwoorden", "vraag": "'Waar kom je vandaan?' is ...", "opties": ["مِنْ أَيْنَ أَنْتَ؟", "إِلى أَيْنَ أَنْتَ؟", "أَيْنَ أَنْتَ؟"], "juist": 0, "uitleg": "{ar|مِنْ أَيْنَ}" },
+      { "type": "invullen", "tag": "lianna", "zin": "لا أَذْهَبُ ___ مَريضٌ.", "nl": "Ik ga niet omdat ik ziek ben.", "woordbank": ["لِأَنَّني", "لِماذا", "لِأَنَّها"], "antwoord": ["لِأَنَّني"], "uitleg": "{ar|لِأَنَّني} = omdat ik." },
+      { "type": "ordenen", "tag": "vraagwoorden", "nl": "Waarom studeer je Arabisch?", "woorden": ["لِماذا", "تَدْرُسُ", "العَرَبِيَّةَ؟"], "uitleg": "{ar|لِماذا} vooraan." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "مَتى تَرْجِعِينَ؟", "tr": "matā tarjiʿīn?", "antwoorden": ["wanneer kom je terug", "wanneer kom jij terug"], "uitleg": "{ar|مَتى} + jij (v)." },
+      { "type": "ordenen", "tag": "idafa", "nl": "De tuin van het huis is groot en groen.", "woorden": ["حَديقَةُ", "البَيْتِ", "كَبيرَةٌ", "وَخَضْراءُ."], "uitleg": "Iḍāfa + twee vrouwelijke gezegdes." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "prijzen", "bron": "التَّذْكِرَةُ بِعِشْرينَ يورو.", "tr": "at-taḏkiratu bi-ʿišrīna yūrū.", "antwoorden": ["het kaartje kost twintig euro", "het ticket kost twintig euro", "het kaartje kost 20 euro"], "uitleg": "{ar|بِعِشْرينَ}: genitief na {ar|بِـ}." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "غُرْفَةُ النَّوْمِ", "nl": "slaapkamer" },
+        { "ar": "ثَلّاجَةٌ", "nl": "koelkast" },
+        { "ar": "رَخيصٌ", "nl": "goedkoop" },
+        { "ar": "أُسْبوعٌ", "nl": "week" },
+        { "ar": "حافِلَةٌ", "nl": "bus" },
+        { "ar": "مَطْعَمٌ", "nl": "restaurant" }
+      ], "uitleg": "Woordenschat uit de hele periode." }
+    ]
+  }
+}

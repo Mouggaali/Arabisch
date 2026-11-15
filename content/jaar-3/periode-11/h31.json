@@ -1,0 +1,455 @@
+{
+  "id": "j3-p11-h31",
+  "code": "H31",
+  "type": "herhaling",
+  "titel": "Herhaling blok 11A",
+  "thema": "Woordvorming, voorzetsels, vierletterige en dubbel zwakke werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "woordpatronen voor plaats, werktuig en verkleinwoord herkennen.",
+    "vaste voorzetsels, vierletterige en dubbel zwakke werkwoorden gebruiken.",
+    "Darija-gespreksparticles verstaan."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 121–124 en D25.",
+  "grammatica": [
+    {
+      "titel": "Blok 11A in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "woordvorming",
+              "مَفْعَل plaats · مِفْعال werktuig · فُعَيْل klein",
+              "مَلْعَبٌ · مِفْتاحٌ · نُهَيْرٌ"
+            ],
+            [
+              "vaste voorzetsels",
+              "voorzetsel = deel van de betekenis",
+              "رَغِبَ في / عَنْ"
+            ],
+            [
+              "vierletterig",
+              "vervoegt als vorm II",
+              "تَرْجَمَ يُتَرْجِمُ"
+            ],
+            [
+              "dubbel zwak",
+              "رَأى/يَرى، أَتى/يَأْتي، جاءَ/يَجيءُ",
+              "لَمْ يَرَ · لَمْ يَأْتِ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Dit blok gaat over **woorden herkennen**: hoe patronen betekenis geven, en hoe onregelmatige werkwoorden er in een tekst uitzien. Dat maakt lezen zonder woordenboek mogelijk."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "woordvorming",
+          "vraag": "{ar|مَسْبَحٌ} (van س-ب-ح, zwemmen) is ...",
+          "opties": [
+            "een zwembad",
+            "een zwemmer",
+            "een zwembroek"
+          ],
+          "juist": 0,
+          "uitleg": "Plaats."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vaste-voorzetsels",
+          "vraag": "'Ik ben gewend aan het weer' is ...",
+          "opties": [
+            "اِعْتَدْتُ عَلى الطَّقْسِ",
+            "اِعْتَدْتُ مِنَ الطَّقْسِ",
+            "اِعْتَدْتُ في الطَّقْسِ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِعْتادَ عَلى}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "dubbel-zwak",
+          "vraag": "{ar|لَمْ يَرَ} komt van ...",
+          "opties": [
+            "رَأى",
+            "رَوى",
+            "أَرادَ"
+          ],
+          "juist": 0,
+          "uitleg": "Zien."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مِقَصٌّ",
+              "nl": "schaar",
+              "woord": "j3-p11-l121-w03"
+            },
+            {
+              "ar": "سَخِرَ مِنْ",
+              "nl": "spotten met",
+              "woord": "j3-p11-l122-w07"
+            },
+            {
+              "ar": "قاموسٌ",
+              "nl": "woordenboek",
+              "woord": "j3-p11-l123-w05"
+            },
+            {
+              "ar": "كابوسٌ",
+              "nl": "nachtmerrie",
+              "woord": "j3-p11-l124-w05"
+            },
+            {
+              "ar": "فيسع",
+              "nl": "snel (Darija)",
+              "woord": "j3-p11-d25-w10"
+            },
+            {
+              "ar": "زِلْزالٌ",
+              "nl": "aardbeving",
+              "woord": "j3-p11-l123-w08"
+            }
+          ],
+          "uitleg": "Woorden uit blok 11A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "vierletterig",
+          "zin": "هِيَ ___ مِنَ العَرَبِيَّةِ إِلى الهولَنْدِيَّةِ.",
+          "nl": "Zij vertaalt van het Arabisch naar het Nederlands.",
+          "antwoord": [
+            "تُتَرْجِمُ"
+          ],
+          "uitleg": "Vierletterig.",
+          "woordbank": [
+            "تُتَرْجِمُ",
+            "تَتَرْجَمُ",
+            "تَرْجَمَةٌ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "dubbel-zwak",
+          "zin": "جِئْتُ وَلٰكِنَّهُ لَمْ ___.",
+          "nl": "Ik kwam, maar hij niet.",
+          "antwoord": [
+            "يَجِئْ"
+          ],
+          "uitleg": "Majzūm.",
+          "woordbank": [
+            "يَجِئْ",
+            "يَجيءُ",
+            "جاءَ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "vervoegen",
+          "tag": "woordvorming",
+          "instructie": "Vorm het woord.",
+          "rijen": [
+            {
+              "label": "ن-ش-ر (zagen): werktuig",
+              "antwoord": "مِنْشار",
+              "tr": "minšār"
+            },
+            {
+              "label": "شَجَرَةٌ: verkleinwoord",
+              "antwoord": "شُجَيْرَة",
+              "tr": "šujayra"
+            }
+          ],
+          "uitleg": "Patronen."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-dialoog",
+          "tekst": "ياك لاباس؟",
+          "vraag": "Wat vraagt de spreker?",
+          "opties": [
+            "Alles goed, toch?",
+            "Waar ga je heen?",
+            "Hoe laat is het?"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vaste-voorzetsels",
+          "nl": "Het bedrijf is afhankelijk van export.",
+          "woorden": [
+            "تَعْتَمِدُ",
+            "الشَّرِكَةُ",
+            "عَلى",
+            "التَّصْديرِ."
+          ],
+          "uitleg": "{ar|اِعْتَمَدَ عَلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dubbel-zwak",
+          "bron": "Ik zie",
+          "antwoorden": [
+            "أَرى",
+            "ارى"
+          ],
+          "uitleg": "{ar|أَرى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordvorming",
+          "bron": "يا بُنَيَّ، اِنْتَبِهْ!",
+          "antwoorden": [
+            "jongen, let op",
+            "mijn zoon, pas op",
+            "mijn jongen, let op"
+          ],
+          "uitleg": "{ar|بُنَيَّ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Welk woord is een **plaats**?",
+        "opties": [
+          "مَخْزَنٌ",
+          "مِنْشارٌ",
+          "كُتَيِّبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَفْعَل}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Welk woord is een **verkleinwoord**?",
+        "opties": [
+          "جُبَيْلٌ",
+          "جَبَلٌ",
+          "مِجْبَلٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فُعَيْل}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "{ar|رَغِبَ عَنْ} betekent ...",
+        "opties": [
+          "zich afkeren van",
+          "verlangen naar",
+          "zoeken"
+        ],
+        "juist": 0,
+        "uitleg": "Richting weg."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "'Hij vertaalt' is ...",
+        "opties": [
+          "يُتَرْجِمُ",
+          "يَتَرْجِمُ",
+          "تَرْجَمَ"
+        ],
+        "juist": 0,
+        "uitleg": "yu-."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Zij (mv, m) zien' is ...",
+        "opties": [
+          "يَرَوْنَ",
+          "يَرَيْنَ",
+          "رَأَوْا"
+        ],
+        "juist": 0,
+        "uitleg": "Muḍāriʿ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vaste-voorzetsels",
+        "tekst": "قَضَيْنا أُسْبوعًا في البَحْرِ",
+        "vraag": "Wat deden ze?",
+        "opties": [
+          "Ze brachten een week aan zee door.",
+          "Ze maakten een einde aan de zee.",
+          "Ze zochten de zee."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَضى} + acc."
+      },
+      {
+        "type": "luisteren",
+        "tag": "dubbel-zwak",
+        "tekst": "لَمْ يَأْتِ أَحَدٌ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Er kwam niemand.",
+          "Iedereen kwam.",
+          "Iemand komt morgen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ يَأْتِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "تَعَرَّفْتُ ___ زَميلٍ جَديدٍ.",
+        "nl": "Ik maakte kennis met een nieuwe collega.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|تَعَرَّفَ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "في",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "dubbel-zwak",
+        "zin": "___ صَديقي أَمْسِ.",
+        "nl": "Mijn vriend kwam gisteren.",
+        "antwoord": [
+          "جاءَ"
+        ],
+        "uitleg": "Māḍī 3e persoon.",
+        "woordbank": [
+          "جاءَ",
+          "يَجيءُ",
+          "جِئْتُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordvorming",
+        "zin": "أَيْنَ ___؟ لا أَسْتَطيعُ فَتْحَ البابِ.",
+        "nl": "Waar is de sleutel? Ik kan de deur niet openen.",
+        "antwoord": [
+          "المِفْتاحُ"
+        ],
+        "uitleg": "Werktuig.",
+        "woordbank": [
+          "المِفْتاحُ",
+          "المَفْتَحُ",
+          "الفاتِحُ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَرْسًى",
+            "nl": "haven"
+          },
+          {
+            "ar": "اِسْتَغْنى عَنْ",
+            "nl": "het stellen zonder"
+          },
+          {
+            "ar": "تَرْجَمَةٌ فَوْرِيَّةٌ",
+            "nl": "tolken"
+          },
+          {
+            "ar": "أُمْنِيَةٌ",
+            "nl": "wens"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vierletterig",
+        "nl": "De romans zijn in veel talen vertaald.",
+        "woorden": [
+          "تُرْجِمَتِ",
+          "الرِّواياتُ",
+          "إِلى",
+          "لُغاتٍ",
+          "كَثيرَةٍ."
+        ],
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dubbel-zwak",
+        "bron": "Ik heb hem niet gezien.",
+        "antwoorden": [
+          "لَمْ أَرَهُ",
+          "لم اره",
+          "ما رَأَيْتُهُ"
+        ],
+        "uitleg": "{ar|لَمْ أَرَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vaste-voorzetsels",
+        "bron": "يَهْتَمُّ بِالتّاريخِ.",
+        "antwoorden": [
+          "hij interesseert zich voor geschiedenis",
+          "hij is geïnteresseerd in geschiedenis"
+        ],
+        "uitleg": "{ar|اِهْتَمَّ بِـ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-dialoog",
+        "bron": "غير شوية",
+        "antwoorden": [
+          "maar een beetje",
+          "alleen een beetje",
+          "een klein beetje"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ġīr šwiya"
+      }
+    ]
+  }
+}

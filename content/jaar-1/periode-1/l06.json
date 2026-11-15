@@ -1,0 +1,191 @@
+{
+  "id": "j1-p1-l06",
+  "code": "L06",
+  "type": "les",
+  "titel": "In de klas",
+  "thema": "Voorwerpen in de klas benoemen, met en zonder lidwoord",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "voorwerpen in de klas benoemen.",
+    "het verschil tussen bepaald (ال) en onbepaald (tanwīn) herkennen en toepassen.",
+    "zonneletters en maanletters onderscheiden en het lidwoord correct uitspreken.",
+    "uitleggen waarom de l van ال soms niet hoorbaar is."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l06-w01", "ar": "قَلَمٌ", "tr": "qalam", "nl": ["pen"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w02", "ar": "دَفْتَرٌ", "tr": "daftar", "nl": ["schrift"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w03", "ar": "مَكْتَبٌ", "tr": "maktab", "nl": ["bureau", "kantoor"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w04", "ar": "كُرْسِيٌّ", "tr": "kursī", "nl": ["stoel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w05", "ar": "طاوِلَةٌ", "tr": "ṭāwila", "nl": ["tafel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w06", "ar": "بابٌ", "tr": "bāb", "nl": ["deur"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w07", "ar": "نافِذَةٌ", "tr": "nāfiḏa", "nl": ["raam"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w08", "ar": "سَبّورَةٌ", "tr": "sabbūra", "nl": ["schoolbord"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w09", "ar": "حَقيبَةٌ", "tr": "ḥaqība", "nl": ["tas"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w10", "ar": "وَرَقَةٌ", "tr": "waraqa", "nl": ["blad papier", "blad"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w11", "ar": "مِمْحاةٌ", "tr": "mimḥāh", "nl": ["gum"], "soort": "zelfstandig naamwoord",
+      "notitie": "De ة na een alif spreek je in pausa uit als -āh." },
+    { "id": "j1-p1-l06-w12", "ar": "مِسْطَرَةٌ", "tr": "misṭara", "nl": ["liniaal"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w13", "ar": "حاسوبٌ", "tr": "ḥāsūb", "nl": ["computer"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w14", "ar": "هاتِفٌ", "tr": "hātif", "nl": ["telefoon"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w15", "ar": "ساعَةٌ", "tr": "sāʿa", "nl": ["klok", "horloge", "uur"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w16", "ar": "صورَةٌ", "tr": "ṣūra", "nl": ["foto", "afbeelding"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w17", "ar": "خَريطَةٌ", "tr": "ḫarīṭa", "nl": ["landkaart", "plattegrond"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w18", "ar": "شَمْسٌ", "tr": "šams", "nl": ["zon"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk, ook zonder ة." },
+    { "id": "j1-p1-l06-w19", "ar": "قَمَرٌ", "tr": "qamar", "nl": ["maan"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w20", "ar": "دَرْسٌ", "tr": "dars", "nl": ["les"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w21", "ar": "سُؤالٌ", "tr": "suʾāl", "nl": ["vraag"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w22", "ar": "جَوابٌ", "tr": "jawāb", "nl": ["antwoord"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w23", "ar": "رَجُلٌ", "tr": "rajul", "nl": ["man"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w24", "ar": "وَلَدٌ", "tr": "walad", "nl": ["jongen", "kind"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l06-w25", "ar": "بِنْتٌ", "tr": "bint", "nl": ["meisje", "dochter"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk, ook zonder ة." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Bepaald en onbepaald",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch heeft één lidwoord: {ar|ال} (*al-*), voor *de* en *het*. Het wordt aan het woord vastgeschreven: {ar|قَلَمٌ} → {ar|القَلَمُ} (*de pen*).",
+          "Er is **geen apart woord voor 'een'**. Een onbepaald woord herken je aan de **tanwīn**: de dubbele klinker aan het eind (-un, -an, -in). {ar|قَلَمٌ} is *een pen*.",
+          "Een woord heeft nooit allebei tegelijk: met {ar|ال} verdwijnt de tanwīn en blijft er één klinker over."
+        ] },
+        { "type": "tabel", "kop": ["Onbepaald (een ...)", "Bepaald (de / het ...)", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["قَلَمٌ|qalamun", "القَلَمُ|al-qalamu", "een pen · de pen"],
+          ["بابٌ|bābun", "البابُ|al-bābu", "een deur · de deur"],
+          ["حَقيبَةٌ|ḥaqībatun", "الحَقيبَةُ|al-ḥaqībatu", "een tas · de tas"],
+          ["كُرْسِيٌّ|kursiyyun", "الكُرْسِيُّ|al-kursiyyu", "een stoel · de stoel"]
+        ] },
+        { "type": "waarom", "md": "De tanwīn doet het werk van *een*. Daarom staan {ar|ال} en tanwīn nooit samen op hetzelfde woord: een woord is óf bepaald, óf onbepaald." }
+      ]
+    },
+    {
+      "titel": "Zonneletters en maanletters",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De l van {ar|ال} hoor je niet altijd. Voor 14 letters, de **zonneletters**, smelt de l samen met de volgende letter. Die letter wordt dan dubbel uitgesproken en krijgt een shadda: {ar|الشَّمْسُ} = *aš-šams*, niet *al-šams*.",
+          "Voor de andere 14 letters, de **maanletters**, blijft de l hoorbaar: {ar|القَمَرُ} = *al-qamar*. De namen komen van de voorbeeldwoorden {ar|شَمْس} (zon) en {ar|قَمَر} (maan)."
+        ] },
+        { "type": "tabel", "kop": ["Soort", "Letters", "Voorbeeld"], "arKolommen": [1, 2], "rijen": [
+          ["Zonneletters (l smelt samen)", "ت ث د ذ ر ز س ش ص ض ط ظ ل ن", "الشَّمْسُ، الدَّرْسُ، السَّبّورَةُ|aš-šams, ad-dars, as-sabbūra"],
+          ["Maanletters (l blijft)", "ا ب ج ح خ ع غ ف ق ك م ه و ي", "القَمَرُ، البابُ، الحَقيبَةُ|al-qamar, al-bāb, al-ḥaqība"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "النّافِذَةُ", "tr": "an-nāfiḏa", "nl": "het raam (zonneletter ن)" },
+          { "ar": "الطّاوِلَةُ", "tr": "aṭ-ṭāwila", "nl": "de tafel (zonneletter ط)" },
+          { "ar": "الرَّجُلُ", "tr": "ar-rajul", "nl": "de man (zonneletter ر)" },
+          { "ar": "الصّورَةُ", "tr": "aṣ-ṣūra", "nl": "de foto (zonneletter ص)" },
+          { "ar": "الوَلَدُ", "tr": "al-walad", "nl": "de jongen (maanletter و)" },
+          { "ar": "الجَوابُ", "tr": "al-jawāb", "nl": "het antwoord (maanletter ج)" }
+        ] },
+        { "type": "waarom", "md": "Zonneletters spreek je uit met de tongpunt, op ongeveer dezelfde plek als de l. Het is makkelijker om die twee klanken samen te laten smelten dan om ze apart te zeggen. Bij maanletters (lippen, achter in de mond of keel) zit de tong niet in de weg, dus blijft de l hoorbaar." },
+        { "type": "letop", "md": "Je **schrijft** de l altijd, ook bij een zonneletter. Je ziet het verschil alleen aan de shadda op de volgende letter, en je hoort het in de uitspraak." }
+      ]
+    },
+    {
+      "titel": "De a van al- valt weg na een klinker",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De alif van {ar|ال} is een verbindingsalif, net als bij {ar|اِسْم} in les 2. Na een woord dat op een klinker eindigt, hoor je de *a* niet: {ar|وَالقَلَمُ} = *wa-l-qalam* (*en de pen*), {ar|مِنَ المَغْرِبِ} = *mina l-Maġrib*.",
+          "Je kent dit al uit {ar|صَباحُ الخَيْرِ}: *ṣabāḥu l-ḫayr*, niet *ṣabāḥu al-ḫayr*."
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Voorwerpen in de klas",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "قَلَمٌ", "nl": "pen", "woord": "j1-p1-l06-w01" },
+          { "ar": "كُرْسِيٌّ", "nl": "stoel", "woord": "j1-p1-l06-w04" },
+          { "ar": "بابٌ", "nl": "deur", "woord": "j1-p1-l06-w06" },
+          { "ar": "نافِذَةٌ", "nl": "raam", "woord": "j1-p1-l06-w07" },
+          { "ar": "حَقيبَةٌ", "nl": "tas", "woord": "j1-p1-l06-w09" },
+          { "ar": "دَفْتَرٌ", "nl": "schrift", "woord": "j1-p1-l06-w02" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "السَّبّورَةُ", "vraag": "Wat hoor je?", "opties": ["het schoolbord", "de stoel", "de tas", "de gum"], "juist": 0, "uitleg": "{ar|السَّبّورَةُ} (*as-sabbūra*)." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "مِمْحاةٌ", "vraag": "Wat hoor je?", "opties": ["een gum", "een liniaal", "een pen", "een schrift"], "juist": 0, "uitleg": "{ar|مِمْحاةٌ} = gum." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l06-w13", "vraag": "Wat betekent dit?", "ar": "حاسوبٌ", "tr": "ḥāsūb",
+          "opties": ["computer", "telefoon", "klok", "kaart"], "juist": 0, "uitleg": "{ar|حاسوبٌ} = computer (van een wortel die *rekenen* betekent)." }
+      ]
+    },
+    {
+      "titel": "Een of de?",
+      "items": [
+        { "type": "meerkeuze", "tag": "lidwoord", "vraag": "Hoe zeg je 'de deur'?", "opties": ["البابُ", "بابٌ", "البابٌ"], "juist": 0,
+          "uitleg": "Met {ar|ال} en zonder tanwīn. {ar|البابٌ} kan niet: ال en tanwīn gaan niet samen." },
+        { "type": "meerkeuze", "tag": "lidwoord", "vraag": "Wat betekent {ar|وَرَقَةٌ}?", "opties": ["een blad papier", "het blad papier", "bladeren"], "juist": 0,
+          "uitleg": "Tanwīn (-un) = onbepaald: *een* blad." },
+        { "type": "vervoegen", "tag": "lidwoord", "instructie": "Maak het woord bepaald (met ال). Harakat mag je weglaten.",
+          "rijen": [
+            { "label": "een pen → de pen", "ar": "قَلَمٌ", "antwoord": "القَلَمُ", "tr": "al-qalam" },
+            { "label": "een les → de les", "ar": "دَرْسٌ", "antwoord": "الدَّرْسُ", "tr": "ad-dars" },
+            { "label": "een tafel → de tafel", "ar": "طاوِلَةٌ", "antwoord": "الطّاوِلَةُ", "tr": "aṭ-ṭāwila" },
+            { "label": "een vraag → de vraag", "ar": "سُؤالٌ", "antwoord": "السُّؤالُ", "tr": "as-suʾāl" }
+          ],
+          "uitleg": "Je schrijft altijd ال, ook als je de l niet hoort." },
+        { "type": "invullen", "tag": "lidwoord", "zin": "___ جَديدٌ.", "nl": "Het schrift is nieuw.",
+          "woordbank": ["الدَّفْتَرُ", "دَفْتَرٌ", "الدَّفْتَرٌ"], "antwoord": ["الدَّفْتَرُ"],
+          "uitleg": "Het onderwerp is bepaald ({ar|الدَّفْتَرُ}), het gezegde onbepaald ({ar|جَديدٌ}), zoals in les 4." }
+      ]
+    },
+    {
+      "titel": "Zon of maan?",
+      "items": [
+        { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Hoe spreek je {ar|الشَّمْسُ} uit?", "opties": ["aš-šams", "al-šams", "a-šams"], "juist": 0,
+          "uitleg": "ش is een zonneletter: de l smelt samen, de š wordt dubbel." },
+        { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Bij welk woord blijft de l van ال hoorbaar?", "opties": ["الكُرْسِيُّ", "النّافِذَةُ", "الرَّجُلُ", "الصّورَةُ"], "juist": 0,
+          "uitleg": "ك is een maanletter: *al-kursī*. De andere beginnen met een zonneletter." },
+        { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Welke letter is een zonneletter?", "opties": ["د", "ب", "ق", "م"], "juist": 0,
+          "uitleg": "د: {ar|الدَّرْسُ} = *ad-dars*." },
+        { "type": "luisteren", "tag": "zonneletters", "tekst": "الصّورَةُ", "vraag": "Hoor je de l van het lidwoord?", "opties": ["nee, de l smelt samen (aṣ-ṣūra)", "ja (al-ṣūra)"], "juist": 0,
+          "uitleg": "ص is een zonneletter." },
+        { "type": "ordenen", "tag": "lidwoord", "nl": "De les is nieuw en de vraag is makkelijk.", "woorden": ["الدَّرْسُ", "جَديدٌ", "وَالسُّؤالُ", "سَهْلٌ."],
+          "uitleg": "{ar|سَهْلٌ} = makkelijk. Twee nominale zinnen; {ar|وَالسُّؤالُ} spreek je uit als *wa-s-suʾāl*." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "de maan", "antwoorden": ["القَمَرُ"], "uitleg": "{ar|القَمَرُ} (*al-qamar*)" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "een tas", "antwoorden": ["حَقيبَةٌ"], "uitleg": "Geen ال: {ar|حَقيبَةٌ}." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "De man is groot.", "antwoorden": ["الرَّجُلُ كَبيرٌ"], "uitleg": "{ar|الرَّجُلُ كَبيرٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "البِنْتُ صَغيرَةٌ.", "tr": "al-bintu ṣaġīra.", "antwoorden": ["het meisje is klein", "het meisje is jong"], "uitleg": "Let op: {ar|صَغيرَةٌ} met ة, want {ar|بِنْتٌ} is vrouwelijk." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "هاتِفٌ", "tr": "hātif", "antwoorden": ["een telefoon", "telefoon"], "uitleg": "Tanwīn = *een*." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "الخَريطَةُ قَديمَةٌ.", "tr": "al-ḫarīṭatu qadīma.", "antwoorden": ["de kaart is oud", "de landkaart is oud", "de plattegrond is oud"], "uitleg": "{ar|الخَريطَةُ} = de kaart." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مِسْطَرَةٌ", "nl": "liniaal" },
+        { "ar": "ساعَةٌ", "nl": "klok" },
+        { "ar": "صورَةٌ", "nl": "foto" },
+        { "ar": "جَوابٌ", "nl": "antwoord" },
+        { "ar": "وَلَدٌ", "nl": "jongen" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "lidwoord", "vraag": "Welke vorm is juist voor 'de stoel'?", "opties": ["الكُرْسِيُّ", "كُرْسِيٌّ", "الكُرْسِيٌّ"], "juist": 0, "uitleg": "ال + één klinker, geen tanwīn." },
+      { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Hoe spreek je {ar|النّافِذَةُ} uit?", "opties": ["an-nāfiḏa", "al-nāfiḏa", "a-nāfiḏa"], "juist": 0, "uitleg": "ن is een zonneletter." },
+      { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Welke letter is een maanletter?", "opties": ["ب", "ت", "س", "ر"], "juist": 0, "uitleg": "ب: {ar|البابُ} = *al-bāb*." },
+      { "type": "meerkeuze", "tag": "lidwoord", "vraag": "Waarom heeft {ar|القَلَمُ} geen tanwīn?", "opties": ["Een woord met ال is bepaald en krijgt geen tanwīn.", "Omdat ق een maanletter is.", "Omdat het mannelijk is."], "juist": 0, "uitleg": "ال en tanwīn sluiten elkaar uit." },
+      { "type": "luisteren", "tag": "zonneletters", "tekst": "الدَّرْسُ", "vraag": "Wat hoor je?", "opties": ["ad-dars, de les", "al-dars, de les", "dars, een les"], "juist": 0, "uitleg": "د is een zonneletter." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "الحاسوبُ", "vraag": "Wat hoor je?", "opties": ["de computer", "de telefoon", "de klok"], "juist": 0, "uitleg": "{ar|الحاسوبُ} (*al-ḥāsūb*)." },
+      { "type": "invullen", "tag": "lidwoord", "zin": "___ مَريضٌ.", "nl": "De man is ziek.", "woordbank": ["الرَّجُلُ", "رَجُلٌ", "الرَّجُلٌ"], "antwoord": ["الرَّجُلُ"], "uitleg": "Bepaald onderwerp: {ar|الرَّجُلُ}." },
+      { "type": "vervoegen", "tag": "lidwoord", "instructie": "Maak het woord bepaald (met ال).",
+        "rijen": [
+          { "label": "een zon → de zon", "ar": "شَمْسٌ", "antwoord": "الشَّمْسُ", "tr": "aš-šams" },
+          { "label": "een jongen → de jongen", "ar": "وَلَدٌ", "antwoord": "الوَلَدُ", "tr": "al-walad" }
+        ], "uitleg": "Schrijf altijd ال." },
+      { "type": "ordenen", "tag": "lidwoord", "nl": "De deur is groot en het raam is klein.", "woorden": ["البابُ", "كَبيرٌ", "وَالنّافِذَةُ", "صَغيرَةٌ."], "uitleg": "{ar|نافِذَةٌ} is vrouwelijk: {ar|صَغيرَةٌ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "de zon", "antwoorden": ["الشَّمْسُ"], "uitleg": "{ar|الشَّمْسُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "een stoel", "antwoorden": ["كُرْسِيٌّ"], "uitleg": "{ar|كُرْسِيٌّ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "الدَّفْتَرُ جَديدٌ.", "tr": "ad-daftaru jadīd.", "antwoorden": ["het schrift is nieuw"], "uitleg": "Nominale zin." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "سُؤالٌ", "tr": "suʾāl", "antwoorden": ["een vraag", "vraag"], "uitleg": "Tanwīn = *een*." }
+    ]
+  }
+}

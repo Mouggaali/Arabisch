@@ -1,0 +1,604 @@
+{
+  "id": "j3-p12-l141",
+  "code": "L141",
+  "type": "les",
+  "titel": "Examentraining: lezen",
+  "thema": "Het leesexamen B1: een advertentie en een artikel",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "examenopdrachten bij het lezen herkennen (meerkeuze, juist/onjuist, titel, synoniem).",
+    "antwoorden vinden die met andere woorden in de tekst staan.",
+    "een korte advertentie en een artikel onder examentijd lezen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l141-w01",
+      "ar": "حَسَبَ النَّصِّ",
+      "tr": "ḥasaba n-naṣṣ",
+      "nl": [
+        "volgens de tekst"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w02",
+      "ar": "صَحيحٌ أَمْ خَطَأٌ",
+      "tr": "ṣaḥīḥun am ḫaṭaʾ",
+      "nl": [
+        "juist of onjuist"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w03",
+      "ar": "اِخْتَرِ الجَوابَ الصَّحيحَ",
+      "tr": "iḫtari l-jawāba ṣ-ṣaḥīḥ",
+      "nl": [
+        "kies het juiste antwoord"
+      ],
+      "soort": "examenopdracht"
+    },
+    {
+      "id": "j3-p12-l141-w04",
+      "ar": "عُنْوانٌ مُناسِبٌ",
+      "tr": "ʿunwānun munāsib",
+      "nl": [
+        "een passende titel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w05",
+      "ar": "المَقْصودُ بِـ",
+      "tr": "al-maqṣūdu bi-",
+      "nl": [
+        "wat wordt bedoeld met"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w06",
+      "ar": "يُفْهَمُ مِنَ النَّصِّ",
+      "tr": "yufhamu mina n-naṣṣ",
+      "nl": [
+        "uit de tekst blijkt"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w07",
+      "ar": "وَرَدَ في",
+      "tr": "warada fī",
+      "nl": [
+        "staan in, voorkomen in"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p12-l141-w08",
+      "ar": "مُرادِفٌ",
+      "tr": "murādif",
+      "nl": [
+        "synoniem"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l141-w09",
+      "ar": "ضِدٌّ",
+      "tr": "ḍidd",
+      "nl": [
+        "tegenovergestelde; tegen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l141-w10",
+      "ar": "مُدَّةُ الاِمْتِحانِ",
+      "tr": "muddatu l-imtiḥān",
+      "nl": [
+        "duur van het examen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w12",
+      "ar": "مُغْرٍ",
+      "tr": "muġrin",
+      "nl": [
+        "aantrekkelijk, verleidelijk"
+      ],
+      "soort": "deelwoord (IV)",
+      "notitie": "Accusatief: {ar|مُغْرِيًا}."
+    },
+    {
+      "id": "j3-p12-l141-w13",
+      "ar": "عَلى الأَقَلِّ",
+      "tr": "ʿala l-aqall",
+      "nl": [
+        "minstens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w14",
+      "ar": "وَرَقِيٌّ",
+      "tr": "waraqiyy",
+      "nl": [
+        "papieren"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p12-l141-w15",
+      "ar": "في المُتَوَسِّطِ",
+      "tr": "fi l-mutawassiṭ",
+      "nl": [
+        "gemiddeld"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l141-w16",
+      "ar": "كَشَفَ",
+      "tr": "kašafa",
+      "nl": [
+        "onthullen, aan het licht brengen"
+      ],
+      "soort": "werkwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het leesexamen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vraagtype",
+            "Instructie",
+            "Tip"
+          ],
+          "rijen": [
+            [
+              "meerkeuze",
+              "اِخْتَرِ الجَوابَ الصَّحيحَ",
+              "lees eerst de vragen, zoek dan in de tekst"
+            ],
+            [
+              "juist/onjuist",
+              "صَحيحٌ أَمْ خَطَأٌ؟",
+              "let op ontkenningen en woorden als كُلّ، بَعْض، فَقَطْ"
+            ],
+            [
+              "titel kiezen",
+              "اِخْتَرْ عُنْوانًا مُناسِبًا",
+              "de titel past bij de héle tekst, niet bij één detail"
+            ],
+            [
+              "woordbetekenis",
+              "ما المَقْصودُ بِـ …؟ / ما مُرادِفُ …؟",
+              "gebruik wortel, patroon en de zin eromheen"
+            ],
+            [
+              "conclusie",
+              "ماذا يُفْهَمُ مِنَ النَّصِّ؟",
+              "het antwoord staat er vaak niet letterlijk"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij een B1-examen staat het antwoord zelden **woordelijk** in de tekst. De vraagmakers gebruiken synoniemen: in de tekst {ar|إِتْقانٌ}, in de vraag {ar|يُجيدُ}. Zoek dus naar de **betekenis**, niet naar hetzelfde woord."
+        },
+        {
+          "type": "letop",
+          "md": "De teksten in deze les zijn oefenteksten; de advertentie en het onderzoek zijn verzonnen."
+        }
+      ]
+    },
+    {
+      "titel": "Instructies herkennen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِقْرَإِ النَّصَّ التّالِيَ ثُمَّ أَجِبْ عَنِ الأَسْئِلَةِ.",
+              "tr": "iqraʾi n-naṣṣa t-tāliya ṯumma ajib ʿani l-asʾila.",
+              "nl": "Lees de volgende tekst en beantwoord de vragen."
+            },
+            {
+              "ar": "حَسَبَ النَّصِّ، ما الشُّروطُ المَطْلوبَةُ؟",
+              "tr": "ḥasaba n-naṣṣ, ma š-šurūṭu l-maṭlūba?",
+              "nl": "Wat zijn volgens de tekst de vereisten?"
+            },
+            {
+              "ar": "هَلِ العِبارَةُ صَحيحَةٌ أَمْ خَطَأٌ؟",
+              "tr": "hali l-ʿibāratu ṣaḥīḥatun am ḫaṭaʾ?",
+              "nl": "Is de bewering juist of onjuist?"
+            },
+            {
+              "ar": "ما ضِدُّ كَلِمَةِ «إيجابِيَّةٌ» في النَّصِّ؟",
+              "tr": "mā ḍiddu kalimati «ījābiyya» fi n-naṣṣ?",
+              "nl": "Wat is het tegenovergestelde van het woord 'positief' in de tekst?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "examen",
+          "paren": [
+            {
+              "ar": "حَسَبَ النَّصِّ",
+              "nl": "volgens de tekst",
+              "woord": "j3-p12-l141-w01"
+            },
+            {
+              "ar": "مُرادِفٌ",
+              "nl": "synoniem",
+              "woord": "j3-p12-l141-w08"
+            },
+            {
+              "ar": "ضِدٌّ",
+              "nl": "tegenovergestelde",
+              "woord": "j3-p12-l141-w09"
+            },
+            {
+              "ar": "مَطْلوبٌ",
+              "nl": "gevraagd"
+            },
+            {
+              "ar": "عَلى الأَقَلِّ",
+              "nl": "minstens",
+              "woord": "j3-p12-l141-w13"
+            },
+            {
+              "ar": "في المُتَوَسِّطِ",
+              "nl": "gemiddeld",
+              "woord": "j3-p12-l141-w15"
+            }
+          ],
+          "uitleg": "Examenwoorden."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "{ar|صَحيحٌ أَمْ خَطَأٌ؟} vraagt ...",
+          "opties": [
+            "of een bewering juist of onjuist is",
+            "een synoniem",
+            "een titel"
+          ],
+          "juist": 0,
+          "uitleg": "Vraagtype."
+        }
+      ]
+    },
+    {
+      "titel": "Oefenexamen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "ne-lezen",
+          "vraag": "Lees de advertentie. Hoeveel jaar ervaring is vereist?",
+          "ar": "مطلوب موظف أو موظفة استقبال لفندق في مراكش. الشروط: إتقان العربية والفرنسية والإنجليزية، وخبرة سنتين على الأقل، والقدرة على العمل في نهاية الأسبوع. نقدم: راتبا مغريا، وتأمينا صحيا، ووجبة يومية مجانية. ترسل الطلبات مع السيرة الذاتية إلى البريد الإلكتروني للفندق قبل نهاية الشهر.",
+          "opties": [
+            "minstens twee jaar",
+            "geen ervaring",
+            "vijf jaar"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|خبرة سنتين على الأقل}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ne-lezen",
+          "vraag": "Dezelfde advertentie. Juist of onjuist: de werknemer hoeft niet in het weekend te werken.",
+          "ar": "مطلوب موظف أو موظفة استقبال لفندق في مراكش. الشروط: إتقان العربية والفرنسية والإنجليزية، وخبرة سنتين على الأقل، والقدرة على العمل في نهاية الأسبوع. نقدم: راتبا مغريا، وتأمينا صحيا، ووجبة يومية مجانية. ترسل الطلبات مع السيرة الذاتية إلى البريد الإلكتروني للفندق قبل نهاية الشهر.",
+          "opties": [
+            "onjuist",
+            "juist",
+            "staat niet in de tekst"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|القدرة على العمل في نهاية الأسبوع}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ne-lezen",
+          "vraag": "Lees het artikel. Hoe lezen Arabische jongeren volgens de studie het liefst?",
+          "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+          "opties": [
+            "op de telefoon",
+            "in papieren boeken",
+            "in de bibliotheek"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يفضلون القراءة على الهاتف}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ne-lezen",
+          "vraag": "Hetzelfde artikel. Waarvoor waarschuwen de onderzoekers?",
+          "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+          "opties": [
+            "Snel lezen op een scherm helpt de concentratie niet.",
+            "Jongeren lezen te weinig.",
+            "Telefoons zijn duur."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لا تساعد على التركيز}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ne-lezen",
+          "vraag": "Hetzelfde artikel. Kies een passende titel.",
+          "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+          "opties": [
+            "Jongeren lezen, maar op het scherm",
+            "De bibliotheek gaat dicht",
+            "Telefoons verboden op school"
+          ],
+          "juist": 0,
+          "uitleg": "Titel past bij de hele tekst."
+        }
+      ]
+    },
+    {
+      "titel": "Woordbetekenis",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "examen",
+          "vraag": "Wat is in het artikel een synoniem van {ar|حَسَبَ}?",
+          "opties": [
+            "وَفْقًا لِـ",
+            "بِسَبَبِ",
+            "رَغْمَ"
+          ],
+          "juist": 0,
+          "uitleg": "Volgens."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "examen",
+          "bron": "اِقْرَإِ النَّصَّ التّالِيَ ثُمَّ أَجِبْ عَنِ الأَسْئِلَةِ.",
+          "antwoorden": [
+            "lees de volgende tekst en beantwoord de vragen",
+            "lees de tekst hieronder en beantwoord dan de vragen"
+          ],
+          "uitleg": "Instructie."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "examen",
+          "bron": "kies het juiste antwoord",
+          "antwoorden": [
+            "اِخْتَرِ الجَوابَ الصَّحيحَ",
+            "اختر الجواب الصحيح",
+            "اِخْتَرِ الإِجابَةَ الصَّحيحَةَ"
+          ],
+          "uitleg": "Instructie."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "examen",
+        "paren": [
+          {
+            "ar": "المَقْصودُ بِـ",
+            "nl": "wat bedoeld wordt met"
+          },
+          {
+            "ar": "وَرَدَ في",
+            "nl": "staan in"
+          },
+          {
+            "ar": "مُدَّةُ الاِمْتِحانِ",
+            "nl": "examenduur"
+          },
+          {
+            "ar": "كَشَفَ",
+            "nl": "onthullen"
+          },
+          {
+            "ar": "عُنْوانٌ مُناسِبٌ",
+            "nl": "passende titel"
+          }
+        ],
+        "uitleg": "Examenwoorden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de advertentie. Welke talen moet de kandidaat beheersen?",
+        "ar": "مطلوب موظف أو موظفة استقبال لفندق في مراكش. الشروط: إتقان العربية والفرنسية والإنجليزية، وخبرة سنتين على الأقل، والقدرة على العمل في نهاية الأسبوع. نقدم: راتبا مغريا، وتأمينا صحيا، ووجبة يومية مجانية. ترسل الطلبات مع السيرة الذاتية إلى البريد الإلكتروني للفندق قبل نهاية الشهر.",
+        "opties": [
+          "Arabisch, Frans en Engels",
+          "alleen Arabisch",
+          "Arabisch en Spaans"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إتقان العربية والفرنسية والإنجليزية}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde advertentie. Wat biedt het hotel **niet** aan?",
+        "ar": "مطلوب موظف أو موظفة استقبال لفندق في مراكش. الشروط: إتقان العربية والفرنسية والإنجليزية، وخبرة سنتين على الأقل، والقدرة على العمل في نهاية الأسبوع. نقدم: راتبا مغريا، وتأمينا صحيا، ووجبة يومية مجانية. ترسل الطلبات مع السيرة الذاتية إلى البريد الإلكتروني للفندق قبل نهاية الشهر.",
+        "opties": [
+          "een woning",
+          "een ziektekostenverzekering",
+          "een gratis maaltijd"
+        ],
+        "juist": 0,
+        "uitleg": "Wonen wordt niet genoemd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde advertentie. Wat moet je met de sollicitatie meesturen?",
+        "ar": "مطلوب موظف أو موظفة استقبال لفندق في مراكش. الشروط: إتقان العربية والفرنسية والإنجليزية، وخبرة سنتين على الأقل، والقدرة على العمل في نهاية الأسبوع. نقدم: راتبا مغريا، وتأمينا صحيا، ووجبة يومية مجانية. ترسل الطلبات مع السيرة الذاتية إلى البريد الإلكتروني للفندق قبل نهاية الشهر.",
+        "opties": [
+          "je cv",
+          "een foto",
+          "een diploma"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مع السيرة الذاتية}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees het artikel. Hoeveel tijd lezen jongeren gemiddeld per dag online?",
+        "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+        "opties": [
+          "een uur",
+          "tien minuten",
+          "drie uur"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ساعة يوميا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde artikel. Wat raden de onderzoekers scholen aan?",
+        "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+        "opties": [
+          "leerlingen elke maand een heel boek laten lezen",
+          "telefoons verbieden",
+          "meer computers kopen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قراءة كتاب كامل كل شهر}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde artikel. Wat blijkt uit de tekst over de leesgewoonte zelf?",
+        "ar": "كشفت دراسة حديثة أن الشباب العرب يقرؤون أكثر مما كان يعتقد، لكنهم يفضلون القراءة على الهاتف بدلا من الكتب الورقية. وحسب الدراسة، يقضي الشاب في المتوسط ساعة يوميا في قراءة المقالات والقصص القصيرة على الإنترنت. ويرى الباحثون أن هذه العادة إيجابية، إلا أنهم يحذرون من أن القراءة السريعة على الشاشة لا تساعد على التركيز. لذلك ينصحون المدارس بتشجيع التلاميذ على قراءة كتاب كامل كل شهر.",
+        "opties": [
+          "De onderzoekers vinden haar positief.",
+          "De onderzoekers vinden haar gevaarlijk.",
+          "De onderzoekers zijn neutraal."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|هذه العادة إيجابية}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Waarom staat het antwoord vaak niet woordelijk in de tekst?",
+        "opties": [
+          "vragen gebruiken synoniemen",
+          "de tekst is onvolledig",
+          "het is een strikvraag"
+        ],
+        "juist": 0,
+        "uitleg": "Synoniemen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "examen",
+        "vraag": "Een titel moet passen bij ...",
+        "opties": [
+          "de hele tekst",
+          "de eerste zin",
+          "het moeilijkste woord"
+        ],
+        "juist": 0,
+        "uitleg": "Hele tekst."
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "ما ___ كَلِمَةِ «سَريعٌ»؟",
+        "nl": "Wat is het tegenovergestelde van het woord 'snel'?",
+        "antwoord": [
+          "ضِدُّ"
+        ],
+        "uitleg": "{ar|ضِدٌّ}",
+        "woordbank": [
+          "ضِدُّ",
+          "مُرادِفُ",
+          "عُنْوانُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "examen",
+        "zin": "___ النَّصِّ، يَقْرَأُ الشَّبابُ كَثيرًا.",
+        "nl": "Volgens de tekst lezen jongeren veel.",
+        "antwoord": [
+          "حَسَبَ"
+        ],
+        "uitleg": "{ar|حَسَبَ النَّصِّ}",
+        "woordbank": [
+          "حَسَبَ",
+          "رَغْمَ",
+          "بِشَرْطِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "نُقَدِّمُ راتِبًا ___.",
+        "nl": "Wij bieden een aantrekkelijk salaris.",
+        "antwoord": [
+          "مُغْرِيًا"
+        ],
+        "uitleg": "{ar|مُغْرٍ}",
+        "woordbank": [
+          "مُغْرِيًا",
+          "مَطْلوبًا",
+          "وَرَقِيًّا"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "examen",
+        "nl": "Lees de volgende tekst en beantwoord de vragen.",
+        "woorden": [
+          "اِقْرَإِ",
+          "النَّصَّ",
+          "التّالِيَ",
+          "ثُمَّ",
+          "أَجِبْ",
+          "عَنِ",
+          "الأَسْئِلَةِ."
+        ],
+        "uitleg": "Instructie."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-lezen",
+        "bron": "يقضي الشاب في المتوسط ساعة يوميا في القراءة.",
+        "antwoorden": [
+          "een jongere besteedt gemiddeld een uur per dag aan lezen",
+          "jongeren lezen gemiddeld een uur per dag"
+        ],
+        "uitleg": "Zonder harakat."
+      }
+    ]
+  }
+}

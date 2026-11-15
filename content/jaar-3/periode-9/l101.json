@@ -1,0 +1,630 @@
+{
+  "id": "j3-p9-l101",
+  "code": "L101",
+  "type": "les",
+  "titel": "Herinneringen",
+  "thema": "Jeugdherinneringen; bijzinnen van tijd",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bijzinnen van tijd maken met عِنْدَما، لَمّا، حينَ، كُلَّما، بَيْنَما، بَعْدَما، مُنْذُ أَنْ.",
+    "ما إِنْ … حَتّى (nauwelijks … of) gebruiken.",
+    "herinneringen vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l101-w01",
+      "ar": "لَمّا",
+      "tr": "lammā",
+      "nl": [
+        "toen (+ māḍī)"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l101-w02",
+      "ar": "حينَ",
+      "tr": "ḥīna",
+      "nl": [
+        "toen, wanneer"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l101-w03",
+      "ar": "كُلَّما",
+      "tr": "kullamā",
+      "nl": [
+        "telkens wanneer"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ māḍī in beide delen."
+    },
+    {
+      "id": "j3-p9-l101-w04",
+      "ar": "بَعْدَما",
+      "tr": "baʿdamā",
+      "nl": [
+        "nadat"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l101-w05",
+      "ar": "مُنْذُ أَنْ",
+      "tr": "munḏu an",
+      "nl": [
+        "sinds"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l101-w06",
+      "ar": "ما إِنْ … حَتّى",
+      "tr": "mā in … ḥattā",
+      "nl": [
+        "nauwelijks … of"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p9-l101-w07",
+      "ar": "طَوالَ",
+      "tr": "ṭawāla",
+      "nl": [
+        "gedurende, de hele …"
+      ],
+      "soort": "voorzetsel",
+      "notitie": "{ar|طَوالَ حَياتي} = mijn hele leven."
+    },
+    {
+      "id": "j3-p9-l101-w09",
+      "ar": "طِفْلًا",
+      "tr": "ṭiflan",
+      "nl": [
+        "als kind"
+      ],
+      "soort": "bijwoord (ḥāl)"
+    },
+    {
+      "id": "j3-p9-l101-w10",
+      "ar": "مُراهِقٌ",
+      "tr": "murāhiq",
+      "nl": [
+        "tiener"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l101-w12",
+      "ar": "مَرْحَلَةُ الدِّراسَةِ",
+      "tr": "marḥalatu d-dirāsa",
+      "nl": [
+        "studietijd"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l101-w13",
+      "ar": "حَنَّ إِلى",
+      "tr": "ḥanna ilā",
+      "nl": [
+        "verlangen naar"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p9-l101-w14",
+      "ar": "عَطْلَةٌ صَيْفِيَّةٌ",
+      "tr": "ʿaṭlatun ṣayfiyya",
+      "nl": [
+        "zomervakantie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l101-w15",
+      "ar": "بَيْتُ جَدّي",
+      "tr": "baytu jaddī",
+      "nl": [
+        "het huis van mijn opa"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l101-w16",
+      "ar": "رائِحَةٌ",
+      "tr": "rāʾiḥa",
+      "nl": [
+        "geur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l101-w17",
+      "ar": "لُعْبَةُ الطُّفولَةِ",
+      "tr": "luʿbatu ṭ-ṭufūla",
+      "nl": [
+        "kinderspel"
+      ],
+      "soort": "iḍāfa"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Bijzinnen van tijd",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Voegwoord",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "عِنْدَما / حينَ",
+              "toen, wanneer",
+              "عِنْدَما كُنْتُ طِفْلًا، …"
+            ],
+            [
+              "لَمّا (+ māḍī)",
+              "toen (eenmalig)",
+              "لَمّا وَصَلْتُ، …"
+            ],
+            [
+              "كُلَّما … (+ māḍī)",
+              "telkens wanneer",
+              "كُلَّما زُرْتُها فَرِحَتْ"
+            ],
+            [
+              "بَيْنَما",
+              "terwijl",
+              "بَيْنَما كُنْتُ أَقْرَأُ، …"
+            ],
+            [
+              "بَعْدَما / بَعْدَ أَنْ",
+              "nadat",
+              "بَعْدَما أَكَلْنا، …"
+            ],
+            [
+              "مُنْذُ أَنْ",
+              "sinds",
+              "مُنْذُ أَنْ وَصَلْتُ، …"
+            ],
+            [
+              "ما إِنْ … حَتّى",
+              "nauwelijks … of",
+              "ما إِنْ وَصَلْتُ حَتّى بَدَأَ المَطَرُ"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom de māḍī na {ar|كُلَّما} en {ar|لَمّا}, ook bij gewoonten? Net als na {ar|إِذا} stel je je de handeling voor als **afgerond** op het moment dat het gevolg intreedt: *telkens als ik haar bezocht had, was ze blij*. Het gevolg krijgt ook de māḍī."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|لَمّا} + **māḍī** = *toen*. {ar|لَمّا} + **majzūm** = *nog niet* ({ar|لَمّا يَصِلْ} = hij is nog niet aangekomen). De vorm van het werkwoord beslist."
+        }
+      ]
+    },
+    {
+      "titel": "Herinneringen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عِنْدَما كُنْتُ طِفْلًا، كُنْتُ أَقْضي العُطْلَةَ في بَيْتِ جَدّي.",
+              "tr": "ʿindamā kuntu ṭiflan, kuntu aqḍi l-ʿuṭlata fī bayti jaddī.",
+              "nl": "Toen ik een kind was, bracht ik de vakantie door in het huis van mijn opa."
+            },
+            {
+              "ar": "كُلَّما شَمَمْتُ رائِحَةَ النَّعْناعِ، تَذَكَّرْتُ جَدَّتي.",
+              "tr": "kullamā šamamtu rāʾiḥata n-naʿnāʿ, taḏakkartu jaddatī.",
+              "nl": "Telkens als ik de geur van munt ruik, denk ik aan mijn oma."
+            },
+            {
+              "ar": "لَمّا كَبِرْتُ، اِنْتَقَلْنا إِلى المَدينَةِ.",
+              "tr": "lammā kabirtu, intaqalnā ila l-madīna.",
+              "nl": "Toen ik ouder werd, verhuisden we naar de stad."
+            },
+            {
+              "ar": "ما إِنْ وَصَلْنا حَتّى بَدَأَ المَطَرُ.",
+              "tr": "mā in waṣalnā ḥattā badaʾa l-maṭar.",
+              "nl": "We waren nauwelijks aangekomen of het begon te regenen."
+            },
+            {
+              "ar": "مُنْذُ أَنْ تَرَكْتُ القَرْيَةَ، أَحِنُّ إِلَيْها.",
+              "tr": "munḏu an taraktu l-qaryata, aḥinnu ilayhā.",
+              "nl": "Sinds ik het dorp verliet, verlang ik ernaar terug."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "tijdsvoegwoorden",
+          "paren": [
+            {
+              "ar": "لَمّا",
+              "nl": "toen",
+              "woord": "j3-p9-l101-w01"
+            },
+            {
+              "ar": "كُلَّما",
+              "nl": "telkens wanneer",
+              "woord": "j3-p9-l101-w03"
+            },
+            {
+              "ar": "بَعْدَما",
+              "nl": "nadat",
+              "woord": "j3-p9-l101-w04"
+            },
+            {
+              "ar": "مُنْذُ أَنْ",
+              "nl": "sinds",
+              "woord": "j3-p9-l101-w05"
+            },
+            {
+              "ar": "حينَ",
+              "nl": "wanneer",
+              "woord": "j3-p9-l101-w02"
+            },
+            {
+              "ar": "طَوالَ",
+              "nl": "gedurende",
+              "woord": "j3-p9-l101-w07"
+            }
+          ],
+          "uitleg": "Tijdsvoegwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "tijdsvoegwoorden",
+          "tekst": "كُلَّما زُرْتُها فَرِحَتْ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Telkens als ik haar bezocht, was ze blij.",
+            "Ik bezocht haar één keer.",
+            "Ze bezocht mij nooit."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كُلَّما}"
+        }
+      ]
+    },
+    {
+      "titel": "Bijzinnen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "tijdsvoegwoorden",
+          "zin": "___ دَخَلْتُ الغُرْفَةَ، سَكَتَ الجَميعُ.",
+          "nl": "Toen ik de kamer binnenkwam, werd iedereen stil.",
+          "antwoord": [
+            "لَمّا"
+          ],
+          "uitleg": "{ar|لَمّا} + māḍī.",
+          "woordbank": [
+            "لَمّا",
+            "كُلَّما",
+            "مُنْذُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "tijdsvoegwoorden",
+          "zin": "___ سافَرْتُ، تَعَلَّمْتُ شَيْئًا جَديدًا.",
+          "nl": "Telkens als ik reisde, leerde ik iets nieuws.",
+          "antwoord": [
+            "كُلَّما"
+          ],
+          "uitleg": "Herhaling.",
+          "woordbank": [
+            "كُلَّما",
+            "لَمّا",
+            "بَعْدَما"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tijdsvoegwoorden",
+          "vraag": "Wat betekent {ar|لَمّا يَصِلْ}?",
+          "opties": [
+            "hij is nog niet aangekomen",
+            "toen hij aankwam",
+            "telkens als hij aankomt"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمّا} + majzūm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tijdsvoegwoorden",
+          "vraag": "'We waren nauwelijks aangekomen of …' is ...",
+          "opties": [
+            "ما إِنْ وَصَلْنا حَتّى …",
+            "لَمّا وَصَلْنا …",
+            "بَعْدَما وَصَلْنا …"
+          ],
+          "juist": 0,
+          "uitleg": "Vaste constructie."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "tijdsvoegwoorden",
+          "instructie": "Kies het voegwoord.",
+          "rijen": [
+            {
+              "label": "telkens wanneer",
+              "antwoord": "كُلَّما",
+              "tr": "kullamā"
+            },
+            {
+              "label": "sinds",
+              "antwoord": "مُنْذُ أَنْ",
+              "tr": "munḏu an"
+            }
+          ],
+          "uitleg": "Tijd."
+        }
+      ]
+    },
+    {
+      "titel": "Vertellen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "tijdsvoegwoorden",
+          "nl": "Toen ik ouder werd, verhuisden we naar de stad.",
+          "woorden": [
+            "لَمّا",
+            "كَبِرْتُ،",
+            "اِنْتَقَلْنا",
+            "إِلى",
+            "المَدينَةِ."
+          ],
+          "uitleg": "{ar|لَمّا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "tijdsvoegwoorden",
+          "bron": "mijn hele leven",
+          "antwoorden": [
+            "طَوالَ حَياتي"
+          ],
+          "uitleg": "{ar|طَوالَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "tijdsvoegwoorden",
+          "bron": "مُنْذُ أَنْ تَرَكْتُ القَرْيَةَ، أَحِنُّ إِلَيْها.",
+          "antwoorden": [
+            "sinds ik het dorp verliet verlang ik ernaar terug",
+            "sinds ik het dorp verlaten heb mis ik het"
+          ],
+          "uitleg": "{ar|مُنْذُ أَنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُراهِقٌ",
+            "nl": "tiener"
+          },
+          {
+            "ar": "رائِحَةٌ",
+            "nl": "geur"
+          },
+          {
+            "ar": "حَنَّ إِلى",
+            "nl": "verlangen naar"
+          },
+          {
+            "ar": "عَطْلَةٌ صَيْفِيَّةٌ",
+            "nl": "zomervakantie"
+          },
+          {
+            "ar": "طِفْلًا",
+            "nl": "als kind"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "Welke vorm volgt op {ar|كُلَّما}?",
+        "opties": [
+          "māḍī",
+          "majzūm",
+          "gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "Ook bij gewoonte."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Toen ik hem zag' (eenmalig) is ...",
+        "opties": [
+          "لَمّا رَأَيْتُهُ",
+          "لَمّا أَرَهُ",
+          "كُلَّما رَأَيْتُهُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمّا} + māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "{ar|بَعْدَما} betekent ...",
+        "opties": [
+          "nadat",
+          "voordat",
+          "terwijl"
+        ],
+        "juist": 0,
+        "uitleg": "Nadat."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Terwijl ik sliep, belde hij' begint met ...",
+        "opties": [
+          "بَيْنَما كُنْتُ نائِمًا",
+          "كُلَّما نِمْتُ",
+          "لَمّا أَنَمْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَيْنَما}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "tijdsvoegwoorden",
+        "tekst": "ما إِنْ خَرَجْتُ حَتّى رَنَّ الهاتِفُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik was nauwelijks buiten of de telefoon ging.",
+          "Ik ging naar buiten nadat de telefoon ging.",
+          "De telefoon ging niet."
+        ],
+        "juist": 0,
+        "uitleg": "Constructie."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "تَذَكَّرْتُ رائِحَةَ الخُبْزِ في بَيْتِ جَدّي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik herinnerde me de geur van brood in het huis van mijn opa.",
+          "Ik bakte brood bij mijn opa.",
+          "Mijn opa bakte geen brood."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رائِحَةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "___ أَنْ وَصَلْتُ إِلى هولَنْدا، أَدْرُسُ الهولَنْدِيَّةَ.",
+        "nl": "Sinds ik in Nederland aankwam, studeer ik Nederlands.",
+        "antwoord": [
+          "مُنْذُ"
+        ],
+        "uitleg": "{ar|مُنْذُ أَنْ}",
+        "woordbank": [
+          "مُنْذُ",
+          "بَعْدَ",
+          "قَبْلَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "كُلَّما ___ إِلى البَحْرِ، شَعَرْتُ بِالرّاحَةِ.",
+        "nl": "Telkens als ik naar zee ging, voelde ik me ontspannen.",
+        "antwoord": [
+          "ذَهَبْتُ"
+        ],
+        "uitleg": "Māḍī.",
+        "woordbank": [
+          "ذَهَبْتُ",
+          "أَذْهَبُ",
+          "سَأَذْهَبُ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "عِشْتُ هُنا ___ حَياتي.",
+        "nl": "Ik heb hier mijn hele leven gewoond.",
+        "antwoord": [
+          "طَوالَ"
+        ],
+        "uitleg": "{ar|طَوالَ}",
+        "woordbank": [
+          "طَوالَ",
+          "مُنْذُ",
+          "بَعْدَما"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "tijdsvoegwoorden",
+        "instructie": "Vul in.",
+        "rijen": [
+          {
+            "label": "toen (+ māḍī)",
+            "antwoord": "لَمّا",
+            "tr": "lammā"
+          },
+          {
+            "label": "nadat",
+            "antwoord": "بَعْدَما",
+            "tr": "baʿdamā"
+          }
+        ],
+        "uitleg": "Tijd."
+      },
+      {
+        "type": "ordenen",
+        "tag": "tijdsvoegwoorden",
+        "nl": "We waren nauwelijks aangekomen of het begon te regenen.",
+        "woorden": [
+          "ما",
+          "إِنْ",
+          "وَصَلْنا",
+          "حَتّى",
+          "بَدَأَ",
+          "المَطَرُ."
+        ],
+        "uitleg": "Constructie."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de geur",
+        "antwoorden": [
+          "الرّائِحَةُ"
+        ],
+        "uitleg": "{ar|الرّائِحَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "tijdsvoegwoorden",
+        "bron": "عِنْدَما كُنْتُ طِفْلًا كُنْتُ أَخافُ مِنَ الظَّلامِ.",
+        "antwoorden": [
+          "toen ik een kind was was ik bang voor het donker",
+          "als kind was ik bang in het donker",
+          "toen ik klein was was ik bang voor het donker"
+        ],
+        "uitleg": "{ar|عِنْدَما}"
+      }
+    ]
+  }
+}

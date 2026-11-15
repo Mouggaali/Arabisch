@@ -1,0 +1,609 @@
+{
+  "id": "j3-p11-l126",
+  "code": "L126",
+  "type": "les",
+  "titel": "Aanspreken",
+  "thema": "Een toespraak bij de diploma-uitreiking; de vocatief",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "iemand correct aanspreken met يا، أَيُّها en أَيَّتُها.",
+    "de juiste naamval na يا kiezen (naam, suffix, iḍāfa).",
+    "een korte toespraak openen en afsluiten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l126-w01",
+      "ar": "أَيُّها",
+      "tr": "ayyuhā",
+      "nl": [
+        "o (vóór een mannelijk naamwoord met ال)"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j3-p11-l126-w02",
+      "ar": "أَيَّتُها",
+      "tr": "ayyatuhā",
+      "nl": [
+        "o (vóór een vrouwelijk naamwoord met ال)"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j3-p11-l126-w03",
+      "ar": "نِداءٌ",
+      "tr": "nidāʾ",
+      "nl": [
+        "aanroep, vocatief; oproep"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l126-w04",
+      "ar": "سَيِّداتي سادَتي",
+      "tr": "sayyidātī sādatī",
+      "nl": [
+        "dames en heren"
+      ],
+      "soort": "aanspreekvorm"
+    },
+    {
+      "id": "j3-p11-l126-w05",
+      "ar": "الحُضورُ الكِرامُ",
+      "tr": "al-ḥuḍūru l-kirām",
+      "nl": [
+        "geacht publiek"
+      ],
+      "soort": "aanspreekvorm"
+    },
+    {
+      "id": "j3-p11-l126-w06",
+      "ar": "زُمَلائي الأَعِزّاءُ",
+      "tr": "zumalāʾī l-aʿizzāʾ",
+      "nl": [
+        "beste collega's"
+      ],
+      "soort": "aanspreekvorm"
+    },
+    {
+      "id": "j3-p11-l126-w07",
+      "ar": "خِطابٌ",
+      "tr": "ḫiṭāb",
+      "nl": [
+        "toespraak"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l126-w08",
+      "ar": "أَلْقى كَلِمَةً",
+      "tr": "alqā kalimatan",
+      "nl": [
+        "een toespraak houden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l126-w09",
+      "ar": "ضَيْفُ الشَّرَفِ",
+      "tr": "ḍayfu š-šaraf",
+      "nl": [
+        "eregast"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l126-w10",
+      "ar": "حَفْلُ التَّخَرُّجِ",
+      "tr": "ḥaflu t-taḫarruj",
+      "nl": [
+        "diploma-uitreiking"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l126-w11",
+      "ar": "يا تُرى",
+      "tr": "yā turā",
+      "nl": [
+        "zou het …? vraag ik me af"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l126-w12",
+      "ar": "أَعِزّاءُ",
+      "tr": "aʿizzāʾ",
+      "nl": [
+        "dierbaren, beste"
+      ],
+      "soort": "bijvoeglijk naamwoord (mv)"
+    },
+    {
+      "id": "j3-p11-l126-w13",
+      "ar": "خِرّيجٌ",
+      "tr": "ḫirrīj",
+      "nl": [
+        "afgestudeerde"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l126-w14",
+      "ar": "هَنَّأَ",
+      "tr": "hannaʾa",
+      "nl": [
+        "feliciteren"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p11-l126-w15",
+      "ar": "فَخْرٌ",
+      "tr": "faḫr",
+      "nl": [
+        "trots"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De vocatief: iemand aanspreken",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Situatie",
+            "Vorm",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "naam of bepaalde persoon",
+              "يا + nominatief zonder tanwīn",
+              "يا أَحْمَدُ! · يا مُعَلِّمُ!"
+            ],
+            [
+              "met bezittelijk suffix",
+              "يا + naamwoord + ـي",
+              "يا صَديقي! · يا أُمّي!"
+            ],
+            [
+              "iḍāfa",
+              "يا + accusatief",
+              "يا عَبْدَ اللّٰهِ! · يا أُسْتاذَ اللُّغَةِ!"
+            ],
+            [
+              "naamwoord met ال (m)",
+              "يا أَيُّها / أَيُّها + ال",
+              "أَيُّها الطُّلّابُ!"
+            ],
+            [
+              "naamwoord met ال (v)",
+              "يا أَيَّتُها / أَيَّتُها + ال",
+              "أَيَّتُها السَّيِّداتُ!"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|أَيُّها}? Na {ar|يا} mag geen {ar|ال} direct volgen. {ar|أَيُّها} is een tussenwoord dat die botsing oplost. In toespraken laat men {ar|يا} vaak weg: {ar|أَيُّها الحُضورُ الكِرامُ}."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|يا أَحْمَدُ} krijgt een **ḍamma zonder tanwīn**, omdat je een specifiek persoon aanspreekt. In de spreektaal hoor je die uitgang nauwelijks."
+        }
+      ]
+    },
+    {
+      "titel": "Een toespraak bij de diploma-uitreiking",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَيِّداتي سادَتي، أَيُّها الحُضورُ الكِرامُ،",
+              "tr": "sayyidātī sādatī, ayyuha l-ḥuḍūru l-kirām,",
+              "nl": "Dames en heren, geacht publiek,"
+            },
+            {
+              "ar": "يُشَرِّفُني أَنْ أُلْقِيَ كَلِمَةً في حَفْلِ التَّخَرُّجِ هٰذا.",
+              "tr": "yušarrifunī an ulqiya kalimatan fī ḥafli t-taḫarruji hāḏā.",
+              "nl": "Het is mij een eer om op deze diploma-uitreiking het woord te voeren."
+            },
+            {
+              "ar": "أَيُّها الخِرّيجونَ، أُهَنِّئُكُمْ مِنْ كُلِّ قَلْبي.",
+              "tr": "ayyuha l-ḫirrījūn, uhanniʾukum min kulli qalbī.",
+              "nl": "Afgestudeerden, ik feliciteer jullie van harte."
+            },
+            {
+              "ar": "وَأَنْتُنَّ أَيَّتُها الخِرّيجاتُ، أَنْتُنَّ فَخْرٌ لَنا.",
+              "tr": "wa-antunna ayyatuha l-ḫirrījāt, antunna faḫrun lanā.",
+              "nl": "En jullie, afgestudeerde vrouwen, jullie zijn onze trots."
+            },
+            {
+              "ar": "يا أُسْتاذَ أَحْمَدَ، شُكْرًا عَلى كُلِّ شَيْءٍ.",
+              "tr": "yā ustāḏa aḥmada, šukran ʿalā kulli šayʾ.",
+              "nl": "Meester Ahmed, bedankt voor alles."
+            },
+            {
+              "ar": "ماذا سَيَحْمِلُ لَنا المُسْتَقْبَلُ يا تُرى؟",
+              "tr": "māḏā sa-yaḥmilu lana l-mustaqbalu yā turā?",
+              "nl": "Wat zal de toekomst ons brengen, vraag ik me af?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "vocatief",
+          "paren": [
+            {
+              "ar": "سَيِّداتي سادَتي",
+              "nl": "dames en heren",
+              "woord": "j3-p11-l126-w04"
+            },
+            {
+              "ar": "خِطابٌ",
+              "nl": "toespraak",
+              "woord": "j3-p11-l126-w07"
+            },
+            {
+              "ar": "ضَيْفُ الشَّرَفِ",
+              "nl": "eregast",
+              "woord": "j3-p11-l126-w09"
+            },
+            {
+              "ar": "حَفْلُ التَّخَرُّجِ",
+              "nl": "diploma-uitreiking",
+              "woord": "j3-p11-l126-w10"
+            },
+            {
+              "ar": "خِرّيجٌ",
+              "nl": "afgestudeerde",
+              "woord": "j3-p11-l126-w13"
+            },
+            {
+              "ar": "هَنَّأَ",
+              "nl": "feliciteren",
+              "woord": "j3-p11-l126-w14"
+            }
+          ],
+          "uitleg": "Toespraakwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vocatief",
+          "tekst": "أَيُّها الطُّلّابُ، اِنْتَبِهوا!",
+          "vraag": "Wie wordt aangesproken?",
+          "opties": [
+            "de studenten",
+            "de leraar",
+            "de ouders"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَيُّها}"
+        }
+      ]
+    },
+    {
+      "titel": "Aanspreken",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "vocatief",
+          "vraag": "Hoe spreek je 'de dames' aan?",
+          "opties": [
+            "أَيَّتُها السَّيِّداتُ",
+            "أَيُّها السَّيِّداتُ",
+            "يا السَّيِّداتُ"
+          ],
+          "juist": 0,
+          "uitleg": "Vrouwelijk: {ar|أَيَّتُها}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vocatief",
+          "vraag": "Waarom niet {ar|يا الطُّلّابُ}?",
+          "opties": [
+            "na يا mag ال niet direct volgen",
+            "het is te informeel",
+            "het is meervoud"
+          ],
+          "juist": 0,
+          "uitleg": "Tussenwoord {ar|أَيُّها}."
+        },
+        {
+          "type": "invullen",
+          "tag": "vocatief",
+          "zin": "يا ___ اللّٰهِ، تَعالَ!",
+          "nl": "Abdallah, kom!",
+          "antwoord": [
+            "عَبْدَ"
+          ],
+          "uitleg": "Iḍāfa → accusatief.",
+          "woordbank": [
+            "عَبْدَ",
+            "عَبْدُ",
+            "عَبْدِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "vocatief",
+          "zin": "يا ___، أَيْنَ كُنْتَ؟",
+          "nl": "Ahmed, waar was je?",
+          "antwoord": [
+            "أَحْمَدُ"
+          ],
+          "uitleg": "Naam → ḍamma zonder tanwīn.",
+          "woordbank": [
+            "أَحْمَدُ",
+            "أَحْمَدَ",
+            "أَحْمَدًا"
+          ],
+          "streng": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "vocatief",
+          "nl": "Dames en heren, geacht publiek.",
+          "woorden": [
+            "سَيِّداتي",
+            "سادَتي،",
+            "أَيُّها",
+            "الحُضورُ",
+            "الكِرامُ."
+          ],
+          "uitleg": "Opening toespraak."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vocatief",
+          "bron": "Mijn vriend!",
+          "antwoorden": [
+            "يا صَديقي!",
+            "يا صديقي",
+            "يا صَديقي"
+          ],
+          "uitleg": "{ar|يا} + suffix."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vocatief",
+          "bron": "أَيُّها الخِرّيجونَ، أُهَنِّئُكُمْ.",
+          "antwoorden": [
+            "afgestudeerden, ik feliciteer jullie",
+            "beste afgestudeerden, gefeliciteerd"
+          ],
+          "uitleg": "{ar|أَيُّها}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "vocatief",
+        "paren": [
+          {
+            "ar": "أَيُّها",
+            "nl": "o (m, met ال)"
+          },
+          {
+            "ar": "أَيَّتُها",
+            "nl": "o (v, met ال)"
+          },
+          {
+            "ar": "الحُضورُ الكِرامُ",
+            "nl": "geacht publiek"
+          },
+          {
+            "ar": "يا تُرى",
+            "nl": "vraag ik me af"
+          },
+          {
+            "ar": "أَلْقى كَلِمَةً",
+            "nl": "een toespraak houden"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "'Leraar!' (een bepaalde leraar) is ...",
+        "opties": [
+          "يا مُعَلِّمُ!",
+          "يا مُعَلِّمٌ!",
+          "يا المُعَلِّمُ!"
+        ],
+        "juist": 0,
+        "uitleg": "Ḍamma zonder tanwīn."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "'Lerares van de klas!' (iḍāfa) is ...",
+        "opties": [
+          "يا مُعَلِّمَةَ الفَصْلِ!",
+          "يا مُعَلِّمَةُ الفَصْلِ!",
+          "أَيَّتُها مُعَلِّمَةُ الفَصْلِ!"
+        ],
+        "juist": 0,
+        "uitleg": "Iḍāfa → accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "'O mensen!' is ...",
+        "opties": [
+          "يا أَيُّها النّاسُ!",
+          "يا النّاسُ!",
+          "يا ناسَ!"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يا أَيُّها}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "Welke aanspreekvorm past bij collega's op het werk?",
+        "opties": [
+          "زُمَلائي الأَعِزّاءُ",
+          "يا أُمّي",
+          "يا عَبْدَ اللّٰهِ"
+        ],
+        "juist": 0,
+        "uitleg": "Collega's."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vocatief",
+        "tekst": "سَيِّداتي سادَتي، مَرْحَبًا بِكُمْ",
+        "vraag": "Waar hoor je dit?",
+        "opties": [
+          "aan het begin van een toespraak",
+          "aan de telefoon",
+          "in een winkel"
+        ],
+        "juist": 0,
+        "uitleg": "Opening."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vocatief",
+        "tekst": "يا أُمّي، أَنا جائِعٌ",
+        "vraag": "Tegen wie praat het kind?",
+        "opties": [
+          "tegen zijn moeder",
+          "tegen zijn juf",
+          "tegen zijn vriend"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يا أُمّي}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vocatief",
+        "zin": "___ السَّيِّداتُ، تَفَضَّلْنَ.",
+        "nl": "Dames, gaat u zitten.",
+        "antwoord": [
+          "أَيَّتُها"
+        ],
+        "uitleg": "Vrouwelijk + ال.",
+        "woordbank": [
+          "أَيَّتُها",
+          "أَيُّها",
+          "يا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "vocatief",
+        "zin": "يا ___ اللُّغَةِ، عِنْدي سُؤالٌ.",
+        "nl": "Docent taal, ik heb een vraag.",
+        "antwoord": [
+          "أُسْتاذَ"
+        ],
+        "uitleg": "Iḍāfa → accusatief.",
+        "woordbank": [
+          "أُسْتاذَ",
+          "أُسْتاذُ",
+          "أُسْتاذِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أُلْقِيَ ___ الوَزيرِ في حَفْلِ التَّخَرُّجِ.",
+        "nl": "De toespraak van de minister werd gehouden op de diploma-uitreiking.",
+        "antwoord": [
+          "خِطابُ"
+        ],
+        "uitleg": "{ar|خِطابٌ}",
+        "woordbank": [
+          "خِطابُ",
+          "نِداءُ",
+          "فَخْرُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vocatief",
+        "instructie": "Kies أَيُّها of أَيَّتُها.",
+        "rijen": [
+          {
+            "label": "___ الطّالِبُ",
+            "antwoord": "أَيُّها",
+            "tr": "ayyuhā"
+          },
+          {
+            "label": "___ الطّالِبَةُ",
+            "antwoord": "أَيَّتُها",
+            "tr": "ayyatuhā"
+          }
+        ],
+        "uitleg": "Geslacht."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vocatief",
+        "nl": "Afgestudeerden, ik feliciteer jullie van harte.",
+        "woorden": [
+          "أَيُّها",
+          "الخِرّيجونَ،",
+          "أُهَنِّئُكُمْ",
+          "مِنْ",
+          "كُلِّ",
+          "قَلْبي."
+        ],
+        "uitleg": "Toespraak."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vocatief",
+        "bron": "Ahmed!",
+        "antwoorden": [
+          "يا أَحْمَدُ!",
+          "يا أحمد",
+          "يا أَحْمَدُ"
+        ],
+        "uitleg": "{ar|يا أَحْمَدُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vocatief",
+        "bron": "أَنْتُنَّ فَخْرٌ لَنا.",
+        "antwoorden": [
+          "jullie zijn onze trots",
+          "jullie zijn een trots voor ons"
+        ],
+        "uitleg": "{ar|فَخْرٌ}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "id": "j2-p8-l96",
+  "code": "L96",
+  "type": "les",
+  "titel": "Spreken: presentatie over mijn stad",
+  "thema": "Een korte presentatie houden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een presentatie openen, opbouwen en afsluiten.",
+    "feiten, bijzonderheden en adviezen over een stad geven.",
+    "de stof van jaar 2 actief gebruiken in een monoloog."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l96-w01",
+      "ar": "عَرْضٌ تَقْديمِيٌّ",
+      "tr": "ʿarḍun taqdīmiyy",
+      "nl": [
+        "presentatie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w02",
+      "ar": "سَأَتَحَدَّثُ عَنْ",
+      "tr": "sa-ataḥaddaṯu ʿan",
+      "nl": [
+        "ik ga praten over"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w03",
+      "ar": "تَحَدَّثَ عَنْ",
+      "tr": "taḥaddaṯa ʿan",
+      "nl": [
+        "spreken over"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p8-l96-w04",
+      "ar": "أَوَّلُ ما",
+      "tr": "awwalu mā",
+      "nl": [
+        "het eerste wat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w05",
+      "ar": "تَتَمَيَّزُ بِـ",
+      "tr": "tatamayyazu bi-",
+      "nl": [
+        "onderscheidt zich door"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p8-l96-w06",
+      "ar": "عَدَدُ السُّكّانِ",
+      "tr": "ʿadadu s-sukkān",
+      "nl": [
+        "het inwonertal"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l96-w07",
+      "ar": "مَرْكَزٌ تِجارِيٌّ",
+      "tr": "markazun tijāriyy",
+      "nl": [
+        "winkelcentrum"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w08",
+      "ar": "حَياةٌ لَيْلِيَّةٌ",
+      "tr": "ḥayātun layliyya",
+      "nl": [
+        "uitgaansleven"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w09",
+      "ar": "مُتَنَزَّهٌ",
+      "tr": "mutanazzah",
+      "nl": [
+        "park, wandelgebied"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l96-w10",
+      "ar": "ميناءٌ تِجارِيٌّ",
+      "tr": "mīnāʾun tijāriyy",
+      "nl": [
+        "handelshaven"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w11",
+      "ar": "أَنْصَحُ بِـ",
+      "tr": "anṣaḥu bi-",
+      "nl": [
+        "ik raad aan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w12",
+      "ar": "شُكْرًا عَلى اِنْتِباهِكُمْ",
+      "tr": "šukran ʿala ntibāhikum",
+      "nl": [
+        "bedankt voor uw aandacht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w13",
+      "ar": "هَلْ عِنْدَكُمْ أَسْئِلَةٌ؟",
+      "tr": "hal ʿindakum asʾila?",
+      "nl": [
+        "zijn er vragen?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w14",
+      "ar": "أَخيرًا وَلَيْسَ آخِرًا",
+      "tr": "aḫīran wa-laysa āḫiran",
+      "nl": [
+        "last but not least"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l96-w15",
+      "ar": "مَشْهورٌ عالَمِيًّا",
+      "tr": "mašhūrun ʿālamiyyan",
+      "nl": [
+        "wereldberoemd"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een presentatie opbouwen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Stap",
+            "Formule",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "opening",
+              "سَأَتَحَدَّثُ اليَوْمَ عَنْ …",
+              "سَأَتَحَدَّثُ اليَوْمَ عَنْ مَدينَتي أَمْسْتِرْدامَ."
+            ],
+            [
+              "feiten",
+              "تَقَعُ … / عَدَدُ سُكّانِها …",
+              "عَدَدُ سُكّانِها حَوالَيْ مَلْيونِ نَسَمَةٍ."
+            ],
+            [
+              "bijzonderheden",
+              "تَتَمَيَّزُ بِـ …",
+              "تَتَمَيَّزُ بِقَنَواتِها الجَميلَةِ."
+            ],
+            [
+              "advies",
+              "أَنْصَحُ بِزِيارَةِ …",
+              "أَنْصَحُ بِزِيارَةِ المَتاحِفِ."
+            ],
+            [
+              "afsluiting",
+              "شُكْرًا عَلى اِنْتِباهِكُمْ",
+              "شُكْرًا عَلى اِنْتِباهِكُمْ. هَلْ عِنْدَكُمْ أَسْئِلَةٌ؟"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "In deze les komt alles samen: getallen ({ar|مَلْيونِ نَسَمَةٍ}), overtreffende trap ({ar|أَجْمَلُ مَكانٍ}), maṣdar na voorzetsels ({ar|بِزِيارَةِ}), bijzinnen en meningen. Een presentatie oefen je door de zinnen **hardop** te zeggen, ook als je alleen bent."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|نَسَمَةٌ} (persoon, inwoner) wordt alleen bij bevolkingsaantallen gebruikt: {ar|خَمْسَةُ مَلايينِ نَسَمَةٍ}."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeld: mijn stad",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَأَتَحَدَّثُ اليَوْمَ عَنْ مَدينَتي، أَمْسْتِرْدامَ.",
+              "tr": "sa-ataḥaddaṯu l-yawma ʿan madīnatī, Amsterdām.",
+              "nl": "Vandaag ga ik praten over mijn stad, Amsterdam."
+            },
+            {
+              "ar": "هِيَ عاصِمَةُ هولَنْدا، وَعَدَدُ سُكّانِها أَكْثَرُ مِنْ ثَمانِمِئَةِ أَلْفِ نَسَمَةٍ.",
+              "tr": "hiya ʿāṣimatu Hōlandā, wa-ʿadadu sukkānihā akṯaru min ṯamānimiʾati alfi nasama.",
+              "nl": "Het is de hoofdstad van Nederland en heeft meer dan achthonderdduizend inwoners."
+            },
+            {
+              "ar": "تَتَمَيَّزُ المَدينَةُ بِقَنَواتِها وَمَتاحِفِها المَشْهورَةِ.",
+              "tr": "tatamayyazu l-madīnatu bi-qanawātihā wa-matāḥifihā l-mašhūra.",
+              "nl": "De stad onderscheidt zich door haar grachten en beroemde musea."
+            },
+            {
+              "ar": "أَنْصَحُكُمْ بِرِحْلَةٍ بِالقارِبِ في القَنَواتِ.",
+              "tr": "anṣaḥukum bi-riḥlatin bi-l-qāribi fi l-qanawāt.",
+              "nl": "Ik raad jullie een boottocht door de grachten aan."
+            },
+            {
+              "ar": "شُكْرًا عَلى اِنْتِباهِكُمْ.",
+              "tr": "šukran ʿala ntibāhikum.",
+              "nl": "Bedankt voor jullie aandacht."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عَرْضٌ تَقْديمِيٌّ",
+              "nl": "presentatie",
+              "woord": "j2-p8-l96-w01"
+            },
+            {
+              "ar": "تَحَدَّثَ عَنْ",
+              "nl": "spreken over",
+              "woord": "j2-p8-l96-w03"
+            },
+            {
+              "ar": "مَرْكَزٌ تِجارِيٌّ",
+              "nl": "winkelcentrum",
+              "woord": "j2-p8-l96-w07"
+            },
+            {
+              "ar": "مُتَنَزَّهٌ",
+              "nl": "park",
+              "woord": "j2-p8-l96-w09"
+            },
+            {
+              "ar": "حَياةٌ لَيْلِيَّةٌ",
+              "nl": "uitgaansleven",
+              "woord": "j2-p8-l96-w08"
+            },
+            {
+              "ar": "مَشْهورٌ عالَمِيًّا",
+              "nl": "wereldberoemd",
+              "woord": "j2-p8-l96-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "presenteren",
+          "tekst": "سَأَتَحَدَّثُ اليَوْمَ عَنْ مَدينَتي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Vandaag ga ik praten over mijn stad.",
+            "Gisteren sprak ik over mijn stad.",
+            "Mijn stad is mooi."
+          ],
+          "juist": 0,
+          "uitleg": "Opening."
+        }
+      ]
+    },
+    {
+      "titel": "Presenteren",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "presenteren",
+          "vraag": "Met welke zin sluit je een presentatie af?",
+          "opties": [
+            "شُكْرًا عَلى اِنْتِباهِكُمْ",
+            "سَأَتَحَدَّثُ عَنْ …",
+            "أَوَّلًا"
+          ],
+          "juist": 0,
+          "uitleg": "Afsluiting."
+        },
+        {
+          "type": "invullen",
+          "tag": "presenteren",
+          "zin": "تَتَمَيَّزُ المَدينَةُ ___ قَنَواتِها.",
+          "nl": "De stad onderscheidt zich door haar grachten.",
+          "antwoord": [
+            "بِـ",
+            "ب",
+            "بِ"
+          ],
+          "uitleg": "{ar|تَمَيَّزَ بِـ}",
+          "woordbank": [
+            "بِـ",
+            "عَنْ",
+            "في"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "presenteren",
+          "zin": "أَنْصَحُ ___ المُتْحَفِ.",
+          "nl": "Ik raad een bezoek aan het museum aan.",
+          "antwoord": [
+            "بِزِيارَةِ"
+          ],
+          "uitleg": "{ar|نَصَحَ بِـ} + maṣdar.",
+          "woordbank": [
+            "بِزِيارَةِ",
+            "زِيارَةَ",
+            "أَزورُ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "presenteren",
+          "nl": "Bedankt voor jullie aandacht. Zijn er vragen?",
+          "woorden": [
+            "شُكْرًا",
+            "عَلى",
+            "اِنْتِباهِكُمْ.",
+            "هَلْ",
+            "عِنْدَكُمْ",
+            "أَسْئِلَةٌ؟"
+          ],
+          "uitleg": "Afsluiting."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "presenteren",
+          "instructie": "Vul aan.",
+          "rijen": [
+            {
+              "label": "ik ga praten over: سَـ___ عَنْ",
+              "antwoord": "أَتَحَدَّثُ",
+              "tr": "ataḥaddaṯu"
+            },
+            {
+              "label": "het inwonertal: ___ السُّكّانِ",
+              "antwoord": "عَدَدُ",
+              "tr": "ʿadadu"
+            }
+          ],
+          "uitleg": "Vaste formules."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "presenteren",
+          "bron": "Ik raad jullie aan om de stad te bezoeken.",
+          "antwoorden": [
+            "أَنْصَحُكُمْ بِزِيارَةِ المَدينَةِ"
+          ],
+          "uitleg": "{ar|نَصَحَ بِـ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "presenteren",
+          "bron": "تَتَمَيَّزُ مَرّاكُشُ بِأَسْواقِها التَّقْليدِيَّةِ.",
+          "antwoorden": [
+            "marrakesh onderscheidt zich door haar traditionele markten",
+            "marrakesh is bekend om haar traditionele markten",
+            "marrakech onderscheidt zich door haar traditionele markten"
+          ],
+          "uitleg": "{ar|تَمَيَّزَ بِـ}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf spreken",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "spreken",
+          "tag": "presenteren",
+          "opdracht": "Presenteer je eigen stad of dorp in ongeveer één minuut.",
+          "model": [
+            {
+              "ar": "سَأَتَحَدَّثُ اليَوْمَ عَنْ مَدينَتي، أَمْسْتِرْدامَ.",
+              "tr": "sa-ataḥaddaṯu l-yawma ʿan madīnatī, Amsterdām.",
+              "nl": "Vandaag ga ik praten over mijn stad, Amsterdam."
+            },
+            {
+              "ar": "هِيَ عاصِمَةُ هولَنْدا، وَعَدَدُ سُكّانِها أَكْثَرُ مِنْ ثَمانِمِئَةِ أَلْفِ نَسَمَةٍ.",
+              "tr": "hiya ʿāṣimatu Hōlandā, wa-ʿadadu sukkānihā akṯaru min ṯamānimiʾati alfi nasama.",
+              "nl": "Het is de hoofdstad van Nederland en heeft meer dan achthonderdduizend inwoners."
+            },
+            {
+              "ar": "تَتَمَيَّزُ المَدينَةُ بِقَنَواتِها وَمَتاحِفِها المَشْهورَةِ.",
+              "tr": "tatamayyazu l-madīnatu bi-qanawātihā wa-matāḥifihā l-mašhūra.",
+              "nl": "De stad onderscheidt zich door haar grachten en beroemde musea."
+            },
+            {
+              "ar": "أَنْصَحُكُمْ بِرِحْلَةٍ بِالقارِبِ في القَنَواتِ.",
+              "tr": "anṣaḥukum bi-riḥlatin bi-l-qāribi fi l-qanawāt.",
+              "nl": "Ik raad jullie een boottocht door de grachten aan."
+            },
+            {
+              "ar": "شُكْرًا عَلى اِنْتِباهِكُمْ.",
+              "tr": "šukran ʿala ntibāhikum.",
+              "nl": "Bedankt voor jullie aandacht."
+            }
+          ],
+          "checklist": [
+            "Opening: {ar|سَأَتَحَدَّثُ عَنْ مَدينَتي …}",
+            "Ligging en aantal inwoners.",
+            "Minstens twee bezienswaardigheden of activiteiten.",
+            "Je eigen mening (wat je het mooiste vindt).",
+            "Een afsluiting en bedankje.",
+            "Je sprak zonder lange pauzes."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk wat je zei met het modelantwoord. Spreek het model daarna een keer hardop na, en probeer het dan opnieuw zonder te kijken.",
+          "woorden": [
+            "سَأَتَحَدَّثُ عَنْ",
+            "تَقَعُ",
+            "يَسْكُنُ فيها",
+            "أَجْمَلُ",
+            "شُكْرًا"
+          ]
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عَدَدُ السُّكّانِ",
+            "nl": "inwonertal"
+          },
+          {
+            "ar": "ميناءٌ تِجارِيٌّ",
+            "nl": "handelshaven"
+          },
+          {
+            "ar": "أَنْصَحُ بِـ",
+            "nl": "ik raad aan"
+          },
+          {
+            "ar": "أَخيرًا وَلَيْسَ آخِرًا",
+            "nl": "last but not least"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "Met welke zin open je een presentatie?",
+        "opties": [
+          "سَأَتَحَدَّثُ اليَوْمَ عَنْ …",
+          "شُكْرًا عَلى اِنْتِباهِكُمْ",
+          "هَلْ عِنْدَكُمْ أَسْئِلَةٌ؟"
+        ],
+        "juist": 0,
+        "uitleg": "Opening."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "Wat betekent {ar|تَتَمَيَّزُ بِـ}?",
+        "opties": [
+          "onderscheidt zich door",
+          "ligt bij",
+          "is gesticht in"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "'Vijf miljoen inwoners' is ...",
+        "opties": [
+          "خَمْسَةُ مَلايينِ نَسَمَةٍ",
+          "خَمْسُ مَلْيونٍ نَسَمَةً",
+          "خَمْسَةُ مَلْيونٍ نَسَماتٍ"
+        ],
+        "juist": 0,
+        "uitleg": "3–10 + meervoud {ar|مَلايينُ}; {ar|نَسَمَةٍ} genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'De mooiste plek in de stad' is ...",
+        "opties": [
+          "أَجْمَلُ مَكانٍ في المَدينَةِ",
+          "المَكانُ أَجْمَلُ في المَدينَةِ",
+          "أَجْمَلُ المَكانُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald."
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "تَقَعُ المَدينَةُ عَلى ساحِلِ البَحْرِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De stad ligt aan de kust.",
+          "De stad ligt in de bergen.",
+          "De stad heeft geen haven."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ساحِلٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "هَلْ عِنْدَكُمْ أَسْئِلَةٌ؟",
+        "vraag": "Wat vraagt de spreker?",
+        "opties": [
+          "Zijn er vragen?",
+          "Hebben jullie tijd?",
+          "Waar komen jullie vandaan?"
+        ],
+        "juist": 0,
+        "uitleg": "Afsluiting."
+      },
+      {
+        "type": "invullen",
+        "tag": "presenteren",
+        "zin": "شُكْرًا عَلى ___.",
+        "nl": "Bedankt voor jullie aandacht.",
+        "antwoord": [
+          "اِنْتِباهِكُمْ"
+        ],
+        "uitleg": "Vaste formule.",
+        "woordbank": [
+          "اِنْتِباهِكُمْ",
+          "أَسْئِلَتِكُمْ",
+          "عَرْضِكُمْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "presenteren",
+        "zin": "أَنْصَحُكُمْ ___ في القَنَواتِ.",
+        "nl": "Ik raad jullie een boottocht door de grachten aan.",
+        "antwoord": [
+          "بِرِحْلَةٍ"
+        ],
+        "uitleg": "{ar|نَصَحَ بِـ}",
+        "woordbank": [
+          "بِرِحْلَةٍ",
+          "رِحْلَةً",
+          "في رِحْلَةٍ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "في المَدينَةِ ___ كَبيرٌ لِلتَّسَوُّقِ.",
+        "nl": "In de stad is een groot winkelcentrum.",
+        "antwoord": [
+          "مَرْكَزٌ تِجارِيٌّ"
+        ],
+        "uitleg": "{ar|مَرْكَزٌ تِجارِيٌّ}",
+        "woordbank": [
+          "مَرْكَزٌ تِجارِيٌّ",
+          "ميناءٌ تِجارِيٌّ",
+          "مُتَنَزَّهٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "presenteren",
+        "instructie": "Vaste formules.",
+        "rijen": [
+          {
+            "label": "bedankt voor uw aandacht",
+            "antwoord": "شُكْرًا عَلى اِنْتِباهِكُمْ",
+            "tr": "šukran ʿala ntibāhikum"
+          }
+        ],
+        "uitleg": "Afsluiting."
+      },
+      {
+        "type": "ordenen",
+        "tag": "presenteren",
+        "nl": "Vandaag ga ik praten over mijn stad.",
+        "woorden": [
+          "سَأَتَحَدَّثُ",
+          "اليَوْمَ",
+          "عَنْ",
+          "مَدينَتي."
+        ],
+        "uitleg": "Opening."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "presenteren",
+        "bron": "de presentatie",
+        "antwoorden": [
+          "العَرْضُ التَّقْديمِيُّ",
+          "العَرْضُ"
+        ],
+        "uitleg": "{ar|العَرْضُ التَّقْديمِيُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "presenteren",
+        "bron": "المَدينَةُ مَشْهورَةٌ عالَمِيًّا بِمَساجِدِها.",
+        "antwoorden": [
+          "de stad is wereldberoemd om haar moskeeën",
+          "de stad is wereldwijd bekend om haar moskeeën"
+        ],
+        "uitleg": "{ar|مَشْهورٌ عالَمِيًّا}"
+      }
+    ]
+  }
+}

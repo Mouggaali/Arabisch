@@ -1,0 +1,782 @@
+{
+  "id": "j2-p5-l51",
+  "code": "L51",
+  "type": "les",
+  "titel": "Wat ik nog niet deed",
+  "thema": "Klusjes, uitstel en verboden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de verkorte wijs (majzūm) vormen in alle personen.",
+    "het verleden ontkennen met لَمْ + majzūm, zoals in geschreven Arabisch gebruikelijk is.",
+    "zeggen dat iets nog niet gebeurd is met لَمْ … بَعْدُ.",
+    "een verbod uitspreken met لا + majzūm."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l51-w01",
+      "ar": "لَمْ",
+      "tr": "lam",
+      "nl": [
+        "niet (verleden)"
+      ],
+      "soort": "partikel",
+      "notitie": "+ majzūm: {ar|لَمْ أَكْتُبْ} = ik heb niet geschreven."
+    },
+    {
+      "id": "j2-p5-l51-w02",
+      "ar": "بَعْدُ",
+      "tr": "baʿdu",
+      "nl": [
+        "nog (na ontkenning)"
+      ],
+      "soort": "bijwoord",
+      "notitie": "{ar|لَمْ … بَعْدُ} = nog niet."
+    },
+    {
+      "id": "j2-p5-l51-w04",
+      "ar": "حَتّى الآنَ",
+      "tr": "ḥatta l-ān",
+      "nl": [
+        "tot nu toe"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l51-w06",
+      "ar": "فاتورَةٌ",
+      "tr": "fātūra",
+      "nl": [
+        "rekening",
+        "factuur"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فَواتيرُ}."
+    },
+    {
+      "id": "j2-p5-l51-w07",
+      "ar": "نَظَّفَ",
+      "tr": "naẓẓafa",
+      "nl": [
+        "schoonmaken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُنَظِّفُ}."
+    },
+    {
+      "id": "j2-p5-l51-w08",
+      "ar": "رَتَّبَ",
+      "tr": "rattaba",
+      "nl": [
+        "opruimen",
+        "ordenen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُرَتِّبُ}."
+    },
+    {
+      "id": "j2-p5-l51-w09",
+      "ar": "أَصْلَحَ",
+      "tr": "aṣlaḥa",
+      "nl": [
+        "repareren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُصْلِحُ}."
+    },
+    {
+      "id": "j2-p5-l51-w10",
+      "ar": "صُحونٌ",
+      "tr": "ṣuḥūn",
+      "nl": [
+        "borden",
+        "afwas"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|صَحْنٌ}."
+    },
+    {
+      "id": "j2-p5-l51-w11",
+      "ar": "واجِبٌ مَنْزِلِيٌّ",
+      "tr": "wājibun manziliyy",
+      "nl": [
+        "huiswerk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l51-w12",
+      "ar": "أَنْهى",
+      "tr": "anhā",
+      "nl": [
+        "afmaken",
+        "beëindigen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُنْهي}."
+    },
+    {
+      "id": "j2-p5-l51-w13",
+      "ar": "تَأَخَّرَ",
+      "tr": "taʾaḫḫara",
+      "nl": [
+        "te laat zijn"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَتَأَخَّرُ}."
+    },
+    {
+      "id": "j2-p5-l51-w14",
+      "ar": "غَسّالَةٌ",
+      "tr": "ġassāla",
+      "nl": [
+        "wasmachine"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l51-w15",
+      "ar": "لا تَقْلَقْ",
+      "tr": "lā taqlaq",
+      "nl": [
+        "maak je geen zorgen"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Verbod: {ar|لا} + majzūm. Tegen een vrouw: {ar|لا تَقْلَقي}."
+    },
+    {
+      "id": "j2-p5-l51-w16",
+      "ar": "دَخَّنَ",
+      "tr": "daḫḫana",
+      "nl": [
+        "roken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|مَمْنوعُ التَّدْخينِ} = verboden te roken."
+    },
+    {
+      "id": "j2-p5-l51-w17",
+      "ar": "لَمَسَ",
+      "tr": "lamasa",
+      "nl": [
+        "aanraken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَلْمَسُ}."
+    },
+    {
+      "id": "j2-p5-l51-w18",
+      "ar": "مَمْنوعٌ",
+      "tr": "mamnūʿ",
+      "nl": [
+        "verboden"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Patroon مَفْعول van مَنَعَ (verbieden)."
+    },
+    {
+      "id": "j2-p5-l51-w19",
+      "ar": "مُهْمِلٌ",
+      "tr": "muhmil",
+      "nl": [
+        "slordig",
+        "nalatig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l51-w20",
+      "ar": "مَرَّةً أُخْرى",
+      "tr": "marratan uḫrā",
+      "nl": [
+        "nog een keer",
+        "opnieuw"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De verkorte wijs (majzūm)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "De majzūm lijkt op de manṣūb, met één verschil: waar de manṣūb eindigt op **-a**, heeft de majzūm een **sukūn** (geen klinker): {ar|يَكْتُبُ} → {ar|لَمْ يَكْتُبْ}.",
+            "De vijf vormen verliezen hun ـنَ / ـنِ, precies zoals in de manṣūb: {ar|لَمْ يَكْتُبوا}، {ar|لَمْ تَكْتُبي}، {ar|لَمْ يَكْتُبا}. De ـنَ van het vrouwelijk meervoud blijft: {ar|لَمْ يَكْتُبْنَ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Marfūʿ",
+            "Manṣūb",
+            "Majzūm"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أَكْتُبُ",
+              "أَنْ أَكْتُبَ",
+              "لَمْ أَكْتُبْ"
+            ],
+            [
+              "jij (v)",
+              "تَكْتُبينَ",
+              "أَنْ تَكْتُبي",
+              "لَمْ تَكْتُبي"
+            ],
+            [
+              "hij",
+              "يَكْتُبُ",
+              "أَنْ يَكْتُبَ",
+              "لَمْ يَكْتُبْ"
+            ],
+            [
+              "zij twee",
+              "يَكْتُبانِ",
+              "أَنْ يَكْتُبا",
+              "لَمْ يَكْتُبا"
+            ],
+            [
+              "zij (m)",
+              "يَكْتُبونَ",
+              "أَنْ يَكْتُبوا",
+              "لَمْ يَكْتُبوا"
+            ],
+            [
+              "zij (v)",
+              "يَكْتُبْنَ",
+              "أَنْ يَكْتُبْنَ",
+              "لَمْ يَكْتُبْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom staat er na {ar|لَمْ} een muḍāriʿ als het over het verleden gaat? {ar|لَمْ} zelf draagt de verleden tijd; het werkwoord levert alleen persoon en betekenis. {ar|لَمْ أَكْتُبْ} en {ar|ما كَتَبْتُ} betekenen hetzelfde, maar {ar|لَمْ} is gebruikelijker in kranten, boeken en formele teksten. {ar|ما} + māḍī hoor je meer in gesproken Arabisch."
+        }
+      ]
+    },
+    {
+      "titel": "Nog niet en het verbod",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "**Nog niet**: {ar|لَمْ … بَعْدُ}. {ar|لَمْ أَدْفَعِ الفاتورَةَ بَعْدُ} = ik heb de rekening nog niet betaald.",
+            "**Verbod**: {ar|لا} + majzūm van de 2e persoon. {ar|لا تَلْمَسْ!} = raak niet aan! (m); {ar|لا تَلْمَسي!} (v); {ar|لا تَلْمَسوا!} (mv)."
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Volgt na de sukūn een woord met ال, dan krijgt de sukūn een **i** om de twee medeklinkers te verbinden: {ar|لَمْ يَدْفَعِ الفاتورَةَ}. Dat is alleen uitspraak; de vorm blijft majzūm."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لَمْ أُنَظِّفِ البَيْتَ بَعْدُ.",
+              "tr": "lam unaẓẓifi l-bayta baʿdu.",
+              "nl": "Ik heb het huis nog niet schoongemaakt."
+            },
+            {
+              "ar": "لَمْ يَغْسِلوا الصُّحونَ.",
+              "tr": "lam yaġsilū ṣ-ṣuḥūn.",
+              "nl": "Ze hebben de afwas niet gedaan."
+            },
+            {
+              "ar": "هَلْ رَتَّبْتَ غُرْفَتَكَ؟ — لا، لَمْ أُرَتِّبْها بَعْدُ.",
+              "tr": "hal rattabta ġurfatak? — lā, lam urattibhā baʿdu.",
+              "nl": "Heb je je kamer opgeruimd? — Nee, nog niet."
+            },
+            {
+              "ar": "لا تَقْلَقْ، سَأُصْلِحُ الغَسّالَةَ.",
+              "tr": "lā taqlaq, sa-uṣliḥu l-ġassāla.",
+              "nl": "Maak je geen zorgen, ik repareer de wasmachine."
+            },
+            {
+              "ar": "لا تَتَأَخَّروا مَرَّةً أُخْرى!",
+              "tr": "lā tataʾaḫḫarū marratan uḫrā!",
+              "nl": "Kom niet nog een keer te laat!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "دَفَعَ",
+              "nl": "betalen"
+            },
+            {
+              "ar": "فاتورَةٌ",
+              "nl": "rekening",
+              "woord": "j2-p5-l51-w06"
+            },
+            {
+              "ar": "نَظَّفَ",
+              "nl": "schoonmaken",
+              "woord": "j2-p5-l51-w07"
+            },
+            {
+              "ar": "رَتَّبَ",
+              "nl": "opruimen",
+              "woord": "j2-p5-l51-w08"
+            },
+            {
+              "ar": "أَصْلَحَ",
+              "nl": "repareren",
+              "woord": "j2-p5-l51-w09"
+            },
+            {
+              "ar": "غَسّالَةٌ",
+              "nl": "wasmachine",
+              "woord": "j2-p5-l51-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "majzum-lam",
+          "tekst": "لَمْ أَدْفَعِ الفاتورَةَ بَعْدُ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb de rekening nog niet betaald.",
+            "Ik betaal de rekening morgen.",
+            "Ik heb de rekening al betaald."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ … بَعْدُ} = nog niet."
+        }
+      ]
+    },
+    {
+      "titel": "لَمْ + majzūm",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "majzum-lam",
+          "instructie": "Zet na لَمْ (majzūm): يَدْفَعُ → لَمْ ...",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "أَدْفَعْ",
+              "tr": "adfaʿ"
+            },
+            {
+              "label": "jij (v)",
+              "antwoord": "تَدْفَعي",
+              "tr": "tadfaʿī"
+            },
+            {
+              "label": "wij",
+              "antwoord": "نَدْفَعْ",
+              "tr": "nadfaʿ"
+            },
+            {
+              "label": "zij (m mv)",
+              "antwoord": "يَدْفَعوا",
+              "tr": "yadfaʿū"
+            },
+            {
+              "label": "zij (v mv)",
+              "antwoord": "يَدْفَعْنَ",
+              "tr": "yadfaʿna"
+            }
+          ],
+          "uitleg": "Sukūn; ـونَ/ـينَ verliezen de ن; ـْنَ blijft."
+        },
+        {
+          "type": "invullen",
+          "tag": "majzum-lam",
+          "zin": "لَمْ ___ الواجِبَ أَمْسِ.",
+          "nl": "Hij heeft gisteren zijn huiswerk niet gemaakt.",
+          "woordbank": [
+            "يَكْتُبِ",
+            "كَتَبَ",
+            "يَكْتُبُ"
+          ],
+          "antwoord": [
+            "يَكْتُبِ",
+            "يَكْتُبْ"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm (sukūn → i vóór ال)."
+        },
+        {
+          "type": "invullen",
+          "tag": "majzum-lam",
+          "zin": "الأَوْلادُ لَمْ ___ غُرْفَتَهُمْ.",
+          "nl": "De kinderen hebben hun kamer niet opgeruimd.",
+          "woordbank": [
+            "يُرَتِّبوا",
+            "يُرَتِّبونَ",
+            "رَتَّبوا"
+          ],
+          "antwoord": [
+            "يُرَتِّبوا"
+          ],
+          "uitleg": "ـونَ → ـوا"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "majzum-lam",
+          "vraag": "Welke zin betekent hetzelfde als {ar|ما فَهِمْتُ}?",
+          "opties": [
+            "لَمْ أَفْهَمْ",
+            "لَنْ أَفْهَمَ",
+            "لا أَفْهَمُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ} + majzūm = verleden ontkend."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "majzum-lam",
+          "vraag": "Wat betekent {ar|لَمْ يَصِلْ بَعْدُ}?",
+          "opties": [
+            "Hij is nog niet aangekomen.",
+            "Hij komt niet aan.",
+            "Hij is al aangekomen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ … بَعْدُ} = nog niet."
+        }
+      ]
+    },
+    {
+      "titel": "Het verbod",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "verbod",
+          "zin": "لا ___ هُنا!",
+          "nl": "Rook hier niet! (m)",
+          "woordbank": [
+            "تُدَخِّنْ",
+            "تُدَخِّنُ",
+            "دَخَّنْتَ"
+          ],
+          "antwoord": [
+            "تُدَخِّنْ"
+          ],
+          "uitleg": "{ar|لا} + majzūm.",
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "verbod",
+          "zin": "لا ___ يا سارَةُ!",
+          "nl": "Maak je geen zorgen, Sara!",
+          "woordbank": [
+            "تَقْلَقي",
+            "تَقْلَقينَ",
+            "تَقْلَقْ"
+          ],
+          "antwoord": [
+            "تَقْلَقي"
+          ],
+          "uitleg": "Tegen een vrouw: ـينَ → ـي."
+        },
+        {
+          "type": "ordenen",
+          "tag": "verbod",
+          "nl": "Kom niet nog een keer te laat!",
+          "woorden": [
+            "لا",
+            "تَتَأَخَّروا",
+            "مَرَّةً",
+            "أُخْرى!"
+          ],
+          "uitleg": "{ar|لا} + majzūm (mv)."
+        },
+        {
+          "type": "luisteren",
+          "tag": "verbod",
+          "tekst": "لا تَلْمَسْ هٰذا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Raak dit niet aan!",
+            "Hij raakt dit niet aan.",
+            "Ik raak dit niet aan."
+          ],
+          "juist": 0,
+          "uitleg": "Verbod."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "majzum-lam",
+          "bron": "Ik heb niet betaald.",
+          "antwoorden": [
+            "لَمْ أَدْفَعْ",
+            "ما دَفَعْتُ"
+          ],
+          "uitleg": "{ar|لَمْ أَدْفَعْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "verbod",
+          "bron": "Maak je geen zorgen! (m)",
+          "antwoorden": [
+            "لا تَقْلَقْ"
+          ],
+          "uitleg": "{ar|لا تَقْلَقْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "majzum-lam",
+          "bron": "لَمْ نُنَظِّفِ المَطْبَخَ بَعْدُ.",
+          "antwoorden": [
+            "we hebben de keuken nog niet schoongemaakt",
+            "wij hebben de keuken nog niet schoongemaakt"
+          ],
+          "uitleg": "{ar|لَمْ … بَعْدُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "verbod",
+          "bron": "مَمْنوعُ التَّدْخينِ.",
+          "antwoorden": [
+            "verboden te roken",
+            "roken verboden",
+            "het is verboden te roken"
+          ],
+          "uitleg": "{ar|مَمْنوعٌ} = verboden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَبَدًا",
+            "nl": "nooit"
+          },
+          {
+            "ar": "صُحونٌ",
+            "nl": "borden"
+          },
+          {
+            "ar": "تَأَخَّرَ",
+            "nl": "te laat zijn"
+          },
+          {
+            "ar": "مُهْمِلٌ",
+            "nl": "slordig"
+          },
+          {
+            "ar": "لَمَسَ",
+            "nl": "aanraken"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "majzum-lam",
+        "vraag": "Na {ar|لَمْ} wordt {ar|يَشْرَبونَ} ...",
+        "opties": [
+          "يَشْرَبوا",
+          "يَشْرَبونَ",
+          "يَشْرَبْ"
+        ],
+        "juist": 0,
+        "uitleg": "ـونَ → ـوا"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "majzum-lam",
+        "vraag": "Welke uitgang heeft de majzūm bij *ik* en *hij*?",
+        "opties": [
+          "sukūn (ـْ)",
+          "fatḥa (ـَ)",
+          "ḍamma (ـُ)"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ أَكْتُبْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "majzum-lam",
+        "vraag": "Wat betekent {ar|لَمْ يَتَّصِلْ بي أَحَدٌ}?",
+        "opties": [
+          "Niemand heeft me gebeld.",
+          "Iemand belde me.",
+          "Niemand zal me bellen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ} = verleden ontkend; {ar|أَحَدٌ} = iemand."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verbod",
+        "vraag": "'Ga niet weg! (mv)' is ...",
+        "opties": [
+          "لا تَذْهَبوا!",
+          "لا تَذْهَبونَ!",
+          "لَمْ تَذْهَبوا!"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا} + majzūm, 2e persoon."
+      },
+      {
+        "type": "luisteren",
+        "tag": "majzum-lam",
+        "tekst": "لَمْ يَغْسِلوا الصُّحونَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ze hebben de afwas niet gedaan.",
+          "Ze doen de afwas niet.",
+          "Ze gaan de afwas doen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ} + majzūm."
+      },
+      {
+        "type": "luisteren",
+        "tag": "verbod",
+        "tekst": "لا تَقْلَقي",
+        "vraag": "Tegen wie wordt dit gezegd?",
+        "opties": [
+          "een vrouw",
+          "een man",
+          "een groep"
+        ],
+        "juist": 0,
+        "uitleg": "ـي = vrouw."
+      },
+      {
+        "type": "invullen",
+        "tag": "majzum-lam",
+        "zin": "لَمْ ___ الفاتورَةَ بَعْدُ.",
+        "nl": "Wij hebben de rekening nog niet betaald.",
+        "woordbank": [
+          "نَدْفَعِ",
+          "دَفَعْنا",
+          "نَدْفَعُ"
+        ],
+        "antwoord": [
+          "نَدْفَعِ",
+          "نَدْفَعْ"
+        ],
+        "uitleg": "{ar|لَمْ} + majzūm."
+      },
+      {
+        "type": "invullen",
+        "tag": "verbod",
+        "zin": "لا ___ البابَ!",
+        "nl": "Doe de deur niet open! (m)",
+        "woordbank": [
+          "تَفْتَحِ",
+          "تَفْتَحُ",
+          "فَتَحْتَ"
+        ],
+        "antwoord": [
+          "تَفْتَحِ",
+          "تَفْتَحْ"
+        ],
+        "uitleg": "{ar|لا} + majzūm (sukūn → i vóór ال).",
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "majzum-lam",
+        "instructie": "Zet na لَمْ (majzūm): يَفْهَمُ → لَمْ ...",
+        "rijen": [
+          {
+            "label": "jij (m)",
+            "antwoord": "تَفْهَمْ",
+            "tr": "tafham"
+          },
+          {
+            "label": "jullie (m)",
+            "antwoord": "تَفْهَموا",
+            "tr": "tafhamū"
+          },
+          {
+            "label": "zij twee",
+            "antwoord": "يَفْهَما",
+            "tr": "yafhamā"
+          }
+        ],
+        "uitleg": "Sukūn; ـونَ → ـوا; ـانِ → ـا"
+      },
+      {
+        "type": "ordenen",
+        "tag": "majzum-lam",
+        "nl": "Ik heb het huis nog niet schoongemaakt.",
+        "woorden": [
+          "لَمْ",
+          "أُنَظِّفِ",
+          "البَيْتَ",
+          "بَعْدُ."
+        ],
+        "uitleg": "{ar|لَمْ … بَعْدُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "majzum-lam",
+        "bron": "Hij heeft niet gestudeerd.",
+        "antwoorden": [
+          "لَمْ يَدْرُسْ",
+          "ما دَرَسَ"
+        ],
+        "uitleg": "{ar|لَمْ يَدْرُسْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "majzum-lam",
+        "bron": "لَمْ أَرْجِعْ إِلى المَغْرِبِ حَتّى الآنَ.",
+        "antwoorden": [
+          "ik ben tot nu toe niet teruggegaan naar marokko",
+          "ik ben tot nu toe niet naar marokko teruggekeerd",
+          "ik ben nog niet teruggegaan naar marokko",
+          "tot nu toe ben ik niet teruggegaan naar marokko"
+        ],
+        "uitleg": "{ar|حَتّى الآنَ} = tot nu toe."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "verbod",
+        "bron": "لا تَتَأَخَّرْ!",
+        "antwoorden": [
+          "kom niet te laat",
+          "wees niet te laat",
+          "niet te laat komen"
+        ],
+        "uitleg": "Verbod: {ar|لا} + majzūm."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "j1-p3-h07",
+  "code": "H07",
+  "type": "herhaling",
+  "titel": "Herhaling 3A",
+  "thema": "De verleden tijd, de verbale zin en كانَ",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de māḍī in alle tien personen vervoegen en ontkennen met ما.",
+    "verbale en nominale zinnen correct laten congrueren.",
+    "zijn en hebben in de verleden tijd gebruiken met كانَ.",
+    "vertellen wat er gisteren of vorig weekend gebeurde."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de werkwoorden van les 25 tot en met 28 steeds als paar: māḍī en muḍāriʿ.",
+
+  "grammatica": [
+    {
+      "titel": "Muḍāriʿ en māḍī naast elkaar",
+      "blokken": [
+        { "type": "tabel", "kop": ["Persoon", "Muḍāriʿ", "Māḍī"], "arKolommen": [1, 2], "rijen": [
+          ["ik", "أَكْتُبُ", "كَتَبْتُ"],
+          ["jij (m)", "تَكْتُبُ", "كَتَبْتَ"],
+          ["jij (v)", "تَكْتُبِينَ", "كَتَبْتِ"],
+          ["hij", "يَكْتُبُ", "كَتَبَ"],
+          ["zij", "تَكْتُبُ", "كَتَبَتْ"],
+          ["wij", "نَكْتُبُ", "كَتَبْنا"],
+          ["jullie (m)", "تَكْتُبونَ", "كَتَبْتُمْ"],
+          ["jullie (v)", "تَكْتُبْنَ", "كَتَبْتُنَّ"],
+          ["zij (m)", "يَكْتُبونَ", "كَتَبُوا"],
+          ["zij (v)", "يَكْتُبْنَ", "كَتَبْنَ"]
+        ] },
+        { "type": "waarom", "md": "Muḍāriʿ: de persoon zit vooral **vooraan** (أَ، تَـ، يَـ، نَـ). Māḍī: de persoon zit **achteraan** (ـْتُ، ـْتَ، ـَتْ، ـْنا ...). Ontkennen: {ar|لا} + muḍāriʿ, {ar|ما} + māḍī. In de vervoegingstrainer kun je beide tijden voor 20 werkwoorden oefenen." }
+      ]
+    },
+    {
+      "titel": "Een verhaal in de verleden tijd",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "كانَ الجَوُّ جَميلًا يَوْمَ السَّبْتِ.", "tr": "kāna l-jawwu jamīlan yawma s-sabt.", "nl": "Het weer was mooi op zaterdag." },
+          { "ar": "رَكِبْنا الحافِلَةَ وَذَهَبْنا إِلى الشّاطِئِ.", "tr": "rakibnā l-ḥāfilata wa-ḏahabnā ila š-šāṭiʾ.", "nl": "We namen de bus en gingen naar het strand." },
+          { "ar": "لَعِبَ الأَطْفالُ وَشَرِبَتْ أُمّي الشّايَ.", "tr": "laʿiba l-aṭfālu wa-šaribat ummī š-šāy.", "nl": "De kinderen speelden en mijn moeder dronk thee." },
+          { "ar": "ما كانَ عِنْدَنا وَقْتٌ لِلْمُتْحَفِ.", "tr": "mā kāna ʿindanā waqtun li-l-mutḥaf.", "nl": "We hadden geen tijd voor het museum." },
+          { "ar": "رَجَعْنا مَساءً وَكُنّا مُتْعَبينَ.", "tr": "rajaʿnā masāʾan wa-kunnā mutʿabīn.", "nl": "We kwamen 's avonds terug en waren moe." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg لَعِبَ (spelen) in de verleden tijd.",
+          "rijen": [
+            { "label": "ik", "antwoord": "لَعِبْتُ", "tr": "laʿibtu" },
+            { "label": "zij (ev)", "antwoord": "لَعِبَتْ", "tr": "laʿibat" },
+            { "label": "wij", "antwoord": "لَعِبْنا", "tr": "laʿibnā" },
+            { "label": "jullie (m)", "antwoord": "لَعِبْتُمْ", "tr": "laʿibtum" },
+            { "label": "zij (m mv)", "antwoord": "لَعِبُوا", "tr": "laʿibū" }
+          ], "uitleg": "Klinker i blijft." },
+        { "type": "vervoegen", "tag": "kana", "instructie": "Vervoeg كانَ.",
+          "rijen": [
+            { "label": "ik", "antwoord": "كُنْتُ", "tr": "kuntu" },
+            { "label": "zij (ev)", "antwoord": "كانَتْ", "tr": "kānat" },
+            { "label": "zij (m mv)", "antwoord": "كانُوا", "tr": "kānū" }
+          ], "uitleg": "{ar|كُنْتُ} · {ar|كانَتْ} · {ar|كانُوا}" },
+        { "type": "meerkeuze", "tag": "madi-ontkenning", "vraag": "Welke ontkenning is juist?", "opties": ["ما ذَهَبْنا", "لا ذَهَبْنا", "لَسْنا ذَهَبْنا"], "juist": 0, "uitleg": "{ar|ما} + māḍī." },
+        { "type": "luisteren", "tag": "madi-meervoud", "tekst": "هَلْ أَكَلْتُمْ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Hebben jullie gegeten?", "Eten jullie?", "Hebben zij gegeten?"], "juist": 0, "uitleg": "ـْتُمْ = jullie (m), verleden." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "invullen", "tag": "verbale-zin", "zin": "___ الأَطْفالُ في الحَديقَةِ.", "nl": "De kinderen speelden in de tuin.", "woordbank": ["لَعِبَ", "لَعِبُوا", "لَعِبْنا"], "antwoord": ["لَعِبَ"], "uitleg": "Werkwoord eerst → enkelvoud." },
+        { "type": "invullen", "tag": "kana-accusatief", "zin": "كانَ الطَّعامُ ___.", "nl": "Het eten was lekker.", "woordbank": ["لَذيذًا", "لَذيذٌ", "اللَّذيذُ"], "antwoord": ["لَذيذًا"], "uitleg": "Na {ar|كانَ}: accusatief." },
+        { "type": "invullen", "tag": "kana-hebben", "zin": "___ عِنْدي امْتِحانٌ أَمْسِ.", "nl": "Ik had gisteren een examen.", "woordbank": ["كانَ", "كُنْتُ", "كانَتْ"], "antwoord": ["كانَ"], "uitleg": "{ar|كانَ} past zich aan {ar|امْتِحانٌ} aan." },
+        { "type": "ordenen", "tag": "madi-meervoud", "nl": "We namen de bus en gingen naar het strand.", "woorden": ["رَكِبْنا", "الحافِلَةَ", "وَذَهَبْنا", "إِلى", "الشّاطِئِ."], "uitleg": "Twee keer wij-vorm." },
+        { "type": "ordenen", "tag": "kana", "nl": "We kwamen 's avonds terug en waren moe.", "woorden": ["رَجَعْنا", "مَساءً", "وَكُنّا", "مُتْعَبينَ."], "uitleg": "{ar|كُنّا} + accusatief meervoud." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija voor {ar|نَعَمْ} is ...", "opties": ["إيه", "واخا", "بزاف"], "juist": 0, "uitleg": "{ar|إيه} (*īh*)." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "Zij kwam gisteren terug.", "antwoorden": ["رَجَعَتْ أَمْسِ", "هِيَ رَجَعَتْ أَمْسِ", "أَمْسِ رَجَعَتْ"], "uitleg": "{ar|رَجَعَتْ أَمْسِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kana-accusatief", "bron": "Ik was student.", "antwoorden": ["كُنْتُ طالِبًا", "كُنْتُ طالِبَةً"], "uitleg": "{ar|كُنْتُ طالِبًا}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "دَخَلَتِ المُعَلِّمَةُ الصَّفَّ.", "antwoorden": ["de lerares kwam de klas binnen", "de lerares ging de klas binnen", "de lerares ging de klas in"], "uitleg": "Verbale zin." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "ما فَهِمُوا السُّؤالَ.", "antwoorden": ["zij begrepen de vraag niet", "ze begrepen de vraag niet", "zij hebben de vraag niet begrepen"], "uitleg": "{ar|ما} + māḍī." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "madi-enkelvoud", "vraag": "'Jij (v) dronk' is ...", "opties": ["شَرِبْتِ", "شَرِبْتَ", "تَشْرَبِينَ"], "juist": 0, "uitleg": "-ti" },
+      { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "'Zij (v mv) schreven' is ...", "opties": ["كَتَبْنَ", "كَتَبْنا", "كَتَبُوا"], "juist": 0, "uitleg": "-na" },
+      { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "Welke zin is juist?", "opties": ["نَجَحَ الطُّلّابُ.", "نَجَحُوا الطُّلّابُ.", "الطُّلّابُ نَجَحَ."], "juist": 0, "uitleg": "Werkwoord eerst → enkelvoud." },
+      { "type": "meerkeuze", "tag": "kana-accusatief", "vraag": "'De les was moeilijk' is ...", "opties": ["كانَ الدَّرْسُ صَعْبًا.", "كانَ الدَّرْسُ صَعْبٌ.", "كانَ الدَّرْسَ صَعْبًا."], "juist": 0, "uitleg": "Onderwerp -u, gezegde -an." },
+      { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "طَبَخْتُ العَشاءَ", "vraag": "Wat hoor je?", "opties": ["Ik kookte het avondeten.", "Zij kookte het avondeten.", "Ik kook het avondeten."], "juist": 0, "uitleg": "ـْتُ = ik." },
+      { "type": "luisteren", "tag": "kana", "tekst": "كانُوا في المُتْحَفِ", "vraag": "Wat hoor je?", "opties": ["Zij waren in het museum.", "Wij waren in het museum.", "Hij was in het museum."], "juist": 0, "uitleg": "{ar|كانُوا} = zij waren." },
+      { "type": "invullen", "tag": "madi-meervoud", "zin": "نَحْنُ ___ إِلى السّوقِ.", "nl": "Wij gingen naar de markt.", "antwoord": ["ذَهَبْنا"], "uitleg": "{ar|ذَهَبْنا}" },
+      { "type": "invullen", "tag": "madi-ontkenning", "zin": "___ وَصَلَ القِطارُ.", "nl": "De trein kwam niet aan.", "woordbank": ["ما", "لا", "لَيْسَ"], "antwoord": ["ما"], "uitleg": "{ar|ما} + māḍī." },
+      { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg رَجَعَ (terugkomen) in de verleden tijd.",
+        "rijen": [
+          { "label": "jij (m)", "antwoord": "رَجَعْتَ", "tr": "rajaʿta", "eind": true },
+          { "label": "jullie (v)", "antwoord": "رَجَعْتُنَّ", "tr": "rajaʿtunna" }
+        ], "uitleg": "{ar|رَجَعْتَ} · {ar|رَجَعْتُنَّ}" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "شاطِئٌ", "nl": "strand" },
+        { "ar": "حِصَّةٌ", "nl": "lesuur" },
+        { "ar": "قَرْيَةٌ", "nl": "dorp" },
+        { "ar": "ثُمَّ", "nl": "daarna" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "kana-hebben", "nl": "Toen ik klein was, had ik een hond.", "woorden": ["عِنْدَما", "كُنْتُ", "صَغيرًا", "كانَ", "عِنْدي", "كَلْبٌ."], "uitleg": "Twee keer {ar|كانَ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "Ik begreep het niet.", "antwoorden": ["ما فَهِمْتُ"], "uitleg": "{ar|ما فَهِمْتُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "verbale-zin", "bron": "De leerlingen lazen het verhaal.", "antwoorden": ["قَرَأَ التَّلاميذُ القِصَّةَ", "التَّلاميذُ قَرَؤوا القِصَّةَ", "قَرَأَ الطُّلّابُ القِصَّةَ"], "uitleg": "{ar|قَرَأَ التَّلاميذُ القِصَّةَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "kana", "bron": "أَيْنَ كُنْتِ؟", "antwoorden": ["waar was je", "waar was jij"], "uitleg": "{ar|كُنْتِ} = jij (v) was." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "وَصَلُوا مُتَأَخِّرينَ.", "antwoorden": ["zij kwamen te laat aan", "ze kwamen te laat aan", "zij kwamen laat aan", "ze kwamen laat aan"], "uitleg": "{ar|وَصَلُوا} = zij kwamen aan." }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "j2-p7-d13",
+  "code": "D13",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: gevoelens en het weer",
+  "thema": "Zeggen hoe je je voelt en hoe het weer is",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "gevoelens benoemen in het Darija.",
+    "over het weer praten.",
+    "Darija-bijvoeglijke naamwoorden laten congrueren (فرحان / فرحانة / فرحانين)."
+  ],
+
+  "woorden": [
+    { "id": "j2-p7-d13-w01", "ar": "فرحان", "tr": "fəṛḥān", "nl": ["blij"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|فرحانة}; meervoud: {ar|فرحانين}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w02", "ar": "مقلق", "tr": "mqəlləq", "nl": ["geïrriteerd", "boos"], "soort": "bijvoeglijk naamwoord", "notitie": "Fusha {ar|قَلِقٌ} = bezorgd: andere betekenis!", "review": { "status": "onzeker", "note": "Darija-betekenis bevestigen." } },
+    { "id": "j2-p7-d13-w03", "ar": "عيان", "tr": "ʿyyān", "nl": ["moe"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w04", "ar": "مقهور", "tr": "maqhūṛ", "nl": ["verdrietig", "gefrustreerd"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija-betekenis bevestigen." } },
+    { "id": "j2-p7-d13-w05", "ar": "خايف", "tr": "xāyəf", "nl": ["bang"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w06", "ar": "زوين", "tr": "zwīn", "nl": ["mooi", "leuk"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w07", "ar": "خايب", "tr": "xāyəb", "nl": ["slecht", "lelijk"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w08", "ar": "الشتا", "tr": "ššta", "nl": ["de regen", "de winter"], "soort": "zelfstandig naamwoord", "notitie": "{ar|كتصب الشتا} = het regent.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w09", "ar": "الشمش", "tr": "ššəmš", "nl": ["de zon"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|الشَّمْسُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w10", "ar": "السخانة", "tr": "sxāna", "nl": ["de hitte"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w11", "ar": "البرد", "tr": "lbəṛd", "nl": ["de kou"], "soort": "zelfstandig naamwoord", "notitie": "{ar|فيا البرد} = ik heb het koud.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w12", "ar": "الريح", "tr": "rrīḥ", "nl": ["de wind"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w13", "ar": "كتصب", "tr": "katṣubb", "nl": ["het giet (regent)"], "soort": "werkwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w14", "ar": "الجو زوين", "tr": "ljaww zwīn", "nl": ["het weer is mooi"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w15", "ar": "فيا النعاس", "tr": "fiyya nnʿās", "nl": ["ik ben slaperig"], "soort": "uitdrukking", "notitie": "Letterlijk: in mij is slaap.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p7-d13-w16", "ar": "واش نتا بخير؟", "tr": "wāš nta bxīr?", "nl": ["gaat het goed met je?"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Gevoelens in het Darija",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Darija-bijvoeglijke naamwoorden hebben drie vormen: mannelijk, vrouwelijk (-a) en meervoud (-īn): {ar|فرحان}، {ar|فرحانة}، {ar|فرحانين}. Er is geen apart vrouwelijk meervoud.",
+          "Lichamelijke toestanden zeg je vaak met {ar|فيا} (*in mij*): {ar|فيا البرد} (ik heb het koud), {ar|فيا الجوع} (ik heb honger)."
+        ] },
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["blij", "سَعيدٌ / فَرْحانُ", "فرحان|fəṛḥān"],
+          ["moe", "مُتْعَبٌ", "عيان|ʿyyān"],
+          ["mooi", "جَميلٌ", "زوين|zwīn"],
+          ["het regent", "تُمْطِرُ", "كتصب الشتا|katṣubb ššta"],
+          ["ik heb het koud", "أَشْعُرُ بِالبَرْدِ", "فيا البرد|fiyya lbəṛd"]
+        ] },
+        { "type": "waarom", "md": "Let op schijnbare 'valse vrienden': {ar|مقلق} betekent in het Darija *geïrriteerd*, terwijl Fusha {ar|قَلِقٌ} *bezorgd* is. En {ar|الشتا} is in het Darija zowel *regen* als *winter* (de regentijd)." }
+      ]
+    },
+    {
+      "titel": "Het weer",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "اليوم الجو زوين والشمش طالعة.", "tr": "lyūm ljaww zwīn w-ššəmš ṭālʿa.", "nl": "Vandaag is het mooi weer en schijnt de zon.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "البارح كانت كتصب الشتا بزاف.", "tr": "lbāṛəḥ kānt katṣubb ššta bəzzāf.", "nl": "Gisteren regende het heel hard.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "أنا عيان وفيا النعاس.", "tr": "ana ʿyyān w-fiyya nnʿās.", "nl": "Ik ben moe en slaperig.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "علاش نتي مقلقة؟", "tr": "ʿlāš nti mqəlləqa?", "nl": "Waarom ben jij (v) geïrriteerd?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-gevoel-weer", "paren": [
+          { "ar": "فرحان", "nl": "blij", "woord": "j2-p7-d13-w01" },
+          { "ar": "عيان", "nl": "moe", "woord": "j2-p7-d13-w03" },
+          { "ar": "خايف", "nl": "bang", "woord": "j2-p7-d13-w05" },
+          { "ar": "زوين", "nl": "mooi", "woord": "j2-p7-d13-w06" },
+          { "ar": "الريح", "nl": "wind", "woord": "j2-p7-d13-w12" },
+          { "ar": "السخانة", "nl": "hitte", "woord": "j2-p7-d13-w10" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "darija-gevoel-weer", "tekst": "كتصب الشتا", "vraag": "Hoe is het weer?", "opties": ["Het regent.", "De zon schijnt.", "Het waait."], "juist": 0, "uitleg": "*katṣubb ššta* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Gevoel en weer",
+      "items": [
+        { "type": "invullen", "tag": "darija-gevoel-weer", "zin": "هي ___ اليوم.", "nl": "Zij is blij vandaag.", "woordbank": ["فرحانة", "فرحان", "فرحانين"], "antwoord": ["فرحانة"], "uitleg": "Vrouwelijk: -a." },
+        { "type": "invullen", "tag": "darija-gevoel-weer", "zin": "___ البرد، سد الشرجم.", "nl": "Ik heb het koud, doe het raam dicht.", "woordbank": ["فيا", "عندي", "أنا"], "antwoord": ["فيا"], "uitleg": "{ar|فيا} + toestand.", "review": { "status": "onzeker", "note": "سد (dichtdoen) bevestigen." } },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija {ar|زوين} is in het Fusha ...", "opties": ["جَميلٌ", "قَبيحٌ", "كَبيرٌ"], "juist": 0, "uitleg": "{ar|زوين} = mooi." },
+        { "type": "ordenen", "tag": "darija-gevoel-weer", "nl": "Ik ben moe en slaperig.", "woorden": ["أنا", "عيان", "وفيا", "النعاس."], "uitleg": "{ar|فيا النعاس}" }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-gevoel-weer", "bron": "het weer is mooi (Darija)", "antwoorden": ["الجو زوين"], "uitleg": "{ar|الجو زوين}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-gevoel-weer", "bron": "حنا فرحانين", "tr": "ḥna fəṛḥānīn", "antwoorden": ["we zijn blij", "wij zijn blij"], "uitleg": "Meervoud: -īn." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-gevoel-weer", "paren": [
+        { "ar": "مقلق", "nl": "geïrriteerd" },
+        { "ar": "مقهور", "nl": "verdrietig" },
+        { "ar": "خايب", "nl": "slecht" },
+        { "ar": "الشمش", "nl": "zon" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "darija-gevoel-weer", "vraag": "Hoe zeg je 'het regent' in het Darija?", "opties": ["كتصب الشتا", "الشمش طالعة", "فيا البرد"], "juist": 0, "uitleg": "{ar|كتصب الشتا}" },
+      { "type": "meerkeuze", "tag": "darija-gevoel-weer", "vraag": "Het meervoud van {ar|عيان} is ...", "opties": ["عيانين", "عيانة", "عيانات"], "juist": 0, "uitleg": "-īn." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Wat betekent {ar|مقلق} in het Darija?", "opties": ["geïrriteerd", "bezorgd", "blij"], "juist": 0, "uitleg": "Anders dan Fusha {ar|قَلِقٌ}." },
+      { "type": "luisteren", "tag": "darija-gevoel-weer", "tekst": "فيا البرد", "vraag": "Wat hoor je?", "opties": ["Ik heb het koud.", "Ik heb het warm.", "Het waait."], "juist": 0, "uitleg": "{ar|فيا البرد}" },
+      { "type": "luisteren", "tag": "darija-gevoel-weer", "tekst": "أنا فرحان بزاف", "vraag": "Wat hoor je?", "opties": ["Ik ben heel blij.", "Ik ben heel moe.", "Ik ben bang."], "juist": 0, "uitleg": "{ar|فرحان}" },
+      { "type": "invullen", "tag": "darija-gevoel-weer", "zin": "اليوم ___ زوين.", "nl": "Het weer is mooi vandaag.", "woordbank": ["الجو", "الشتا", "البرد"], "antwoord": ["الجو"], "uitleg": "{ar|الجو} = het weer." },
+      { "type": "invullen", "tag": "darija-gevoel-weer", "zin": "علاش نتي ___؟", "nl": "Waarom ben je bang? (v)", "woordbank": ["خايفة", "خايف", "خايفين"], "antwoord": ["خايفة"], "uitleg": "Vrouwelijk." },
+      { "type": "ordenen", "tag": "darija-gevoel-weer", "nl": "Vandaag is het mooi weer.", "woorden": ["اليوم", "الجو", "زوين."], "uitleg": "Tijd – weer – bijv. nw." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-gevoel-weer", "bron": "moe (Darija, m)", "antwoorden": ["عيان"], "uitleg": "{ar|عيان}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-gevoel-weer", "bron": "de wind (Darija)", "antwoorden": ["الريح"], "uitleg": "{ar|الريح}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-gevoel-weer", "bron": "واش نتا بخير؟", "tr": "wāš nta bxīr?", "antwoorden": ["gaat het goed met je", "is alles goed met je", "gaat het goed"], "uitleg": "{ar|واش} = ja/nee-vraag." }
+    ]
+  }
+}

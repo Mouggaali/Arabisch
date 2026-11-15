@@ -1,0 +1,718 @@
+{
+  "id": "j2-p5-d07",
+  "code": "D07",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: familie en bezit (ديال)",
+  "thema": "Over je familie praten en zeggen van wie iets is",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "bezit uitdrukken met ديال (van).",
+    "ديال combineren met suffixen: ديالي، ديالك …",
+    "familieleden benoemen in het Darija en vergelijken met het Fusha."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-d07-w01",
+      "ar": "ديال",
+      "tr": "dyāl",
+      "nl": [
+        "van (bezit)"
+      ],
+      "soort": "partikel",
+      "notitie": "Vervangt vaak de iḍāfa: {ar|الكتاب ديال الأستاذ} = {ar|كِتابُ الأُسْتاذِ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w02",
+      "ar": "ديالي",
+      "tr": "dyāli",
+      "nl": [
+        "van mij",
+        "mijn"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w03",
+      "ar": "ديالك",
+      "tr": "dyālək",
+      "nl": [
+        "van jou",
+        "jouw"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w04",
+      "ar": "ديالو",
+      "tr": "dyālu",
+      "nl": [
+        "van hem",
+        "zijn"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w05",
+      "ar": "ديالها",
+      "tr": "dyālha",
+      "nl": [
+        "van haar",
+        "haar"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w06",
+      "ar": "ديالنا",
+      "tr": "dyālna",
+      "nl": [
+        "van ons",
+        "ons"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w07",
+      "ar": "ديالكوم",
+      "tr": "dyālkum",
+      "nl": [
+        "van jullie"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w08",
+      "ar": "ديالهوم",
+      "tr": "dyālhum",
+      "nl": [
+        "van hen",
+        "hun"
+      ],
+      "soort": "bezittelijk",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w09",
+      "ar": "الواليد",
+      "tr": "lwālid",
+      "nl": [
+        "de vader"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|بّا} (bba). Fusha: {ar|الأَبُ} / {ar|الوالِدُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w10",
+      "ar": "الواليدة",
+      "tr": "lwālida",
+      "nl": [
+        "de moeder"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|مّي} (mmi).",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w11",
+      "ar": "خويا",
+      "tr": "xūya",
+      "nl": [
+        "mijn broer"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|أَخي}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w13",
+      "ar": "الدراري",
+      "tr": "ddṛāri",
+      "nl": [
+        "de kinderen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Fusha: {ar|الأَوْلادُ} / {ar|الأَطْفالُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w14",
+      "ar": "المرا",
+      "tr": "lmṛa",
+      "nl": [
+        "de vrouw",
+        "de echtgenote"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|المَرْأَةُ} / {ar|الزَّوْجَةُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w15",
+      "ar": "الراجل",
+      "tr": "ṛṛājəl",
+      "nl": [
+        "de man",
+        "de echtgenoot"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|الرَّجُلُ} / {ar|الزَّوْجُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w16",
+      "ar": "الطوموبيل",
+      "tr": "ṭṭomobīl",
+      "nl": [
+        "de auto"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Uit het Frans *automobile*. Fusha: {ar|السَّيّارَةُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija-spelling bevestigen."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w17",
+      "ar": "الدار",
+      "tr": "ddāṛ",
+      "nl": [
+        "het huis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|البَيْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen; ook Fusha-woord (دارٌ)."
+      }
+    },
+    {
+      "id": "j2-p5-d07-w18",
+      "ar": "ديال من؟",
+      "tr": "dyāl mən?",
+      "nl": [
+        "van wie?"
+      ],
+      "soort": "vraag",
+      "notitie": "Fusha: {ar|لِمَنْ؟}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Bezit met ديال",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Het Darija gebruikt vaak **ديال** (*van*) in plaats van een iḍāfa of een bezittelijk suffix: {ar|الطوموبيل ديالي} = *mijn auto*. Het eerste woord krijgt dan **wel** het lidwoord.",
+            "Bij familieleden en lichaamsdelen hoor je meestal nog het suffix direct aan het woord: {ar|خويا} (mijn broer), niet {ar|الخو ديالي}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "mijn huis",
+              "بَيْتي",
+              "الدار ديالي|ddāṛ dyāli"
+            ],
+            [
+              "jouw auto",
+              "سَيّارَتُكَ",
+              "الطوموبيل ديالك|ṭṭomobīl dyālək"
+            ],
+            [
+              "zijn boek",
+              "كِتابُهُ",
+              "الكتاب ديالو|lktāb dyālu"
+            ],
+            [
+              "het huis van de leraar",
+              "بَيْتُ الأُسْتاذِ",
+              "الدار ديال الأستاذ|ddāṛ dyāl l-ustād"
+            ],
+            [
+              "van wie?",
+              "لِمَنْ؟",
+              "ديال من؟|dyāl mən?"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom ديال? Een losse bezitspartikel maakt de zin eenvoudiger: je hoeft niets aan het woord zelf te veranderen (geen ة → ت, geen naamval). Veel Arabische dialecten doen dit, elk met een eigen woord (Egyptisch {ar|بِتاع}, Levantijns {ar|تَبَع})."
+        }
+      ]
+    },
+    {
+      "titel": "Mijn familie",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "هادي الدار ديالنا.",
+              "tr": "hādi ddāṛ dyālna.",
+              "nl": "Dit is ons huis.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "خويا ساكن ف كازا.",
+              "tr": "xūya sākən f-kāza.",
+              "nl": "Mijn broer woont in Casablanca.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الدراري ديالها صغار.",
+              "tr": "ddṛāri dyālha ṣġāṛ.",
+              "nl": "Haar kinderen zijn klein.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ديال من هاد الطوموبيل؟ — ديال الواليد.",
+              "tr": "dyāl mən hād ṭṭomobīl? — dyāl lwālid.",
+              "nl": "Van wie is deze auto? — Van mijn vader.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-bezit",
+          "paren": [
+            {
+              "ar": "ديالي",
+              "nl": "van mij",
+              "woord": "j2-p5-d07-w02"
+            },
+            {
+              "ar": "ديالو",
+              "nl": "van hem",
+              "woord": "j2-p5-d07-w04"
+            },
+            {
+              "ar": "ديالها",
+              "nl": "van haar",
+              "woord": "j2-p5-d07-w05"
+            },
+            {
+              "ar": "ديالنا",
+              "nl": "van ons",
+              "woord": "j2-p5-d07-w06"
+            },
+            {
+              "ar": "ديالهوم",
+              "nl": "van hen",
+              "woord": "j2-p5-d07-w08"
+            }
+          ],
+          "uitleg": "ديال + suffix."
+        },
+        {
+          "type": "koppelen",
+          "tag": "darija-fusha",
+          "paren": [
+            {
+              "ar": "خويا",
+              "nl": "mijn broer",
+              "woord": "j2-p5-d07-w11"
+            },
+            {
+              "ar": "ختي",
+              "nl": "mijn zus"
+            },
+            {
+              "ar": "الدراري",
+              "nl": "de kinderen",
+              "woord": "j2-p5-d07-w13"
+            },
+            {
+              "ar": "الطوموبيل",
+              "nl": "de auto",
+              "woord": "j2-p5-d07-w16"
+            }
+          ],
+          "uitleg": "Familie en bezit."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-bezit",
+          "tekst": "الدار ديالنا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "ons huis",
+            "mijn huis",
+            "hun huis"
+          ],
+          "juist": 0,
+          "uitleg": "*ddāṛ dyālna* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "ديال gebruiken",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-bezit",
+          "zin": "الطوموبيل ___",
+          "nl": "mijn auto",
+          "woordbank": [
+            "ديالي",
+            "ديالك",
+            "ديالو"
+          ],
+          "antwoord": [
+            "ديالي"
+          ],
+          "uitleg": "ـي = mijn."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-bezit",
+          "zin": "___ هاد الكتاب؟",
+          "nl": "Van wie is dit boek?",
+          "woordbank": [
+            "ديال من",
+            "شكون",
+            "فين"
+          ],
+          "antwoord": [
+            "ديال من"
+          ],
+          "uitleg": "{ar|ديال من؟} = van wie?"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "darija-bezit",
+          "instructie": "Maak 'de auto van ...' met ديال.",
+          "rijen": [
+            {
+              "label": "jou",
+              "antwoord": "ديالك",
+              "tr": "dyālək"
+            },
+            {
+              "label": "ons",
+              "antwoord": "ديالنا",
+              "tr": "dyālna"
+            },
+            {
+              "label": "jullie",
+              "antwoord": "ديالكوم",
+              "tr": "dyālkum"
+            }
+          ],
+          "uitleg": "ديال + suffix."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Fusha {ar|بَيْتُ الأُسْتاذِ} is in het Darija ...",
+          "opties": [
+            "الدار ديال الأستاذ",
+            "دار الأستاذ ديالي",
+            "الأستاذ الدار"
+          ],
+          "juist": 0,
+          "uitleg": "Woord met lidwoord + ديال + bezitter."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-bezit",
+          "nl": "Van wie is deze auto? — Van mijn vader.",
+          "woorden": [
+            "ديال",
+            "من",
+            "هاد",
+            "الطوموبيل؟",
+            "ديال",
+            "الواليد."
+          ],
+          "uitleg": "{ar|ديال من؟}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-fusha",
+          "bron": "mijn broer (Darija)",
+          "antwoorden": [
+            "خويا"
+          ],
+          "uitleg": "{ar|خويا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-bezit",
+          "bron": "الدراري ديالها",
+          "tr": "ddṛāri dyālha",
+          "antwoorden": [
+            "haar kinderen",
+            "de kinderen van haar"
+          ],
+          "uitleg": "ديال + ـها."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-fusha",
+        "paren": [
+          {
+            "ar": "الواليد",
+            "nl": "de vader"
+          },
+          {
+            "ar": "الواليدة",
+            "nl": "de moeder"
+          },
+          {
+            "ar": "المرا",
+            "nl": "de echtgenote"
+          },
+          {
+            "ar": "الراجل",
+            "nl": "de echtgenoot"
+          }
+        ],
+        "uitleg": "Familie in het Darija."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-bezit",
+        "vraag": "{ar|ديال} betekent ...",
+        "opties": [
+          "van (bezit)",
+          "met",
+          "voor"
+        ],
+        "juist": 0,
+        "uitleg": "Bezitspartikel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-bezit",
+        "vraag": "'Jouw huis' in het Darija is ...",
+        "opties": [
+          "الدار ديالك",
+          "الدار ديالي",
+          "دارك ديال"
+        ],
+        "juist": 0,
+        "uitleg": "ديال + ـك."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Fusha {ar|لِمَنْ؟} is in het Darija ...",
+        "opties": [
+          "ديال من؟",
+          "شنو؟",
+          "علاش؟"
+        ],
+        "juist": 0,
+        "uitleg": "Van wie?"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-bezit",
+        "tekst": "الكتاب ديالو",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "zijn boek",
+          "haar boek",
+          "mijn boek"
+        ],
+        "juist": 0,
+        "uitleg": "*dyālu* = van hem."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-fusha",
+        "tekst": "ختي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "mijn zus",
+          "mijn broer",
+          "mijn moeder"
+        ],
+        "juist": 0,
+        "uitleg": "*xti*"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-bezit",
+        "zin": "الدار ___ كبيرة.",
+        "nl": "Hun huis is groot.",
+        "woordbank": [
+          "ديالهوم",
+          "ديالها",
+          "ديالنا"
+        ],
+        "antwoord": [
+          "ديالهوم"
+        ],
+        "uitleg": "ـهوم = hun."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-bezit",
+        "zin": "هادي الطوموبيل ___ الأستاذ.",
+        "nl": "Dit is de auto van de leraar.",
+        "woordbank": [
+          "ديال",
+          "ديالي",
+          "من"
+        ],
+        "antwoord": [
+          "ديال"
+        ],
+        "uitleg": "{ar|ديال} + bezitter."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "darija-bezit",
+        "instructie": "Maak 'het huis van ...' met ديال.",
+        "rijen": [
+          {
+            "label": "hem",
+            "antwoord": "ديالو",
+            "tr": "dyālu"
+          },
+          {
+            "label": "haar",
+            "antwoord": "ديالها",
+            "tr": "dyālha"
+          }
+        ],
+        "uitleg": "ديال + suffix."
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-bezit",
+        "nl": "Dit is ons huis.",
+        "woorden": [
+          "هادي",
+          "الدار",
+          "ديالنا."
+        ],
+        "uitleg": "{ar|ديالنا} = van ons."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-bezit",
+        "bron": "van mij (Darija)",
+        "antwoorden": [
+          "ديالي"
+        ],
+        "uitleg": "{ar|ديالي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-fusha",
+        "bron": "خويا ساكن ف كازا.",
+        "tr": "xūya sākən f-kāza.",
+        "antwoorden": [
+          "mijn broer woont in casablanca",
+          "mijn broer woont in casa"
+        ],
+        "uitleg": "{ar|خويا} = mijn broer."
+      }
+    ]
+  }
+}

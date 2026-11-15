@@ -1,0 +1,165 @@
+{
+  "id": "j1-p2-l15",
+  "code": "L15",
+  "type": "les",
+  "titel": "Meubels en plaats",
+  "thema": "Zeggen waar iets staat in huis",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "meubels en voorwerpen in huis benoemen.",
+    "voorzetsels van plaats gebruiken: in, op, onder, voor, achter, naast, tussen.",
+    "na een voorzetsel de genitief toepassen.",
+    "'er is / er zijn' uitdrukken met هُناكَ of met een plaatsbepaling vooraan."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l15-w01", "ar": "في", "tr": "fī", "nl": ["in"], "soort": "voorzetsel", "notitie": "Voor ال kort uitgesproken: {ar|في البَيْتِ} = *fi l-bayt*." },
+    { "id": "j1-p2-l15-w02", "ar": "عَلى", "tr": "ʿalā", "nl": ["op"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w03", "ar": "تَحْتَ", "tr": "taḥta", "nl": ["onder"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w04", "ar": "فَوْقَ", "tr": "fawqa", "nl": ["boven"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w05", "ar": "أَمامَ", "tr": "amāma", "nl": ["voor", "tegenover"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w06", "ar": "خَلْفَ", "tr": "ḫalfa", "nl": ["achter"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w07", "ar": "بِجانِبِ", "tr": "bi-jānibi", "nl": ["naast"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w08", "ar": "بَيْنَ", "tr": "bayna", "nl": ["tussen"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w09", "ar": "قُرْبَ", "tr": "qurba", "nl": ["bij", "dichtbij"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w10", "ar": "داخِلَ", "tr": "dāḫila", "nl": ["binnen in"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w11", "ar": "خارِجَ", "tr": "ḫārija", "nl": ["buiten"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l15-w12", "ar": "سَريرٌ", "tr": "sarīr", "nl": ["bed"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w13", "ar": "خِزانَةٌ", "tr": "ḫizāna", "nl": ["kast"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w14", "ar": "أَريكَةٌ", "tr": "arīka", "nl": ["bank", "sofa"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w15", "ar": "مِرْآةٌ", "tr": "mirʾāh", "nl": ["spiegel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w16", "ar": "رَفٌّ", "tr": "raff", "nl": ["plank (in een kast)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w17", "ar": "ثَلّاجَةٌ", "tr": "ṯallāja", "nl": ["koelkast"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w18", "ar": "فُرْنٌ", "tr": "furn", "nl": ["oven"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w19", "ar": "مِصْباحٌ", "tr": "miṣbāḥ", "nl": ["lamp"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w20", "ar": "سَجّادَةٌ", "tr": "sajjāda", "nl": ["tapijt", "kleed"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w21", "ar": "سِتارَةٌ", "tr": "sitāra", "nl": ["gordijn"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w22", "ar": "تِلْفازٌ", "tr": "tilfāz", "nl": ["televisie"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w23", "ar": "لَوْحَةٌ", "tr": "lawḥa", "nl": ["schilderij", "bord"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l15-w24", "ar": "وَسَطَ", "tr": "wasaṭa", "nl": ["midden in"], "soort": "voorzetsel" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Voorzetsels van plaats",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Na een voorzetsel staat het zelfstandig naamwoord in de **genitief** (-i of -in), net als het tweede woord van een iḍāfa: {ar|في الغُرْفَةِ} (*in de kamer*), {ar|عَلى الطّاوِلَةِ} (*op de tafel*), {ar|تَحْتَ السَّريرِ} (*onder het bed*)."
+        ] },
+        { "type": "tabel", "kop": ["Voorzetsel", "Voorbeeld", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["في|fī", "في الخِزانَةِ|fi l-ḫizāna", "in de kast"],
+          ["عَلى|ʿalā", "عَلى السَّريرِ|ʿala s-sarīr", "op het bed"],
+          ["تَحْتَ|taḥta", "تَحْتَ الطّاوِلَةِ|taḥta ṭ-ṭāwila", "onder de tafel"],
+          ["فَوْقَ|fawqa", "فَوْقَ الأَريكَةِ|fawqa l-arīka", "boven de bank"],
+          ["أَمامَ|amāma", "أَمامَ التِّلْفازِ|amāma t-tilfāz", "voor de televisie"],
+          ["خَلْفَ|ḫalfa", "خَلْفَ البابِ|ḫalfa l-bāb", "achter de deur"],
+          ["بِجانِبِ|bi-jānibi", "بِجانِبِ النّافِذَةِ|bi-jānibi n-nāfiḏa", "naast het raam"],
+          ["بَيْنَ|bayna", "بَيْنَ الكُرْسِيِّ وَالطّاوِلَةِ|bayna l-kursiyyi wa-ṭ-ṭāwila", "tussen de stoel en de tafel"]
+        ] },
+        { "type": "waarom", "md": "Woorden als {ar|تَحْتَ}, {ar|أَمامَ} en {ar|خَلْفَ} zijn eigenlijk zelfstandige naamwoorden (*de onderkant van*, *de voorkant van*). Ze vormen samen met het volgende woord een iḍāfa: {ar|تَحْتَ السَّريرِ} = *de onderkant van het bed*. Daarom staat het tweede woord in de genitief." },
+        { "type": "letop", "md": "{ar|في} en {ar|عَلى} eindigen op een lange klinker. Voor ال wordt die kort uitgesproken: *fi l-bayt*, *ʿala s-sarīr*. Je schrijft ze wel gewoon." }
+      ]
+    },
+    {
+      "titel": "Waar is ...? en Er is ...",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Naar een plaats vraag je met {ar|أَيْنَ}: {ar|أَيْنَ المِفْتاحُ؟} → {ar|المِفْتاحُ عَلى الطّاوِلَةِ}. Het voorzetsel met zijn woord is het gezegde van een nominale zin.",
+          "*Er is / er zijn* zeg je met {ar|هُناكَ} + onbepaald woord, of door de plaatsbepaling vooraan te zetten. Dat is hetzelfde principe als bij {ar|عِنْدي كِتابٌ}: een onbepaald onderwerp komt achteraan."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "أَيْنَ الكِتابُ؟ — الكِتابُ عَلى الرَّفِّ.", "tr": "ayna l-kitāb? — al-kitābu ʿala r-raff.", "nl": "Waar is het boek? — Het boek ligt op de plank." },
+          { "ar": "هُناكَ مِصْباحٌ بِجانِبِ السَّريرِ.", "tr": "hunāka miṣbāḥun bi-jānibi s-sarīr.", "nl": "Er staat een lamp naast het bed." },
+          { "ar": "في المَطْبَخِ ثَلّاجَةٌ كَبيرَةٌ.", "tr": "fi l-maṭbaḫi ṯallājatun kabīra.", "nl": "In de keuken staat een grote koelkast." },
+          { "ar": "القِطَّةُ تَحْتَ الأَريكَةِ.", "tr": "al-qiṭṭatu taḥta l-arīka.", "nl": "De kat is onder de bank." }
+        ] },
+        { "type": "waarom", "md": "Het Nederlands zegt *staan*, *liggen* of *zitten* afhankelijk van de vorm van het ding. Het Arabisch gebruikt in de tegenwoordige tijd gewoon een nominale zin zonder werkwoord: {ar|الكِتابُ عَلى الرَّفِّ} = *het boek (is) op de plank*." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Meubels en voorzetsels",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "سَريرٌ", "nl": "bed", "woord": "j1-p2-l15-w12" },
+          { "ar": "خِزانَةٌ", "nl": "kast", "woord": "j1-p2-l15-w13" },
+          { "ar": "أَريكَةٌ", "nl": "bank", "woord": "j1-p2-l15-w14" },
+          { "ar": "مِرْآةٌ", "nl": "spiegel", "woord": "j1-p2-l15-w15" },
+          { "ar": "ثَلّاجَةٌ", "nl": "koelkast", "woord": "j1-p2-l15-w17" },
+          { "ar": "مِصْباحٌ", "nl": "lamp", "woord": "j1-p2-l15-w19" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "koppelen", "tag": "voorzetsels", "paren": [
+          { "ar": "تَحْتَ", "nl": "onder", "woord": "j1-p2-l15-w03" },
+          { "ar": "فَوْقَ", "nl": "boven", "woord": "j1-p2-l15-w04" },
+          { "ar": "أَمامَ", "nl": "voor", "woord": "j1-p2-l15-w05" },
+          { "ar": "خَلْفَ", "nl": "achter", "woord": "j1-p2-l15-w06" },
+          { "ar": "بَيْنَ", "nl": "tussen", "woord": "j1-p2-l15-w08" }
+        ], "uitleg": "Leer ze in paren: onder/boven, voor/achter." },
+        { "type": "luisteren", "tag": "voorzetsels", "tekst": "المِفْتاحُ تَحْتَ الكِتابِ", "vraag": "Waar is de sleutel?", "opties": ["onder het boek", "op het boek", "naast het boek", "in het boek"], "juist": 0, "uitleg": "{ar|تَحْتَ} = onder." }
+      ]
+    },
+    {
+      "titel": "Genitief na een voorzetsel",
+      "items": [
+        { "type": "invullen", "tag": "voorzetsel-genitief", "zin": "الكِتابُ عَلى ___.", "nl": "Het boek ligt op de tafel.", "woordbank": ["الطّاوِلَةِ", "الطّاوِلَةُ", "طاوِلَةٌ"], "antwoord": ["الطّاوِلَةِ"], "uitleg": "Na een voorzetsel: genitief (-i)." },
+        { "type": "invullen", "tag": "voorzetsel-genitief", "zin": "القِطَّةُ ___ السَّريرِ.", "nl": "De kat is onder het bed.", "woordbank": ["تَحْتَ", "فَوْقَ", "في"], "antwoord": ["تَحْتَ"], "uitleg": "{ar|تَحْتَ} = onder." },
+        { "type": "invullen", "tag": "er-is", "zin": "___ سَجّادَةٌ في غُرْفَةِ الجُلوسِ.", "nl": "Er ligt een tapijt in de woonkamer.", "woordbank": ["هُناكَ", "هُنا", "أَيْنَ"], "antwoord": ["هُناكَ"], "uitleg": "{ar|هُناكَ} + onbepaald = er is." },
+        { "type": "meerkeuze", "tag": "voorzetsel-genitief", "vraag": "Welke is juist voor 'in de kast'?", "opties": ["في الخِزانَةِ", "في الخِزانَةُ", "في خِزانَةٌ"], "juist": 0, "uitleg": "Genitief: {ar|الخِزانَةِ}." },
+        { "type": "meerkeuze", "tag": "er-is", "vraag": "Hoe zeg je 'In de keuken staat een oven'?", "opties": ["في المَطْبَخِ فُرْنٌ.", "الفُرْنُ في المَطْبَخِ.", "فُرْنٌ في المَطْبَخُ."], "juist": 0,
+          "uitleg": "Onbepaald onderwerp → plaatsbepaling vooraan. {ar|الفُرْنُ في المَطْبَخِ} betekent *de oven staat in de keuken*." }
+      ]
+    },
+    {
+      "titel": "Waar staat het?",
+      "items": [
+        { "type": "ordenen", "tag": "voorzetsels", "nl": "Waar is de sleutel?", "woorden": ["أَيْنَ", "المِفْتاحُ؟"], "uitleg": "{ar|أَيْنَ} + bepaald onderwerp." },
+        { "type": "ordenen", "tag": "er-is", "nl": "Er staat een lamp naast het bed.", "woorden": ["هُناكَ", "مِصْباحٌ", "بِجانِبِ", "السَّريرِ."], "uitleg": "{ar|هُناكَ} + onbepaald + plaatsbepaling." },
+        { "type": "ordenen", "tag": "voorzetsels", "nl": "De televisie staat tussen de kast en het raam.", "woorden": ["التِّلْفازُ", "بَيْنَ", "الخِزانَةِ", "وَالنّافِذَةِ."], "uitleg": "{ar|بَيْنَ} ... {ar|وَ} ... = tussen ... en ..." },
+        { "type": "luisteren", "tag": "er-is", "tekst": "هُناكَ لَوْحَةٌ جَميلَةٌ فَوْقَ الأَريكَةِ", "vraag": "Wat hoor je?", "opties": ["Er hangt een mooi schilderij boven de bank.", "Er ligt een mooi tapijt onder de bank.", "De bank staat onder het raam."], "juist": 0, "uitleg": "{ar|لَوْحَةٌ} = schilderij, {ar|فَوْقَ} = boven." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsel-genitief", "bron": "in het huis", "antwoorden": ["في البَيْتِ"], "uitleg": "{ar|في البَيْتِ} (*fi l-bayt*)" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsel-genitief", "bron": "achter de deur", "antwoorden": ["خَلْفَ البابِ"], "uitleg": "{ar|خَلْفَ البابِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsels", "bron": "De spiegel is in de badkamer.", "antwoorden": ["المِرْآةُ في الحَمّامِ"], "uitleg": "{ar|المِرْآةُ في الحَمّامِ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voorzetsels", "bron": "الحَقيبَةُ عَلى الكُرْسِيِّ.", "tr": "al-ḥaqībatu ʿala l-kursī.", "antwoorden": ["de tas staat op de stoel", "de tas ligt op de stoel", "de tas is op de stoel"], "uitleg": "{ar|عَلى} = op." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "er-is", "bron": "في الغُرْفَةِ سَريرٌ وَخِزانَةٌ.", "tr": "fi l-ġurfati sarīrun wa-ḫizāna.", "antwoorden": ["in de kamer staan een bed en een kast", "er staan een bed en een kast in de kamer", "in de kamer is een bed en een kast", "in de kamer zijn een bed en een kast"], "uitleg": "Plaatsbepaling vooraan: *er is / er staan*." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voorzetsels", "bron": "الحَديقَةُ خَلْفَ البَيْتِ.", "tr": "al-ḥadīqatu ḫalfa l-bayt.", "antwoorden": ["de tuin is achter het huis", "de tuin ligt achter het huis"], "uitleg": "{ar|خَلْفَ} = achter." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "سِتارَةٌ", "nl": "gordijn" },
+        { "ar": "فُرْنٌ", "nl": "oven" },
+        { "ar": "رَفٌّ", "nl": "plank" },
+        { "ar": "داخِلَ", "nl": "binnen in" },
+        { "ar": "خارِجَ", "nl": "buiten" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "voorzetsels", "vraag": "'Naast' is ...", "opties": ["بِجانِبِ", "بَيْنَ", "خَلْفَ", "فَوْقَ"], "juist": 0, "uitleg": "{ar|بِجانِبِ}" },
+      { "type": "meerkeuze", "tag": "voorzetsel-genitief", "vraag": "'Op het bed' is ...", "opties": ["عَلى السَّريرِ", "عَلى السَّريرُ", "عَلى سَريرٌ"], "juist": 0, "uitleg": "Genitief na een voorzetsel." },
+      { "type": "meerkeuze", "tag": "er-is", "vraag": "Wat betekent {ar|هُناكَ مِرْآةٌ في الحَمّامِ}?", "opties": ["Er hangt een spiegel in de badkamer.", "De spiegel hangt in de badkamer.", "Daar is de badkamer."], "juist": 0, "uitleg": "{ar|هُناكَ} + onbepaald = er is." },
+      { "type": "luisteren", "tag": "voorzetsels", "tekst": "الكَلْبُ أَمامَ البابِ", "vraag": "Waar is de hond?", "opties": ["voor de deur", "achter de deur", "naast de deur"], "juist": 0, "uitleg": "{ar|أَمامَ} = voor." },
+      { "type": "luisteren", "tag": "voorzetsels", "tekst": "المِصْباحُ فَوْقَ الطّاوِلَةِ", "vraag": "Waar is de lamp?", "opties": ["boven de tafel", "onder de tafel", "op de stoel"], "juist": 0, "uitleg": "{ar|فَوْقَ} = boven." },
+      { "type": "invullen", "tag": "voorzetsel-genitief", "zin": "التِّلْفازُ في ___.", "nl": "De televisie staat in de woonkamer.", "woordbank": ["غُرْفَةِ الجُلوسِ", "غُرْفَةُ الجُلوسِ", "الغُرْفَةُ الجُلوسِ"], "antwoord": ["غُرْفَةِ الجُلوسِ"], "uitleg": "Na {ar|في}: genitief op het eerste woord; de iḍāfa blijft." },
+      { "type": "invullen", "tag": "voorzetsels", "zin": "الحَمّامُ ___ غُرْفَةِ النَّوْمِ.", "nl": "De badkamer is naast de slaapkamer.", "antwoord": ["بِجانِبِ"], "uitleg": "{ar|بِجانِبِ} = naast." },
+      { "type": "vervoegen", "tag": "voorzetsel-genitief", "instructie": "Schrijf de plaatsbepaling.",
+        "rijen": [
+          { "label": "onder de tafel", "antwoord": "تَحْتَ الطّاوِلَةِ", "tr": "taḥta ṭ-ṭāwila" },
+          { "label": "in de kast", "antwoord": "في الخِزانَةِ", "tr": "fi l-ḫizāna" }
+        ], "uitleg": "Voorzetsel + woord in de genitief." },
+      { "type": "ordenen", "tag": "er-is", "nl": "In de keuken staat een grote koelkast.", "woorden": ["في", "المَطْبَخِ", "ثَلّاجَةٌ", "كَبيرَةٌ."], "uitleg": "Plaatsbepaling vooraan." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsels", "bron": "Waar is de kat?", "antwoorden": ["أَيْنَ القِطَّةُ؟"], "uitleg": "{ar|أَيْنَ القِطَّةُ؟}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voorzetsel-genitief", "bron": "op de bank (sofa)", "antwoorden": ["عَلى الأَريكَةِ"], "uitleg": "{ar|عَلى الأَريكَةِ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "voorzetsels", "bron": "السَّجّادَةُ تَحْتَ الطّاوِلَةِ.", "tr": "as-sajjādatu taḥta ṭ-ṭāwila.", "antwoorden": ["het tapijt ligt onder de tafel", "het tapijt is onder de tafel", "het kleed ligt onder de tafel"], "uitleg": "{ar|تَحْتَ} = onder." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "er-is", "bron": "هُناكَ ضَيْفٌ في البَيْتِ.", "tr": "hunāka ḍayfun fi l-bayt.", "antwoorden": ["er is een gast in het huis", "er is een gast thuis"], "uitleg": "{ar|هُناكَ} = er is." }
+    ]
+  }
+}

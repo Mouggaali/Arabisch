@@ -1,0 +1,437 @@
+{
+  "id": "j2-p7-h19",
+  "code": "H19",
+  "type": "herhaling",
+  "titel": "Herhaling blok 7A",
+  "thema": "Overtreffende trap, deelwoorden en betrekkelijke bijzinnen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vergelijken en rangschikken met أَفْعَلُ.",
+    "actief en passief deelwoord onderscheiden.",
+    "betrekkelijke bijzinnen maken met en zonder ʿāʾid."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 73–76 en D13.",
+  "grammatica": [
+    {
+      "titel": "Beschrijven in drie stappen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "هٰذا أَطْوَلُ جِسْرٍ في المَدينَةِ.",
+              "tr": "hāḏā aṭwalu jisrin fi l-madīna.",
+              "nl": "Dit is de langste brug van de stad."
+            },
+            {
+              "ar": "الجِسْرُ مُغْلَقٌ اليَوْمَ، وَالنّاسُ واقِفونَ أَمامَهُ.",
+              "tr": "al-jisru muġlaqun al-yawm, wa-n-nāsu wāqifūna amāmah.",
+              "nl": "De brug is vandaag gesloten, en de mensen staan ervoor."
+            },
+            {
+              "ar": "الرَّجُلُ الَّذي يَعْمَلُ هُناكَ قالَ إِنَّهُ مَكْسورٌ.",
+              "tr": "ar-rajulu llaḏī yaʿmalu hunāka qāla innahu maksūr.",
+              "nl": "De man die daar werkt zei dat hij kapot is."
+            }
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Drie vormen die allemaal van een werkwoord of bijvoeglijk naamwoord komen: **أَفْعَلُ** (vergelijken), **deelwoorden** (toestand) en **de bijzin** (meer informatie). Samen maken ze je beschrijvingen veel rijker."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herkennen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "actief-deelwoord",
+          "vraag": "Welk woord is een actief deelwoord?",
+          "opties": [
+            "مُنْتَظِرٌ",
+            "مُنْتَظَرٌ",
+            "اِنْتِظارٌ"
+          ],
+          "juist": 0,
+          "uitleg": "i voor de laatste letter."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "overtreffende-trap",
+          "vraag": "'De duurste auto' is ...",
+          "opties": [
+            "أَغْلى سَيّارَةٍ",
+            "أَغْلى السَّيّارَةِ",
+            "سَيّارَةٌ أَغْلى"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "betrekkelijke-bijzin",
+          "vraag": "'De kinderen die spelen' is ...",
+          "opties": [
+            "الأَطْفالُ الَّذينَ يَلْعَبونَ",
+            "الأَطْفالُ الَّتي يَلْعَبونَ",
+            "الأَطْفالُ الَّذي يَلْعَبُ"
+          ],
+          "juist": 0,
+          "uitleg": "Personen meervoud."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عالَمٌ",
+              "nl": "wereld",
+              "woord": "j2-p7-l73-w15"
+            },
+            {
+              "ar": "راكِبٌ",
+              "nl": "passagier",
+              "woord": "j2-p7-l74-w04"
+            },
+            {
+              "ar": "مَحْجوزٌ",
+              "nl": "gereserveerd",
+              "woord": "j2-p7-l75-w03"
+            },
+            {
+              "ar": "صَبورٌ",
+              "nl": "geduldig",
+              "woord": "j2-p7-l76-w08"
+            },
+            {
+              "ar": "زوين",
+              "nl": "mooi (Darija)",
+              "woord": "j2-p7-d13-w06"
+            },
+            {
+              "ar": "مُناخٌ",
+              "nl": "klimaat",
+              "woord": "j2-p7-l73-w14"
+            }
+          ],
+          "uitleg": "Woorden uit blok 7A."
+        }
+      ]
+    },
+    {
+      "titel": "Maken",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "passief-deelwoord",
+          "instructie": "Geef actief en passief deelwoord van اِسْتَعْمَلَ.",
+          "rijen": [
+            {
+              "label": "actief",
+              "antwoord": "مُسْتَعْمِلٌ",
+              "tr": "mustaʿmil"
+            },
+            {
+              "label": "passief",
+              "antwoord": "مُسْتَعْمَلٌ",
+              "tr": "mustaʿmal"
+            }
+          ],
+          "uitleg": "i · a",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "betrekkelijke-bijzin",
+          "zin": "المَدينَةُ الَّتي وُلِدْتُ ___ صَغيرَةٌ.",
+          "nl": "De stad waarin ik geboren ben is klein.",
+          "woordbank": [
+            "فيها",
+            "فيهِ",
+            "مِنْها"
+          ],
+          "antwoord": [
+            "فيها"
+          ],
+          "uitleg": "ʿāʾid aan voorzetsel, vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "overtreffende-trap",
+          "zin": "هٰذِهِ هِيَ الغُرْفَةُ ___.",
+          "nl": "Dit is de kleinste kamer.",
+          "woordbank": [
+            "الصُّغْرى",
+            "الأَصْغَرُ",
+            "صَغيرَةٌ"
+          ],
+          "antwoord": [
+            "الصُّغْرى"
+          ],
+          "uitleg": "الفُعْلى."
+        },
+        {
+          "type": "ordenen",
+          "tag": "actief-deelwoord",
+          "nl": "Ik ben op weg naar mijn werk.",
+          "woorden": [
+            "أَنا",
+            "ذاهِبٌ",
+            "إِلى",
+            "العَمَلِ."
+          ],
+          "uitleg": "Deelwoord = nu."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "passief-deelwoord",
+          "bron": "geannuleerd",
+          "antwoorden": [
+            "مُلْغًى",
+            "مُلْغى"
+          ],
+          "uitleg": "{ar|مُلْغًى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "betrekkelijke-bijzin",
+          "bron": "الرَّجُلُ الَّذي رَأَيْتُهُ طَويلٌ.",
+          "antwoorden": [
+            "de man die ik zag is lang",
+            "de man die ik heb gezien is lang"
+          ],
+          "uitleg": "ʿāʾid ـهُ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-gevoel-weer",
+          "bron": "الجو زوين اليوم",
+          "tr": "ljaww zwīn lyūm",
+          "antwoorden": [
+            "het weer is mooi vandaag",
+            "het is mooi weer vandaag",
+            "vandaag is het mooi weer"
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'Een van de mooiste steden' is ...",
+        "opties": [
+          "مِنْ أَجْمَلِ المُدُنِ",
+          "أَجْمَلُ مِنَ المُدُنِ",
+          "مِنْ مُدُنٍ أَجْمَلَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنْ} + أَفْعَلِ + bepaald meervoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "Vrouwelijk van {ar|الأَعْلى} is ...",
+        "opties": [
+          "العُلْيا",
+          "العالِيَةُ",
+          "الأَعْلاةُ"
+        ],
+        "juist": 0,
+        "uitleg": "الفُعْلى."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "'Ik ben (nu) aan het wachten' is ...",
+        "opties": [
+          "أَنا مُنْتَظِرٌ",
+          "أَنا مُنْتَظَرٌ",
+          "أَنا اِنْتَظَرْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Actief deelwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "passief-deelwoord",
+        "vraag": "Wat betekent {ar|مَمْنوعٌ}?",
+        "opties": [
+          "verboden",
+          "verbieder",
+          "het verbod"
+        ],
+        "juist": 0,
+        "uitleg": "مَفْعول."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "betrekkelijke-bijzin",
+        "vraag": "'De twee meisjes die …' (onderwerp) is ...",
+        "opties": [
+          "البِنْتانِ اللَّتانِ",
+          "البِنْتانِ اللَّذانِ",
+          "البِنْتانِ اللَّواتي"
+        ],
+        "juist": 0,
+        "uitleg": "Dualis vrouwelijk."
+      },
+      {
+        "type": "luisteren",
+        "tag": "passief-deelwoord",
+        "tekst": "هٰذا المَقْعَدُ مَحْجوزٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Deze stoel is gereserveerd.",
+          "Deze stoel is kapot.",
+          "Deze stoel is vrij."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَحْجوزٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "betrekkelijke-bijzin",
+        "tekst": "البَيْتُ الَّذي نَسْكُنُ فيهِ قَديمٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het huis waarin we wonen is oud.",
+          "We wonen in een nieuw huis.",
+          "Het oude huis is te koop."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فيهِ} = waarin."
+      },
+      {
+        "type": "invullen",
+        "tag": "actief-deelwoord",
+        "zin": "هِيَ ___ مِنَ السَّفَرِ.",
+        "nl": "Zij is terug van reis.",
+        "woordbank": [
+          "راجِعَةٌ",
+          "راجِعٌ",
+          "مَرْجوعَةٌ"
+        ],
+        "antwoord": [
+          "راجِعَةٌ"
+        ],
+        "uitleg": "Actief, vrouwelijk."
+      },
+      {
+        "type": "invullen",
+        "tag": "betrekkelijke-bijzin",
+        "zin": "الكِتابُ ___ قَرَأْتُهُ مُمْتِعٌ.",
+        "nl": "Het boek dat ik las is boeiend.",
+        "woordbank": [
+          "الَّذي",
+          "الَّتي",
+          "الَّذينَ"
+        ],
+        "antwoord": [
+          "الَّذي"
+        ],
+        "uitleg": "Mannelijk enkelvoud."
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "أَخي ___ أَفْرادِ العائِلَةِ.",
+        "nl": "Mijn broer is de oudste van het gezin.",
+        "woordbank": [
+          "أَكْبَرُ",
+          "الكُبْرى",
+          "كَبيرٌ"
+        ],
+        "antwoord": [
+          "أَكْبَرُ"
+        ],
+        "uitleg": "{ar|أَفْعَلُ} + bepaald meervoud."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "بُرْجٌ",
+            "nl": "toren"
+          },
+          {
+            "ar": "مُسْتَعْجِلٌ",
+            "nl": "gehaast"
+          },
+          {
+            "ar": "مُؤَجَّلٌ",
+            "nl": "uitgesteld"
+          },
+          {
+            "ar": "كَريمٌ",
+            "nl": "vrijgevig"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "betrekkelijke-bijzin",
+        "nl": "Ik houd van mensen die veel lachen.",
+        "woorden": [
+          "أُحِبُّ",
+          "النّاسَ",
+          "الَّذينَ",
+          "يَضْحَكونَ",
+          "كَثيرًا."
+        ],
+        "uitleg": "{ar|الَّذينَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "overtreffende-trap",
+        "bron": "de langste rivier",
+        "antwoorden": [
+          "أَطْوَلُ نَهْرٍ",
+          "النَّهْرُ الأَطْوَلُ"
+        ],
+        "uitleg": "{ar|أَطْوَلُ نَهْرٍ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "passief-deelwoord",
+        "bron": "المَتْجَرُ مُغْلَقٌ يَوْمَ الأَحَدِ.",
+        "antwoorden": [
+          "de winkel is op zondag gesloten",
+          "de winkel is zondag gesloten"
+        ],
+        "uitleg": "{ar|مُغْلَقٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-gevoel-weer",
+        "bron": "أنا عيان",
+        "tr": "ana ʿyyān",
+        "antwoorden": [
+          "ik ben moe"
+        ],
+        "uitleg": "Darija."
+      }
+    ]
+  }
+}

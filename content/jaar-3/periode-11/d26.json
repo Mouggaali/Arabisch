@@ -1,0 +1,620 @@
+{
+  "id": "j3-p11-d26",
+  "code": "D26",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: rollenspellen I",
+  "thema": "Rollenspel in de hammam",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "in de hammam naar prijs en benodigdheden vragen.",
+    "beleefd vragen hoe je geholpen wilt worden.",
+    "de vaste wens na de hammam gebruiken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-d26-w01",
+      "ar": "الحمام",
+      "tr": "lḥəmmām",
+      "nl": [
+        "de hammam (badhuis)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w02",
+      "ar": "الكسال",
+      "tr": "lkəssāl",
+      "nl": [
+        "de badmeester (die je scrubt)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk: {ar|الكسالة} (lkəssāla).",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w03",
+      "ar": "الصابون البلدي",
+      "tr": "ṣṣābūn lbəldi",
+      "nl": [
+        "de zwarte zeep"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w04",
+      "ar": "الكيس",
+      "tr": "lkīs",
+      "nl": [
+        "de scrubhandschoen"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w05",
+      "ar": "السطل",
+      "tr": "ssṭəl",
+      "nl": [
+        "de emmer"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w06",
+      "ar": "الما سخون",
+      "tr": "lma sxūn",
+      "nl": [
+        "het warme water"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w07",
+      "ar": "الما بارد",
+      "tr": "lma bārəd",
+      "nl": [
+        "het koude water"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w08",
+      "ar": "الغاسول",
+      "tr": "lġāsūl",
+      "nl": [
+        "de ghassoul (kleizeep)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w09",
+      "ar": "الفوطة",
+      "tr": "lfūṭa",
+      "nl": [
+        "de handdoek"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w10",
+      "ar": "تحمم",
+      "tr": "tḥəmməm",
+      "nl": [
+        "zich wassen, baden"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w11",
+      "ar": "حك",
+      "tr": "ḥəkk",
+      "nl": [
+        "scrubben, wrijven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w12",
+      "ar": "بالشوية",
+      "tr": "b-šwiya",
+      "nl": [
+        "zachtjes, rustig aan"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w14",
+      "ar": "بالصحة والراحة",
+      "tr": "b-ṣṣəḥḥa w-rrāḥa",
+      "nl": [
+        "wel bekome het je (na de hammam)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p11-d26-w15",
+      "ar": "الكابين",
+      "tr": "lkābīn",
+      "nl": [
+        "de kleedruimte"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Van het Frans *cabine*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Rollenspel: in de hammam",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "In dit rollenspel ga je naar een openbare hammam. Speel de rol van de klant: vraag naar de prijs, wat je moet meenemen en hoe je gescrubd wilt worden."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Wat je wilt",
+            "Darija",
+            "Fusha"
+          ],
+          "rijen": [
+            [
+              "vragen hoeveel",
+              "بشحال …؟|b-šḥāl",
+              "بِكَمْ …؟"
+            ],
+            [
+              "iets laten geven",
+              "عطيني …|ʿṭīni",
+              "أَعْطِني …"
+            ],
+            [
+              "vragen om voorzichtigheid",
+              "بالشوية|b-šwiya",
+              "بِلُطْفٍ / بِهُدوءٍ"
+            ],
+            [
+              "iemand iets laten meenemen",
+              "جيب معاك …|jīb mʿāk",
+              "أَحْضِرْ مَعَكَ …"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De hammam is in Marokko een sociale plek, niet alleen om je te wassen. Na afloop wens je elkaar {ar|بالصحة والراحة} (gezondheid en rust): een vaste formule, zoals {ar|بالصحة} na het eten."
+        }
+      ]
+    },
+    {
+      "titel": "Dialoog",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "بشحال الحمام والكسال؟",
+              "tr": "b-šḥāl lḥəmmām w-lkəssāl?",
+              "nl": "Hoeveel kosten de hammam en de badmeester?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الحمام عشرين درهم، والكسال خمسين.",
+              "tr": "lḥəmmām ʿəšrīn dərhəm, w-lkəssāl xəmsīn.",
+              "nl": "De hammam twintig dirham, de badmeester vijftig.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "جيب معاك الصابون البلدي والكيس.",
+              "tr": "jīb mʿāk ṣṣābūn lbəldi w-lkīs.",
+              "nl": "Neem zwarte zeep en een scrubhandschoen mee.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "حك ليا بالشوية عافاك.",
+              "tr": "ḥəkk līya b-šwiya ʿāfāk.",
+              "nl": "Scrub alsjeblieft zachtjes.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "عطيني سطل ديال الما سخون.",
+              "tr": "ʿṭīni sṭəl dyāl lma sxūn.",
+              "nl": "Geef me een emmer warm water.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "بالصحة والراحة!",
+              "tr": "b-ṣṣəḥḥa w-rrāḥa!",
+              "nl": "Wel bekome het je!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-rollenspel",
+          "paren": [
+            {
+              "ar": "الكسال",
+              "nl": "badmeester",
+              "woord": "j3-p11-d26-w02"
+            },
+            {
+              "ar": "الكيس",
+              "nl": "scrubhandschoen",
+              "woord": "j3-p11-d26-w04"
+            },
+            {
+              "ar": "السطل",
+              "nl": "emmer",
+              "woord": "j3-p11-d26-w05"
+            },
+            {
+              "ar": "الفوطة",
+              "nl": "handdoek",
+              "woord": "j3-p11-d26-w09"
+            },
+            {
+              "ar": "الغاسول",
+              "nl": "kleizeep",
+              "woord": "j3-p11-d26-w08"
+            },
+            {
+              "ar": "الما سخون",
+              "nl": "warm water",
+              "woord": "j3-p11-d26-w06"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-rollenspel",
+          "tekst": "بشحال الحمام؟",
+          "vraag": "Wat vraagt de klant?",
+          "opties": [
+            "hoeveel de hammam kost",
+            "waar de hammam is",
+            "wanneer de hammam open is"
+          ],
+          "juist": 0,
+          "uitleg": "Prijs (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Het rollenspel",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-rollenspel",
+          "vraag": "Je wilt dat de badmeester zachter scrubt. Je zegt ...",
+          "opties": [
+            "حك ليا بالشوية",
+            "عطيني الفوطة",
+            "بالصحة والراحة"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بالشوية}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-rollenspel",
+          "vraag": "Wat wens je iemand die uit de hammam komt?",
+          "opties": [
+            "بالصحة والراحة",
+            "مبروك",
+            "الله يسهل"
+          ],
+          "juist": 0,
+          "uitleg": "Vaste wens."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-rollenspel",
+          "zin": "عطيني سطل ديال ___.",
+          "nl": "Geef me een emmer warm water.",
+          "antwoord": [
+            "الما سخون"
+          ],
+          "uitleg": "{ar|الما سخون}",
+          "woordbank": [
+            "الما سخون",
+            "الصابون",
+            "الفوطة"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-rollenspel",
+          "nl": "Neem zwarte zeep en een scrubhandschoen mee.",
+          "woorden": [
+            "جيب",
+            "معاك",
+            "الصابون",
+            "البلدي",
+            "والكيس."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-rollenspel",
+          "bron": "de handdoek (Darija)",
+          "antwoorden": [
+            "الفوطة"
+          ],
+          "uitleg": "{ar|الفوطة}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-rollenspel",
+          "bron": "حك ليا بالشوية",
+          "antwoorden": [
+            "scrub me zachtjes",
+            "scrub zachtjes alsjeblieft",
+            "wrijf zachtjes"
+          ],
+          "uitleg": "Darija.",
+          "tr": "ḥəkk līya b-šwiya"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-rollenspel",
+        "paren": [
+          {
+            "ar": "الحمام",
+            "nl": "badhuis"
+          },
+          {
+            "ar": "الصابون البلدي",
+            "nl": "zwarte zeep"
+          },
+          {
+            "ar": "الكابين",
+            "nl": "kleedruimte"
+          },
+          {
+            "ar": "تحمم",
+            "nl": "zich wassen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "{ar|الكسالة} is ...",
+        "opties": [
+          "de badvrouw die je scrubt",
+          "de kassa",
+          "de handdoek"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk van {ar|الكسال}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|عطيني} is Fusha ...",
+        "opties": [
+          "أَعْطِني",
+          "خُذْني",
+          "أَرِني"
+        ],
+        "juist": 0,
+        "uitleg": "Geef me."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "{ar|الكابين} komt uit het ...",
+        "opties": [
+          "Frans",
+          "Spaans",
+          "Fusha"
+        ],
+        "juist": 0,
+        "uitleg": "*cabine*."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-rollenspel",
+        "tekst": "جيب معاك الفوطة",
+        "vraag": "Wat moet je meenemen?",
+        "opties": [
+          "een handdoek",
+          "een emmer",
+          "zeep"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الفوطة}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-rollenspel",
+        "tekst": "الما بارد بزاف",
+        "vraag": "Wat is het probleem?",
+        "opties": [
+          "Het water is te koud.",
+          "Het water is te warm.",
+          "Er is geen water."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بارد}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-rollenspel",
+        "zin": "حك ليا ___ عافاك.",
+        "nl": "Scrub alsjeblieft zachtjes.",
+        "antwoord": [
+          "بالشوية"
+        ],
+        "uitleg": "{ar|بالشوية}",
+        "woordbank": [
+          "بالشوية",
+          "فيسع",
+          "بزاف"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-rollenspel",
+        "zin": "___ الحمام؟",
+        "nl": "Hoeveel kost de hammam?",
+        "antwoord": [
+          "بشحال"
+        ],
+        "uitleg": "Prijs.",
+        "woordbank": [
+          "بشحال",
+          "فين",
+          "علاش"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-rollenspel",
+        "nl": "Geef me een emmer koud water.",
+        "woorden": [
+          "عطيني",
+          "سطل",
+          "ديال",
+          "الما",
+          "بارد."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-rollenspel",
+        "bron": "wel bekome het je (na de hammam)",
+        "antwoorden": [
+          "بالصحة والراحة"
+        ],
+        "uitleg": "{ar|بالصحة والراحة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-rollenspel",
+        "bron": "de emmer (Darija)",
+        "antwoorden": [
+          "السطل"
+        ],
+        "uitleg": "{ar|السطل}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-rollenspel",
+        "bron": "الكسال خمسين درهم",
+        "antwoorden": [
+          "de badmeester kost vijftig dirham",
+          "de badmeester is vijftig dirham"
+        ],
+        "uitleg": "Darija.",
+        "tr": "lkəssāl xəmsīn dərhəm"
+      }
+    ]
+  }
+}

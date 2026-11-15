@@ -1,0 +1,760 @@
+{
+  "id": "j1-p3-l34",
+  "code": "L34",
+  "type": "les",
+  "titel": "Het weer",
+  "thema": "Over het weer van vandaag, gisteren en morgen praten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het weer beschrijven: zonnig, regenachtig, bewolkt, koud, warm.",
+    "de toekomende tijd maken met سَـ en سَوْفَ + muḍāriʿ.",
+    "'zal zijn' uitdrukken met سَيَكونُ + accusatief.",
+    "het weer van gisteren, vandaag en morgen vergelijken."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p3-l34-w01",
+      "ar": "طَقْسٌ",
+      "tr": "ṭaqs",
+      "nl": [
+        "weer (weersgesteldheid)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w02",
+      "ar": "مُشْمِسٌ",
+      "tr": "mušmis",
+      "nl": [
+        "zonnig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w03",
+      "ar": "مَطَرٌ",
+      "tr": "maṭar",
+      "nl": [
+        "regen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w04",
+      "ar": "مُمْطِرٌ",
+      "tr": "mumṭir",
+      "nl": [
+        "regenachtig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w05",
+      "ar": "غُيومٌ",
+      "tr": "ġuyūm",
+      "nl": [
+        "wolken"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|غَيْمَةٌ}."
+    },
+    {
+      "id": "j1-p3-l34-w06",
+      "ar": "غائِمٌ",
+      "tr": "ġāʾim",
+      "nl": [
+        "bewolkt"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w07",
+      "ar": "رِيحٌ",
+      "tr": "rīḥ",
+      "nl": [
+        "wind"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk zonder ة."
+    },
+    {
+      "id": "j1-p3-l34-w08",
+      "ar": "عاصِفَةٌ",
+      "tr": "ʿāṣifa",
+      "nl": [
+        "storm"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w09",
+      "ar": "ضَبابٌ",
+      "tr": "ḍabāb",
+      "nl": [
+        "mist"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w10",
+      "ar": "دافِئٌ",
+      "tr": "dāfiʾ",
+      "nl": [
+        "warm (aangenaam)"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w11",
+      "ar": "مُعْتَدِلٌ",
+      "tr": "muʿtadil",
+      "nl": [
+        "gematigd",
+        "mild"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w12",
+      "ar": "دَرَجَةُ الحَرارَةِ",
+      "tr": "darajatu l-ḥarāra",
+      "nl": [
+        "temperatuur"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p3-l34-w13",
+      "ar": "رُطوبَةٌ",
+      "tr": "ruṭūba",
+      "nl": [
+        "vochtigheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l34-w14",
+      "ar": "سَوْفَ",
+      "tr": "sawfa",
+      "nl": [
+        "zal (toekomst)"
+      ],
+      "soort": "partikel",
+      "notitie": "Kort: {ar|سَـ}, vastgeschreven aan het werkwoord."
+    },
+    {
+      "id": "j1-p3-l34-w15",
+      "ar": "يَكونُ",
+      "tr": "yakūnu",
+      "nl": [
+        "is / zal zijn"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ van {ar|كانَ}. {ar|سَيَكونُ} = zal zijn."
+    },
+    {
+      "id": "j1-p3-l34-w16",
+      "ar": "بَعْدَ غَدٍ",
+      "tr": "baʿda ġad",
+      "nl": [
+        "overmorgen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p3-l34-w17",
+      "ar": "يُمْطِرُ",
+      "tr": "yumṭiru",
+      "nl": [
+        "het regent"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vaste vorm. Morgen regent het: {ar|سَيُمْطِرُ غَدًا}."
+    },
+    {
+      "id": "j1-p3-l34-w19",
+      "ar": "سَماءٌ صافِيَةٌ",
+      "tr": "samāʾun ṣāfiya",
+      "nl": [
+        "heldere lucht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p3-l34-w20",
+      "ar": "تَوَقُّعاتُ الطَّقْسِ",
+      "tr": "tawaqquʿātu ṭ-ṭaqs",
+      "nl": [
+        "weersverwachting"
+      ],
+      "soort": "iḍāfa"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De toekomende tijd: سَـ / سَوْفَ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "De toekomende tijd is in het Arabisch heel eenvoudig: zet **سَـ** (vast aan het werkwoord) of **سَوْفَ** (los) vóór de muḍāriʿ. {ar|أَذْهَبُ} → {ar|سَأَذْهَبُ} (*ik zal gaan, ik ga*).",
+            "{ar|سَـ} is gewoner en wijst vaak naar de nabije toekomst; {ar|سَوْفَ} klinkt iets formeler of verder weg. In de praktijk zijn ze uitwisselbaar."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Nu",
+            "Toekomst",
+            "Nederlands"
+          ],
+          "arKolommen": [
+            0,
+            1
+          ],
+          "rijen": [
+            [
+              "أَذْهَبُ|aḏhabu",
+              "سَأَذْهَبُ|sa-aḏhabu",
+              "ik zal gaan"
+            ],
+            [
+              "تَدْرُسينَ|tadrusīna",
+              "سَتَدْرُسينَ|sa-tadrusīna",
+              "jij (v) zult studeren"
+            ],
+            [
+              "يَعْمَلونَ|yaʿmalūna",
+              "سَوْفَ يَعْمَلونَ|sawfa yaʿmalūna",
+              "zij zullen werken"
+            ],
+            [
+              "يُمْطِرُ|yumṭiru",
+              "سَيُمْطِرُ|sa-yumṭiru",
+              "het zal regenen"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Je kunt nu drie tijden maken met dezelfde werkwoorden: {ar|كَتَبَ} (verleden), {ar|يَكْتُبُ} (nu), {ar|سَيَكْتُبُ} (toekomst). De toekomst ontken je later met {ar|لَنْ} + werkwoord op -a (les 50): {ar|لَنْ أَذْهَبَ}."
+        }
+      ]
+    },
+    {
+      "titel": "Zal zijn: سَيَكونُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "*Zal zijn* is {ar|سَيَكونُ}. Het werkt net als {ar|كانَ}: het gezegde staat in de **accusatief**. {ar|الجَوُّ بارِدٌ} → {ar|كانَ الجَوُّ بارِدًا} → {ar|سَيَكونُ الجَوُّ بارِدًا}.",
+            "Bij een vrouwelijk onderwerp: {ar|سَتَكونُ}: {ar|سَتَكونُ السَّماءُ صافِيَةً}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Gisteren",
+            "Vandaag",
+            "Morgen"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "كانَ الجَوُّ مُمْطِرًا.|kāna l-jawwu mumṭiran",
+              "الجَوُّ غائِمٌ.|al-jawwu ġāʾim",
+              "سَيَكونُ الجَوُّ مُشْمِسًا.|sa-yakūnu l-jawwu mušmisan"
+            ],
+            [
+              "كانَتِ الرِّيحُ قَوِيَّةً.|kānati r-rīḥu qawiyyatan",
+              "الرِّيحُ قَوِيَّةٌ.|ar-rīḥu qawiyya",
+              "سَتَكونُ الرِّيحُ قَوِيَّةً.|sa-takūnu r-rīḥu qawiyyatan"
+            ]
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كَيْفَ الطَّقْسُ اليَوْمَ؟ — الطَّقْسُ مُشْمِسٌ وَدافِئٌ.",
+              "tr": "kayfa ṭ-ṭaqsu l-yawm? — aṭ-ṭaqsu mušmisun wa-dāfiʾ.",
+              "nl": "Hoe is het weer vandaag? — Zonnig en warm."
+            },
+            {
+              "ar": "سَيُمْطِرُ غَدًا، خُذْ مِظَلَّةً!",
+              "tr": "sa-yumṭiru ġadan, ḫuḏ miẓalla!",
+              "nl": "Morgen gaat het regenen, neem een paraplu mee!",
+              "review": {
+                "status": "onzeker",
+                "note": "خُذْ (gebiedende wijs van أَخَذَ) is nieuw; controleren."
+              }
+            },
+            {
+              "ar": "سَتَكونُ دَرَجَةُ الحَرارَةِ عِشْرينَ دَرَجَةً.",
+              "tr": "sa-takūnu darajatu l-ḥarārati ʿišrīna daraja.",
+              "nl": "De temperatuur zal twintig graden zijn."
+            },
+            {
+              "ar": "سَوْفَ نَذْهَبُ إِلى البَحْرِ إِذا كانَ الجَوُّ جَميلًا.",
+              "tr": "sawfa naḏhabu ila l-baḥri iḏā kāna l-jawwu jamīlan.",
+              "nl": "We gaan naar zee als het weer mooi is.",
+              "review": {
+                "status": "onzeker",
+                "note": "إِذا + كانَ (voorwaarde, les 91) als voorproefje; controleren of dit niet verwart."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Het weer",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "weer",
+          "paren": [
+            {
+              "ar": "مُشْمِسٌ",
+              "nl": "zonnig",
+              "woord": "j1-p3-l34-w02"
+            },
+            {
+              "ar": "مَطَرٌ",
+              "nl": "regen",
+              "woord": "j1-p3-l34-w03"
+            },
+            {
+              "ar": "غائِمٌ",
+              "nl": "bewolkt",
+              "woord": "j1-p3-l34-w06"
+            },
+            {
+              "ar": "رِيحٌ",
+              "nl": "wind",
+              "woord": "j1-p3-l34-w07"
+            },
+            {
+              "ar": "ضَبابٌ",
+              "nl": "mist",
+              "woord": "j1-p3-l34-w09"
+            },
+            {
+              "ar": "عاصِفَةٌ",
+              "nl": "storm",
+              "woord": "j1-p3-l34-w08"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "weer",
+          "tekst": "الطَّقْسُ غائِمٌ وَبارِدٌ",
+          "vraag": "Hoe is het weer?",
+          "opties": [
+            "bewolkt en koud",
+            "zonnig en warm",
+            "regenachtig en warm"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|غائِمٌ} = bewolkt."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "weer",
+          "vraag": "Wat betekent {ar|دَرَجَةُ الحَرارَةِ}?",
+          "opties": [
+            "temperatuur",
+            "vochtigheid",
+            "weersverwachting"
+          ],
+          "juist": 0,
+          "uitleg": "Letterlijk: de graad van de warmte."
+        }
+      ]
+    },
+    {
+      "titel": "De toekomst",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "toekomst",
+          "instructie": "Zet in de toekomende tijd met سَـ.",
+          "rijen": [
+            {
+              "label": "أَذْهَبُ → ik zal gaan",
+              "antwoord": "سَأَذْهَبُ",
+              "tr": "sa-aḏhabu"
+            },
+            {
+              "label": "نَدْرُسُ → wij zullen studeren",
+              "antwoord": "سَنَدْرُسُ",
+              "tr": "sa-nadrusu"
+            },
+            {
+              "label": "يَعْمَلونَ → zij zullen werken",
+              "antwoord": "سَيَعْمَلونَ",
+              "tr": "sa-yaʿmalūna"
+            },
+            {
+              "label": "تَكْتُبُ → zij zal schrijven",
+              "antwoord": "سَتَكْتُبُ",
+              "tr": "sa-taktubu"
+            }
+          ],
+          "uitleg": "سَـ vast vóór het werkwoord."
+        },
+        {
+          "type": "invullen",
+          "tag": "toekomst",
+          "zin": "غَدًا ___ إِلى المَدْرَسَةِ.",
+          "nl": "Morgen ga ik naar school.",
+          "woordbank": [
+            "سَأَذْهَبُ",
+            "ذَهَبْتُ",
+            "أَذْهَبَ"
+          ],
+          "antwoord": [
+            "سَأَذْهَبُ"
+          ],
+          "uitleg": "Toekomst: سَـ + muḍāriʿ."
+        },
+        {
+          "type": "invullen",
+          "tag": "toekomst",
+          "zin": "سَيَكونُ الجَوُّ ___ غَدًا.",
+          "nl": "Morgen zal het weer zonnig zijn.",
+          "woordbank": [
+            "مُشْمِسًا",
+            "مُشْمِسٌ",
+            "المُشْمِسُ"
+          ],
+          "antwoord": [
+            "مُشْمِسًا"
+          ],
+          "uitleg": "Na {ar|سَيَكونُ}: accusatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "toekomst",
+          "vraag": "Welke zin gaat over de toekomst?",
+          "opties": [
+            "سَوْفَ نُسافِرُ.",
+            "سافَرْنا.",
+            "نُسافِرُ الآنَ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَوْفَ} + muḍāriʿ."
+        },
+        {
+          "type": "luisteren",
+          "tag": "toekomst",
+          "tekst": "سَيُمْطِرُ بَعْدَ غَدٍ",
+          "vraag": "Wanneer gaat het regenen?",
+          "opties": [
+            "overmorgen",
+            "morgen",
+            "vandaag"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بَعْدَ غَدٍ} = overmorgen."
+        }
+      ]
+    },
+    {
+      "titel": "Gisteren, vandaag, morgen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kana-accusatief",
+          "zin": "كانَ الجَوُّ ___ أَمْسِ.",
+          "nl": "Gisteren was het weer regenachtig.",
+          "woordbank": [
+            "مُمْطِرًا",
+            "مُمْطِرٌ"
+          ],
+          "antwoord": [
+            "مُمْطِرًا"
+          ],
+          "uitleg": "Na {ar|كانَ}: accusatief."
+        },
+        {
+          "type": "ordenen",
+          "tag": "toekomst",
+          "nl": "Morgen zal het weer zonnig zijn.",
+          "woorden": [
+            "سَيَكونُ",
+            "الجَوُّ",
+            "مُشْمِسًا",
+            "غَدًا."
+          ],
+          "uitleg": "{ar|سَيَكونُ} + accusatief."
+        },
+        {
+          "type": "ordenen",
+          "tag": "weer",
+          "nl": "Hoe is het weer vandaag?",
+          "woorden": [
+            "كَيْفَ",
+            "الطَّقْسُ",
+            "اليَوْمَ؟"
+          ],
+          "uitleg": "{ar|كَيْفَ} = hoe."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "toekomst",
+          "bron": "ik zal schrijven",
+          "antwoorden": [
+            "سَأَكْتُبُ",
+            "سَوْفَ أَكْتُبُ"
+          ],
+          "uitleg": "{ar|سَأَكْتُبُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "weer",
+          "bron": "Het weer is koud.",
+          "antwoorden": [
+            "الجَوُّ بارِدٌ",
+            "الطَّقْسُ بارِدٌ"
+          ],
+          "uitleg": "{ar|الجَوُّ بارِدٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "toekomst",
+          "bron": "سَوْفَ نَأْكُلُ في المَطْعَمِ.",
+          "antwoorden": [
+            "wij zullen in het restaurant eten",
+            "we gaan in het restaurant eten",
+            "we zullen in het restaurant eten"
+          ],
+          "uitleg": "{ar|سَوْفَ} + muḍāriʿ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "toekomst",
+          "bron": "سَتَكونُ الرِّيحُ قَوِيَّةً.",
+          "antwoorden": [
+            "de wind zal sterk zijn",
+            "er zal veel wind zijn"
+          ],
+          "uitleg": "{ar|رِيحٌ} is vrouwelijk: {ar|سَتَكونُ}."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "weer",
+        "paren": [
+          {
+            "ar": "مُمْطِرٌ",
+            "nl": "regenachtig"
+          },
+          {
+            "ar": "دافِئٌ",
+            "nl": "warm"
+          },
+          {
+            "ar": "مُعْتَدِلٌ",
+            "nl": "mild"
+          },
+          {
+            "ar": "رُطوبَةٌ",
+            "nl": "vochtigheid"
+          },
+          {
+            "ar": "طَقْسٌ",
+            "nl": "weer"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toekomst",
+        "vraag": "'Wij zullen reizen' is ...",
+        "opties": [
+          "سَنُسافِرُ",
+          "سافَرْنا",
+          "نُسافِرَ"
+        ],
+        "juist": 0,
+        "uitleg": "سَـ + muḍāriʿ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toekomst",
+        "vraag": "'Het weer zal koud zijn' is ...",
+        "opties": [
+          "سَيَكونُ الجَوُّ بارِدًا.",
+          "سَيَكونُ الجَوُّ بارِدٌ.",
+          "سَكانَ الجَوُّ بارِدًا."
+        ],
+        "juist": 0,
+        "uitleg": "Accusatief na {ar|سَيَكونُ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toekomst",
+        "vraag": "Welke vorm is goed geschreven?",
+        "opties": [
+          "سَأَدْرُسُ",
+          "سَ أَدْرُسُ",
+          "سَوْفَأَدْرُسُ"
+        ],
+        "juist": 0,
+        "uitleg": "سَـ vast; {ar|سَوْفَ} los."
+      },
+      {
+        "type": "luisteren",
+        "tag": "weer",
+        "tekst": "الطَّقْسُ مُشْمِسٌ اليَوْمَ",
+        "vraag": "Hoe is het weer vandaag?",
+        "opties": [
+          "zonnig",
+          "mistig",
+          "stormachtig"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُشْمِسٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "toekomst",
+        "tekst": "سَتَدْرُسينَ غَدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Jij (v) zult morgen studeren.",
+          "Jij studeerde gisteren.",
+          "Zij studeert vandaag."
+        ],
+        "juist": 0,
+        "uitleg": "سَـ + jij (v)."
+      },
+      {
+        "type": "invullen",
+        "tag": "toekomst",
+        "zin": "___ الجَوُّ جَميلًا غَدًا.",
+        "nl": "Morgen zal het weer mooi zijn.",
+        "woordbank": [
+          "سَيَكونُ",
+          "كانَ",
+          "يَكونَ"
+        ],
+        "antwoord": [
+          "سَيَكونُ"
+        ],
+        "uitleg": "Toekomst."
+      },
+      {
+        "type": "invullen",
+        "tag": "toekomst",
+        "zin": "هُمْ ___ يَعْمَلونَ.",
+        "nl": "Zij zullen werken.",
+        "antwoord": [
+          "سَوْفَ"
+        ],
+        "uitleg": "{ar|سَوْفَ} los vóór het werkwoord."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "toekomst",
+        "instructie": "Zet in de toekomende tijd met سَـ.",
+        "rijen": [
+          {
+            "label": "أَشْرَبُ",
+            "antwoord": "سَأَشْرَبُ",
+            "tr": "sa-ašrabu"
+          },
+          {
+            "label": "تَلْعَبونَ",
+            "antwoord": "سَتَلْعَبونَ",
+            "tr": "sa-talʿabūna"
+          }
+        ],
+        "uitleg": "{ar|سَأَشْرَبُ} · {ar|سَتَلْعَبونَ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "toekomst",
+        "nl": "De temperatuur zal twintig graden zijn.",
+        "woorden": [
+          "سَتَكونُ",
+          "دَرَجَةُ",
+          "الحَرارَةِ",
+          "عِشْرينَ",
+          "دَرَجَةً."
+        ],
+        "uitleg": "{ar|سَتَكونُ} (vrouwelijk) + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "toekomst",
+        "bron": "Het zal regenen.",
+        "antwoorden": [
+          "سَيُمْطِرُ",
+          "سَوْفَ يُمْطِرُ"
+        ],
+        "uitleg": "{ar|سَيُمْطِرُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "weer",
+        "bron": "bewolkt",
+        "antwoorden": [
+          "غائِمٌ"
+        ],
+        "uitleg": "{ar|غائِمٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-accusatief",
+        "bron": "كانَ الطَّقْسُ حارًّا أَمْسِ.",
+        "antwoorden": [
+          "gisteren was het weer heet",
+          "het weer was gisteren heet",
+          "gisteren was het heet",
+          "het was gisteren heet"
+        ],
+        "uitleg": "{ar|كانَ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "toekomst",
+        "bron": "سَأُسافِرُ الشَّهْرَ القادِمَ.",
+        "antwoorden": [
+          "ik zal volgende maand reizen",
+          "ik ga volgende maand reizen",
+          "volgende maand ga ik reizen"
+        ],
+        "uitleg": "سَـ + muḍāriʿ."
+      }
+    ]
+  }
+}

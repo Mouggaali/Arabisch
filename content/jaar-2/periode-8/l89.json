@@ -1,0 +1,640 @@
+{
+  "id": "j2-p8-l89",
+  "code": "L89",
+  "type": "les",
+  "titel": "Luchthaven en grens",
+  "thema": "Inchecken, douane en veiligheid; gebiedende wijs van alle vormen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de gebiedende wijs vormen van afgeleide vormen (II–X).",
+    "de korte gebiedende wijs van zwakke werkwoorden gebruiken (قُلْ، نَمْ، اِمْشِ، تَعالَ).",
+    "instructies op een vliegveld begrijpen en geven."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l89-w02",
+      "ar": "تَعالَ",
+      "tr": "taʿāla",
+      "nl": [
+        "kom!"
+      ],
+      "soort": "gebiedende wijs",
+      "notitie": "Vrouw: {ar|تَعالَيْ}; groep: {ar|تَعالَوْا}."
+    },
+    {
+      "id": "j2-p8-l89-w03",
+      "ar": "أَرِني",
+      "tr": "arinī",
+      "nl": [
+        "laat me zien"
+      ],
+      "soort": "gebiedende wijs (IV)",
+      "notitie": "Van {ar|أَرى} (laten zien)."
+    },
+    {
+      "id": "j2-p8-l89-w04",
+      "ar": "جَوازُ سَفَرٍ ساري المَفْعولِ",
+      "tr": "jawāzu safarin sārī l-mafʿūl",
+      "nl": [
+        "geldig paspoort"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l89-w05",
+      "ar": "بِطاقَةُ الصُّعودِ",
+      "tr": "biṭāqatu ṣ-ṣuʿūd",
+      "nl": [
+        "instapkaart"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l89-w06",
+      "ar": "نُقْطَةُ التَّفْتيشِ",
+      "tr": "nuqṭatu t-taftīš",
+      "nl": [
+        "controlepost"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l89-w07",
+      "ar": "فَتَّشَ",
+      "tr": "fattaša",
+      "nl": [
+        "fouilleren, controleren"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j2-p8-l89-w08",
+      "ar": "مُوَظَّفُ الجَمارِكِ",
+      "tr": "muwaẓẓafu l-jamārik",
+      "nl": [
+        "douanebeambte"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l89-w09",
+      "ar": "سائِلٌ",
+      "tr": "sāʾil",
+      "nl": [
+        "vloeistof"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|سَوائِلُ}."
+    },
+    {
+      "id": "j2-p8-l89-w10",
+      "ar": "صالَةُ الاِنْتِظارِ",
+      "tr": "ṣālatu l-intiẓār",
+      "nl": [
+        "wachtruimte"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l89-w11",
+      "ar": "رِحْلَةٌ داخِلِيَّةٌ",
+      "tr": "riḥlatun dāḫiliyya",
+      "nl": [
+        "binnenlandse vlucht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l89-w12",
+      "ar": "رِحْلَةٌ دُوَلِيَّةٌ",
+      "tr": "riḥlatun duwaliyya",
+      "nl": [
+        "internationale vlucht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l89-w13",
+      "ar": "وَزْنُ الأَمْتِعَةِ",
+      "tr": "waznu l-amtiʿa",
+      "nl": [
+        "gewicht van de bagage"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l89-w14",
+      "ar": "أَعْلَنَ عَنْ",
+      "tr": "aʿlana ʿan",
+      "nl": [
+        "omroepen, aankondigen"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j2-p8-l89-w15",
+      "ar": "مَمْنوعٌ اصْطِحابُ",
+      "tr": "mamnūʿun iṣṭiḥābu",
+      "nl": [
+        "het is verboden mee te nemen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l89-w16",
+      "ar": "سَلامَةٌ",
+      "tr": "salāma",
+      "nl": [
+        "veiligheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Gebiedende wijs van afgeleide vormen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Muḍāriʿ",
+            "Gebiedende wijs (m)",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "II",
+              "تُفَتِّشُ",
+              "فَتِّشْ",
+              "controleer!"
+            ],
+            [
+              "III",
+              "تُساعِدُ",
+              "ساعِدْ",
+              "help!"
+            ],
+            [
+              "IV",
+              "تُرْسِلُ",
+              "أَرْسِلْ",
+              "stuur!"
+            ],
+            [
+              "V",
+              "تَتَفَضَّلُ",
+              "تَفَضَّلْ",
+              "alstublieft / kom binnen"
+            ],
+            [
+              "VIII",
+              "تَنْتَظِرُ",
+              "اِنْتَظِرْ",
+              "wacht!"
+            ],
+            [
+              "X",
+              "تَسْتَعْمِلُ",
+              "اِسْتَعْمِلْ",
+              "gebruik!"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Dezelfde regel als bij vorm I: neem de majzūm van de jij-vorm en haal {ar|تُـ / تَـ} weg. Begint wat overblijft met een klinker of een stam die uitspreekbaar is (II, III, V), dan is er geen hulpalif. Vorm IV krijgt de hamza {ar|أَ} terug ({ar|أَرْسِلْ}); vorm VII–X krijgen {ar|اِ}."
+        },
+        {
+          "type": "letop",
+          "md": "Zwakke werkwoorden verkorten: {ar|قُلْ} (zeg), {ar|نَمْ} (slaap), {ar|اِمْشِ} (loop), {ar|خُذْ} (neem), {ar|قِفْ} (stop). {ar|تَعالَ} (kom) is een vaste, onregelmatige vorm."
+        }
+      ]
+    },
+    {
+      "titel": "Op het vliegveld",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَفَضَّلْ، أَرِني جَوازَ السَّفَرِ مِنْ فَضْلِكَ.",
+              "tr": "tafaḍḍal, arinī jawāza s-safari min faḍlik.",
+              "nl": "Alstublieft, laat me uw paspoort zien."
+            },
+            {
+              "ar": "ضَعْ أَمْتِعَتَكَ هُنا وَانْتَظِرْ.",
+              "tr": "ḍaʿ amtiʿataka hunā wa-ntaẓir.",
+              "nl": "Zet uw bagage hier en wacht."
+            },
+            {
+              "ar": "اِسْتَعْمِلْ هٰذا الكيسَ لِلسَّوائِلِ.",
+              "tr": "istaʿmil hāḏa l-kīsa li-s-sawāʾil.",
+              "nl": "Gebruik dit zakje voor vloeistoffen."
+            },
+            {
+              "ar": "تَعالَوْا، الطّائِرَةُ جاهِزَةٌ!",
+              "tr": "taʿālaw, aṭ-ṭāʾiratu jāhiza!",
+              "nl": "Kom, het vliegtuig is klaar!"
+            },
+            {
+              "ar": "لا تَنْسَ بِطاقَةَ الصُّعودِ!",
+              "tr": "lā tansa biṭāqata ṣ-ṣuʿūd!",
+              "nl": "Vergeet je instapkaart niet!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بِطاقَةُ الصُّعودِ",
+              "nl": "instapkaart",
+              "woord": "j2-p8-l89-w05"
+            },
+            {
+              "ar": "نُقْطَةُ التَّفْتيشِ",
+              "nl": "controlepost",
+              "woord": "j2-p8-l89-w06"
+            },
+            {
+              "ar": "سائِلٌ",
+              "nl": "vloeistof",
+              "woord": "j2-p8-l89-w09"
+            },
+            {
+              "ar": "صالَةُ الاِنْتِظارِ",
+              "nl": "wachtruimte",
+              "woord": "j2-p8-l89-w10"
+            },
+            {
+              "ar": "سَلامَةٌ",
+              "nl": "veiligheid",
+              "woord": "j2-p8-l89-w16"
+            },
+            {
+              "ar": "فَتَّشَ",
+              "nl": "fouilleren",
+              "woord": "j2-p8-l89-w07"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "gebiedende-wijs-2",
+          "tekst": "اِنْتَظِرْ هُنا مِنْ فَضْلِكَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Wacht hier alstublieft.",
+            "Kom hier alstublieft.",
+            "Ga daar zitten."
+          ],
+          "juist": 0,
+          "uitleg": "Vorm VIII."
+        }
+      ]
+    },
+    {
+      "titel": "Gebiedende wijs",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "gebiedende-wijs-2",
+          "instructie": "Maak de gebiedende wijs (tegen een man).",
+          "rijen": [
+            {
+              "label": "تُرْسِلُ (IV)",
+              "antwoord": "أَرْسِلْ",
+              "tr": "arsil"
+            },
+            {
+              "label": "تُساعِدُ (III)",
+              "antwoord": "ساعِدْ",
+              "tr": "sāʿid"
+            },
+            {
+              "label": "تَسْتَخْدِمُ (X)",
+              "antwoord": "اِسْتَخْدِمْ",
+              "tr": "istaḫdim"
+            },
+            {
+              "label": "تَقولُ (hol)",
+              "antwoord": "قُلْ",
+              "tr": "qul"
+            }
+          ],
+          "uitleg": "Majzūm zonder تـ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebiedende-wijs-2",
+          "vraag": "'Kom!' tegen een groep is ...",
+          "opties": [
+            "تَعالَوْا",
+            "تَعالَ",
+            "تَعالَيْ"
+          ],
+          "juist": 0,
+          "uitleg": "Onregelmatig."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebiedende-wijs-2",
+          "vraag": "'Stuur!' (vorm IV) begint met ...",
+          "opties": [
+            "أَ (hamza)",
+            "اِ (verbindingsalif)",
+            "geen alif"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَرْسِلْ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "gebiedende-wijs-2",
+          "zin": "___ يا سَيِّدَتي، اِجْلِسي هُنا.",
+          "nl": "Alstublieft mevrouw, gaat u hier zitten.",
+          "antwoord": [
+            "تَفَضَّلي"
+          ],
+          "uitleg": "Tegen een vrouw: ـي.",
+          "woordbank": [
+            "تَفَضَّلي",
+            "تَفَضَّلْ",
+            "تَفَضَّلوا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "gebiedende-wijs-2",
+          "zin": "___ الحَقيبَةَ عَلى الطّاوِلَةِ.",
+          "nl": "Zet de tas op de tafel. (m)",
+          "antwoord": [
+            "ضَعْ"
+          ],
+          "uitleg": "Assimilerend: {ar|ضَعْ}.",
+          "woordbank": [
+            "ضَعْ",
+            "اِوْضَعْ",
+            "تَضَعُ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Op het vliegveld",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "gebiedende-wijs-2",
+          "nl": "Zet uw bagage hier en wacht.",
+          "woorden": [
+            "ضَعْ",
+            "أَمْتِعَتَكَ",
+            "هُنا",
+            "وَانْتَظِرْ."
+          ],
+          "uitleg": "Twee gebiedende wijzen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "gebiedende-wijs-2",
+          "bron": "Laat me zien! (m)",
+          "antwoorden": [
+            "أَرِني"
+          ],
+          "uitleg": "{ar|أَرِني}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "gebiedende-wijs-2",
+          "bron": "اِسْتَعْمِلْ هٰذا الكيسَ.",
+          "antwoorden": [
+            "gebruik deze zak",
+            "gebruik dit zakje"
+          ],
+          "uitleg": "Vorm X."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُوَظَّفُ الجَمارِكِ",
+            "nl": "douanebeambte"
+          },
+          {
+            "ar": "رِحْلَةٌ داخِلِيَّةٌ",
+            "nl": "binnenlandse vlucht"
+          },
+          {
+            "ar": "وَزْنُ الأَمْتِعَةِ",
+            "nl": "gewicht van de bagage"
+          },
+          {
+            "ar": "أَعْلَنَ عَنْ",
+            "nl": "omroepen"
+          },
+          {
+            "ar": "تَعالَ",
+            "nl": "kom!"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "De gebiedende wijs van {ar|تُفَتِّشُ} is ...",
+        "opties": [
+          "فَتِّشْ",
+          "اِفْتِّشْ",
+          "تَفَتَّشْ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm II: geen alif."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "De gebiedende wijs van {ar|تَنْتَظِرُ} is ...",
+        "opties": [
+          "اِنْتَظِرْ",
+          "نْتَظِرْ",
+          "أَنْتَظِرْ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VIII: اِ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "'Slaap!' (m) is ...",
+        "opties": [
+          "نَمْ",
+          "نامْ",
+          "اِنْوَمْ"
+        ],
+        "juist": 0,
+        "uitleg": "Hol: korte vorm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "'Loop!' (tegen een vrouw) is ...",
+        "opties": [
+          "اِمْشي",
+          "اِمْشِ",
+          "اِمْشيوا"
+        ],
+        "juist": 0,
+        "uitleg": "ـي = vrouw."
+      },
+      {
+        "type": "luisteren",
+        "tag": "gebiedende-wijs-2",
+        "tekst": "تَفَضَّلوا بِالدُّخولِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Komt u binnen (groep).",
+          "Ga naar buiten.",
+          "Wacht buiten."
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V, groep."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "مَمْنوعٌ اصْطِحابُ السَّوائِلِ",
+        "vraag": "Wat is verboden?",
+        "opties": [
+          "vloeistoffen meenemen",
+          "roken",
+          "fotograferen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|السَّوائِلُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs-2",
+        "zin": "___ بِطاقَةَ الصُّعودِ مِنْ فَضْلِكَ.",
+        "nl": "Laat me alstublieft de instapkaart zien.",
+        "antwoord": [
+          "أَرِني"
+        ],
+        "uitleg": "{ar|أَرِني}",
+        "woordbank": [
+          "أَرِني",
+          "تَعالَ",
+          "اِنْتَظِرْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs-2",
+        "zin": "___ الرِّسالَةَ اليَوْمَ.",
+        "nl": "Stuur de brief vandaag. (m)",
+        "antwoord": [
+          "أَرْسِلِ"
+        ],
+        "uitleg": "Vorm IV met hamza.",
+        "woordbank": [
+          "أَرْسِلِ",
+          "اِرْسِلِ",
+          "تُرْسِلُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِنْتَظِروا في ___.",
+        "nl": "Wacht in de wachtruimte.",
+        "antwoord": [
+          "صالَةِ الاِنْتِظارِ"
+        ],
+        "uitleg": "{ar|صالَةُ الاِنْتِظارِ}",
+        "woordbank": [
+          "صالَةِ الاِنْتِظارِ",
+          "نُقْطَةِ التَّفْتيشِ",
+          "بِطاقَةِ الصُّعودِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "gebiedende-wijs-2",
+        "instructie": "Maak de gebiedende wijs (tegen een man).",
+        "rijen": [
+          {
+            "label": "تُغْلِقُ (IV)",
+            "antwoord": "أَغْلِقْ",
+            "tr": "aġliq"
+          },
+          {
+            "label": "تَتَكَلَّمُ (V)",
+            "antwoord": "تَكَلَّمْ",
+            "tr": "takallam"
+          }
+        ],
+        "uitleg": "IV met hamza · V zonder alif."
+      },
+      {
+        "type": "ordenen",
+        "tag": "gebiedende-wijs-2",
+        "nl": "Vergeet je instapkaart niet!",
+        "woorden": [
+          "لا",
+          "تَنْسَ",
+          "بِطاقَةَ",
+          "الصُّعودِ!"
+        ],
+        "uitleg": "Verbod."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebiedende-wijs-2",
+        "bron": "Kom! (m)",
+        "antwoorden": [
+          "تَعالَ"
+        ],
+        "uitleg": "{ar|تَعالَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "gebiedende-wijs-2",
+        "bron": "ساعِدْني مِنْ فَضْلِكَ.",
+        "antwoorden": [
+          "help me alstublieft",
+          "help mij alsjeblieft",
+          "help me alsjeblieft"
+        ],
+        "uitleg": "Vorm III."
+      }
+    ]
+  }
+}

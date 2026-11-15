@@ -1,0 +1,161 @@
+{
+  "id": "j1-p2-l22",
+  "code": "L22",
+  "type": "les",
+  "titel": "In het café of restaurant",
+  "thema": "Bestellen, beleefd vragen en afrekenen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "iets bestellen met أُريدُ (ik wil).",
+    "beleefd vragen met مِنْ فَضْلِكَ en لَوْ سَمَحْتَ (m/v).",
+    "أُريدُ أَنْ + werkwoord gebruiken als vaste combinatie.",
+    "om de rekening vragen en reageren op de ober."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l22-w01", "ar": "مَطْعَمٌ", "tr": "maṭʿam", "nl": ["restaurant"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w02", "ar": "مَقْهًى", "tr": "maqhā", "nl": ["café", "koffiehuis"], "soort": "zelfstandig naamwoord", "notitie": "Met lidwoord: {ar|المَقْهى}." },
+    { "id": "j1-p2-l22-w03", "ar": "نادِلٌ", "tr": "nādil", "nl": ["ober"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w04", "ar": "قائِمَةُ الطَّعامِ", "tr": "qāʾimatu ṭ-ṭaʿām", "nl": ["menukaart"], "soort": "iḍāfa", "notitie": "Letterlijk: de lijst van het eten." },
+    { "id": "j1-p2-l22-w05", "ar": "الحِسابُ", "tr": "al-ḥisāb", "nl": ["de rekening"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w06", "ar": "أُريدُ", "tr": "urīdu", "nl": ["ik wil"], "soort": "werkwoord", "notitie": "Jij (m): {ar|تُريدُ}, jij (v): {ar|تُريدِينَ}, hij: {ar|يُريدُ}." },
+    { "id": "j1-p2-l22-w07", "ar": "مِنْ فَضْلِكَ", "tr": "min faḍlika", "nl": ["alsjeblieft (tegen een man)"], "soort": "uitdrukking", "notitie": "Tegen een vrouw: {ar|مِنْ فَضْلِكِ}." },
+    { "id": "j1-p2-l22-w08", "ar": "لَوْ سَمَحْتَ", "tr": "law samaḥta", "nl": ["pardon", "als je wilt (tegen een man)"], "soort": "uitdrukking", "notitie": "Tegen een vrouw: {ar|لَوْ سَمَحْتِ}." },
+    { "id": "j1-p2-l22-w09", "ar": "تَفَضَّلْ", "tr": "tafaḍḍal", "nl": ["alstublieft (bij het geven)", "ga je gang (tegen een man)"], "soort": "uitdrukking", "notitie": "Tegen een vrouw: {ar|تَفَضَّلي}." },
+    { "id": "j1-p2-l22-w10", "ar": "فِنْجانٌ", "tr": "finjān", "nl": ["kopje"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w11", "ar": "صَحْنٌ", "tr": "ṣaḥn", "nl": ["bord", "schotel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w12", "ar": "مِلْعَقَةٌ", "tr": "milʿaqa", "nl": ["lepel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w13", "ar": "شَوْكَةٌ", "tr": "šawka", "nl": ["vork"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w14", "ar": "سِكّينٌ", "tr": "sikkīn", "nl": ["mes"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w15", "ar": "وَجْبَةٌ", "tr": "wajba", "nl": ["maaltijd", "gerecht"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w16", "ar": "بارِدٌ", "tr": "bārid", "nl": ["koud"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l22-w17", "ar": "ساخِنٌ", "tr": "sāḫin", "nl": ["heet", "warm"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l22-w18", "ar": "حارٌّ", "tr": "ḥārr", "nl": ["pittig", "heet (weer)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l22-w19", "ar": "بِدونِ", "tr": "bi-dūni", "nl": ["zonder"], "soort": "voorzetsel", "notitie": "Met genitief: {ar|بِدونِ سُكَّرٍ} = zonder suiker." },
+    { "id": "j1-p2-l22-w20", "ar": "واحِدٌ آخَرُ", "tr": "wāḥidun āḫar", "nl": ["nog een", "een ander"], "soort": "uitdrukking" },
+    { "id": "j1-p2-l22-w21", "ar": "بِالهَناءِ وَالشِّفاءِ", "tr": "bi-l-hanāʾi wa-š-šifāʾ", "nl": ["eet smakelijk", "wel bekome het u"], "soort": "uitdrukking",
+      "review": { "status": "onzeker", "note": "Gebruik en regionale variatie bevestigen; in Marokko hoor je vaak بِالصَّحَّة. Welke vorm aanleren als standaard?" } },
+    { "id": "j1-p2-l22-w22", "ar": "طَبَقٌ", "tr": "ṭabaq", "nl": ["gerecht", "bord"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l22-w23", "ar": "مُمْتازٌ", "tr": "mumtāz", "nl": ["uitstekend"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l22-w25", "ar": "يَدْفَعُ", "tr": "yadfaʿu", "nl": ["betalen (hij betaalt)"], "soort": "werkwoord", "notitie": "Stamklinker a. Ik betaal: {ar|أَدْفَعُ}." },
+    { "id": "j1-p2-l22-w24", "ar": "طاوِلَةٌ لِشَخْصَيْنِ", "tr": "ṭāwilatun li-šaḫṣayn", "nl": ["een tafel voor twee personen"], "soort": "uitdrukking", "notitie": "{ar|شَخْصَيْنِ}: dualis (les 29/40)." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Bestellen met أُريدُ",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Met {ar|أُريدُ} (*ik wil*) bestel je iets. Wat je wilt is het lijdend voorwerp en staat in de **accusatief**: {ar|أُريدُ قَهْوَةً} (*ik wil een koffie*).",
+          "Net als {ar|أُحِبُّ} heeft {ar|أُريدُ} een u in het voorvoegsel: {ar|أُريدُ، تُريدُ، تُريدِينَ، يُريدُ، نُريدُ}. Het hoort bij een groep werkwoorden die je in jaar 2 leert; leer het nu als vaste vorm."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "ماذا تُريدُ؟ — أُريدُ شايًا بِالنَّعْناعِ، مِنْ فَضْلِكَ.", "tr": "māḏā turīd? — urīdu šāyan bi-n-naʿnāʿ, min faḍlik.", "nl": "Wat wil je? — Ik wil graag muntthee, alsjeblieft." },
+          { "ar": "لَوْ سَمَحْتَ، قائِمَةَ الطَّعامِ.", "tr": "law samaḥta, qāʾimata ṭ-ṭaʿām.", "nl": "Pardon, de menukaart (graag).",
+            "review": { "status": "onzeker", "note": "Elliptische zin met accusatief (verborgen أُريدُ / أَعْطِني). Controleer of dit idiomatisch is of dat een volledige zin beter is." } },
+          { "ar": "أُريدُ قَهْوَةً بِدونِ سُكَّرٍ.", "tr": "urīdu qahwatan bi-dūni sukkar.", "nl": "Ik wil een koffie zonder suiker." },
+          { "ar": "تَفَضَّلْ، هٰذا الحِسابُ.", "tr": "tafaḍḍal, hāḏa l-ḥisāb.", "nl": "Alstublieft, dit is de rekening." }
+        ] },
+        { "type": "letop", "md": "{ar|مِنْ فَضْلِكَ}, {ar|لَوْ سَمَحْتَ} en {ar|تَفَضَّلْ} veranderen tegen een vrouw: {ar|مِنْ فَضْلِكِ}, {ar|لَوْ سَمَحْتِ}, {ar|تَفَضَّلي}." }
+      ]
+    },
+    {
+      "titel": "أُريدُ أَنْ + werkwoord",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Ik wil eten*, *ik wil betalen*: na {ar|أُريدُ} volgt {ar|أَنْ} met een werkwoord in de muḍāriʿ. Dat werkwoord eindigt dan op **-a** in plaats van -u: {ar|أُريدُ أَنْ آكُلَ} (*ik wil eten*), {ar|أُريدُ أَنْ أَشْرَبَ ماءً}.",
+          "De persoon van het tweede werkwoord past zich aan: {ar|تُريدُ أَنْ تَأْكُلَ}، {ar|نُريدُ أَنْ نَدْفَعَ}."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "أُريدُ أَنْ أَدْفَعَ.", "tr": "urīdu an adfaʿa.", "nl": "Ik wil betalen." },
+          { "ar": "هَلْ تُريدُ أَنْ تَأْكُلَ؟", "tr": "hal turīdu an taʾkula?", "nl": "Wil je iets eten?" },
+          { "ar": "نُريدُ أَنْ نَجْلِسَ هُنا.", "tr": "nurīdu an najlisa hunā.", "nl": "We willen hier zitten." }
+        ] },
+        { "type": "waarom", "md": "Na {ar|أَنْ} staat het werkwoord in de **aanvoegende wijs** (manṣūb): -u wordt -a. Dat leer je in les 50 volledig, ook voor het meervoud. Voor nu volstaat: na {ar|أَنْ} eindigt het werkwoord op -a." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden aan tafel",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مِلْعَقَةٌ", "nl": "lepel", "woord": "j1-p2-l22-w12" },
+          { "ar": "شَوْكَةٌ", "nl": "vork", "woord": "j1-p2-l22-w13" },
+          { "ar": "سِكّينٌ", "nl": "mes", "woord": "j1-p2-l22-w14" },
+          { "ar": "صَحْنٌ", "nl": "bord", "woord": "j1-p2-l22-w11" },
+          { "ar": "فِنْجانٌ", "nl": "kopje", "woord": "j1-p2-l22-w10" },
+          { "ar": "نادِلٌ", "nl": "ober", "woord": "j1-p2-l22-w03" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "bestellen", "tekst": "أُريدُ عَصيرًا بارِدًا", "vraag": "Wat bestelt de klant?", "opties": ["een koud sapje", "een warme thee", "koud water", "een koffie"], "juist": 0, "uitleg": "{ar|عَصيرًا بارِدًا}: beide in de accusatief." },
+        { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Je roept een serveerster. Wat zeg je?", "opties": ["لَوْ سَمَحْتِ!", "لَوْ سَمَحْتَ!", "تَفَضَّلْ!"], "juist": 0, "uitleg": "Tegen een vrouw: {ar|لَوْ سَمَحْتِ}." }
+      ]
+    },
+    {
+      "titel": "Bestellen",
+      "items": [
+        { "type": "invullen", "tag": "bestellen", "zin": "أُريدُ ___، مِنْ فَضْلِكَ.", "nl": "Ik wil een thee, alsjeblieft.", "woordbank": ["شايًا", "شايٌ", "الشّايُ"], "antwoord": ["شايًا"], "uitleg": "Lijdend voorwerp: accusatief." },
+        { "type": "invullen", "tag": "an-mudari", "zin": "أُريدُ أَنْ ___.", "nl": "Ik wil betalen.", "woordbank": ["أَدْفَعَ", "أَدْفَعُ", "يَدْفَعُ"], "antwoord": ["أَدْفَعَ"], "uitleg": "Na {ar|أَنْ}: -a." },
+        { "type": "invullen", "tag": "bestellen", "zin": "قَهْوَةٌ ___ سُكَّرٍ.", "nl": "koffie zonder suiker", "woordbank": ["بِدونِ", "مَعَ", "في"], "antwoord": ["بِدونِ"], "uitleg": "{ar|بِدونِ} = zonder." },
+        { "type": "meerkeuze", "tag": "an-mudari", "vraag": "'Wil je iets eten?' (tegen een man)", "opties": ["هَلْ تُريدُ أَنْ تَأْكُلَ؟", "هَلْ تُريدُ أَنْ تَأْكُلُ؟", "هَلْ أُريدُ أَنْ آكُلَ؟"], "juist": 0, "uitleg": "Na {ar|أَنْ}: -a; beide werkwoorden in de jij-vorm." },
+        { "type": "vervoegen", "tag": "bestellen", "instructie": "Vervoeg يُريدُ (willen).",
+          "rijen": [
+            { "label": "ik", "antwoord": "أُريدُ", "tr": "urīdu" },
+            { "label": "jij (m)", "antwoord": "تُريدُ", "tr": "turīdu" },
+            { "label": "jij (v)", "antwoord": "تُريدِينَ", "tr": "turīdīna" },
+            { "label": "wij", "antwoord": "نُريدُ", "tr": "nurīdu" }
+          ], "uitleg": "Voorvoegsel met u." }
+      ]
+    },
+    {
+      "titel": "Gesprek",
+      "items": [
+        { "type": "ordenen", "tag": "bestellen", "nl": "Wat wil je? Ik wil muntthee, alsjeblieft.", "woorden": ["ماذا", "تُريدُ؟", "أُريدُ", "شايًا", "بِالنَّعْناعِ،", "مِنْ", "فَضْلِكَ."], "uitleg": "{ar|ماذا} vóór een werkwoord (les 24)." },
+        { "type": "ordenen", "tag": "an-mudari", "nl": "We willen hier zitten.", "woorden": ["نُريدُ", "أَنْ", "نَجْلِسَ", "هُنا."], "uitleg": "{ar|نُريدُ أَنْ نَجْلِسَ}" },
+        { "type": "luisteren", "tag": "beleefdheid", "tekst": "تَفَضَّلْ، هٰذا الحِسابُ", "vraag": "Wat zegt de ober?", "opties": ["Alstublieft, hier is de rekening.", "Eet smakelijk.", "Wat wilt u drinken?"], "juist": 0, "uitleg": "{ar|تَفَضَّلْ} bij het geven." },
+        { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Wat zeg je als het eten wordt gebracht?", "opties": ["بِالهَناءِ وَالشِّفاءِ", "مَعَ السَّلامَةِ", "تَشَرَّفْنا"], "juist": 0, "uitleg": "Eet smakelijk." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bestellen", "bron": "Ik wil water, alsjeblieft. (tegen een man)", "antwoorden": ["أُريدُ ماءً، مِنْ فَضْلِكَ", "أُريدُ ماءً مِنْ فَضْلِكَ", "أُريدُ الماءَ مِنْ فَضْلِكَ"], "uitleg": "{ar|أُريدُ ماءً، مِنْ فَضْلِكَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bestellen", "bron": "de rekening", "antwoorden": ["الحِسابُ"], "uitleg": "{ar|الحِسابُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "an-mudari", "bron": "Ik wil eten.", "antwoorden": ["أُريدُ أَنْ آكُلَ"], "uitleg": "{ar|أُريدُ أَنْ آكُلَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bestellen", "bron": "الطَّبَقُ حارٌّ جِدًّا.", "tr": "aṭ-ṭabaqu ḥārrun jiddan.", "antwoorden": ["het gerecht is heel pittig", "het gerecht is erg pittig", "het eten is heel pittig"], "uitleg": "{ar|حارٌّ} = pittig." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bestellen", "bron": "الحَساءُ ساخِنٌ.", "tr": "al-ḥasāʾu sāḫin.", "antwoorden": ["de soep is heet", "de soep is warm"], "uitleg": "{ar|ساخِنٌ} = heet." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَطْعَمٌ", "nl": "restaurant" },
+        { "ar": "وَجْبَةٌ", "nl": "maaltijd" },
+        { "ar": "بارِدٌ", "nl": "koud" },
+        { "ar": "مُمْتازٌ", "nl": "uitstekend" },
+        { "ar": "بِدونِ", "nl": "zonder" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "bestellen", "vraag": "'Ik wil een koffie' is ...", "opties": ["أُريدُ قَهْوَةً.", "أُريدُ قَهْوَةٌ.", "أَريدُ قَهْوَةً."], "juist": 0, "uitleg": "Accusatief; voorvoegsel met u." },
+      { "type": "meerkeuze", "tag": "beleefdheid", "vraag": "Je geeft een man zijn kopje. Wat zeg je?", "opties": ["تَفَضَّلْ", "لَوْ سَمَحْتَ", "شُكْرًا"], "juist": 0, "uitleg": "{ar|تَفَضَّلْ} bij het geven." },
+      { "type": "meerkeuze", "tag": "an-mudari", "vraag": "Welke vorm na {ar|أَنْ}?", "opties": ["أَشْرَبَ", "أَشْرَبُ", "شَرِبَ"], "juist": 0, "uitleg": "-a na {ar|أَنْ}." },
+      { "type": "luisteren", "tag": "bestellen", "tekst": "الحِسابُ، مِنْ فَضْلِكَ", "vraag": "Wat vraagt de klant?", "opties": ["de rekening", "de menukaart", "een lepel"], "juist": 0, "uitleg": "{ar|الحِسابُ} = de rekening." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أُريدُ طاوِلَةً لِشَخْصَيْنِ", "vraag": "Wat vraagt de klant?", "opties": ["een tafel voor twee personen", "twee koffie", "de rekening voor twee"], "juist": 0, "uitleg": "{ar|لِشَخْصَيْنِ} = voor twee personen." },
+      { "type": "invullen", "tag": "bestellen", "zin": "أُريدُ ___ ساخِنًا.", "nl": "Ik wil warme soep.", "woordbank": ["حَساءً", "حَساءٌ", "الحَساءُ"], "antwoord": ["حَساءً"], "uitleg": "Accusatief; na hamza geen alif." },
+      { "type": "invullen", "tag": "beleefdheid", "zin": "لَوْ ___، أُريدُ ماءً.", "nl": "Pardon (tegen een man), ik wil water.", "antwoord": ["سَمَحْتَ"], "eind": true, "uitleg": "{ar|لَوْ سَمَحْتَ}" },
+      { "type": "vervoegen", "tag": "bestellen", "instructie": "Vul de juiste vorm van يُريدُ in.",
+        "rijen": [
+          { "label": "hij wil", "antwoord": "يُريدُ", "tr": "yurīdu" },
+          { "label": "jij (v) wilt", "antwoord": "تُريدِينَ", "tr": "turīdīna" }
+        ], "uitleg": "{ar|يُريدُ} · {ar|تُريدِينَ}" },
+      { "type": "ordenen", "tag": "an-mudari", "nl": "Ik wil water drinken.", "woorden": ["أُريدُ", "أَنْ", "أَشْرَبَ", "ماءً."], "uitleg": "{ar|أَنْ} + -a." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "beleefdheid", "bron": "alsjeblieft (tegen een vrouw, bij een verzoek)", "antwoorden": ["مِنْ فَضْلِكِ"], "eind": true, "uitleg": "{ar|مِنْ فَضْلِكِ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "an-mudari", "bron": "Ik wil betalen.", "antwoorden": ["أُريدُ أَنْ أَدْفَعَ"], "uitleg": "{ar|أُريدُ أَنْ أَدْفَعَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bestellen", "bron": "قائِمَةُ الطَّعامِ", "tr": "qāʾimatu ṭ-ṭaʿām", "antwoorden": ["de menukaart", "het menu", "menukaart"], "uitleg": "Letterlijk: de lijst van het eten." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bestellen", "bron": "الوَجْبَةُ مُمْتازَةٌ!", "tr": "al-wajbatu mumtāza!", "antwoorden": ["de maaltijd is uitstekend", "het eten is uitstekend", "het gerecht is uitstekend"], "uitleg": "{ar|مُمْتازَةٌ}: vrouwelijk." }
+    ]
+  }
+}

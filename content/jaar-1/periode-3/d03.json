@@ -1,0 +1,135 @@
+{
+  "id": "j1-p3-d03",
+  "code": "D03",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: getallen en prijzen",
+  "thema": "Tellen, vragen hoeveel iets kost en afdingen in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "tellen van 1 tot 10 in het Darija.",
+    "vragen wat iets kost met شحال؟ / بشحال؟.",
+    "eenvoudig afdingen op de markt."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-d03-w01", "ar": "واحد", "tr": "wāḥəd", "nl": ["een (1)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } },
+    { "id": "j1-p3-d03-w02", "ar": "جوج", "tr": "žūž", "nl": ["twee (2)"], "soort": "telwoord", "notitie": "Heel anders dan Fusha {ar|اِثْنانِ}; komt van {ar|زَوْج} (paar).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w03", "ar": "تلاتة", "tr": "tlāta", "nl": ["drie (3)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija: spelling (تلاتة / ثلاثة) bevestigen." } },
+    { "id": "j1-p3-d03-w04", "ar": "ربعة", "tr": "rəbʿa", "nl": ["vier (4)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w05", "ar": "خمسة", "tr": "xəmsa", "nl": ["vijf (5)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w06", "ar": "ستة", "tr": "sətta", "nl": ["zes (6)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w07", "ar": "سبعة", "tr": "səbʿa", "nl": ["zeven (7)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w08", "ar": "تمنية", "tr": "tmənya", "nl": ["acht (8)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija: spelling bevestigen." } },
+    { "id": "j1-p3-d03-w09", "ar": "تسعود", "tr": "təsʿūd", "nl": ["negen (9)"], "soort": "telwoord", "notitie": "Typisch Marokkaans; Fusha {ar|تِسْعَة}.", "review": { "status": "onzeker", "note": "Darija: vorm (تسعود / تسعة) en spelling bevestigen." } },
+    { "id": "j1-p3-d03-w10", "ar": "عشرة", "tr": "ʿšṛa", "nl": ["tien (10)"], "soort": "telwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w11", "ar": "شحال؟", "tr": "šḥāl?", "nl": ["hoeveel?"], "soort": "vraagwoord", "notitie": "Fusha: {ar|كَمْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w12", "ar": "بشحال؟", "tr": "bšḥāl?", "nl": ["hoeveel kost het?"], "soort": "vraagwoord", "notitie": "Fusha: {ar|بِكَمْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w13", "ar": "غالي", "tr": "ġāli", "nl": ["duur"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w14", "ar": "رخيص", "tr": "rxīṣ", "nl": ["goedkoop"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w15", "ar": "شوية", "tr": "šwiya", "nl": ["een beetje"], "soort": "bijwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d03-w16", "ar": "نقص شوية", "tr": "nqəṣ šwiya", "nl": ["doe er wat vanaf (afdingen)"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija: gangbare uitdrukking bij afdingen bevestigen." } },
+    { "id": "j1-p3-d03-w17", "ar": "الدرهم", "tr": "ddərhəm", "nl": ["de dirham"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } },
+    { "id": "j1-p3-d03-w18", "ar": "ريال", "tr": "ryāl", "nl": ["rial (prijs-eenheid in de spreektaal)"], "soort": "zelfstandig naamwoord", "notitie": "In Marokko worden prijzen vaak in rial genoemd: 20 rial = 1 dirham.", "review": { "status": "onzeker", "note": "Rial-rekensysteem verschilt per regio; laten bevestigen (20 rial = 1 dirham)." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Getallen: Fusha en Darija",
+      "blokken": [
+        { "type": "tabel", "kop": ["Getal", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["1", "واحِدٌ", "واحد|wāḥəd"],
+          ["2", "اِثْنانِ", "جوج|žūž"],
+          ["3", "ثَلاثَةٌ", "تلاتة|tlāta"],
+          ["4", "أَرْبَعَةٌ", "ربعة|rəbʿa"],
+          ["5", "خَمْسَةٌ", "خمسة|xəmsa"],
+          ["6", "سِتَّةٌ", "ستة|sətta"],
+          ["7", "سَبْعَةٌ", "سبعة|səbʿa"],
+          ["8", "ثَمانِيَةٌ", "تمنية|tmənya"],
+          ["9", "تِسْعَةٌ", "تسعود|təsʿūd"],
+          ["10", "عَشَرَةٌ", "عشرة|ʿšṛa"]
+        ] },
+        { "type": "waarom", "md": "In het Darija wordt de **ث** vaak een **ت** ({ar|تلاتة}), en klinkers vallen weg ({ar|ربعة} in plaats van {ar|أَرْبَعَة}). Ken je de Fusha-vorm, dan herken je meestal de Darija-vorm. Uitzonderingen zijn {ar|جوج} en {ar|تسعود}." }
+      ]
+    },
+    {
+      "titel": "Op de markt",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "بشحال هادي؟", "tr": "bšḥāl hādi?", "nl": "Hoeveel kost deze?", "review": { "status": "onzeker", "note": "هادي = deze (v) in Darija; Darija-zin laten nakijken." } },
+          { "ar": "عشرين درهم.", "tr": "ʿišrīn dərhəm.", "nl": "Twintig dirham.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "غالي بزاف! نقص شوية.", "tr": "ġāli bəzzāf! nqəṣ šwiya.", "nl": "Veel te duur! Doe er wat vanaf.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "واخا، خمسطاش درهم.", "tr": "waxxa, xəmsṭāš dərhəm.", "nl": "Oké, vijftien dirham.", "review": { "status": "onzeker", "note": "خمسطاش (15) Darija-vorm laten bevestigen." } }
+        ] },
+        { "type": "letop", "md": "Na een getal blijft het woord in het Darija meestal enkelvoud zonder naamvalsuitgang: {ar|عشرين درهم}. In het Fusha zou het {ar|عِشْرونَ دِرْهَمًا} zijn." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Tellen",
+      "items": [
+        { "type": "koppelen", "tag": "darija-getallen", "paren": [
+          { "ar": "جوج", "nl": "2", "woord": "j1-p3-d03-w02" },
+          { "ar": "تلاتة", "nl": "3", "woord": "j1-p3-d03-w03" },
+          { "ar": "ربعة", "nl": "4", "woord": "j1-p3-d03-w04" },
+          { "ar": "تمنية", "nl": "8", "woord": "j1-p3-d03-w08" },
+          { "ar": "تسعود", "nl": "9", "woord": "j1-p3-d03-w09" }
+        ], "uitleg": "Darija-getallen." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija voor {ar|كَمْ} is ...", "opties": ["شحال", "شنو", "فين"], "juist": 0, "uitleg": "{ar|شحال}" },
+        { "type": "ordenen", "tag": "darija-getallen", "nl": "Tel van 1 tot 4 (begin rechts).", "woorden": ["واحد", "جوج", "تلاتة", "ربعة"], "uitleg": "1, 2, 3, 4." },
+        { "type": "luisteren", "tag": "darija-getallen", "tekst": "جوج", "vraag": "Welk getal?", "opties": ["2", "6", "9"], "juist": 0, "uitleg": "*žūž* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Op de markt",
+      "items": [
+        { "type": "invullen", "tag": "darija-prijzen", "zin": "___ هادي؟", "nl": "Hoeveel kost deze?", "woordbank": ["بشحال", "شنو", "منين"], "antwoord": ["بشحال"], "uitleg": "{ar|بشحال} = hoeveel kost." },
+        { "type": "invullen", "tag": "darija-prijzen", "zin": "غالي ___!", "nl": "Veel te duur!", "woordbank": ["بزاف", "شوية", "واخا"], "antwoord": ["بزاف"], "uitleg": "{ar|بزاف} = veel." },
+        { "type": "vervoegen", "tag": "darija-getallen", "instructie": "Schrijf het getal in het Darija.",
+          "rijen": [
+            { "label": "2", "antwoord": "جوج", "tr": "žūž" },
+            { "label": "9", "antwoord": "تسعود", "tr": "təsʿūd" },
+            { "label": "10", "antwoord": "عشرة", "tr": "ʿšṛa" }
+          ], "uitleg": "{ar|جوج} · {ar|تسعود} · {ar|عشرة}" },
+        { "type": "ordenen", "tag": "darija-prijzen", "nl": "Veel te duur! Doe er wat vanaf.", "woorden": ["غالي", "بزاف!", "نقص", "شوية."], "uitleg": "Afdingen." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-prijzen", "bron": "goedkoop (Darija)", "antwoorden": ["رخيص"], "uitleg": "{ar|رخيص}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-getallen", "bron": "vijf (Darija)", "antwoorden": ["خمسة"], "uitleg": "{ar|خمسة}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-prijzen", "bron": "بشحال؟", "tr": "bšḥāl?", "antwoorden": ["hoeveel kost het", "hoeveel kost dat", "voor hoeveel", "wat kost het"], "uitleg": "{ar|بشحال} = Fusha {ar|بِكَمْ}." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-getallen", "paren": [
+        { "ar": "واحد", "nl": "1" },
+        { "ar": "خمسة", "nl": "5" },
+        { "ar": "سبعة", "nl": "7" },
+        { "ar": "عشرة", "nl": "10" }
+      ], "uitleg": "Darija-getallen." },
+      { "type": "meerkeuze", "tag": "darija-getallen", "vraag": "'Twee' in het Darija is ...", "opties": ["جوج", "زوز", "اثنين"], "juist": 0, "uitleg": "{ar|جوج} (*žūž*)." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija {ar|بشحال؟} is in het Fusha ...", "opties": ["بِكَمْ؟", "كَيْفَ؟", "مَتى؟"], "juist": 0, "uitleg": "Hoeveel kost het?" },
+      { "type": "meerkeuze", "tag": "darija-prijzen", "vraag": "Je vindt iets te duur. Wat zeg je?", "opties": ["غالي بزاف!", "رخيص بزاف!", "واخا!"], "juist": 0, "uitleg": "Veel te duur!" },
+      { "type": "luisteren", "tag": "darija-prijzen", "tekst": "رخيص", "vraag": "Wat hoor je?", "opties": ["goedkoop", "duur", "een beetje"], "juist": 0, "uitleg": "*rxīṣ*" },
+      { "type": "invullen", "tag": "darija-getallen", "zin": "واحد، جوج، ___", "nl": "1, 2, 3", "antwoord": ["تلاتة"], "uitleg": "{ar|تلاتة}" },
+      { "type": "invullen", "tag": "darija-prijzen", "zin": "نقص ___.", "nl": "Doe er wat vanaf.", "woordbank": ["شوية", "بزاف", "شحال"], "antwoord": ["شوية"], "uitleg": "{ar|شوية} = een beetje." },
+      { "type": "vervoegen", "tag": "darija-getallen", "instructie": "Schrijf het getal in het Darija.",
+        "rijen": [
+          { "label": "4", "antwoord": "ربعة", "tr": "rəbʿa" },
+          { "label": "8", "antwoord": "تمنية", "tr": "tmənya" }
+        ], "uitleg": "{ar|ربعة} · {ar|تمنية}" },
+      { "type": "ordenen", "tag": "darija-prijzen", "nl": "Hoeveel kost deze?", "woorden": ["بشحال", "هادي؟"], "uitleg": "{ar|بشحال} + {ar|هادي}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-prijzen", "bron": "hoeveel? (Darija)", "antwoorden": ["شحال؟"], "uitleg": "{ar|شحال}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-prijzen", "bron": "duur (Darija)", "antwoorden": ["غالي"], "uitleg": "{ar|غالي}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-getallen", "bron": "تسعود", "tr": "təsʿūd", "antwoorden": ["negen", "9"], "uitleg": "Typisch Marokkaans." }
+    ]
+  }
+}

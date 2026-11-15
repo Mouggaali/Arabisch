@@ -1,0 +1,137 @@
+{
+  "id": "j1-p3-d02",
+  "code": "D02",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: ik, jij, hebben",
+  "thema": "Voornaamwoorden, 'zijn' en 'hebben' in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de persoonlijke voornaamwoorden van het Darija gebruiken.",
+    "bezit uitdrukken met عندي، عندك ... en ontkennen met ما ... ش.",
+    "zien dat Darija net als Fusha geen 'zijn' gebruikt in de tegenwoordige tijd."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-d02-w01", "ar": "نتا", "tr": "nta", "nl": ["jij (m)"], "soort": "voornaamwoord", "review": { "status": "onzeker", "note": "Darija: spelling (نتا / انت) bevestigen." } },
+    { "id": "j1-p3-d02-w02", "ar": "نتي", "tr": "nti", "nl": ["jij (v)"], "soort": "voornaamwoord", "review": { "status": "onzeker", "note": "Darija: spelling bevestigen." } },
+    { "id": "j1-p3-d02-w03", "ar": "حنا", "tr": "ḥna", "nl": ["wij"], "soort": "voornaamwoord", "notitie": "Fusha: {ar|نَحْنُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w04", "ar": "نتوما", "tr": "ntuma", "nl": ["jullie"], "soort": "voornaamwoord", "notitie": "Eén vorm voor mannen en vrouwen.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w05", "ar": "هوما", "tr": "huma", "nl": ["zij (meervoud)"], "soort": "voornaamwoord", "notitie": "Eén vorm voor mannen en vrouwen; in Fusha is {ar|هُما} de dualis!", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w06", "ar": "عندي", "tr": "ʿəndi", "nl": ["ik heb"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } },
+    { "id": "j1-p3-d02-w07", "ar": "عندك", "tr": "ʿəndək", "nl": ["jij hebt"], "soort": "uitdrukking", "notitie": "Geldt voor een man én een vrouw.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w08", "ar": "عندو", "tr": "ʿəndu", "nl": ["hij heeft"], "soort": "uitdrukking", "notitie": "Fusha: {ar|عِنْدَهُ}.", "review": { "status": "onzeker", "note": "Darija: spelling (عندو / عنده) bevestigen." } },
+    { "id": "j1-p3-d02-w09", "ar": "عندها", "tr": "ʿəndha", "nl": ["zij heeft"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w10", "ar": "عندنا", "tr": "ʿəndna", "nl": ["wij hebben"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w11", "ar": "عندهم", "tr": "ʿəndhum", "nl": ["zij hebben"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w12", "ar": "ما عنديش", "tr": "ma ʿəndiš", "nl": ["ik heb niet", "ik heb geen"], "soort": "uitdrukking", "notitie": "Ontkenning: {ar|ما} ervoor en {ar|ش} erachter.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w13", "ar": "شي", "tr": "ši", "nl": ["een (onbepaald)", "wat", "iets"], "soort": "partikel", "notitie": "{ar|عندي شي سؤال} = ik heb een vraag.", "review": { "status": "onzeker", "note": "Darija: gebruik van شي als onbepaald lidwoord bevestigen." } },
+    { "id": "j1-p3-d02-w14", "ar": "خو", "tr": "xu", "nl": ["broer"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|أَخٌ}. Mijn broer: {ar|خويا} (*xuya*).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w15", "ar": "ختي", "tr": "xti", "nl": ["mijn zus"], "soort": "uitdrukking", "notitie": "Fusha: {ar|أُخْتي}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j1-p3-d02-w16", "ar": "الوقت", "tr": "lwəqt", "nl": ["(de) tijd"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija-uitspraak bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Voornaamwoorden: Fusha en Darija",
+      "blokken": [
+        { "type": "tabel", "kop": ["Nederlands", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["ik", "أَنا|ana", "أنا|āna"],
+          ["jij (m)", "أَنْتَ|anta", "نتا|nta"],
+          ["jij (v)", "أَنْتِ|anti", "نتي|nti"],
+          ["hij", "هُوَ|huwa", "هو|huwa"],
+          ["zij", "هِيَ|hiya", "هي|hiya"],
+          ["wij", "نَحْنُ|naḥnu", "حنا|ḥna"],
+          ["jullie", "أَنْتُمْ / أَنْتُنَّ|antum / antunna", "نتوما|ntuma"],
+          ["zij (mv)", "هُمْ / هُنَّ|hum / hunna", "هوما|huma"]
+        ] },
+        { "type": "waarom", "md": "Darija heeft het systeem vereenvoudigd: in het meervoud is er geen verschil meer tussen mannelijk en vrouwelijk, en de dualis is verdwenen. Let op: {ar|هوما} (*huma*) betekent in het Darija *zij (alle mensen)*, terwijl {ar|هُما} in het Fusha *zij twee* betekent." }
+      ]
+    },
+    {
+      "titel": "Zijn en hebben",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Net als in het Fusha is er in de tegenwoordige tijd geen werkwoord *zijn*: {ar|أنا طالب} = *ik (ben) student*.",
+          "*Hebben* gaat ook met {ar|عند} + achtervoegsel: {ar|عندي}، {ar|عندك}، {ar|عندو}. De achtervoegsels zijn korter dan in het Fusha.",
+          "Ontkennen doe je met **{ar|ما}** vóór en **{ar|ش}** achter het woord: {ar|ما عنديش} (*ik heb niet*). Die ش komt van {ar|شَيْءٌ} (iets)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "عندي خو وختي.", "tr": "ʿəndi xu w-xti.", "nl": "Ik heb een broer en een zus.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken (mogelijk: عندي خويا وختي)." } },
+          { "ar": "ما عنديش الوقت.", "tr": "ma ʿəndiš lwəqt.", "nl": "Ik heb geen tijd.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "واش عندك شي سؤال؟", "tr": "waš ʿəndək ši suʾāl?", "nl": "Heb je een vraag?", "review": { "status": "onzeker", "note": "واش = vraagpartikel (Fusha هَلْ). Darija-zin laten nakijken." } },
+          { "ar": "حنا من هولندا.", "tr": "ḥna mən hulanda.", "nl": "Wij komen uit Nederland.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] },
+        { "type": "letop", "md": "{ar|واش} (*waš*) maakt in het Darija een ja/nee-vraag, zoals {ar|هَلْ} in het Fusha." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Voornaamwoorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-voornaamwoorden", "paren": [
+          { "ar": "نتا", "nl": "jij (m)", "woord": "j1-p3-d02-w01" },
+          { "ar": "نتي", "nl": "jij (v)", "woord": "j1-p3-d02-w02" },
+          { "ar": "حنا", "nl": "wij", "woord": "j1-p3-d02-w03" },
+          { "ar": "نتوما", "nl": "jullie", "woord": "j1-p3-d02-w04" },
+          { "ar": "هوما", "nl": "zij (mv)", "woord": "j1-p3-d02-w05" }
+        ], "uitleg": "Darija-voornaamwoorden." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Wat betekent {ar|هوما} in het Darija?", "opties": ["zij (meervoud)", "zij twee", "wij"], "juist": 0, "uitleg": "In Fusha is {ar|هُما} de dualis." },
+        { "type": "luisteren", "tag": "darija-voornaamwoorden", "tekst": "حنا", "vraag": "Wat hoor je?", "opties": ["wij", "zij", "jullie"], "juist": 0, "uitleg": "*ḥna* = wij." }
+      ]
+    },
+    {
+      "titel": "Hebben",
+      "items": [
+        { "type": "vervoegen", "tag": "darija-hebben", "instructie": "Vul de Darija-vorm in.",
+          "rijen": [
+            { "label": "ik heb", "antwoord": "عندي", "tr": "ʿəndi" },
+            { "label": "hij heeft", "antwoord": "عندو", "tr": "ʿəndu" },
+            { "label": "wij hebben", "antwoord": "عندنا", "tr": "ʿəndna" },
+            { "label": "ik heb niet", "antwoord": "ما عنديش", "tr": "ma ʿəndiš" }
+          ], "uitleg": "Ontkennen: ما ... ش." },
+        { "type": "invullen", "tag": "darija-hebben", "zin": "ما ___ الوقت.", "nl": "Ik heb geen tijd.", "woordbank": ["عنديش", "عندي", "عندوش"], "antwoord": ["عنديش"], "uitleg": "ما ... ش rond het woord." },
+        { "type": "invullen", "tag": "darija-hebben", "zin": "___ عندك شي سؤال؟", "nl": "Heb je een vraag?", "woordbank": ["واش", "شنو", "منين"], "antwoord": ["واش"], "uitleg": "{ar|واش} = ja/nee-vraag." },
+        { "type": "ordenen", "tag": "darija-hebben", "nl": "Ik heb een broer en een zus.", "woorden": ["عندي", "خو", "وختي."], "uitleg": "{ar|عندي} + bezit." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-voornaamwoorden", "bron": "wij (Darija)", "antwoorden": ["حنا"], "uitleg": "{ar|حنا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-hebben", "bron": "zij heeft (Darija)", "antwoorden": ["عندها"], "uitleg": "{ar|عندها}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-hebben", "bron": "ما عندهمش", "tr": "ma ʿəndhumš", "antwoorden": ["zij hebben niet", "zij hebben geen", "ze hebben niet", "ze hebben geen"], "uitleg": "ما ... ش + {ar|عندهم}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-voornaamwoorden", "bron": "نتوما من المغرب؟", "tr": "ntuma mən lməġrib?", "antwoorden": ["komen jullie uit marokko", "zijn jullie uit marokko", "jullie komen uit marokko"], "uitleg": "{ar|نتوما} = jullie." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-hebben", "paren": [
+        { "ar": "عندي", "nl": "ik heb" },
+        { "ar": "عندك", "nl": "jij hebt" },
+        { "ar": "عندها", "nl": "zij heeft" },
+        { "ar": "عندهم", "nl": "zij hebben" }
+      ], "uitleg": "Herhaal de vormen." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija voor {ar|نَحْنُ} is ...", "opties": ["حنا", "نتوما", "هوما"], "juist": 0, "uitleg": "{ar|حنا}" },
+      { "type": "meerkeuze", "tag": "darija-hebben", "vraag": "Hoe ontken je {ar|عندي} in het Darija?", "opties": ["ما عنديش", "لا عندي", "ليس عندي"], "juist": 0, "uitleg": "ما ... ش" },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Welk woord maakt in het Darija een ja/nee-vraag?", "opties": ["واش", "شنو", "واخا"], "juist": 0, "uitleg": "{ar|واش} = Fusha {ar|هَلْ}." },
+      { "type": "luisteren", "tag": "darija-hebben", "tekst": "ما عنديش", "vraag": "Wat hoor je?", "opties": ["ik heb niet", "ik heb", "heb jij?"], "juist": 0, "uitleg": "*ma ʿəndiš*" },
+      { "type": "invullen", "tag": "darija-voornaamwoorden", "zin": "___ من هولندا.", "nl": "Wij komen uit Nederland.", "woordbank": ["حنا", "هوما", "نتا"], "antwoord": ["حنا"], "uitleg": "{ar|حنا} = wij." },
+      { "type": "invullen", "tag": "darija-hebben", "zin": "خويا ___ طوموبيل.", "nl": "Mijn broer heeft een auto.", "woordbank": ["عندو", "عندي", "عندها"], "antwoord": ["عندو"], "uitleg": "Hij heeft: {ar|عندو}. ({ar|طوموبيل} = auto, uit het Frans.)" },
+      { "type": "vervoegen", "tag": "darija-voornaamwoorden", "instructie": "Vul het Darija-voornaamwoord in.",
+        "rijen": [
+          { "label": "jij (v)", "antwoord": "نتي", "tr": "nti" },
+          { "label": "jullie", "antwoord": "نتوما", "tr": "ntuma" }
+        ], "uitleg": "{ar|نتي} · {ar|نتوما}" },
+      { "type": "ordenen", "tag": "darija-hebben", "nl": "Ik heb geen tijd.", "woorden": ["ما", "عنديش", "الوقت."], "uitleg": "ما ... ش" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-hebben", "bron": "ik heb (Darija)", "antwoorden": ["عندي"], "uitleg": "{ar|عندي}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-voornaamwoorden", "bron": "jij (m, Darija)", "antwoorden": ["نتا"], "uitleg": "{ar|نتا}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-hebben", "bron": "عندنا شي سؤال", "tr": "ʿəndna ši suʾāl", "antwoorden": ["wij hebben een vraag", "we hebben een vraag"], "uitleg": "{ar|شي} = een." }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "id": "j3-p9-h26",
+  "code": "H26",
+  "type": "herhaling",
+  "titel": "Herhaling blok 9B",
+  "thema": "Tijd, oorzaak, doel, toegeving en indirecte rede",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "samengestelde zinnen maken met tijd-, oorzaak-, doel- en toegevingswoorden.",
+    "uitspraken en vragen indirect weergeven.",
+    "de woorden van blok 9B herhalen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 101–104 en D20.",
+  "grammatica": [
+    {
+      "titel": "Blok 9B in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Woorden",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "tijd",
+              "عِنْدَما، لَمّا، كُلَّما، بَعْدَما، مُنْذُ أَنْ",
+              "كُلَّما زُرْتُها فَرِحَتْ"
+            ],
+            [
+              "oorzaak",
+              "لِأَنَّ، بِسَبَبِ",
+              "بِسَبَبِ المَطَرِ"
+            ],
+            [
+              "doel",
+              "لِكَيْ، حَتّى، مِنْ أَجْلِ",
+              "لِكَيْ يَنْجَحَ"
+            ],
+            [
+              "toegeving",
+              "رَغْمَ (أَنَّ)، مَعَ أَنَّ",
+              "رَغْمَ المَطَرِ"
+            ],
+            [
+              "tegenstelling",
+              "بَلْ، أَمّا … فَـ",
+              "أَمّا أَنا فَـ…"
+            ],
+            [
+              "indirecte rede",
+              "قالَ إِنَّ، ذَكَرَ أَنَّ، سَأَلَ إِنْ",
+              "قالَ إِنَّهُ مَريضٌ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met deze verbindingswoorden bouw je **samengestelde zinnen**: het belangrijkste verschil tussen A2 en B1. Let steeds op wat erna komt: een zin, een naamwoord of een werkwoord in een bepaalde wijs."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "tijdsvoegwoorden",
+          "vraag": "'Telkens als ik reis' is ...",
+          "opties": [
+            "كُلَّما سافَرْتُ",
+            "لَمّا أُسافِرْ",
+            "مُنْذُ أُسافِرُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كُلَّما} + māḍī."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-doel",
+          "vraag": "'Om te slagen' is ...",
+          "opties": [
+            "لِكَيْ يَنْجَحَ",
+            "لِأَنَّ يَنْجَحُ",
+            "بِسَبَبِ يَنْجَحْ"
+          ],
+          "juist": 0,
+          "uitleg": "Doel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "toegeving",
+          "vraag": "'Ondanks de vermoeidheid' is ...",
+          "opties": [
+            "رَغْمَ التَّعَبِ",
+            "لِأَنَّ التَّعَبَ",
+            "بِسَبَبِ التَّعَبِ"
+          ],
+          "juist": 0,
+          "uitleg": "Toegeving."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رائِحَةٌ",
+              "nl": "geur",
+              "woord": "j3-p9-l101-w16"
+            },
+            {
+              "ar": "بِطالَةٌ",
+              "nl": "werkloosheid",
+              "woord": "j3-p9-l102-w06"
+            },
+            {
+              "ar": "مُعارِضٌ",
+              "nl": "tegenstander",
+              "woord": "j3-p9-l103-w08"
+            },
+            {
+              "ar": "تَصْريحٌ",
+              "nl": "verklaring",
+              "woord": "j3-p9-l104-w13"
+            },
+            {
+              "ar": "الدوا",
+              "nl": "medicijn (Darija)",
+              "woord": "j3-p9-d20-w08"
+            },
+            {
+              "ar": "فَقْرٌ",
+              "nl": "armoede",
+              "woord": "j3-p9-l102-w07"
+            }
+          ],
+          "uitleg": "Woorden uit blok 9B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "indirecte-rede",
+          "zin": "قالَ ___ هُ سَيَأْتي.",
+          "nl": "Hij zei dat hij zou komen.",
+          "antwoord": [
+            "إِنَّ"
+          ],
+          "uitleg": "Na {ar|قالَ}.",
+          "woordbank": [
+            "إِنَّ",
+            "أَنَّ",
+            "أَنْ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "toegeving",
+          "zin": "أَمّا أَخي ___ يَعْمَلُ في فَرَنْسا.",
+          "nl": "Mijn broer daarentegen werkt in Frankrijk.",
+          "antwoord": [
+            "فَـ",
+            "ف",
+            "فَ"
+          ],
+          "uitleg": "{ar|أَمّا … فَـ}",
+          "woordbank": [
+            "فَـ",
+            "وَ",
+            "لٰكِنْ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "oorzaak-doel",
+          "nl": "Hij studeert om werk te vinden.",
+          "woorden": [
+            "يَدْرُسُ",
+            "لِكَيْ",
+            "يَجِدَ",
+            "عَمَلًا."
+          ],
+          "uitleg": "Doel."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-dokter",
+          "tekst": "كيضرني راسي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb hoofdpijn.",
+            "Ik heb koorts.",
+            "Ik ben moe."
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "tijdsvoegwoorden",
+          "bron": "sinds ik hier woon",
+          "antwoorden": [
+            "مُنْذُ أَنْ سَكَنْتُ هُنا"
+          ],
+          "uitleg": "{ar|مُنْذُ أَنْ} + māḍī."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "indirecte-rede",
+          "bron": "سَأَلَتْني إِنْ كُنْتُ جائِعًا.",
+          "antwoorden": [
+            "ze vroeg me of ik honger had",
+            "zij vroeg mij of ik honger had"
+          ],
+          "uitleg": "Ja/nee-vraag."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "toegeving",
+          "bron": "لَيْسَتِ المُشْكِلَةُ في المالِ بَلْ في الوَقْتِ.",
+          "antwoorden": [
+            "het probleem zit niet in het geld maar in de tijd",
+            "het probleem is niet het geld maar de tijd"
+          ],
+          "uitleg": "{ar|بَلْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "{ar|لَمّا} + māḍī betekent ...",
+        "opties": [
+          "toen",
+          "nog niet",
+          "telkens"
+        ],
+        "juist": 0,
+        "uitleg": "Toen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Nauwelijks … of' is ...",
+        "opties": [
+          "ما إِنْ … حَتّى",
+          "كُلَّما … فَـ",
+          "لَمّا … ثُمَّ"
+        ],
+        "juist": 0,
+        "uitleg": "Constructie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-doel",
+        "vraag": "Na {ar|بِسَبَبِ} volgt ...",
+        "opties": [
+          "een naamwoord in de genitief",
+          "een zin met أَنَّ",
+          "een werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Voorzetsel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "Na {ar|أَمّا X} volgt altijd ...",
+        "opties": [
+          "فَـ",
+          "إِلّا",
+          "بَلْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "indirecte-rede",
+        "vraag": "'Hij vroeg wat ik wilde' is ...",
+        "opties": [
+          "سَأَلَ عَمّا أُريدُ",
+          "قالَ إِنَّ أُريدُ",
+          "سَأَلَ إِنْ أُريدُ"
+        ],
+        "juist": 0,
+        "uitleg": "Open vraag."
+      },
+      {
+        "type": "luisteren",
+        "tag": "oorzaak-doel",
+        "tekst": "أُوَفِّرُ المالَ لِكَيْ أُسافِرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik spaar geld om te reizen.",
+          "Ik reis omdat ik geld heb.",
+          "Ik spaar niet."
+        ],
+        "juist": 0,
+        "uitleg": "Doel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tijdsvoegwoorden",
+        "tekst": "بَعْدَما أَكَلْنا، خَرَجْنا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Nadat we hadden gegeten, gingen we naar buiten.",
+          "Voordat we aten, gingen we naar buiten.",
+          "We aten buiten."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَعْدَما}"
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-doel",
+        "zin": "أَدّى المَطَرُ ___ فَيَضاناتٍ.",
+        "nl": "De regen leidde tot overstromingen.",
+        "antwoord": [
+          "إِلى",
+          "الى",
+          "إلى"
+        ],
+        "uitleg": "{ar|أَدّى إِلى}",
+        "woordbank": [
+          "إِلى",
+          "مِنْ",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "toegeving",
+        "zin": "___ أَنَّهُ غَنِيٌّ، يَعيشُ بِبَساطَةٍ.",
+        "nl": "Hoewel hij rijk is, leeft hij eenvoudig.",
+        "antwoord": [
+          "مَعَ"
+        ],
+        "uitleg": "{ar|مَعَ أَنَّ}",
+        "woordbank": [
+          "مَعَ",
+          "بِسَبَبِ",
+          "لِكَيْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "indirecte-rede",
+        "zin": "أَعْلَنَتِ الشَّرِكَةُ ___ الرِّحْلَةَ مُلْغاةٌ.",
+        "nl": "Het bedrijf maakte bekend dat de reis geannuleerd is.",
+        "antwoord": [
+          "أَنَّ"
+        ],
+        "uitleg": "Na {ar|أَعْلَنَ}: أَنَّ.",
+        "woordbank": [
+          "أَنَّ",
+          "إِنَّ",
+          "أَنْ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُراهِقٌ",
+            "nl": "tiener"
+          },
+          {
+            "ar": "هِجْرَةٌ",
+            "nl": "migratie"
+          },
+          {
+            "ar": "نِقاشٌ",
+            "nl": "discussie"
+          },
+          {
+            "ar": "مُحاوِرٌ",
+            "nl": "interviewer"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "indirecte-rede",
+        "nl": "Ze zei dat ze moe was.",
+        "woorden": [
+          "قالَتْ",
+          "إِنَّها",
+          "مُتْعَبَةٌ."
+        ],
+        "uitleg": "{ar|قالَ إِنَّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "oorzaak-doel",
+        "bron": "vanwege de werkloosheid",
+        "antwoorden": [
+          "بِسَبَبِ البِطالَةِ"
+        ],
+        "uitleg": "{ar|بِسَبَبِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "tijdsvoegwoorden",
+        "bron": "كُلَّما سَمِعْتُ هٰذِهِ الأُغْنِيَةَ تَذَكَّرْتُكَ.",
+        "antwoorden": [
+          "telkens als ik dit lied hoor denk ik aan jou",
+          "telkens als ik dit liedje hoorde herinnerde ik me jou",
+          "elke keer als ik dit lied hoor denk ik aan je"
+        ],
+        "uitleg": "{ar|كُلَّما}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-dokter",
+        "bron": "الله يشافيك",
+        "antwoorden": [
+          "beterschap"
+        ],
+        "uitleg": "Darija.",
+        "tr": "aḷḷāh yšāfīk"
+      }
+    ]
+  }
+}

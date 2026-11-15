@@ -1,0 +1,640 @@
+{
+  "id": "j3-p9-l98",
+  "code": "L98",
+  "type": "les",
+  "titel": "Geschiedenis",
+  "thema": "Rijken, steden en ontdekkingen; de lijdende vorm II",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de lijdende vorm van afgeleide en zwakke werkwoorden maken (أُسِّسَ، قيلَ، يُقالُ).",
+    "تَمَّ + maṣdar en vorm VII als alternatief herkennen.",
+    "over historische gebeurtenissen vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l98-w01",
+      "ar": "قيلَ",
+      "tr": "qīla",
+      "nl": [
+        "er werd gezegd"
+      ],
+      "soort": "werkwoord (lijdend, hol)",
+      "notitie": "{ar|يُقالُ} = men zegt."
+    },
+    {
+      "id": "j3-p9-l98-w02",
+      "ar": "تَمَّ",
+      "tr": "tamma",
+      "nl": [
+        "werd voltooid, vond plaats"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|تَمَّ + maṣdar} = er werd …"
+    },
+    {
+      "id": "j3-p9-l98-w03",
+      "ar": "أُسِّسَ",
+      "tr": "ussisa",
+      "nl": [
+        "werd gesticht"
+      ],
+      "soort": "werkwoord (lijdend, II)",
+      "notitie": "Actief {ar|أَسَّسَ}."
+    },
+    {
+      "id": "j3-p9-l98-w04",
+      "ar": "بُنِيَ",
+      "tr": "buniya",
+      "nl": [
+        "werd gebouwd"
+      ],
+      "soort": "werkwoord (lijdend, defectief)",
+      "notitie": "Actief {ar|بَنى}."
+    },
+    {
+      "id": "j3-p9-l98-w05",
+      "ar": "اِنْهارَ",
+      "tr": "inhāra",
+      "nl": [
+        "instorten"
+      ],
+      "soort": "werkwoord (VII, hol)"
+    },
+    {
+      "id": "j3-p9-l98-w06",
+      "ar": "حَضارَةٌ",
+      "tr": "ḥaḍāra",
+      "nl": [
+        "beschaving"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w07",
+      "ar": "إِمْبَراطورِيَّةٌ",
+      "tr": "imbarāṭūriyya",
+      "nl": [
+        "rijk, imperium"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w08",
+      "ar": "مَمْلَكَةٌ",
+      "tr": "mamlaka",
+      "nl": [
+        "koninkrijk"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w09",
+      "ar": "سُلالَةٌ",
+      "tr": "sulāla",
+      "nl": [
+        "dynastie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w10",
+      "ar": "حُكِمَ",
+      "tr": "ḥukima",
+      "nl": [
+        "werd geregeerd"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p9-l98-w11",
+      "ar": "اِحْتِلالٌ",
+      "tr": "iḥtilāl",
+      "nl": [
+        "bezetting"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w12",
+      "ar": "اِسْتِقْلالٌ",
+      "tr": "istiqlāl",
+      "nl": [
+        "onafhankelijkheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w13",
+      "ar": "مُؤَرِّخٌ",
+      "tr": "muʾarriḫ",
+      "nl": [
+        "historicus"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l98-w15",
+      "ar": "أَثَرٌ",
+      "tr": "aṯar",
+      "nl": [
+        "overblijfsel, spoor"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|آثارٌ} = oudheden, ruïnes."
+    },
+    {
+      "id": "j3-p9-l98-w16",
+      "ar": "عُثِرَ عَلى",
+      "tr": "ʿuṯira ʿalā",
+      "nl": [
+        "er werd gevonden"
+      ],
+      "soort": "werkwoord (lijdend)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Lijdende vorm van afgeleide en zwakke werkwoorden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Actief",
+            "Lijdend māḍī",
+            "Lijdend muḍāriʿ"
+          ],
+          "rijen": [
+            [
+              "أَسَّسَ (II)",
+              "أُسِّسَ",
+              "يُؤَسَّسُ"
+            ],
+            [
+              "أَرْسَلَ (IV)",
+              "أُرْسِلَ",
+              "يُرْسَلُ"
+            ],
+            [
+              "اِسْتَخْدَمَ (X)",
+              "اُسْتُخْدِمَ",
+              "يُسْتَخْدَمُ"
+            ],
+            [
+              "قالَ (hol)",
+              "قيلَ",
+              "يُقالُ"
+            ],
+            [
+              "بَنى (defectief)",
+              "بُنِيَ",
+              "يُبْنى"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De regel blijft: **u** op alle klinkers vóór de laatste stamklinker, **i** op de laatste (māḍī); in de muḍāriʿ **yu** + **a**. Bij holle werkwoorden wordt de lange ā een ī ({ar|قيلَ}) of ā ({ar|يُقالُ})."
+        },
+        {
+          "type": "letop",
+          "md": "Moderne alternatieven voor de lijdende vorm: **vorm VII** ({ar|اِنْكَسَرَ} = brak) en **تَمَّ + maṣdar**: {ar|تَمَّ بِناءُ المَسْجِدِ} (de moskee werd gebouwd, letterlijk: het bouwen werd voltooid). Kranten gebruiken {ar|تَمَّ} heel vaak."
+        }
+      ]
+    },
+    {
+      "titel": "Geschiedenis",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أُسِّسَتْ مَدينَةُ فاسَ في القَرْنِ التّاسِعِ.",
+              "tr": "ussisat madīnatu Fāsa fi l-qarni t-tāsiʿ.",
+              "nl": "De stad Fez werd in de negende eeuw gesticht."
+            },
+            {
+              "ar": "بُنِيَ هٰذا المَسْجِدُ قَبْلَ أَلْفِ سَنَةٍ.",
+              "tr": "buniya hāḏa l-masjidu qabla alfi sana.",
+              "nl": "Deze moskee werd duizend jaar geleden gebouwd.",
+              "review": {
+                "status": "onzeker",
+                "note": "Feitelijkheid hangt af van de moskee; als voorbeeld bedoeld."
+              }
+            },
+            {
+              "ar": "يُقالُ إِنَّ المَدينَةَ كانَتْ عاصِمَةَ المَمْلَكَةِ.",
+              "tr": "yuqālu inna l-madīnata kānat ʿāṣimata l-mamlaka.",
+              "nl": "Men zegt dat de stad de hoofdstad van het koninkrijk was."
+            },
+            {
+              "ar": "تَمَّ اكْتِشافُ آثارٍ رومانِيَّةٍ قُرْبَ مِكْناسَ.",
+              "tr": "tamma ktišāfu āṯārin rūmāniyyatin qurba Miknās.",
+              "nl": "Er werden Romeinse resten gevonden bij Meknes."
+            },
+            {
+              "ar": "حَصَلَ المَغْرِبُ عَلى الاِسْتِقْلالِ سَنَةَ أَلْفٍ وَتِسْعِمِئَةٍ وَسِتَّةٍ وَخَمْسينَ.",
+              "tr": "ḥaṣala l-Maġribu ʿala l-istiqlāli sanata alfin wa-tisʿimiʾatin wa-sittatin wa-ḫamsīn.",
+              "nl": "Marokko werd in 1956 onafhankelijk."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَضارَةٌ",
+              "nl": "beschaving",
+              "woord": "j3-p9-l98-w06"
+            },
+            {
+              "ar": "مَمْلَكَةٌ",
+              "nl": "koninkrijk",
+              "woord": "j3-p9-l98-w08"
+            },
+            {
+              "ar": "سُلالَةٌ",
+              "nl": "dynastie",
+              "woord": "j3-p9-l98-w09"
+            },
+            {
+              "ar": "اِسْتِقْلالٌ",
+              "nl": "onafhankelijkheid",
+              "woord": "j3-p9-l98-w12"
+            },
+            {
+              "ar": "مُؤَرِّخٌ",
+              "nl": "historicus",
+              "woord": "j3-p9-l98-w13"
+            },
+            {
+              "ar": "أَثَرٌ",
+              "nl": "overblijfsel",
+              "woord": "j3-p9-l98-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "lijdende-vorm",
+          "tekst": "يُقالُ إِنَّ المَدينَةَ قَديمَةٌ جِدًّا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Men zegt dat de stad heel oud is.",
+            "Hij zegt dat de stad nieuw is.",
+            "De stad zegt niets."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُقالُ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vormen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "lijdende-vorm",
+          "instructie": "Maak de lijdende māḍī (hij/het).",
+          "rijen": [
+            {
+              "label": "أَسَّسَ (II)",
+              "antwoord": "أُسِّسَ",
+              "tr": "ussisa",
+              "eind": true
+            },
+            {
+              "label": "أَرْسَلَ (IV)",
+              "antwoord": "أُرْسِلَ",
+              "tr": "ursila",
+              "eind": true
+            },
+            {
+              "label": "قالَ (hol)",
+              "antwoord": "قيلَ",
+              "tr": "qīla",
+              "eind": true
+            }
+          ],
+          "uitleg": "u … i / ī.",
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "Wat betekent {ar|تَمَّ بِناءُ الجِسْرِ}?",
+          "opties": [
+            "De brug werd gebouwd.",
+            "Hij bouwde de brug.",
+            "De brug stortte in."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَمَّ} + maṣdar."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "De lijdende muḍāriʿ van {ar|اِسْتَخْدَمَ} is ...",
+          "opties": [
+            "يُسْتَخْدَمُ",
+            "يَسْتَخْدِمُ",
+            "اُسْتُخْدِمَ"
+          ],
+          "juist": 0,
+          "uitleg": "yu … a."
+        },
+        {
+          "type": "invullen",
+          "tag": "lijdende-vorm",
+          "zin": "___ إِنَّهُ سافَرَ إِلى مِصْرَ.",
+          "nl": "Er werd gezegd dat hij naar Egypte reisde.",
+          "antwoord": [
+            "قيلَ"
+          ],
+          "uitleg": "Lijdend hol.",
+          "woordbank": [
+            "قيلَ",
+            "قالَ",
+            "يَقولُ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "lijdende-vorm",
+          "zin": "تَمَّ ___ المُتْحَفِ سَنَةَ أَلْفَيْنِ.",
+          "nl": "Het museum werd in 2000 geopend.",
+          "antwoord": [
+            "اِفْتِتاحُ"
+          ],
+          "uitleg": "{ar|تَمَّ} + maṣdar.",
+          "woordbank": [
+            "اِفْتِتاحُ",
+            "اِفْتَتَحَ",
+            "مُفْتَتَحُ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Geschiedenis",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "lijdende-vorm",
+          "nl": "De stad Fez werd in de negende eeuw gesticht.",
+          "woorden": [
+            "أُسِّسَتْ",
+            "مَدينَةُ",
+            "فاسَ",
+            "في",
+            "القَرْنِ",
+            "التّاسِعِ."
+          ],
+          "uitleg": "Lijdend vorm II."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "lijdende-vorm",
+          "bron": "Men zegt …",
+          "antwoorden": [
+            "يُقالُ"
+          ],
+          "uitleg": "{ar|يُقالُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "lijdende-vorm",
+          "bron": "عُثِرَ عَلى آثارٍ قَديمَةٍ.",
+          "antwoorden": [
+            "er werden oude resten gevonden",
+            "men vond oude overblijfselen",
+            "er zijn oude resten gevonden"
+          ],
+          "uitleg": "Lijdend."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِمْبَراطورِيَّةٌ",
+            "nl": "rijk"
+          },
+          {
+            "ar": "اِحْتِلالٌ",
+            "nl": "bezetting"
+          },
+          {
+            "ar": "قَديمًا",
+            "nl": "in vroeger tijden"
+          },
+          {
+            "ar": "حُكِمَ",
+            "nl": "werd geregeerd"
+          },
+          {
+            "ar": "اِنْهارَ",
+            "nl": "instorten"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Er werd gezegd' is ...",
+        "opties": [
+          "قيلَ",
+          "قالَ",
+          "قُلْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend hol."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "De lijdende vorm van {ar|بَنى} (māḍī) is ...",
+        "opties": [
+          "بُنِيَ",
+          "بَنِيَ",
+          "بُنى"
+        ],
+        "juist": 0,
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "Welk alternatief voor de lijdende vorm zie je vaak in kranten?",
+        "opties": [
+          "تَمَّ + maṣdar",
+          "كانَ + muḍāriʿ",
+          "لَنْ + manṣūb"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَمَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'De brief wordt gestuurd' is ...",
+        "opties": [
+          "تُرْسَلُ الرِّسالَةُ",
+          "تُرْسِلُ الرِّسالَةَ",
+          "أُرْسِلَتِ الرِّسالَةَ"
+        ],
+        "juist": 0,
+        "uitleg": "Muḍāriʿ lijdend, vrouwelijk."
+      },
+      {
+        "type": "luisteren",
+        "tag": "lijdende-vorm",
+        "tekst": "بُنِيَ القَصْرُ في القَرْنِ السّابِعَ عَشَرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het paleis werd in de zeventiende eeuw gebouwd.",
+          "Het paleis wordt nu gebouwd.",
+          "Het paleis stortte in."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَصَلَتِ البِلادُ عَلى الاِسْتِقْلالِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het land werd onafhankelijk.",
+          "Het land werd bezet.",
+          "Het land werd een koninkrijk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الاِسْتِقْلالُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ الجامِعَةُ سَنَةَ ثَمانِمِئَةٍ وَتِسْعٍ وَخَمْسينَ.",
+        "nl": "De universiteit werd in 859 gesticht.",
+        "antwoord": [
+          "أُسِّسَتِ",
+          "أُسِّسَتْ"
+        ],
+        "uitleg": "Lijdend vorm II.",
+        "woordbank": [
+          "أُسِّسَتِ",
+          "أَسَّسَتِ",
+          "تُؤَسِّسُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "تَمَّ ___ اللِّصِّ.",
+        "nl": "De dief werd gearresteerd.",
+        "antwoord": [
+          "اِعْتِقالُ"
+        ],
+        "uitleg": "{ar|تَمَّ} + maṣdar.",
+        "woordbank": [
+          "اِعْتِقالُ",
+          "اِعْتَقَلَ",
+          "مُعْتَقَلُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ هٰذا الكِتابُ في كُلِّ المَدارِسِ.",
+        "nl": "Dit boek wordt op alle scholen gebruikt.",
+        "antwoord": [
+          "يُسْتَعْمَلُ"
+        ],
+        "uitleg": "Lijdend vorm X.",
+        "woordbank": [
+          "يُسْتَعْمَلُ",
+          "يَسْتَعْمِلُ",
+          "اِسْتَعْمَلَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "lijdende-vorm",
+        "instructie": "Maak de lijdende muḍāriʿ (hij/het).",
+        "rijen": [
+          {
+            "label": "قالَ",
+            "antwoord": "يُقالُ",
+            "tr": "yuqālu"
+          },
+          {
+            "label": "أَرْسَلَ",
+            "antwoord": "يُرْسَلُ",
+            "tr": "yursalu"
+          }
+        ],
+        "uitleg": "yu … a.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "lijdende-vorm",
+        "nl": "Er werden Romeinse resten gevonden.",
+        "woorden": [
+          "تَمَّ",
+          "اكْتِشافُ",
+          "آثارٍ",
+          "رومانِيَّةٍ."
+        ],
+        "uitleg": "{ar|تَمَّ} + maṣdar."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de beschaving",
+        "antwoorden": [
+          "الحَضارَةُ"
+        ],
+        "uitleg": "{ar|الحَضارَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "lijdende-vorm",
+        "bron": "حُكِمَتِ المَمْلَكَةُ قُرونًا.",
+        "antwoorden": [
+          "het koninkrijk werd eeuwenlang geregeerd",
+          "het rijk werd eeuwen geregeerd"
+        ],
+        "uitleg": "Lijdend."
+      }
+    ]
+  }
+}

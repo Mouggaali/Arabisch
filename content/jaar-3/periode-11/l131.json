@@ -1,0 +1,675 @@
+{
+  "id": "j3-p11-l131",
+  "code": "L131",
+  "type": "les",
+  "titel": "Project: interview",
+  "thema": "Een interview met een ondernemer",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een interview voorbereiden met beleefde, open vragen.",
+    "vragen naar motief, mate en lessen (ما الَّذي، إِلى أَيِّ حَدٍّ).",
+    "een interview openen en afsluiten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l131-w01",
+      "ar": "أَجْرى مُقابَلَةً",
+      "tr": "ajrā muqābalatan",
+      "nl": [
+        "een interview afnemen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w02",
+      "ar": "هَلْ لَكَ أَنْ …؟",
+      "tr": "hal laka an …?",
+      "nl": [
+        "zou u kunnen …?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w03",
+      "ar": "حَدَّثَ عَنْ",
+      "tr": "ḥaddaṯa ʿan",
+      "nl": [
+        "vertellen over (aan iemand)"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p11-l131-w04",
+      "ar": "إِلى أَيِّ حَدٍّ",
+      "tr": "ilā ayyi ḥadd",
+      "nl": [
+        "in hoeverre"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w05",
+      "ar": "ما الَّذي دَفَعَكَ إِلى …؟",
+      "tr": "ma llaḏī dafaʿaka ilā …?",
+      "nl": [
+        "wat bracht je ertoe om …?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w06",
+      "ar": "دافِعٌ",
+      "tr": "dāfiʿ",
+      "nl": [
+        "drijfveer, motief"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|دَوافِعُ}."
+    },
+    {
+      "id": "j3-p11-l131-w07",
+      "ar": "تَحَدٍّ",
+      "tr": "taḥaddin",
+      "nl": [
+        "uitdaging"
+      ],
+      "soort": "maṣdar (V)",
+      "notitie": "Met ال: {ar|التَّحَدّي}; meervoud {ar|تَحَدِّياتٌ}."
+    },
+    {
+      "id": "j3-p11-l131-w08",
+      "ar": "مِنْ خِلالِ",
+      "tr": "min ḫilāl",
+      "nl": [
+        "via, door middel van"
+      ],
+      "soort": "voorzetsel"
+    },
+    {
+      "id": "j3-p11-l131-w09",
+      "ar": "مَسيرَةٌ مِهَنِيَّةٌ",
+      "tr": "masīratun mihaniyya",
+      "nl": [
+        "loopbaan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w10",
+      "ar": "في نِهايَةِ هٰذا اللِّقاءِ",
+      "tr": "fī nihāyati hāḏa l-liqāʾ",
+      "nl": [
+        "aan het eind van dit gesprek"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w11",
+      "ar": "سُؤالٌ أَخيرٌ",
+      "tr": "suʾālun aḫīr",
+      "nl": [
+        "een laatste vraag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w12",
+      "ar": "أَجابَ عَنْ",
+      "tr": "ajāba ʿan",
+      "nl": [
+        "antwoorden op"
+      ],
+      "soort": "werkwoord (IV, hol)"
+    },
+    {
+      "id": "j3-p11-l131-w14",
+      "ar": "رَوى يَرْوي",
+      "tr": "rawā yarwī",
+      "nl": [
+        "vertellen (een verhaal)"
+      ],
+      "soort": "werkwoord (defectief)"
+    },
+    {
+      "id": "j3-p11-l131-w15",
+      "ar": "نَجاحٌ باهِرٌ",
+      "tr": "najāḥun bāhir",
+      "nl": [
+        "schitterend succes"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l131-w16",
+      "ar": "أَهَمُّ دَرْسٍ",
+      "tr": "ahammu dars",
+      "nl": [
+        "de belangrijkste les"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Formele interviewvragen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Doel",
+            "Vraag",
+            "Nederlands"
+          ],
+          "rijen": [
+            [
+              "beleefd vragen",
+              "هَلْ لَكَ أَنْ تُحَدِّثَنا عَنْ …؟",
+              "Zou u ons kunnen vertellen over …?"
+            ],
+            [
+              "motief",
+              "ما الَّذي دَفَعَكَ إِلى …؟",
+              "Wat bracht u ertoe om …?"
+            ],
+            [
+              "mate",
+              "إِلى أَيِّ حَدٍّ …؟",
+              "In hoeverre …?"
+            ],
+            [
+              "mening",
+              "كَيْفَ تَرى …؟",
+              "Hoe ziet u …?"
+            ],
+            [
+              "les",
+              "ما أَهَمُّ دَرْسٍ تَعَلَّمْتَهُ؟",
+              "Wat is de belangrijkste les die u leerde?"
+            ],
+            [
+              "afsluiten",
+              "سُؤالٌ أَخيرٌ: …",
+              "Een laatste vraag: …"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Een interviewer stelt liever **open** vragen (wat, hoe, in hoeverre) dan ja/nee-vragen: dan vertelt de gast meer. {ar|هَلْ لَكَ أَنْ …} is een heel beleefde vorm, letterlijk *heeft u (de mogelijkheid) om …*."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|ما الَّذي} = *wat (is het dat)*: {ar|ما الَّذي دَفَعَكَ إِلى الهِجْرَةِ؟} De {ar|الَّذي} is het onderwerp van {ar|دَفَعَ}. Vergelijk het eenvoudigere {ar|لِماذا هاجَرْتَ؟}."
+        }
+      ]
+    },
+    {
+      "titel": "Interview met een ondernemer",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "هَلْ لَكِ أَنْ تُحَدِّثينا عَنْ مَسيرَتِكِ المِهَنِيَّةِ؟",
+              "tr": "hal laki an tuḥaddiṯīnā ʿan masīratiki l-mihaniyya?",
+              "nl": "Zou u ons kunnen vertellen over uw loopbaan?"
+            },
+            {
+              "ar": "بَدَأْتُ مَشْروعي الصَّغيرَ مِنْ خِلالِ الإِنْتَرْنِتْ.",
+              "tr": "badaʾtu mašrūʿiya ṣ-ṣaġīra min ḫilāli l-intarnit.",
+              "nl": "Ik begon mijn kleine bedrijf via internet."
+            },
+            {
+              "ar": "ما الَّذي دَفَعَكِ إِلى ذٰلِكَ؟",
+              "tr": "ma llaḏī dafaʿaki ilā ḏālik?",
+              "nl": "Wat bracht u daartoe?"
+            },
+            {
+              "ar": "إِلى أَيِّ حَدٍّ كانَ التَّحَدّي كَبيرًا؟",
+              "tr": "ilā ayyi ḥaddin kāna t-taḥaddī kabīran?",
+              "nl": "Hoe groot was de uitdaging?"
+            },
+            {
+              "ar": "سُؤالٌ أَخيرٌ: ما أَهَمُّ دَرْسٍ تَعَلَّمْتِهِ؟",
+              "tr": "suʾālun aḫīr: mā ahammu darsin taʿallamtihi?",
+              "nl": "Een laatste vraag: wat is de belangrijkste les die u leerde?"
+            },
+            {
+              "ar": "أَلّا تَسْتَسْلِمَ أَبَدًا.",
+              "tr": "allā tastaslima abadan.",
+              "nl": "Nooit opgeven.",
+              "review": {
+                "status": "onzeker",
+                "note": "أَلّا = أَنْ + لا; vorm X اِسْتَسْلَمَ is nieuw."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "interview",
+          "paren": [
+            {
+              "ar": "دافِعٌ",
+              "nl": "drijfveer",
+              "woord": "j3-p11-l131-w06"
+            },
+            {
+              "ar": "تَحَدٍّ",
+              "nl": "uitdaging",
+              "woord": "j3-p11-l131-w07"
+            },
+            {
+              "ar": "مَسيرَةٌ مِهَنِيَّةٌ",
+              "nl": "loopbaan",
+              "woord": "j3-p11-l131-w09"
+            },
+            {
+              "ar": "مُحاوِرٌ",
+              "nl": "interviewer"
+            },
+            {
+              "ar": "أَجابَ عَنْ",
+              "nl": "antwoorden op",
+              "woord": "j3-p11-l131-w12"
+            },
+            {
+              "ar": "رَوى يَرْوي",
+              "nl": "vertellen",
+              "woord": "j3-p11-l131-w14"
+            }
+          ],
+          "uitleg": "Interviewwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "interview",
+          "tekst": "إِلى أَيِّ حَدٍّ أَنْتَ راضٍ؟",
+          "vraag": "Wat wordt er gevraagd?",
+          "opties": [
+            "In hoeverre bent u tevreden?",
+            "Waarom bent u tevreden?",
+            "Wanneer was u tevreden?"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِلى أَيِّ حَدٍّ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vragen stellen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "interview",
+          "vraag": "Welke vraag is het meest beleefd?",
+          "opties": [
+            "هَلْ لَكَ أَنْ تُحَدِّثَنا عَنْ عَمَلِكَ؟",
+            "قُلْ لَنا عَنْ عَمَلِكَ!",
+            "ما عَمَلُكَ؟"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|هَلْ لَكَ أَنْ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "interview",
+          "vraag": "Waarom stelt een interviewer open vragen?",
+          "opties": [
+            "dan vertelt de gast meer",
+            "dan is het interview korter",
+            "het is verplicht"
+          ],
+          "juist": 0,
+          "uitleg": "Open vragen."
+        },
+        {
+          "type": "invullen",
+          "tag": "interview",
+          "zin": "ما الَّذي ___ إِلى الهِجْرَةِ؟",
+          "nl": "Wat bracht je ertoe te emigreren?",
+          "antwoord": [
+            "دَفَعَكَ"
+          ],
+          "uitleg": "{ar|ما الَّذي دَفَعَكَ}",
+          "woordbank": [
+            "دَفَعَكَ",
+            "دافِعُكَ",
+            "تَدْفَعُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "interview",
+          "zin": "هَلْ لَكَ أَنْ ___ عَنْ تَجْرِبَتِكَ؟",
+          "nl": "Zou je ons over je ervaring kunnen vertellen?",
+          "antwoord": [
+            "تُحَدِّثَنا"
+          ],
+          "uitleg": "Manṣūb na {ar|أَنْ}.",
+          "woordbank": [
+            "تُحَدِّثَنا",
+            "تُحَدِّثُنا",
+            "حَدَّثْتَنا"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "interview",
+          "nl": "Een laatste vraag: wat is de belangrijkste les?",
+          "woorden": [
+            "سُؤالٌ",
+            "أَخيرٌ:",
+            "ما",
+            "أَهَمُّ",
+            "دَرْسٍ؟"
+          ],
+          "uitleg": "Afsluiten."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "interview",
+          "bron": "in hoeverre",
+          "antwoorden": [
+            "إِلى أَيِّ حَدٍّ",
+            "الى اي حد"
+          ],
+          "uitleg": "{ar|إِلى أَيِّ حَدٍّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "interview",
+          "bron": "بَدَأْتُ مَشْروعي مِنْ خِلالِ الإِنْتَرْنِتْ.",
+          "antwoorden": [
+            "ik begon mijn project via internet",
+            "ik ben mijn bedrijf via internet begonnen"
+          ],
+          "uitleg": "{ar|مِنْ خِلالِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "interview",
+          "opdracht": "Bereid vijf interviewvragen voor aan iemand met een interessant beroep. Schrijf ze uit in het Arabisch.",
+          "model": [
+            {
+              "ar": "هَلْ لَكِ أَنْ تُحَدِّثينا عَنْ مَسيرَتِكِ المِهَنِيَّةِ؟",
+              "tr": "hal laki an tuḥaddiṯīnā ʿan masīratiki l-mihaniyya?",
+              "nl": "Zou u ons kunnen vertellen over uw loopbaan?"
+            },
+            {
+              "ar": "بَدَأْتُ مَشْروعي الصَّغيرَ مِنْ خِلالِ الإِنْتَرْنِتْ.",
+              "tr": "badaʾtu mašrūʿiya ṣ-ṣaġīra min ḫilāli l-intarnit.",
+              "nl": "Ik begon mijn kleine bedrijf via internet."
+            },
+            {
+              "ar": "ما الَّذي دَفَعَكِ إِلى ذٰلِكَ؟",
+              "tr": "ma llaḏī dafaʿaki ilā ḏālik?",
+              "nl": "Wat bracht u daartoe?"
+            },
+            {
+              "ar": "إِلى أَيِّ حَدٍّ كانَ التَّحَدّي كَبيرًا؟",
+              "tr": "ilā ayyi ḥaddin kāna t-taḥaddī kabīran?",
+              "nl": "Hoe groot was de uitdaging?"
+            },
+            {
+              "ar": "سُؤالٌ أَخيرٌ: ما أَهَمُّ دَرْسٍ تَعَلَّمْتِهِ؟",
+              "tr": "suʾālun aḫīr: mā ahammu darsin taʿallamtihi?",
+              "nl": "Een laatste vraag: wat is de belangrijkste les die u leerde?"
+            },
+            {
+              "ar": "أَلّا تَسْتَسْلِمَ أَبَدًا.",
+              "tr": "allā tastaslima abadan.",
+              "nl": "Nooit opgeven."
+            }
+          ],
+          "checklist": [
+            "Een beleefde openingsvraag ({ar|هَلْ لَكَ أَنْ …؟}).",
+            "Vooral open vragen (geen ja/nee).",
+            "Een vraag naar het motief ({ar|ما الَّذي دَفَعَكَ إِلى …؟}).",
+            "Een vraag met {ar|إِلى أَيِّ حَدٍّ}.",
+            "Een laatste vraag en een bedankje.",
+            "Manṣūb na {ar|أَنْ} ({ar|أَنْ تُحَدِّثَنا})."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "هَلْ لَكَ أَنْ",
+            "ما الَّذي دَفَعَكَ إِلى",
+            "إِلى أَيِّ حَدٍّ",
+            "كَيْفَ تَرى",
+            "سُؤالٌ أَخيرٌ"
+          ],
+          "minimum": 30
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "interview",
+        "paren": [
+          {
+            "ar": "أَجْرى مُقابَلَةً",
+            "nl": "interview afnemen"
+          },
+          {
+            "ar": "حَدَّثَ عَنْ",
+            "nl": "vertellen over"
+          },
+          {
+            "ar": "نَجاحٌ باهِرٌ",
+            "nl": "schitterend succes"
+          },
+          {
+            "ar": "سُؤالٌ أَخيرٌ",
+            "nl": "laatste vraag"
+          },
+          {
+            "ar": "مِنْ خِلالِ",
+            "nl": "via"
+          }
+        ],
+        "uitleg": "Interviewwoorden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "interview",
+        "vraag": "{ar|ما الَّذي دَفَعَكَ إِلى …؟} vraagt naar ...",
+        "opties": [
+          "het motief",
+          "de plaats",
+          "de tijd"
+        ],
+        "juist": 0,
+        "uitleg": "Drijfveer."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "interview",
+        "vraag": "Hoe sluit een interviewer af?",
+        "opties": [
+          "في نِهايَةِ هٰذا اللِّقاءِ، شُكْرًا لَكَ",
+          "سَأَتَحَدَّثُ اليَوْمَ عَنْ …",
+          "يَنْقَسِمُ عَرْضي إِلى …"
+        ],
+        "juist": 0,
+        "uitleg": "Afsluiten."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "interview",
+        "vraag": "{ar|تَحَدٍّ} met ال wordt ...",
+        "opties": [
+          "التَّحَدّي",
+          "التَّحَدٍّ",
+          "التَّحْديدُ"
+        ],
+        "juist": 0,
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "interview",
+        "vraag": "Welke vraag is een **open** vraag?",
+        "opties": [
+          "كَيْفَ تَرى مُسْتَقْبَلَ شَرِكَتِكَ؟",
+          "هَلْ أَنْتَ سَعيدٌ؟",
+          "هَلْ تَعْمَلُ هُنا؟"
+        ],
+        "juist": 0,
+        "uitleg": "Hoe."
+      },
+      {
+        "type": "luisteren",
+        "tag": "interview",
+        "tekst": "هَلْ لَكَ أَنْ تُحَدِّثَنا عَنْ طُفولَتِكَ؟",
+        "vraag": "Waarover moet de gast vertellen?",
+        "opties": [
+          "over zijn jeugd",
+          "over zijn werk",
+          "over zijn reis"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|طُفولَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "interview",
+        "tekst": "أَهَمُّ دَرْسٍ هُوَ الصَّبْرُ",
+        "vraag": "Wat is de belangrijkste les?",
+        "opties": [
+          "geduld",
+          "snelheid",
+          "geld"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الصَّبْرُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "interview",
+        "zin": "أَجْرَتِ الصَّحَفِيَّةُ ___ مَعَ الوَزيرِ.",
+        "nl": "De journaliste nam een interview af met de minister.",
+        "antwoord": [
+          "مُقابَلَةً"
+        ],
+        "uitleg": "{ar|أَجْرى مُقابَلَةً}",
+        "woordbank": [
+          "مُقابَلَةً",
+          "دافِعًا",
+          "تَحَدِّيًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "interview",
+        "zin": "أَجابَ الضَّيْفُ ___ كُلِّ الأَسْئِلَةِ.",
+        "nl": "De gast beantwoordde alle vragen.",
+        "antwoord": [
+          "عَنْ"
+        ],
+        "uitleg": "{ar|أَجابَ عَنْ}",
+        "woordbank": [
+          "عَنْ",
+          "إِلى",
+          "في"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "interview",
+        "zin": "ما ___ تَحَدٍّ واجَهْتَهُ؟",
+        "nl": "Wat was de grootste uitdaging waarmee je te maken kreeg?",
+        "antwoord": [
+          "أَكْبَرُ"
+        ],
+        "uitleg": "Overtreffende trap.",
+        "woordbank": [
+          "أَكْبَرُ",
+          "كَبيرُ",
+          "كُبْرى"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "interview",
+        "instructie": "Zet de vraag in de vrouwelijke vorm (tegen een vrouw).",
+        "rijen": [
+          {
+            "label": "هَلْ لَكَ أَنْ تُحَدِّثَنا؟",
+            "antwoord": "هَلْ لَكِ أَنْ تُحَدِّثينا؟",
+            "tr": "hal laki an tuḥaddiṯīnā?"
+          },
+          {
+            "label": "ما الَّذي دَفَعَكَ؟",
+            "antwoord": "ما الَّذي دَفَعَكِ؟",
+            "tr": "ma llaḏī dafaʿaki?",
+            "eind": true
+          }
+        ],
+        "uitleg": "Vrouwelijke 2e persoon."
+      },
+      {
+        "type": "ordenen",
+        "tag": "interview",
+        "nl": "Wat bracht u daartoe?",
+        "woorden": [
+          "ما",
+          "الَّذي",
+          "دَفَعَكَ",
+          "إِلى",
+          "ذٰلِكَ؟"
+        ],
+        "uitleg": "Motief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "interview",
+        "bron": "de loopbaan",
+        "antwoorden": [
+          "المَسيرَةُ المِهَنِيَّةُ",
+          "المسيرة المهنية"
+        ],
+        "uitleg": "{ar|المَسيرَةُ المِهَنِيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "interview",
+        "bron": "إِلى أَيِّ حَدٍّ كانَ التَّحَدّي كَبيرًا؟",
+        "antwoorden": [
+          "hoe groot was de uitdaging",
+          "in hoeverre was de uitdaging groot"
+        ],
+        "uitleg": "{ar|إِلى أَيِّ حَدٍّ}"
+      }
+    ]
+  }
+}

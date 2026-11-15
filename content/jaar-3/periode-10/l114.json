@@ -1,0 +1,628 @@
+{
+  "id": "j3-p10-l114",
+  "code": "L114",
+  "type": "les",
+  "titel": "Kunst en muziek",
+  "thema": "Muziek, kalligrafie en festivals; trappen en bewondering",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over muziek, kunst en kalligrafie praten.",
+    "de overtreffende trap in drie constructies gebruiken, ook أَحَدُ أَفْعَلِ.",
+    "bewondering uitdrukken en أَكْثَرُ + tamyīz gebruiken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l114-w01",
+      "ar": "فَنّانٌ",
+      "tr": "fannān",
+      "nl": [
+        "kunstenaar"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w02",
+      "ar": "موسيقى",
+      "tr": "mūsīqā",
+      "nl": [
+        "muziek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w03",
+      "ar": "أُغْنِيَةٌ",
+      "tr": "uġniya",
+      "nl": [
+        "lied"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَغانٍ / الأَغاني}."
+    },
+    {
+      "id": "j3-p10-l114-w04",
+      "ar": "مُغَنٍّ / المُغَنّي",
+      "tr": "muġannin / al-muġannī",
+      "nl": [
+        "zanger"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Defectief: {ar|مُغَنٍّ} zonder ال, {ar|المُغَنّي} met ال."
+    },
+    {
+      "id": "j3-p10-l114-w05",
+      "ar": "آلَةٌ موسيقِيَّةٌ",
+      "tr": "ālatun mūsīqiyya",
+      "nl": [
+        "muziekinstrument"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l114-w06",
+      "ar": "عودٌ",
+      "tr": "ʿūd",
+      "nl": [
+        "oed (luit)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w07",
+      "ar": "إيقاعٌ",
+      "tr": "īqāʿ",
+      "nl": [
+        "ritme"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w08",
+      "ar": "إِبْداعٌ",
+      "tr": "ibdāʿ",
+      "nl": [
+        "creativiteit"
+      ],
+      "soort": "maṣdar (IV)"
+    },
+    {
+      "id": "j3-p10-l114-w09",
+      "ar": "خَطٌّ عَرَبِيٌّ",
+      "tr": "ḫaṭṭun ʿarabiyy",
+      "nl": [
+        "Arabische kalligrafie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l114-w10",
+      "ar": "زَخْرَفَةٌ",
+      "tr": "zaḫrafa",
+      "nl": [
+        "ornament, versiering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w11",
+      "ar": "مِهْرَجانٌ",
+      "tr": "mihrajān",
+      "nl": [
+        "festival"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w12",
+      "ar": "تُحْفَةٌ",
+      "tr": "tuḥfa",
+      "nl": [
+        "meesterwerk, kunstvoorwerp"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|تُحَفٌ}."
+    },
+    {
+      "id": "j3-p10-l114-w13",
+      "ar": "أَحَدُ أَشْهَرِ",
+      "tr": "aḥadu ašhar",
+      "nl": [
+        "een van de bekendste"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l114-w14",
+      "ar": "رائِعٌ",
+      "tr": "rāʾiʿ",
+      "nl": [
+        "prachtig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l114-w15",
+      "ar": "أَلْحانٌ",
+      "tr": "alḥān",
+      "nl": [
+        "melodieën"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|لَحْنٌ}."
+    },
+    {
+      "id": "j3-p10-l114-w16",
+      "ar": "عَزَفَ عَلى",
+      "tr": "ʿazafa ʿalā",
+      "nl": [
+        "(een instrument) bespelen"
+      ],
+      "soort": "werkwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Overtreffende trap: drie constructies",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "أَفْعَلُ + onbepaald enkelvoud (gen.)",
+              "أَجْمَلُ مَدينَةٍ",
+              "de mooiste stad"
+            ],
+            [
+              "أَفْعَلُ + bepaald meervoud (gen.)",
+              "أَجْمَلُ المُدُنِ",
+              "de mooiste (van de) steden"
+            ],
+            [
+              "أَحَدُ / إِحْدى + أَفْعَلِ + meervoud",
+              "أَحَدُ أَشْهَرِ المُغَنّينَ",
+              "een van de bekendste zangers"
+            ],
+            [
+              "أَكْثَرُ + tamyīz (acc.)",
+              "أَكْثَرُ إِبْداعًا",
+              "creatiever / het creatiefst"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|أَكْثَرُ إِبْداعًا}? Niet elk bijvoeglijk naamwoord past in het patroon {ar|أَفْعَلُ}: woorden als {ar|مُبْدِعٌ} (creatief) of kleuren hebben geen eigen trap. Je gebruikt dan {ar|أَكْثَرُ / أَشَدُّ} + een maṣdar in de accusatief (tamyīz, les 81)."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|أَحَدُ} (m) / {ar|إِحْدى} (v) volgt het geslacht van het zelfstandig naamwoord: {ar|إِحْدى أَشْهَرِ المُغَنِّياتِ} = een van de bekendste zangeressen."
+        }
+      ]
+    },
+    {
+      "titel": "Bewondering: ما أَفْعَلَ!",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "De uitroep van bewondering kende je al (les 92): {ar|ما أَجْمَلَ صَوْتَها!} = wat een mooie stem heeft zij! Het object staat in de **accusatief**. Bij woorden zonder {ar|أَفْعَلَ}-vorm: {ar|ما أَكْثَرَ إِبْداعَهُ!}"
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أُمُّ كُلْثومٍ إِحْدى أَشْهَرِ المُغَنِّياتِ العَرَبِيّاتِ.",
+              "tr": "ummu kulṯūmin iḥdā ašhari l-muġanniyāti l-ʿarabiyyāt.",
+              "nl": "Umm Kulthum is een van de beroemdste Arabische zangeressen."
+            },
+            {
+              "ar": "هٰذِهِ أَجْمَلُ أُغْنِيَةٍ سَمِعْتُها.",
+              "tr": "hāḏihi ajmalu uġniyatin samiʿtuhā.",
+              "nl": "Dit is het mooiste lied dat ik ooit gehoord heb."
+            },
+            {
+              "ar": "يَعْزِفُ عَلى العودِ مُنْذُ صِغَرِهِ.",
+              "tr": "yaʿzifu ʿala l-ʿūdi munḏu ṣiġarih.",
+              "nl": "Hij speelt al sinds zijn jeugd oed."
+            },
+            {
+              "ar": "ما أَرْوَعَ هٰذِهِ الزَّخْرَفَةَ!",
+              "tr": "mā arwaʿa hāḏihi z-zaḫrafa!",
+              "nl": "Wat is dit ornament prachtig!"
+            },
+            {
+              "ar": "الخَطُّ المَغْرِبِيُّ أَكْثَرُ اسْتِدارَةً مِنَ الخَطِّ الكوفِيِّ.",
+              "tr": "al-ḫaṭṭu l-maġribiyyu akṯaru stidāratan mina l-ḫaṭṭi l-kūfiyy.",
+              "nl": "Het Maghrebijnse schrift is ronder dan het Kufische schrift."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "فَنّانٌ",
+              "nl": "kunstenaar",
+              "woord": "j3-p10-l114-w01"
+            },
+            {
+              "ar": "أُغْنِيَةٌ",
+              "nl": "lied",
+              "woord": "j3-p10-l114-w03"
+            },
+            {
+              "ar": "عودٌ",
+              "nl": "oed",
+              "woord": "j3-p10-l114-w06"
+            },
+            {
+              "ar": "إيقاعٌ",
+              "nl": "ritme",
+              "woord": "j3-p10-l114-w07"
+            },
+            {
+              "ar": "مِهْرَجانٌ",
+              "nl": "festival",
+              "woord": "j3-p10-l114-w11"
+            },
+            {
+              "ar": "تُحْفَةٌ",
+              "nl": "meesterwerk",
+              "woord": "j3-p10-l114-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "overtreffende-trap",
+          "tekst": "هٰذِهِ أَجْمَلُ أُغْنِيَةٍ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Dit is het mooiste lied.",
+            "Dit lied is mooier.",
+            "Dit is een mooi lied."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "Trappen en bewondering",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "overtreffende-trap",
+          "zin": "هُوَ أَحَدُ ___ الفَنّانينَ في المَغْرِبِ.",
+          "nl": "Hij is een van de bekendste kunstenaars in Marokko.",
+          "antwoord": [
+            "أَشْهَرِ"
+          ],
+          "uitleg": "{ar|أَحَدُ} + genitief.",
+          "woordbank": [
+            "أَشْهَرِ",
+            "أَشْهَرُ",
+            "مَشْهورِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "overtreffende-trap",
+          "zin": "هِيَ ___ أَشْهَرِ الرَّسّاماتِ.",
+          "nl": "Zij is een van de bekendste schilderessen.",
+          "antwoord": [
+            "إِحْدى"
+          ],
+          "uitleg": "Vrouwelijk: {ar|إِحْدى}.",
+          "woordbank": [
+            "إِحْدى",
+            "أَحَدُ",
+            "أَكْثَرُ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "overtreffende-trap",
+          "vraag": "'Creatiever' is ...",
+          "opties": [
+            "أَكْثَرُ إِبْداعًا",
+            "أَبْدَعُ إِبْداعٌ",
+            "مُبْدِعٌ أَكْثَرُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَكْثَرُ} + tamyīz."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitroep",
+          "vraag": "Kies de juiste uitroep.",
+          "opties": [
+            "ما أَجْمَلَ صَوْتَها!",
+            "ما أَجْمَلُ صَوْتُها!",
+            "ما جَميلٌ صَوْتَها!"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ما أَفْعَلَ} + accusatief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "overtreffende-trap",
+          "instructie": "Maak de overtreffende trap.",
+          "rijen": [
+            {
+              "label": "mooi → de mooiste stad",
+              "antwoord": "أَجْمَلُ مَدينَةٍ",
+              "tr": "ajmalu madīnatin"
+            },
+            {
+              "label": "oud → het oudste instrument",
+              "antwoord": "أَقْدَمُ آلَةٍ",
+              "tr": "aqdamu ālatin"
+            }
+          ],
+          "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "overtreffende-trap",
+          "nl": "Dit is het mooiste lied dat ik gehoord heb.",
+          "woorden": [
+            "هٰذِهِ",
+            "أَجْمَلُ",
+            "أُغْنِيَةٍ",
+            "سَمِعْتُها."
+          ],
+          "uitleg": "Overtreffende trap + bijzin."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de Arabische kalligrafie",
+          "antwoorden": [
+            "الخَطُّ العَرَبِيُّ",
+            "الخط العربي"
+          ],
+          "uitleg": "{ar|الخَطُّ العَرَبِيُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "overtreffende-trap",
+          "bron": "أُمُّ كُلْثومٍ إِحْدى أَشْهَرِ المُغَنِّياتِ.",
+          "antwoorden": [
+            "umm kulthum is een van de beroemdste zangeressen",
+            "umm kulthum is een van de bekendste zangeressen"
+          ],
+          "uitleg": "{ar|إِحْدى}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "آلَةٌ موسيقِيَّةٌ",
+            "nl": "muziekinstrument"
+          },
+          {
+            "ar": "إِبْداعٌ",
+            "nl": "creativiteit"
+          },
+          {
+            "ar": "زَخْرَفَةٌ",
+            "nl": "ornament"
+          },
+          {
+            "ar": "أَلْحانٌ",
+            "nl": "melodieën"
+          },
+          {
+            "ar": "عَزَفَ عَلى",
+            "nl": "bespelen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'De grootste stad' is ...",
+        "opties": [
+          "أَكْبَرُ مَدينَةٍ",
+          "أَكْبَرُ المَدينَةُ",
+          "مَدينَةٌ أَكْبَرُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'Een van de mooiste steden' is ...",
+        "opties": [
+          "إِحْدى أَجْمَلِ المُدُنِ",
+          "أَحَدُ أَجْمَلُ مُدُنٍ",
+          "إِحْدى أَجْمَلَ المَدينَةِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِحْدى} (مدينة is v.) + genitief mv."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "Waarom {ar|أَكْثَرُ إِبْداعًا} en niet {ar|أَبْدَعُ}?",
+        "opties": [
+          "مُبْدِعٌ heeft geen eigen أَفْعَلُ-vorm",
+          "أَبْدَعُ is vrouwelijk",
+          "het is een uitroep"
+        ],
+        "juist": 0,
+        "uitleg": "Afgeleide vorm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|المُغَنّي} is ...",
+        "opties": [
+          "de zanger",
+          "het lied",
+          "de melodie"
+        ],
+        "juist": 0,
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "overtreffende-trap",
+        "tekst": "هُوَ أَحَدُ أَشْهَرِ المُغَنّينَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hij is een van de bekendste zangers.",
+          "Hij is de bekendste zanger.",
+          "Hij is een onbekende zanger."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَحَدُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "uitroep",
+        "tekst": "ما أَرْوَعَ هٰذِهِ المُوسيقى!",
+        "vraag": "Wat drukt de spreker uit?",
+        "opties": [
+          "bewondering",
+          "kritiek",
+          "een vraag"
+        ],
+        "juist": 0,
+        "uitleg": "Uitroep."
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "هٰذا ___ مِهْرَجانٍ في المَدينَةِ.",
+        "nl": "Dit is het grootste festival van de stad.",
+        "antwoord": [
+          "أَكْبَرُ"
+        ],
+        "uitleg": "Overtreffende trap.",
+        "woordbank": [
+          "أَكْبَرُ",
+          "كَبيرُ",
+          "أَكْبَرَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "uitroep",
+        "zin": "ما أَجْمَلَ ___!",
+        "nl": "Wat is haar stem mooi!",
+        "antwoord": [
+          "صَوْتَها"
+        ],
+        "uitleg": "Accusatief.",
+        "woordbank": [
+          "صَوْتَها",
+          "صَوْتُها",
+          "صَوْتِها"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يَعْزِفُ ___ العودِ.",
+        "nl": "Hij speelt oed.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|عَزَفَ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "في",
+          "مِنْ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "overtreffende-trap",
+        "instructie": "Kies أَحَدُ of إِحْدى.",
+        "rijen": [
+          {
+            "label": "___ أَشْهَرِ الفَنّانينَ",
+            "antwoord": "أَحَدُ",
+            "tr": "aḥadu"
+          },
+          {
+            "label": "___ أَقْدَمِ الجامِعاتِ",
+            "antwoord": "إِحْدى",
+            "tr": "iḥdā"
+          }
+        ],
+        "uitleg": "Geslacht van het meervoud."
+      },
+      {
+        "type": "ordenen",
+        "tag": "overtreffende-trap",
+        "nl": "Hij is een van de bekendste kunstenaars.",
+        "woorden": [
+          "هُوَ",
+          "أَحَدُ",
+          "أَشْهَرِ",
+          "الفَنّانينَ."
+        ],
+        "uitleg": "{ar|أَحَدُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het festival",
+        "antwoorden": [
+          "المِهْرَجانُ",
+          "المهرجان"
+        ],
+        "uitleg": "{ar|المِهْرَجانُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "overtreffende-trap",
+        "bron": "الخَطُّ المَغْرِبِيُّ أَكْثَرُ اسْتِدارَةً.",
+        "antwoorden": [
+          "het maghrebijnse schrift is ronder",
+          "het marokkaanse schrift is ronder"
+        ],
+        "uitleg": "{ar|أَكْثَرُ} + tamyīz."
+      }
+    ]
+  }
+}

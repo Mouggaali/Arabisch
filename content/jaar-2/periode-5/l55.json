@@ -1,0 +1,713 @@
+{
+  "id": "j2-p5-l55",
+  "code": "L55",
+  "type": "les",
+  "titel": "Communicatie",
+  "thema": "Berichten, bellen en informeren",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm IV (أَفْعَلَ / يُفْعِلُ) herkennen en vervoegen.",
+    "de causatieve betekenis van vorm IV herkennen.",
+    "de maṣdar (إِفْعال) en het deelwoord (مُفْعِل) van vorm IV vormen.",
+    "vertellen hoe ik met anderen communiceer."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l55-w01",
+      "ar": "أَخْبَرَ",
+      "tr": "aḫbara",
+      "nl": [
+        "informeren",
+        "vertellen (aan iemand)"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "Muḍāriʿ: {ar|يُخْبِرُ}. {ar|أَخْبَرَهُ بِـ} = hem vertellen over."
+    },
+    {
+      "id": "j2-p5-l55-w02",
+      "ar": "أَعْلَنَ",
+      "tr": "aʿlana",
+      "nl": [
+        "aankondigen",
+        "bekendmaken"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "Maṣdar: {ar|إِعْلانٌ} (aankondiging, advertentie)."
+    },
+    {
+      "id": "j2-p5-l55-w03",
+      "ar": "أَغْلَقَ",
+      "tr": "aġlaqa",
+      "nl": [
+        "sluiten",
+        "dichtdoen"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "{ar|أَغْلَقَ الخَطَّ} = ophangen."
+    },
+    {
+      "id": "j2-p5-l55-w04",
+      "ar": "أَحْضَرَ",
+      "tr": "aḥḍara",
+      "nl": [
+        "meebrengen",
+        "halen"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "Van {ar|حَضَرَ} (aanwezig zijn): laten aanwezig zijn."
+    },
+    {
+      "id": "j2-p5-l55-w05",
+      "ar": "أَكْمَلَ",
+      "tr": "akmala",
+      "nl": [
+        "voltooien",
+        "afmaken"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j2-p5-l55-w06",
+      "ar": "أَصْبَحَ",
+      "tr": "aṣbaḥa",
+      "nl": [
+        "worden"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "Als {ar|كانَ}: + accusatief. {ar|أَصْبَحَ مَشْهورًا} = hij werd beroemd."
+    },
+    {
+      "id": "j2-p5-l55-w07",
+      "ar": "أَسْرَعَ",
+      "tr": "asraʿa",
+      "nl": [
+        "zich haasten"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j2-p5-l55-w08",
+      "ar": "إِرْسالٌ",
+      "tr": "irsāl",
+      "nl": [
+        "het versturen"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|أَرْسَلَ}."
+    },
+    {
+      "id": "j2-p5-l55-w09",
+      "ar": "مُرْسِلٌ",
+      "tr": "mursil",
+      "nl": [
+        "afzender"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Actief deelwoord vorm IV."
+    },
+    {
+      "id": "j2-p5-l55-w10",
+      "ar": "رِسالَةٌ نَصِّيَّةٌ",
+      "tr": "risālatun naṣṣiyya",
+      "nl": [
+        "sms",
+        "tekstbericht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l55-w12",
+      "ar": "شَبَكَةٌ",
+      "tr": "šabaka",
+      "nl": [
+        "netwerk",
+        "bereik"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l55-w13",
+      "ar": "خَطٌّ",
+      "tr": "ḫaṭṭ",
+      "nl": [
+        "lijn",
+        "verbinding",
+        "handschrift"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l55-w15",
+      "ar": "وَسائِلُ التَّواصُلِ",
+      "tr": "wasāʾilu t-tawāṣul",
+      "nl": [
+        "communicatiemiddelen",
+        "sociale media"
+      ],
+      "soort": "iḍāfa",
+      "notitie": "{ar|وَسائِلُ التَّواصُلِ الاِجْتِماعِيِّ} = sociale media."
+    },
+    {
+      "id": "j2-p5-l55-w16",
+      "ar": "إِعْلامٌ",
+      "tr": "iʿlām",
+      "nl": [
+        "media",
+        "voorlichting"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|أَعْلَمَ} (informeren)."
+    },
+    {
+      "id": "j2-p5-l55-w18",
+      "ar": "رَدَّ عَلى",
+      "tr": "radda ʿalā",
+      "nl": [
+        "antwoorden op",
+        "reageren op"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Verdubbeld werkwoord, uitleg in les 71."
+    },
+    {
+      "id": "j2-p5-l55-w19",
+      "ar": "صَوْتِيٌّ",
+      "tr": "ṣawtiyy",
+      "nl": [
+        "gesproken",
+        "geluids-"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "{ar|رِسالَةٌ صَوْتِيَّةٌ} = spraakbericht."
+    },
+    {
+      "id": "j2-p5-l55-w20",
+      "ar": "عَلى اتِّصالٍ",
+      "tr": "ʿala ttiṣāl",
+      "nl": [
+        "in contact"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|لِنَبْقَ عَلى اتِّصالٍ} = laten we contact houden."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm IV: أَفْعَلَ / يُفْعِلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm IV zet **أَ** voor de wortel en geeft de eerste wortelletter een sukūn: {ar|خَبَرَ} → {ar|أَخْبَرَ}.",
+            "In de muḍāriʿ verdwijnt die أَ; het voorvoegsel krijgt **u**, de stam een **i**: {ar|يُخْبِرُ}، {ar|أُرْسِلُ}، {ar|نُغْلِقُ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أَرْسَلْتُ",
+              "أُرْسِلُ"
+            ],
+            [
+              "jij (v)",
+              "أَرْسَلْتِ",
+              "تُرْسِلينَ"
+            ],
+            [
+              "hij",
+              "أَرْسَلَ",
+              "يُرْسِلُ"
+            ],
+            [
+              "wij",
+              "أَرْسَلْنا",
+              "نُرْسِلُ"
+            ],
+            [
+              "zij (m mv)",
+              "أَرْسَلوا",
+              "يُرْسِلونَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Vorm IV is vaak **causatief**, net als vorm II: iemand iets laten doen of een toestand veroorzaken. {ar|حَضَرَ} (aanwezig zijn) → {ar|أَحْضَرَ} (laten komen, meebrengen); {ar|عَلِمَ} (weten) → {ar|أَعْلَمَ} (laten weten). Vorm II en IV van dezelfde wortel kunnen allebei bestaan met een iets andere betekenis ({ar|عَلَّمَ} onderwijzen, {ar|أَعْلَمَ} informeren)."
+        },
+        {
+          "type": "letop",
+          "md": "De أَ van vorm IV is een **hamza** (أ), geen verbindingsalif zoals bij vorm VII–X (اِ). Die hamza wordt dus altijd uitgesproken: *wa-arsala*, niet *wa-rsala*."
+        }
+      ]
+    },
+    {
+      "titel": "Maṣdar en deelwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "**Maṣdar**: **إِفْعال** ({ar|إِرْسالٌ}، {ar|إِعْلانٌ}، {ar|إِغْلاقٌ}). **Actief deelwoord**: **مُفْعِل** ({ar|مُرْسِلٌ}). **Passief deelwoord**: **مُفْعَل** ({ar|مُرْسَلٌ}, verstuurd)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَرْسَلْتُ لَهُ رِسالَةً نَصِّيَّةً، لٰكِنْ لَمْ أَحْصُلْ عَلى جَوابٍ.",
+              "tr": "arsaltu lahu risālatan naṣṣiyyatan, lākin lam aḥṣul ʿalā jawāb.",
+              "nl": "Ik heb hem een sms gestuurd, maar ik heb geen antwoord gekregen."
+            },
+            {
+              "ar": "أَخْبَرَني صَديقي بِالخَبَرِ.",
+              "tr": "aḫbaranī ṣadīqī bi-l-ḫabar.",
+              "nl": "Mijn vriend heeft me het nieuws verteld."
+            },
+            {
+              "ar": "الخَطُّ مَشْغولٌ، سَأَتَّصِلُ لاحِقًا.",
+              "tr": "al-ḫaṭṭu mašġūl, sa-attaṣilu lāḥiqan.",
+              "nl": "De lijn is bezet, ik bel later."
+            },
+            {
+              "ar": "أَعْلَنَتِ الشَّرِكَةُ عَنْ مُنْتَجٍ جَديدٍ.",
+              "tr": "aʿlanati š-šarikatu ʿan muntajin jadīd.",
+              "nl": "Het bedrijf heeft een nieuw product aangekondigd."
+            },
+            {
+              "ar": "أَصْبَحَ الإِنْتَرْنِتُ مُهِمًّا جِدًّا.",
+              "tr": "aṣbaḥa l-intarnitu muhimman jiddan.",
+              "nl": "Internet is heel belangrijk geworden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "أَخْبَرَ",
+              "nl": "informeren",
+              "woord": "j2-p5-l55-w01"
+            },
+            {
+              "ar": "أَغْلَقَ",
+              "nl": "sluiten",
+              "woord": "j2-p5-l55-w03"
+            },
+            {
+              "ar": "أَحْضَرَ",
+              "nl": "meebrengen",
+              "woord": "j2-p5-l55-w04"
+            },
+            {
+              "ar": "مُرْسِلٌ",
+              "nl": "afzender",
+              "woord": "j2-p5-l55-w09"
+            },
+            {
+              "ar": "شَبَكَةٌ",
+              "nl": "netwerk",
+              "woord": "j2-p5-l55-w12"
+            },
+            {
+              "ar": "مَشْغولٌ",
+              "nl": "bezet"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-4",
+          "tekst": "أَرْسَلْتُ لَكَ بَريدًا إِلِكْتْرونِيًّا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb je een e-mail gestuurd.",
+            "Ik heb je e-mail gelezen.",
+            "Ik stuur je morgen een e-mail."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَرْسَلْتُ} = ik stuurde."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm IV",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vorm-4",
+          "instructie": "Vervoeg أَغْلَقَ / يُغْلِقُ.",
+          "rijen": [
+            {
+              "label": "ik (māḍī)",
+              "antwoord": "أَغْلَقْتُ",
+              "tr": "aġlaqtu"
+            },
+            {
+              "label": "zij (ev) (māḍī)",
+              "antwoord": "أَغْلَقَتْ",
+              "tr": "aġlaqat"
+            },
+            {
+              "label": "ik (muḍāriʿ)",
+              "antwoord": "أُغْلِقُ",
+              "tr": "uġliqu"
+            },
+            {
+              "label": "wij (muḍāriʿ)",
+              "antwoord": "نُغْلِقُ",
+              "tr": "nuġliqu"
+            }
+          ],
+          "uitleg": "Māḍī أَفْعَلَ; muḍāriʿ يُفْعِلُ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-4",
+          "vraag": "Wat is het kenmerk van vorm IV in de māḍī?",
+          "opties": [
+            "أَ vooraan, sukūn op de eerste wortelletter",
+            "shadda op de middelste letter",
+            "ā na de eerste letter"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفْعَلَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-4",
+          "vraag": "{ar|حَضَرَ} = aanwezig zijn. Wat betekent {ar|أَحْضَرَ}?",
+          "opties": [
+            "meebrengen (laten komen)",
+            "aanwezig zijn",
+            "voorbereiden"
+          ],
+          "juist": 0,
+          "uitleg": "Vorm IV = causatief."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-4",
+          "zin": "مِنْ فَضْلِكَ، ___ البابَ.",
+          "nl": "Doe alsjeblieft de deur dicht. (m)",
+          "woordbank": [
+            "أَغْلِقِ",
+            "اُغْلُقِ",
+            "تُغْلِقُ"
+          ],
+          "antwoord": [
+            "أَغْلِقِ",
+            "أَغْلِقْ"
+          ],
+          "uitleg": "Gebiedende wijs van vorm IV: {ar|أَفْعِلْ}, met hamza.",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "قَرَأْتُ ___ في الجَريدَةِ.",
+          "nl": "Ik las de advertentie in de krant.",
+          "woordbank": [
+            "الإِعْلانَ",
+            "المُعْلِنَ",
+            "أَعْلَنَ"
+          ],
+          "antwoord": [
+            "الإِعْلانَ"
+          ],
+          "uitleg": "Maṣdar إِفْعال."
+        }
+      ]
+    },
+    {
+      "titel": "Berichten",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-4",
+          "nl": "Mijn vriend heeft me het nieuws verteld.",
+          "woorden": [
+            "أَخْبَرَني",
+            "صَديقي",
+            "بِالخَبَرِ."
+          ],
+          "uitleg": "{ar|أَخْبَرَ … بِـ}"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar (إِفْعال).",
+          "rijen": [
+            {
+              "label": "أَرْسَلَ",
+              "antwoord": "إِرْسالٌ",
+              "tr": "irsāl"
+            },
+            {
+              "label": "أَغْلَقَ",
+              "antwoord": "إِغْلاقٌ",
+              "tr": "iġlāq"
+            },
+            {
+              "label": "أَكْمَلَ",
+              "antwoord": "إِكْمالٌ",
+              "tr": "ikmāl"
+            }
+          ],
+          "uitleg": "إِ + r1 + r2 + ا + r3."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "الخَطُّ مَشْغولٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De lijn is bezet.",
+            "Er is geen bereik.",
+            "De telefoon is uit."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَشْغولٌ} = bezet."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-4",
+          "bron": "Ik stuur. (muḍāriʿ)",
+          "antwoorden": [
+            "أُرْسِلُ"
+          ],
+          "uitleg": "{ar|أُرْسِلُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-4",
+          "bron": "أَصْبَحَ الجَوُّ بارِدًا.",
+          "antwoorden": [
+            "het weer werd koud",
+            "het is koud geworden",
+            "het werd koud"
+          ],
+          "uitleg": "{ar|أَصْبَحَ} + accusatief = worden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَعْلَنَ",
+            "nl": "aankondigen"
+          },
+          {
+            "ar": "أَكْمَلَ",
+            "nl": "voltooien"
+          },
+          {
+            "ar": "أَسْرَعَ",
+            "nl": "zich haasten"
+          },
+          {
+            "ar": "إِعْلامٌ",
+            "nl": "media"
+          },
+          {
+            "ar": "خَطٌّ",
+            "nl": "lijn"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-4",
+        "vraag": "'Hij informeert' is ...",
+        "opties": [
+          "يُخْبِرُ",
+          "يَخْبُرُ",
+          "أَخْبَرَ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm IV muḍāriʿ: يُفْعِلُ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-4",
+        "vraag": "Welk werkwoord is vorm IV?",
+        "opties": [
+          "أَكْمَلَ",
+          "أَكَلَ",
+          "كَمَّلَ"
+        ],
+        "juist": 0,
+        "uitleg": "أَ + sukūn op de eerste wortelletter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|أَعْلَنَ} is ...",
+        "opties": [
+          "إِعْلانٌ",
+          "تَعْليمٌ",
+          "مُعْلِنٌ"
+        ],
+        "juist": 0,
+        "uitleg": "إِفْعال"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-4",
+        "vraag": "Wat betekent {ar|أَصْبَحَ طَبيبًا}?",
+        "opties": [
+          "Hij werd arts.",
+          "Hij was arts.",
+          "Hij is geen arts."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَصْبَحَ} = worden; + accusatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-4",
+        "tekst": "أَحْضِرْ مَعَكَ جَوازَ السَّفَرِ",
+        "vraag": "Wat moet je doen?",
+        "opties": [
+          "je paspoort meebrengen",
+          "je paspoort laten zien",
+          "een paspoort aanvragen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَحْضِرْ} = breng mee!"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-4",
+        "tekst": "أَغْلَقَتِ المَحَلّاتُ أَبْوابَها",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De winkels sloten hun deuren.",
+          "De winkels gingen open.",
+          "De winkels zijn duur."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَغْلَقَ} = sluiten."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-4",
+        "zin": "هَلْ ___ الواجِبَ؟",
+        "nl": "Heb je het huiswerk afgemaakt? (m)",
+        "woordbank": [
+          "أَكْمَلْتَ",
+          "كَمَلْتَ",
+          "تُكْمِلُ"
+        ],
+        "antwoord": [
+          "أَكْمَلْتَ"
+        ],
+        "uitleg": "Vorm IV māḍī, jij (m).",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-4",
+        "zin": "سَوْفَ ___ لَكُمُ النَّتيجَةَ غَدًا.",
+        "nl": "We zullen jullie morgen de uitslag sturen.",
+        "woordbank": [
+          "نُرْسِلُ",
+          "نَرْسُلُ",
+          "أَرْسَلْنا"
+        ],
+        "antwoord": [
+          "نُرْسِلُ"
+        ],
+        "uitleg": "Vorm IV muḍāriʿ, wij.",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-4",
+        "instructie": "Vervoeg أَخْبَرَ / يُخْبِرُ.",
+        "rijen": [
+          {
+            "label": "zij (m mv) (māḍī)",
+            "antwoord": "أَخْبَروا",
+            "tr": "aḫbarū"
+          },
+          {
+            "label": "jij (v) (muḍāriʿ)",
+            "antwoord": "تُخْبِرينَ",
+            "tr": "tuḫbirīna"
+          }
+        ],
+        "uitleg": "Vorm IV."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-4",
+        "nl": "Het bedrijf heeft een nieuw product aangekondigd.",
+        "woorden": [
+          "أَعْلَنَتِ",
+          "الشَّرِكَةُ",
+          "عَنْ",
+          "مُنْتَجٍ",
+          "جَديدٍ."
+        ],
+        "uitleg": "{ar|أَعْلَنَ عَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "masdar-afgeleid",
+        "bron": "het versturen",
+        "antwoorden": [
+          "الإِرْسالُ"
+        ],
+        "uitleg": "إِفْعال"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-4",
+        "bron": "Ik heb de deur dichtgedaan.",
+        "antwoorden": [
+          "أَغْلَقْتُ البابَ"
+        ],
+        "uitleg": "{ar|أَغْلَقْتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "لِنَبْقَ عَلى اتِّصالٍ.",
+        "antwoorden": [
+          "laten we contact houden",
+          "laten we in contact blijven"
+        ],
+        "uitleg": "{ar|عَلى اتِّصالٍ} = in contact."
+      }
+    ]
+  }
+}

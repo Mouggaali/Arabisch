@@ -1,0 +1,226 @@
+{
+  "id": "j1-p1-l02",
+  "code": "L02",
+  "type": "les",
+  "titel": "Kennismaken",
+  "thema": "Jezelf voorstellen, naar een naam vragen en over iemand anders praten",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "mijn naam zeggen en vragen hoe iemand heet.",
+    "de persoonlijke voornaamwoorden in het enkelvoud gebruiken: ik, jij (m/v), hij en zij.",
+    "vragen wie iemand is en daarop antwoorden.",
+    "reageren als ik iemand leer kennen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l02-w01", "ar": "أَنا", "tr": "ana", "nl": ["ik"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l02-w02", "ar": "أَنْتَ", "tr": "anta", "nl": ["jij (tegen een man)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l02-w03", "ar": "أَنْتِ", "tr": "anti", "nl": ["jij (tegen een vrouw)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l02-w04", "ar": "هُوَ", "tr": "huwa", "nl": ["hij"], "soort": "voornaamwoord",
+      "notitie": "Ook voor een mannelijk ding: het Arabisch heeft geen *het*." },
+    { "id": "j1-p1-l02-w05", "ar": "هِيَ", "tr": "hiya", "nl": ["zij (enkelvoud)"], "soort": "voornaamwoord",
+      "notitie": "Ook voor een vrouwelijk ding." },
+    { "id": "j1-p1-l02-w06", "ar": "اِسْمٌ", "tr": "ism", "nl": ["naam"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w07", "ar": "اِسْمي", "tr": "ismī", "nl": ["mijn naam", "ik heet"], "soort": "uitdrukking",
+      "notitie": "{ar|اِسْمي سامي} = mijn naam is Sami, ik heet Sami." },
+    { "id": "j1-p1-l02-w08", "ar": "ما اسْمُكَ؟", "tr": "mā smuka?", "nl": ["hoe heet je? (tegen een man)"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: wat is jouw naam? De i van {ar|اِسْم} valt in de uitspraak weg na een klinker." },
+    { "id": "j1-p1-l02-w09", "ar": "ما اسْمُكِ؟", "tr": "mā smuki?", "nl": ["hoe heet je? (tegen een vrouw)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l02-w10", "ar": "مَنْ", "tr": "man", "nl": ["wie"], "soort": "vraagwoord" },
+    { "id": "j1-p1-l02-w11", "ar": "مَنْ أَنْتَ؟", "tr": "man anta?", "nl": ["wie ben jij? (tegen een man)"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l02-w12", "ar": "تَشَرَّفْنا", "tr": "tašarrafnā", "nl": ["aangenaam (kennis te maken)"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: wij zijn vereerd." },
+    { "id": "j1-p1-l02-w13", "ar": "فُرْصَةٌ سَعيدَةٌ", "tr": "furṣa saʿīda", "nl": ["aangenaam, leuk je te ontmoeten"], "soort": "uitdrukking",
+      "notitie": "Letterlijk: een gelukkige gelegenheid." },
+    { "id": "j1-p1-l02-w14", "ar": "نَعَمْ", "tr": "naʿam", "nl": ["ja"], "soort": "partikel" },
+    { "id": "j1-p1-l02-w15", "ar": "لا", "tr": "lā", "nl": ["nee"], "soort": "partikel" },
+    { "id": "j1-p1-l02-w16", "ar": "وَ", "tr": "wa-", "nl": ["en"], "soort": "voegwoord",
+      "notitie": "Wordt altijd aan het volgende woord vastgeschreven: {ar|وَأَنْتَ}." },
+    { "id": "j1-p1-l02-w17", "ar": "طالِبٌ", "tr": "ṭālib", "nl": ["student (m)", "leerling (m)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w18", "ar": "طالِبَةٌ", "tr": "ṭāliba", "nl": ["student (v)", "leerling (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w19", "ar": "مُعَلِّمٌ", "tr": "muʿallim", "nl": ["leraar"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w20", "ar": "مُعَلِّمَةٌ", "tr": "muʿallima", "nl": ["lerares"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w21", "ar": "صَديقٌ", "tr": "ṣadīq", "nl": ["vriend"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l02-w22", "ar": "صَديقَةٌ", "tr": "ṣadīqa", "nl": ["vriendin"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Persoonlijke voornaamwoorden: het enkelvoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch heeft vijf voornaamwoorden in het enkelvoud. Het grote verschil met het Nederlands: er zijn **twee woorden voor jij**, één voor een man en één voor een vrouw.",
+          "Bij {ar|أَنْتَ} en {ar|أَنْتِ} zit het verschil alleen in de laatste klinker: fatḥa (*anta*) tegenover kasra (*anti*). Kijk dus altijd goed naar de harakat."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Arabisch", "Nederlands"], "arKolommen": [1], "rijen": [
+          ["1e persoon", "أَنا|ana", "ik"],
+          ["2e persoon, mannelijk", "أَنْتَ|anta", "jij (tegen een man)"],
+          ["2e persoon, vrouwelijk", "أَنْتِ|anti", "jij (tegen een vrouw)"],
+          ["3e persoon, mannelijk", "هُوَ|huwa", "hij"],
+          ["3e persoon, vrouwelijk", "هِيَ|hiya", "zij"]
+        ] },
+        { "type": "waarom", "md": "Het Arabisch kent geen onzijdig woord als *het*. Elk zelfstandig naamwoord is mannelijk of vrouwelijk, en daar verwijs je naar met {ar|هُوَ} of {ar|هِيَ}. Een huis ({ar|بَيْتٌ}, mannelijk) is dus *hij*, een stad ({ar|مَدينَةٌ}, vrouwelijk) is *zij*." },
+        { "type": "letop", "md": "Het voornaamwoord voor *ik* is {ar|أَنا}, met een gewone alif aan het eind. Je spreekt die alif kort uit: *ana*." }
+      ]
+    },
+    {
+      "titel": "Jezelf voorstellen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Je naam zeg je met {ar|اِسْمي} (*mijn naam*) of gewoon met {ar|أَنا} (*ik*) plus je naam. Er staat geen werkwoord *ben* of *is*: {ar|أَنا سامي} betekent *ik (ben) Sami*. In les 4 leer je waarom dat zo werkt.",
+          "Naar iemands naam vraag je met {ar|ما اسْمُكَ؟} (tegen een man) of {ar|ما اسْمُكِ؟} (tegen een vrouw). Het einde ـكَ / ـكِ ken je al uit {ar|حالُكَ} / {ar|حالُكِ} in les 1."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَرْحَبًا، أَنا سامي. ما اسْمُكِ؟", "tr": "marḥaban, ana Sāmī. mā smuki?", "nl": "Hallo, ik ben Sami. Hoe heet jij?" },
+          { "ar": "اِسْمي مَرْيَمُ. تَشَرَّفْنا.", "tr": "ismī Maryam. tašarrafnā.", "nl": "Ik heet Maryam. Aangenaam." },
+          { "ar": "مَنْ هُوَ؟", "tr": "man huwa?", "nl": "Wie is hij?" },
+          { "ar": "هُوَ يوسُفُ، هُوَ مُعَلِّمٌ.", "tr": "huwa Yūsufu, huwa muʿallim.", "nl": "Dat is Youssef, hij is leraar." },
+          { "ar": "وَمَنْ هِيَ؟", "tr": "wa-man hiya?", "nl": "En wie is zij?" },
+          { "ar": "هِيَ فاطِمَةُ، هِيَ طالِبَةٌ.", "tr": "hiya Fāṭimatu, hiya ṭāliba.", "nl": "Dat is Fatima, zij is studente." }
+        ] },
+        { "type": "letop", "md": "In {ar|ما اسْمُكَ؟} hoor je geen *i* aan het begin van {ar|اسْم}: je zegt *mā smuka*. De alif aan het begin van {ar|اِسْم} is een **verbindingsalif** (hamzat al-waṣl). Na een klinker wordt hij niet uitgesproken; aan het begin van een zin wel: {ar|اِسْمي} (*ismī*)." },
+        { "type": "waarom", "md": "Arabische namen als {ar|أَحْمَدُ}, {ar|يوسُفُ} en {ar|فاطِمَةُ} krijgen geen tanwīn (geen -un). Ze horen bij een groep woorden met maar twee naamvalsuitgangen, de diptoten. Die behandel je in jaar 2; nu hoef je het alleen te herkennen." }
+      ]
+    },
+    {
+      "titel": "Ja, nee en wie?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "{ar|نَعَمْ} betekent *ja*, {ar|لا} betekent *nee*. Met {ar|مَنْ} (*wie*) vraag je naar een persoon: {ar|مَنْ أَنْتَ؟} (*wie ben jij?*), {ar|مَنْ هِيَ؟} (*wie is zij?*).",
+          "Het vraagwoord staat vooraan, net als in het Nederlands. Een werkwoord *zijn* is ook hier niet nodig."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَنْ أَنْتِ؟ — أَنا سارَةُ.", "tr": "man anti? — ana Sāra.", "nl": "Wie ben jij? — Ik ben Sara." },
+          { "ar": "أَنْتَ أَحْمَدُ؟ — نَعَمْ، أَنا أَحْمَدُ.", "tr": "anta Aḥmadu? — naʿam, ana Aḥmad.", "nl": "Ben jij Ahmed? — Ja, ik ben Ahmed.",
+            "review": { "status": "onzeker", "note": "Ja/nee-vraag zonder vraagpartikel (alleen met intonatie). In MSA komt dit voor, maar هَلْ (les 8) is gebruikelijker. Bevestigen dat dit voorbeeld natuurlijk is." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Voornaamwoorden herkennen",
+      "items": [
+        { "type": "koppelen", "tag": "voornaamwoorden", "paren": [
+          { "ar": "أَنا", "nl": "ik", "woord": "j1-p1-l02-w01" },
+          { "ar": "أَنْتَ", "nl": "jij (m)", "woord": "j1-p1-l02-w02" },
+          { "ar": "أَنْتِ", "nl": "jij (v)", "woord": "j1-p1-l02-w03" },
+          { "ar": "هُوَ", "nl": "hij", "woord": "j1-p1-l02-w04" },
+          { "ar": "هِيَ", "nl": "zij", "woord": "j1-p1-l02-w05" }
+        ], "uitleg": "Let bij أَنْتَ en أَنْتِ op de laatste klinker." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Je praat met Youssef. Welk woord gebruik je voor 'jij'?",
+          "opties": ["أَنْتَ", "أَنْتِ", "هُوَ", "أَنا"], "juist": 0,
+          "uitleg": "Tegen een man: {ar|أَنْتَ} (*anta*), met fatḥa." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Je praat óver Fatima met iemand anders. Welk woord gebruik je?",
+          "opties": ["هِيَ", "أَنْتِ", "هُوَ", "أَنا"], "juist": 0,
+          "uitleg": "Over een vrouw praat je met {ar|هِيَ} (zij). {ar|أَنْتِ} gebruik je als je tégen haar praat." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Je wijst naar een boek ({ar|كِتابٌ}, mannelijk). Hoe verwijs je ernaar?",
+          "opties": ["هُوَ", "هِيَ", "أَنْتَ"], "juist": 0,
+          "uitleg": "Het Arabisch heeft geen *het*. Een mannelijk woord is {ar|هُوَ}." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "هِيَ", "vraag": "Wat hoor je?",
+          "opties": ["zij", "hij", "jij (v)", "ik"], "juist": 0, "uitleg": "{ar|هِيَ} (*hiya*) = zij." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنْتِ", "vraag": "Wat hoor je?",
+          "opties": ["jij (v)", "jij (m)", "zij", "ik"], "juist": 0, "uitleg": "*anti*, met een i aan het eind: tegen een vrouw." }
+      ]
+    },
+    {
+      "titel": "Invullen",
+      "items": [
+        { "type": "invullen", "tag": "voornaamwoorden", "zin": "___ سامي.", "nl": "Ik ben Sami.",
+          "woordbank": ["أَنا", "أَنْتَ", "هُوَ", "هِيَ"], "antwoord": ["أَنا"], "uitleg": "{ar|أَنا سامي}: ik (ben) Sami." },
+        { "type": "invullen", "tag": "voornaamwoorden", "zin": "___ مَرْيَمُ.", "nl": "Zij is Maryam.",
+          "woordbank": ["هِيَ", "هُوَ", "أَنْتِ", "أَنا"], "antwoord": ["هِيَ"], "uitleg": "*Zij* = {ar|هِيَ}." },
+        { "type": "invullen", "tag": "voorstellen", "vraag": "Typ het ontbrekende woord (met de juiste eindklinker).", "zin": "ما ___؟", "tr": "mā smuka?", "nl": "Hoe heet je? (tegen een man)",
+          "antwoord": ["اسْمُكَ"], "eind": true,
+          "uitleg": "Tegen een man: {ar|اسْمُكَ} (*-ka*). Gebruik het toetsenbord voor de fatḥa op de ك." },
+        { "type": "invullen", "tag": "vraagwoord-man", "vraag": "Typ het ontbrekende woord.", "zin": "مَنْ ___؟", "nl": "Wie is hij?",
+          "antwoord": ["هُوَ"], "uitleg": "{ar|مَنْ هُوَ؟} = wie is hij?" },
+        { "type": "vervoegen", "tag": "voornaamwoorden", "instructie": "Vul het juiste voornaamwoord in.",
+          "rijen": [
+            { "label": "ik", "antwoord": "أَنا", "tr": "ana" },
+            { "label": "jij (m)", "antwoord": "أَنْتَ", "tr": "anta", "eind": true },
+            { "label": "jij (v)", "antwoord": "أَنْتِ", "tr": "anti", "eind": true },
+            { "label": "hij", "antwoord": "هُوَ", "tr": "huwa" },
+            { "label": "zij", "antwoord": "هِيَ", "tr": "hiya" }
+          ],
+          "uitleg": "Bij *jij* telt de eindklinker: {ar|أَنْتَ} (m), {ar|أَنْتِ} (v)." }
+      ]
+    },
+    {
+      "titel": "Kennismakingsgesprekjes",
+      "items": [
+        { "type": "ordenen", "tag": "voorstellen", "nl": "Hallo, ik ben Sami.", "woorden": ["مَرْحَبًا،", "أَنا", "سامي."],
+          "uitleg": "Begroeting, dan {ar|أَنا} met je naam." },
+        { "type": "ordenen", "tag": "voorstellen", "nl": "Ik heet Maryam. Aangenaam.", "woorden": ["اِسْمي", "مَرْيَمُ.", "تَشَرَّفْنا."],
+          "uitleg": "{ar|اِسْمي} + naam, daarna {ar|تَشَرَّفْنا}." },
+        { "type": "ordenen", "tag": "voornaamwoorden", "nl": "Dat is Youssef, hij is leraar.", "woorden": ["هُوَ", "يوسُفُ،", "هُوَ", "مُعَلِّمٌ."],
+          "uitleg": "Er staat letterlijk: *hij Youssef, hij leraar*. Het Arabisch heeft hier geen *is* nodig." },
+        { "type": "meerkeuze", "tag": "voorstellen", "vraag": "Iemand zegt dit nadat jullie je namen genoemd hebben. Wat betekent het?", "ar": "تَشَرَّفْنا", "tr": "tašarrafnā",
+          "opties": ["aangenaam", "tot ziens", "wie ben jij?", "dank je"], "juist": 0,
+          "uitleg": "Letterlijk *wij zijn vereerd*: aangenaam kennis te maken." },
+        { "type": "meerkeuze", "tag": "voorstellen", "vraag": "Je wilt weten hoe een nieuwe klasgenote heet. Wat vraag je?",
+          "opties": ["ما اسْمُكِ؟", "ما اسْمُكَ؟", "مَنْ هُوَ؟", "كَيْفَ حالُكَ؟"], "juist": 0,
+          "uitleg": "Tegen een vrouw: {ar|ما اسْمُكِ؟}, met kasra onder de ك." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden", "bron": "ik", "antwoorden": ["أَنا"], "uitleg": "{ar|أَنا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voorstellen", "bron": "Ik ben Sami.", "antwoorden": ["أَنا سامي", "اِسْمي سامي"],
+          "uitleg": "{ar|أَنا سامي} of {ar|اِسْمي سامي}. Geen woord voor *ben*!" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voorstellen", "bron": "Hoe heet je? (tegen een vrouw)", "antwoorden": ["ما اسْمُكِ؟"], "eind": true,
+          "uitleg": "{ar|ما اسْمُكِ؟}: let op de kasra onder de ك." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "vraagwoord-man", "bron": "Wie is zij?", "antwoorden": ["مَنْ هِيَ؟"], "uitleg": "{ar|مَنْ هِيَ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden", "bron": "هُوَ طالِبٌ.", "tr": "huwa ṭālib.",
+          "antwoorden": ["hij is student", "hij is een student", "hij is leerling", "hij is een leerling", "hij is scholier"],
+          "uitleg": "Letterlijk: *hij student*. In het Nederlands voeg je *is* toe." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden", "bron": "هِيَ مُعَلِّمَةٌ.", "tr": "hiya muʿallima.",
+          "antwoorden": ["zij is lerares", "zij is een lerares", "zij is docente", "zij is een docente", "zij is juf", "ze is lerares", "ze is juf"],
+          "uitleg": "{ar|مُعَلِّمَةٌ} = lerares; de ة maakt het woord vrouwelijk." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voorstellen", "bron": "فُرْصَةٌ سَعيدَةٌ", "tr": "furṣa saʿīda",
+          "antwoorden": ["aangenaam", "aangenaam kennis te maken", "leuk je te ontmoeten", "leuk je te leren kennen", "een gelukkige gelegenheid"],
+          "uitleg": "Letterlijk *een gelukkige gelegenheid*; je zegt het als je iemand leert kennen." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "صَديقٌ", "nl": "vriend" },
+        { "ar": "مُعَلِّمَةٌ", "nl": "lerares" },
+        { "ar": "نَعَمْ", "nl": "ja" },
+        { "ar": "مَنْ", "nl": "wie" },
+        { "ar": "اِسْمٌ", "nl": "naam" }
+      ], "uitleg": "Herhaal de woordenlijst van deze les." },
+      { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Welk woord betekent 'jij' tegen een vrouw?",
+        "opties": ["أَنْتِ", "أَنْتَ", "هِيَ", "أَنا"], "juist": 0, "uitleg": "{ar|أَنْتِ} (*anti*)." },
+      { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Hoe verwijs je naar een stad ({ar|مَدينَةٌ}, vrouwelijk)?",
+        "opties": ["هِيَ", "هُوَ", "أَنْتِ"], "juist": 0, "uitleg": "Een vrouwelijk woord is {ar|هِيَ}." },
+      { "type": "meerkeuze", "tag": "voorstellen", "vraag": "Wat betekent dit?", "ar": "ما اسْمُكَ؟", "tr": "mā smuka?",
+        "opties": ["Hoe heet je? (tegen een man)", "Hoe heet je? (tegen een vrouw)", "Wie is hij?", "Hoe gaat het?"], "juist": 0,
+        "uitleg": "ـكَ (-ka) = jouw, tegen een man." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "هُوَ", "vraag": "Wat hoor je?", "opties": ["hij", "zij", "ik", "jij (m)"], "juist": 0, "uitleg": "{ar|هُوَ} (*huwa*) = hij." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "تَشَرَّفْنا", "vraag": "Wat betekent wat je hoort?", "opties": ["aangenaam", "ja", "tot ziens", "wie?"], "juist": 0, "uitleg": "{ar|تَشَرَّفْنا} = aangenaam." },
+      { "type": "invullen", "tag": "voornaamwoorden", "zin": "___ طالِبَةٌ.", "nl": "Zij is studente.",
+        "woordbank": ["هِيَ", "هُوَ", "أَنْتَ"], "antwoord": ["هِيَ"], "uitleg": "*Zij* = {ar|هِيَ}." },
+      { "type": "invullen", "tag": "vraagwoord-man", "zin": "___ أَنْتَ؟", "nl": "Wie ben jij?", "antwoord": ["مَنْ"], "uitleg": "{ar|مَنْ} = wie." },
+      { "type": "vervoegen", "tag": "voornaamwoorden", "instructie": "Vul het juiste voornaamwoord in.",
+        "rijen": [
+          { "label": "jij (m)", "antwoord": "أَنْتَ", "tr": "anta", "eind": true },
+          { "label": "zij", "antwoord": "هِيَ", "tr": "hiya" },
+          { "label": "ik", "antwoord": "أَنا", "tr": "ana" }
+        ], "uitleg": "{ar|أَنْتَ} · {ar|هِيَ} · {ar|أَنا}" },
+      { "type": "ordenen", "tag": "voorstellen", "nl": "Hallo, ik heet Fatima. En jij?", "woorden": ["مَرْحَبًا،", "اِسْمي", "فاطِمَةُ.", "وَأَنْتَ؟"],
+        "uitleg": "Begroeting, naam, dan de wedervraag." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden", "bron": "hij", "antwoorden": ["هُوَ"], "uitleg": "{ar|هُوَ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voorstellen", "bron": "Hoe heet je? (tegen een man)", "antwoorden": ["ما اسْمُكَ؟"], "eind": true, "uitleg": "{ar|ما اسْمُكَ؟}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden", "bron": "أَنا صَديقَةٌ.", "tr": "ana ṣadīqa.",
+        "antwoorden": ["ik ben een vriendin", "ik ben vriendin"], "uitleg": "{ar|صَديقَةٌ} = vriendin." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoord-man", "bron": "مَنْ هُوَ؟", "tr": "man huwa?", "antwoorden": ["wie is hij", "wie is dat"], "uitleg": "{ar|مَنْ} = wie, {ar|هُوَ} = hij." }
+    ]
+  }
+}

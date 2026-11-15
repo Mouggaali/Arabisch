@@ -1,0 +1,672 @@
+{
+  "id": "j3-p12-l139",
+  "code": "L139",
+  "type": "les",
+  "titel": "Schrijven: een betoog van 200 woorden",
+  "thema": "Modelbetoog: studeren in het buitenland",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een betoog van ongeveer 200 woorden opbouwen in vijf alinea's.",
+    "een tegenargument opnemen en weerleggen.",
+    "de stelling in de conclusie met andere woorden herhalen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l139-w01",
+      "ar": "أُطْروحَةٌ",
+      "tr": "uṭrūḥa",
+      "nl": [
+        "stelling"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l139-w02",
+      "ar": "حُجَّةٌ مُضادَّةٌ",
+      "tr": "ḥujjatun muḍādda",
+      "nl": [
+        "tegenargument"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w03",
+      "ar": "دَحَضَ",
+      "tr": "daḥaḍa",
+      "nl": [
+        "weerleggen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p12-l139-w04",
+      "ar": "اِسْتَشْهَدَ بِـ",
+      "tr": "istašhada bi-",
+      "nl": [
+        "aanhalen als bewijs"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j3-p12-l139-w05",
+      "ar": "في المَقامِ الأَوَّلِ",
+      "tr": "fi l-maqāmi l-awwal",
+      "nl": [
+        "in de eerste plaats"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w06",
+      "ar": "دَلَّ عَلى",
+      "tr": "dalla ʿalā",
+      "nl": [
+        "wijzen op, aantonen"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p12-l139-w07",
+      "ar": "ذاتِيٌّ",
+      "tr": "ḏātiyy",
+      "nl": [
+        "subjectief, persoonlijk"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p12-l139-w08",
+      "ar": "صِياغَةٌ",
+      "tr": "ṣiyāġa",
+      "nl": [
+        "formulering"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p12-l139-w09",
+      "ar": "مُسْتَقِلٌّ",
+      "tr": "mustaqill",
+      "nl": [
+        "zelfstandig, onafhankelijk"
+      ],
+      "soort": "deelwoord (X)"
+    },
+    {
+      "id": "j3-p12-l139-w10",
+      "ar": "عَدَدُ الكَلِماتِ",
+      "tr": "ʿadadu l-kalimāt",
+      "nl": [
+        "aantal woorden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w11",
+      "ar": "آفاقٌ",
+      "tr": "āfāq",
+      "nl": [
+        "horizonten, perspectieven"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p12-l139-w12",
+      "ar": "تَكاليفُ المَعيشَةِ",
+      "tr": "takālīfu l-maʿīša",
+      "nl": [
+        "kosten van levensonderhoud"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w13",
+      "ar": "الحَنينُ إِلى الوَطَنِ",
+      "tr": "al-ḥanīnu ila l-waṭan",
+      "nl": [
+        "heimwee"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w14",
+      "ar": "وَسَّعَ",
+      "tr": "wassaʿa",
+      "nl": [
+        "verbreden"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p12-l139-w15",
+      "ar": "لا يُمْكِنُ إِنْكارُ",
+      "tr": "lā yumkinu inkāru",
+      "nl": [
+        "het valt niet te ontkennen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l139-w16",
+      "ar": "تَجْرِبَةٌ لا تُنْسى",
+      "tr": "tajribatun lā tunsā",
+      "nl": [
+        "een onvergetelijke ervaring"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Bouwplan van een betoog (± 200 woorden)",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Alinea",
+            "Inhoud",
+            "± woorden",
+            "Formules"
+          ],
+          "rijen": [
+            [
+              "1",
+              "inleiding + stelling",
+              "30",
+              "يُعَدُّ … · أَرى أَنَّ …"
+            ],
+            [
+              "2",
+              "argument 1 + voorbeeld",
+              "50",
+              "في المَقامِ الأَوَّلِ … · فَمَثَلًا …"
+            ],
+            [
+              "3",
+              "argument 2",
+              "40",
+              "عَلاوَةً عَلى ذٰلِكَ … · يَدُلُّ هٰذا عَلى …"
+            ],
+            [
+              "4",
+              "tegenargument + weerlegging",
+              "50",
+              "صَحيحٌ أَنَّ …، إِلّا أَنَّ … · لا يُمْكِنُ إِنْكارُ … لٰكِنْ …"
+            ],
+            [
+              "5",
+              "conclusie",
+              "30",
+              "خُلاصَةُ القَوْلِ …"
+            ]
+          ],
+          "arKolommen": [
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Een B1-examen beoordeelt niet alleen de grammatica, maar vooral of je **redenering helder** is. Met dit vaste bouwplan van vijf alinea's weet je altijd wat je moet schrijven en blijf je rond de 200 woorden. Het tegenargument maakt je betoog sterker: je laat zien dat je de andere kant kent."
+        },
+        {
+          "type": "letop",
+          "md": "Herhaal je stelling in de conclusie met **andere woorden**. Een Arabische lezer waardeert variatie in {ar|صِياغَةٌ} (formulering), maar geen nieuwe argumenten in het slot."
+        }
+      ]
+    },
+    {
+      "titel": "Modelbetoog: in het buitenland studeren",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَحْلُمُ كَثيرٌ مِنَ الشَّبابِ بِالدِّراسَةِ في الخارِجِ، وَأَرى أَنَّها تَجْرِبَةٌ مُفيدَةٌ جِدًّا.",
+              "tr": "yaḥlumu kaṯīrun mina š-šabābi bi-d-dirāsati fi l-ḫārij, wa-arā annahā tajribatun mufīdatun jiddan.",
+              "nl": "Veel jongeren dromen van studeren in het buitenland, en ik vind het een zeer nuttige ervaring."
+            },
+            {
+              "ar": "في المَقامِ الأَوَّلِ، يَتَعَلَّمُ الطّالِبُ أَنْ يَكونَ مُسْتَقِلًّا.",
+              "tr": "fi l-maqāmi l-awwal, yataʿallamu ṭ-ṭālibu an yakūna mustaqillan.",
+              "nl": "In de eerste plaats leert de student zelfstandig te zijn."
+            },
+            {
+              "ar": "عَلاوَةً عَلى ذٰلِكَ، تُوَسِّعُ الدِّراسَةُ في الخارِجِ آفاقَهُ.",
+              "tr": "ʿalāwatan ʿalā ḏālik, tuwassiʿu d-dirāsatu fi l-ḫāriji āfāqah.",
+              "nl": "Bovendien verbreedt studeren in het buitenland zijn horizon."
+            },
+            {
+              "ar": "لا يُمْكِنُ إِنْكارُ أَنَّ تَكاليفَ المَعيشَةِ مُرْتَفِعَةٌ، لٰكِنَّ المِنَحَ الدِّراسِيَّةَ كَثيرَةٌ.",
+              "tr": "lā yumkinu inkāru anna takālīfa l-maʿīšati murtafiʿa, lākinna l-minaḥa d-dirāsiyyata kaṯīra.",
+              "nl": "Het valt niet te ontkennen dat de kosten van levensonderhoud hoog zijn, maar er zijn veel studiebeurzen."
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، إِنَّ الدِّراسَةَ في الخارِجِ تَجْرِبَةٌ لا تُنْسى تَسْتَحِقُّ الجُهْدَ.",
+              "tr": "ḫulāṣatu l-qawl, inna d-dirāsata fi l-ḫāriji tajribatun lā tunsā tastaḥiqqu l-juhd.",
+              "nl": "Kortom: studeren in het buitenland is een onvergetelijke ervaring die de moeite waard is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "argumenteren",
+          "paren": [
+            {
+              "ar": "أُطْروحَةٌ",
+              "nl": "stelling",
+              "woord": "j3-p12-l139-w01"
+            },
+            {
+              "ar": "حُجَّةٌ مُضادَّةٌ",
+              "nl": "tegenargument",
+              "woord": "j3-p12-l139-w02"
+            },
+            {
+              "ar": "دَحَضَ",
+              "nl": "weerleggen",
+              "woord": "j3-p12-l139-w03"
+            },
+            {
+              "ar": "ذاتِيٌّ",
+              "nl": "subjectief",
+              "woord": "j3-p12-l139-w07"
+            },
+            {
+              "ar": "آفاقٌ",
+              "nl": "horizonten",
+              "woord": "j3-p12-l139-w11"
+            },
+            {
+              "ar": "الحَنينُ إِلى الوَطَنِ",
+              "nl": "heimwee",
+              "woord": "j3-p12-l139-w13"
+            }
+          ],
+          "uitleg": "Betoogwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "argumenteren",
+          "tekst": "في المَقامِ الأَوَّلِ، يَتَعَلَّمُ الطّالِبُ الاِسْتِقْلالَ",
+          "vraag": "Welk argument hoor je?",
+          "opties": [
+            "De student leert zelfstandig te zijn.",
+            "De student verdient veel geld.",
+            "De student krijgt heimwee."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|في المَقامِ الأَوَّلِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Het bouwplan",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Waar staat het tegenargument in het bouwplan?",
+          "opties": [
+            "in alinea 4, met weerlegging",
+            "in de inleiding",
+            "in de conclusie"
+          ],
+          "juist": 0,
+          "uitleg": "Alinea 4."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Wat hoort **niet** in de conclusie?",
+          "opties": [
+            "een nieuw argument",
+            "de stelling in andere woorden",
+            "een afronding"
+          ],
+          "juist": 0,
+          "uitleg": "Geen nieuwe argumenten."
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "لا يُمْكِنُ ___ أَنَّ التَّكاليفَ مُرْتَفِعَةٌ.",
+          "nl": "Het valt niet te ontkennen dat de kosten hoog zijn.",
+          "antwoord": [
+            "إِنْكارُ"
+          ],
+          "uitleg": "Maṣdar na {ar|يُمْكِنُ}.",
+          "woordbank": [
+            "إِنْكارُ",
+            "أَنْكَرَ",
+            "مُنْكِرٌ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "يَدُلُّ هٰذا ___ أَهَمِّيَّةِ التَّعْليمِ.",
+          "nl": "Dit toont het belang van onderwijs aan.",
+          "antwoord": [
+            "عَلى"
+          ],
+          "uitleg": "{ar|دَلَّ عَلى}",
+          "woordbank": [
+            "عَلى",
+            "في",
+            "إِلى"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "argumenteren",
+          "nl": "In de eerste plaats leert de student zelfstandig te zijn.",
+          "woorden": [
+            "في",
+            "المَقامِ",
+            "الأَوَّلِ،",
+            "يَتَعَلَّمُ",
+            "الطّالِبُ",
+            "أَنْ",
+            "يَكونَ",
+            "مُسْتَقِلًّا."
+          ],
+          "uitleg": "Argument 1."
+        }
+      ]
+    },
+    {
+      "titel": "Schrijven",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "argumenteren",
+          "bron": "in de eerste plaats",
+          "antwoorden": [
+            "في المَقامِ الأَوَّلِ",
+            "في المقام الأول"
+          ],
+          "uitleg": "{ar|في المَقامِ الأَوَّلِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "argumenteren",
+          "bron": "تُوَسِّعُ الدِّراسَةُ في الخارِجِ آفاقَ الطّالِبِ.",
+          "antwoorden": [
+            "studeren in het buitenland verbreedt de horizon van de student",
+            "een studie in het buitenland verruimt de blik van de student"
+          ],
+          "uitleg": "{ar|وَسَّعَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "argumenteren",
+          "opdracht": "Schrijf een betoog van ongeveer 200 woorden: \"Moet Arabisch een keuzevak worden op Nederlandse middelbare scholen?\" Volg het bouwplan van vijf alinea's.",
+          "model": [
+            {
+              "ar": "يَحْلُمُ كَثيرٌ مِنَ الشَّبابِ بِالدِّراسَةِ في الخارِجِ، وَأَرى أَنَّها تَجْرِبَةٌ مُفيدَةٌ جِدًّا.",
+              "tr": "yaḥlumu kaṯīrun mina š-šabābi bi-d-dirāsati fi l-ḫārij, wa-arā annahā tajribatun mufīdatun jiddan.",
+              "nl": "Veel jongeren dromen van studeren in het buitenland, en ik vind het een zeer nuttige ervaring."
+            },
+            {
+              "ar": "في المَقامِ الأَوَّلِ، يَتَعَلَّمُ الطّالِبُ أَنْ يَكونَ مُسْتَقِلًّا.",
+              "tr": "fi l-maqāmi l-awwal, yataʿallamu ṭ-ṭālibu an yakūna mustaqillan.",
+              "nl": "In de eerste plaats leert de student zelfstandig te zijn."
+            },
+            {
+              "ar": "عَلاوَةً عَلى ذٰلِكَ، تُوَسِّعُ الدِّراسَةُ في الخارِجِ آفاقَهُ.",
+              "tr": "ʿalāwatan ʿalā ḏālik, tuwassiʿu d-dirāsatu fi l-ḫāriji āfāqah.",
+              "nl": "Bovendien verbreedt studeren in het buitenland zijn horizon."
+            },
+            {
+              "ar": "لا يُمْكِنُ إِنْكارُ أَنَّ تَكاليفَ المَعيشَةِ مُرْتَفِعَةٌ، لٰكِنَّ المِنَحَ الدِّراسِيَّةَ كَثيرَةٌ.",
+              "tr": "lā yumkinu inkāru anna takālīfa l-maʿīšati murtafiʿa, lākinna l-minaḥa d-dirāsiyyata kaṯīra.",
+              "nl": "Het valt niet te ontkennen dat de kosten van levensonderhoud hoog zijn, maar er zijn veel studiebeurzen."
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، إِنَّ الدِّراسَةَ في الخارِجِ تَجْرِبَةٌ لا تُنْسى تَسْتَحِقُّ الجُهْدَ.",
+              "tr": "ḫulāṣatu l-qawl, inna d-dirāsata fi l-ḫāriji tajribatun lā tunsā tastaḥiqqu l-juhd.",
+              "nl": "Kortom: studeren in het buitenland is een onvergetelijke ervaring die de moeite waard is."
+            }
+          ],
+          "checklist": [
+            "Alinea 1: inleiding en stelling.",
+            "Alinea 2 en 3: twee argumenten met een voorbeeld.",
+            "Alinea 4: een tegenargument dat je weerlegt.",
+            "Alinea 5: conclusie, met de stelling in andere woorden.",
+            "Ongeveer 200 woorden.",
+            "Spelling klopt: {ar|ة} / {ar|ه}, {ar|ى} / {ar|ي} en de hamza."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "أَرى أَنَّ",
+            "في المَقامِ الأَوَّلِ",
+            "عَلاوَةً عَلى ذٰلِكَ",
+            "لا يُمْكِنُ إِنْكارُ … لٰكِنْ",
+            "خُلاصَةُ القَوْلِ"
+          ],
+          "minimum": 150
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "argumenteren",
+        "paren": [
+          {
+            "ar": "اِسْتَشْهَدَ بِـ",
+            "nl": "aanhalen als bewijs"
+          },
+          {
+            "ar": "صِياغَةٌ",
+            "nl": "formulering"
+          },
+          {
+            "ar": "مُسْتَقِلٌّ",
+            "nl": "zelfstandig"
+          },
+          {
+            "ar": "تَكاليفُ المَعيشَةِ",
+            "nl": "kosten van levensonderhoud"
+          },
+          {
+            "ar": "عَدَدُ الكَلِماتِ",
+            "nl": "aantal woorden"
+          }
+        ],
+        "uitleg": "Betoogwoorden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Hoeveel alinea's heeft het bouwplan?",
+        "opties": [
+          "vijf",
+          "twee",
+          "tien"
+        ],
+        "juist": 0,
+        "uitleg": "Vijf."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Wat staat in de eerste alinea?",
+        "opties": [
+          "inleiding en stelling",
+          "het tegenargument",
+          "de conclusie"
+        ],
+        "juist": 0,
+        "uitleg": "Inleiding."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|دَحَضَ الحُجَّةَ} betekent ...",
+        "opties": [
+          "het argument weerleggen",
+          "het argument geven",
+          "het argument herhalen"
+        ],
+        "juist": 0,
+        "uitleg": "Weerleggen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Waarom neem je een tegenargument op?",
+        "opties": [
+          "het maakt je betoog sterker",
+          "het is beleefd",
+          "het maakt de tekst langer"
+        ],
+        "juist": 0,
+        "uitleg": "Je kent de andere kant."
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "لا يُمْكِنُ إِنْكارُ أَنَّ الحَنينَ إِلى الوَطَنِ صَعْبٌ",
+        "vraag": "Wat geeft de spreker toe?",
+        "opties": [
+          "dat heimwee moeilijk is",
+          "dat studeren duur is",
+          "dat het buitenland leuk is"
+        ],
+        "juist": 0,
+        "uitleg": "Toegeven."
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "خُلاصَةُ القَوْلِ، إِنَّها تَجْرِبَةٌ لا تُنْسى",
+        "vraag": "Welk deel van het betoog is dit?",
+        "opties": [
+          "de conclusie",
+          "de inleiding",
+          "het tegenargument"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خُلاصَةُ القَوْلِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "صَحيحٌ أَنَّ الغُرْبَةَ صَعْبَةٌ، ___ أَنَّها مُفيدَةٌ.",
+        "nl": "Het klopt dat het leven ver van huis moeilijk is, maar toch is het nuttig.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "{ar|إِلّا أَنَّ}",
+        "woordbank": [
+          "إِلّا",
+          "لِأَنَّ",
+          "مِمّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "اِسْتَشْهَدَ الكاتِبُ ___ دِراسَةٍ حَديثَةٍ.",
+        "nl": "De schrijver haalde een recent onderzoek aan.",
+        "antwoord": [
+          "بِـ"
+        ],
+        "uitleg": "{ar|اِسْتَشْهَدَ بِـ}",
+        "woordbank": [
+          "بِـ",
+          "عَلى",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "كانَتْ رِحْلَتي إِلى اليابانِ تَجْرِبَةً لا ___.",
+        "nl": "Mijn reis naar Japan was een onvergetelijke ervaring.",
+        "antwoord": [
+          "تُنْسى"
+        ],
+        "uitleg": "Lijdend: wordt niet vergeten.",
+        "woordbank": [
+          "تُنْسى",
+          "تَنْسى",
+          "نَسِيَتْ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "argumenteren",
+        "instructie": "Welke formule hoort bij welke alinea?",
+        "rijen": [
+          {
+            "label": "conclusie",
+            "antwoord": "خُلاصَةُ القَوْل",
+            "tr": "ḫulāṣatu l-qawl"
+          },
+          {
+            "label": "argument 1",
+            "antwoord": "في المَقامِ الأَوَّل",
+            "tr": "fi l-maqāmi l-awwal"
+          }
+        ],
+        "uitleg": "Bouwplan."
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "Bovendien verbreedt het je horizon.",
+        "woorden": [
+          "عَلاوَةً",
+          "عَلى",
+          "ذٰلِكَ،",
+          "يُوَسِّعُ",
+          "آفاقَكَ."
+        ],
+        "uitleg": "Argument 2."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "argumenteren",
+        "bron": "het tegenargument",
+        "antwoorden": [
+          "الحُجَّةُ المُضادَّةُ",
+          "الحجة المضادة",
+          "حُجَّةٌ مُضادَّةٌ"
+        ],
+        "uitleg": "{ar|حُجَّةٌ مُضادَّةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "argumenteren",
+        "bron": "أَرى أَنَّ الدِّراسَةَ في الخارِجِ تَجْرِبَةٌ مُفيدَةٌ.",
+        "antwoorden": [
+          "ik vind studeren in het buitenland een nuttige ervaring",
+          "ik vind dat studeren in het buitenland een nuttige ervaring is"
+        ],
+        "uitleg": "Stelling."
+      }
+    ]
+  }
+}

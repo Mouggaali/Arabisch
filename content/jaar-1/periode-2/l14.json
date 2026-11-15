@@ -1,0 +1,179 @@
+{
+  "id": "j1-p2-l14",
+  "code": "L14",
+  "type": "les",
+  "titel": "Het huis",
+  "thema": "Kamers en delen van het huis; zeggen van wie iets is",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de kamers en delen van een huis benoemen.",
+    "een iḍāfa (genitiefconstructie) maken: 'het huis van de leraar'.",
+    "uitleggen waarom het eerste woord van een iḍāfa geen ال krijgt.",
+    "de genitief-uitgang -i / -in herkennen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l14-w01", "ar": "غُرْفَةٌ", "tr": "ġurfa", "nl": ["kamer"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w02", "ar": "مَطْبَخٌ", "tr": "maṭbaḫ", "nl": ["keuken"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w03", "ar": "حَمّامٌ", "tr": "ḥammām", "nl": ["badkamer", "toilet"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w04", "ar": "غُرْفَةُ النَّوْمِ", "tr": "ġurfatu n-nawm", "nl": ["slaapkamer"], "soort": "iḍāfa", "notitie": "Letterlijk: kamer van de slaap." },
+    { "id": "j1-p2-l14-w05", "ar": "غُرْفَةُ الجُلوسِ", "tr": "ġurfatu l-julūs", "nl": ["woonkamer"], "soort": "iḍāfa", "notitie": "Letterlijk: kamer van het zitten." },
+    { "id": "j1-p2-l14-w06", "ar": "مَمَرٌّ", "tr": "mamarr", "nl": ["gang"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w07", "ar": "حَديقَةٌ", "tr": "ḥadīqa", "nl": ["tuin", "park"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w08", "ar": "شُرْفَةٌ", "tr": "šurfa", "nl": ["balkon"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w09", "ar": "طابِقٌ", "tr": "ṭābiq", "nl": ["verdieping"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w10", "ar": "دَرَجٌ", "tr": "daraj", "nl": ["trap"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w11", "ar": "سَقْفٌ", "tr": "saqf", "nl": ["plafond"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w12", "ar": "جِدارٌ", "tr": "jidār", "nl": ["muur"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w13", "ar": "أَرْضٌ", "tr": "arḍ", "nl": ["vloer", "grond", "aarde"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk zonder ة." },
+    { "id": "j1-p2-l14-w14", "ar": "سَطْحٌ", "tr": "saṭḥ", "nl": ["dak (plat)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w15", "ar": "شَقَّةٌ", "tr": "šaqqa", "nl": ["appartement", "flat"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w16", "ar": "عِمارَةٌ", "tr": "ʿimāra", "nl": ["flatgebouw"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w17", "ar": "مَنْزِلٌ", "tr": "manzil", "nl": ["woning", "huis"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w18", "ar": "عُنْوانٌ", "tr": "ʿunwān", "nl": ["adres", "titel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w19", "ar": "شارِعٌ", "tr": "šāriʿ", "nl": ["straat"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w20", "ar": "صاحِبٌ", "tr": "ṣāḥib", "nl": ["eigenaar"], "soort": "zelfstandig naamwoord", "notitie": "{ar|صاحِبُ البَيْتِ} = de eigenaar van het huis." },
+    { "id": "j1-p2-l14-w21", "ar": "مُديرٌ", "tr": "mudīr", "nl": ["directeur", "manager"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w22", "ar": "جيرانٌ", "tr": "jīrān", "nl": ["buren"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|جارٌ}." },
+    { "id": "j1-p2-l14-w23", "ar": "ضَيْفٌ", "tr": "ḍayf", "nl": ["gast"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l14-w24", "ar": "نَوْمٌ", "tr": "nawm", "nl": ["slaap"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De iḍāfa: 'het huis van de leraar'",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Het huis van de leraar* zeg je in het Arabisch door twee zelfstandige naamwoorden direct achter elkaar te zetten: {ar|بَيْتُ المُعَلِّمِ}. Er is geen woord voor *van*. Deze constructie heet **iḍāfa** (*toevoeging*).",
+          "Twee regels: **1.** het **eerste** woord (het bezit) krijgt **geen ال en geen tanwīn**; **2.** het **tweede** woord (de bezitter) staat in de **genitief**: -i of -in."
+        ] },
+        { "type": "tabel", "kop": ["Iḍāfa", "Letterlijk", "Nederlands"], "arKolommen": [0], "rijen": [
+          ["بَيْتُ المُعَلِّمِ|baytu l-muʿallim", "huis de-leraar", "het huis van de leraar"],
+          ["مَكْتَبُ المُديرِ|maktabu l-mudīr", "kantoor de-directeur", "het kantoor van de directeur"],
+          ["بابُ الغُرْفَةِ|bābu l-ġurfa", "deur de-kamer", "de deur van de kamer"],
+          ["عُنْوانُ الشَّقَّةِ|ʿunwānu š-šaqqa", "adres het-appartement", "het adres van het appartement"],
+          ["بَيْتُ سامي|baytu Sāmī", "huis Sami", "het huis van Sami"]
+        ] },
+        { "type": "waarom", "md": "Het eerste woord wordt **bepaald door het tweede**. *Het huis van de leraar* is al een bepaald huis, omdat het van díe leraar is. Een extra ال zou dubbel zijn. Daarom heeft het eerste woord nooit ال. Hetzelfde zag je bij {ar|بَيْتي} (*mijn huis*): ook daar maakt de bezitter het woord bepaald." }
+      ]
+    },
+    {
+      "titel": "Bepaald of onbepaald?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Of de hele iḍāfa bepaald is, hangt af van het **tweede** woord. Heeft dat ال (of is het een naam of heeft het een achtervoegsel), dan is de hele groep bepaald. Heeft het tanwīn, dan is de groep onbepaald."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "بَيْتُ المُعَلِّمِ", "tr": "baytu l-muʿallim", "nl": "het huis van de leraar" },
+          { "ar": "بَيْتُ مُعَلِّمٍ", "tr": "baytu muʿallim", "nl": "een huis van een leraar (een lerarenhuis)" },
+          { "ar": "غُرْفَةُ نَوْمٍ", "tr": "ġurfatu nawm", "nl": "een slaapkamer" },
+          { "ar": "غُرْفَةُ النَّوْمِ", "tr": "ġurfatu n-nawm", "nl": "de slaapkamer" }
+        ] },
+        { "type": "letop", "md": "Een ة in het eerste woord spreek je uit als t: {ar|غُرْفَةُ النَّوْمِ} = *ġurfatu n-nawm*. Je hoort de t, omdat er een woord achteraan komt." }
+      ]
+    },
+    {
+      "titel": "Iḍāfa in een zin",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een iḍāfa is samen één woordgroep en kan onderwerp zijn van een nominale zin: {ar|بَيْتُ المُعَلِّمِ كَبيرٌ} = *het huis van de leraar is groot*.",
+          "Je kunt ook meer dan twee woorden aan elkaar rijgen: {ar|بابُ غُرْفَةِ النَّوْمِ} = *de deur van de slaapkamer*. Alleen het **laatste** woord kan ال of tanwīn hebben."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَطْبَخُ الشَّقَّةِ صَغيرٌ.", "tr": "maṭbaḫu š-šaqqati ṣaġīr.", "nl": "De keuken van het appartement is klein." },
+          { "ar": "حَديقَةُ الجيرانِ جَميلَةٌ.", "tr": "ḥadīqatu l-jīrāni jamīla.", "nl": "De tuin van de buren is mooi." },
+          { "ar": "بابُ غُرْفَةِ النَّوْمِ جَديدٌ.", "tr": "bābu ġurfati n-nawmi jadīd.", "nl": "De deur van de slaapkamer is nieuw." },
+          { "ar": "ما عُنْوانُ صاحِبِ البَيْتِ؟", "tr": "mā ʿunwānu ṣāḥibi l-bayt?", "nl": "Wat is het adres van de huiseigenaar?" }
+        ] },
+        { "type": "waarom", "md": "Het gezegde ({ar|صَغيرٌ}) past zich aan het **eerste** woord van de iḍāfa aan, want dat is waar de zin over gaat. In {ar|حَديقَةُ الجيرانِ جَميلَةٌ} is {ar|جَميلَةٌ} vrouwelijk vanwege {ar|حَديقَةٌ}, niet vanwege de buren." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Het huis",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مَطْبَخٌ", "nl": "keuken", "woord": "j1-p2-l14-w02" },
+          { "ar": "حَمّامٌ", "nl": "badkamer", "woord": "j1-p2-l14-w03" },
+          { "ar": "حَديقَةٌ", "nl": "tuin", "woord": "j1-p2-l14-w07" },
+          { "ar": "شُرْفَةٌ", "nl": "balkon", "woord": "j1-p2-l14-w08" },
+          { "ar": "جِدارٌ", "nl": "muur", "woord": "j1-p2-l14-w12" },
+          { "ar": "شارِعٌ", "nl": "straat", "woord": "j1-p2-l14-w19" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "غُرْفَةُ الجُلوسِ", "vraag": "Welke kamer hoor je?", "opties": ["de woonkamer", "de slaapkamer", "de keuken", "de badkamer"], "juist": 0, "uitleg": "*ġurfatu l-julūs* = kamer van het zitten." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p2-l14-w15", "vraag": "Wat betekent dit?", "ar": "شَقَّةٌ", "tr": "šaqqa", "opties": ["appartement", "verdieping", "trap", "gang"], "juist": 0, "uitleg": "{ar|شَقَّةٌ} = appartement." }
+      ]
+    },
+    {
+      "titel": "Iḍāfa maken",
+      "items": [
+        { "type": "meerkeuze", "tag": "idafa", "vraag": "Welke iḍāfa betekent 'het kantoor van de directeur'?", "opties": ["مَكْتَبُ المُديرِ", "المَكْتَبُ المُديرِ", "مَكْتَبٌ المُديرُ", "المَكْتَبُ المُديرُ"], "juist": 0,
+          "uitleg": "Eerste woord zonder ال; tweede woord met ال in de genitief (-i)." },
+        { "type": "meerkeuze", "tag": "idafa", "vraag": "Wat betekent {ar|بَيْتُ مُعَلِّمٍ}?", "opties": ["een huis van een leraar", "het huis van de leraar", "het huis is van de leraar"], "juist": 0,
+          "uitleg": "Het tweede woord is onbepaald (tanwīn), dus de hele groep is onbepaald." },
+        { "type": "invullen", "tag": "idafa", "zin": "بابُ ___", "nl": "de deur van het huis", "woordbank": ["البَيْتِ", "البَيْتُ", "بَيْتٌ"], "antwoord": ["البَيْتِ"], "uitleg": "Tweede woord: genitief {ar|البَيْتِ}." },
+        { "type": "invullen", "tag": "idafa", "zin": "___ الجيرانِ جَميلَةٌ.", "nl": "De tuin van de buren is mooi.", "woordbank": ["حَديقَةُ", "الحَديقَةُ", "حَديقَةٌ"], "antwoord": ["حَديقَةُ"], "uitleg": "Eerste woord: geen ال, geen tanwīn." },
+        { "type": "vervoegen", "tag": "idafa", "instructie": "Maak een iḍāfa (harakat mag je weglaten).",
+          "rijen": [
+            { "label": "de kamer van Sara", "antwoord": "غُرْفَةُ سارَةَ", "tr": "ġurfatu Sāra" },
+            { "label": "het adres van de school", "antwoord": "عُنْوانُ المَدْرَسَةِ", "tr": "ʿunwānu l-madrasa" },
+            { "label": "de keuken van het huis", "antwoord": "مَطْبَخُ البَيْتِ", "tr": "maṭbaḫu l-bayt" },
+            { "label": "de slaapkamer", "antwoord": "غُرْفَةُ النَّوْمِ", "tr": "ġurfatu n-nawm" }
+          ], "uitleg": "Bezit + bezitter; alleen het tweede woord heeft ال." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "idafa", "nl": "De keuken van het appartement is klein.", "woorden": ["مَطْبَخُ", "الشَّقَّةِ", "صَغيرٌ."], "uitleg": "Iḍāfa als onderwerp + gezegde." },
+        { "type": "ordenen", "tag": "idafa", "nl": "De deur van de slaapkamer is nieuw.", "woorden": ["بابُ", "غُرْفَةِ", "النَّوْمِ", "جَديدٌ."], "uitleg": "Een iḍāfa van drie woorden." },
+        { "type": "luisteren", "tag": "idafa", "tekst": "بَيْتُ المُديرِ كَبيرٌ", "vraag": "Wat hoor je?", "opties": ["Het huis van de directeur is groot.", "De directeur is groot.", "Het grote huis van de directeur."], "juist": 0, "uitleg": "Iḍāfa + onbepaald gezegde." },
+        { "type": "meerkeuze", "tag": "idafa", "vraag": "In {ar|حَديقَةُ الجيرانِ جَميلَةٌ}: waarom is {ar|جَميلَةٌ} vrouwelijk?", "opties": ["Omdat حَديقَةٌ vrouwelijk is.", "Omdat الجيران vrouwelijk is.", "Omdat het gezegde altijd vrouwelijk is."], "juist": 0,
+          "uitleg": "Het gezegde past zich aan het eerste woord van de iḍāfa aan." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "het huis van de leraar", "antwoorden": ["بَيْتُ المُعَلِّمِ"], "uitleg": "{ar|بَيْتُ المُعَلِّمِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "de deur van de kamer", "antwoorden": ["بابُ الغُرْفَةِ"], "uitleg": "{ar|بابُ الغُرْفَةِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "De woonkamer is groot.", "antwoorden": ["غُرْفَةُ الجُلوسِ كَبيرَةٌ"], "uitleg": "{ar|غُرْفَةُ الجُلوسِ كَبيرَةٌ}: vrouwelijk vanwege {ar|غُرْفَةٌ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "سَيّارَةُ المُديرِ جَديدَةٌ.", "tr": "sayyāratu l-mudīri jadīda.", "antwoorden": ["de auto van de directeur is nieuw"], "uitleg": "Iḍāfa + gezegde." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "عُنْوانُ البَيْتِ", "tr": "ʿunwānu l-bayt", "antwoorden": ["het adres van het huis", "het huisadres"], "uitleg": "Iḍāfa." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "شَقَّةُ صَديقي في الطّابِقِ الثّاني.", "tr": "šaqqatu ṣadīqī fi ṭ-ṭābiqi ṯ-ṯānī.", "antwoorden": ["het appartement van mijn vriend is op de tweede verdieping", "de flat van mijn vriend is op de tweede verdieping", "het appartement van mijn vriend ligt op de tweede verdieping"], "uitleg": "{ar|الطّابِقُ الثّاني} = de tweede verdieping (rangtelwoorden: les 35)." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "طابِقٌ", "nl": "verdieping" },
+        { "ar": "دَرَجٌ", "nl": "trap" },
+        { "ar": "ضَيْفٌ", "nl": "gast" },
+        { "ar": "عُنْوانٌ", "nl": "adres" },
+        { "ar": "جيرانٌ", "nl": "buren" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "idafa", "vraag": "Welke regel geldt voor het eerste woord van een iḍāfa?", "opties": ["Geen ال en geen tanwīn.", "Altijd ال.", "Altijd in de genitief."], "juist": 0, "uitleg": "Het eerste woord is al bepaald door het tweede." },
+      { "type": "meerkeuze", "tag": "idafa", "vraag": "'De deur van de keuken' is ...", "opties": ["بابُ المَطْبَخِ", "البابُ المَطْبَخِ", "بابٌ المَطْبَخُ"], "juist": 0, "uitleg": "{ar|بابُ المَطْبَخِ}" },
+      { "type": "meerkeuze", "tag": "idafa", "vraag": "Wat betekent {ar|غُرْفَةُ نَوْمٍ}?", "opties": ["een slaapkamer", "de slaapkamer", "de kamer slaapt"], "juist": 0, "uitleg": "Onbepaald tweede woord → onbepaalde groep." },
+      { "type": "luisteren", "tag": "idafa", "tekst": "مَكْتَبُ المُديرِ", "vraag": "Wat hoor je?", "opties": ["het kantoor van de directeur", "de directeur van het kantoor", "een groot kantoor"], "juist": 0, "uitleg": "Bezit + bezitter." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "الحَمّامُ صَغيرٌ", "vraag": "Wat hoor je?", "opties": ["De badkamer is klein.", "De keuken is klein.", "De tuin is klein."], "juist": 0, "uitleg": "{ar|الحَمّامُ} = de badkamer." },
+      { "type": "invullen", "tag": "idafa", "zin": "صاحِبُ ___", "nl": "de eigenaar van het appartement", "woordbank": ["الشَّقَّةِ", "الشَّقَّةُ", "شَقَّةٌ"], "antwoord": ["الشَّقَّةِ"], "uitleg": "Genitief." },
+      { "type": "invullen", "tag": "idafa", "zin": "___ المَدْرَسَةِ كَبيرَةٌ.", "nl": "De tuin van de school is groot.", "antwoord": ["حَديقَةُ"], "uitleg": "{ar|حَديقَةُ}, zonder ال." },
+      { "type": "vervoegen", "tag": "idafa", "instructie": "Maak een iḍāfa.",
+        "rijen": [
+          { "label": "het huis van Sami", "antwoord": "بَيْتُ سامي", "tr": "baytu Sāmī" },
+          { "label": "de deur van de kamer", "antwoord": "بابُ الغُرْفَةِ", "tr": "bābu l-ġurfa" }
+        ], "uitleg": "{ar|بَيْتُ سامي} · {ar|بابُ الغُرْفَةِ}" },
+      { "type": "ordenen", "tag": "idafa", "nl": "Het balkon van de flat is mooi.", "woorden": ["شُرْفَةُ", "الشَّقَّةِ", "جَميلَةٌ."], "uitleg": "{ar|شُرْفَةٌ} is vrouwelijk → {ar|جَميلَةٌ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "de slaapkamer", "antwoorden": ["غُرْفَةُ النَّوْمِ"], "uitleg": "{ar|غُرْفَةُ النَّوْمِ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "idafa", "bron": "de auto van de leraar", "antwoorden": ["سَيّارَةُ المُعَلِّمِ"], "uitleg": "{ar|سَيّارَةُ المُعَلِّمِ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "مَطْبَخُ الشَّقَّةِ جَديدٌ.", "tr": "maṭbaḫu š-šaqqati jadīd.", "antwoorden": ["de keuken van het appartement is nieuw", "de keuken van de flat is nieuw"], "uitleg": "Iḍāfa + gezegde." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "idafa", "bron": "بَيْتُ الجيرانِ", "tr": "baytu l-jīrān", "antwoorden": ["het huis van de buren"], "uitleg": "Iḍāfa." }
+    ]
+  }
+}

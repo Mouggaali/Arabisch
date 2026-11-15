@@ -1,0 +1,536 @@
+{
+  "id": "j2-p5-h14",
+  "code": "H14",
+  "type": "herhaling",
+  "titel": "Herhaling blok 5B",
+  "thema": "De vormen II tot en met V naast elkaar",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de vormen II–V herkennen aan hun kenmerken.",
+    "ze vervoegen in māḍī en muḍāriʿ, met de juiste klinker van het voorvoegsel.",
+    "maṣdar en actief deelwoord van elke vorm maken.",
+    "de betekenis van een vorm raden uit de vorm I."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 53–56 en D08. Oefen de vormen ook in de vervoegingstrainer.",
+  "grammatica": [
+    {
+      "titel": "Vier vormen op een rij",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Māḍī",
+            "Muḍāriʿ",
+            "Maṣdar",
+            "Deelwoord",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "rijen": [
+            [
+              "II",
+              "فَعَّلَ",
+              "يُفَعِّلُ",
+              "تَفْعيل",
+              "مُفَعِّل",
+              "intensief, causatief"
+            ],
+            [
+              "III",
+              "فاعَلَ",
+              "يُفاعِلُ",
+              "مُفاعَلَة",
+              "مُفاعِل",
+              "gericht op / met iemand"
+            ],
+            [
+              "IV",
+              "أَفْعَلَ",
+              "يُفْعِلُ",
+              "إِفْعال",
+              "مُفْعِل",
+              "causatief"
+            ],
+            [
+              "V",
+              "تَفَعَّلَ",
+              "يَتَفَعَّلُ",
+              "تَفَعُّل",
+              "مُتَفَعِّل",
+              "wederkerend van II"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Twee ezelsbruggetjes. **Voorvoegsel u** ({ar|يُـ}) bij II, III en IV: vormen waarvan de māḍī uit vier 'eenheden' bestaat. **Voorvoegsel a** ({ar|يَـ}) bij V en alle hogere vormen. En: **alle deelwoorden beginnen met مُـ**, met **i** voor de laatste letter (actief) of **a** (passief)."
+        }
+      ]
+    },
+    {
+      "titel": "Eén wortel, vier vormen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عَلِمَ ← عَلَّمَ ← تَعَلَّمَ",
+              "tr": "ʿalima → ʿallama → taʿallama",
+              "nl": "weten → onderwijzen → leren"
+            },
+            {
+              "ar": "قَدِمَ ← قَدَّمَ ← تَقَدَّمَ",
+              "tr": "qadima → qaddama → taqaddama",
+              "nl": "aankomen → aanbieden → vooruitgaan"
+            },
+            {
+              "ar": "حَضَرَ ← أَحْضَرَ ← حَضَّرَ",
+              "tr": "ḥaḍara → aḥḍara → ḥaḍḍara",
+              "nl": "aanwezig zijn → meebrengen → voorbereiden"
+            },
+            {
+              "ar": "كَتَبَ ← كاتَبَ",
+              "tr": "kataba → kātaba",
+              "nl": "schrijven → corresponderen met"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herkennen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|تَدَرَّبَ}?",
+          "opties": [
+            "V",
+            "II",
+            "III"
+          ],
+          "juist": 0,
+          "uitleg": "تَـ + shadda = vorm V."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|يُشارِكُ}?",
+          "opties": [
+            "III",
+            "IV",
+            "II"
+          ],
+          "juist": 0,
+          "uitleg": "يُـ + ā na de eerste letter = vorm III."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|يُغْلِقُ}?",
+          "opties": [
+            "IV",
+            "I",
+            "V"
+          ],
+          "juist": 0,
+          "uitleg": "يُـ + sukūn op de eerste wortelletter = vorm IV."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مُدَرِّسٌ",
+              "nl": "docent",
+              "woord": "j2-p5-l53-w03"
+            },
+            {
+              "ar": "مُباراةٌ",
+              "nl": "wedstrijd",
+              "woord": "j2-p5-l54-w08"
+            },
+            {
+              "ar": "مُرْسِلٌ",
+              "nl": "afzender",
+              "woord": "j2-p5-l55-w09"
+            },
+            {
+              "ar": "لَهْجَةٌ",
+              "nl": "dialect",
+              "woord": "j2-p5-l56-w08"
+            },
+            {
+              "ar": "أتاي",
+              "nl": "thee (Darija)",
+              "woord": "j2-p5-d08-w01"
+            },
+            {
+              "ar": "عَلامَةٌ",
+              "nl": "cijfer",
+              "woord": "j2-p5-l53-w11"
+            }
+          ],
+          "uitleg": "Woorden uit blok 5B."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen en afleiden",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "afgeleide-vormen",
+          "instructie": "Geef de muḍāriʿ (hij).",
+          "rijen": [
+            {
+              "label": "عَلَّمَ (II)",
+              "antwoord": "يُعَلِّمُ",
+              "tr": "yuʿallimu"
+            },
+            {
+              "label": "ساعَدَ (III)",
+              "antwoord": "يُساعِدُ",
+              "tr": "yusāʿidu"
+            },
+            {
+              "label": "أَرْسَلَ (IV)",
+              "antwoord": "يُرْسِلُ",
+              "tr": "yursilu"
+            },
+            {
+              "label": "تَكَلَّمَ (V)",
+              "antwoord": "يَتَكَلَّمُ",
+              "tr": "yatakallamu"
+            }
+          ],
+          "uitleg": "u bij II–IV, a bij V."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar.",
+          "rijen": [
+            {
+              "label": "دَرَّسَ (II)",
+              "antwoord": "تَدْريسٌ",
+              "tr": "tadrīs"
+            },
+            {
+              "label": "شارَكَ (III)",
+              "antwoord": "مُشارَكَةٌ",
+              "tr": "mušāraka"
+            },
+            {
+              "label": "أَعْلَنَ (IV)",
+              "antwoord": "إِعْلانٌ",
+              "tr": "iʿlān"
+            },
+            {
+              "label": "تَعَلَّمَ (V)",
+              "antwoord": "تَعَلُّمٌ",
+              "tr": "taʿallum"
+            }
+          ],
+          "uitleg": "تَفْعيل · مُفاعَلَة · إِفْعال · تَفَعُّل"
+        },
+        {
+          "type": "invullen",
+          "tag": "afgeleide-vormen",
+          "zin": "أُريدُ أَنْ ___ لُغَةً جَديدَةً.",
+          "nl": "Ik wil een nieuwe taal leren.",
+          "woordbank": [
+            "أَتَعَلَّمَ",
+            "أُعَلِّمَ",
+            "أَعْلَمَ"
+          ],
+          "antwoord": [
+            "أَتَعَلَّمَ"
+          ],
+          "uitleg": "Zelf leren = vorm V; manṣūb na {ar|أَنْ}.",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-eten",
+          "zin": "___ أتاي عافاك.",
+          "nl": "Geef me thee, alsjeblieft. (Darija)",
+          "woordbank": [
+            "عطيني",
+            "زيد",
+            "كول"
+          ],
+          "antwoord": [
+            "عطيني"
+          ],
+          "uitleg": "{ar|عطيني}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "afgeleide-vormen",
+          "bron": "Wij helpen hen.",
+          "antwoorden": [
+            "نُساعِدُهُمْ"
+          ],
+          "uitleg": "Vorm III + suffix."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "afgeleide-vormen",
+          "bron": "Ik heb de e-mail gestuurd.",
+          "antwoorden": [
+            "أَرْسَلْتُ البَريدَ الإِلِكْتْرونِيَّ"
+          ],
+          "uitleg": "Vorm IV māḍī."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "afgeleide-vormen",
+          "bron": "يُدَرِّسُ أَبي في الجامِعَةِ.",
+          "antwoorden": [
+            "mijn vader geeft les aan de universiteit",
+            "mijn vader doceert aan de universiteit"
+          ],
+          "uitleg": "Vorm II."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "afgeleide-vormen",
+          "bron": "تَحَسَّنَتِ النَّتائِجُ.",
+          "antwoorden": [
+            "de resultaten zijn verbeterd",
+            "de resultaten verbeterden",
+            "de uitslagen zijn verbeterd"
+          ],
+          "uitleg": "Vorm V; niet-menselijk meervoud → vrouwelijk enkelvoud."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Bij welke vormen heeft het voorvoegsel van de muḍāriʿ een u?",
+        "opties": [
+          "II, III en IV",
+          "alleen IV",
+          "V en hoger"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُفَعِّلُ}، {ar|يُفاعِلُ}، {ar|يُفْعِلُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "{ar|دَرَّبَ} = iemand trainen. Wat betekent {ar|تَدَرَّبَ}?",
+        "opties": [
+          "oefenen (zelf trainen)",
+          "trainer",
+          "training"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V = wederkerend."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welk woord is een actief deelwoord van vorm III?",
+        "opties": [
+          "مُدافِعٌ",
+          "دِفاعٌ",
+          "دَفَعَ"
+        ],
+        "juist": 0,
+        "uitleg": "مُفاعِل"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "{ar|إِغْلاقٌ} is de maṣdar van ...",
+        "opties": [
+          "أَغْلَقَ (IV)",
+          "غَلَّقَ (II)",
+          "تَغَلَّقَ (V)"
+        ],
+        "juist": 0,
+        "uitleg": "إِفْعال = vorm IV."
+      },
+      {
+        "type": "luisteren",
+        "tag": "afgeleide-vormen",
+        "tekst": "تَعَلَّمْتُ كَثيرًا مِنْ مُدَرِّسي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb veel geleerd van mijn docent.",
+          "Ik heb mijn docent veel geleerd.",
+          "Mijn docent heeft veel gestudeerd."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَعَلَّمْتُ} (V) = ik leerde."
+      },
+      {
+        "type": "luisteren",
+        "tag": "afgeleide-vormen",
+        "tekst": "قابَلْنا المُدَرِّبَ بَعْدَ المُباراةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We ontmoetten de trainer na de wedstrijd.",
+          "We trainden na de wedstrijd.",
+          "De trainer kwam niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قابَلَ} (III) + {ar|المُدَرِّبُ} (II)."
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "هَلْ ___ أَوَّلَ يَوْمٍ في المَدْرَسَةِ؟",
+        "nl": "Herinner jij (m) je je eerste schooldag?",
+        "woordbank": [
+          "تَتَذَكَّرُ",
+          "تُذَكِّرُ",
+          "تَذْكُرُ"
+        ],
+        "antwoord": [
+          "تَتَذَكَّرُ"
+        ],
+        "uitleg": "Vorm V muḍāriʿ."
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "الشَّرِكَةُ ___ عَنْ وَظائِفَ جَديدَةٍ.",
+        "nl": "Het bedrijf kondigt nieuwe vacatures aan.",
+        "woordbank": [
+          "تُعْلِنُ",
+          "تَعْلَنُ",
+          "أَعْلَنَتْ"
+        ],
+        "antwoord": [
+          "تُعْلِنُ"
+        ],
+        "uitleg": "Vorm IV muḍāriʿ, zij (het bedrijf).",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "afgeleide-vormen",
+        "zin": "لَمْ ___ في المُسابَقَةِ.",
+        "nl": "Zij (m mv) hebben niet meegedaan aan de wedstrijd.",
+        "woordbank": [
+          "يُشارِكوا",
+          "يُشارِكونَ",
+          "شارَكوا"
+        ],
+        "antwoord": [
+          "يُشارِكوا"
+        ],
+        "uitleg": "{ar|لَمْ} + majzūm: ـونَ → ـوا."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "صَحَّحَ",
+            "nl": "nakijken"
+          },
+          {
+            "ar": "نافَسَ",
+            "nl": "concurreren"
+          },
+          {
+            "ar": "أَصْبَحَ",
+            "nl": "worden"
+          },
+          {
+            "ar": "تَوَقَّعَ",
+            "nl": "verwachten"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "afgeleide-vormen",
+        "nl": "Mijn zus spreekt drie talen vloeiend.",
+        "woorden": [
+          "تَتَكَلَّمُ",
+          "أُخْتي",
+          "ثَلاثَ",
+          "لُغاتٍ",
+          "بِطَلاقَةٍ."
+        ],
+        "uitleg": "Vorm V."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "masdar-afgeleid",
+        "bron": "de hulp",
+        "antwoorden": [
+          "المُساعَدَةُ"
+        ],
+        "uitleg": "مُفاعَلَة"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "afgeleide-vormen",
+        "bron": "Ik leer Arabisch.",
+        "antwoorden": [
+          "أَتَعَلَّمُ العَرَبِيَّةَ",
+          "أَتَعَلَّمُ اللُّغَةَ العَرَبِيَّةَ"
+        ],
+        "uitleg": "Vorm V."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "afgeleide-vormen",
+        "bron": "أَحْضِرْ كِتابَكَ غَدًا.",
+        "antwoorden": [
+          "neem morgen je boek mee",
+          "breng morgen je boek mee",
+          "breng je boek morgen mee",
+          "neem je boek morgen mee"
+        ],
+        "uitleg": "Gebiedende wijs vorm IV."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-eten",
+        "bron": "شبعت، الله يخلف",
+        "tr": "šbəʿt, aḷḷāh yxləf",
+        "antwoorden": [
+          "ik zit vol dank je",
+          "ik zit vol dank u",
+          "ik heb genoeg gegeten dank je"
+        ],
+        "uitleg": "Darija aan tafel."
+      }
+    ]
+  }
+}

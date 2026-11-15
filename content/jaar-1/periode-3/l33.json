@@ -1,0 +1,161 @@
+{
+  "id": "j1-p3-l33",
+  "code": "L33",
+  "type": "les",
+  "titel": "Maanden en seizoenen",
+  "thema": "Data, maanden, seizoenen en de islamitische kalender",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de twaalf maanden noemen (de internationale reeks).",
+    "de Levantijnse en Marokkaanse maandnamen herkennen.",
+    "de vier seizoenen noemen.",
+    "tijdsvoorzetsels gebruiken: في، قَبْلَ، بَعْدَ، مُنْذُ."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l33-w01", "ar": "يَنايِرُ", "tr": "yanāyir", "nl": ["januari"], "soort": "maand" },
+    { "id": "j1-p3-l33-w02", "ar": "فِبْرايِرُ", "tr": "fibrāyir", "nl": ["februari"], "soort": "maand" },
+    { "id": "j1-p3-l33-w03", "ar": "مارِسُ", "tr": "māris", "nl": ["maart"], "soort": "maand" },
+    { "id": "j1-p3-l33-w04", "ar": "أَبْريلُ", "tr": "abrīl", "nl": ["april"], "soort": "maand" },
+    { "id": "j1-p3-l33-w05", "ar": "مايو", "tr": "māyū", "nl": ["mei"], "soort": "maand", "notitie": "In Marokko: {ar|ماي}." },
+    { "id": "j1-p3-l33-w06", "ar": "يونيو", "tr": "yūniyū", "nl": ["juni"], "soort": "maand" },
+    { "id": "j1-p3-l33-w07", "ar": "يوليو", "tr": "yūliyū", "nl": ["juli"], "soort": "maand", "notitie": "In Marokko: {ar|يوليوز}." },
+    { "id": "j1-p3-l33-w08", "ar": "أُغُسْطُسُ", "tr": "uġusṭus", "nl": ["augustus"], "soort": "maand", "notitie": "In Marokko: {ar|غشت}." },
+    { "id": "j1-p3-l33-w09", "ar": "سِبْتَمْبَرُ", "tr": "sibtambar", "nl": ["september"], "soort": "maand", "notitie": "In Marokko: {ar|شتنبر}." },
+    { "id": "j1-p3-l33-w10", "ar": "أُكْتوبَرُ", "tr": "uktūbar", "nl": ["oktober"], "soort": "maand" },
+    { "id": "j1-p3-l33-w11", "ar": "نوفَمْبَرُ", "tr": "nūfambar", "nl": ["november"], "soort": "maand", "notitie": "In Marokko: {ar|نونبر}." },
+    { "id": "j1-p3-l33-w12", "ar": "ديسَمْبَرُ", "tr": "dīsambar", "nl": ["december"], "soort": "maand", "notitie": "In Marokko: {ar|دجنبر}." },
+    { "id": "j1-p3-l33-w13", "ar": "شَهْرٌ", "tr": "šahr", "nl": ["maand"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|أَشْهُرٌ} / {ar|شُهورٌ}." },
+    { "id": "j1-p3-l33-w14", "ar": "فَصْلٌ", "tr": "faṣl", "nl": ["seizoen", "hoofdstuk"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l33-w15", "ar": "الرَّبيعُ", "tr": "ar-rabīʿ", "nl": ["de lente"], "soort": "seizoen" },
+    { "id": "j1-p3-l33-w16", "ar": "الخَريفُ", "tr": "al-ḫarīf", "nl": ["de herfst"], "soort": "seizoen" },
+    { "id": "j1-p3-l33-w17", "ar": "الشِّتاءُ", "tr": "aš-šitāʾ", "nl": ["de winter"], "soort": "seizoen" },
+    { "id": "j1-p3-l33-w18", "ar": "مُنْذُ", "tr": "munḏu", "nl": ["sinds", "al (sinds)"], "soort": "voorzetsel" },
+    { "id": "j1-p3-l33-w19", "ar": "بَعْدَ", "tr": "baʿda", "nl": ["na"], "soort": "voorzetsel" },
+    { "id": "j1-p3-l33-w20", "ar": "رَمَضانُ", "tr": "ramaḍān", "nl": ["ramadan (9e maand)"], "soort": "maand" },
+    { "id": "j1-p3-l33-w21", "ar": "الشَّهْرَ القادِمَ", "tr": "aš-šahra l-qādim", "nl": ["volgende maand"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l33-w22", "ar": "السَّنَةَ القادِمَةَ", "tr": "as-sanata l-qādima", "nl": ["volgend jaar"], "soort": "uitdrukking" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Drie reeksen maandnamen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Voor de westerse kalender bestaan in de Arabische wereld meerdere reeksen namen. In deze cursus leer je actief de **internationale reeks** (Egypte, de Golf, nieuws), en herken je de andere twee.",
+          "In **Marokko** lijken veel namen op het Frans ({ar|شتنبر}, {ar|نونبر}, {ar|دجنبر}). In de **Levant** (Syrië, Libanon, Jordanië) gebruikt men oude Aramese namen ({ar|كانونُ الثّاني} = januari)."
+        ] },
+        { "type": "tabel", "kop": ["Nederlands", "Internationaal", "Marokko", "Levant (herkennen)"], "arKolommen": [1, 2, 3], "rijen": [
+          ["januari", "يَنايِرُ", "يناير", "كانونُ الثّاني"],
+          ["februari", "فِبْرايِرُ", "فبراير", "شُباطُ"],
+          ["maart", "مارِسُ", "مارس", "آذارُ"],
+          ["april", "أَبْريلُ", "أبريل", "نيسانُ"],
+          ["mei", "مايو", "ماي", "أَيّارُ"],
+          ["juni", "يونيو", "يونيو", "حَزيرانُ"],
+          ["juli", "يوليو", "يوليوز", "تَمّوزُ"],
+          ["augustus", "أُغُسْطُسُ", "غشت", "آبُ"],
+          ["september", "سِبْتَمْبَرُ", "شتنبر", "أَيْلولُ"],
+          ["oktober", "أُكْتوبَرُ", "أكتوبر", "تِشْرينُ الأَوَّلُ"],
+          ["november", "نوفَمْبَرُ", "نونبر", "تِشْرينُ الثّاني"],
+          ["december", "ديسَمْبَرُ", "دجنبر", "كانونُ الأَوَّلُ"]
+        ] },
+        { "type": "letop", "md": "De spelling van de internationale maandnamen verschilt per land en per krant (bijv. {ar|أغسطس} / {ar|اغسطس}); in Algerije en Tunesië hoor je ook Frans-achtige namen als {ar|فيفري} (februari). Wees bij het lezen soepel." },
+        { "type": "waarom", "md": "Daarnaast gebruiken moslims de **islamitische (hijri) maankalender** voor religieuze feesten: {ar|رَمَضانُ} (de vastenmaand), {ar|شَوّالٌ} (Suikerfeest), {ar|ذو الحِجَّةِ} (bedevaart, Offerfeest). Die maanden schuiven elk jaar ongeveer elf dagen op ten opzichte van de westerse kalender." }
+      ]
+    },
+    {
+      "titel": "Seizoenen en tijdsvoorzetsels",
+      "blokken": [
+        { "type": "tabel", "kop": ["Seizoen", "Arabisch"], "arKolommen": [1], "rijen": [
+          ["lente", "الرَّبيعُ|ar-rabīʿ"],
+          ["zomer", "الصَّيْفُ|aṣ-ṣayf"],
+          ["herfst", "الخَريفُ|al-ḫarīf"],
+          ["winter", "الشِّتاءُ|aš-šitāʾ"]
+        ] },
+        { "type": "tekst", "md": [
+          "Met {ar|في} zeg je *in*: {ar|في الشِّتاءِ} (in de winter), {ar|في شَهْرِ مايو} (in de maand mei). Met {ar|قَبْلَ} (voor), {ar|بَعْدَ} (na) en {ar|مُنْذُ} (sinds) maak je een iḍāfa: het woord erna staat in de genitief."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "عيدُ ميلادي في شَهْرِ مارِسَ.", "tr": "ʿīdu mīlādī fī šahri māris.", "nl": "Mijn verjaardag is in maart.", "review": { "status": "onzeker", "note": "Naamval van maandnamen na شَهْر (مارِسَ als diptoot) bevestigen." } },
+          { "ar": "الجَوُّ بارِدٌ في الشِّتاءِ.", "tr": "al-jawwu bāridun fi š-šitāʾ.", "nl": "Het weer is koud in de winter." },
+          { "ar": "أَسْكُنُ في هولَنْدا مُنْذُ عَشْرِ سَنَواتٍ.", "tr": "askunu fī Hūlandā munḏu ʿašri sanawāt.", "nl": "Ik woon al tien jaar in Nederland." },
+          { "ar": "بَعْدَ رَمَضانَ يَأْتي العيدُ.", "tr": "baʿda ramaḍāna yaʾtī l-ʿīd.", "nl": "Na de ramadan komt het feest.", "review": { "status": "onzeker", "note": "يَأْتي (komen, zwak werkwoord) is nieuw; controleren." } },
+          { "ar": "نُسافِرُ إِلى المَغْرِبِ الشَّهْرَ القادِمَ.", "tr": "nusāfiru ila l-Maġribi š-šahra l-qādim.", "nl": "We reizen volgende maand naar Marokko." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Maanden",
+      "items": [
+        { "type": "koppelen", "tag": "maanden", "paren": [
+          { "ar": "يَنايِرُ", "nl": "januari", "woord": "j1-p3-l33-w01" },
+          { "ar": "مارِسُ", "nl": "maart", "woord": "j1-p3-l33-w03" },
+          { "ar": "يونيو", "nl": "juni", "woord": "j1-p3-l33-w06" },
+          { "ar": "أُغُسْطُسُ", "nl": "augustus", "woord": "j1-p3-l33-w08" },
+          { "ar": "أُكْتوبَرُ", "nl": "oktober", "woord": "j1-p3-l33-w10" },
+          { "ar": "ديسَمْبَرُ", "nl": "december", "woord": "j1-p3-l33-w12" }
+        ], "uitleg": "De internationale namen lijken op de Nederlandse." },
+        { "type": "luisteren", "tag": "maanden", "tekst": "سِبْتَمْبَرُ", "vraag": "Welke maand hoor je?", "opties": ["september", "december", "november", "februari"], "juist": 0, "uitleg": "*sibtambar*" },
+        { "type": "meerkeuze", "tag": "maanden", "vraag": "Welke maand is {ar|غشت} in Marokko?", "opties": ["augustus", "april", "oktober"], "juist": 0, "uitleg": "{ar|غشت} = augustus." },
+        { "type": "meerkeuze", "tag": "maanden", "vraag": "Welke maand komt na {ar|أَبْريلُ}?", "opties": ["مايو", "مارِسُ", "يونيو"], "juist": 0, "uitleg": "april → mei" },
+        { "type": "ordenen", "tag": "maanden", "nl": "Zet de maanden in volgorde (januari rechts).", "woorden": ["يَنايِرُ", "فِبْرايِرُ", "مارِسُ", "أَبْريلُ"], "uitleg": "Januari t/m april." }
+      ]
+    },
+    {
+      "titel": "Seizoenen en tijd",
+      "items": [
+        { "type": "koppelen", "tag": "seizoenen", "paren": [
+          { "ar": "الرَّبيعُ", "nl": "lente", "woord": "j1-p3-l33-w15" },
+          { "ar": "الصَّيْفُ", "nl": "zomer" },
+          { "ar": "الخَريفُ", "nl": "herfst", "woord": "j1-p3-l33-w16" },
+          { "ar": "الشِّتاءُ", "nl": "winter", "woord": "j1-p3-l33-w17" }
+        ], "uitleg": "De vier seizoenen." },
+        { "type": "invullen", "tag": "tijd-voorzetsels", "zin": "الجَوُّ حارٌّ في ___.", "nl": "Het weer is heet in de zomer.", "woordbank": ["الصَّيْفِ", "الصَّيْفُ", "الشِّتاءِ"], "antwoord": ["الصَّيْفِ"], "uitleg": "Na {ar|في}: genitief." },
+        { "type": "invullen", "tag": "tijd-voorzetsels", "zin": "أَدْرُسُ العَرَبِيَّةَ ___ سَنَةٍ.", "nl": "Ik studeer al een jaar Arabisch.", "woordbank": ["مُنْذُ", "بَعْدَ", "قَبْلَ"], "antwoord": ["مُنْذُ"], "uitleg": "{ar|مُنْذُ} = sinds, al." },
+        { "type": "invullen", "tag": "tijd-voorzetsels", "zin": "نَأْكُلُ ___ الصَّلاةِ.", "nl": "We eten na het gebed.", "woordbank": ["بَعْدَ", "مُنْذُ", "في"], "antwoord": ["بَعْدَ"], "uitleg": "{ar|بَعْدَ} = na." },
+        { "type": "luisteren", "tag": "seizoenen", "tekst": "أُحِبُّ الرَّبيعَ", "vraag": "Welk seizoen vindt de spreker mooi?", "opties": ["de lente", "de herfst", "de winter"], "juist": 0, "uitleg": "{ar|الرَّبيعُ} = de lente." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "seizoenen", "bron": "in de winter", "antwoorden": ["في الشِّتاءِ"], "uitleg": "{ar|في الشِّتاءِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "maanden", "bron": "maand", "antwoorden": ["شَهْرٌ"], "uitleg": "{ar|شَهْرٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "tijd-voorzetsels", "bron": "أَسْكُنُ هُنا مُنْذُ سَنَتَيْنِ.", "antwoorden": ["ik woon hier al twee jaar", "ik woon hier sinds twee jaar"], "uitleg": "{ar|سَنَتَيْنِ}: dualis na {ar|مُنْذُ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "maanden", "bron": "رَمَضانُ في الرَّبيعِ هٰذِهِ السَّنَةَ.", "antwoorden": ["de ramadan is dit jaar in de lente", "ramadan valt dit jaar in de lente", "dit jaar is de ramadan in de lente"], "uitleg": "{ar|هٰذِهِ السَّنَةَ} = dit jaar (tijdsbepaling)." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "maanden", "paren": [
+        { "ar": "فِبْرايِرُ", "nl": "februari" },
+        { "ar": "مايو", "nl": "mei" },
+        { "ar": "يوليو", "nl": "juli" },
+        { "ar": "نوفَمْبَرُ", "nl": "november" }
+      ], "uitleg": "Herhaal de maanden." },
+      { "type": "meerkeuze", "tag": "seizoenen", "vraag": "'De herfst' is ...", "opties": ["الخَريفُ", "الرَّبيعُ", "الشِّتاءُ"], "juist": 0, "uitleg": "{ar|الخَريفُ}" },
+      { "type": "meerkeuze", "tag": "maanden", "vraag": "In welk land zeg je {ar|شتنبر} voor september?", "opties": ["Marokko", "Syrië", "Egypte"], "juist": 0, "uitleg": "Frans beïnvloed." },
+      { "type": "meerkeuze", "tag": "tijd-voorzetsels", "vraag": "'Na de les' is ...", "opties": ["بَعْدَ الدَّرْسِ", "مُنْذُ الدَّرْسِ", "قَبْلَ الدَّرْسِ"], "juist": 0, "uitleg": "{ar|بَعْدَ} = na." },
+      { "type": "luisteren", "tag": "maanden", "tekst": "أَبْريلُ", "vraag": "Welke maand hoor je?", "opties": ["april", "augustus", "oktober"], "juist": 0, "uitleg": "*abrīl*" },
+      { "type": "luisteren", "tag": "tijd-voorzetsels", "tekst": "قَبْلَ الشِّتاءِ", "vraag": "Wat hoor je?", "opties": ["voor de winter", "na de winter", "sinds de winter"], "juist": 0, "uitleg": "{ar|قَبْلَ} = voor." },
+      { "type": "invullen", "tag": "seizoenen", "zin": "الجَوُّ بارِدٌ في ___.", "nl": "Het weer is koud in de winter.", "woordbank": ["الشِّتاءِ", "الصَّيْفِ", "الشِّتاءُ"], "antwoord": ["الشِّتاءِ"], "uitleg": "Genitief na {ar|في}." },
+      { "type": "invullen", "tag": "maanden", "zin": "يَنايِرُ، فِبْرايِرُ، ___", "nl": "januari, februari, ...", "antwoord": ["مارِسُ"], "uitleg": "{ar|مارِسُ}" },
+      { "type": "vervoegen", "tag": "maanden", "instructie": "Schrijf de maand (internationale reeks).",
+        "rijen": [
+          { "label": "juni", "antwoord": "يونيو", "tr": "yūniyū" },
+          { "label": "oktober", "antwoord": "أُكْتوبَرُ", "tr": "uktūbar" }
+        ], "uitleg": "{ar|يونيو} · {ar|أُكْتوبَرُ}" },
+      { "type": "ordenen", "tag": "tijd-voorzetsels", "nl": "Ik woon al tien jaar in Nederland.", "woorden": ["أَسْكُنُ", "في", "هولَنْدا", "مُنْذُ", "عَشْرِ", "سَنَواتٍ."], "uitleg": "{ar|مُنْذُ} + tijdsduur." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "seizoenen", "bron": "de lente", "antwoorden": ["الرَّبيعُ"], "uitleg": "{ar|الرَّبيعُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "tijd-voorzetsels", "bron": "volgende maand", "antwoorden": ["الشَّهْرَ القادِمَ", "الشَّهْرُ القادِمُ", "في الشَّهْرِ القادِمِ"], "uitleg": "{ar|الشَّهْرَ القادِمَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "maanden", "bron": "في شَهْرِ ديسَمْبَرَ", "antwoorden": ["in de maand december", "in december"], "uitleg": "Iḍāfa {ar|شَهْرِ ديسَمْبَرَ}." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "seizoenen", "bron": "الصَّيْفُ حارٌّ.", "antwoorden": ["de zomer is heet", "de zomer is warm"], "uitleg": "Nominale zin." }
+    ]
+  }
+}

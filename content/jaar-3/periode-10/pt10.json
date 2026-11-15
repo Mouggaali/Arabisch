@@ -1,0 +1,582 @@
+{
+  "id": "j3-p10-pt10",
+  "code": "PT10",
+  "type": "periodetoets",
+  "titel": "Periodetoets 10",
+  "thema": "Alle leerdoelen van periode 10 (les 109 tot en met 120, D22–D24)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** nominale stijl, beperking, oorzaak-gevolg, intentie (L109–L112).",
+    "**Getoetst:** voltooid verleden, overtreffende trap, abstracta, deelwoorden (L113–L116).",
+    "**Getoetst:** krantenkoppen, formele brief, nieuws beluisteren, argumenteren (L117–L120).",
+    "**Getoetst:** Darija: feesten, uitdrukkingen, verschillen met Fusha (D22–D24).",
+    "Geslaagd vanaf 70%. Maak eerst H30."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "'De regering besloot de belastingen te verhogen' (nominaal) is ...",
+        "opties": [
+          "قَرَّرَتِ الحُكومَةُ رَفْعَ الضَّرائِبِ",
+          "قَرَّرَتِ الحُكومَةُ تَرْفَعُ الضَّرائِبَ",
+          "قَرَّرَتِ الحُكومَةُ رافِعَةً الضَّرائِبَ"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar + genitief."
+      },
+      {
+        "type": "invullen",
+        "tag": "nominalisatie",
+        "zin": "يَهْدِفُ المَشْروعُ إِلى ___ البَطالَةِ.",
+        "nl": "Het project is gericht op het verminderen van werkloosheid.",
+        "antwoord": [
+          "تَقْليلِ"
+        ],
+        "uitleg": "Maṣdar na {ar|إِلى}.",
+        "woordbank": [
+          "تَقْليلِ",
+          "يُقَلِّلُ",
+          "قَليلِ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "'De steun van de staat aan bedrijven' is ...",
+        "opties": [
+          "دَعْمُ الدَّوْلَةِ لِلشَّرِكاتِ",
+          "دَعْمُ الدَّوْلَةَ الشَّرِكاتِ",
+          "الدَّوْلَةُ دَعَمَتِ الشَّرِكاتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Agens gen. + {ar|لِـ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "'Ik heb maar één uur geslapen' is ...",
+        "opties": [
+          "لَمْ أَنَمْ إِلّا ساعَةً واحِدَةً",
+          "نِمْتُ إِلّا ساعَةً",
+          "ما نِمْتُ ساعَةً"
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "invullen",
+        "tag": "beperking",
+        "zin": "لا يَدْخُلُ هُنا إِلّا ___.",
+        "nl": "Alleen artsen mogen hier naar binnen.",
+        "antwoord": [
+          "الأَطِبّاءُ"
+        ],
+        "uitleg": "Onderwerp → nominatief.",
+        "woordbank": [
+          "الأَطِبّاءُ",
+          "الأَطِبّاءَ",
+          "الأَطِبّاءِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "Na {ar|إِنَّما} volgt ...",
+        "opties": [
+          "een gewone zin (nominatief)",
+          "een accusatief",
+          "een majzūm"
+        ],
+        "juist": 0,
+        "uitleg": "Geen inna-werking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "{ar|مِمّا أَدّى إِلى} betekent ...",
+        "opties": [
+          "wat leidde tot",
+          "als gevolg van",
+          "ondanks"
+        ],
+        "juist": 0,
+        "uitleg": "Gevolg."
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-gevolg",
+        "zin": "___ لِلْجَفافِ، قَلَّ المَحْصولُ.",
+        "nl": "Als gevolg van de droogte was de oogst kleiner.",
+        "antwoord": [
+          "نَتيجَةً"
+        ],
+        "uitleg": "{ar|نَتيجَةً لِـ}",
+        "woordbank": [
+          "نَتيجَةً",
+          "مِمّا",
+          "وَبِالتّالي"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "oorzaak-gevolg",
+        "instructie": "Vervoeg أَدّى (leiden tot).",
+        "rijen": [
+          {
+            "label": "het (m) leidt (muḍāriʿ)",
+            "antwoord": "يُؤَدّي",
+            "tr": "yuʾaddī"
+          },
+          {
+            "label": "het (v) leidde (māḍī)",
+            "antwoord": "أَدَّتْ",
+            "tr": "addat"
+          }
+        ],
+        "uitleg": "Zwak II."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "'Ik sta op het punt te vertrekken' is ...",
+        "opties": [
+          "أَنا عَلى وَشْكِ المُغادَرَةِ",
+          "كِدْتُ غادَرْتُ",
+          "أَنْوي غادَرْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عَلى وَشْكِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "intentie",
+        "zin": "___ يَسْقُطُ.",
+        "nl": "Hij viel bijna.",
+        "antwoord": [
+          "كادَ"
+        ],
+        "uitleg": "{ar|كادَ} + muḍāriʿ.",
+        "woordbank": [
+          "كادَ",
+          "نَوى",
+          "أَوْشَكَ أَنْ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "intentie",
+        "instructie": "Vervoeg نَوى.",
+        "rijen": [
+          {
+            "label": "ik ben van plan",
+            "antwoord": "أَنْوي",
+            "tr": "anwī"
+          },
+          {
+            "label": "zij (v) was van plan",
+            "antwoord": "نَوَتْ",
+            "tr": "nawat"
+          }
+        ],
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "'Toen ik aankwam, was hij al weg' is ...",
+        "opties": [
+          "عِنْدَما وَصَلْتُ كانَ قَدْ ذَهَبَ",
+          "عِنْدَما وَصَلْتُ كانَ يَذْهَبُ",
+          "عِنْدَما وَصَلْتُ سَيَذْهَبُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَ قَدْ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "voltooid-verleden",
+        "zin": "كُنّا قَدْ ___ قَبْلَ المَطَرِ.",
+        "nl": "We waren vóór de regen thuisgekomen.",
+        "antwoord": [
+          "رَجَعْنا"
+        ],
+        "uitleg": "Māḍī.",
+        "woordbank": [
+          "رَجَعْنا",
+          "نَرْجِعُ",
+          "رَجَعوا"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "overtreffende-trap",
+        "vraag": "'Een van de bekendste zangers' is ...",
+        "opties": [
+          "أَحَدُ أَشْهَرِ المُغَنّينَ",
+          "أَشْهَرُ مُغَنٍّ واحِدٍ",
+          "إِحْدى أَشْهَرِ المُغَنّينَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَحَدُ} + genitief mv."
+      },
+      {
+        "type": "invullen",
+        "tag": "overtreffende-trap",
+        "zin": "هٰذِهِ ___ مَدينَةٍ في المَغْرِبِ.",
+        "nl": "Dit is de oudste stad van Marokko.",
+        "antwoord": [
+          "أَقْدَمُ"
+        ],
+        "uitleg": "{ar|أَفْعَلُ} + onbepaald enkelvoud.",
+        "woordbank": [
+          "أَقْدَمُ",
+          "قَديمَةُ",
+          "أَقْدَمِ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "abstract-iyya",
+        "vraag": "'Vrijheid' is ...",
+        "opties": [
+          "حُرِّيَّةٌ",
+          "حُرٌّ",
+          "تَحْريرٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ـِيَّة}"
+      },
+      {
+        "type": "invullen",
+        "tag": "abstract-iyya",
+        "zin": "لِلتَّعْليمِ ___ كَبيرَةٌ.",
+        "nl": "Onderwijs is van groot belang.",
+        "antwoord": [
+          "أَهَمِّيَّةٌ"
+        ],
+        "uitleg": "Abstract.",
+        "woordbank": [
+          "أَهَمِّيَّةٌ",
+          "مُهِمٌّ",
+          "أَهَمُّ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "{ar|مُسْتَخْدِمٌ} betekent ...",
+        "opties": [
+          "gebruiker",
+          "gebruikt",
+          "gebruik"
+        ],
+        "juist": 0,
+        "uitleg": "Actief X."
+      },
+      {
+        "type": "invullen",
+        "tag": "deelwoord-afgeleid",
+        "zin": "هٰذا البَرْنامَجُ ___ في المَدارِسِ.",
+        "nl": "Dit programma wordt in scholen gebruikt.",
+        "antwoord": [
+          "مُسْتَخْدَمٌ"
+        ],
+        "uitleg": "Passief.",
+        "woordbank": [
+          "مُسْتَخْدَمٌ",
+          "مُسْتَخْدِمٌ",
+          "اِسْتِخْدامٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "krantenstijl",
+        "vraag": "Welke kop is in krantenstijl?",
+        "opties": [
+          "تَدْشينُ جِسْرٍ جَديدٍ في الرِّباطِ",
+          "كانَ الوَزيرُ قَدْ دَشَّنَ جِسْرًا",
+          "هَلْ دُشِّنَ الجِسْرُ؟"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar-kop."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "formeel-register",
+        "vraag": "Welke formule opent een formele brief?",
+        "opties": [
+          "تَحِيَّةً طَيِّبَةً وَبَعْدُ",
+          "أَهْلًا يا صاحِبي",
+          "خُلاصَةُ القَوْلِ"
+        ],
+        "juist": 0,
+        "uitleg": "Opening."
+      },
+      {
+        "type": "invullen",
+        "tag": "formeel-register",
+        "zin": "___ الرَّدُّ قَبْلَ نِهايَةِ الشَّهْرِ.",
+        "nl": "Graag een antwoord vóór het eind van de maand.",
+        "antwoord": [
+          "يُرْجى"
+        ],
+        "uitleg": "Lijdend + maṣdar.",
+        "woordbank": [
+          "يُرْجى",
+          "أَرْجو",
+          "نَرْجو"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|صَحيحٌ أَنَّ … إِلّا أَنَّ …} gebruik je om ...",
+        "opties": [
+          "toe te geven en te weerleggen",
+          "een voorbeeld te geven",
+          "af te sluiten"
+        ],
+        "juist": 0,
+        "uitleg": "Betoog."
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "___ القَوْلِ، أَنا مَعَ المَنْعِ.",
+        "nl": "Kortom, ik ben voor het verbod.",
+        "antwoord": [
+          "خُلاصَةُ"
+        ],
+        "uitleg": "Conclusie.",
+        "woordbank": [
+          "خُلاصَةُ",
+          "فَضْلًا",
+          "عَلاوَةً"
+        ]
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "وَفْقًا لِلشُّرْطَةِ، لا توجَدُ إِصاباتٌ",
+        "vraag": "Wat zegt de politie?",
+        "opties": [
+          "Er zijn geen gewonden.",
+          "Er zijn veel gewonden.",
+          "Er is één dode."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَفْقًا لِـ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "مِنَ المُتَوَقَّعِ أَنْ تَرْتَفِعَ الحَرارَةُ غَدًا",
+        "vraag": "Wat wordt verwacht?",
+        "opties": [
+          "Morgen wordt het warmer.",
+          "Morgen wordt het kouder.",
+          "Morgen gaat het regenen."
+        ],
+        "juist": 0,
+        "uitleg": "Weerbericht."
+      },
+      {
+        "type": "luisteren",
+        "tag": "nominalisatie",
+        "tekst": "أَدّى اِرْتِفاعُ الأَسْعارِ إِلى اِنْخِفاضِ الاِسْتِهْلاكِ",
+        "vraag": "Wat was het gevolg van de prijsstijging?",
+        "opties": [
+          "minder consumptie",
+          "meer consumptie",
+          "hogere lonen"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar."
+      },
+      {
+        "type": "luisteren",
+        "tag": "beperking",
+        "tekst": "لا يُباعُ هٰذا الدَّواءُ إِلّا بِوَصْفَةٍ",
+        "vraag": "Hoe krijg je dit medicijn?",
+        "opties": [
+          "alleen op recept",
+          "zonder recept",
+          "nergens"
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "luisteren",
+        "tag": "voltooid-verleden",
+        "tekst": "كانَتِ الحَفْلَةُ قَدِ انْتَهَتْ عِنْدَما وَصَلْنا",
+        "vraag": "Wat was er aan de hand?",
+        "opties": [
+          "Het feest was al afgelopen.",
+          "Het feest begon net.",
+          "Er was geen feest."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَ قَدْ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "بَطالَةٌ",
+            "nl": "werkloosheid"
+          },
+          {
+            "ar": "لَقاحٌ",
+            "nl": "vaccin"
+          },
+          {
+            "ar": "اِنْبِعاثاتٌ",
+            "nl": "uitstoot"
+          },
+          {
+            "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+            "nl": "studiebeurs"
+          },
+          {
+            "ar": "مُعاهَدَةٌ",
+            "nl": "verdrag"
+          }
+        ],
+        "uitleg": "Woordenschat periode 10."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مِهْرَجانٌ",
+            "nl": "festival"
+          },
+          {
+            "ar": "هُوِيَّةٌ",
+            "nl": "identiteit"
+          },
+          {
+            "ar": "مُخْتَبَرٌ",
+            "nl": "laboratorium"
+          },
+          {
+            "ar": "اِنْتِخاباتٌ",
+            "nl": "verkiezingen"
+          },
+          {
+            "ar": "مُرْفَقاتٌ",
+            "nl": "bijlagen"
+          }
+        ],
+        "uitleg": "Woordenschat periode 10."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|غُرْبَةٌ} betekent ...",
+        "opties": [
+          "het leven ver van huis",
+          "het westen",
+          "vreemdeling"
+        ],
+        "juist": 0,
+        "uitleg": "Migratie."
+      },
+      {
+        "type": "ordenen",
+        "tag": "oorzaak-gevolg",
+        "nl": "De temperaturen stegen, wat leidde tot het smelten van het ijs.",
+        "woorden": [
+          "اِرْتَفَعَتِ",
+          "الحَرارَةُ،",
+          "مِمّا",
+          "أَدّى",
+          "إِلى",
+          "ذَوَبانِ",
+          "الجَليدِ."
+        ],
+        "uitleg": "{ar|مِمّا أَدّى إِلى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "Wat zeg je bij het weggaan tegen de gastheer?",
+        "opties": [
+          "الله يخلف",
+          "مبروك",
+          "على سلامتك"
+        ],
+        "juist": 0,
+        "uitleg": "Darija."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-uitdrukkingen",
+        "vraag": "Wat betekent {ar|اللي بغا العسل يصبر لقريص النحل}?",
+        "opties": [
+          "Zonder moeite geen resultaat.",
+          "Honing is gezond.",
+          "Pas op voor bijen."
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|نكتب} betekent ...",
+        "opties": [
+          "ik schrijf",
+          "wij schrijven",
+          "hij schrijft"
+        ],
+        "juist": 0,
+        "uitleg": "1e persoon met ن."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "abstract-iyya",
+        "bron": "de identiteit",
+        "antwoorden": [
+          "الهُوِيَّةُ",
+          "الهوية"
+        ],
+        "uitleg": "{ar|الهُوِيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "intentie",
+        "bron": "أَنْوي أَنْ أَدْرُسَ في الخارِجِ.",
+        "antwoorden": [
+          "ik ben van plan in het buitenland te studeren",
+          "ik wil in het buitenland studeren"
+        ],
+        "uitleg": "{ar|أَنْوي أَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "formeel-register",
+        "bron": "وَتَفَضَّلوا بِقَبولِ فائِقِ الاِحْتِرامِ.",
+        "antwoorden": [
+          "hoogachtend",
+          "met de meeste hoogachting"
+        ],
+        "uitleg": "Slot."
+      }
+    ]
+  }
+}

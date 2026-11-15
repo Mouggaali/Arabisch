@@ -1,0 +1,131 @@
+{
+  "id": "j2-p5-d08",
+  "code": "D08",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: eten en thee (أتاي)",
+  "thema": "Aan tafel en bij de thee in Marokko",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "aan tafel iets vragen en aanbieden in het Darija.",
+    "de woorden rond Marokkaanse thee en maaltijden gebruiken.",
+    "de gebiedende wijs in het Darija herkennen (كول، شرب، عطيني)."
+  ],
+
+  "woorden": [
+    { "id": "j2-p5-d08-w01", "ar": "أتاي", "tr": "atāy", "nl": ["thee"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|الشّايُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w02", "ar": "النعناع", "tr": "nnəʿnāʿ", "nl": ["de munt (kruid)"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w03", "ar": "البراد", "tr": "lbəṛṛād", "nl": ["de theepot"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w04", "ar": "الكاس", "tr": "lkās", "nl": ["het glas"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|الكَأْسُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w05", "ar": "الحريرة", "tr": "lḥrīra", "nl": ["harira (soep)"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w06", "ar": "عطيني", "tr": "ʿṭīni", "nl": ["geef me"], "soort": "werkwoord (gebiedende wijs)", "notitie": "Fusha: {ar|أَعْطِني}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w07", "ar": "زيد", "tr": "zīd", "nl": ["neem nog", "doe er nog bij"], "soort": "werkwoord (gebiedende wijs)", "notitie": "{ar|زيد كول!} = eet nog wat!", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w08", "ar": "كول", "tr": "kūl", "nl": ["eet!"], "soort": "werkwoord (gebiedende wijs)", "notitie": "Fusha: {ar|كُلْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w09", "ar": "بنين", "tr": "bnīn", "nl": ["lekker"], "soort": "bijvoeglijk naamwoord", "notitie": "Fusha: {ar|لَذيذٌ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w10", "ar": "شبعت", "tr": "šbəʿt", "nl": ["ik zit vol", "ik heb genoeg gegeten"], "soort": "werkwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w11", "ar": "جيعان", "tr": "jīʿān", "nl": ["hongerig"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w12", "ar": "عطشان", "tr": "ʿaṭšān", "nl": ["dorstig"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w13", "ar": "بصحتك", "tr": "bṣəḥḥtək", "nl": ["eet smakelijk", "proost (op je gezondheid)"], "soort": "uitdrukking", "notitie": "Antwoord: {ar|الله يعطيك الصحة}.", "review": { "status": "onzeker", "note": "Darija bevestigen; ook gebruikt na nieuwe kleren, kapper e.d." } },
+    { "id": "j2-p5-d08-w14", "ar": "الفطور", "tr": "lfṭūr", "nl": ["het ontbijt"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w15", "ar": "الغدا", "tr": "lġda", "nl": ["de lunch"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w16", "ar": "العشا", "tr": "lʿša", "nl": ["het avondeten"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w17", "ar": "سخون", "tr": "sxūn", "nl": ["heet", "warm"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d08-w18", "ar": "باراكا", "tr": "bāṛāka", "nl": ["genoeg", "het is goed zo"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen (ook باركا)." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Aan tafel",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De gebiedende wijs in het Darija lijkt op de Fusha-vorm zonder hulpalif en zonder eindklinker: {ar|كول} (eet!), {ar|شرب} (drink!), {ar|عطيني} (geef me!). Tegen een vrouw komt er ـي achter, tegen een groep ـو: {ar|كولي}، {ar|كولو}.",
+          "Een Marokkaanse gastheer blijft aanbieden: {ar|زيد!} (neem nog!). Zeg {ar|شبعت، الله يخلف} of {ar|باراكا، شكرا} als je echt genoeg hebt."
+        ] },
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["thee", "الشّايُ", "أتاي|atāy"],
+          ["geef me", "أَعْطِني", "عطيني|ʿṭīni"],
+          ["eet! (m / v / mv)", "كُلْ / كُلي / كُلوا", "كول / كولي / كولو|kūl / kūli / kūlu"],
+          ["lekker", "لَذيذٌ", "بنين|bnīn"],
+          ["ik zit vol", "شَبِعْتُ", "شبعت|šbəʿt"]
+        ] },
+        { "type": "waarom", "md": "Waarom zo veel aanbieden? Gastvrijheid is in Marokko een plicht. Een eerste *nee* wordt vaak als beleefdheid opgevat. Met {ar|الله يخلف} (*God vergoede het*) bedank je voor het eten en laat je beleefd merken dat je klaar bent.", "review": { "status": "onzeker", "note": "الله يخلف als bedankformule na het eten laten bevestigen." } }
+      ]
+    },
+    {
+      "titel": "Bij de thee",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "بغيتي شي كاس ديال أتاي؟", "tr": "bġīti ši kās dyāl atāy?", "nl": "Wil je een glas thee?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "إيه، بالنعناع عافاك.", "tr": "īh, b-nnəʿnāʿ ʿāfāk.", "nl": "Ja, met munt alsjeblieft.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "الحريرة بنينة بزاف!", "tr": "lḥrīra bnīna bəzzāf!", "nl": "De harira is heel lekker!", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken (بنينة, vrouwelijk)." } },
+          { "ar": "زيد كول! — لا، شبعت، الله يخلف.", "tr": "zīd kūl! — la, šbəʿt, aḷḷāh yxləf.", "nl": "Eet nog wat! — Nee, ik zit vol, dank je.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-eten", "paren": [
+          { "ar": "أتاي", "nl": "thee", "woord": "j2-p5-d08-w01" },
+          { "ar": "النعناع", "nl": "munt", "woord": "j2-p5-d08-w02" },
+          { "ar": "البراد", "nl": "theepot", "woord": "j2-p5-d08-w03" },
+          { "ar": "بنين", "nl": "lekker", "woord": "j2-p5-d08-w09" },
+          { "ar": "جيعان", "nl": "hongerig", "woord": "j2-p5-d08-w11" },
+          { "ar": "العشا", "nl": "avondeten", "woord": "j2-p5-d08-w16" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "darija-eten", "tekst": "عطيني أتاي", "vraag": "Wat hoor je?", "opties": ["Geef me thee.", "Ik wil geen thee.", "De thee is heet."], "juist": 0, "uitleg": "*ʿṭīni atāy* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Aan tafel",
+      "items": [
+        { "type": "invullen", "tag": "darija-eten", "zin": "___ أتاي عافاك.", "nl": "Geef me thee, alsjeblieft.", "woordbank": ["عطيني", "كول", "زيد"], "antwoord": ["عطيني"], "uitleg": "{ar|عطيني} = geef me." },
+        { "type": "invullen", "tag": "darija-eten", "zin": "لا، ___، الله يخلف.", "nl": "Nee, ik zit vol, dank je.", "woordbank": ["شبعت", "جيعان", "عطشان"], "antwoord": ["شبعت"], "uitleg": "{ar|شبعت} = ik zit vol." },
+        { "type": "vervoegen", "tag": "darija-eten", "instructie": "Maak de gebiedende wijs van كول (eet!).",
+          "rijen": [
+            { "label": "tegen een vrouw", "antwoord": "كولي", "tr": "kūli" },
+            { "label": "tegen een groep", "antwoord": "كولو", "tr": "kūlu" }
+          ], "uitleg": "ـي (v) · ـو (mv)" },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|لَذيذٌ} is in het Darija ...", "opties": ["بنين", "سخون", "باراكا"], "juist": 0, "uitleg": "{ar|بنين} = lekker." },
+        { "type": "ordenen", "tag": "darija-eten", "nl": "Wil je een glas thee?", "woorden": ["بغيتي", "شي", "كاس", "ديال", "أتاي؟"], "uitleg": "{ar|ديال} verbindt glas en thee." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-eten", "bron": "thee (Darija)", "antwoorden": ["أتاي"], "uitleg": "{ar|أتاي}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-eten", "bron": "أنا عطشان", "tr": "ana ʿaṭšān", "antwoorden": ["ik heb dorst", "ik ben dorstig"], "uitleg": "{ar|عطشان} = dorstig." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-eten", "paren": [
+        { "ar": "الفطور", "nl": "ontbijt" },
+        { "ar": "الغدا", "nl": "lunch" },
+        { "ar": "سخون", "nl": "heet" },
+        { "ar": "الكاس", "nl": "glas" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "darija-eten", "vraag": "Wat zeg je als je genoeg hebt gegeten?", "opties": ["شبعت", "جيعان", "زيد"], "juist": 0, "uitleg": "{ar|شبعت} = ik zit vol." },
+      { "type": "meerkeuze", "tag": "darija-eten", "vraag": "De gastheer zegt {ar|زيد!}. Wat bedoelt hij?", "opties": ["Neem nog wat!", "Ga zitten!", "Genoeg!"], "juist": 0, "uitleg": "{ar|زيد} = neem nog." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|الشّايُ} is in het Darija ...", "opties": ["أتاي", "القهوة", "الحليب"], "juist": 0, "uitleg": "{ar|أتاي}" },
+      { "type": "luisteren", "tag": "darija-eten", "tekst": "بنين بزاف", "vraag": "Wat hoor je?", "opties": ["Heel lekker.", "Heel heet.", "Te veel."], "juist": 0, "uitleg": "*bnīn bəzzāf*" },
+      { "type": "luisteren", "tag": "darija-eten", "tekst": "بالنعناع عافاك", "vraag": "Wat hoor je?", "opties": ["Met munt, alsjeblieft.", "Zonder suiker, alsjeblieft.", "Nog een glas, alsjeblieft."], "juist": 0, "uitleg": "{ar|النعناع} = munt." },
+      { "type": "invullen", "tag": "darija-eten", "zin": "أنا ___، بغيت ناكل.", "nl": "Ik heb honger, ik wil eten.", "woordbank": ["جيعان", "شبعت", "عطشان"], "antwoord": ["جيعان"], "uitleg": "{ar|جيعان} = hongerig.", "review": { "status": "onzeker", "note": "ناكل (ik eet, zonder كا na بغيت) laten nakijken." } },
+      { "type": "invullen", "tag": "darija-eten", "zin": "___ كول!", "nl": "Eet nog wat!", "woordbank": ["زيد", "باراكا", "عطيني"], "antwoord": ["زيد"], "uitleg": "{ar|زيد} = nog." },
+      { "type": "vervoegen", "tag": "darija-eten", "instructie": "Maak de gebiedende wijs van شرب (drink!).",
+        "rijen": [
+          { "label": "tegen een man", "antwoord": "شرب", "tr": "šṛəb" },
+          { "label": "tegen een vrouw", "antwoord": "شربي", "tr": "šəṛbi" }
+        ], "uitleg": "Zonder uitgang · ـي" },
+      { "type": "ordenen", "tag": "darija-eten", "nl": "Nee, ik zit vol, dank je.", "woorden": ["لا،", "شبعت،", "الله", "يخلف."], "uitleg": "{ar|الله يخلف} = dank je (voor het eten)." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-eten", "bron": "geef me (Darija)", "antwoorden": ["عطيني"], "uitleg": "{ar|عطيني}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-eten", "bron": "الحريرة سخونة", "tr": "lḥrīra sxūna", "antwoorden": ["de harira is heet", "de soep is heet", "de harira is warm"], "uitleg": "{ar|سخون} → vrouwelijk {ar|سخونة}." }
+    ]
+  }
+}

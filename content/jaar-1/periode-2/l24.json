@@ -1,0 +1,164 @@
+{
+  "id": "j1-p2-l24",
+  "code": "L24",
+  "type": "les",
+  "titel": "Het interview",
+  "thema": "Vragen stellen over alle onderwerpen tot nu toe",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "alle vraagwoorden gebruiken: wat, wie, waar, wanneer, hoe, hoeveel, waarom, welk.",
+    "het verschil maken tussen ما (vóór een naamwoord) en ماذا (vóór een werkwoord).",
+    "antwoorden met لِأَنَّ (omdat).",
+    "een kort interview afnemen en een formulier mondeling invullen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l24-w01", "ar": "ماذا", "tr": "māḏā", "nl": ["wat (vóór een werkwoord)"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l24-w02", "ar": "لِماذا", "tr": "limāḏā", "nl": ["waarom"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l24-w03", "ar": "لِأَنَّ", "tr": "li-anna", "nl": ["omdat"], "soort": "voegwoord", "notitie": "Met achtervoegsel: {ar|لِأَنَّهُ} (omdat hij), {ar|لِأَنَّها} (omdat zij), {ar|لِأَنَّني} (omdat ik)." },
+    { "id": "j1-p2-l24-w04", "ar": "أَيُّ", "tr": "ayyu", "nl": ["welk", "welke"], "soort": "vraagwoord", "notitie": "Gevolgd door een woord in de genitief: {ar|أَيُّ يَوْمٍ؟} (welke dag?)." },
+    { "id": "j1-p2-l24-w05", "ar": "إِلى أَيْنَ؟", "tr": "ilā ayna?", "nl": ["waarheen?"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l24-w06", "ar": "لِمَنْ؟", "tr": "li-man?", "nl": ["van wie?", "voor wie?"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l24-w07", "ar": "مَعَ مَنْ؟", "tr": "maʿa man?", "nl": ["met wie?"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l24-w08", "ar": "مِهْنَةٌ", "tr": "mihna", "nl": ["beroep"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w09", "ar": "جِنْسِيَّةٌ", "tr": "jinsiyya", "nl": ["nationaliteit"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w10", "ar": "مُقابَلَةٌ", "tr": "muqābala", "nl": ["interview", "ontmoeting"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w11", "ar": "بَريدٌ إِلِكْتْرونِيٌّ", "tr": "barīdun iliktrūnī", "nl": ["e-mail"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w12", "ar": "هِوايَةٌ", "tr": "hiwāya", "nl": ["hobby"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w13", "ar": "مُفَضَّلٌ", "tr": "mufaḍḍal", "nl": ["favoriet", "lievelings-"], "soort": "bijvoeglijk naamwoord", "notitie": "{ar|لَوْني المُفَضَّلُ} = mijn lievelingskleur." },
+    { "id": "j1-p2-l24-w14", "ar": "سَبَبٌ", "tr": "sabab", "nl": ["reden"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l24-w15", "ar": "اِسْمُ العائِلَةِ", "tr": "ismu l-ʿāʾila", "nl": ["achternaam"], "soort": "iḍāfa" },
+    { "id": "j1-p2-l24-w16", "ar": "تاريخُ المِيلادِ", "tr": "tārīḫu l-mīlād", "nl": ["geboortedatum"], "soort": "iḍāfa" },
+    { "id": "j1-p2-l24-w17", "ar": "مَكانُ المِيلادِ", "tr": "makānu l-mīlād", "nl": ["geboorteplaats"], "soort": "iḍāfa" },
+    { "id": "j1-p2-l24-w18", "ar": "يَتَكَلَّمُ", "tr": "yatakallamu", "nl": ["spreken (hij spreekt)"], "soort": "werkwoord", "notitie": "Ik spreek: {ar|أَتَكَلَّمُ}. Jij (v): {ar|تَتَكَلَّمِينَ}." },
+    { "id": "j1-p2-l24-w19", "ar": "يَسْأَلُ", "tr": "yasʾalu", "nl": ["vragen (hij vraagt)"], "soort": "werkwoord", "notitie": "Ik vraag: {ar|أَسْأَلُ}." },
+    { "id": "j1-p2-l24-w20", "ar": "يُجيبُ", "tr": "yujību", "nl": ["antwoorden (hij antwoordt)"], "soort": "werkwoord", "notitie": "Ik antwoord: {ar|أُجيبُ}." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Alle vraagwoorden op een rij",
+      "blokken": [
+        { "type": "tabel", "kop": ["Vraagwoord", "Betekenis", "Voorbeeld"], "arKolommen": [0, 2], "rijen": [
+          ["ما|mā", "wat (+ naamwoord)", "ما اسْمُكَ؟|mā smuka?"],
+          ["ماذا|māḏā", "wat (+ werkwoord)", "ماذا تَدْرُسُ؟|māḏā tadrusu?"],
+          ["مَنْ|man", "wie", "مَنْ هٰذا؟|man hāḏā?"],
+          ["أَيْنَ|ayna", "waar", "أَيْنَ تَسْكُنُ؟|ayna taskunu?"],
+          ["مِنْ أَيْنَ|min ayna", "waarvandaan", "مِنْ أَيْنَ أَنْتَ؟|min ayna anta?"],
+          ["إِلى أَيْنَ|ilā ayna", "waarheen", "إِلى أَيْنَ تَذْهَبُ؟|ilā ayna taḏhabu?"],
+          ["مَتى|matā", "wanneer", "مَتى الدَّرْسُ؟|matā d-dars?"],
+          ["كَيْفَ|kayfa", "hoe", "كَيْفَ حالُكَ؟|kayfa ḥāluka?"],
+          ["كَمْ|kam", "hoeveel", "كَمْ عُمْرُكَ؟|kam ʿumruka?"],
+          ["بِكَمْ|bi-kam", "voor hoeveel", "بِكَمْ هٰذا؟|bi-kam hāḏā?"],
+          ["لِماذا|limāḏā", "waarom", "لِماذا تَدْرُسُ العَرَبِيَّةَ؟|limāḏā tadrusu l-ʿarabiyya?"],
+          ["أَيُّ|ayyu", "welk(e)", "أَيُّ لُغَةٍ؟|ayyu luġa?"],
+          ["هَلْ|hal", "(ja/nee-vraag)", "هَلْ أَنْتَ طالِبٌ؟|hal anta ṭālib?"]
+        ] },
+        { "type": "waarom", "md": "{ar|ما} en {ar|ماذا} betekenen allebei *wat*. Gebruik {ar|ماذا} vóór een werkwoord ({ar|ماذا تَأْكُلُ؟}) en {ar|ما} vóór een naamwoord of in een zin zonder werkwoord ({ar|ما هٰذا؟}). Dit is de gangbare richtlijn in Modern Standaard Arabisch." }
+      ]
+    },
+    {
+      "titel": "Waarom? — Omdat ...",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Op {ar|لِماذا} antwoord je met {ar|لِأَنَّ} (omdat). Na {ar|لِأَنَّ} volgt een **naamwoord in de accusatief** of een **aangehecht voornaamwoord**: {ar|لِأَنَّ الدَّرْسَ مُهِمٌّ}, {ar|لِأَنَّني أُحِبُّ اللُّغَةَ}.",
+          "Met voornaamwoord: {ar|لِأَنَّني} of {ar|لِأَنّي} (omdat ik), {ar|لِأَنَّكَ} (omdat jij), {ar|لِأَنَّهُ} (omdat hij), {ar|لِأَنَّها} (omdat zij)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "لِماذا تَدْرُسُ العَرَبِيَّةَ؟ — لِأَنَّ عائِلَتي مِنَ المَغْرِبِ.", "tr": "limāḏā tadrusu l-ʿarabiyya? — li-anna ʿāʾilatī mina l-Maġrib.", "nl": "Waarom studeer je Arabisch? — Omdat mijn familie uit Marokko komt." },
+          { "ar": "لا يَأْكُلُ لِأَنَّهُ لَيْسَ جائِعًا.", "tr": "lā yaʾkulu li-annahu laysa jāʾiʿan.", "nl": "Hij eet niet omdat hij geen honger heeft." },
+          { "ar": "ماذا تَشْرَبينَ؟ — أَشْرَبُ عَصيرًا.", "tr": "māḏā tašrabīna? — ašrabu ʿaṣīran.", "nl": "Wat drink jij? — Ik drink sap." },
+          { "ar": "أَيَّ لُغَةٍ تَتَكَلَّمُ؟ — أَتَكَلَّمُ الهولَنْدِيَّةَ وَالعَرَبِيَّةَ.", "tr": "ayya luġatin tatakallamu? — atakallamu l-hūlandiyyata wa-l-ʿarabiyya.", "nl": "Welke taal spreek je? — Ik spreek Nederlands en Arabisch.",
+            "review": { "status": "onzeker", "note": "أَيَّ in de accusatief omdat het lijdend voorwerp is van تَتَكَلَّمُ. Controleer de naamval en of أَيَّ لُغاتٍ (meervoud) natuurlijker is." } }
+        ] },
+        { "type": "letop", "md": "Een naamwoord direct na {ar|لِأَنَّ} staat in de **accusatief**: {ar|لِأَنَّ الطَّعامَ لَذيذٌ}. Het gezegde blijft nominatief. Dit werkt zoals {ar|إِنَّ} en zusters (les 65)." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Vraagwoorden",
+      "items": [
+        { "type": "koppelen", "tag": "vraagwoorden", "paren": [
+          { "ar": "لِماذا", "nl": "waarom", "woord": "j1-p2-l24-w02" },
+          { "ar": "مَتى", "nl": "wanneer" },
+          { "ar": "أَيْنَ", "nl": "waar" },
+          { "ar": "كَيْفَ", "nl": "hoe" },
+          { "ar": "أَيُّ", "nl": "welk", "woord": "j1-p2-l24-w04" },
+          { "ar": "مَعَ مَنْ", "nl": "met wie", "woord": "j1-p2-l24-w07" }
+        ], "uitleg": "Kijk nog eens naar de tabel." },
+        { "type": "meerkeuze", "tag": "ma-mada", "vraag": "Welk vraagwoord past? '... تَأْكُلُ؟' (Wat eet je?)", "opties": ["ماذا", "ما", "مَنْ"], "juist": 0, "uitleg": "Vóór een werkwoord: {ar|ماذا}." },
+        { "type": "meerkeuze", "tag": "ma-mada", "vraag": "Welk vraagwoord past? '... هٰذا؟' (Wat is dit?)", "opties": ["ما", "ماذا", "أَيْنَ"], "juist": 0, "uitleg": "Zonder werkwoord: {ar|ما}." },
+        { "type": "luisteren", "tag": "vraagwoorden", "tekst": "إِلى أَيْنَ تَذْهَبُ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Waar ga je heen?", "Waar woon je?", "Waar kom je vandaan?"], "juist": 0, "uitleg": "{ar|إِلى أَيْنَ} = waarheen." },
+        { "type": "luisteren", "tag": "vraagwoorden", "tekst": "لِمَنْ هٰذِهِ الحَقيبَةُ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Van wie is deze tas?", "Waar is deze tas?", "Hoeveel kost deze tas?"], "juist": 0, "uitleg": "{ar|لِمَنْ} = van wie." }
+      ]
+    },
+    {
+      "titel": "Vragen stellen",
+      "items": [
+        { "type": "invullen", "tag": "vraagwoorden", "zin": "___ تَسْكُنِينَ؟", "nl": "Waar woon jij (v)?", "woordbank": ["أَيْنَ", "مَتى", "مَنْ"], "antwoord": ["أَيْنَ"], "uitleg": "{ar|أَيْنَ} = waar." },
+        { "type": "invullen", "tag": "vraagwoorden", "zin": "___ تَدْرُسُ العَرَبِيَّةَ؟", "nl": "Waarom studeer je Arabisch?", "woordbank": ["لِماذا", "ماذا", "كَيْفَ"], "antwoord": ["لِماذا"], "uitleg": "{ar|لِماذا} = waarom." },
+        { "type": "invullen", "tag": "lianna", "zin": "لا أَعْمَلُ اليَوْمَ ___ مَريضٌ.", "nl": "Ik werk vandaag niet omdat ik ziek ben.", "woordbank": ["لِأَنَّني", "لِأَنَّهُ", "لِماذا"], "antwoord": ["لِأَنَّني"], "uitleg": "{ar|لِأَنَّني} = omdat ik." },
+        { "type": "invullen", "tag": "lianna", "zin": "أُحِبُّ هٰذا المَطْعَمَ لِأَنَّ ___ لَذيذٌ.", "nl": "Ik houd van dit restaurant omdat het eten lekker is.", "woordbank": ["الطَّعامَ", "الطَّعامُ", "طَعامٌ"], "antwoord": ["الطَّعامَ"], "uitleg": "Na {ar|لِأَنَّ}: accusatief." },
+        { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vervoeg يَتَكَلَّمُ (spreken).",
+          "rijen": [
+            { "label": "ik", "antwoord": "أَتَكَلَّمُ", "tr": "atakallamu" },
+            { "label": "jij (m)", "antwoord": "تَتَكَلَّمُ", "tr": "tatakallamu" },
+            { "label": "jij (v)", "antwoord": "تَتَكَلَّمِينَ", "tr": "tatakallamīna" },
+            { "label": "wij", "antwoord": "نَتَكَلَّمُ", "tr": "natakallamu" }
+          ], "uitleg": "Dezelfde voorvoegsels; de stam is *-takallam-*." }
+      ]
+    },
+    {
+      "titel": "Het interview",
+      "items": [
+        { "type": "ordenen", "tag": "ma-mada", "nl": "Wat studeer je?", "woorden": ["ماذا", "تَدْرُسُ؟"], "uitleg": "{ar|ماذا} + werkwoord." },
+        { "type": "ordenen", "tag": "lianna", "nl": "Waarom studeer je Arabisch? Omdat mijn familie uit Marokko komt.", "woorden": ["لِماذا", "تَدْرُسُ", "العَرَبِيَّةَ؟", "لِأَنَّ", "عائِلَتي", "مِنَ", "المَغْرِبِ."], "uitleg": "{ar|لِأَنَّ} + naamwoord." },
+        { "type": "meerkeuze", "tag": "vraagwoorden", "vraag": "Bij een formulier: wat is {ar|تاريخُ المِيلادِ}?", "opties": ["geboortedatum", "geboorteplaats", "nationaliteit", "achternaam"], "juist": 0, "uitleg": "{ar|تاريخ} = datum, {ar|المِيلاد} = de geboorte." },
+        { "type": "meerkeuze", "tag": "vraagwoorden", "vraag": "Hoe vraag je naar iemands beroep?", "opties": ["ما مِهْنَتُكَ؟", "ماذا مِهْنَتُكَ؟", "مَنْ مِهْنَتُكَ؟"], "juist": 0, "uitleg": "Naamwoord → {ar|ما}." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "vraagwoorden", "bron": "Waarom?", "antwoorden": ["لِماذا؟"], "uitleg": "{ar|لِماذا؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "ma-mada", "bron": "Wat drink je? (tegen een man)", "antwoorden": ["ماذا تَشْرَبُ؟"], "uitleg": "{ar|ماذا تَشْرَبُ؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "vraagwoorden", "bron": "Met wie?", "antwoorden": ["مَعَ مَنْ؟"], "uitleg": "{ar|مَعَ مَنْ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "أَيُّ يَوْمٍ؟", "tr": "ayyu yawm?", "antwoorden": ["welke dag", "op welke dag"], "uitleg": "{ar|أَيُّ} + genitief." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "lianna", "bron": "لِأَنَّها مَشْغولَةٌ.", "tr": "li-annahā mašġūla.", "antwoorden": ["omdat zij bezig is", "omdat ze bezig is", "omdat zij het druk heeft", "omdat ze het druk heeft"], "uitleg": "{ar|لِأَنَّها} = omdat zij." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "ما هِوايَتُكِ؟", "tr": "mā hiwāyatuki?", "antwoorden": ["wat is jouw hobby", "wat is je hobby", "wat zijn je hobbys"], "uitleg": "{ar|هِوايَتُكِ} = jouw (v) hobby." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مِهْنَةٌ", "nl": "beroep" },
+        { "ar": "جِنْسِيَّةٌ", "nl": "nationaliteit" },
+        { "ar": "سَبَبٌ", "nl": "reden" },
+        { "ar": "هِوايَةٌ", "nl": "hobby" },
+        { "ar": "مُقابَلَةٌ", "nl": "interview" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "ma-mada", "vraag": "'Wat doe je (maak je)?' Welk vraagwoord vóór {ar|تَعْمَلُ}?", "opties": ["ماذا", "ما", "مَنْ"], "juist": 0, "uitleg": "Vóór een werkwoord: {ar|ماذا}." },
+      { "type": "meerkeuze", "tag": "vraagwoorden", "vraag": "'Waarheen?' is ...", "opties": ["إِلى أَيْنَ؟", "مِنْ أَيْنَ؟", "أَيْنَ؟"], "juist": 0, "uitleg": "{ar|إِلى} = naar." },
+      { "type": "meerkeuze", "tag": "lianna", "vraag": "Welke zin is juist?", "opties": ["لِأَنَّ الدَّرْسَ صَعْبٌ.", "لِأَنَّ الدَّرْسُ صَعْبٌ.", "لِأَنَّ دَرْسٌ صَعْبٌ."], "juist": 0, "uitleg": "Na {ar|لِأَنَّ}: accusatief." },
+      { "type": "luisteren", "tag": "vraagwoorden", "tekst": "مَتى تَرْجِعُ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Wanneer kom je terug?", "Waarom kom je terug?", "Waar ga je heen?"], "juist": 0, "uitleg": "{ar|مَتى} = wanneer." },
+      { "type": "luisteren", "tag": "vraagwoorden", "tekst": "كَيْفَ تَذْهَبُ إِلى العَمَلِ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Hoe ga je naar het werk?", "Wanneer ga je naar het werk?", "Waarom ga je naar het werk?"], "juist": 0, "uitleg": "{ar|كَيْفَ} = hoe." },
+      { "type": "invullen", "tag": "vraagwoorden", "zin": "___ أَخًا عِنْدَكَ؟", "nl": "Hoeveel broers heb je?", "woordbank": ["كَمْ", "ما", "أَيُّ"], "antwoord": ["كَمْ"], "uitleg": "{ar|كَمْ} + enkelvoud accusatief." },
+      { "type": "invullen", "tag": "vraagwoorden", "zin": "___ هٰذا الكِتابُ؟", "nl": "Van wie is dit boek?", "antwoord": ["لِمَنْ"], "uitleg": "{ar|لِمَنْ} = van wie." },
+      { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vul de juiste vorm in.",
+        "rijen": [
+          { "label": "ik vraag", "antwoord": "أَسْأَلُ", "tr": "asʾalu" },
+          { "label": "hij spreekt", "antwoord": "يَتَكَلَّمُ", "tr": "yatakallamu" }
+        ], "uitleg": "{ar|أَسْأَلُ} · {ar|يَتَكَلَّمُ}" },
+      { "type": "ordenen", "tag": "lianna", "nl": "Hij eet niet omdat hij geen honger heeft.", "woorden": ["لا", "يَأْكُلُ", "لِأَنَّهُ", "لَيْسَ", "جائِعًا."], "uitleg": "{ar|لِأَنَّهُ} + {ar|لَيْسَ} + accusatief." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "vraagwoorden", "bron": "Waar woon je? (tegen een man)", "antwoorden": ["أَيْنَ تَسْكُنُ؟"], "uitleg": "{ar|أَيْنَ تَسْكُنُ؟}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ma-mada", "bron": "Wat is je beroep? (tegen een man)", "antwoorden": ["ما مِهْنَتُكَ؟"], "uitleg": "{ar|ما مِهْنَتُكَ؟}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vraagwoorden", "bron": "لِماذا أَنْتَ هُنا؟", "tr": "limāḏā anta hunā?", "antwoorden": ["waarom ben je hier", "waarom ben jij hier"], "uitleg": "{ar|لِماذا} = waarom." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "ma-mada", "bron": "ماذا تَكْتُبُ؟", "tr": "māḏā taktub?", "antwoorden": ["wat schrijf je", "wat schrijf jij", "wat schrijft zij", "wat schrijft ze"], "uitleg": "{ar|ماذا} + werkwoord." }
+    ]
+  }
+}

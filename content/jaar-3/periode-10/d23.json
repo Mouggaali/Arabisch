@@ -1,0 +1,624 @@
+{
+  "id": "j3-p10-d23",
+  "code": "D23",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: uitdrukkingen en spreekwoorden",
+  "thema": "Beleefdheidsformules en bekende Marokkaanse spreekwoorden",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de juiste Darija-formule kiezen in alledaagse situaties.",
+    "bekende Marokkaanse spreekwoorden begrijpen.",
+    "spreekwoorden vergelijken met het Fusha."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-d23-w01",
+      "ar": "المثل",
+      "tr": "lməṯla",
+      "nl": [
+        "het spreekwoord"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|المتل} (lmətla); uitspraak per regio.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w02",
+      "ar": "الله يعطيك الصحة",
+      "tr": "ļļāh yʿṭīk ṣṣəḥḥa",
+      "nl": [
+        "dank je (voor je werk/hulp)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w03",
+      "ar": "بالصحة",
+      "tr": "b-ṣṣəḥḥa",
+      "nl": [
+        "gezondheid! / eet smakelijk"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w04",
+      "ar": "على سلامتك",
+      "tr": "ʿla slāmtək",
+      "nl": [
+        "welkom terug / blij dat je veilig bent"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w05",
+      "ar": "تبارك الله",
+      "tr": "tbārk ļļāh",
+      "nl": [
+        "wat mooi (tegen het boze oog)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w06",
+      "ar": "الله يسهل",
+      "tr": "ļļāh ysəhhəl",
+      "nl": [
+        "moge God het makkelijk maken"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w07",
+      "ar": "الله يهديك",
+      "tr": "ļļāh yhdīk",
+      "nl": [
+        "kom op zeg (letterlijk: moge God je leiden)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w08",
+      "ar": "الصبر",
+      "tr": "ṣṣbəṛ",
+      "nl": [
+        "het geduld"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w09",
+      "ar": "العسل",
+      "tr": "lʿsəl",
+      "nl": [
+        "de honing"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w10",
+      "ar": "النحل",
+      "tr": "nnḥəl",
+      "nl": [
+        "de bijen"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w11",
+      "ar": "الجار",
+      "tr": "ljāṛ",
+      "nl": [
+        "de buurman"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w12",
+      "ar": "دير الخير",
+      "tr": "dīr lxīr",
+      "nl": [
+        "doe goed"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w13",
+      "ar": "عطلة",
+      "tr": "ʿəṭla",
+      "nl": [
+        "vertraging"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w14",
+      "ar": "الحيلة",
+      "tr": "lḥīla",
+      "nl": [
+        "de list"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d23-w15",
+      "ar": "نسى",
+      "tr": "nsa",
+      "nl": [
+        "vergeten"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vaste uitdrukkingen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Situatie",
+            "Darija",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "iemand heeft voor je gewerkt",
+              "الله يعطيك الصحة|ļļāh yʿṭīk ṣṣəḥḥa",
+              "dank je wel"
+            ],
+            [
+              "iemand komt terug van reis of ziekte",
+              "على سلامتك|ʿla slāmtək",
+              "welkom terug"
+            ],
+            [
+              "je bewondert iets of iemand",
+              "تبارك الله|tbārk ļļāh",
+              "wat mooi (zonder boze oog)"
+            ],
+            [
+              "iemand niest, of na het eten",
+              "بالصحة|b-ṣṣəḥḥa",
+              "gezondheid / smakelijk"
+            ],
+            [
+              "je wenst iemand succes",
+              "الله يسهل|ļļāh ysəhhəl",
+              "succes, moge het lukken"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Veel Darija-uitdrukkingen bevatten {ar|الله}. Ze zijn niet per se vroom bedoeld, maar zijn **beleefdheidsformules**, zoals *dank je* of *gezondheid* in het Nederlands. {ar|تبارك الله} hoort bij elk compliment, om het *boze oog* af te weren."
+        }
+      ]
+    },
+    {
+      "titel": "Spreekwoorden",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اللي بغا العسل يصبر لقريص النحل.",
+              "tr": "lli bġa lʿsəl yṣbəṛ l-qrīṣ nnḥəl.",
+              "nl": "Wie honing wil, moet de bijensteken verdragen. (Zonder moeite geen resultaat.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Spreekwoord laten nakijken."
+              }
+            },
+            {
+              "ar": "كل عطلة فيها خير.",
+              "tr": "kull ʿəṭla fīha xīr.",
+              "nl": "Elke vertraging heeft iets goeds.",
+              "review": {
+                "status": "onzeker",
+                "note": "Spreekwoord laten nakijken."
+              }
+            },
+            {
+              "ar": "اللي فاتك بليلة فاتك بحيلة.",
+              "tr": "lli fātək b-līla fātək b-ḥīla.",
+              "nl": "Wie een nacht ouder is dan jij, is je een list voor. (Luister naar ouderen.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Spreekwoord laten nakijken."
+              }
+            },
+            {
+              "ar": "دير الخير وانساه.",
+              "tr": "dīr lxīr w-nsāh.",
+              "nl": "Doe goed en vergeet het.",
+              "review": {
+                "status": "onzeker",
+                "note": "Spreekwoord laten nakijken."
+              }
+            },
+            {
+              "ar": "الجار قبل الدار.",
+              "tr": "ljāṛ qbəl ddāṛ.",
+              "nl": "Eerst de buur, dan het huis. (Kies je buren zorgvuldig.)",
+              "review": {
+                "status": "onzeker",
+                "note": "Spreekwoord laten nakijken; bestaat ook in het Fusha: {ar|الجارُ قَبْلَ الدّارِ}."
+              }
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Vergelijk met Fusha: {ar|الصَّبْرُ مِفْتاحُ الفَرَجِ} (geduld is de sleutel tot verlichting) wordt ook in Marokko letterlijk zo gezegd. Veel spreekwoorden bestaan in beide registers."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-uitdrukkingen",
+          "paren": [
+            {
+              "ar": "الصبر",
+              "nl": "geduld",
+              "woord": "j3-p10-d23-w08"
+            },
+            {
+              "ar": "العسل",
+              "nl": "honing",
+              "woord": "j3-p10-d23-w09"
+            },
+            {
+              "ar": "النحل",
+              "nl": "bijen",
+              "woord": "j3-p10-d23-w10"
+            },
+            {
+              "ar": "الجار",
+              "nl": "buurman",
+              "woord": "j3-p10-d23-w11"
+            },
+            {
+              "ar": "الحيلة",
+              "nl": "list",
+              "woord": "j3-p10-d23-w14"
+            },
+            {
+              "ar": "عطلة",
+              "nl": "vertraging",
+              "woord": "j3-p10-d23-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-uitdrukkingen",
+          "tekst": "على سلامتك",
+          "vraag": "Wanneer zeg je dit?",
+          "opties": [
+            "als iemand veilig terug is",
+            "als iemand weggaat",
+            "als iemand jarig is"
+          ],
+          "juist": 0,
+          "uitleg": "Welkom terug (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "De juiste formule",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-uitdrukkingen",
+          "vraag": "De loodgieter is klaar. Wat zeg je?",
+          "opties": [
+            "الله يعطيك الصحة",
+            "على سلامتك",
+            "تبارك الله"
+          ],
+          "juist": 0,
+          "uitleg": "Dank voor het werk."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-uitdrukkingen",
+          "vraag": "Je ziet de baby van je vriendin. Wat zeg je?",
+          "opties": [
+            "تبارك الله",
+            "بالصحة",
+            "الله يهديك"
+          ],
+          "juist": 0,
+          "uitleg": "Tegen het boze oog."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-uitdrukkingen",
+          "zin": "اللي بغا ___ يصبر لقريص النحل.",
+          "nl": "Wie honing wil, moet de bijensteken verdragen.",
+          "antwoord": [
+            "العسل"
+          ],
+          "uitleg": "Spreekwoord.",
+          "woordbank": [
+            "العسل",
+            "الجار",
+            "الصبر"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-uitdrukkingen",
+          "nl": "Doe goed en vergeet het.",
+          "woorden": [
+            "دير",
+            "الخير",
+            "وانساه."
+          ],
+          "uitleg": "Spreekwoord."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-uitdrukkingen",
+          "bron": "gezondheid! / eet smakelijk (Darija)",
+          "antwoorden": [
+            "بالصحة"
+          ],
+          "uitleg": "{ar|بالصحة}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-uitdrukkingen",
+          "bron": "كل عطلة فيها خير",
+          "antwoorden": [
+            "elke vertraging heeft iets goeds",
+            "elke vertraging heeft een goede kant"
+          ],
+          "uitleg": "Spreekwoord.",
+          "tr": "kull ʿəṭla fīha xīr"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-uitdrukkingen",
+        "paren": [
+          {
+            "ar": "الله يسهل",
+            "nl": "succes"
+          },
+          {
+            "ar": "الله يهديك",
+            "nl": "kom op zeg"
+          },
+          {
+            "ar": "المثل",
+            "nl": "spreekwoord"
+          },
+          {
+            "ar": "بالصحة",
+            "nl": "eet smakelijk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-uitdrukkingen",
+        "vraag": "Wat betekent {ar|الجار قبل الدار}?",
+        "opties": [
+          "Kies eerst je buren, dan je huis.",
+          "Je huis is belangrijker dan je buren.",
+          "Bezoek je buren vaak."
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-uitdrukkingen",
+        "vraag": "Je vriend komt terug uit het ziekenhuis. Je zegt ...",
+        "opties": [
+          "على سلامتك",
+          "بالصحة",
+          "الله يسهل"
+        ],
+        "juist": 0,
+        "uitleg": "Welkom terug."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-uitdrukkingen",
+        "vraag": "Waarom zeg je {ar|تبارك الله} bij een compliment?",
+        "opties": [
+          "tegen het boze oog",
+          "om te bedanken",
+          "om afscheid te nemen"
+        ],
+        "juist": 0,
+        "uitleg": "Gewoonte."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-uitdrukkingen",
+        "tekst": "الله يعطيك الصحة",
+        "vraag": "Wat betekent dit?",
+        "opties": [
+          "dank je (voor je werk)",
+          "eet smakelijk",
+          "welkom"
+        ],
+        "juist": 0,
+        "uitleg": "Dank."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-uitdrukkingen",
+        "tekst": "اللي فاتك بليلة فاتك بحيلة",
+        "vraag": "Wat is de les?",
+        "opties": [
+          "Luister naar wie ouder is.",
+          "Slaap genoeg.",
+          "Wees altijd op tijd."
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-uitdrukkingen",
+        "zin": "كل ___ فيها خير.",
+        "nl": "Elke vertraging heeft iets goeds.",
+        "antwoord": [
+          "عطلة"
+        ],
+        "uitleg": "Spreekwoord.",
+        "woordbank": [
+          "عطلة",
+          "حيلة",
+          "ليلة"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-uitdrukkingen",
+        "zin": "دير الخير ___.",
+        "nl": "Doe goed en vergeet het.",
+        "antwoord": [
+          "وانساه"
+        ],
+        "uitleg": "Spreekwoord.",
+        "woordbank": [
+          "وانساه",
+          "والعسل",
+          "والجار"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-uitdrukkingen",
+        "nl": "Eerst de buur, dan het huis.",
+        "woorden": [
+          "الجار",
+          "قبل",
+          "الدار."
+        ],
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-uitdrukkingen",
+        "bron": "welkom terug (Darija)",
+        "antwoorden": [
+          "على سلامتك",
+          "على سلامتكم"
+        ],
+        "uitleg": "{ar|على سلامتك}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-uitdrukkingen",
+        "bron": "dank je voor je werk (Darija)",
+        "antwoorden": [
+          "الله يعطيك الصحة"
+        ],
+        "uitleg": "{ar|الله يعطيك الصحة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-uitdrukkingen",
+        "bron": "الله يسهل عليك",
+        "antwoorden": [
+          "succes",
+          "moge god het je makkelijk maken",
+          "veel succes"
+        ],
+        "uitleg": "Wens.",
+        "tr": "ļļāh ysəhhəl ʿlīk"
+      }
+    ]
+  }
+}

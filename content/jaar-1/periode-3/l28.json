@@ -1,0 +1,853 @@
+{
+  "id": "j1-p3-l28",
+  "code": "L28",
+  "type": "les",
+  "titel": "Vroeger",
+  "thema": "Zeggen hoe iets was en wat je had",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "'zijn' in de verleden tijd uitdrukken met كانَ.",
+    "كانَ vervoegen in alle tien personen.",
+    "het gezegde na كانَ in de accusatief zetten.",
+    "'hebben' in de verleden tijd zeggen: كانَ عِنْدي."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p3-l28-w01",
+      "ar": "كانَ",
+      "tr": "kāna",
+      "nl": [
+        "was (hij)",
+        "zijn (verleden tijd)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Ik was: {ar|كُنْتُ}. Muḍāriʿ: {ar|يَكونُ}."
+    },
+    {
+      "id": "j1-p3-l28-w02",
+      "ar": "في الماضي",
+      "tr": "fi l-māḍī",
+      "nl": [
+        "vroeger",
+        "in het verleden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p3-l28-w04",
+      "ar": "صَغيرًا",
+      "tr": "ṣaġīran",
+      "nl": [
+        "(toen ik) klein (was)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|عِنْدَما كُنْتُ صَغيرًا} = toen ik klein was."
+    },
+    {
+      "id": "j1-p3-l28-w05",
+      "ar": "عِنْدَما",
+      "tr": "ʿindamā",
+      "nl": [
+        "toen",
+        "wanneer (bijzin)"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j1-p3-l28-w06",
+      "ar": "قَرْيَةٌ",
+      "tr": "qarya",
+      "nl": [
+        "dorp"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w07",
+      "ar": "جَوٌّ",
+      "tr": "jaww",
+      "nl": [
+        "weer",
+        "sfeer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w08",
+      "ar": "صَديقٌ قَديمٌ",
+      "tr": "ṣadīqun qadīm",
+      "nl": [
+        "een oude vriend"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p3-l28-w11",
+      "ar": "طِفْلَةٌ",
+      "tr": "ṭifla",
+      "nl": [
+        "meisje (kind)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w12",
+      "ar": "طُفولَةٌ",
+      "tr": "ṭufūla",
+      "nl": [
+        "jeugd (kindertijd)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w13",
+      "ar": "مَزْرَعَةٌ",
+      "tr": "mazraʿa",
+      "nl": [
+        "boerderij"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w14",
+      "ar": "حِصانٌ",
+      "tr": "ḥiṣān",
+      "nl": [
+        "paard"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w15",
+      "ar": "نَهْرٌ",
+      "tr": "nahr",
+      "nl": [
+        "rivier"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w17",
+      "ar": "كَثيرًا ما",
+      "tr": "kaṯīran mā",
+      "nl": [
+        "vaak (+ werkwoord)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p3-l28-w18",
+      "ar": "زَمانٌ",
+      "tr": "zamān",
+      "nl": [
+        "tijd (periode)",
+        "vroeger"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w20",
+      "ar": "صَيْفٌ",
+      "tr": "ṣayf",
+      "nl": [
+        "zomer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w21",
+      "ar": "ذِكْرى",
+      "tr": "ḏikrā",
+      "nl": [
+        "herinnering"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|ذِكْرَياتٌ}."
+    },
+    {
+      "id": "j1-p3-l28-w22",
+      "ar": "قَديمًا",
+      "tr": "qadīman",
+      "nl": [
+        "vroeger",
+        "in vroeger tijden"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p3-l28-w23",
+      "ar": "سَعادَةٌ",
+      "tr": "saʿāda",
+      "nl": [
+        "geluk"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l28-w24",
+      "ar": "عُطْلَةُ الصَّيْفِ",
+      "tr": "ʿuṭlatu ṣ-ṣayf",
+      "nl": [
+        "zomervakantie"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p3-l28-w25",
+      "ar": "لُعْبَةٌ",
+      "tr": "luʿba",
+      "nl": [
+        "speelgoed",
+        "spel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Zijn in de verleden tijd: كانَ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "In de tegenwoordige tijd heeft het Arabisch geen *zijn* (les 4). In de **verleden tijd** wel: {ar|كانَ}. {ar|الجَوُّ جَميلٌ} (*het weer is mooi*) wordt {ar|كانَ الجَوُّ جَميلًا} (*het weer was mooi*).",
+            "Let op: na {ar|كانَ} staat het **gezegde in de accusatief** (-an), precies zoals na {ar|لَيْسَ} (les 12). Het onderwerp blijft nominatief."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Nu (nominale zin)",
+            "Vroeger (met كانَ)",
+            "Nederlands"
+          ],
+          "arKolommen": [
+            0,
+            1
+          ],
+          "rijen": [
+            [
+              "الجَوُّ جَميلٌ.|al-jawwu jamīl",
+              "كانَ الجَوُّ جَميلًا.|kāna l-jawwu jamīlan",
+              "het weer is / was mooi"
+            ],
+            [
+              "أَنا طالِبٌ.|ana ṭālib",
+              "كُنْتُ طالِبًا.|kuntu ṭāliban",
+              "ik ben / was student"
+            ],
+            [
+              "هِيَ مَريضَةٌ.|hiya marīḍa",
+              "كانَتْ مَريضَةً.|kānat marīḍatan",
+              "zij is / was ziek"
+            ],
+            [
+              "نَحْنُ في البَيْتِ.|naḥnu fi l-bayt",
+              "كُنّا في البَيْتِ.|kunnā fi l-bayt",
+              "wij zijn / waren thuis"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|كانَ} en {ar|لَيْسَ} horen bij dezelfde groep (*kāna en zusters*, jaar 2). Ze maken van een nominale zin een zin met een werkwoord, en het gezegde wordt dan een aanvulling bij dat werkwoord, dus accusatief. Een gezegde met een voorzetsel ({ar|في البَيْتِ}) verandert niet."
+        }
+      ]
+    },
+    {
+      "titel": "كانَ vervoegen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "{ar|كانَ} is een **hol werkwoord**: de middelste letter is een و die in sommige vormen verdwijnt. Bij *hij, zij, zij (m mv)* staat er een lange ā ({ar|كانَ، كانَتْ، كانُوا}); in de andere vormen wordt het kort met een u: {ar|كُنْتُ}، {ar|كُنّا}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Vorm",
+            "Nederlands"
+          ],
+          "arKolommen": [
+            0,
+            1
+          ],
+          "rijen": [
+            [
+              "أَنا",
+              "كُنْتُ|kuntu",
+              "ik was"
+            ],
+            [
+              "أَنْتَ",
+              "كُنْتَ|kunta",
+              "jij (m) was"
+            ],
+            [
+              "أَنْتِ",
+              "كُنْتِ|kunti",
+              "jij (v) was"
+            ],
+            [
+              "هُوَ",
+              "كانَ|kāna",
+              "hij was"
+            ],
+            [
+              "هِيَ",
+              "كانَتْ|kānat",
+              "zij was"
+            ],
+            [
+              "نَحْنُ",
+              "كُنّا|kunnā",
+              "wij waren"
+            ],
+            [
+              "أَنْتُمْ",
+              "كُنْتُمْ|kuntum",
+              "jullie (m) waren"
+            ],
+            [
+              "أَنْتُنَّ",
+              "كُنْتُنَّ|kuntunna",
+              "jullie (v) waren"
+            ],
+            [
+              "هُمْ",
+              "كانُوا|kānū",
+              "zij (m) waren"
+            ],
+            [
+              "هُنَّ",
+              "كُنَّ|kunna",
+              "zij (v) waren"
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كُنّا} (*kunnā*) en {ar|كُنَّ} (*kunna*): de n van de stam en de n van de uitgang smelten samen tot één n met shadda."
+        }
+      ]
+    },
+    {
+      "titel": "Hebben in de verleden tijd",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "*Ik had* zeg je met {ar|كانَ} vóór {ar|عِنْدي}: {ar|كانَ عِنْدي كَلْبٌ} (*ik had een hond*). {ar|كانَ} past zich aan het **bezit** aan (het onderwerp), niet aan de bezitter: {ar|كانَتْ عِنْدي سَيّارَةٌ} (*ik had een auto*; {ar|سَيّارَةٌ} is vrouwelijk)."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عِنْدَما كُنْتُ صَغيرًا، كانَ عِنْدَنا حِصانٌ.",
+              "tr": "ʿindamā kuntu ṣaġīran, kāna ʿindanā ḥiṣān.",
+              "nl": "Toen ik klein was, hadden we een paard."
+            },
+            {
+              "ar": "كانَتْ جَدَّتي تَسْكُنُ في قَرْيَةٍ قُرْبَ النَّهْرِ.",
+              "tr": "kānat jaddatī taskunu fī qaryatin qurba n-nahr.",
+              "nl": "Mijn oma woonde in een dorp bij de rivier.",
+              "review": {
+                "status": "onzeker",
+                "note": "كانَ + muḍāriʿ (gewoonte in het verleden) wordt pas in les 78 uitgelegd. Controleer of dit voorbeeld hier past."
+              }
+            },
+            {
+              "ar": "كانَ الجَوُّ حارًّا في الصَّيْفِ.",
+              "tr": "kāna l-jawwu ḥārran fi ṣ-ṣayf.",
+              "nl": "Het weer was heet in de zomer."
+            },
+            {
+              "ar": "هَلْ كُنْتَ في المَدْرَسَةِ أَمْسِ؟ — لا، كُنْتُ مَريضًا.",
+              "tr": "hal kunta fi l-madrasati ams? — lā, kuntu marīḍan.",
+              "nl": "Was je gisteren op school? — Nee, ik was ziek."
+            },
+            {
+              "ar": "ما كانَ عِنْدي وَقْتٌ.",
+              "tr": "mā kāna ʿindī waqt.",
+              "nl": "Ik had geen tijd."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قَرْيَةٌ",
+              "nl": "dorp",
+              "woord": "j1-p3-l28-w06"
+            },
+            {
+              "ar": "مَزْرَعَةٌ",
+              "nl": "boerderij",
+              "woord": "j1-p3-l28-w13"
+            },
+            {
+              "ar": "حِصانٌ",
+              "nl": "paard",
+              "woord": "j1-p3-l28-w14"
+            },
+            {
+              "ar": "نَهْرٌ",
+              "nl": "rivier",
+              "woord": "j1-p3-l28-w15"
+            },
+            {
+              "ar": "طُفولَةٌ",
+              "nl": "jeugd",
+              "woord": "j1-p3-l28-w12"
+            },
+            {
+              "ar": "صَيْفٌ",
+              "nl": "zomer",
+              "woord": "j1-p3-l28-w20"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "kana",
+          "tekst": "كُنْتُ طالِبًا في القاهِرَةِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik was student in Caïro.",
+            "Ik ben student in Caïro.",
+            "Hij was student in Caïro."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كُنْتُ} = ik was."
+        }
+      ]
+    },
+    {
+      "titel": "كانَ vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "kana",
+          "instructie": "Vervoeg كانَ (zijn, verleden tijd).",
+          "rijen": [
+            {
+              "label": "ik",
+              "ar": "أَنا",
+              "antwoord": "كُنْتُ",
+              "tr": "kuntu"
+            },
+            {
+              "label": "jij (m)",
+              "ar": "أَنْتَ",
+              "antwoord": "كُنْتَ",
+              "tr": "kunta"
+            },
+            {
+              "label": "hij",
+              "ar": "هُوَ",
+              "antwoord": "كانَ",
+              "tr": "kāna"
+            },
+            {
+              "label": "zij",
+              "ar": "هِيَ",
+              "antwoord": "كانَتْ",
+              "tr": "kānat"
+            },
+            {
+              "label": "wij",
+              "ar": "نَحْنُ",
+              "antwoord": "كُنّا",
+              "tr": "kunnā"
+            }
+          ],
+          "uitleg": "Lange ā bij hij/zij; korte u bij de andere."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "kana",
+          "instructie": "Vervoeg كانَ in het meervoud.",
+          "rijen": [
+            {
+              "label": "jullie (m)",
+              "antwoord": "كُنْتُمْ",
+              "tr": "kuntum"
+            },
+            {
+              "label": "zij (m)",
+              "antwoord": "كانُوا",
+              "tr": "kānū"
+            },
+            {
+              "label": "zij (v)",
+              "antwoord": "كُنَّ",
+              "tr": "kunna"
+            }
+          ],
+          "uitleg": "{ar|كانُوا} met stille alif."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana",
+          "vraag": "'Jij (v) was' is ...",
+          "opties": [
+            "كُنْتِ",
+            "كانَتْ",
+            "كُنْتَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كُنْتِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Gezegde in de accusatief",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kana-accusatief",
+          "zin": "كانَ الجَوُّ ___.",
+          "nl": "Het weer was mooi.",
+          "woordbank": [
+            "جَميلًا",
+            "جَميلٌ",
+            "الجَميلُ"
+          ],
+          "antwoord": [
+            "جَميلًا"
+          ],
+          "uitleg": "Na {ar|كانَ}: accusatief."
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-accusatief",
+          "zin": "كانَتْ أُمّي ___.",
+          "nl": "Mijn moeder was lerares.",
+          "woordbank": [
+            "مُعَلِّمَةً",
+            "مُعَلِّمَةٌ",
+            "مُعَلِّمًا"
+          ],
+          "antwoord": [
+            "مُعَلِّمَةً"
+          ],
+          "uitleg": "Vrouwelijk + accusatief: -atan."
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-hebben",
+          "zin": "___ عِنْدي سَيّارَةٌ قَديمَةٌ.",
+          "nl": "Ik had een oude auto.",
+          "woordbank": [
+            "كانَتْ",
+            "كُنْتُ",
+            "كانَ"
+          ],
+          "antwoord": [
+            "كانَتْ"
+          ],
+          "uitleg": "{ar|كانَ} past zich aan {ar|سَيّارَةٌ} aan (vrouwelijk)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-accusatief",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "كُنّا سُعَداءَ.",
+            "كُنّا سُعَداءُ.",
+            "كانَ نَحْنُ سُعَداءَ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سُعَداءُ} (blije mensen, mv) wordt na {ar|كانَ} {ar|سُعَداءَ}."
+        },
+        {
+          "type": "ordenen",
+          "tag": "kana-hebben",
+          "nl": "Toen ik klein was, hadden we een paard.",
+          "woorden": [
+            "عِنْدَما",
+            "كُنْتُ",
+            "صَغيرًا،",
+            "كانَ",
+            "عِنْدَنا",
+            "حِصانٌ."
+          ],
+          "uitleg": "{ar|كُنْتُ صَغيرًا} + {ar|كانَ عِنْدَنا}."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana",
+          "bron": "ik was",
+          "antwoorden": [
+            "كُنْتُ"
+          ],
+          "eind": true,
+          "uitleg": "{ar|كُنْتُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana-accusatief",
+          "bron": "Hij was ziek.",
+          "antwoorden": [
+            "كانَ مَريضًا"
+          ],
+          "uitleg": "{ar|كانَ مَريضًا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana-hebben",
+          "bron": "Ik had een hond.",
+          "antwoorden": [
+            "كانَ عِنْدي كَلْبٌ"
+          ],
+          "uitleg": "{ar|كانَ عِنْدي كَلْبٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kana",
+          "bron": "كُنّا في القَرْيَةِ في الصَّيْفِ.",
+          "antwoorden": [
+            "we waren in de zomer in het dorp",
+            "wij waren in de zomer in het dorp",
+            "in de zomer waren we in het dorp"
+          ],
+          "uitleg": "{ar|كُنّا} = wij waren."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kana-hebben",
+          "bron": "ما كانَ عِنْدَهُ مالٌ.",
+          "antwoorden": [
+            "hij had geen geld"
+          ],
+          "uitleg": "{ar|ما} + {ar|كانَ}."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عِنْدَما",
+            "nl": "toen"
+          },
+          {
+            "ar": "جَوٌّ",
+            "nl": "weer"
+          },
+          {
+            "ar": "زَمانٌ",
+            "nl": "tijd"
+          },
+          {
+            "ar": "طِفْلَةٌ",
+            "nl": "meisje"
+          },
+          {
+            "ar": "في الماضي",
+            "nl": "vroeger"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana",
+        "vraag": "'Wij waren' is ...",
+        "opties": [
+          "كُنّا",
+          "كانُوا",
+          "كُنْتُمْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُنّا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-accusatief",
+        "vraag": "'Het huis was groot' is ...",
+        "opties": [
+          "كانَ البَيْتُ كَبيرًا.",
+          "كانَ البَيْتُ كَبيرٌ.",
+          "كانَ البَيْتَ كَبيرًا."
+        ],
+        "juist": 0,
+        "uitleg": "Onderwerp nominatief, gezegde accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-hebben",
+        "vraag": "'We hadden geen tijd' is ...",
+        "opties": [
+          "ما كانَ عِنْدَنا وَقْتٌ.",
+          "ما كُنّا عِنْدَنا وَقْتٌ.",
+          "لَيْسَ كانَ عِنْدَنا وَقْتٌ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما كانَ عِنْدَنا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana",
+        "tekst": "كانَتِ المُعَلِّمَةُ لَطيفَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De lerares was aardig.",
+          "De lerares is aardig.",
+          "De leraar was aardig."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَتِ} + accusatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-hebben",
+        "tekst": "كانَ عِنْدَهُمْ بَيْتٌ كَبيرٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Zij hadden een groot huis.",
+          "Wij hadden een groot huis.",
+          "Zij hebben een groot huis."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عِنْدَهُمْ} = zij hebben; met {ar|كانَ}: hadden."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-accusatief",
+        "zin": "كُنْتُ ___ جِدًّا.",
+        "nl": "Ik was heel moe.",
+        "woordbank": [
+          "مُتْعَبًا",
+          "مُتْعَبٌ",
+          "المُتْعَبُ"
+        ],
+        "antwoord": [
+          "مُتْعَبًا"
+        ],
+        "uitleg": "Accusatief."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana",
+        "zin": "هُمْ ___ في المَزْرَعَةِ.",
+        "nl": "Zij (m) waren op de boerderij.",
+        "antwoord": [
+          "كانُوا"
+        ],
+        "uitleg": "{ar|كانُوا}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "kana",
+        "instructie": "Vervoeg كانَ.",
+        "rijen": [
+          {
+            "label": "jij (v)",
+            "antwoord": "كُنْتِ",
+            "tr": "kunti",
+            "eind": true
+          },
+          {
+            "label": "zij (ev)",
+            "antwoord": "كانَتْ",
+            "tr": "kānat"
+          },
+          {
+            "label": "zij (v mv)",
+            "antwoord": "كُنَّ",
+            "tr": "kunna"
+          }
+        ],
+        "uitleg": "{ar|كُنْتِ} · {ar|كانَتْ} · {ar|كُنَّ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "kana-accusatief",
+        "nl": "Was je gisteren op school? Nee, ik was ziek.",
+        "woorden": [
+          "هَلْ",
+          "كُنْتَ",
+          "في",
+          "المَدْرَسَةِ",
+          "أَمْسِ؟",
+          "لا،",
+          "كُنْتُ",
+          "مَريضًا."
+        ],
+        "uitleg": "{ar|كُنْتُ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "kana-accusatief",
+        "bron": "Zij was blij.",
+        "antwoorden": [
+          "كانَتْ سَعيدَةً",
+          "هِيَ كانَتْ سَعيدَةً"
+        ],
+        "uitleg": "{ar|كانَتْ سَعيدَةً}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "kana",
+        "bron": "Waar was je? (tegen een man)",
+        "antwoorden": [
+          "أَيْنَ كُنْتَ؟"
+        ],
+        "eind": true,
+        "uitleg": "{ar|أَيْنَ كُنْتَ؟}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-accusatief",
+        "bron": "كانَ الجَوُّ بارِدًا.",
+        "antwoorden": [
+          "het weer was koud",
+          "het was koud"
+        ],
+        "uitleg": "{ar|كانَ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-hebben",
+        "bron": "كانَتْ عِنْدي دَرّاجَةٌ حَمْراءُ.",
+        "antwoorden": [
+          "ik had een rode fiets"
+        ],
+        "uitleg": "{ar|كانَتْ} vanwege {ar|دَرّاجَةٌ}."
+      }
+    ]
+  }
+}

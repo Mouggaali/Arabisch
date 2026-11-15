@@ -1,0 +1,455 @@
+{
+  "id": "j3-p10-h28",
+  "code": "H28",
+  "type": "herhaling",
+  "titel": "Herhaling blok 10A",
+  "thema": "Formele constructies: maṣdar, beperking, oorzaak-gevolg, intentie",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een bijzin omzetten in een maṣdar-constructie.",
+    "beperking, oorzaak-gevolg en intentie herkennen en gebruiken.",
+    "Darija-feestwensen gebruiken."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 109–112 en D22.",
+  "grammatica": [
+    {
+      "titel": "Blok 10A in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "nominale stijl",
+              "maṣdar + genitief i.p.v. أَنْ + ww",
+              "قَرَّرَتْ رَفْعَ الأُجورِ"
+            ],
+            [
+              "beperking",
+              "لا/ما … إِلّا; إِنَّما + nominatief",
+              "ما رَأَيْتُ إِلّا طَبيبًا"
+            ],
+            [
+              "oorzaak en gevolg",
+              "نَتيجَةً لِـ، مِمّا أَدّى إِلى، وَبِالتّالي",
+              "مِمّا أَدّى إِلى ذَوَبانِ الجَليدِ"
+            ],
+            [
+              "intentie, bijna",
+              "أَنْوي أَنْ، عَلى وَشْكِ، كادَ",
+              "كادَ يَنْسى"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Deze vier constructies zijn typisch voor **formele teksten**: nieuws, rapporten en betogen. Ze maken het verschil tussen *zinnen kunnen bouwen* (A2) en *zakelijke teksten begrijpen* (B1)."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "nominalisatie",
+          "vraag": "Welke zin is nominaal?",
+          "opties": [
+            "يَجِبُ حِمايَةُ البيئَةِ.",
+            "يَجِبُ أَنْ نَحْمِيَ البيئَةَ.",
+            "نَحْمي البيئَةَ."
+          ],
+          "juist": 0,
+          "uitleg": "Maṣdar {ar|حِمايَةُ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "beperking",
+          "vraag": "'Ik heb maar één boek gelezen' is ...",
+          "opties": [
+            "ما قَرَأْتُ إِلّا كِتابًا واحِدًا",
+            "قَرَأْتُ إِلّا كِتابًا",
+            "ما قَرَأْتُ كِتابًا إِنَّما"
+          ],
+          "juist": 0,
+          "uitleg": "Beperking."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-gevolg",
+          "vraag": "Welke uitdrukking geeft het gevolg?",
+          "opties": [
+            "وَبِالتّالي",
+            "بِسَبَبِ",
+            "نَتيجَةً لِـ"
+          ],
+          "juist": 0,
+          "uitleg": "Bijgevolg."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بَطالَةٌ",
+              "nl": "werkloosheid",
+              "woord": "j3-p10-l109-w03"
+            },
+            {
+              "ar": "لَقاحٌ",
+              "nl": "vaccin",
+              "woord": "j3-p10-l110-w05"
+            },
+            {
+              "ar": "تَصَحُّرٌ",
+              "nl": "woestijnvorming",
+              "woord": "j3-p10-l111-w08"
+            },
+            {
+              "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+              "nl": "studiebeurs"
+            },
+            {
+              "ar": "الخطوبة",
+              "nl": "verloving (Darija)",
+              "woord": "j3-p10-d22-w01"
+            },
+            {
+              "ar": "اِسْتِثْمارٌ",
+              "nl": "investering",
+              "woord": "j3-p10-l109-w04"
+            }
+          ],
+          "uitleg": "Woorden uit blok 10A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "beperking",
+          "zin": "لا يَدْخُلُ هُنا إِلّا ___.",
+          "nl": "Alleen het personeel mag hier naar binnen.",
+          "antwoord": [
+            "المُوَظَّفونَ"
+          ],
+          "uitleg": "Onderwerp → nominatief.",
+          "woordbank": [
+            "المُوَظَّفونَ",
+            "المُوَظَّفينَ",
+            "المُوَظَّفِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "intentie",
+          "zin": "كِدْتُ ___ القِطارَ.",
+          "nl": "Ik had bijna de trein gemist.",
+          "antwoord": [
+            "أُفَوِّتُ"
+          ],
+          "uitleg": "{ar|كادَ} + muḍāriʿ.",
+          "woordbank": [
+            "أُفَوِّتُ",
+            "فاتَني",
+            "أَنْ فاتَ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "nominalisatie",
+          "instructie": "Geef de maṣdar.",
+          "rijen": [
+            {
+              "label": "حَمى (beschermen)",
+              "antwoord": "حِماية",
+              "tr": "ḥimāya"
+            },
+            {
+              "label": "اِنْخَفَضَ (dalen)",
+              "antwoord": "اِنْخِفاض",
+              "tr": "inḫifāḍ"
+            }
+          ],
+          "uitleg": "Maṣdar."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-feest",
+          "tekst": "الله يكمل بالخير",
+          "vraag": "Wat wens je?",
+          "opties": [
+            "dat alles goed afloopt",
+            "een goede reis",
+            "beterschap"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "oorzaak-gevolg",
+          "nl": "De temperaturen stegen, wat leidde tot het smelten van het ijs.",
+          "woorden": [
+            "اِرْتَفَعَتْ",
+            "دَرَجاتُ",
+            "الحَرارَةِ،",
+            "مِمّا",
+            "أَدّى",
+            "إِلى",
+            "ذَوَبانِ",
+            "الجَليدِ."
+          ],
+          "uitleg": "{ar|مِمّا أَدّى إِلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "intentie",
+          "bron": "Ik sta op het punt af te studeren.",
+          "antwoorden": [
+            "أَنا عَلى وَشْكِ التَّخَرُّجِ",
+            "انا على وشك التخرج"
+          ],
+          "uitleg": "{ar|عَلى وَشْكِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "beperking",
+          "bron": "إِنَّما الأَعْمالُ بِالنِّيّاتِ.",
+          "antwoorden": [
+            "daden worden alleen naar de bedoelingen beoordeeld",
+            "daden worden naar de intenties beoordeeld",
+            "daden zijn alleen naar de bedoelingen"
+          ],
+          "uitleg": "{ar|إِنَّما}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "'De regering besloot de belastingen te verlagen' (nominaal) is ...",
+        "opties": [
+          "قَرَّرَتِ الحُكومَةُ خَفْضَ الضَّرائِبِ",
+          "قَرَّرَتِ الحُكومَةُ تَخْفِضُ الضَّرائِبَ",
+          "قَرَّرَتِ الحُكومَةُ مَخْفوضَ الضَّرائِبِ"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar + genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nominalisatie",
+        "vraag": "'De steun van de staat aan bedrijven' is ...",
+        "opties": [
+          "دَعْمُ الدَّوْلَةِ لِلشَّرِكاتِ",
+          "دَعْمُ الشَّرِكاتِ الدَّوْلَةَ",
+          "الدَّوْلَةُ دَعْمُ الشَّرِكاتِ"
+        ],
+        "juist": 0,
+        "uitleg": "Agens gen., voorwerp {ar|لِـ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "Na {ar|إِنَّما} staat het onderwerp in de ...",
+        "opties": [
+          "nominatief",
+          "accusatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Geen inna-werking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "{ar|نَتَجَ عَنْ} betekent ...",
+        "opties": [
+          "voortkomen uit",
+          "leiden tot",
+          "ondanks"
+        ],
+        "juist": 0,
+        "uitleg": "Oorzaak."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "Na {ar|كادَ} volgt ...",
+        "opties": [
+          "muḍāriʿ zonder أَنْ",
+          "أَنْ + māḍī",
+          "maṣdar"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كادَ يَفْعَلُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "nominalisatie",
+        "tekst": "يَهْدِفُ المَشْروعُ إِلى خَلْقِ فُرَصِ عَمَلٍ",
+        "vraag": "Wat is het doel van het project?",
+        "opties": [
+          "banen scheppen",
+          "belastingen verlagen",
+          "export verminderen"
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar."
+      },
+      {
+        "type": "luisteren",
+        "tag": "intentie",
+        "tekst": "نَنْوي أَنْ نُسافِرَ الصَّيْفَ القادِمَ",
+        "vraag": "Wat zijn ze van plan?",
+        "opties": [
+          "volgende zomer reizen",
+          "thuis blijven",
+          "verhuizen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَنْوي}"
+      },
+      {
+        "type": "invullen",
+        "tag": "beperking",
+        "zin": "لَمْ أَنَمْ إِلّا ___.",
+        "nl": "Ik heb maar twee uur geslapen.",
+        "antwoord": [
+          "ساعَتَيْنِ"
+        ],
+        "uitleg": "Accusatief dualis.",
+        "woordbank": [
+          "ساعَتَيْنِ",
+          "ساعَتانِ",
+          "ساعَةً"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-gevolg",
+        "zin": "___ لِلْأَزْمَةِ، اِرْتَفَعَتِ البَطالَةُ.",
+        "nl": "Als gevolg van de crisis steeg de werkloosheid.",
+        "antwoord": [
+          "نَتيجَةً"
+        ],
+        "uitleg": "{ar|نَتيجَةً لِـ}",
+        "woordbank": [
+          "نَتيجَةً",
+          "مِمّا",
+          "وَبِالتّالي"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "intentie",
+        "zin": "كانَتِ الطّائِرَةُ عَلى ___ الإِقْلاعِ.",
+        "nl": "Het vliegtuig stond op het punt op te stijgen.",
+        "antwoord": [
+          "وَشْكِ"
+        ],
+        "uitleg": "{ar|عَلى وَشْكِ}",
+        "woordbank": [
+          "وَشْكِ",
+          "نِيَّةِ",
+          "سَبَبِ"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَضَخُّمٌ",
+            "nl": "inflatie"
+          },
+          {
+            "ar": "وِقايَةٌ",
+            "nl": "preventie"
+          },
+          {
+            "ar": "اِنْبِعاثاتٌ",
+            "nl": "uitstoot"
+          },
+          {
+            "ar": "تَخَصُّصٌ",
+            "nl": "studierichting"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "beperking",
+        "nl": "Dit medicijn is alleen op recept.",
+        "woorden": [
+          "لا",
+          "يُصْرَفُ",
+          "الدَّواءُ",
+          "إِلّا",
+          "بِوَصْفَةٍ."
+        ],
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "oorzaak-gevolg",
+        "bron": "en dus, bijgevolg",
+        "antwoorden": [
+          "وَبِالتّالي",
+          "وبالتالي"
+        ],
+        "uitleg": "{ar|وَبِالتّالي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "nominalisatie",
+        "bron": "أَدّى اِرْتِفاعُ الأَسْعارِ إِلى اِنْخِفاضِ الاِسْتِهْلاكِ.",
+        "antwoorden": [
+          "de prijsstijging leidde tot een daling van de consumptie",
+          "de stijging van de prijzen leidde tot minder consumptie"
+        ],
+        "uitleg": "Maṣdar als onderwerp."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-feest",
+        "bron": "مبروك عليكم!",
+        "antwoorden": [
+          "gefeliciteerd",
+          "gefeliciteerd allemaal"
+        ],
+        "uitleg": "Darija.",
+        "tr": "mbrūk ʿlīkum"
+      }
+    ]
+  }
+}

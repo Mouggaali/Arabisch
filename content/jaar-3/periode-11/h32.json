@@ -1,0 +1,450 @@
+{
+  "id": "j3-p11-h32",
+  "code": "H32",
+  "type": "herhaling",
+  "titel": "Herhaling blok 11B",
+  "thema": "Nadruk, aanspreken, klassieke taal en een leestekst",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "nadruk leggen en iemand correct aanspreken.",
+    "klassieke constructies in spreekwoorden en poëzie herkennen.",
+    "een informatieve tekst zonder harakat lezen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 125–128 en D26.",
+  "grammatica": [
+    {
+      "titel": "Blok 11B in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "nadruk",
+              "لَقَدْ، إِنَّ … لَـ، نَفْس، ذات",
+              "جاءَ المُديرُ نَفْسُهُ"
+            ],
+            [
+              "vocatief",
+              "يا + nom.; iḍāfa → acc.; أَيُّها/أَيَّتُها + ال",
+              "أَيُّها الحُضورُ الكِرامُ"
+            ],
+            [
+              "klassieke constructies",
+              "مَنْ + māḍī، رُبَّ + gen., weglating",
+              "رُبَّ ضارَّةٍ نافِعَةٌ"
+            ],
+            [
+              "leestekst",
+              "لا … إِلّا، أَمّا … فَـ، كَما أَنَّ",
+              "كَما أَنَّ الفَرَنْسِيَّةَ مُنْتَشِرَةٌ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Dit blok brengt je dichter bij **echte teksten**: toespraken, poëzie, spreekwoorden en encyclopedische teksten zonder harakat. Je leest nu niet meer woord voor woord, maar herkent constructies."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "nadruk",
+          "vraag": "{ar|قَدْ يَنْجَحُ} betekent ...",
+          "opties": [
+            "misschien slaagt hij",
+            "hij is al geslaagd",
+            "hij slaagt nooit"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَدْ} + muḍāriʿ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vocatief",
+          "vraag": "'Studenten!' is ...",
+          "opties": [
+            "أَيُّها الطُّلّابُ!",
+            "يا الطُّلّابُ!",
+            "يا طُلّابٌ!"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَيُّها}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "klassiek",
+          "vraag": "{ar|مَنْ جَدَّ وَجَدَ} is een ...",
+          "opties": [
+            "spreekwoord met een voorwaarde",
+            "vraag",
+            "gebod"
+          ],
+          "juist": 0,
+          "uitleg": "Wie … die …"
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عَزيمَةٌ",
+              "nl": "vastberadenheid",
+              "woord": "j3-p11-l125-w13"
+            },
+            {
+              "ar": "خِطابٌ",
+              "nl": "toespraak",
+              "woord": "j3-p11-l126-w07"
+            },
+            {
+              "ar": "حِكْمَةٌ",
+              "nl": "wijsheid",
+              "woord": "j3-p11-l127-w01"
+            },
+            {
+              "ar": "مَضيقٌ",
+              "nl": "zeestraat",
+              "woord": "j3-p11-l128-w04"
+            },
+            {
+              "ar": "الفوطة",
+              "nl": "handdoek (Darija)",
+              "woord": "j3-p11-d26-w09"
+            },
+            {
+              "ar": "قافِيَةٌ",
+              "nl": "rijm",
+              "woord": "j3-p11-l127-w03"
+            }
+          ],
+          "uitleg": "Woorden uit blok 11B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "nadruk",
+          "zin": "قابَلْتُ الرَّئيسَ ___.",
+          "nl": "Ik ontmoette de president zelf.",
+          "antwoord": [
+            "نَفْسَهُ"
+          ],
+          "uitleg": "Accusatief.",
+          "woordbank": [
+            "نَفْسَهُ",
+            "نَفْسُهُ",
+            "نَفْسِهِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "vocatief",
+          "zin": "يا ___ المَدْرَسَةِ، شُكْرًا.",
+          "nl": "Directeur van de school, bedankt.",
+          "antwoord": [
+            "مُديرَ"
+          ],
+          "uitleg": "Iḍāfa → accusatief.",
+          "woordbank": [
+            "مُديرَ",
+            "مُديرُ",
+            "مُديرِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "klassiek",
+          "zin": "رُبَّ ___ نافِعَةٌ.",
+          "nl": "Soms is iets slechts toch goed.",
+          "antwoord": [
+            "ضارَّةٍ"
+          ],
+          "uitleg": "Genitief.",
+          "woordbank": [
+            "ضارَّةٍ",
+            "ضارَّةٌ",
+            "ضارَّةً"
+          ],
+          "streng": true
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-rollenspel",
+          "tekst": "بالصحة والراحة",
+          "vraag": "Wanneer zeg je dit?",
+          "opties": [
+            "na de hammam",
+            "bij een begrafenis",
+            "bij het afscheid op reis"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "klassiek",
+          "nl": "Wie zaait, oogst.",
+          "woorden": [
+            "مَنْ",
+            "زَرَعَ",
+            "حَصَدَ."
+          ],
+          "uitleg": "Spreekwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vocatief",
+          "bron": "Dames en heren",
+          "antwoorden": [
+            "سَيِّداتي سادَتي",
+            "سيداتي سادتي",
+            "سَيِّداتي وَسادَتي"
+          ],
+          "uitleg": "{ar|سَيِّداتي سادَتي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "nadruk",
+          "bron": "لَقَدْ تَعِبْتُ حَقًّا.",
+          "antwoorden": [
+            "ik ben echt moe",
+            "ik ben werkelijk moe geworden",
+            "ik ben echt moe geworden"
+          ],
+          "uitleg": "Nadruk."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "{ar|في نَفْسِ الوَقْتِ} betekent ...",
+        "opties": [
+          "tegelijkertijd",
+          "in de tijd zelf",
+          "op tijd"
+        ],
+        "juist": 0,
+        "uitleg": "Dezelfde."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "'Jij bent werkelijk slim' is ...",
+        "opties": [
+          "إِنَّكَ لَذَكِيٌّ",
+          "إِنَّكَ ذَكِيٌّ قَدْ",
+          "لَقَدْ ذَكِيٌّ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِنَّ … لَـ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "Welke vorm is juist?",
+        "opties": [
+          "يا عَبْدَ اللّٰهِ",
+          "يا عَبْدُ اللّٰهِ",
+          "يا عَبْدِ اللّٰهِ"
+        ],
+        "juist": 0,
+        "uitleg": "Iḍāfa → accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "Wat is een {ar|بَيْتُ شِعْرٍ}?",
+        "opties": [
+          "een versregel",
+          "een dichtersbuis",
+          "een gedichtenbundel"
+        ],
+        "juist": 0,
+        "uitleg": "Poëzie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "{ar|كَما أَنَّ} betekent ...",
+        "opties": [
+          "bovendien",
+          "zoals",
+          "hoewel"
+        ],
+        "juist": 0,
+        "uitleg": "Toevoeging."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vocatief",
+        "tekst": "أَيَّتُها السَّيِّداتُ، مَرْحَبًا بِكُنَّ",
+        "vraag": "Wie wordt verwelkomd?",
+        "opties": [
+          "de dames",
+          "de heren",
+          "de kinderen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَيَّتُها}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "klassiek",
+        "tekst": "الوَقْتُ كَالسَّيْفِ",
+        "vraag": "Waarmee wordt de tijd vergeleken?",
+        "opties": [
+          "met een zwaard",
+          "met geld",
+          "met een rivier"
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "invullen",
+        "tag": "nadruk",
+        "zin": "ما سافَرْتُ إِلى اليابانِ ___.",
+        "nl": "Ik ben nooit naar Japan gereisd.",
+        "antwoord": [
+          "قَطُّ"
+        ],
+        "uitleg": "Verleden: {ar|قَطُّ}.",
+        "woordbank": [
+          "قَطُّ",
+          "إِطْلاقًا",
+          "حَقًّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "vocatief",
+        "zin": "___ الطُّلّابُ، اِجْلِسوا.",
+        "nl": "Studenten, ga zitten.",
+        "antwoord": [
+          "أَيُّها"
+        ],
+        "uitleg": "Mannelijk + ال.",
+        "woordbank": [
+          "أَيُّها",
+          "أَيَّتُها",
+          "يا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "leesvaardigheid",
+        "zin": "تَضُمُّ الجامِعَةُ ___ وَعِشْرينَ دَوْلَةً.",
+        "nl": "De Liga telt tweeëntwintig landen.",
+        "antwoord": [
+          "اثْنَتَيْنِ"
+        ],
+        "uitleg": "Vrouwelijk, accusatief.",
+        "woordbank": [
+          "اثْنَتَيْنِ",
+          "اثْنانِ",
+          "اثْنَيْنِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ثِقَةٌ بِالنَّفْسِ",
+            "nl": "zelfvertrouwen"
+          },
+          {
+            "ar": "ضَيْفُ الشَّرَفِ",
+            "nl": "eregast"
+          },
+          {
+            "ar": "مَهْدٌ",
+            "nl": "wieg"
+          },
+          {
+            "ar": "تَنَوُّعٌ",
+            "nl": "verscheidenheid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "nadruk",
+        "nl": "De directeur kwam zelf.",
+        "woorden": [
+          "جاءَ",
+          "المُديرُ",
+          "نَفْسُهُ."
+        ],
+        "uitleg": "{ar|نَفْسُهُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "klassiek",
+        "bron": "Wie zich inspant, vindt.",
+        "antwoorden": [
+          "مَنْ جَدَّ وَجَدَ",
+          "من جد وجد"
+        ],
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "يقع المغرب في شمال غرب أفريقيا.",
+        "antwoorden": [
+          "marokko ligt in het noordwesten van afrika",
+          "marokko ligt in noordwest-afrika"
+        ],
+        "uitleg": "Zonder harakat."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-rollenspel",
+        "bron": "عطيني الفوطة",
+        "antwoorden": [
+          "geef me de handdoek",
+          "geef mij de handdoek"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ʿṭīni lfūṭa"
+      }
+    ]
+  }
+}

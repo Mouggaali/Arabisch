@@ -1,0 +1,171 @@
+{
+  "id": "j1-p3-l27",
+  "code": "L27",
+  "type": "les",
+  "titel": "Op school",
+  "thema": "Wat er op school gebeurt; de verbale zin",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een verbale zin maken: werkwoord – onderwerp – lijdend voorwerp.",
+    "uitleggen waarom het werkwoord vóór een meervoudig onderwerp in het enkelvoud blijft.",
+    "het werkwoord in geslacht laten overeenkomen met het onderwerp (ذَهَبَ / ذَهَبَتْ).",
+    "kiezen tussen een nominale en een verbale zin."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l27-w01", "ar": "مُديرُ المَدْرَسَةِ", "tr": "mudīru l-madrasa", "nl": ["schooldirecteur"], "soort": "iḍāfa" },
+    { "id": "j1-p3-l27-w02", "ar": "تِلْميذٌ", "tr": "tilmīḏ", "nl": ["leerling (basisschool)"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|تَلاميذُ}." },
+    { "id": "j1-p3-l27-w03", "ar": "حِصَّةٌ", "tr": "ḥiṣṣa", "nl": ["lesuur"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w04", "ar": "اِسْتِراحَةٌ", "tr": "istirāḥa", "nl": ["pauze"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w05", "ar": "مَلْعَبٌ", "tr": "malʿab", "nl": ["speelplaats", "sportveld"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w06", "ar": "مَكْتَبَةٌ", "tr": "maktaba", "nl": ["bibliotheek", "boekwinkel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w07", "ar": "رِياضِيّاتٌ", "tr": "riyāḍiyyāt", "nl": ["wiskunde"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w08", "ar": "تاريخٌ", "tr": "tārīḫ", "nl": ["geschiedenis", "datum"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w09", "ar": "عُلومٌ", "tr": "ʿulūm", "nl": ["natuurwetenschappen"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w10", "ar": "جُغْرافِيا", "tr": "juġrāfiyā", "nl": ["aardrijkskunde"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w11", "ar": "دَرَجَةٌ", "tr": "daraja", "nl": ["cijfer (beoordeling)", "graad"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l27-w12", "ar": "نَجَحَ", "tr": "najaḥa", "nl": ["slagen (hij slaagde)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَنْجَحُ}. {ar|نَجَحَ في الاِمْتِحانِ} = slagen voor het examen." },
+    { "id": "j1-p3-l27-w13", "ar": "رَسَبَ", "tr": "rasaba", "nl": ["zakken (hij zakte)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَرْسُبُ}." },
+    { "id": "j1-p3-l27-w14", "ar": "سَأَلَ", "tr": "saʾala", "nl": ["vragen (hij vroeg)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَسْأَلُ}." },
+    { "id": "j1-p3-l27-w15", "ar": "شَرَحَ", "tr": "šaraḥa", "nl": ["uitleggen (hij legde uit)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَشْرَحُ}." },
+    { "id": "j1-p3-l27-w16", "ar": "قَرَأَ", "tr": "qaraʾa", "nl": ["lezen (hij las)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَقْرَأُ}. Ik las: {ar|قَرَأْتُ}." },
+    { "id": "j1-p3-l27-w17", "ar": "بَدَأَ", "tr": "badaʾa", "nl": ["beginnen (het begon)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَبْدَأُ}." },
+    { "id": "j1-p3-l27-w18", "ar": "سَهْلٌ", "tr": "sahl", "nl": ["makkelijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l27-w19", "ar": "صَعْبٌ", "tr": "ṣaʿb", "nl": ["moeilijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l27-w20", "ar": "مُهِمٌّ", "tr": "muhimm", "nl": ["belangrijk"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l27-w21", "ar": "تَلاميذُ", "tr": "talāmīḏ", "nl": ["leerlingen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Geen tanwīn (diptoot)." },
+    { "id": "j1-p3-l27-w22", "ar": "مُعَلِّماتٌ", "tr": "muʿallimāt", "nl": ["leraressen"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l27-w23", "ar": "واجِباتٌ", "tr": "wājibāt", "nl": ["huiswerk (opdrachten)"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l27-w24", "ar": "جَرَسٌ", "tr": "jaras", "nl": ["bel"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De verbale zin: werkwoord eerst",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Naast de nominale zin (les 4) kent het Arabisch de **verbale zin** ({ar|جُمْلَةٌ فِعْلِيَّةٌ}): die begint met het **werkwoord**, dan komt het **onderwerp** ({ar|الفاعِلُ}, nominatief) en eventueel het **lijdend voorwerp** ({ar|المَفْعولُ بِهِ}, accusatief).",
+          "{ar|شَرَحَ المُعَلِّمُ الدَّرْسَ} = *de leraar legde de les uit* (letterlijk: legde-uit de-leraar de-les). In verhalen, nieuws en formele teksten is dit de gewone volgorde."
+        ] },
+        { "type": "tabel", "kop": ["Werkwoord", "Onderwerp (-u)", "Lijdend voorwerp (-a)", "Nederlands"], "arKolommen": [0, 1, 2], "rijen": [
+          ["شَرَحَ|šaraḥa", "المُعَلِّمُ|al-muʿallimu", "الدَّرْسَ|ad-darsa", "De leraar legde de les uit."],
+          ["قَرَأَتْ|qaraʾat", "الطّالِبَةُ|aṭ-ṭālibatu", "القِصَّةَ|al-qiṣṣata", "De studente las het verhaal."],
+          ["بَدَأَتِ|badaʾati", "الحِصَّةُ|al-ḥiṣṣatu", "—", "Het lesuur begon."],
+          ["يَسْأَلُ|yasʾalu", "المُديرُ|al-mudīru", "سُؤالًا|suʾālan", "De directeur stelt een vraag."]
+        ] },
+        { "type": "letop", "md": "In {ar|بَدَأَتِ الحِصَّةُ} krijgt de ـَتْ van het werkwoord een hulpklinker i, omdat er een ال op volgt: *badaʾati l-ḥiṣṣa*." }
+      ]
+    },
+    {
+      "titel": "Enkelvoud vóór een meervoudig onderwerp",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Staat het werkwoord **vóór** een meervoudig onderwerp, dan blijft het **enkelvoud**. Alleen het geslacht past zich aan: {ar|ذَهَبَ الطُّلّابُ} (*de studenten gingen*), {ar|ذَهَبَتِ الطّالِباتُ} (*de studentes gingen*).",
+          "Staat het onderwerp **vóór** het werkwoord (een nominale zin met een werkwoord als gezegde), dan congrueert het werkwoord volledig: {ar|الطُّلّابُ ذَهَبُوا}, {ar|الطّالِباتُ ذَهَبْنَ}."
+        ] },
+        { "type": "tabel", "kop": ["Verbale zin", "Nominale zin", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["نَجَحَ الطُّلّابُ|najaḥa ṭ-ṭullāb", "الطُّلّابُ نَجَحُوا|aṭ-ṭullābu najaḥū", "De studenten slaagden."],
+          ["دَخَلَتِ المُعَلِّماتُ|daḫalati l-muʿallimāt", "المُعَلِّماتُ دَخَلْنَ|al-muʿallimātu daḫalna", "De leraressen kwamen binnen."],
+          ["يَلْعَبُ التَّلاميذُ|yalʿabu t-talāmīḏ", "التَّلاميذُ يَلْعَبونَ|at-talāmīḏu yalʿabūn", "De leerlingen spelen."]
+        ] },
+        { "type": "waarom", "md": "Als het werkwoord vooraan staat, is nog niet bekend wie het onderwerp is. Het werkwoord geeft alleen een eerste aanwijzing (mannelijk of vrouwelijk), en het onderwerp dat volgt vertelt de rest, ook het aantal. Staat het onderwerp al vooraan, dan verwijst het werkwoord daarna terug en neemt het alle kenmerken over, net als een voornaamwoord." }
+      ]
+    },
+    {
+      "titel": "Nominaal of verbaal?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Beide volgordes zijn correct. Een **nominale** zin legt de nadruk op het onderwerp (*wat de studenten betreft: die slaagden*); een **verbale** zin op de handeling. In vertellingen en nieuwsberichten domineert de verbale zin."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "رَنَّ الجَرَسُ وَخَرَجَ التَّلاميذُ إِلى المَلْعَبِ.", "tr": "ranna l-jarasu wa-ḫaraja t-talāmīḏu ila l-malʿab.", "nl": "De bel ging en de leerlingen gingen naar de speelplaats.",
+            "review": { "status": "onzeker", "note": "رَنَّ (rinkelen, verdubbeld werkwoord) is nieuw en niet in de woordenlijst; controleer of het hier natuurlijk en begrijpelijk is." } },
+          { "ar": "سَأَلَ الطّالِبُ سُؤالًا صَعْبًا.", "tr": "saʾala ṭ-ṭālibu suʾālan ṣaʿbā.", "nl": "De student stelde een moeilijke vraag." },
+          { "ar": "نَجَحَتْ أُخْتي في الاِمْتِحانِ.", "tr": "najaḥat uḫtī fi l-imtiḥān.", "nl": "Mijn zus slaagde voor het examen." },
+          { "ar": "قَرَأَ التَّلاميذُ الكُتُبَ في المَكْتَبَةِ.", "tr": "qaraʾa t-talāmīḏu l-kutuba fi l-maktaba.", "nl": "De leerlingen lazen de boeken in de bibliotheek." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "School",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "رِياضِيّاتٌ", "nl": "wiskunde", "woord": "j1-p3-l27-w07" },
+          { "ar": "تاريخٌ", "nl": "geschiedenis", "woord": "j1-p3-l27-w08" },
+          { "ar": "اِسْتِراحَةٌ", "nl": "pauze", "woord": "j1-p3-l27-w04" },
+          { "ar": "مَكْتَبَةٌ", "nl": "bibliotheek", "woord": "j1-p3-l27-w06" },
+          { "ar": "صَعْبٌ", "nl": "moeilijk", "woord": "j1-p3-l27-w19" },
+          { "ar": "سَهْلٌ", "nl": "makkelijk", "woord": "j1-p3-l27-w18" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "verbale-zin", "tekst": "شَرَحَ المُعَلِّمُ الدَّرْسَ", "vraag": "Wat hoor je?", "opties": ["De leraar legde de les uit.", "De les legde de leraar uit.", "De leraar legt de les uit."], "juist": 0, "uitleg": "Werkwoord, onderwerp (-u), lijdend voorwerp (-a)." },
+        { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "Wat is het onderwerp in {ar|قَرَأَتِ البِنْتُ القِصَّةَ}?", "opties": ["البِنْتُ", "القِصَّةَ", "قَرَأَتِ"], "juist": 0, "uitleg": "Het onderwerp staat in de nominatief (-u)." }
+      ]
+    },
+    {
+      "titel": "Congruentie in de verbale zin",
+      "items": [
+        { "type": "invullen", "tag": "verbale-zin", "zin": "___ الطُّلّابُ في الاِمْتِحانِ.", "nl": "De studenten slaagden voor het examen.", "woordbank": ["نَجَحَ", "نَجَحُوا", "نَجَحَتْ"], "antwoord": ["نَجَحَ"], "uitleg": "Werkwoord vóór een meervoudig onderwerp: enkelvoud." },
+        { "type": "invullen", "tag": "verbale-zin", "zin": "___ المُعَلِّماتُ إِلى الصَّفِّ.", "nl": "De leraressen gingen naar de klas.", "woordbank": ["ذَهَبَتِ", "ذَهَبَ", "ذَهَبْنَ"], "antwoord": ["ذَهَبَتِ"], "uitleg": "Enkelvoud, maar vrouwelijk." },
+        { "type": "invullen", "tag": "verbale-zin", "zin": "الطُّلّابُ ___ إِلى البَيْتِ.", "nl": "De studenten gingen naar huis.", "woordbank": ["رَجَعُوا", "رَجَعَ", "رَجَعَتْ"], "antwoord": ["رَجَعُوا"], "uitleg": "Onderwerp vooraan → volledige congruentie." },
+        { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "Welke zin is juist?", "opties": ["يَلْعَبُ الأَطْفالُ في المَلْعَبِ.", "يَلْعَبونَ الأَطْفالُ في المَلْعَبِ.", "الأَطْفالُ يَلْعَبُ في المَلْعَبِ."], "juist": 0, "uitleg": "Werkwoord eerst: enkelvoud." },
+        { "type": "vervoegen", "tag": "verbale-zin", "instructie": "Maak een verbale zin: welk werkwoord komt er vooraan? (verleden tijd)",
+          "rijen": [
+            { "label": "... الطّالِبُ (de student kwam binnen)", "antwoord": "دَخَلَ", "tr": "daḫala" },
+            { "label": "... الطّالِبَةُ (de studente kwam binnen)", "antwoord": "دَخَلَتِ", "tr": "daḫalati" },
+            { "label": "... الطُّلّابُ (de studenten kwamen binnen)", "antwoord": "دَخَلَ", "tr": "daḫala" }
+          ], "uitleg": "Alleen het geslacht telt." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "verbale-zin", "nl": "De student stelde een moeilijke vraag.", "woorden": ["سَأَلَ", "الطّالِبُ", "سُؤالًا", "صَعْبًا."], "uitleg": "Werkwoord – onderwerp – lijdend voorwerp." },
+        { "type": "ordenen", "tag": "verbale-zin", "nl": "Mijn zus slaagde voor het examen.", "woorden": ["نَجَحَتْ", "أُخْتي", "في", "الاِمْتِحانِ."], "uitleg": "Vrouwelijk onderwerp: ـَتْ." },
+        { "type": "luisteren", "tag": "verbale-zin", "tekst": "بَدَأَتِ الاِسْتِراحَةُ", "vraag": "Wat hoor je?", "opties": ["De pauze begon.", "De les begon.", "De pauze is voorbij."], "juist": 0, "uitleg": "{ar|بَدَأَتِ} = begon (v)." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "verbale-zin", "bron": "De leraar legde de les uit.", "antwoorden": ["شَرَحَ المُعَلِّمُ الدَّرْسَ", "المُعَلِّمُ شَرَحَ الدَّرْسَ"], "uitleg": "{ar|شَرَحَ المُعَلِّمُ الدَّرْسَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "verbale-zin", "bron": "De studenten gingen.", "antwoorden": ["ذَهَبَ الطُّلّابُ", "الطُّلّابُ ذَهَبُوا"], "uitleg": "{ar|ذَهَبَ الطُّلّابُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "رَسَبَ الطّالِبُ في الرِّياضِيّاتِ.", "antwoorden": ["de student zakte voor wiskunde", "de student is gezakt voor wiskunde"], "uitleg": "{ar|رَسَبَ في} = zakken voor." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "قَرَأَتِ الطّالِباتُ الكِتابَ.", "antwoorden": ["de studentes lazen het boek", "de leerlingen lazen het boek"], "uitleg": "Enkelvoudig vrouwelijk werkwoord vóór een meervoud." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "الدَّرْسُ مُهِمٌّ.", "antwoorden": ["de les is belangrijk"], "uitleg": "Nominale zin." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "حِصَّةٌ", "nl": "lesuur" },
+        { "ar": "مَلْعَبٌ", "nl": "speelplaats" },
+        { "ar": "دَرَجَةٌ", "nl": "cijfer" },
+        { "ar": "جَرَسٌ", "nl": "bel" },
+        { "ar": "مُهِمٌّ", "nl": "belangrijk" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "In welke naamval staat het onderwerp van een verbale zin?", "opties": ["nominatief (-u)", "accusatief (-a)", "genitief (-i)"], "juist": 0, "uitleg": "{ar|الفاعِلُ} staat in de nominatief." },
+      { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "'De leerlingen lazen' (werkwoord eerst) is ...", "opties": ["قَرَأَ التَّلاميذُ", "قَرَؤوا التَّلاميذُ", "قَرَأَتْ التَّلاميذُ"], "juist": 0, "uitleg": "Enkelvoud, mannelijk." },
+      { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "Welke zin is juist?", "opties": ["المُعَلِّماتُ شَرَحْنَ الدَّرْسَ.", "المُعَلِّماتُ شَرَحَتْ الدَّرْسَ.", "المُعَلِّماتُ شَرَحَ الدَّرْسَ."], "juist": 0, "uitleg": "Onderwerp vooraan: volledige congruentie." },
+      { "type": "luisteren", "tag": "verbale-zin", "tekst": "نَجَحَ أَخي في الاِمْتِحانِ", "vraag": "Wat hoor je?", "opties": ["Mijn broer slaagde voor het examen.", "Mijn broer zakte.", "Mijn zus slaagde."], "juist": 0, "uitleg": "{ar|نَجَحَ} = slaagde." },
+      { "type": "luisteren", "tag": "verbale-zin", "tekst": "خَرَجَتِ البَناتُ إِلى المَلْعَبِ", "vraag": "Wat hoor je?", "opties": ["De meisjes gingen naar de speelplaats.", "Het meisje ging naar huis.", "De jongens gingen naar de speelplaats."], "juist": 0, "uitleg": "Vrouwelijk enkelvoud vóór een vrouwelijk meervoud." },
+      { "type": "invullen", "tag": "verbale-zin", "zin": "___ المُديرُ الطُّلّابَ.", "nl": "De directeur bedankte de studenten.", "woordbank": ["شَكَرَ", "شَكَرُوا", "شَكَرَتْ"], "antwoord": ["شَكَرَ"], "uitleg": "Mannelijk enkelvoud." },
+      { "type": "invullen", "tag": "verbale-zin", "zin": "قَرَأَتِ الطّالِبَةُ ___.", "nl": "De studente las het verhaal.", "woordbank": ["القِصَّةَ", "القِصَّةُ", "القِصَّةِ"], "antwoord": ["القِصَّةَ"], "uitleg": "Lijdend voorwerp: accusatief." },
+      { "type": "vervoegen", "tag": "verbale-zin", "instructie": "Welk werkwoord (verleden tijd) komt vóór het onderwerp?",
+        "rijen": [
+          { "label": "... التَّلاميذُ (de leerlingen speelden)", "antwoord": "لَعِبَ", "tr": "laʿiba" },
+          { "label": "... المُعَلِّمَةُ (de lerares legde uit)", "antwoord": "شَرَحَتِ", "tr": "šaraḥati" }
+        ], "uitleg": "Enkelvoud; geslacht volgt het onderwerp." },
+      { "type": "ordenen", "tag": "verbale-zin", "nl": "De leerlingen lazen de boeken in de bibliotheek.", "woorden": ["قَرَأَ", "التَّلاميذُ", "الكُتُبَ", "في", "المَكْتَبَةِ."], "uitleg": "Verbale zin." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "verbale-zin", "bron": "Het lesuur begon.", "antwoorden": ["بَدَأَتِ الحِصَّةُ", "بَدَأَتْ الحِصَّةُ", "الحِصَّةُ بَدَأَتْ"], "uitleg": "{ar|بَدَأَتِ الحِصَّةُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "verbale-zin", "bron": "De studentes slaagden.", "antwoorden": ["نَجَحَتِ الطّالِباتُ", "نَجَحَتْ الطّالِباتُ", "الطّالِباتُ نَجَحْنَ"], "uitleg": "{ar|نَجَحَتِ الطّالِباتُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "سَأَلَ الأُسْتاذُ سُؤالًا سَهْلًا.", "antwoorden": ["de docent stelde een makkelijke vraag", "de leraar stelde een makkelijke vraag"], "uitleg": "Verbale zin met lijdend voorwerp." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "verbale-zin", "bron": "دَخَلَ الطُّلّابُ الصَّفَّ.", "antwoorden": ["de studenten kwamen de klas binnen", "de studenten gingen de klas binnen", "de leerlingen gingen de klas in"], "uitleg": "Enkelvoud vóór meervoud." }
+    ]
+  }
+}

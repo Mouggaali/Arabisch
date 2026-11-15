@@ -1,0 +1,640 @@
+{
+  "id": "j2-p7-l82",
+  "code": "L82",
+  "type": "les",
+  "titel": "Sport en gezondheid",
+  "thema": "Gezond leven; moeten, kunnen en zouden moeten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "moeten, kunnen en zouden moeten uitdrukken (يَجِبُ، يُمْكِنُ، يَنْبَغي + أَنْ).",
+    "een verbod formuleren met يَجِبُ أَلّا.",
+    "adviezen geven over sport en gezondheid."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l82-w01",
+      "ar": "يَجِبُ أَنْ",
+      "tr": "yajibu an",
+      "nl": [
+        "moeten"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|يَجِبُ عَلَيْكَ أَنْ …} = jij moet …"
+    },
+    {
+      "id": "j2-p7-l82-w02",
+      "ar": "يُمْكِنُ أَنْ",
+      "tr": "yumkinu an",
+      "nl": [
+        "kunnen, mogelijk zijn"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|يُمْكِنُني أَنْ} = ik kan."
+    },
+    {
+      "id": "j2-p7-l82-w03",
+      "ar": "يَنْبَغي أَنْ",
+      "tr": "yanbaġī an",
+      "nl": [
+        "zou moeten"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w04",
+      "ar": "مِنَ الضَّرورِيِّ أَنْ",
+      "tr": "mina ḍ-ḍarūriyyi an",
+      "nl": [
+        "het is noodzakelijk dat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w05",
+      "ar": "لا بُدَّ أَنْ",
+      "tr": "lā budda an",
+      "nl": [
+        "het moet beslist"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w06",
+      "ar": "لِياقَةٌ بَدَنِيَّةٌ",
+      "tr": "liyāqatun badaniyya",
+      "nl": [
+        "conditie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w07",
+      "ar": "تَمارينُ",
+      "tr": "tamārīn",
+      "nl": [
+        "oefeningen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|تَمْرينٌ}."
+    },
+    {
+      "id": "j2-p7-l82-w08",
+      "ar": "نادٍ رِياضِيٌّ",
+      "tr": "nādin riyāḍiyy",
+      "nl": [
+        "sportschool, sportclub"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Met lidwoord: {ar|النّادي}."
+    },
+    {
+      "id": "j2-p7-l82-w09",
+      "ar": "رَكْضٌ",
+      "tr": "rakḍ",
+      "nl": [
+        "hardlopen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l82-w10",
+      "ar": "غِذاءٌ صِحِّيٌّ",
+      "tr": "ġiḏāʾun ṣiḥḥiyy",
+      "nl": [
+        "gezonde voeding"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w11",
+      "ar": "وَزْنٌ زائِدٌ",
+      "tr": "waznun zāʾid",
+      "nl": [
+        "overgewicht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w12",
+      "ar": "نَوْمٌ كافٍ",
+      "tr": "nawmun kāfin",
+      "nl": [
+        "voldoende slaap"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l82-w13",
+      "ar": "سُكَّرِيٌّ",
+      "tr": "sukkariyy",
+      "nl": [
+        "suikerziekte, diabetes"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l82-w14",
+      "ar": "عَضَلَةٌ",
+      "tr": "ʿaḍala",
+      "nl": [
+        "spier"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|عَضَلاتٌ}."
+    },
+    {
+      "id": "j2-p7-l82-w15",
+      "ar": "تَجَنَّبَ",
+      "tr": "tajannaba",
+      "nl": [
+        "vermijden"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p7-l82-w16",
+      "ar": "مُفيدٌ لِلصِّحَّةِ",
+      "tr": "mufīdun li-ṣ-ṣiḥḥa",
+      "nl": [
+        "goed voor de gezondheid"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Moeten, kunnen, zouden moeten",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Deze uitdrukkingen zijn onpersoonlijk (*het is nodig dat*) en worden gevolgd door {ar|أَنْ} + **muḍāriʿ (manṣūb)**. De persoon zit in het tweede werkwoord, of in {ar|عَلى} / een suffix."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Uitdrukking",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "يَجِبُ (عَلَيْكَ) أَنْ",
+              "moeten",
+              "يَجِبُ أَنْ تَنامَ أَكْثَرَ.|yajibu an tanāma akṯar."
+            ],
+            [
+              "يُمْكِنُ (ني) أَنْ",
+              "kunnen, mogen",
+              "يُمْكِنُني أَنْ أَرْكُضَ ساعَةً.|yumkinunī an arkuḍa sāʿa."
+            ],
+            [
+              "يَنْبَغي أَنْ",
+              "zou moeten",
+              "يَنْبَغي أَنْ نَأْكُلَ خُضَرًا.|yanbaġī an naʾkula ḫuḍaran."
+            ],
+            [
+              "مِنَ الضَّرورِيِّ أَنْ",
+              "het is noodzakelijk",
+              "مِنَ الضَّرورِيِّ أَنْ تَشْرَبَ ماءً.|…"
+            ],
+            [
+              "لا بُدَّ أَنْ",
+              "het moet beslist",
+              "لا بُدَّ أَنْ أَتَحَرَّكَ.|lā budda an ataḥarraka."
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zo onpersoonlijk? Arabisch heeft geen hulpwerkwoorden als *moeten* en *kunnen* die je vervoegt. Je zegt letterlijk *het is nodig dat jij slaapt*. Daarom altijd {ar|أَنْ} + een vervoegd werkwoord."
+        },
+        {
+          "type": "letop",
+          "md": "Ontkennen: {ar|لا يَجِبُ أَنْ} = het hoeft niet / het mag niet (context!), {ar|لا يُمْكِنُ أَنْ} = het kan niet. Wil je duidelijk *mag niet* zeggen: {ar|يَجِبُ أَلّا} (= أَنْ + لا)."
+        }
+      ]
+    },
+    {
+      "titel": "Gezond leven",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَجِبُ عَلَيْكَ أَنْ تَتَجَنَّبَ السُّكَّرَ.",
+              "tr": "yajibu ʿalayka an tatajannaba s-sukkar.",
+              "nl": "Je moet suiker vermijden."
+            },
+            {
+              "ar": "يُمْكِنُكَ أَنْ تَرْكُضَ في الحَديقَةِ.",
+              "tr": "yumkinuka an tarkuḍa fi l-ḥadīqa.",
+              "nl": "Je kunt in het park hardlopen."
+            },
+            {
+              "ar": "يَنْبَغي أَنْ نَنامَ ثَمانِيَ ساعاتٍ.",
+              "tr": "yanbaġī an nanāma ṯamāniya sāʿāt.",
+              "nl": "We zouden acht uur moeten slapen."
+            },
+            {
+              "ar": "الرِّياضَةُ مُفيدَةٌ لِلصِّحَّةِ.",
+              "tr": "ar-riyāḍatu mufīdatun li-ṣ-ṣiḥḥa.",
+              "nl": "Sport is goed voor de gezondheid."
+            },
+            {
+              "ar": "يَجِبُ أَلّا تَأْكُلَ كَثيرًا في اللَّيْلِ.",
+              "tr": "yajibu allā taʾkula kaṯīran fi l-layl.",
+              "nl": "Je moet 's avonds niet veel eten."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "لِياقَةٌ بَدَنِيَّةٌ",
+              "nl": "conditie",
+              "woord": "j2-p7-l82-w06"
+            },
+            {
+              "ar": "تَمارينُ",
+              "nl": "oefeningen",
+              "woord": "j2-p7-l82-w07"
+            },
+            {
+              "ar": "رَكْضٌ",
+              "nl": "hardlopen",
+              "woord": "j2-p7-l82-w09"
+            },
+            {
+              "ar": "عَضَلَةٌ",
+              "nl": "spier",
+              "woord": "j2-p7-l82-w14"
+            },
+            {
+              "ar": "تَجَنَّبَ",
+              "nl": "vermijden",
+              "woord": "j2-p7-l82-w15"
+            },
+            {
+              "ar": "وَزْنٌ زائِدٌ",
+              "nl": "overgewicht",
+              "woord": "j2-p7-l82-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "modaliteit",
+          "tekst": "يَجِبُ أَنْ تَشْرَبَ ماءً كَثيرًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Je moet veel water drinken.",
+            "Je kunt water drinken.",
+            "Je drinkt veel water."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يَجِبُ أَنْ} = moeten."
+        }
+      ]
+    },
+    {
+      "titel": "Modaliteit",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "modaliteit",
+          "zin": "___ أَنْ تَنامَ مُبَكِّرًا.",
+          "nl": "Je zou vroeg moeten gaan slapen.",
+          "antwoord": [
+            "يَنْبَغي"
+          ],
+          "uitleg": "{ar|يَنْبَغي} = zou moeten.",
+          "woordbank": [
+            "يَنْبَغي",
+            "يُمْكِنُ",
+            "لَنْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "modaliteit",
+          "zin": "يُمْكِنُني أَنْ ___ عَشَرَةَ كيلومِتْراتٍ.",
+          "nl": "Ik kan tien kilometer hardlopen.",
+          "antwoord": [
+            "أَرْكُضَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: manṣūb.",
+          "woordbank": [
+            "أَرْكُضَ",
+            "أَرْكُضُ",
+            "رَكَضْتُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "modaliteit",
+          "vraag": "'Ik moet werken' is ...",
+          "opties": [
+            "يَجِبُ أَنْ أَعْمَلَ",
+            "أَجِبُ أَعْمَلُ",
+            "يَجِبُ أَعْمَلُ"
+          ],
+          "juist": 0,
+          "uitleg": "Onpersoonlijk + أَنْ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "modaliteit",
+          "vraag": "Wat betekent {ar|لا يُمْكِنُ أَنْ}?",
+          "opties": [
+            "het kan niet",
+            "het moet",
+            "het mag"
+          ],
+          "juist": 0,
+          "uitleg": "Ontkenning van kunnen."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "modaliteit",
+          "instructie": "Maak 'jij moet …' (يَجِبُ عَلَيْكَ أَنْ + manṣūb).",
+          "rijen": [
+            {
+              "label": "slapen (نامَ)",
+              "antwoord": "تَنامَ",
+              "tr": "tanāma",
+              "eind": true
+            },
+            {
+              "label": "lopen (مَشى)",
+              "antwoord": "تَمْشِيَ",
+              "tr": "tamšiya",
+              "eind": true
+            }
+          ],
+          "uitleg": "Manṣūb na أَنْ.",
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Gezond leven",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "modaliteit",
+          "nl": "Je moet suiker vermijden.",
+          "woorden": [
+            "يَجِبُ",
+            "عَلَيْكَ",
+            "أَنْ",
+            "تَتَجَنَّبَ",
+            "السُّكَّرَ."
+          ],
+          "uitleg": "{ar|يَجِبُ عَلَيْكَ أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "modaliteit",
+          "bron": "Ik kan zwemmen.",
+          "antwoorden": [
+            "يُمْكِنُني أَنْ أَسْبَحَ",
+            "أَسْتَطيعُ أَنْ أَسْبَحَ"
+          ],
+          "uitleg": "{ar|يُمْكِنُني أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "الرِّياضَةُ مُفيدَةٌ لِلصِّحَّةِ.",
+          "antwoorden": [
+            "sport is goed voor de gezondheid",
+            "sport is gezond"
+          ],
+          "uitleg": "{ar|مُفيدٌ لِلصِّحَّةِ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "نادٍ رِياضِيٌّ",
+            "nl": "sportschool"
+          },
+          {
+            "ar": "غِذاءٌ صِحِّيٌّ",
+            "nl": "gezonde voeding"
+          },
+          {
+            "ar": "نَوْمٌ كافٍ",
+            "nl": "voldoende slaap"
+          },
+          {
+            "ar": "سُكَّرِيٌّ",
+            "nl": "diabetes"
+          },
+          {
+            "ar": "لا بُدَّ أَنْ",
+            "nl": "het moet beslist"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "Wat volgt op {ar|يَجِبُ}?",
+        "opties": [
+          "أَنْ + manṣūb",
+          "een māḍī",
+          "een gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَجِبُ أَنْ تَفْعَلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "'We zouden meer moeten bewegen' is ...",
+        "opties": [
+          "يَنْبَغي أَنْ نَتَحَرَّكَ أَكْثَرَ",
+          "يَنْبَغي نَتَحَرَّكُ أَكْثَرَ",
+          "نَنْبَغي أَنْ نَتَحَرَّكَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَنْبَغي أَنْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "'Je mag niet roken' (duidelijk verbod) is ...",
+        "opties": [
+          "يَجِبُ أَلّا تُدَخِّنَ",
+          "يَجِبُ أَنْ تُدَخِّنَ",
+          "يُمْكِنُ أَنْ تُدَخِّنَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلّا} = أَنْ + لا."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "{ar|يُمْكِنُكِ} betekent ...",
+        "opties": [
+          "jij (v) kunt",
+          "ik kan",
+          "wij kunnen"
+        ],
+        "juist": 0,
+        "uitleg": "Suffix ـكِ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "modaliteit",
+        "tekst": "مِنَ الضَّرورِيِّ أَنْ تَنامَ جَيِّدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het is noodzakelijk dat je goed slaapt.",
+          "Je slaapt goed.",
+          "Je hoeft niet te slapen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنَ الضَّرورِيِّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أَذْهَبُ إِلى النّادي ثَلاثَ مَرّاتٍ في الأُسْبوعِ",
+        "vraag": "Hoe vaak gaat de spreker naar de sportschool?",
+        "opties": [
+          "drie keer per week",
+          "elke dag",
+          "één keer per maand"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ثَلاثَ مَرّاتٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "modaliteit",
+        "zin": "لا بُدَّ أَنْ ___ الطَّبيبَ.",
+        "nl": "Je moet beslist de dokter bezoeken.",
+        "antwoord": [
+          "تَزورَ"
+        ],
+        "uitleg": "Na {ar|أَنْ}: manṣūb.",
+        "woordbank": [
+          "تَزورَ",
+          "تَزورُ",
+          "زُرْتَ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "modaliteit",
+        "zin": "___ أَنْ أُساعِدَكَ؟",
+        "nl": "Kan ik je helpen?",
+        "antwoord": [
+          "هَلْ يُمْكِنُ"
+        ],
+        "uitleg": "{ar|يُمْكِنُ أَنْ}",
+        "woordbank": [
+          "هَلْ يُمْكِنُ",
+          "هَلْ يَجِبُ",
+          "هَلْ لَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "التَّمارينُ تُقَوّي ___.",
+        "nl": "De oefeningen versterken de spieren.",
+        "antwoord": [
+          "العَضَلاتِ"
+        ],
+        "uitleg": "{ar|عَضَلاتٌ}",
+        "woordbank": [
+          "العَضَلاتِ",
+          "السُّكَّرَ",
+          "النّادِيَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "modaliteit",
+        "instructie": "Kies de uitdrukking.",
+        "rijen": [
+          {
+            "label": "moeten",
+            "antwoord": "يَجِبُ",
+            "tr": "yajibu"
+          },
+          {
+            "label": "kunnen",
+            "antwoord": "يُمْكِنُ",
+            "tr": "yumkinu"
+          }
+        ],
+        "uitleg": "Onpersoonlijk."
+      },
+      {
+        "type": "ordenen",
+        "tag": "modaliteit",
+        "nl": "We zouden acht uur moeten slapen.",
+        "woorden": [
+          "يَنْبَغي",
+          "أَنْ",
+          "نَنامَ",
+          "ثَمانِيَ",
+          "ساعاتٍ."
+        ],
+        "uitleg": "{ar|يَنْبَغي أَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "modaliteit",
+        "bron": "Je moet sporten. (m)",
+        "antwoorden": [
+          "يَجِبُ أَنْ تُمارِسَ الرِّياضَةَ",
+          "يَجِبُ عَلَيْكَ أَنْ تُمارِسَ الرِّياضَةَ"
+        ],
+        "uitleg": "{ar|مارَسَ} = beoefenen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "modaliteit",
+        "bron": "لا يُمْكِنُني أَنْ أَرْكُضَ اليَوْمَ.",
+        "antwoorden": [
+          "ik kan vandaag niet hardlopen",
+          "ik kan vandaag niet rennen"
+        ],
+        "uitleg": "{ar|لا يُمْكِنُ}"
+      }
+    ]
+  }
+}

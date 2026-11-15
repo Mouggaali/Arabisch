@@ -1,0 +1,747 @@
+{
+  "id": "j2-p5-l49",
+  "code": "L49",
+  "type": "les",
+  "titel": "Boeken en bibliotheek",
+  "thema": "Lezen, schrijven en lenen; woordfamilies via de wortel",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de drie wortelletters in een woord herkennen.",
+    "vijf vaste patronen herkennen: فَعَلَ، فاعِل، مَفْعول، مَفْعَل(ة)، فِعالَة.",
+    "de betekenis van een onbekend woord raden uit wortel en patroon.",
+    "praten over boeken en de bibliotheek."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l49-w01",
+      "ar": "كاتِبٌ",
+      "tr": "kātib",
+      "nl": [
+        "schrijver"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon فاعِل; meervoud {ar|كُتّابٌ}."
+    },
+    {
+      "id": "j2-p5-l49-w02",
+      "ar": "مَكْتوبٌ",
+      "tr": "maktūb",
+      "nl": [
+        "geschreven",
+        "brief"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Patroon مَفْعول."
+    },
+    {
+      "id": "j2-p5-l49-w03",
+      "ar": "كِتابَةٌ",
+      "tr": "kitāba",
+      "nl": [
+        "het schrijven",
+        "schrift"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon فِعالَة."
+    },
+    {
+      "id": "j2-p5-l49-w04",
+      "ar": "رِوايَةٌ",
+      "tr": "riwāya",
+      "nl": [
+        "roman"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w05",
+      "ar": "مُؤَلِّفٌ",
+      "tr": "muʾallif",
+      "nl": [
+        "auteur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w08",
+      "ar": "اِسْتَعارَ",
+      "tr": "istaʿāra",
+      "nl": [
+        "lenen (van iemand)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَسْتَعيرُ}. Vorm X, uitleg in les 59."
+    },
+    {
+      "id": "j2-p5-l49-w09",
+      "ar": "أَعادَ",
+      "tr": "aʿāda",
+      "nl": [
+        "terugbrengen",
+        "herhalen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُعيدُ}."
+    },
+    {
+      "id": "j2-p5-l49-w10",
+      "ar": "مَطْبَعَةٌ",
+      "tr": "maṭbaʿa",
+      "nl": [
+        "drukkerij"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon مَفْعَلَة: plaats van drukken (ط-ب-ع)."
+    },
+    {
+      "id": "j2-p5-l49-w11",
+      "ar": "مَطْبوعٌ",
+      "tr": "maṭbūʿ",
+      "nl": [
+        "gedrukt"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w12",
+      "ar": "عالِمٌ",
+      "tr": "ʿālim",
+      "nl": [
+        "geleerde",
+        "wetenschapper"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Wortel ع-ل-م; meervoud {ar|عُلَماءُ}."
+    },
+    {
+      "id": "j2-p5-l49-w13",
+      "ar": "عِلْمٌ",
+      "tr": "ʿilm",
+      "nl": [
+        "wetenschap",
+        "kennis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w14",
+      "ar": "مَعْلومٌ",
+      "tr": "maʿlūm",
+      "nl": [
+        "bekend"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "{ar|مَعْلوماتٌ} = informatie."
+    },
+    {
+      "id": "j2-p5-l49-w18",
+      "ar": "صِناعَةٌ",
+      "tr": "ṣināʿa",
+      "nl": [
+        "industrie",
+        "vervaardiging"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w20",
+      "ar": "زِراعَةٌ",
+      "tr": "zirāʿa",
+      "nl": [
+        "landbouw"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w21",
+      "ar": "جِذْرٌ",
+      "tr": "jiḏr",
+      "nl": [
+        "wortel (van een woord, plant)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w22",
+      "ar": "وَزْنٌ",
+      "tr": "wazn",
+      "nl": [
+        "patroon (grammatica)",
+        "gewicht"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l49-w23",
+      "ar": "طَبَعَ",
+      "tr": "ṭabaʿa",
+      "nl": [
+        "drukken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَطْبَعُ}."
+    },
+    {
+      "id": "j2-p5-l49-w24",
+      "ar": "مَجْلِسٌ",
+      "tr": "majlis",
+      "nl": [
+        "raad",
+        "zitting"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon مَفْعِل van جَلَسَ (zitten)."
+    },
+    {
+      "id": "j2-p5-l49-w25",
+      "ar": "قارِئٌ",
+      "tr": "qāriʾ",
+      "nl": [
+        "lezer"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon فاعِل van قَرَأَ."
+    },
+    {
+      "id": "j2-p5-l49-w26",
+      "ar": "مَسْكَنٌ",
+      "tr": "maskan",
+      "nl": [
+        "woning"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Patroon مَفْعَل van سَكَنَ."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Wortel en patroon",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Bijna elk Arabisch woord bestaat uit een **wortel** van drie medeklinkers en een **patroon** ({ar|وَزْنٌ}) van klinkers en eventueel extra letters. De wortel draagt de basisbetekenis, het patroon het soort woord.",
+            "Arabische grammatici schrijven patronen met de modelwortel **ف-ع-ل** (*doen*): ف staat voor de eerste wortelletter, ع voor de tweede, ل voor de derde."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Patroon",
+            "Betekenis",
+            "ك-ت-ب",
+            "ع-ل-م",
+            "ل-ع-ب"
+          ],
+          "arKolommen": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "rijen": [
+            [
+              "فَعَلَ",
+              "hij deed (werkwoord)",
+              "كَتَبَ",
+              "عَلِمَ",
+              "لَعِبَ"
+            ],
+            [
+              "فاعِل",
+              "wie het doet",
+              "كاتِبٌ",
+              "عالِمٌ",
+              "لاعِبٌ"
+            ],
+            [
+              "مَفْعول",
+              "wat gedaan is",
+              "مَكْتوبٌ",
+              "مَعْلومٌ",
+              "مَلْعوبٌ"
+            ],
+            [
+              "مَفْعَل / مَفْعَلَة",
+              "plaats waar het gebeurt",
+              "مَكْتَبٌ / مَكْتَبَةٌ",
+              "مَعْلَمٌ",
+              "مَلْعَبٌ"
+            ],
+            [
+              "فِعالَة",
+              "het doen (handeling, vak)",
+              "كِتابَةٌ",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom is dit zo handig? Met één wortel en vijf patronen begrijp je vaak een woord dat je nooit hebt gezien. Zie je {ar|مَطْبَعَةٌ} en ken je {ar|طَبَعَ} (*drukken*), dan raad je: *plaats waar gedrukt wordt* → drukkerij. Woordenboeken zijn daarom ook op wortel geordend."
+        },
+        {
+          "type": "letop",
+          "md": "Niet elk patroon bestaat bij elke wortel, en de betekenis verschuift soms: {ar|مَعْلَمٌ} betekent *bezienswaardigheid* (een plek die je *kent*). Gebruik het systeem om te raden, en controleer daarna."
+        }
+      ]
+    },
+    {
+      "titel": "Wortels vinden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Haal de patroonletters weg: {ar|مَـ} vooraan, {ar|ا} na de eerste letter in فاعِل, {ar|و} in مَفْعول, {ar|ة} aan het eind. Wat overblijft zijn de drie wortelletters."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِسْتَعَرْتُ رِوايَةً مِنَ المَكْتَبَةِ.",
+              "tr": "istaʿartu riwāyatan mina l-maktaba.",
+              "nl": "Ik heb een roman geleend uit de bibliotheek."
+            },
+            {
+              "ar": "الكاتِبُ مَغْرِبِيٌّ، وَالرِّوايَةُ مَكْتوبَةٌ بِالفَرَنْسِيَّةِ.",
+              "tr": "al-kātibu maġribiyyun, wa-r-riwāyatu maktūbatun bi-l-faransiyya.",
+              "nl": "De schrijver is Marokkaans, en de roman is in het Frans geschreven."
+            },
+            {
+              "ar": "قَرَأْتُ ثَلاثَةَ فُصولٍ أَمْسِ.",
+              "tr": "qaraʾtu ṯalāṯata fuṣūlin ams.",
+              "nl": "Ik heb gisteren drie hoofdstukken gelezen."
+            },
+            {
+              "ar": "سَأُعيدُ الكِتابَ يَوْمَ الاِثْنَيْنِ.",
+              "tr": "sa-uʿīdu l-kitāba yawma l-iṯnayn.",
+              "nl": "Ik breng het boek maandag terug."
+            },
+            {
+              "ar": "اللّاعِبونَ في المَلْعَبِ.",
+              "tr": "al-lāʿibūna fi l-malʿab.",
+              "nl": "De spelers zijn op het veld."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رِوايَةٌ",
+              "nl": "roman",
+              "woord": "j2-p5-l49-w04"
+            },
+            {
+              "ar": "مُؤَلِّفٌ",
+              "nl": "auteur",
+              "woord": "j2-p5-l49-w05"
+            },
+            {
+              "ar": "فَصْلٌ",
+              "nl": "hoofdstuk"
+            },
+            {
+              "ar": "عُنْوانٌ",
+              "nl": "titel"
+            },
+            {
+              "ar": "اِسْتَعارَ",
+              "nl": "lenen",
+              "woord": "j2-p5-l49-w08"
+            },
+            {
+              "ar": "أَعادَ",
+              "nl": "terugbrengen",
+              "woord": "j2-p5-l49-w09"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "wortel-patroon",
+          "paren": [
+            {
+              "ar": "كاتِبٌ",
+              "nl": "schrijver",
+              "woord": "j2-p5-l49-w01"
+            },
+            {
+              "ar": "مَكْتوبٌ",
+              "nl": "geschreven",
+              "woord": "j2-p5-l49-w02"
+            },
+            {
+              "ar": "كِتابَةٌ",
+              "nl": "het schrijven",
+              "woord": "j2-p5-l49-w03"
+            },
+            {
+              "ar": "مَلْعَبٌ",
+              "nl": "sportveld"
+            },
+            {
+              "ar": "لاعِبٌ",
+              "nl": "speler"
+            }
+          ],
+          "uitleg": "Patroon → betekenis."
+        },
+        {
+          "type": "luisteren",
+          "tag": "wortel-patroon",
+          "tekst": "مَزْرَعَةٌ",
+          "vraag": "Wat hoor je? (wortel ز-ر-ع = zaaien)",
+          "opties": [
+            "boerderij",
+            "landbouw",
+            "boer"
+          ],
+          "juist": 0,
+          "uitleg": "مَفْعَلَة = plaats."
+        }
+      ]
+    },
+    {
+      "titel": "Wortels en patronen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "Wat is de wortel van {ar|مَكْتَبَةٌ}?",
+          "opties": [
+            "ك ت ب",
+            "م ك ت",
+            "ك ت ة"
+          ],
+          "juist": 0,
+          "uitleg": "مَـ en ة zijn patroonletters."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "{ar|طَبَعَ} = drukken. Wat betekent {ar|مَطْبوعٌ} waarschijnlijk?",
+          "opties": [
+            "gedrukt",
+            "drukker",
+            "drukkerij"
+          ],
+          "juist": 0,
+          "uitleg": "مَفْعول = wat gedaan is."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "wortel-patroon",
+          "vraag": "{ar|صَنَعَ} = maken. Wat betekent {ar|مَصْنَعٌ}?",
+          "opties": [
+            "fabriek",
+            "maker",
+            "gemaakt"
+          ],
+          "juist": 0,
+          "uitleg": "مَفْعَل = plaats."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "wortel-patroon",
+          "instructie": "Maak het woord met wortel د-ر-س (studeren).",
+          "rijen": [
+            {
+              "label": "wie studeert (فاعِل)",
+              "antwoord": "دارِسٌ",
+              "tr": "dāris"
+            },
+            {
+              "label": "wat bestudeerd is (مَفْعول)",
+              "antwoord": "مَدْروسٌ",
+              "tr": "madrūs"
+            },
+            {
+              "label": "plaats van studeren (مَفْعَلَة)",
+              "antwoord": "مَدْرَسَةٌ",
+              "tr": "madrasa"
+            }
+          ],
+          "uitleg": "Wortel + patroon."
+        },
+        {
+          "type": "invullen",
+          "tag": "wortel-patroon",
+          "zin": "عَلِمَ ← ___ (geleerde)",
+          "nl": "Patroon فاعِل bij de wortel ع-ل-م.",
+          "woordbank": [
+            "عالِمٌ",
+            "مَعْلومٌ",
+            "عِلْمٌ"
+          ],
+          "antwoord": [
+            "عالِمٌ"
+          ],
+          "uitleg": "فاعِل = wie het doet."
+        }
+      ]
+    },
+    {
+      "titel": "In de bibliotheek",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "woordenschat",
+          "nl": "Ik heb een roman geleend uit de bibliotheek.",
+          "woorden": [
+            "اِسْتَعَرْتُ",
+            "رِوايَةً",
+            "مِنَ",
+            "المَكْتَبَةِ."
+          ],
+          "uitleg": "Verleden tijd, ik."
+        },
+        {
+          "type": "invullen",
+          "tag": "wortel-patroon",
+          "zin": "الرِّوايَةُ ___ بِالعَرَبِيَّةِ.",
+          "nl": "De roman is in het Arabisch geschreven.",
+          "woordbank": [
+            "مَكْتوبَةٌ",
+            "كاتِبَةٌ",
+            "مَكْتَبَةٌ"
+          ],
+          "antwoord": [
+            "مَكْتوبَةٌ"
+          ],
+          "uitleg": "مَفْعول, vrouwelijk vanwege {ar|الرِّوايَةُ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de schrijver",
+          "antwoorden": [
+            "الكاتِبُ"
+          ],
+          "uitleg": "{ar|الكاتِبُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "قَرَأْتُ ثَلاثَةَ فُصولٍ.",
+          "antwoorden": [
+            "ik heb drie hoofdstukken gelezen",
+            "ik las drie hoofdstukken"
+          ],
+          "uitleg": "{ar|فُصولٌ} = hoofdstukken."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "wortel-patroon",
+          "bron": "مَعْلوماتٌ مُفيدَةٌ",
+          "antwoorden": [
+            "nuttige informatie"
+          ],
+          "uitleg": "{ar|مَعْلوماتٌ} = informatie."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَطْبَعَةٌ",
+            "nl": "drukkerij"
+          },
+          {
+            "ar": "عِلْمٌ",
+            "nl": "wetenschap"
+          },
+          {
+            "ar": "صِناعَةٌ",
+            "nl": "industrie"
+          },
+          {
+            "ar": "زِراعَةٌ",
+            "nl": "landbouw"
+          },
+          {
+            "ar": "جِذْرٌ",
+            "nl": "wortel"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Wat is de wortel van {ar|مَلْعَبٌ}?",
+        "opties": [
+          "ل ع ب",
+          "م ل ع",
+          "م ع ب"
+        ],
+        "juist": 0,
+        "uitleg": "مَـ is een patroonletter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Welk patroon betekent *wie het doet*?",
+        "opties": [
+          "فاعِل",
+          "مَفْعول",
+          "مَفْعَل"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كاتِبٌ} = schrijver."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "{ar|سَكَنَ} = wonen. Wat betekent {ar|مَسْكَنٌ}?",
+        "opties": [
+          "woning",
+          "bewoner",
+          "bewoond"
+        ],
+        "juist": 0,
+        "uitleg": "مَفْعَل = plaats."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Welk woord hoort NIET bij de wortel ك-ت-ب?",
+        "opties": [
+          "مَلْعَبٌ",
+          "مَكْتَبٌ",
+          "كاتِبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَلْعَبٌ} heeft de wortel ل-ع-ب."
+      },
+      {
+        "type": "luisteren",
+        "tag": "wortel-patroon",
+        "tekst": "لاعِبٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "speler",
+          "sportveld",
+          "gespeeld"
+        ],
+        "juist": 0,
+        "uitleg": "فاعِل"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "اِسْتَعَرْتُ كِتابًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb een boek geleend.",
+          "Ik heb een boek gekocht.",
+          "Ik heb een boek geschreven."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِسْتَعارَ} = lenen."
+      },
+      {
+        "type": "invullen",
+        "tag": "wortel-patroon",
+        "zin": "زَرَعَ ← ___ (boerderij)",
+        "nl": "Plaats van zaaien.",
+        "antwoord": [
+          "مَزْرَعَةٌ"
+        ],
+        "uitleg": "مَفْعَلَة"
+      },
+      {
+        "type": "invullen",
+        "tag": "wortel-patroon",
+        "zin": "هٰذا الخَبَرُ ___ لِلْجَميعِ.",
+        "nl": "Dit nieuws is bij iedereen bekend.",
+        "woordbank": [
+          "مَعْلومٌ",
+          "عالِمٌ",
+          "عِلْمٌ"
+        ],
+        "antwoord": [
+          "مَعْلومٌ"
+        ],
+        "uitleg": "مَفْعول = bekend (gekend)."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "wortel-patroon",
+        "instructie": "Maak het woord met wortel ص-ن-ع (maken).",
+        "rijen": [
+          {
+            "label": "maker (فاعِل)",
+            "antwoord": "صانِعٌ",
+            "tr": "ṣāniʿ"
+          },
+          {
+            "label": "gemaakt (مَفْعول)",
+            "antwoord": "مَصْنوعٌ",
+            "tr": "maṣnūʿ"
+          }
+        ],
+        "uitleg": "Wortel + patroon."
+      },
+      {
+        "type": "ordenen",
+        "tag": "wortel-patroon",
+        "nl": "De schrijver is Marokkaans.",
+        "woorden": [
+          "الكاتِبُ",
+          "مَغْرِبِيٌّ."
+        ],
+        "uitleg": "Nominale zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de roman",
+        "antwoorden": [
+          "الرِّوايَةُ"
+        ],
+        "uitleg": "{ar|الرِّوايَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "wortel-patroon",
+        "bron": "het schrijven",
+        "antwoorden": [
+          "الكِتابَةُ",
+          "كِتابَةٌ"
+        ],
+        "uitleg": "فِعالَة"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "wortel-patroon",
+        "bron": "مَصْنَعٌ كَبيرٌ",
+        "antwoorden": [
+          "een grote fabriek"
+        ],
+        "uitleg": "{ar|مَصْنَعٌ} = fabriek."
+      }
+    ]
+  }
+}

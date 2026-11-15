@@ -1,0 +1,671 @@
+{
+  "id": "j2-p6-l61",
+  "code": "L61",
+  "type": "les",
+  "titel": "Een verhaal volledig gevocaliseerd lezen",
+  "thema": "De drie naamvallen systematisch",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de drie naamvallen benoemen: marfūʿ, manṣūb en majrūr.",
+    "per woord uitleggen waarom het een bepaalde naamval heeft.",
+    "een kort verhaal hardop lezen met de juiste naamvalsuitgangen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l61-w01",
+      "ar": "إِعْرابٌ",
+      "tr": "iʿrāb",
+      "nl": [
+        "naamvalsverbuiging",
+        "grammaticale analyse"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l61-w02",
+      "ar": "مَرْفوعٌ",
+      "tr": "marfūʿ",
+      "nl": [
+        "in de nominatief (-u)"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w03",
+      "ar": "مَنْصوبٌ",
+      "tr": "manṣūb",
+      "nl": [
+        "in de accusatief (-a)"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w04",
+      "ar": "مَجْرورٌ",
+      "tr": "majrūr",
+      "nl": [
+        "in de genitief (-i)"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w05",
+      "ar": "فاعِلٌ",
+      "tr": "fāʿil",
+      "nl": [
+        "onderwerp (van een verbale zin)"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w06",
+      "ar": "مَفْعولٌ بِهِ",
+      "tr": "mafʿūlun bih",
+      "nl": [
+        "lijdend voorwerp"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w07",
+      "ar": "حَرْفُ جَرٍّ",
+      "tr": "ḥarfu jarr",
+      "nl": [
+        "voorzetsel"
+      ],
+      "soort": "grammaticale term"
+    },
+    {
+      "id": "j2-p6-l61-w08",
+      "ar": "صَيّادٌ",
+      "tr": "ṣayyād",
+      "nl": [
+        "visser",
+        "jager"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l61-w09",
+      "ar": "شَبَكَةُ الصَّيْدِ",
+      "tr": "šabakatu ṣ-ṣayd",
+      "nl": [
+        "visnet"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l61-w10",
+      "ar": "قارِبٌ",
+      "tr": "qārib",
+      "nl": [
+        "bootje"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l61-w12",
+      "ar": "مَوْجٌ",
+      "tr": "mawj",
+      "nl": [
+        "golven"
+      ],
+      "soort": "zelfstandig naamwoord (verzamelnaam)"
+    },
+    {
+      "id": "j2-p6-l61-w14",
+      "ar": "فَجْأَةً",
+      "tr": "fajʾatan",
+      "nl": [
+        "plotseling"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p6-l61-w15",
+      "ar": "رَجَعَ سالِمًا",
+      "tr": "rajaʿa sāliman",
+      "nl": [
+        "heelhuids terugkomen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l61-w17",
+      "ar": "شُجاعٌ",
+      "tr": "šujāʿ",
+      "nl": [
+        "dapper"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l61-w19",
+      "ar": "أَبْحَرَ",
+      "tr": "abḥara",
+      "nl": [
+        "uitvaren"
+      ],
+      "soort": "werkwoord (IV)",
+      "notitie": "Van {ar|بَحْرٌ} (zee)."
+    },
+    {
+      "id": "j2-p6-l61-w20",
+      "ar": "غَرِقَ",
+      "tr": "ġariqa",
+      "nl": [
+        "zinken",
+        "verdrinken"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَغْرَقُ}."
+    },
+    {
+      "id": "j2-p6-l61-w21",
+      "ar": "صَيْدٌ",
+      "tr": "ṣayd",
+      "nl": [
+        "het vissen",
+        "de vangst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Drie naamvallen, drie vragen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Naamval",
+            "Uitgang (bep. / onbep.)",
+            "Wanneer?"
+          ],
+          "arKolommen": [],
+          "rijen": [
+            [
+              "marfūʿ (nominatief)",
+              "-u / -un",
+              "onderwerp (mubtadaʾ, fāʿil), gezegde van een nominale zin (ḫabar)"
+            ],
+            [
+              "manṣūb (accusatief)",
+              "-a / -an",
+              "lijdend voorwerp, gezegde na كانَ, tijd- en plaatsbepaling, na إِنَّ"
+            ],
+            [
+              "majrūr (genitief)",
+              "-i / -in",
+              "na een voorzetsel, tweede lid van een iḍāfa"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom naamvallen? Omdat de woordvolgorde in het Arabisch vrij is: {ar|أَكَلَ الوَلَدَ الأَسَدُ} betekent *de leeuw at de jongen* (ondanks de volgorde!), omdat {ar|الأَسَدُ} op -u eindigt (onderwerp) en {ar|الوَلَدَ} op -a (lijdend voorwerp). De uitgang vertelt **wie wat doet**, niet de plaats in de zin."
+        },
+        {
+          "type": "letop",
+          "md": "Bij elk zelfstandig naamwoord stel je drie vragen: (1) staat er een voorzetsel of eerste iḍāfa-lid vóór? → **-i**. (2) Is het lijdend voorwerp, tijd, of staat het na {ar|كانَ} / {ar|إِنَّ}? → **-a**. (3) Anders → **-u**. Bijvoeglijke naamwoorden nemen de naamval over van hun zelfstandig naamwoord."
+        }
+      ]
+    },
+    {
+      "titel": "Het verhaal van de visser",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كانَ الصَّيّادُ يَسْكُنُ في قَرْيَةٍ صَغيرَةٍ.",
+              "tr": "kāna ṣ-ṣayyādu yaskunu fī qaryatin ṣaġīra.",
+              "nl": "De visser woonde in een klein dorp."
+            },
+            {
+              "ar": "في صَباحِ يَوْمٍ جَميلٍ رَكِبَ الصَّيّادُ قارِبَهُ.",
+              "tr": "fī ṣabāḥi yawmin jamīlin rakiba ṣ-ṣayyādu qāribah.",
+              "nl": "Op een mooie ochtend stapte de visser in zijn bootje."
+            },
+            {
+              "ar": "أَنْزَلَ الشَّبَكَةَ في البَحْرِ وَانْتَظَرَ ساعَةً.",
+              "tr": "anzala š-šabakata fi l-baḥri wa-ntaẓara sāʿa.",
+              "nl": "Hij liet het net in zee zakken en wachtte een uur."
+            },
+            {
+              "ar": "فَجْأَةً هَبَّتْ عاصِفَةٌ قَوِيَّةٌ.",
+              "tr": "fajʾatan habbat ʿāṣifatun qawiyya.",
+              "nl": "Plotseling stak er een zware storm op."
+            },
+            {
+              "ar": "كانَ الصَّيّادُ خائِفًا، لٰكِنَّهُ كانَ شُجاعًا.",
+              "tr": "kāna ṣ-ṣayyādu ḫāʾifan, lākinnahu kāna šujāʿan.",
+              "nl": "De visser was bang, maar hij was dapper."
+            },
+            {
+              "ar": "وَفي المَساءِ رَجَعَ إِلى الشّاطِئِ سالِمًا.",
+              "tr": "wa-fi l-masāʾi rajaʿa ila š-šāṭiʾi sāliman.",
+              "nl": "En 's avonds kwam hij heelhuids terug op het strand."
+            }
+          ]
+        },
+        {
+          "type": "tekst",
+          "md": "Analyse van zin 2: {ar|صَباحِ} (-i, na {ar|في}) – {ar|يَوْمٍ} (-in, tweede lid iḍāfa) – {ar|جَميلٍ} (-in, volgt {ar|يَوْمٍ}) – {ar|الصَّيّادُ} (-u, fāʿil) – {ar|قارِبَ} (-a, lijdend voorwerp)."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "صَيّادٌ",
+              "nl": "visser",
+              "woord": "j2-p6-l61-w08"
+            },
+            {
+              "ar": "قارِبٌ",
+              "nl": "bootje",
+              "woord": "j2-p6-l61-w10"
+            },
+            {
+              "ar": "شاطِئٌ",
+              "nl": "strand"
+            },
+            {
+              "ar": "عاصِفَةٌ",
+              "nl": "storm"
+            },
+            {
+              "ar": "خائِفٌ",
+              "nl": "bang"
+            },
+            {
+              "ar": "شُجاعٌ",
+              "nl": "dapper",
+              "woord": "j2-p6-l61-w17"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "irab",
+          "paren": [
+            {
+              "ar": "مَرْفوعٌ",
+              "nl": "-u (nominatief)",
+              "woord": "j2-p6-l61-w02"
+            },
+            {
+              "ar": "مَنْصوبٌ",
+              "nl": "-a (accusatief)",
+              "woord": "j2-p6-l61-w03"
+            },
+            {
+              "ar": "مَجْرورٌ",
+              "nl": "-i (genitief)",
+              "woord": "j2-p6-l61-w04"
+            }
+          ],
+          "uitleg": "De drie naamvallen."
+        },
+        {
+          "type": "luisteren",
+          "tag": "irab",
+          "tekst": "أَكَلَ الوَلَدَ الأَسَدُ",
+          "vraag": "Wie at wie?",
+          "opties": [
+            "De leeuw at de jongen.",
+            "De jongen at de leeuw.",
+            "De jongen en de leeuw aten."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|الأَسَدُ} (-u) is het onderwerp, {ar|الوَلَدَ} (-a) het lijdend voorwerp."
+        }
+      ]
+    },
+    {
+      "titel": "Naamval bepalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Welke naamval heeft {ar|البَحْرِ} in {ar|في البَحْرِ}, en waarom?",
+          "opties": [
+            "majrūr, na een voorzetsel",
+            "manṣūb, lijdend voorwerp",
+            "marfūʿ, onderwerp"
+          ],
+          "juist": 0,
+          "uitleg": "Voorzetsel → -i."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Welke naamval heeft {ar|خائِفًا} in {ar|كانَ الصَّيّادُ خائِفًا}?",
+          "opties": [
+            "manṣūb, gezegde na كانَ",
+            "marfūʿ, gezegde",
+            "majrūr, iḍāfa"
+          ],
+          "juist": 0,
+          "uitleg": "Na {ar|كانَ}: accusatief."
+        },
+        {
+          "type": "invullen",
+          "tag": "irab",
+          "zin": "رَكِبَ الصَّيّادُ ___.",
+          "nl": "De visser stapte in de boot.",
+          "woordbank": [
+            "القارِبَ",
+            "القارِبُ",
+            "القارِبِ"
+          ],
+          "antwoord": [
+            "القارِبَ"
+          ],
+          "uitleg": "Lijdend voorwerp → -a.",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "irab",
+          "zin": "رَجَعَ ___ إِلى البَيْتِ.",
+          "nl": "De visser keerde terug naar huis.",
+          "woordbank": [
+            "الصَّيّادُ",
+            "الصَّيّادَ",
+            "الصَّيّادِ"
+          ],
+          "antwoord": [
+            "الصَّيّادُ"
+          ],
+          "uitleg": "Onderwerp (fāʿil) → -u.",
+          "streng": true
+        },
+        {
+          "type": "vervoegen",
+          "tag": "irab",
+          "instructie": "Zet بَحْرٌ in de juiste naamval (met lidwoord).",
+          "rijen": [
+            {
+              "label": "De zee is mooi: ___ جَميلٌ",
+              "antwoord": "البَحْرُ",
+              "tr": "al-baḥru",
+              "eind": true
+            },
+            {
+              "label": "Ik zag de zee: رَأَيْتُ ___",
+              "antwoord": "البَحْرَ",
+              "tr": "al-baḥra",
+              "eind": true
+            },
+            {
+              "label": "Bij de zee: عِنْدَ ___",
+              "antwoord": "البَحْرِ",
+              "tr": "al-baḥri",
+              "eind": true
+            }
+          ],
+          "uitleg": "-u · -a · -i"
+        }
+      ]
+    },
+    {
+      "titel": "Het verhaal",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "irab",
+          "nl": "De visser woonde in een klein dorp.",
+          "woorden": [
+            "كانَ",
+            "الصَّيّادُ",
+            "يَسْكُنُ",
+            "في",
+            "قَرْيَةٍ",
+            "صَغيرَةٍ."
+          ],
+          "uitleg": "كانَ + muḍāriʿ = gewoonte in het verleden."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Waarom eindigt {ar|صَغيرَةٍ} op -in?",
+          "opties": [
+            "Het volgt {ar|قَرْيَةٍ}, dat na {ar|في} staat.",
+            "Het is een lijdend voorwerp.",
+            "Het is een tijdsbepaling."
+          ],
+          "juist": 0,
+          "uitleg": "Bijvoeglijk naamwoord volgt de naamval."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "فَجْأَةً هَبَّتْ عاصِفَةٌ قَوِيَّةٌ.",
+          "antwoorden": [
+            "plotseling stak er een zware storm op",
+            "plotseling kwam er een sterke storm",
+            "plotseling stak een sterke storm op"
+          ],
+          "uitleg": "{ar|فَجْأَةً} = plotseling."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "irab",
+          "bron": "Hij kwam heelhuids terug.",
+          "antwoorden": [
+            "رَجَعَ سالِمًا"
+          ],
+          "uitleg": "{ar|سالِمًا} in de accusatief: toestand (ḥāl)."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "قِصَّةٌ",
+            "nl": "verhaal"
+          },
+          {
+            "ar": "فَجْأَةً",
+            "nl": "plotseling"
+          },
+          {
+            "ar": "مَوْجٌ",
+            "nl": "golven"
+          },
+          {
+            "ar": "إِعْرابٌ",
+            "nl": "naamvalsverbuiging"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval krijgt het tweede lid van een iḍāfa?",
+        "opties": [
+          "majrūr (-i)",
+          "manṣūb (-a)",
+          "marfūʿ (-u)"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَيْتُ المُعَلِّمِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval krijgt het gezegde (ḫabar) van een nominale zin?",
+        "opties": [
+          "marfūʿ (-u)",
+          "manṣūb (-a)",
+          "majrūr (-i)"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|البَيْتُ كَبيرٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Wat betekent {ar|ضَرَبَ الكُرَةَ اللّاعِبُ}?",
+        "opties": [
+          "De speler schoot de bal.",
+          "De bal raakte de speler.",
+          "De speler en de bal."
+        ],
+        "juist": 0,
+        "uitleg": "-u = onderwerp, -a = lijdend voorwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval heeft {ar|صَباحًا} in {ar|أَشْرَبُ القَهْوَةَ صَباحًا}?",
+        "opties": [
+          "manṣūb (tijdsbepaling)",
+          "marfūʿ",
+          "majrūr"
+        ],
+        "juist": 0,
+        "uitleg": "Tijdsbepaling → accusatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "irab",
+        "tekst": "رَأى الصَّيّادُ سَمَكَةً كَبيرَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De visser zag een grote vis.",
+          "Een grote vis zag de visser.",
+          "De visser ving een kleine vis."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الصَّيّادُ} (-u) = onderwerp."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "رَجَعَ إِلى الشّاطِئِ سالِمًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hij kwam heelhuids terug op het strand.",
+          "Hij verdronk in zee.",
+          "Hij bleef op het strand."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سالِمًا} = heelhuids."
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "ذَهَبْتُ إِلى ___.",
+        "nl": "Ik ging naar het strand.",
+        "woordbank": [
+          "الشّاطِئِ",
+          "الشّاطِئُ",
+          "الشّاطِئَ"
+        ],
+        "antwoord": [
+          "الشّاطِئِ"
+        ],
+        "uitleg": "Na {ar|إِلى} → -i.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "كانَتِ العاصِفَةُ ___.",
+        "nl": "De storm was zwaar.",
+        "woordbank": [
+          "قَوِيَّةً",
+          "قَوِيَّةٌ",
+          "قَوِيَّةٍ"
+        ],
+        "antwoord": [
+          "قَوِيَّةً"
+        ],
+        "uitleg": "Na {ar|كانَ} → -an.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "قارِبُ ___ صَغيرٌ.",
+        "nl": "De boot van de visser is klein.",
+        "woordbank": [
+          "الصَّيّادِ",
+          "الصَّيّادُ",
+          "الصَّيّادَ"
+        ],
+        "antwoord": [
+          "الصَّيّادِ"
+        ],
+        "uitleg": "Tweede lid iḍāfa → -i.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "irab",
+        "nl": "De visser was bang, maar hij was dapper.",
+        "woorden": [
+          "كانَ",
+          "الصَّيّادُ",
+          "خائِفًا،",
+          "لٰكِنَّهُ",
+          "كانَ",
+          "شُجاعًا."
+        ],
+        "uitleg": "Twee keer كانَ + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "irab",
+        "bron": "de nominatief (marfūʿ)",
+        "antwoorden": [
+          "مَرْفوعٌ",
+          "المَرْفوعُ"
+        ],
+        "uitleg": "{ar|مَرْفوعٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "irab",
+        "bron": "كَتَبَ الرِّسالَةَ الطّالِبُ.",
+        "antwoorden": [
+          "de student schreef de brief",
+          "de student heeft de brief geschreven"
+        ],
+        "uitleg": "De naamvallen, niet de volgorde, bepalen de betekenis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "قِصَّةُ الصَّيّادِ جَميلَةٌ.",
+        "antwoorden": [
+          "het verhaal van de visser is mooi"
+        ],
+        "uitleg": "Iḍāfa + gezegde."
+      }
+    ]
+  }
+}

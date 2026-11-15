@@ -1,0 +1,571 @@
+{
+  "id": "j3-p10-ne5",
+  "code": "NE5",
+  "type": "evaluatie",
+  "titel": "Niveau-evaluatie B1−",
+  "thema": "Op weg naar B1: lezen, luisteren, grammatica en woordenschat van jaar 3 tot nu toe",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Lezen:** een nieuwsbericht en een persoonlijk verhaal begrijpen.",
+    "**Luisteren:** zinnen met voorwaarden, bijzinnen, beperking en voltooide tijden verstaan.",
+    "**Grammatica:** de grammatica van periode 9 en 10.",
+    "**Woordenschat:** maatschappij, media, wetenschap en betogen.",
+    "Advies: ga door naar periode 11 als je in totaal 70% haalt én geen onderdeel onder 60% scoort."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees het bericht. Wat heeft het ministerie aangekondigd?",
+        "ar": "أَعْلَنَتْ وِزارَةُ التَّعْليمِ أَمْسِ عَنْ خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ. وَتَهْدِفُ الخُطَّةُ إِلى بِناءِ مِئَةِ مَدْرَسَةٍ جَديدَةٍ وَتَوْظيفِ أَلْفَيْ مُعَلِّمٍ خِلالَ ثَلاثِ سَنَواتٍ. وَأَكَّدَ الوَزيرُ أَنَّ الهَدَفَ هُوَ تَقْليصُ نِسْبَةِ الاِنْقِطاعِ عَنِ الدِّراسَةِ، الَّتي كانَتْ قَدِ ارْتَفَعَتْ في السَّنَواتِ الأَخيرَةِ بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى. غَيْرَ أَنَّ بَعْضَ النِّقاباتِ تَرى أَنَّ الخُطَّةَ لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ.",
+        "opties": [
+          "een plan om het onderwijs op het platteland te verbeteren",
+          "de sluiting van scholen op het platteland",
+          "hogere lonen voor alle leraren"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Hoeveel nieuwe scholen komen er?",
+        "ar": "أَعْلَنَتْ وِزارَةُ التَّعْليمِ أَمْسِ عَنْ خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ. وَتَهْدِفُ الخُطَّةُ إِلى بِناءِ مِئَةِ مَدْرَسَةٍ جَديدَةٍ وَتَوْظيفِ أَلْفَيْ مُعَلِّمٍ خِلالَ ثَلاثِ سَنَواتٍ. وَأَكَّدَ الوَزيرُ أَنَّ الهَدَفَ هُوَ تَقْليصُ نِسْبَةِ الاِنْقِطاعِ عَنِ الدِّراسَةِ، الَّتي كانَتْ قَدِ ارْتَفَعَتْ في السَّنَواتِ الأَخيرَةِ بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى. غَيْرَ أَنَّ بَعْضَ النِّقاباتِ تَرى أَنَّ الخُطَّةَ لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ.",
+        "opties": [
+          "honderd",
+          "tweeduizend",
+          "drie"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِئَةِ مَدْرَسَةٍ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Hoeveel leraren worden aangenomen?",
+        "ar": "أَعْلَنَتْ وِزارَةُ التَّعْليمِ أَمْسِ عَنْ خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ. وَتَهْدِفُ الخُطَّةُ إِلى بِناءِ مِئَةِ مَدْرَسَةٍ جَديدَةٍ وَتَوْظيفِ أَلْفَيْ مُعَلِّمٍ خِلالَ ثَلاثِ سَنَواتٍ. وَأَكَّدَ الوَزيرُ أَنَّ الهَدَفَ هُوَ تَقْليصُ نِسْبَةِ الاِنْقِطاعِ عَنِ الدِّراسَةِ، الَّتي كانَتْ قَدِ ارْتَفَعَتْ في السَّنَواتِ الأَخيرَةِ بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى. غَيْرَ أَنَّ بَعْضَ النِّقاباتِ تَرى أَنَّ الخُطَّةَ لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ.",
+        "opties": [
+          "tweeduizend",
+          "honderd",
+          "duizend"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلْفَيْ مُعَلِّمٍ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Waarom was de schooluitval gestegen?",
+        "ar": "أَعْلَنَتْ وِزارَةُ التَّعْليمِ أَمْسِ عَنْ خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ. وَتَهْدِفُ الخُطَّةُ إِلى بِناءِ مِئَةِ مَدْرَسَةٍ جَديدَةٍ وَتَوْظيفِ أَلْفَيْ مُعَلِّمٍ خِلالَ ثَلاثِ سَنَواتٍ. وَأَكَّدَ الوَزيرُ أَنَّ الهَدَفَ هُوَ تَقْليصُ نِسْبَةِ الاِنْقِطاعِ عَنِ الدِّراسَةِ، الَّتي كانَتْ قَدِ ارْتَفَعَتْ في السَّنَواتِ الأَخيرَةِ بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى. غَيْرَ أَنَّ بَعْضَ النِّقاباتِ تَرى أَنَّ الخُطَّةَ لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ.",
+        "opties": [
+          "De scholen liggen ver van de dorpen.",
+          "Er waren te weinig leraren.",
+          "De kinderen moesten werken."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Wat vinden sommige vakbonden?",
+        "ar": "أَعْلَنَتْ وِزارَةُ التَّعْليمِ أَمْسِ عَنْ خُطَّةٍ جَديدَةٍ لِتَحْسينِ التَّعْليمِ في المَناطِقِ القَرَوِيَّةِ. وَتَهْدِفُ الخُطَّةُ إِلى بِناءِ مِئَةِ مَدْرَسَةٍ جَديدَةٍ وَتَوْظيفِ أَلْفَيْ مُعَلِّمٍ خِلالَ ثَلاثِ سَنَواتٍ. وَأَكَّدَ الوَزيرُ أَنَّ الهَدَفَ هُوَ تَقْليصُ نِسْبَةِ الاِنْقِطاعِ عَنِ الدِّراسَةِ، الَّتي كانَتْ قَدِ ارْتَفَعَتْ في السَّنَواتِ الأَخيرَةِ بِسَبَبِ بُعْدِ المَدارِسِ عَنِ القُرى. غَيْرَ أَنَّ بَعْضَ النِّقاباتِ تَرى أَنَّ الخُطَّةَ لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ.",
+        "opties": [
+          "Het plan is niet genoeg; ook de lonen moeten omhoog.",
+          "Het plan is perfect.",
+          "Er moeten minder scholen komen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا تَكْفي، إِنَّما يَجِبُ أَيْضًا رَفْعُ أُجورِ المُعَلِّمينَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de tekst. Waar is Salma geboren?",
+        "ar": "وُلِدَتْ سَلْمى في روتِرْدامَ لِأَبَوَيْنِ مَغْرِبِيَّيْنِ. عِنْدَما كانَتْ صَغيرَةً، كانَتْ تَقْضي كُلَّ صَيْفٍ عِنْدَ جَدَّتِها في تِطْوانَ. لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ، لٰكِنَّها قَرَّرَتْ بَعْدَ الجامِعَةِ أَنْ تَتَعَلَّمَ الفُصْحى لِتَقْرَأَ الأَدَبَ العَرَبِيَّ. تَقولُ سَلْمى إِنَّ تَعَلُّمَ الفُصْحى كانَ صَعْبًا في البِدايَةِ، إِلّا أَنَّهُ ساعَدَها عَلى فَهْمِ هُوِيَّتِها بِشَكْلٍ أَفْضَلَ. وَهِيَ الآنَ تَنْوي أَنْ تَكْتُبَ رِوايَةً عَنْ حَياةِ الجيلِ الثّاني.",
+        "opties": [
+          "in Rotterdam",
+          "in Tetouan",
+          "in Amsterdam"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وُلِدَتْ سَلْمى في روتِرْدامَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waar bracht ze als kind de zomers door?",
+        "ar": "وُلِدَتْ سَلْمى في روتِرْدامَ لِأَبَوَيْنِ مَغْرِبِيَّيْنِ. عِنْدَما كانَتْ صَغيرَةً، كانَتْ تَقْضي كُلَّ صَيْفٍ عِنْدَ جَدَّتِها في تِطْوانَ. لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ، لٰكِنَّها قَرَّرَتْ بَعْدَ الجامِعَةِ أَنْ تَتَعَلَّمَ الفُصْحى لِتَقْرَأَ الأَدَبَ العَرَبِيَّ. تَقولُ سَلْمى إِنَّ تَعَلُّمَ الفُصْحى كانَ صَعْبًا في البِدايَةِ، إِلّا أَنَّهُ ساعَدَها عَلى فَهْمِ هُوِيَّتِها بِشَكْلٍ أَفْضَلَ. وَهِيَ الآنَ تَنْوي أَنْ تَكْتُبَ رِوايَةً عَنْ حَياةِ الجيلِ الثّاني.",
+        "opties": [
+          "bij haar oma in Tetouan",
+          "in Rotterdam",
+          "bij haar tante in Fès"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عِنْدَ جَدَّتِها في تِطْوانَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Welke taal sprak ze vroeger?",
+        "ar": "وُلِدَتْ سَلْمى في روتِرْدامَ لِأَبَوَيْنِ مَغْرِبِيَّيْنِ. عِنْدَما كانَتْ صَغيرَةً، كانَتْ تَقْضي كُلَّ صَيْفٍ عِنْدَ جَدَّتِها في تِطْوانَ. لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ، لٰكِنَّها قَرَّرَتْ بَعْدَ الجامِعَةِ أَنْ تَتَعَلَّمَ الفُصْحى لِتَقْرَأَ الأَدَبَ العَرَبِيَّ. تَقولُ سَلْمى إِنَّ تَعَلُّمَ الفُصْحى كانَ صَعْبًا في البِدايَةِ، إِلّا أَنَّهُ ساعَدَها عَلى فَهْمِ هُوِيَّتِها بِشَكْلٍ أَفْضَلَ. وَهِيَ الآنَ تَنْوي أَنْ تَكْتُبَ رِوايَةً عَنْ حَياةِ الجيلِ الثّاني.",
+        "opties": [
+          "alleen Darija",
+          "alleen Fusha",
+          "geen Arabisch"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waarom leerde ze Fusha?",
+        "ar": "وُلِدَتْ سَلْمى في روتِرْدامَ لِأَبَوَيْنِ مَغْرِبِيَّيْنِ. عِنْدَما كانَتْ صَغيرَةً، كانَتْ تَقْضي كُلَّ صَيْفٍ عِنْدَ جَدَّتِها في تِطْوانَ. لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ، لٰكِنَّها قَرَّرَتْ بَعْدَ الجامِعَةِ أَنْ تَتَعَلَّمَ الفُصْحى لِتَقْرَأَ الأَدَبَ العَرَبِيَّ. تَقولُ سَلْمى إِنَّ تَعَلُّمَ الفُصْحى كانَ صَعْبًا في البِدايَةِ، إِلّا أَنَّهُ ساعَدَها عَلى فَهْمِ هُوِيَّتِها بِشَكْلٍ أَفْضَلَ. وَهِيَ الآنَ تَنْوي أَنْ تَكْتُبَ رِوايَةً عَنْ حَياةِ الجيلِ الثّاني.",
+        "opties": [
+          "om Arabische literatuur te lezen",
+          "voor haar werk",
+          "omdat haar oma het vroeg"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لِتَقْرَأَ الأَدَبَ العَرَبِيَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Wat is ze van plan?",
+        "ar": "وُلِدَتْ سَلْمى في روتِرْدامَ لِأَبَوَيْنِ مَغْرِبِيَّيْنِ. عِنْدَما كانَتْ صَغيرَةً، كانَتْ تَقْضي كُلَّ صَيْفٍ عِنْدَ جَدَّتِها في تِطْوانَ. لَمْ تَكُنْ تَتَكَلَّمُ إِلّا الدّارِجَةَ، لٰكِنَّها قَرَّرَتْ بَعْدَ الجامِعَةِ أَنْ تَتَعَلَّمَ الفُصْحى لِتَقْرَأَ الأَدَبَ العَرَبِيَّ. تَقولُ سَلْمى إِنَّ تَعَلُّمَ الفُصْحى كانَ صَعْبًا في البِدايَةِ، إِلّا أَنَّهُ ساعَدَها عَلى فَهْمِ هُوِيَّتِها بِشَكْلٍ أَفْضَلَ. وَهِيَ الآنَ تَنْوي أَنْ تَكْتُبَ رِوايَةً عَنْ حَياةِ الجيلِ الثّاني.",
+        "opties": [
+          "een roman schrijven over de tweede generatie",
+          "naar Tetouan verhuizen",
+          "Fusha gaan lesgeven"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَنْوي أَنْ تَكْتُبَ رِوايَةً}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "قَرَّرَتِ الحُكومَةُ خَفْضَ الضَّرائِبِ عَلى الشَّرِكاتِ الصَّغيرَةِ",
+        "vraag": "Wat heeft de regering besloten?",
+        "opties": [
+          "de belastingen voor kleine bedrijven verlagen",
+          "kleine bedrijven sluiten",
+          "de belastingen verhogen"
+        ],
+        "juist": 0,
+        "uitleg": "Nominale stijl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لَوْ كُنْتُ أَعْرِفُ لَساعَدْتُكَ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Als ik het had geweten, had ik je geholpen.",
+          "Ik weet het en help je.",
+          "Ik help je nooit."
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "عِنْدَما وَصَلْنا كانَ الاِجْتِماعُ قَدْ بَدَأَ",
+        "vraag": "Wat was er aan de hand?",
+        "opties": [
+          "De vergadering was al begonnen.",
+          "De vergadering begon later.",
+          "Er was geen vergadering."
+        ],
+        "juist": 0,
+        "uitleg": "Voltooid verleden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لا يُسْمَحُ بِالدُّخولِ إِلّا لِلْمُوَظَّفينَ",
+        "vraag": "Wie mag naar binnen?",
+        "opties": [
+          "alleen het personeel",
+          "iedereen",
+          "niemand"
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "نَتيجَةً لِلْعاصِفَةِ أُلْغِيَتْ كُلُّ الرِّحْلاتِ",
+        "vraag": "Wat gebeurde er door de storm?",
+        "opties": [
+          "Alle vluchten werden geannuleerd.",
+          "De vluchten hadden vertraging.",
+          "Er gebeurde niets."
+        ],
+        "juist": 0,
+        "uitleg": "Oorzaak + lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "دَخَلَتْ وَهِيَ تَضْحَكُ",
+        "vraag": "Hoe kwam ze binnen?",
+        "opties": [
+          "lachend",
+          "huilend",
+          "boos"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl-zin."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "إِنْ تَدْرُسْ جَيِّدًا تَنْجَحْ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Als je goed studeert, slaag je.",
+          "Je bent geslaagd.",
+          "Studeren helpt niet."
+        ],
+        "juist": 0,
+        "uitleg": "Voorwaarde."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "قالَ المُديرُ إِنَّ الشَّرِكَةَ سَتُوَظِّفُ عِشْرينَ شَخْصًا",
+        "vraag": "Wat zei de directeur?",
+        "opties": [
+          "Het bedrijf gaat twintig mensen aannemen.",
+          "Twintig mensen worden ontslagen.",
+          "Het bedrijf sluit."
+        ],
+        "juist": 0,
+        "uitleg": "Indirecte rede."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "صَحيحٌ أَنَّ الشَّقَّةَ صَغيرَةٌ، إِلّا أَنَّها قَريبَةٌ مِنَ العَمَلِ",
+        "vraag": "Wat vindt de spreker van het appartement?",
+        "opties": [
+          "Klein, maar dicht bij het werk.",
+          "Groot en ver weg.",
+          "Te duur."
+        ],
+        "juist": 0,
+        "uitleg": "Toegeving."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "كادَ الطِّفْلُ يَسْقُطُ",
+        "vraag": "Wat gebeurde er?",
+        "opties": [
+          "Het kind viel bijna.",
+          "Het kind viel.",
+          "Het kind sprong."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كادَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'De brief werd gisteren verstuurd' is ...",
+        "opties": [
+          "أُرْسِلَتِ الرِّسالَةُ أَمْسِ",
+          "أَرْسَلَتِ الرِّسالَةَ أَمْسِ",
+          "تُرْسِلُ الرِّسالَةُ أَمْسِ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdende vorm IV."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "In {ar|فَرِحَ فَرَحًا كَبيرًا} is {ar|فَرَحًا} ...",
+        "opties": [
+          "mafʿūl muṭlaq",
+          "ḥāl",
+          "tamyīz"
+        ],
+        "juist": 0,
+        "uitleg": "Zelfde wortel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Een van de mooiste steden' is ...",
+        "opties": [
+          "إِحْدى أَجْمَلِ المُدُنِ",
+          "أَجْمَلُ مَدينَةٍ واحِدَةٍ",
+          "إِحْدى المُدُنِ أَجْمَلُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِحْدى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Na {ar|إِنَّما} staat het onderwerp in de ...",
+        "opties": [
+          "nominatief",
+          "accusatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Geen inna-werking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "{ar|مُرْسَلٌ} betekent ...",
+        "opties": [
+          "verzonden",
+          "afzender",
+          "verzending"
+        ],
+        "juist": 0,
+        "uitleg": "Passief IV."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "لَمْ ___ الكِتابَ بَعْدُ.",
+        "nl": "Ik heb het boek nog niet gelezen.",
+        "antwoord": [
+          "أَقْرَأْ"
+        ],
+        "uitleg": "Majzūm na {ar|لَمْ}.",
+        "woordbank": [
+          "أَقْرَأْ",
+          "أَقْرَأُ",
+          "قَرَأْتُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "أَدّى الجَفافُ إِلى ___ الأَسْعارِ.",
+        "nl": "De droogte leidde tot een prijsstijging.",
+        "antwoord": [
+          "اِرْتِفاعِ"
+        ],
+        "uitleg": "Maṣdar.",
+        "woordbank": [
+          "اِرْتِفاعِ",
+          "يَرْتَفِعُ",
+          "مُرْتَفِعِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "ne-grammatica",
+        "instructie": "Voltooid verleden.",
+        "rijen": [
+          {
+            "label": "ik had geschreven",
+            "antwoord": "كُنْتُ قَدْ كَتَبْتُ",
+            "tr": "kuntu qad katabtu"
+          },
+          {
+            "label": "zij (v) had geschreven",
+            "antwoord": "كانَتْ قَدْ كَتَبَتْ",
+            "tr": "kānat qad katabat"
+          }
+        ],
+        "uitleg": "{ar|كانَ قَدْ}."
+      },
+      {
+        "type": "ordenen",
+        "tag": "ne-grammatica",
+        "nl": "Hij zei dat hij moe was.",
+        "woorden": [
+          "قالَ",
+          "إِنَّهُ",
+          "كانَ",
+          "مُتْعَبًا."
+        ],
+        "uitleg": "Indirecte rede."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-grammatica",
+        "bron": "Ik ben van plan te reizen.",
+        "antwoorden": [
+          "أَنْوي أَنْ أُسافِرَ",
+          "أنوي أن أسافر",
+          "أَنْوي السَّفَرَ"
+        ],
+        "uitleg": "{ar|أَنْوي أَنْ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "بَطالَةٌ",
+            "nl": "werkloosheid"
+          },
+          {
+            "ar": "اِنْتِخاباتٌ",
+            "nl": "verkiezingen"
+          },
+          {
+            "ar": "تَلَوُّثٌ",
+            "nl": "vervuiling"
+          },
+          {
+            "ar": "هِجْرَةٌ",
+            "nl": "migratie"
+          },
+          {
+            "ar": "لَقاحٌ",
+            "nl": "vaccin"
+          }
+        ],
+        "uitleg": "Maatschappij."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "مُخْتَبَرٌ",
+            "nl": "laboratorium"
+          },
+          {
+            "ar": "مِهْرَجانٌ",
+            "nl": "festival"
+          },
+          {
+            "ar": "مُرْفَقاتٌ",
+            "nl": "bijlagen"
+          },
+          {
+            "ar": "حَلٌّ وَسَطٌ",
+            "nl": "compromis"
+          },
+          {
+            "ar": "مُعاهَدَةٌ",
+            "nl": "verdrag"
+          }
+        ],
+        "uitleg": "Diverse thema's."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|اِسْتِثْمارٌ} betekent ...",
+        "opties": [
+          "investering",
+          "import",
+          "consumptie"
+        ],
+        "juist": 0,
+        "uitleg": "Economie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|عَلاوَةً عَلى ذٰلِكَ} betekent ...",
+        "opties": [
+          "bovendien",
+          "daartegenover",
+          "kortom"
+        ],
+        "juist": 0,
+        "uitleg": "Betoog."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|نَشْرَةُ الأَخْبارِ} is ...",
+        "opties": [
+          "het journaal",
+          "de krant",
+          "de nieuwslezer"
+        ],
+        "juist": 0,
+        "uitleg": "Media."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|اِنْدِماجٌ} betekent ...",
+        "opties": [
+          "integratie",
+          "identiteit",
+          "migratie"
+        ],
+        "juist": 0,
+        "uitleg": "Migratie."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "قَدَّمْتُ ___ لِلْحُصولِ عَلى مِنْحَةٍ.",
+        "nl": "Ik heb een aanvraag ingediend voor een beurs.",
+        "antwoord": [
+          "طَلَبًا"
+        ],
+        "uitleg": "{ar|قَدَّمَ طَلَبًا}",
+        "woordbank": [
+          "طَلَبًا",
+          "شَكْوى",
+          "مُرْفَقًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "اِتَّصَلْنا بِسَيّارَةِ ___.",
+        "nl": "We belden de ambulance.",
+        "antwoord": [
+          "الإِسْعافِ"
+        ],
+        "uitleg": "{ar|سَيّارَةُ الإِسْعافِ}",
+        "woordbank": [
+          "الإِسْعافِ",
+          "الأُجْرَةِ",
+          "الشُّرْطَةِ"
+        ]
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-woordenschat",
+        "bron": "تُعاني البِلادُ مِنَ التَّضَخُّمِ.",
+        "antwoorden": [
+          "het land lijdt onder inflatie",
+          "het land kampt met inflatie"
+        ],
+        "uitleg": "{ar|تَضَخُّمٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-woordenschat",
+        "bron": "de klimaatverandering",
+        "antwoorden": [
+          "التَّغَيُّرُ المُناخِيُّ",
+          "التغير المناخي",
+          "تَغَيُّرُ المُناخِ"
+        ],
+        "uitleg": "{ar|التَّغَيُّرُ المُناخِيُّ}"
+      }
+    ]
+  }
+}

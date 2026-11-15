@@ -1,0 +1,620 @@
+{
+  "id": "j3-p11-l128",
+  "code": "L128",
+  "type": "les",
+  "titel": "De Arabische wereld en Marokko",
+  "thema": "Leestekst: ligging, talen en de Arabische Liga",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een informatieve tekst zonder harakat lezen.",
+    "informatie over de ligging, talen en positie van Marokko terugvinden.",
+    "bekende constructies (لا … إِلّا، أَمّا … فَـ، كَما أَنَّ) in context herkennen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l128-w01",
+      "ar": "جامِعَةُ الدُّوَلِ العَرَبِيَّةِ",
+      "tr": "jāmiʿatu d-duwali l-ʿarabiyya",
+      "nl": [
+        "de Arabische Liga"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l128-w02",
+      "ar": "الأَمازيغِيَّةُ",
+      "tr": "al-amāzīġiyya",
+      "nl": [
+        "het Amazigh (Berbers)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w03",
+      "ar": "سِلْسِلَةُ جِبالٍ",
+      "tr": "silsilatu jibāl",
+      "nl": [
+        "bergketen"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Meervoud: {ar|سَلاسِلُ}."
+    },
+    {
+      "id": "j3-p11-l128-w04",
+      "ar": "مَضيقٌ",
+      "tr": "maḍīq",
+      "nl": [
+        "zeestraat"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w05",
+      "ar": "تَنَوُّعٌ",
+      "tr": "tanawwuʿ",
+      "nl": [
+        "verscheidenheid"
+      ],
+      "soort": "maṣdar (V)"
+    },
+    {
+      "id": "j3-p11-l128-w06",
+      "ar": "رَسْمِيٌّ",
+      "tr": "rasmiyy",
+      "nl": [
+        "officieel"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w07",
+      "ar": "مَساحَةٌ",
+      "tr": "masāḥa",
+      "nl": [
+        "oppervlakte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w08",
+      "ar": "المَشْرِقُ",
+      "tr": "al-mašriq",
+      "nl": [
+        "het Oosten (Arabisch Midden-Oosten)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w09",
+      "ar": "حَدَّ يَحُدُّ",
+      "tr": "ḥadda yaḥuddu",
+      "nl": [
+        "grenzen aan"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p11-l128-w10",
+      "ar": "تَمَيَّزَ بِـ",
+      "tr": "tamayyaza bi-",
+      "nl": [
+        "zich onderscheiden door"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p11-l128-w11",
+      "ar": "عُضْوٌ",
+      "tr": "ʿuḍw",
+      "nl": [
+        "lid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَعْضاءٌ}."
+    },
+    {
+      "id": "j3-p11-l128-w12",
+      "ar": "ضَمَّ يَضُمُّ",
+      "tr": "ḍamma yaḍummu",
+      "nl": [
+        "omvatten, bevatten"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p11-l128-w13",
+      "ar": "مُنْتَشِرٌ",
+      "tr": "muntašir",
+      "nl": [
+        "wijdverbreid"
+      ],
+      "soort": "deelwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l128-w14",
+      "ar": "عَرْضٌ",
+      "tr": "ʿarḍ",
+      "nl": [
+        "breedte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l128-w15",
+      "ar": "فَصَلَ عَنْ",
+      "tr": "faṣala ʿan",
+      "nl": [
+        "scheiden van"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l128-w16",
+      "ar": "الإِعْلامُ",
+      "tr": "al-iʿlām",
+      "nl": [
+        "de media"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een informatieve tekst lezen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "De leestekst hieronder staat **zonder harakat**, zoals in een echte encyclopedie of krant. Gebruik je kennis van patronen en grammatica. Let op deze constructies uit eerdere lessen:"
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "In de tekst",
+            "Les"
+          ],
+          "rijen": [
+            [
+              "لا … إِلّا (beperking)",
+              "ولا يفصله عن أوروبا إلا مضيق جبل طارق",
+              "110"
+            ],
+            [
+              "أَمّا … فَـ (tegenstelling)",
+              "أما أكبر مدنه فهي الدار البيضاء",
+              "103"
+            ],
+            [
+              "dualis",
+              "اللغتان الرسميتان هما …",
+              "40"
+            ],
+            [
+              "telwoord 22 (v)",
+              "اثنتين وعشرين دولة",
+              "83"
+            ],
+            [
+              "كَما أَنَّ (bovendien)",
+              "كما أن الفرنسية منتشرة …",
+              "nieuw"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Informatieve teksten volgen een vaste volgorde: **ligging → hoofdstad en steden → natuur → taal → internationale positie**. Weet je dat, dan weet je al waar je welke informatie vindt."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كَما أَنَّ} betekent *bovendien, en ook* en wordt gevolgd door een naamwoord in de **accusatief**: {ar|كَما أَنَّ الفَرَنْسِيَّةَ مُنْتَشِرَةٌ}."
+        }
+      ]
+    },
+    {
+      "titel": "Enkele zinnen gevocaliseerd",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَحُدُّهُ البَحْرُ الأَبْيَضُ المُتَوَسِّطُ مِنَ الشَّمالِ.",
+              "tr": "yaḥudduhu l-baḥru l-abyaḍu l-mutawassiṭu mina š-šamāl.",
+              "nl": "In het noorden grenst het aan de Middellandse Zee."
+            },
+            {
+              "ar": "لا يَفْصِلُهُ عَنْ أوروبّا إِلّا مَضيقُ جَبَلِ طارِقٍ.",
+              "tr": "lā yafṣiluhu ʿan ūrūbbā illā maḍīqu jabali ṭāriq.",
+              "nl": "Alleen de Straat van Gibraltar scheidt het van Europa."
+            },
+            {
+              "ar": "اللُّغَتانِ الرَّسْمِيَّتانِ هُما العَرَبِيَّةُ وَالأَمازيغِيَّةُ.",
+              "tr": "al-luġatāni r-rasmiyyatāni huma l-ʿarabiyyatu wa-l-amāzīġiyya.",
+              "nl": "De twee officiële talen zijn Arabisch en Amazigh."
+            },
+            {
+              "ar": "تَضُمُّ جامِعَةُ الدُّوَلِ العَرَبِيَّةِ اثْنَتَيْنِ وَعِشْرينَ دَوْلَةً.",
+              "tr": "taḍummu jāmiʿatu d-duwali l-ʿarabiyyati ṯnatayni wa-ʿišrīna dawla.",
+              "nl": "De Arabische Liga telt tweeëntwintig landen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَضيقٌ",
+              "nl": "zeestraat",
+              "woord": "j3-p11-l128-w04"
+            },
+            {
+              "ar": "تَنَوُّعٌ",
+              "nl": "verscheidenheid",
+              "woord": "j3-p11-l128-w05"
+            },
+            {
+              "ar": "مَساحَةٌ",
+              "nl": "oppervlakte",
+              "woord": "j3-p11-l128-w07"
+            },
+            {
+              "ar": "عُضْوٌ",
+              "nl": "lid",
+              "woord": "j3-p11-l128-w11"
+            },
+            {
+              "ar": "مُنْتَشِرٌ",
+              "nl": "wijdverbreid",
+              "woord": "j3-p11-l128-w13"
+            },
+            {
+              "ar": "عَرْضٌ",
+              "nl": "breedte",
+              "woord": "j3-p11-l128-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "leesvaardigheid",
+          "tekst": "اللُّغَتانِ الرَّسْمِيَّتانِ هُما العَرَبِيَّةُ وَالأَمازيغِيَّةُ",
+          "vraag": "Welke talen zijn officieel?",
+          "opties": [
+            "Arabisch en Amazigh",
+            "Arabisch en Frans",
+            "alleen Arabisch"
+          ],
+          "juist": 0,
+          "uitleg": "Dualis."
+        }
+      ]
+    },
+    {
+      "titel": "Leestekst",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Lees de tekst. Waaraan grenst Marokko in het westen?",
+          "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+          "opties": [
+            "de Atlantische Oceaan",
+            "de Middellandse Zee",
+            "de Sahara"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|والمحيط الأطلسي من الغرب}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde tekst. Wat scheidt Marokko van Europa?",
+          "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+          "opties": [
+            "alleen de Straat van Gibraltar",
+            "de Middellandse Zee en Spanje",
+            "het Atlasgebergte"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لا يفصله … إلا مضيق جبل طارق}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde tekst. Wat is de grootste stad?",
+          "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+          "opties": [
+            "Casablanca",
+            "Rabat",
+            "Fès"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أما أكبر مدنه فهي الدار البيضاء}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde tekst. Waar wordt Frans veel gebruikt?",
+          "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+          "opties": [
+            "in de administratie en het onderwijs",
+            "in de moskee",
+            "nergens"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|منتشرة في الإدارة والتعليم}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Dezelfde tekst. Wat verbindt de Arabische landen volgens de tekst?",
+          "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+          "opties": [
+            "het Fusha in schrift en media",
+            "één dialect",
+            "het Frans"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لكن الفصحى تجمعهم في الكتابة والإعلام}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "leesvaardigheid",
+          "nl": "De Arabische Liga telt 22 landen.",
+          "woorden": [
+            "تَضُمُّ",
+            "جامِعَةُ",
+            "الدُّوَلِ",
+            "العَرَبِيَّةِ",
+            "اثْنَتَيْنِ",
+            "وَعِشْرينَ",
+            "دَوْلَةً."
+          ],
+          "uitleg": "{ar|ضَمَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de bergketen",
+          "antwoorden": [
+            "سِلْسِلَةُ الجِبالِ",
+            "سلسلة الجبال",
+            "سِلْسِلَةُ جِبالٍ"
+          ],
+          "uitleg": "{ar|سِلْسِلَةُ جِبالٍ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "leesvaardigheid",
+          "bron": "يتميز المغرب بتنوع طبيعته.",
+          "antwoorden": [
+            "marokko onderscheidt zich door zijn gevarieerde natuur",
+            "marokko valt op door de verscheidenheid van zijn natuur"
+          ],
+          "uitleg": "Zonder harakat."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "جامِعَةُ الدُّوَلِ العَرَبِيَّةِ",
+            "nl": "Arabische Liga"
+          },
+          {
+            "ar": "المَشْرِقُ",
+            "nl": "het Midden-Oosten"
+          },
+          {
+            "ar": "حَدَّ يَحُدُّ",
+            "nl": "grenzen aan"
+          },
+          {
+            "ar": "فَصَلَ عَنْ",
+            "nl": "scheiden van"
+          },
+          {
+            "ar": "الإِعْلامُ",
+            "nl": "de media"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Lees de tekst. Hoe breed is de Straat van Gibraltar op zijn smalst?",
+        "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+        "opties": [
+          "niet meer dan 14 km",
+          "40 km",
+          "4 km"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا يزيد عرضه على أربعة عشر كيلومترا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Dezelfde tekst. Wat is de hoofdstad?",
+        "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+        "opties": [
+          "Rabat",
+          "Casablanca",
+          "Marrakech"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عاصمة المغرب هي الرباط}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Dezelfde tekst. Wat ligt er in het zuiden?",
+        "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+        "opties": [
+          "een uitgestrekte woestijn",
+          "lange kusten",
+          "het Atlasgebergte"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وصحراء واسعة في الجنوب}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Dezelfde tekst. Hoe spreken de inwoners van de Arabische landen Arabisch?",
+        "ar": "يقع المغرب في شمال غرب أفريقيا، ويحده البحر الأبيض المتوسط من الشمال والمحيط الأطلسي من الغرب. ولا يفصله عن أوروبا إلا مضيق جبل طارق، الذي لا يزيد عرضه على أربعة عشر كيلومترا. عاصمة المغرب هي الرباط، أما أكبر مدنه فهي الدار البيضاء. يتميز المغرب بتنوع طبيعته: ففيه سلاسل جبال الأطلس، وسواحل طويلة، وصحراء واسعة في الجنوب. واللغتان الرسميتان هما العربية والأمازيغية، كما أن الفرنسية منتشرة في الإدارة والتعليم. والمغرب عضو في جامعة الدول العربية التي تضم اثنتين وعشرين دولة، يتكلم سكانها العربية بلهجات مختلفة، لكن الفصحى تجمعهم في الكتابة والإعلام.",
+        "opties": [
+          "in verschillende dialecten",
+          "allemaal in het Fusha",
+          "alleen in het Marokkaans"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بلهجات مختلفة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Na {ar|كَما أَنَّ} staat het onderwerp in de ...",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Zoals na {ar|أَنَّ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "leesvaardigheid",
+        "tekst": "أَمّا أَكْبَرُ مُدُنِهِ فَهِيَ الدّارُ البَيْضاءُ",
+        "vraag": "Wat is de grootste stad?",
+        "opties": [
+          "Casablanca",
+          "Rabat",
+          "Tanger"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَمّا … فَـ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "المَغْرِبُ عُضْوٌ في جامِعَةِ الدُّوَلِ العَرَبِيَّةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Marokko is lid van de Arabische Liga.",
+          "Marokko is geen lid.",
+          "Marokko heeft de Liga opgericht."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عُضْوٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "leesvaardigheid",
+        "zin": "لا يَفْصِلُ المَغْرِبَ عَنْ أوروبّا ___ مَضيقٌ صَغيرٌ.",
+        "nl": "Alleen een smalle zeestraat scheidt Marokko van Europa.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "Beperking.",
+        "woordbank": [
+          "إِلّا",
+          "لٰكِنْ",
+          "أَمّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "الفَرَنْسِيَّةُ ___ في الإِدارَةِ.",
+        "nl": "Het Frans is wijdverbreid in de administratie.",
+        "antwoord": [
+          "مُنْتَشِرَةٌ"
+        ],
+        "uitleg": "Vrouwelijk.",
+        "woordbank": [
+          "مُنْتَشِرَةٌ",
+          "مُنْتَشِرٌ",
+          "اِنْتِشارٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يَتَمَيَّزُ المَغْرِبُ ___ تَنَوُّعِ طَبيعَتِهِ.",
+        "nl": "Marokko onderscheidt zich door zijn gevarieerde natuur.",
+        "antwoord": [
+          "بِـ"
+        ],
+        "uitleg": "{ar|تَمَيَّزَ بِـ}",
+        "woordbank": [
+          "بِـ",
+          "عَنْ",
+          "في"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "leesvaardigheid",
+        "nl": "De twee officiële talen zijn Arabisch en Amazigh.",
+        "woorden": [
+          "اللُّغَتانِ",
+          "الرَّسْمِيَّتانِ",
+          "هُما",
+          "العَرَبِيَّةُ",
+          "وَالأَمازيغِيَّةُ."
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de zeestraat",
+        "antwoorden": [
+          "المَضيقُ",
+          "المضيق"
+        ],
+        "uitleg": "{ar|المَضيقُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "الفصحى تجمعهم في الكتابة والإعلام.",
+        "antwoorden": [
+          "het fusha verbindt hen in schrift en media",
+          "het standaardarabisch verenigt hen in het schrijven en de media"
+        ],
+        "uitleg": "Zonder harakat."
+      }
+    ]
+  }
+}

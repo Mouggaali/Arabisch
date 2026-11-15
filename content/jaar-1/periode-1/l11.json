@@ -1,0 +1,196 @@
+{
+  "id": "j1-p1-l11",
+  "code": "L11",
+  "type": "les",
+  "titel": "Familie",
+  "thema": "Je familie voorstellen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de belangrijkste familieleden benoemen.",
+    "bezit uitdrukken met een achtervoegsel: mijn huis, jouw vader, haar zus.",
+    "uitleggen waarom ة verandert in ت als er een achtervoegsel aan vastzit.",
+    "mijn familie in een paar zinnen voorstellen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l11-w01", "ar": "عائِلَةٌ", "tr": "ʿāʾila", "nl": ["familie", "gezin"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w02", "ar": "أَبٌ", "tr": "ab", "nl": ["vader"], "soort": "zelfstandig naamwoord", "notitie": "Met achtervoegsel: {ar|أَبي} (mijn vader), maar {ar|أَبوكَ} (jouw vader). Zie de grammatica." },
+    { "id": "j1-p1-l11-w03", "ar": "أُمٌّ", "tr": "umm", "nl": ["moeder"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk zonder ة." },
+    { "id": "j1-p1-l11-w04", "ar": "أَخٌ", "tr": "aḫ", "nl": ["broer"], "soort": "zelfstandig naamwoord", "notitie": "{ar|أَخي} (mijn broer), {ar|أَخوكَ} (jouw broer)." },
+    { "id": "j1-p1-l11-w05", "ar": "أُخْتٌ", "tr": "uḫt", "nl": ["zus"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk zonder ة." },
+    { "id": "j1-p1-l11-w06", "ar": "اِبْنٌ", "tr": "ibn", "nl": ["zoon"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w07", "ar": "اِبْنَةٌ", "tr": "ibna", "nl": ["dochter"], "soort": "zelfstandig naamwoord", "notitie": "Ook {ar|بِنْتٌ} betekent dochter." },
+    { "id": "j1-p1-l11-w08", "ar": "جَدٌّ", "tr": "jadd", "nl": ["opa", "grootvader"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w09", "ar": "جَدَّةٌ", "tr": "jadda", "nl": ["oma", "grootmoeder"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w10", "ar": "عَمٌّ", "tr": "ʿamm", "nl": ["oom (broer van vader)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w11", "ar": "عَمَّةٌ", "tr": "ʿamma", "nl": ["tante (zus van vader)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w12", "ar": "خالٌ", "tr": "ḫāl", "nl": ["oom (broer van moeder)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w13", "ar": "خالَةٌ", "tr": "ḫāla", "nl": ["tante (zus van moeder)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w14", "ar": "زَوْجٌ", "tr": "zawj", "nl": ["echtgenoot", "man"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w15", "ar": "زَوْجَةٌ", "tr": "zawja", "nl": ["echtgenote", "vrouw"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w16", "ar": "طِفْلٌ", "tr": "ṭifl", "nl": ["kind"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|أَطْفالٌ}." },
+    { "id": "j1-p1-l11-w17", "ar": "أَطْفالٌ", "tr": "aṭfāl", "nl": ["kinderen"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p1-l11-w18", "ar": "والِدانِ", "tr": "wālidān", "nl": ["ouders"], "soort": "zelfstandig naamwoord (dualis)", "notitie": "Letterlijk: de twee ouders (dualis)." },
+    { "id": "j1-p1-l11-w19", "ar": "حَفيدٌ", "tr": "ḥafīd", "nl": ["kleinzoon"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w20", "ar": "حَفيدَةٌ", "tr": "ḥafīda", "nl": ["kleindochter"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l11-w21", "ar": "اِبْنُ عَمٍّ", "tr": "ibnu ʿamm", "nl": ["neef (zoon van oom)"], "soort": "uitdrukking", "notitie": "Letterlijk: zoon van een oom." },
+    { "id": "j1-p1-l11-w22", "ar": "مُتَزَوِّجٌ", "tr": "mutazawwij", "nl": ["getrouwd"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|مُتَزَوِّجَةٌ}." },
+    { "id": "j1-p1-l11-w23", "ar": "وَحيدٌ", "tr": "waḥīd", "nl": ["enig (kind)", "alleen"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l11-w24", "ar": "صورَةُ العائِلَةِ", "tr": "ṣūratu l-ʿāʾila", "nl": ["familiefoto"], "soort": "uitdrukking" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Mijn, jouw, zijn: bezittelijke achtervoegsels",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "*Mijn huis* zeg je in het Arabisch met een **achtervoegsel**: {ar|بَيْتٌ} → {ar|بَيْتي}. Het zijn dezelfde achtervoegsels als bij {ar|عِنْدي} in les 10.",
+          "Een woord met een bezittelijk achtervoegsel is **bepaald** (het is *míjn* huis). Het krijgt daarom **geen ال** en **geen tanwīn**."
+        ] },
+        { "type": "tabel", "kop": ["Bezitter", "Achtervoegsel", "Voorbeeld", "Nederlands"], "arKolommen": [1, 2], "rijen": [
+          ["ik", "ـي|-ī", "بَيْتي|baytī", "mijn huis"],
+          ["jij (m)", "ـكَ|-ka", "بَيْتُكَ|baytuka", "jouw huis"],
+          ["jij (v)", "ـكِ|-ki", "بَيْتُكِ|baytuki", "jouw huis"],
+          ["hij", "ـهُ|-hu", "بَيْتُهُ|baytuhu", "zijn huis"],
+          ["zij", "ـها|-hā", "بَيْتُها|baytuhā", "haar huis"],
+          ["wij", "ـنا|-nā", "بَيْتُنا|baytunā", "ons huis"],
+          ["jullie (m)", "ـكُمْ|-kum", "بَيْتُكُمْ|baytukum", "jullie huis"],
+          ["jullie (v)", "ـكُنَّ|-kunna", "بَيْتُكُنَّ|baytukunna", "jullie huis"],
+          ["zij (m mv)", "ـهُمْ|-hum", "بَيْتُهُمْ|baytuhum", "hun huis"],
+          ["zij (v mv)", "ـهُنَّ|-hunna", "بَيْتُهُنَّ|baytuhunna", "hun huis"]
+        ] },
+        { "type": "letop", "md": "Bij ـي (*mijn*) valt de naamvalsklinker weg: {ar|بَيْتي}. Bij de andere achtervoegsels hoor je hem wel: {ar|بَيْتُكَ} (*baytu-ka*)." }
+      ]
+    },
+    {
+      "titel": "ة wordt ت",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Eindigt een woord op ة, dan schrijf je die als gewone **ت** zodra er een achtervoegsel achter komt: {ar|عائِلَةٌ} → {ar|عائِلَتي} (mijn familie), {ar|جَدَّةٌ} → {ar|جَدَّتُها} (haar oma)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "عائِلَتي كَبيرَةٌ.", "tr": "ʿāʾilatī kabīra.", "nl": "Mijn familie is groot." },
+          { "ar": "جَدَّتُهُ مُسِنَّةٌ.", "tr": "jaddatuhu musinna.", "nl": "Zijn oma is op leeftijd." },
+          { "ar": "خالَتُنا طَبيبَةٌ.", "tr": "ḫālatunā ṭabība.", "nl": "Onze tante is arts." }
+        ] },
+        { "type": "waarom", "md": "De ة is eigenlijk een t (*ta marbūṭa*, de *gebonden t*). Aan het eind van een woord in pausa hoor je hem niet: *ʿāʾila*. Komt er iets achter, dan staat hij midden in het woord en hoor je de t weer: *ʿāʾilatī*. Een ة kan alleen aan het eind van een woord staan, dus wordt het dan een gewone ت." }
+      ]
+    },
+    {
+      "titel": "Vader en broer: een kleine uitzondering",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "{ar|أَبٌ} (vader) en {ar|أَخٌ} (broer) krijgen een lange klinker vóór het achtervoegsel, behalve bij *mijn*: {ar|أَبي} (mijn vader) en {ar|أَخي} (mijn broer), maar {ar|أَبوكَ} (jouw vader), {ar|أَخوها} (haar broer).",
+          "Die lange klinker verandert met de naamval. Dat leer je in jaar 2 (de *vijf zelfstandige naamwoorden*). Gebruik nu de vorm met و als onderwerp."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "هٰذا أَبي وَهٰذِهِ أُمّي.", "tr": "hāḏā abī wa-hāḏihi ummī.", "nl": "Dit is mijn vader en dit is mijn moeder." },
+          { "ar": "أَخوكَ طالِبٌ؟", "tr": "aḫūka ṭālib?", "nl": "Is jouw broer student?",
+            "review": { "status": "onzeker", "note": "Ja/nee-vraag zonder هَلْ. Overweeg هَلْ أَخوكَ طالِبٌ؟" } },
+          { "ar": "عِنْدي أَخٌ وَأُخْتانِ.", "tr": "ʿindī aḫun wa-uḫtān.", "nl": "Ik heb een broer en twee zussen." },
+          { "ar": "أَنا اِبْنٌ وَحيدٌ.", "tr": "ana bnun waḥīd.", "nl": "Ik ben enig kind (zoon).",
+            "review": { "status": "onzeker", "note": "Uitspraak na أَنا: ana bnun (verbindingsalif). Controleer ook of أَنا الاِبْنُ الوَحيدُ natuurlijker is." } }
+        ] },
+        { "type": "waarom", "md": "{ar|أُخْتانِ} is een dualis: *twee zussen*. Je ziet hier al de uitgang ـانِ die je bij {ar|اِثْنانِ} (twee) en {ar|والِدانِ} (ouders) tegenkwam. In les 29 en 40 komt de dualis uitgebreid aan bod." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Familieleden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "أُمٌّ", "nl": "moeder", "woord": "j1-p1-l11-w03" },
+          { "ar": "أَبٌ", "nl": "vader", "woord": "j1-p1-l11-w02" },
+          { "ar": "أُخْتٌ", "nl": "zus", "woord": "j1-p1-l11-w05" },
+          { "ar": "جَدَّةٌ", "nl": "oma", "woord": "j1-p1-l11-w09" },
+          { "ar": "اِبْنٌ", "nl": "zoon", "woord": "j1-p1-l11-w06" },
+          { "ar": "زَوْجَةٌ", "nl": "echtgenote", "woord": "j1-p1-l11-w15" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l11-w13", "vraag": "Wie is je {ar|خالَةٌ}?", "opties": ["de zus van je moeder", "de zus van je vader", "de broer van je moeder", "je oma"], "juist": 0,
+          "uitleg": "{ar|خال} / {ar|خالَة} = familie van moederskant; {ar|عَمّ} / {ar|عَمَّة} = van vaderskant." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p1-l11-w10", "vraag": "Wie is je {ar|عَمٌّ}?", "opties": ["de broer van je vader", "de broer van je moeder", "je opa"], "juist": 0, "uitleg": "{ar|عَمّ} = oom van vaderskant." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "أُمّي وَأَبي", "vraag": "Wat hoor je?", "opties": ["mijn moeder en mijn vader", "jouw moeder en jouw vader", "mijn oma en mijn opa"], "juist": 0, "uitleg": "ـي = mijn." }
+      ]
+    },
+    {
+      "titel": "Mijn, jouw, zijn, haar",
+      "items": [
+        { "type": "vervoegen", "tag": "bezit-suffix", "instructie": "Maak 'huis' bezittelijk.",
+          "rijen": [
+            { "label": "mijn huis", "antwoord": "بَيْتي", "tr": "baytī" },
+            { "label": "jouw (m) huis", "antwoord": "بَيْتُكَ", "tr": "baytuka", "eind": true },
+            { "label": "jouw (v) huis", "antwoord": "بَيْتُكِ", "tr": "baytuki", "eind": true },
+            { "label": "zijn huis", "antwoord": "بَيْتُهُ", "tr": "baytuhu" },
+            { "label": "haar huis", "antwoord": "بَيْتُها", "tr": "baytuhā" }
+          ],
+          "uitleg": "Dezelfde achtervoegsels als bij {ar|عِنْدَ}." },
+        { "type": "vervoegen", "tag": "ta-marbuta", "instructie": "Maak bezittelijk; let op ة → ت.",
+          "rijen": [
+            { "label": "mijn familie", "ar": "عائِلَةٌ", "antwoord": "عائِلَتي", "tr": "ʿāʾilatī" },
+            { "label": "zijn oma", "ar": "جَدَّةٌ", "antwoord": "جَدَّتُهُ", "tr": "jaddatuhu" },
+            { "label": "onze tante (moederskant)", "ar": "خالَةٌ", "antwoord": "خالَتُنا", "tr": "ḫālatunā" },
+            { "label": "hun auto", "ar": "سَيّارَةٌ", "antwoord": "سَيّارَتُهُمْ", "tr": "sayyāratuhum" }
+          ],
+          "uitleg": "ة wordt ت zodra er een achtervoegsel achter staat." },
+        { "type": "invullen", "tag": "bezit-suffix", "zin": "هٰذا ___ وَهٰذِهِ أُمّي.", "nl": "Dit is mijn vader en dit is mijn moeder.", "woordbank": ["أَبي", "أَبوكَ", "الأَبُ"], "antwoord": ["أَبي"], "uitleg": "*Mijn vader*: {ar|أَبي}." },
+        { "type": "invullen", "tag": "bezit-suffix", "zin": "___ مُعَلِّمَةٌ.", "nl": "Haar zus is lerares.", "woordbank": ["أُخْتُها", "أُخْتُهُ", "أُخْتي"], "antwoord": ["أُخْتُها"], "uitleg": "ـها = haar." },
+        { "type": "meerkeuze", "tag": "bezit-suffix", "vraag": "Waarom heeft {ar|بَيْتي} geen ال?", "opties": ["Een woord met een bezittelijk achtervoegsel is al bepaald.", "Omdat ب een maanletter is.", "Omdat het mannelijk is."], "juist": 0,
+          "uitleg": "*Mijn huis* is een bepaald huis; ال zou dubbel zijn." }
+      ]
+    },
+    {
+      "titel": "Over je familie vertellen",
+      "items": [
+        { "type": "ordenen", "tag": "bezit-suffix", "nl": "Mijn familie is groot.", "woorden": ["عائِلَتي", "كَبيرَةٌ."], "uitleg": "{ar|عائِلَةٌ} is vrouwelijk: {ar|كَبيرَةٌ}." },
+        { "type": "ordenen", "tag": "hebben-inda", "nl": "Ik heb een broer en twee zussen.", "woorden": ["عِنْدي", "أَخٌ", "وَأُخْتانِ."], "uitleg": "{ar|عِنْدي} + onbepaald; {ar|أُخْتانِ} = twee zussen." },
+        { "type": "ordenen", "tag": "ta-marbuta", "nl": "Onze tante is arts.", "woorden": ["خالَتُنا", "طَبيبَةٌ."], "uitleg": "ة → ت: {ar|خالَتُنا}." },
+        { "type": "luisteren", "tag": "bezit-suffix", "tekst": "جَدّي وَجَدَّتي في المَغْرِبِ", "vraag": "Wat hoor je?", "opties": ["Mijn opa en oma zijn in Marokko.", "Jouw opa en oma zijn in Marokko.", "Mijn ooms zijn in Marokko."], "juist": 0,
+          "uitleg": "{ar|جَدّي} = mijn opa, {ar|جَدَّتي} = mijn oma; {ar|في} = in." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bezit-suffix", "bron": "mijn moeder", "antwoorden": ["أُمّي"], "uitleg": "{ar|أُمّي}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "ta-marbuta", "bron": "mijn familie", "antwoorden": ["عائِلَتي"], "uitleg": "{ar|عائِلَتي}: ة → ت." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bezit-suffix", "bron": "Zijn broer is student.", "antwoorden": ["أَخوهُ طالِبٌ"], "uitleg": "{ar|أَخوهُ}: met و vóór het achtervoegsel." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "زَوْجَتُهُ مُهَنْدِسَةٌ.", "tr": "zawjatuhu muhandisa.", "antwoorden": ["zijn vrouw is ingenieur", "zijn echtgenote is ingenieur"], "uitleg": "ـهُ = zijn." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "أَطْفالُهُمْ صِغارٌ.", "tr": "aṭfāluhum ṣiġār.", "antwoorden": ["hun kinderen zijn klein", "hun kinderen zijn jong"], "uitleg": "{ar|صِغارٌ} is het meervoud van {ar|صَغيرٌ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "هَلْ أَنْتَ مُتَزَوِّجٌ؟", "tr": "hal anta mutazawwij?", "antwoorden": ["ben je getrouwd", "ben jij getrouwd", "bent u getrouwd"], "uitleg": "{ar|مُتَزَوِّجٌ} = getrouwd." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "عائِلَةٌ", "nl": "familie" },
+        { "ar": "جَدٌّ", "nl": "opa" },
+        { "ar": "طِفْلٌ", "nl": "kind" },
+        { "ar": "زَوْجٌ", "nl": "echtgenoot" },
+        { "ar": "والِدانِ", "nl": "ouders" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "bezit-suffix", "vraag": "'Ons huis' is ...", "opties": ["بَيْتُنا", "بَيْتُها", "بَيْتُهُمْ", "بَيْتي"], "juist": 0, "uitleg": "ـنا = ons." },
+      { "type": "meerkeuze", "tag": "ta-marbuta", "vraag": "Hoe schrijf je 'haar familie'?", "opties": ["عائِلَتُها", "عائِلَةُها", "العائِلَتُها"], "juist": 0, "uitleg": "ة → ت, geen ال." },
+      { "type": "meerkeuze", "tag": "woordenschat", "vraag": "De broer van je moeder is je ...", "opties": ["خالٌ", "عَمٌّ", "جَدٌّ"], "juist": 0, "uitleg": "Moederskant: {ar|خال}." },
+      { "type": "luisteren", "tag": "bezit-suffix", "tekst": "أَبوكَ", "vraag": "Wat hoor je?", "opties": ["jouw vader", "mijn vader", "zijn vader"], "juist": 0, "uitleg": "{ar|أَبوكَ} = jouw vader." },
+      { "type": "luisteren", "tag": "bezit-suffix", "tekst": "أُخْتُها", "vraag": "Wat hoor je?", "opties": ["haar zus", "zijn zus", "mijn zus"], "juist": 0, "uitleg": "ـها = haar." },
+      { "type": "invullen", "tag": "bezit-suffix", "zin": "___ كَبيرٌ.", "nl": "Hun huis is groot.", "woordbank": ["بَيْتُهُمْ", "بَيْتُهُ", "بَيْتُنا"], "antwoord": ["بَيْتُهُمْ"], "uitleg": "ـهُمْ = hun." },
+      { "type": "invullen", "tag": "ta-marbuta", "zin": "___ طَبيبَةٌ.", "nl": "Mijn tante (vaderskant) is arts.", "antwoord": ["عَمَّتي"], "uitleg": "{ar|عَمَّةٌ} → {ar|عَمَّتي}." },
+      { "type": "vervoegen", "tag": "bezit-suffix", "instructie": "Maak 'boek' bezittelijk.",
+        "rijen": [
+          { "label": "mijn boek", "antwoord": "كِتابي", "tr": "kitābī" },
+          { "label": "haar boek", "antwoord": "كِتابُها", "tr": "kitābuhā" },
+          { "label": "jullie (m) boek", "antwoord": "كِتابُكُمْ", "tr": "kitābukum" }
+        ], "uitleg": "{ar|كِتابي} · {ar|كِتابُها} · {ar|كِتابُكُمْ}" },
+      { "type": "ordenen", "tag": "bezit-suffix", "nl": "Dit is mijn vader en dit is mijn moeder.", "woorden": ["هٰذا", "أَبي", "وَهٰذِهِ", "أُمّي."], "uitleg": "{ar|هٰذا} voor vader, {ar|هٰذِهِ} voor moeder." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "bezit-suffix", "bron": "mijn broer", "antwoorden": ["أَخي"], "uitleg": "{ar|أَخي}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ta-marbuta", "bron": "Mijn oma is op leeftijd.", "antwoorden": ["جَدَّتي مُسِنَّةٌ"], "uitleg": "{ar|جَدَّتي مُسِنَّةٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "عائِلَتُكِ كَبيرَةٌ.", "tr": "ʿāʾilatuki kabīra.", "antwoorden": ["jouw familie is groot", "je familie is groot", "jouw gezin is groot", "je gezin is groot"], "uitleg": "ـكِ = jouw (tegen een vrouw)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "اِبْنُها ذَكِيٌّ.", "tr": "ibnuhā ḏakī.", "antwoorden": ["haar zoon is slim", "haar zoon is intelligent"], "uitleg": "ـها = haar." }
+    ]
+  }
+}

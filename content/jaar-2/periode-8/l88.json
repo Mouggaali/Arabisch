@@ -1,0 +1,639 @@
+{
+  "id": "j2-p8-l88",
+  "code": "L88",
+  "type": "les",
+  "titel": "Internet",
+  "thema": "Sociale media, privacy en technologie; maṣdars en leenwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "maṣdars van alle vormen herkennen en vormen.",
+    "Arabische vaktermen en leenwoorden voor technologie gebruiken.",
+    "over internetgebruik en privacy praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l88-w01",
+      "ar": "الإِنْتَرْنِتُ",
+      "tr": "al-intarnit",
+      "nl": [
+        "het internet"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|الشّابِكَةُ} (puristisch)."
+    },
+    {
+      "id": "j2-p8-l88-w02",
+      "ar": "مَوْقِعٌ إِلِكْتْرونِيٌّ",
+      "tr": "mawqiʿun iliktrūniyy",
+      "nl": [
+        "website"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l88-w03",
+      "ar": "تَصَفَّحَ",
+      "tr": "taṣaffaḥa",
+      "nl": [
+        "surfen, browsen"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Maṣdar {ar|تَصَفُّحٌ}."
+    },
+    {
+      "id": "j2-p8-l88-w04",
+      "ar": "تَسْجيلُ الدُّخولِ",
+      "tr": "tasjīlu d-duḫūl",
+      "nl": [
+        "inloggen"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l88-w05",
+      "ar": "مَنْشورٌ",
+      "tr": "manšūr",
+      "nl": [
+        "post (sociale media)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w06",
+      "ar": "إِعْجابٌ",
+      "tr": "iʿjāb",
+      "nl": [
+        "like, bewondering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w07",
+      "ar": "تَعْليقٌ",
+      "tr": "taʿlīq",
+      "nl": [
+        "reactie, commentaar"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w08",
+      "ar": "مُشارَكَةٌ",
+      "tr": "mušāraka",
+      "nl": [
+        "delen (share), deelname"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w09",
+      "ar": "البَريدُ المُزْعِجُ",
+      "tr": "al-barīdu l-muzʿij",
+      "nl": [
+        "spam"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l88-w10",
+      "ar": "قَرْصَنَةٌ",
+      "tr": "qarṣana",
+      "nl": [
+        "hacken, piraterij"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w11",
+      "ar": "خُصوصِيَّةٌ",
+      "tr": "ḫuṣūṣiyya",
+      "nl": [
+        "privacy"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w12",
+      "ar": "بَياناتٌ",
+      "tr": "bayānāt",
+      "nl": [
+        "gegevens, data"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p8-l88-w13",
+      "ar": "حاسوبٌ مَحْمولٌ",
+      "tr": "ḥāsūbun maḥmūl",
+      "nl": [
+        "laptop"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l88-w14",
+      "ar": "الذَّكاءُ الاِصْطِناعِيُّ",
+      "tr": "aḏ-ḏakāʾu l-iṣṭināʿiyy",
+      "nl": [
+        "kunstmatige intelligentie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l88-w15",
+      "ar": "إيميلٌ",
+      "tr": "īmēl",
+      "nl": [
+        "e-mail (leenwoord)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l88-w16",
+      "ar": "فيديو",
+      "tr": "fīdyū",
+      "nl": [
+        "video"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Onveranderlijk."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Maṣdar van alle vormen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Werkwoord",
+            "Maṣdar",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "II",
+              "سَجَّلَ",
+              "تَسْجيلٌ",
+              "registreren / registratie"
+            ],
+            [
+              "III",
+              "شارَكَ",
+              "مُشارَكَةٌ",
+              "delen / deelname"
+            ],
+            [
+              "IV",
+              "أَعْجَبَ",
+              "إِعْجابٌ",
+              "bevallen / bewondering"
+            ],
+            [
+              "V",
+              "تَصَفَّحَ",
+              "تَصَفُّحٌ",
+              "surfen"
+            ],
+            [
+              "VI",
+              "تَواصَلَ",
+              "تَواصُلٌ",
+              "contact houden"
+            ],
+            [
+              "VIII",
+              "اِتَّصَلَ",
+              "اِتِّصالٌ",
+              "verbinden / verbinding"
+            ],
+            [
+              "X",
+              "اِسْتَخْدَمَ",
+              "اِسْتِخْدامٌ",
+              "gebruiken / gebruik"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Technologische woordenschat is in het Arabisch grotendeels **gemaakt** met maṣdars van afgeleide vormen: {ar|تَحْميلٌ} (downloaden), {ar|تَسْجيلٌ} (registratie), {ar|تَصَفُّحٌ} (surfen). Ken je de patronen, dan raad je veel nieuwe woorden."
+        }
+      ]
+    },
+    {
+      "titel": "Leenwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Naast eigen woorden gebruikt het Arabisch veel **leenwoorden**: {ar|الإِنْتَرْنِتُ}، {ar|فيديو}، {ar|إيميلٌ}، {ar|كُمْبيوتَرٌ}. In formele teksten wordt vaak het Arabische woord verkozen ({ar|الحاسوبُ}، {ar|البَريدُ الإِلِكْتْرونِيُّ})."
+        },
+        {
+          "type": "letop",
+          "md": "Leenwoorden op een klinker (zoals {ar|فيديو}) zijn onveranderlijk: geen naamvalsuitgang. Leenwoorden op een medeklinker krijgen meestal gewoon naamvallen ({ar|الإِنْتَرْنِتِ} na een voorzetsel)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَقْضي ساعَتَيْنِ يَوْمِيًّا في تَصَفُّحِ الإِنْتَرْنِتِ.",
+              "tr": "aqḍī sāʿatayni yawmiyyan fī taṣaffuḥi l-intarnit.",
+              "nl": "Ik besteed dagelijks twee uur aan internetten."
+            },
+            {
+              "ar": "نَشَرْتُ مَنْشورًا وَحَصَلَ عَلى مِئَةِ إِعْجابٍ.",
+              "tr": "našartu manšūran wa-ḥaṣala ʿalā miʾati iʿjāb.",
+              "nl": "Ik plaatste een post en hij kreeg honderd likes."
+            },
+            {
+              "ar": "يَجِبُ أَنْ نَحْمِيَ خُصوصِيَّتَنا وَبَياناتِنا.",
+              "tr": "yajibu an naḥmiya ḫuṣūṣiyyatanā wa-bayānātinā.",
+              "nl": "We moeten onze privacy en gegevens beschermen."
+            },
+            {
+              "ar": "الذَّكاءُ الاِصْطِناعِيُّ يُغَيِّرُ العالَمَ.",
+              "tr": "aḏ-ḏakāʾu l-iṣṭināʿiyyu yuġayyiru l-ʿālam.",
+              "nl": "Kunstmatige intelligentie verandert de wereld."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَنْشورٌ",
+              "nl": "post",
+              "woord": "j2-p8-l88-w05"
+            },
+            {
+              "ar": "تَعْليقٌ",
+              "nl": "reactie",
+              "woord": "j2-p8-l88-w07"
+            },
+            {
+              "ar": "خُصوصِيَّةٌ",
+              "nl": "privacy",
+              "woord": "j2-p8-l88-w11"
+            },
+            {
+              "ar": "بَياناتٌ",
+              "nl": "gegevens",
+              "woord": "j2-p8-l88-w12"
+            },
+            {
+              "ar": "قَرْصَنَةٌ",
+              "nl": "hacken",
+              "woord": "j2-p8-l88-w10"
+            },
+            {
+              "ar": "حاسوبٌ مَحْمولٌ",
+              "nl": "laptop",
+              "woord": "j2-p8-l88-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "masdar-afgeleid",
+          "tekst": "تَسْجيلُ الدُّخولِ سَهْلٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Inloggen is makkelijk.",
+            "Registreren is moeilijk.",
+            "Het internet is traag."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَسْجيلٌ}: maṣdar vorm II."
+        }
+      ]
+    },
+    {
+      "titel": "Maṣdar",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar.",
+          "rijen": [
+            {
+              "label": "تَصَفَّحَ (V)",
+              "antwoord": "تَصَفُّحٌ",
+              "tr": "taṣaffuḥ"
+            },
+            {
+              "label": "شارَكَ (III)",
+              "antwoord": "مُشارَكَةٌ",
+              "tr": "mušāraka"
+            },
+            {
+              "label": "اِسْتَخْدَمَ (X)",
+              "antwoord": "اِسْتِخْدامٌ",
+              "tr": "istiḫdām"
+            },
+            {
+              "label": "عَلَّقَ (II)",
+              "antwoord": "تَعْليقٌ",
+              "tr": "taʿlīq"
+            }
+          ],
+          "uitleg": "Patronen per vorm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "masdar-afgeleid",
+          "vraag": "Van welke vorm is {ar|تَواصُلٌ} de maṣdar?",
+          "opties": [
+            "VI",
+            "V",
+            "III"
+          ],
+          "juist": 0,
+          "uitleg": "تَفاعُل."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leenwoorden",
+          "vraag": "Welk woord is een leenwoord?",
+          "opties": [
+            "فيديو",
+            "تَسْجيلٌ",
+            "تَعْليقٌ"
+          ],
+          "juist": 0,
+          "uitleg": "*video*"
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "أُحِبُّ ___ الإِنْتَرْنِتِ في المَساءِ.",
+          "nl": "Ik surf 's avonds graag op internet.",
+          "antwoord": [
+            "تَصَفُّحَ"
+          ],
+          "uitleg": "Maṣdar als lijdend voorwerp.",
+          "woordbank": [
+            "تَصَفُّحَ",
+            "تَصَفَّحَ",
+            "مُتَصَفِّحَ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Online",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "masdar-afgeleid",
+          "nl": "We moeten onze privacy beschermen.",
+          "woorden": [
+            "يَجِبُ",
+            "أَنْ",
+            "نَحْمِيَ",
+            "خُصوصِيَّتَنا."
+          ],
+          "uitleg": "{ar|خُصوصِيَّةٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de website",
+          "antwoorden": [
+            "المَوْقِعُ الإِلِكْتْرونِيُّ",
+            "المَوْقِعُ"
+          ],
+          "uitleg": "{ar|المَوْقِعُ الإِلِكْتْرونِيُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "حَصَلَ المَنْشورُ عَلى مِئَةِ إِعْجابٍ.",
+          "antwoorden": [
+            "de post kreeg honderd likes",
+            "het bericht kreeg honderd likes"
+          ],
+          "uitleg": "{ar|إِعْجابٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَصَفَّحَ",
+            "nl": "surfen"
+          },
+          {
+            "ar": "البَريدُ المُزْعِجُ",
+            "nl": "spam"
+          },
+          {
+            "ar": "الذَّكاءُ الاِصْطِناعِيُّ",
+            "nl": "kunstmatige intelligentie"
+          },
+          {
+            "ar": "مُشارَكَةٌ",
+            "nl": "delen"
+          },
+          {
+            "ar": "إِعْجابٌ",
+            "nl": "like"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|سَجَّلَ} is ...",
+        "opties": [
+          "تَسْجيلٌ",
+          "مُسَجَّلٌ",
+          "سِجِلٌّ"
+        ],
+        "juist": 0,
+        "uitleg": "تَفْعيل."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|اِتَّصَلَ} is ...",
+        "opties": [
+          "اِتِّصالٌ",
+          "تَواصُلٌ",
+          "مُتَّصِلٌ"
+        ],
+        "juist": 0,
+        "uitleg": "اِفْتِعال."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leenwoorden",
+        "vraag": "In een formele tekst schrijf je voor 'computer' liever ...",
+        "opties": [
+          "الحاسوبُ",
+          "الكُمْبيوتَرُ",
+          "البي سي"
+        ],
+        "juist": 0,
+        "uitleg": "Arabisch woord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leenwoorden",
+        "vraag": "Krijgt {ar|فيديو} een naamvalsuitgang?",
+        "opties": [
+          "nee, het is onveranderlijk",
+          "ja, altijd",
+          "alleen in de genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Eindigt op een klinker."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "تَعَرَّضَ حِسابي لِلْقَرْصَنَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn account is gehackt.",
+          "Ik heb een nieuw account.",
+          "Mijn wachtwoord is sterk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَرْصَنَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "masdar-afgeleid",
+        "tekst": "شُكْرًا عَلى المُشارَكَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Bedankt voor het delen.",
+          "Bedankt voor je reactie.",
+          "Bedankt voor de like."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُشارَكَةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "masdar-afgeleid",
+        "zin": "كَتَبَ ___ تَحْتَ صورَتي.",
+        "nl": "Hij schreef een reactie onder mijn foto.",
+        "antwoord": [
+          "تَعْليقًا"
+        ],
+        "uitleg": "Maṣdar als lijdend voorwerp.",
+        "woordbank": [
+          "تَعْليقًا",
+          "عَلَّقَ",
+          "مُعَلِّقًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِحْذَرْ مِنَ ___ المُزْعِجِ.",
+        "nl": "Pas op voor spam.",
+        "antwoord": [
+          "البَريدِ"
+        ],
+        "uitleg": "{ar|البَريدُ المُزْعِجُ}",
+        "woordbank": [
+          "البَريدِ",
+          "البَياناتِ",
+          "الفيديو"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "masdar-afgeleid",
+        "zin": "___ الهاتِفِ أَثْناءَ القِيادَةِ خَطيرٌ.",
+        "nl": "Je telefoon gebruiken tijdens het rijden is gevaarlijk.",
+        "antwoord": [
+          "اِسْتِخْدامُ"
+        ],
+        "uitleg": "Maṣdar als onderwerp.",
+        "woordbank": [
+          "اِسْتِخْدامُ",
+          "اِسْتَخْدَمَ",
+          "مُسْتَخْدِمُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "masdar-afgeleid",
+        "instructie": "Geef de maṣdar.",
+        "rijen": [
+          {
+            "label": "حَمَّلَ (II)",
+            "antwoord": "تَحْميلٌ",
+            "tr": "taḥmīl"
+          },
+          {
+            "label": "تَواصَلَ (VI)",
+            "antwoord": "تَواصُلٌ",
+            "tr": "tawāṣul"
+          }
+        ],
+        "uitleg": "تَفْعيل · تَفاعُل"
+      },
+      {
+        "type": "ordenen",
+        "tag": "woordenschat",
+        "nl": "Kunstmatige intelligentie verandert de wereld.",
+        "woorden": [
+          "الذَّكاءُ",
+          "الاِصْطِناعِيُّ",
+          "يُغَيِّرُ",
+          "العالَمَ."
+        ],
+        "uitleg": "Nominale zin met werkwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de gegevens",
+        "antwoorden": [
+          "البَياناتُ"
+        ],
+        "uitleg": "{ar|البَياناتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "masdar-afgeleid",
+        "bron": "أَقْضي ساعَةً في تَصَفُّحِ الإِنْتَرْنِتِ.",
+        "antwoorden": [
+          "ik besteed een uur aan internetten",
+          "ik surf een uur op internet",
+          "ik breng een uur door met surfen op internet"
+        ],
+        "uitleg": "Maṣdar vorm V."
+      }
+    ]
+  }
+}

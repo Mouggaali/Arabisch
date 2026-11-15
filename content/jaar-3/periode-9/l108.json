@@ -1,0 +1,589 @@
+{
+  "id": "j3-p9-l108",
+  "code": "L108",
+  "type": "les",
+  "titel": "Discussie",
+  "thema": "Meedoen aan een discussie of debat",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "instemmen, het oneens zijn en nuanceren in een discussie.",
+    "beleefd het woord nemen en om verduidelijking vragen.",
+    "voor- en nadelen bespreken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l108-w01",
+      "ar": "أَعْتَرِضُ عَلى",
+      "tr": "aʿtariḍu ʿalā",
+      "nl": [
+        "ik maak bezwaar tegen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w02",
+      "ar": "أُؤَيِّدُ",
+      "tr": "uʾayyidu",
+      "nl": [
+        "ik steun"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p9-l108-w03",
+      "ar": "مِنْ وِجْهَةِ نَظَري",
+      "tr": "min wijhati naẓarī",
+      "nl": [
+        "vanuit mijn standpunt"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w04",
+      "ar": "اِسْمَحْ لي",
+      "tr": "ismaḥ lī",
+      "nl": [
+        "sta me toe"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w05",
+      "ar": "أَوَدُّ أَنْ أُضيفَ",
+      "tr": "awaddu an uḍīfa",
+      "nl": [
+        "ik wil graag toevoegen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w06",
+      "ar": "هٰذا صَحيحٌ، لٰكِنْ …",
+      "tr": "hāḏā ṣaḥīḥ, lākin …",
+      "nl": [
+        "dat klopt, maar …"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w07",
+      "ar": "لا أَتَّفِقُ مَعَكَ",
+      "tr": "lā attafiqu maʿak",
+      "nl": [
+        "ik ben het niet met je eens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w08",
+      "ar": "أَتَّفِقُ مَعَكَ تَمامًا",
+      "tr": "attafiqu maʿaka tamāman",
+      "nl": [
+        "ik ben het helemaal met je eens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w09",
+      "ar": "بِعِبارَةٍ أُخْرى",
+      "tr": "bi-ʿibāratin uḫrā",
+      "nl": [
+        "met andere woorden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w10",
+      "ar": "ماذا تَقْصِدُ؟",
+      "tr": "māḏā taqṣidu?",
+      "nl": [
+        "wat bedoel je?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w11",
+      "ar": "مُداخَلَةٌ",
+      "tr": "mudāḫala",
+      "nl": [
+        "bijdrage, interventie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l108-w12",
+      "ar": "مُحاوَرَةٌ",
+      "tr": "muḥāwara",
+      "nl": [
+        "debat, gesprek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l108-w13",
+      "ar": "مُقْنِعٌ",
+      "tr": "muqniʿ",
+      "nl": [
+        "overtuigend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l108-w14",
+      "ar": "الإيجابِيّاتُ وَالسَّلْبِيّاتُ",
+      "tr": "al-ījābiyyātu wa-s-salbiyyāt",
+      "nl": [
+        "de voor- en nadelen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l108-w15",
+      "ar": "تَطَرَّقَ إِلى",
+      "tr": "taṭarraqa ilā",
+      "nl": [
+        "ingaan op (een onderwerp)"
+      ],
+      "soort": "werkwoord (V)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Discussiëren",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Functie",
+            "Formule"
+          ],
+          "rijen": [
+            [
+              "mening geven",
+              "مِنْ وِجْهَةِ نَظَري … / أَرى أَنَّ …"
+            ],
+            [
+              "instemmen",
+              "أَتَّفِقُ مَعَكَ تَمامًا · هٰذا صَحيحٌ"
+            ],
+            [
+              "oneens zijn",
+              "لا أَتَّفِقُ مَعَكَ · أَعْتَرِضُ عَلى …"
+            ],
+            [
+              "nuanceren",
+              "هٰذا صَحيحٌ، لٰكِنْ … · مِنْ ناحِيَةٍ أُخْرى"
+            ],
+            [
+              "het woord nemen",
+              "اِسْمَحْ لي · أَوَدُّ أَنْ أُضيفَ"
+            ],
+            [
+              "om uitleg vragen",
+              "ماذا تَقْصِدُ؟ · بِعِبارَةٍ أُخْرى …"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Arabische discussies zijn vaak beleefd en indirect: eerst het standpunt van de ander erkennen ({ar|هٰذا صَحيحٌ}), dan nuanceren ({ar|لٰكِنْ}). Een direct {ar|أَنْتَ مُخْطِئٌ} (je hebt ongelijk) klinkt al snel onbeleefd."
+        }
+      ]
+    },
+    {
+      "titel": "Een debat over sociale media",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أ: مِنْ وِجْهَةِ نَظَري، وَسائِلُ التَّواصُلِ مُفيدَةٌ لِلشَّبابِ.",
+              "tr": "min wijhati naẓarī, wasāʾilu t-tawāṣuli mufīdatun li-š-šabāb.",
+              "nl": "A: Volgens mij zijn sociale media nuttig voor jongeren."
+            },
+            {
+              "ar": "ب: هٰذا صَحيحٌ، لٰكِنَّها قَدْ تُسَبِّبُ الإِدْمانَ.",
+              "tr": "hāḏā ṣaḥīḥ, lākinnahā qad tusabbibu l-idmān.",
+              "nl": "B: Dat klopt, maar ze kunnen verslaving veroorzaken."
+            },
+            {
+              "ar": "أ: ماذا تَقْصِدُ بِالإِدْمانِ؟",
+              "tr": "māḏā taqṣidu bi-l-idmān?",
+              "nl": "A: Wat bedoel je met verslaving?"
+            },
+            {
+              "ar": "ب: بِعِبارَةٍ أُخْرى، يَقْضي الشَّبابُ ساعاتٍ طَويلَةً أَمامَ الشّاشَةِ.",
+              "tr": "bi-ʿibāratin uḫrā, yaqḍi š-šabābu sāʿātin ṭawīlatan amāma š-šāša.",
+              "nl": "B: Met andere woorden: jongeren brengen lange uren voor het scherm door."
+            },
+            {
+              "ar": "ج: اِسْمَحوا لي، أَوَدُّ أَنْ أُضيفَ أَنَّ الحَلَّ هُوَ التَّوازُنُ.",
+              "tr": "ismaḥū lī, awaddu an uḍīfa anna l-ḥalla huwa t-tawāzun.",
+              "nl": "C: Staat u mij toe, ik wil toevoegen dat evenwicht de oplossing is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Formules",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "discussie",
+          "paren": [
+            {
+              "ar": "أَتَّفِقُ مَعَكَ تَمامًا",
+              "nl": "helemaal mee eens",
+              "woord": "j3-p9-l108-w08"
+            },
+            {
+              "ar": "لا أَتَّفِقُ مَعَكَ",
+              "nl": "niet mee eens",
+              "woord": "j3-p9-l108-w07"
+            },
+            {
+              "ar": "ماذا تَقْصِدُ؟",
+              "nl": "wat bedoel je?",
+              "woord": "j3-p9-l108-w10"
+            },
+            {
+              "ar": "بِعِبارَةٍ أُخْرى",
+              "nl": "met andere woorden",
+              "woord": "j3-p9-l108-w09"
+            },
+            {
+              "ar": "اِسْمَحْ لي",
+              "nl": "sta me toe",
+              "woord": "j3-p9-l108-w04"
+            },
+            {
+              "ar": "مُقْنِعٌ",
+              "nl": "overtuigend",
+              "woord": "j3-p9-l108-w13"
+            }
+          ],
+          "uitleg": "Discussieformules."
+        },
+        {
+          "type": "luisteren",
+          "tag": "discussie",
+          "tekst": "هٰذا صَحيحٌ، لٰكِنْ …",
+          "vraag": "Wat doet de spreker?",
+          "opties": [
+            "Hij erkent het punt en nuanceert.",
+            "Hij is het helemaal eens.",
+            "Hij vraagt om uitleg."
+          ],
+          "juist": 0,
+          "uitleg": "Nuanceren."
+        }
+      ]
+    },
+    {
+      "titel": "Reageren",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "discussie",
+          "vraag": "Hoe vraag je beleefd om het woord?",
+          "opties": [
+            "اِسْمَحْ لي",
+            "ماذا تَقْصِدُ؟",
+            "لا أَتَّفِقُ"
+          ],
+          "juist": 0,
+          "uitleg": "Sta me toe."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "discussie",
+          "vraag": "Hoe vraag je om verduidelijking?",
+          "opties": [
+            "ماذا تَقْصِدُ؟",
+            "أَتَّفِقُ مَعَكَ",
+            "بِعِبارَةٍ أُخْرى"
+          ],
+          "juist": 0,
+          "uitleg": "Wat bedoel je?"
+        },
+        {
+          "type": "invullen",
+          "tag": "discussie",
+          "zin": "___ مَعَكَ تَمامًا.",
+          "nl": "Ik ben het helemaal met je eens.",
+          "antwoord": [
+            "أَتَّفِقُ"
+          ],
+          "uitleg": "Instemmen.",
+          "woordbank": [
+            "أَتَّفِقُ",
+            "أَعْتَرِضُ",
+            "أَقْصِدُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "discussie",
+          "zin": "أَوَدُّ أَنْ ___ نُقْطَةً.",
+          "nl": "Ik wil graag een punt toevoegen.",
+          "antwoord": [
+            "أُضيفَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: manṣūb.",
+          "woordbank": [
+            "أُضيفَ",
+            "أُضيفُ",
+            "أَضافَ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "discussie",
+          "nl": "Dat klopt, maar ze kunnen verslaving veroorzaken.",
+          "woorden": [
+            "هٰذا",
+            "صَحيحٌ،",
+            "لٰكِنَّها",
+            "قَدْ",
+            "تُسَبِّبُ",
+            "الإِدْمانَ."
+          ],
+          "uitleg": "Nuanceren."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "discussie",
+          "bron": "Ik ben het niet met je eens.",
+          "antwoorden": [
+            "لا أَتَّفِقُ مَعَكَ"
+          ],
+          "uitleg": "Oneens."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "discussie",
+          "bron": "مِنْ وِجْهَةِ نَظَري، الحَلُّ هُوَ التَّوازُنُ.",
+          "antwoorden": [
+            "volgens mij is evenwicht de oplossing",
+            "vanuit mijn standpunt is evenwicht de oplossing",
+            "naar mijn mening is evenwicht de oplossing"
+          ],
+          "uitleg": "Mening."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "discussie",
+        "paren": [
+          {
+            "ar": "مُداخَلَةٌ",
+            "nl": "bijdrage"
+          },
+          {
+            "ar": "مُحاوَرَةٌ",
+            "nl": "debat"
+          },
+          {
+            "ar": "تَطَرَّقَ إِلى",
+            "nl": "ingaan op"
+          },
+          {
+            "ar": "الإيجابِيّاتُ وَالسَّلْبِيّاتُ",
+            "nl": "voor- en nadelen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "Welke formule is het meest beleefd bij onenigheid?",
+        "opties": [
+          "هٰذا صَحيحٌ، لٰكِنْ …",
+          "أَنْتَ مُخْطِئٌ!",
+          "لا!"
+        ],
+        "juist": 0,
+        "uitleg": "Erkennen en nuanceren."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "{ar|أُؤَيِّدُ} betekent ...",
+        "opties": [
+          "ik steun",
+          "ik weiger",
+          "ik vraag"
+        ],
+        "juist": 0,
+        "uitleg": "Steunen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "{ar|أَعْتَرِضُ عَلى} betekent ...",
+        "opties": [
+          "ik maak bezwaar tegen",
+          "ik ben het eens met",
+          "ik voeg toe"
+        ],
+        "juist": 0,
+        "uitleg": "Bezwaar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "discussie",
+        "vraag": "Met welke formule herformuleer je?",
+        "opties": [
+          "بِعِبارَةٍ أُخْرى",
+          "اِسْمَحْ لي",
+          "أَتَّفِقُ مَعَكَ"
+        ],
+        "juist": 0,
+        "uitleg": "Met andere woorden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "discussie",
+        "tekst": "لا أَتَّفِقُ مَعَكَ في هٰذِهِ النُّقْطَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik ben het op dit punt niet met je eens.",
+          "Ik ben het helemaal met je eens.",
+          "Wat bedoel je?"
+        ],
+        "juist": 0,
+        "uitleg": "Oneens."
+      },
+      {
+        "type": "luisteren",
+        "tag": "discussie",
+        "tekst": "اِسْمَحْ لي أَنْ أُضيفَ شَيْئًا",
+        "vraag": "Wat wil de spreker?",
+        "opties": [
+          "iets toevoegen",
+          "weggaan",
+          "een vraag stellen"
+        ],
+        "juist": 0,
+        "uitleg": "Toevoegen."
+      },
+      {
+        "type": "invullen",
+        "tag": "discussie",
+        "zin": "مِنْ ___ نَظَري، هٰذا مُهِمٌّ.",
+        "nl": "Vanuit mijn standpunt is dit belangrijk.",
+        "antwoord": [
+          "وِجْهَةِ"
+        ],
+        "uitleg": "{ar|مِنْ وِجْهَةِ نَظَري}",
+        "woordbank": [
+          "وِجْهَةِ",
+          "ناحِيَةِ",
+          "عِبارَةِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "discussie",
+        "zin": "حُجَّتُكَ ___ جِدًّا.",
+        "nl": "Je argument is zeer overtuigend.",
+        "antwoord": [
+          "مُقْنِعَةٌ"
+        ],
+        "uitleg": "Vrouwelijk (حُجَّةٌ).",
+        "woordbank": [
+          "مُقْنِعَةٌ",
+          "مُقْنِعٌ",
+          "قَناعَةٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "discussie",
+        "zin": "ماذا ___ بِذٰلِكَ؟",
+        "nl": "Wat bedoel je daarmee?",
+        "antwoord": [
+          "تَقْصِدُ"
+        ],
+        "uitleg": "{ar|قَصَدَ}",
+        "woordbank": [
+          "تَقْصِدُ",
+          "تُضيفُ",
+          "تَتَّفِقُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "discussie",
+        "instructie": "Vul de formule aan.",
+        "rijen": [
+          {
+            "label": "ik ben het eens: ___ مَعَكَ",
+            "antwoord": "أَتَّفِقُ",
+            "tr": "attafiqu"
+          },
+          {
+            "label": "sta me toe: ___ لي",
+            "antwoord": "اِسْمَحْ",
+            "tr": "ismaḥ"
+          }
+        ],
+        "uitleg": "Formules."
+      },
+      {
+        "type": "ordenen",
+        "tag": "discussie",
+        "nl": "Ik ben het helemaal met je eens.",
+        "woorden": [
+          "أَتَّفِقُ",
+          "مَعَكَ",
+          "تَمامًا."
+        ],
+        "uitleg": "Instemmen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "discussie",
+        "bron": "Wat bedoel je?",
+        "antwoorden": [
+          "ماذا تَقْصِدُ؟",
+          "ماذا تَقْصِدُ",
+          "ما قَصْدُكَ؟"
+        ],
+        "uitleg": "Verduidelijking."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "discussie",
+        "bron": "يَجِبُ أَنْ نَتَطَرَّقَ إِلى الإيجابِيّاتِ وَالسَّلْبِيّاتِ.",
+        "antwoorden": [
+          "we moeten ingaan op de voor- en nadelen",
+          "we moeten de voor- en nadelen bespreken"
+        ],
+        "uitleg": "Debat."
+      }
+    ]
+  }
+}

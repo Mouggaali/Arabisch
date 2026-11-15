@@ -1,0 +1,616 @@
+{
+  "id": "j3-p10-d22",
+  "code": "D22",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: bruiloft en familiefeesten",
+  "thema": "Verloving, geboorte en feestwensen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "familiefeesten benoemen in het Darija.",
+    "de juiste wens uitspreken (مبروك، الله يكمل بالخير، الله يخلف).",
+    "valse vrienden tussen Darija en Fusha herkennen (عرض)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-d22-w01",
+      "ar": "الخطوبة",
+      "tr": "lxṭūba",
+      "nl": [
+        "de verloving"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w02",
+      "ar": "الفاتحة",
+      "tr": "lfātḥa",
+      "nl": [
+        "het lezen van de Fatiha (bij de verloving)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w03",
+      "ar": "الصداق",
+      "tr": "ṣṣdāq",
+      "nl": [
+        "de bruidsgave"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w04",
+      "ar": "الدفوع",
+      "tr": "ddfūʿ",
+      "nl": [
+        "de geschenken van de familie van de bruidegom"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w05",
+      "ar": "العمارية",
+      "tr": "lʿəmmāriya",
+      "nl": [
+        "de draagstoel van de bruid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w06",
+      "ar": "التكشيطة",
+      "tr": "ttəkšīṭa",
+      "nl": [
+        "de takchita (feestjurk)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w07",
+      "ar": "السبوع",
+      "tr": "ssbūʿ",
+      "nl": [
+        "het naamfeest (7e dag na de geboorte)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w08",
+      "ar": "الطهارة",
+      "tr": "ṭṭhāra",
+      "nl": [
+        "de besnijdenis(feest)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w09",
+      "ar": "الضياف",
+      "tr": "ḍḍyāf",
+      "nl": [
+        "de gasten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w10",
+      "ar": "الحلوة",
+      "tr": "lḥəlwa",
+      "nl": [
+        "de koekjes, zoetigheid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w11",
+      "ar": "الهدية",
+      "tr": "lhdiyya",
+      "nl": [
+        "het cadeau"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w13",
+      "ar": "الله يكمل بالخير",
+      "tr": "ļļāh ikəmməl b-lxīr",
+      "nl": [
+        "moge God het goed laten aflopen"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w14",
+      "ar": "الله يخلف",
+      "tr": "ļļāh ixləf",
+      "nl": [
+        "moge God het vergoeden (dank voor gastvrijheid)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w15",
+      "ar": "تزاد ليه",
+      "tr": "tzād līh",
+      "nl": [
+        "hij heeft een kindje gekregen"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p10-d22-w16",
+      "ar": "عرض",
+      "tr": "ʿṛəḍ",
+      "nl": [
+        "uitnodigen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Familiefeesten in het Darija",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "verloving",
+              "خِطْبَةٌ / خُطوبَةٌ",
+              "الخطوبة|lxṭūba"
+            ],
+            [
+              "bruidsgave",
+              "مَهْرٌ / صَداقٌ",
+              "الصداق|ṣṣdāq"
+            ],
+            [
+              "gasten",
+              "ضُيوفٌ",
+              "الضياف|ḍḍyāf"
+            ],
+            [
+              "cadeau",
+              "هَدِيَّةٌ",
+              "الهدية|lhdiyya"
+            ],
+            [
+              "uitnodigen",
+              "دَعا",
+              "عرض|ʿṛəḍ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij een Marokkaans feest hoort een vast ritueel van wensen: je feliciteert ({ar|مبروك عليك}), wenst dat alles goed afloopt ({ar|الله يكمل بالخير}) en bedankt de gastheer bij het weggaan met {ar|الله يخلف}. Wie die formules kent, valt meteen positief op."
+        },
+        {
+          "type": "letop",
+          "md": "Darija {ar|عرض} betekent *uitnodigen*, terwijl Fusha {ar|عَرَضَ} *tonen, aanbieden* betekent. Zo'n *valse vriend* tussen Fusha en Darija komt vaak voor."
+        }
+      ]
+    },
+    {
+      "titel": "Op het feest",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عرضونا للخطوبة ديال بنت خالتي.",
+              "tr": "ʿṛḍūna l-lxṭūba dyāl bənt xāləti.",
+              "nl": "We zijn uitgenodigd voor de verloving van mijn nicht.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الدفوع جاو بالسكر والحليب والتمر.",
+              "tr": "ddfūʿ jāw b-ssukkāṛ w-lḥlīb w-ttməṛ.",
+              "nl": "De geschenken kwamen met suiker, melk en dadels.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken; inhoud van de dfouʿ verschilt per regio."
+              }
+            },
+            {
+              "ar": "خويا تزاد ليه ولد، السبوع نهار الجمعة.",
+              "tr": "xūya tzād līh wəld, ssbūʿ nhāṛ ljəmʿa.",
+              "nl": "Mijn broer heeft een zoon gekregen; het naamfeest is vrijdag.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "مبروك عليكم! الله يكمل بالخير.",
+              "tr": "mbrūk ʿlīkum! ļļāh ikəmməl b-lxīr.",
+              "nl": "Gefeliciteerd! Moge alles goed aflopen.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-feest",
+          "paren": [
+            {
+              "ar": "الخطوبة",
+              "nl": "verloving",
+              "woord": "j3-p10-d22-w01"
+            },
+            {
+              "ar": "الصداق",
+              "nl": "bruidsgave",
+              "woord": "j3-p10-d22-w03"
+            },
+            {
+              "ar": "السبوع",
+              "nl": "naamfeest",
+              "woord": "j3-p10-d22-w07"
+            },
+            {
+              "ar": "الضياف",
+              "nl": "gasten",
+              "woord": "j3-p10-d22-w09"
+            },
+            {
+              "ar": "الهدية",
+              "nl": "cadeau",
+              "woord": "j3-p10-d22-w11"
+            },
+            {
+              "ar": "الحلوة",
+              "nl": "koekjes",
+              "woord": "j3-p10-d22-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-feest",
+          "tekst": "مبروك عليك",
+          "vraag": "Wanneer zeg je dit?",
+          "opties": [
+            "om iemand te feliciteren",
+            "om afscheid te nemen",
+            "om eten te bestellen"
+          ],
+          "juist": 0,
+          "uitleg": "Felicitatie (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Wensen en feesten",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-feest",
+          "vraag": "Wat zeg je bij het weggaan tegen de gastheer?",
+          "opties": [
+            "الله يخلف",
+            "مبروك",
+            "تزاد ليه"
+          ],
+          "juist": 0,
+          "uitleg": "Dank voor de gastvrijheid."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|عرض} betekent ...",
+          "opties": [
+            "uitnodigen",
+            "tonen",
+            "weigeren"
+          ],
+          "juist": 0,
+          "uitleg": "Valse vriend met Fusha {ar|عَرَضَ}."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-feest",
+          "zin": "خويا ___ ولد.",
+          "nl": "Mijn broer heeft een zoon gekregen.",
+          "antwoord": [
+            "تزاد ليه"
+          ],
+          "uitleg": "{ar|تزاد ليه}",
+          "woordbank": [
+            "تزاد ليه",
+            "عرض",
+            "الله يخلف"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-feest",
+          "nl": "Gefeliciteerd! Moge alles goed aflopen.",
+          "woorden": [
+            "مبروك!",
+            "الله",
+            "يكمل",
+            "بالخير."
+          ],
+          "uitleg": "Wensen."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-feest",
+          "bron": "de gasten (Darija)",
+          "antwoorden": [
+            "الضياف"
+          ],
+          "uitleg": "{ar|الضياف}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-feest",
+          "bron": "عرضونا للخطوبة",
+          "antwoorden": [
+            "we zijn uitgenodigd voor de verloving",
+            "ze hebben ons uitgenodigd voor de verloving"
+          ],
+          "uitleg": "Darija.",
+          "tr": "ʿṛḍūna l-lxṭūba"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-feest",
+        "paren": [
+          {
+            "ar": "الفاتحة",
+            "nl": "Fatiha (verloving)"
+          },
+          {
+            "ar": "الدفوع",
+            "nl": "geschenken bruidegom"
+          },
+          {
+            "ar": "العمارية",
+            "nl": "draagstoel"
+          },
+          {
+            "ar": "الطهارة",
+            "nl": "besnijdenis"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "{ar|السبوع} is ...",
+        "opties": [
+          "het naamfeest na een geboorte",
+          "een bruiloftsjurk",
+          "een cadeau"
+        ],
+        "juist": 0,
+        "uitleg": "7e dag."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|الصداق} is in het Fusha ook ...",
+        "opties": [
+          "مَهْرٌ",
+          "هَدِيَّةٌ",
+          "خِطْبَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Bruidsgave."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "Wat betekent {ar|الله يكمل بالخير}?",
+        "opties": [
+          "moge het goed aflopen",
+          "gefeliciteerd met je verjaardag",
+          "eet smakelijk"
+        ],
+        "juist": 0,
+        "uitleg": "Wens."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-feest",
+        "tekst": "عرضونا للعرس",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We zijn uitgenodigd voor de bruiloft.",
+          "We gaan niet naar de bruiloft.",
+          "De bruiloft is voorbij."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عرض}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-feest",
+        "tekst": "الله يخلف",
+        "vraag": "Wanneer zeg je dit?",
+        "opties": [
+          "als je de gastheer bedankt",
+          "als je iemand feliciteert",
+          "als je sorry zegt"
+        ],
+        "juist": 0,
+        "uitleg": "Dank."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-feest",
+        "zin": "جبت ليها ___.",
+        "nl": "Ik heb een cadeau voor haar meegebracht.",
+        "antwoord": [
+          "الهدية"
+        ],
+        "uitleg": "{ar|الهدية}",
+        "woordbank": [
+          "الهدية",
+          "الصداق",
+          "الضياف"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-feest",
+        "zin": "لبسات ___ زوينة.",
+        "nl": "Ze droeg een mooie takchita.",
+        "antwoord": [
+          "تكشيطة"
+        ],
+        "uitleg": "{ar|التكشيطة}",
+        "woordbank": [
+          "تكشيطة",
+          "عمارية",
+          "حلوة"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-feest",
+        "nl": "Het naamfeest is vrijdag.",
+        "woorden": [
+          "السبوع",
+          "نهار",
+          "الجمعة."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-feest",
+        "bron": "de verloving (Darija)",
+        "antwoorden": [
+          "الخطوبة"
+        ],
+        "uitleg": "{ar|الخطوبة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-feest",
+        "bron": "gefeliciteerd (Darija)",
+        "antwoorden": [
+          "مبروك عليك",
+          "مبروك",
+          "مبروك عليكم"
+        ],
+        "uitleg": "{ar|مبروك عليك}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-feest",
+        "bron": "خويا تزاد ليه ولد",
+        "antwoorden": [
+          "mijn broer heeft een zoon gekregen",
+          "mijn broer heeft een jongen gekregen"
+        ],
+        "uitleg": "Darija.",
+        "tr": "xūya tzād līh wəld"
+      }
+    ]
+  }
+}

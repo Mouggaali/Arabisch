@@ -1,0 +1,613 @@
+{
+  "id": "j3-p9-d20",
+  "code": "D20",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: bij de dokter en de apotheek",
+  "thema": "Klachten uitleggen en medicijnen halen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "klachten uitleggen in het Darija (كيضرني …).",
+    "instructies voor medicijnen begrijpen.",
+    "beterschap wensen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-d20-w01",
+      "ar": "الطبيب",
+      "tr": "ṭṭbīb",
+      "nl": [
+        "de dokter"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w02",
+      "ar": "الفرمسيان",
+      "tr": "lfərmasyān",
+      "nl": [
+        "de apotheker"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *pharmacien*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w03",
+      "ar": "الفرماسيان",
+      "tr": "lfərmāsyān",
+      "nl": [
+        "de apotheek"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "In de spreektaal vaak hetzelfde woord als voor de apotheker.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w04",
+      "ar": "كيضرني",
+      "tr": "kayḍəṛṛni",
+      "nl": [
+        "het doet me pijn"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|كيضرني راسي} = ik heb hoofdpijn.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w05",
+      "ar": "راسي",
+      "tr": "ṛāsi",
+      "nl": [
+        "mijn hoofd"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w06",
+      "ar": "كرشي",
+      "tr": "kəṛši",
+      "nl": [
+        "mijn buik"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w08",
+      "ar": "الدوا",
+      "tr": "ddwa",
+      "nl": [
+        "het medicijn"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w09",
+      "ar": "الكينة",
+      "tr": "lkīna",
+      "nl": [
+        "de pil"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w10",
+      "ar": "الورقة ديال الطبيب",
+      "tr": "lwərqa dyāl ṭṭbīb",
+      "nl": [
+        "het recept (doktersbriefje)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w11",
+      "ar": "مريض",
+      "tr": "mṛīḍ",
+      "nl": [
+        "ziek"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w12",
+      "ar": "الله يشافيك",
+      "tr": "aḷḷāh yšāfīk",
+      "nl": [
+        "beterschap"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w13",
+      "ar": "مرتين ف النهار",
+      "tr": "mərrtayn f-nnhāṛ",
+      "nl": [
+        "twee keer per dag"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w14",
+      "ar": "قبل الماكلة",
+      "tr": "qbəl lmākla",
+      "nl": [
+        "voor het eten"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w15",
+      "ar": "ضربة",
+      "tr": "ḍəṛba",
+      "nl": [
+        "klap, kwetsuur"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d20-w16",
+      "ar": "الكحة",
+      "tr": "lkəḥḥa",
+      "nl": [
+        "de hoest"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Bij de dokter in het Darija",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Pijn zeg je met {ar|كيضرني} + lichaamsdeel met suffix: {ar|كيضرني راسي} (ik heb hoofdpijn), {ar|كتضرني كرشي} (ik heb buikpijn). Het werkwoord congrueert met het lichaamsdeel."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "ik heb hoofdpijn",
+              "عِنْدي صُداعٌ",
+              "كيضرني راسي|kayḍəṛṛni ṛāsi"
+            ],
+            [
+              "koorts",
+              "حَرارَةٌ / حُمّى",
+              "السخانة|ssxāna"
+            ],
+            [
+              "medicijn",
+              "دَواءٌ",
+              "الدوا|ddwa"
+            ],
+            [
+              "beterschap",
+              "شِفاءً عاجِلًا",
+              "الله يشافيك|aḷḷāh yšāfīk"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|السخانة} betekent in het Darija zowel *hitte* als *koorts* (D13): de context beslist. Medische vaktermen komen in Marokko vaak uit het Frans ({ar|الفرمسيان}), omdat de geneeskunde-opleiding grotendeels Franstalig is."
+        }
+      ]
+    },
+    {
+      "titel": "Bij de apotheek",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عندي السخانة وكيضرني راسي.",
+              "tr": "ʿəndi ssxāna w-kayḍəṛṛni ṛāsi.",
+              "nl": "Ik heb koorts en hoofdpijn.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "خود هاد الدوا مرتين ف النهار قبل الماكلة.",
+              "tr": "xūd hād ddwa mərrtayn f-nnhāṛ qbəl lmākla.",
+              "nl": "Neem dit medicijn twee keer per dag voor het eten.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "عندك الورقة ديال الطبيب؟",
+              "tr": "ʿəndək lwərqa dyāl ṭṭbīb?",
+              "nl": "Heb je het recept van de dokter?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الله يشافيك!",
+              "tr": "aḷḷāh yšāfīk!",
+              "nl": "Beterschap!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-dokter",
+          "paren": [
+            {
+              "ar": "الطبيب",
+              "nl": "dokter",
+              "woord": "j3-p9-d20-w01"
+            },
+            {
+              "ar": "الفرمسيان",
+              "nl": "apotheker",
+              "woord": "j3-p9-d20-w02"
+            },
+            {
+              "ar": "السخانة",
+              "nl": "koorts"
+            },
+            {
+              "ar": "الدوا",
+              "nl": "medicijn",
+              "woord": "j3-p9-d20-w08"
+            },
+            {
+              "ar": "الكينة",
+              "nl": "pil",
+              "woord": "j3-p9-d20-w09"
+            },
+            {
+              "ar": "راسي",
+              "nl": "mijn hoofd",
+              "woord": "j3-p9-d20-w05"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-dokter",
+          "tekst": "كيضرني راسي",
+          "vraag": "Wat heeft de spreker?",
+          "opties": [
+            "hoofdpijn",
+            "buikpijn",
+            "koorts"
+          ],
+          "juist": 0,
+          "uitleg": "*kayḍəṛṛni ṛāsi* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Klachten",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-dokter",
+          "zin": "كيضرني ___.",
+          "nl": "Ik heb buikpijn.",
+          "antwoord": [
+            "كرشي"
+          ],
+          "uitleg": "{ar|كرشي} = mijn buik.",
+          "woordbank": [
+            "كرشي",
+            "راسي",
+            "الدوا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-dokter",
+          "zin": "خود الدوا ___ ف النهار.",
+          "nl": "Neem het medicijn twee keer per dag.",
+          "antwoord": [
+            "مرتين"
+          ],
+          "uitleg": "{ar|مرتين}",
+          "woordbank": [
+            "مرتين",
+            "مرة",
+            "بزاف"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|الله يشافيك} is in het Fusha ...",
+          "opties": [
+            "شِفاءً عاجِلًا",
+            "مَبْروكٌ",
+            "مَعَ السَّلامَةِ"
+          ],
+          "juist": 0,
+          "uitleg": "Beterschap."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-dokter",
+          "nl": "Ik heb koorts en hoofdpijn.",
+          "woorden": [
+            "عندي",
+            "السخانة",
+            "وكيضرني",
+            "راسي."
+          ],
+          "uitleg": "Klachten."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-dokter",
+          "bron": "beterschap (Darija)",
+          "antwoorden": [
+            "الله يشافيك"
+          ],
+          "uitleg": "{ar|الله يشافيك}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-dokter",
+          "bron": "عندك الورقة ديال الطبيب؟",
+          "antwoorden": [
+            "heb je het recept van de dokter",
+            "heeft u het doktersrecept"
+          ],
+          "uitleg": "Darija.",
+          "tr": "ʿəndək lwərqa dyāl ṭṭbīb?"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-dokter",
+        "paren": [
+          {
+            "ar": "مريض",
+            "nl": "ziek"
+          },
+          {
+            "ar": "قبل الماكلة",
+            "nl": "voor het eten"
+          },
+          {
+            "ar": "ضربة",
+            "nl": "kwetsuur"
+          },
+          {
+            "ar": "الورقة ديال الطبيب",
+            "nl": "recept"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dokter",
+        "vraag": "Hoe zeg je 'ik heb hoofdpijn' in het Darija?",
+        "opties": [
+          "كيضرني راسي",
+          "عندي راسي",
+          "راسي مريض"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كيضرني}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dokter",
+        "vraag": "{ar|الفرمسيان} komt uit het ...",
+        "opties": [
+          "Frans",
+          "Spaans",
+          "Fusha"
+        ],
+        "juist": 0,
+        "uitleg": "*pharmacien*"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dokter",
+        "vraag": "{ar|السخانة} kan betekenen ...",
+        "opties": [
+          "koorts of hitte",
+          "kou",
+          "buikpijn"
+        ],
+        "juist": 0,
+        "uitleg": "Context."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-dokter",
+        "tekst": "الله يشافيك",
+        "vraag": "Wanneer zeg je dit?",
+        "opties": [
+          "tegen een zieke",
+          "op een bruiloft",
+          "bij het afscheid"
+        ],
+        "juist": 0,
+        "uitleg": "Beterschap."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-dokter",
+        "tekst": "خود جوج كينات",
+        "vraag": "Wat moet je doen?",
+        "opties": [
+          "twee pillen nemen",
+          "twee dagen rusten",
+          "naar de dokter gaan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كينات}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-dokter",
+        "zin": "عندي ___، فيا البرد.",
+        "nl": "Ik heb koorts, ik heb het koud.",
+        "antwoord": [
+          "السخانة"
+        ],
+        "uitleg": "{ar|السخانة}",
+        "woordbank": [
+          "السخانة",
+          "الدوا",
+          "الكينة"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-dokter",
+        "zin": "مشيت عند ___.",
+        "nl": "Ik ging naar de dokter.",
+        "antwoord": [
+          "الطبيب"
+        ],
+        "uitleg": "{ar|الطبيب}",
+        "woordbank": [
+          "الطبيب",
+          "الدوا",
+          "راسي"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-dokter",
+        "nl": "Beterschap!",
+        "woorden": [
+          "الله",
+          "يشافيك!"
+        ],
+        "uitleg": "Wens."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-dokter",
+        "bron": "het medicijn (Darija)",
+        "antwoorden": [
+          "الدوا"
+        ],
+        "uitleg": "{ar|الدوا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-dokter",
+        "bron": "ziek (Darija, m)",
+        "antwoorden": [
+          "مريض"
+        ],
+        "uitleg": "{ar|مريض}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-dokter",
+        "bron": "كتضرني كرشي",
+        "antwoorden": [
+          "ik heb buikpijn",
+          "mijn buik doet pijn"
+        ],
+        "uitleg": "Darija.",
+        "tr": "katḍəṛṛni kəṛši"
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "id": "j2-p7-h20",
+  "code": "H20",
+  "type": "herhaling",
+  "titel": "Herhaling blok 7B",
+  "thema": "Bijzinnen, tijden, ḥāl en أَنْ / أَنَّ",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bijzinnen maken met en zonder الَّذي.",
+    "كانَ + muḍāriʿ en قَدْ gebruiken.",
+    "de ḥāl en het verschil tussen أَنْ en أَنَّ toepassen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 77–80 en D14.",
+  "grammatica": [
+    {
+      "titel": "Drie bouwstenen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Regel",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "bijzin na onbepaald woord",
+              "geen الَّذي, wel ʿāʾid",
+              "شَقَّةٌ فيها شُرْفَةٌ"
+            ],
+            [
+              "كانَ + muḍāriʿ",
+              "gewoonte / duur in het verleden",
+              "كُنْتُ أَلْعَبُ"
+            ],
+            [
+              "قَدْ + māḍī / muḍāriʿ",
+              "al / misschien",
+              "قَدْ وَصَلَ · قَدْ يَصِلُ"
+            ],
+            [
+              "ḥāl",
+              "toestand, onbepaald, accusatief",
+              "جاءَ مُسْرِعًا"
+            ],
+            [
+              "أَنْ / أَنَّ",
+              "handeling / feit",
+              "أُريدُ أَنْ … · أَعْرِفُ أَنَّ …"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Wat deze onderwerpen verbindt: ze maken van een simpele zin een **verhaal**. Met deze vijf middelen vertel je wat je vroeger deed, hoe je iets deed en wat je denkt."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herkennen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "hal",
+          "vraag": "In welke zin staat een ḥāl?",
+          "opties": [
+            "رَجَعَتْ مُتْعَبَةً.",
+            "رَجَعَتِ المُتْعَبَةُ.",
+            "هِيَ مُتْعَبَةٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Onbepaald, accusatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-mudari",
+          "vraag": "Wat betekent {ar|كانوا يَسْكُنونَ هُنا}?",
+          "opties": [
+            "Ze woonden hier (toen).",
+            "Ze gaan hier wonen.",
+            "Ze wonen hier niet."
+          ],
+          "juist": 0,
+          "uitleg": "Duur in het verleden."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "an-anna",
+          "vraag": "Welk woord past? {ar|سَمِعْتُ ___ المَتْجَرَ مُغْلَقٌ}",
+          "opties": [
+            "أَنَّ",
+            "أَنْ",
+            "لَنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Feit → أَنَّ."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "سِمْسارٌ",
+              "nl": "makelaar",
+              "woord": "j2-p7-l77-w02"
+            },
+            {
+              "ar": "حِكايَةٌ",
+              "nl": "verhaal",
+              "woord": "j2-p7-l78-w12"
+            },
+            {
+              "ar": "دَواءٌ",
+              "nl": "medicijn"
+            },
+            {
+              "ar": "خِبْرَةٌ",
+              "nl": "ervaring",
+              "woord": "j2-p7-l80-w05"
+            },
+            {
+              "ar": "نمرة",
+              "nl": "nummer (Darija)",
+              "woord": "j2-p7-d14-w05"
+            },
+            {
+              "ar": "شُرْفَةٌ",
+              "nl": "balkon"
+            }
+          ],
+          "uitleg": "Woorden uit blok 7B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "bijzin-onbepaald",
+          "zin": "أَبْحَثُ عَنْ مُعَلِّمٍ ___ العَرَبِيَّةَ.",
+          "nl": "Ik zoek een leraar die Arabisch geeft.",
+          "antwoord": [
+            "يُدَرِّسُ"
+          ],
+          "uitleg": "Onbepaald → geen الَّذي.",
+          "woordbank": [
+            "يُدَرِّسُ",
+            "الَّذي يُدَرِّسُ",
+            "يَدْرُسُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-mudari",
+          "zin": "كُنْتُ ___ كُلَّ صَباحٍ.",
+          "nl": "Ik liep (vroeger) elke ochtend.",
+          "antwoord": [
+            "أَمْشي"
+          ],
+          "uitleg": "{ar|كُنْتُ} + muḍāriʿ.",
+          "woordbank": [
+            "أَمْشي",
+            "مَشَيْتُ",
+            "أَمْشِ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "hal",
+          "nl": "Ze verliet de praktijk glimlachend.",
+          "woorden": [
+            "خَرَجَتْ",
+            "مِنَ",
+            "العِيادَةِ",
+            "مُبْتَسِمَةً."
+          ],
+          "uitleg": "ḥāl."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-telefoon",
+          "tekst": "نتلاقاو غدا مع الخمسة",
+          "vraag": "Wanneer spreken ze af?",
+          "opties": [
+            "morgen rond vijf uur",
+            "vandaag om vijf uur",
+            "morgenochtend"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "an-anna",
+          "bron": "Ik wil Arabisch leren.",
+          "antwoorden": [
+            "أُريدُ أَنْ أَتَعَلَّمَ العَرَبِيَّةَ"
+          ],
+          "uitleg": "{ar|أَنْ} + manṣūb."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hal",
+          "bron": "جاءَ الضُّيوفُ مُتَأَخِّرينَ.",
+          "antwoorden": [
+            "de gasten kwamen te laat",
+            "de gasten kwamen laat"
+          ],
+          "uitleg": "ḥāl meervoud."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kana-mudari",
+          "bron": "قَدْ يَكونُ مَريضًا.",
+          "antwoorden": [
+            "misschien is hij ziek",
+            "hij is misschien ziek",
+            "hij kan ziek zijn"
+          ],
+          "uitleg": "{ar|قَدْ} + muḍāriʿ."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "'Een boek dat ik las' is ...",
+        "opties": [
+          "كِتابٌ قَرَأْتُهُ",
+          "كِتابٌ الَّذي قَرَأْتُهُ",
+          "الكِتابُ قَرَأْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Onbepaald."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bijzin-onbepaald",
+        "vraag": "Wat betekent {ar|خُذْ ما تُريدُ}?",
+        "opties": [
+          "Neem wat je wilt.",
+          "Wat wil je nemen?",
+          "Neem niets."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما} = wat."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "'Ik werkte (altijd) in Rabat' is ...",
+        "opties": [
+          "كُنْتُ أَعْمَلُ في الرِّباطِ",
+          "عَمِلْتُ في الرِّباطِ",
+          "سَأَعْمَلُ في الرِّباطِ"
+        ],
+        "juist": 0,
+        "uitleg": "Gewoonte."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "{ar|قَدْ} + māḍī betekent ...",
+        "opties": [
+          "al",
+          "misschien",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "Bevestiging."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hal",
+        "vraag": "'Hij kwam glimlachend binnen' is ...",
+        "opties": [
+          "دَخَلَ مُبْتَسِمًا",
+          "دَخَلَ المُبْتَسِمُ",
+          "دَخَلَ مُبْتَسِمٌ"
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-anna",
+        "vraag": "'Ik probeer te slapen' is ...",
+        "opties": [
+          "أُحاوِلُ أَنْ أَنامَ",
+          "أُحاوِلُ أَنَّ أَنامُ",
+          "أُحاوِلُ إِنَّني أَنامُ"
+        ],
+        "juist": 0,
+        "uitleg": "Handeling → أَنْ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hal",
+        "tekst": "رَجَعَ الأَطْفالُ سُعَداءَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De kinderen kwamen blij terug.",
+          "De blije kinderen gingen weg.",
+          "De kinderen zijn niet blij."
+        ],
+        "juist": 0,
+        "uitleg": "ḥāl."
+      },
+      {
+        "type": "luisteren",
+        "tag": "an-anna",
+        "tekst": "أَظُنُّ أَنَّ القِطارَ تَأَخَّرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik denk dat de trein vertraagd is.",
+          "Ik wil de trein nemen.",
+          "De trein komt op tijd."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنَّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "an-anna",
+        "zin": "قَرَّرْنا ___ نَبيعَ البَيْتَ.",
+        "nl": "We besloten het huis te verkopen.",
+        "antwoord": [
+          "أَنْ"
+        ],
+        "uitleg": "Handeling.",
+        "woordbank": [
+          "أَنْ",
+          "أَنَّ",
+          "إِنَّ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-mudari",
+        "zin": "كانَتْ جَدَّتي ___ حِكاياتٍ.",
+        "nl": "Mijn oma vertelde (altijd) verhalen.",
+        "antwoord": [
+          "تَحْكي"
+        ],
+        "uitleg": "{ar|كانَتْ} + muḍāriʿ.",
+        "woordbank": [
+          "تَحْكي",
+          "حَكَتْ",
+          "تَحْكِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "hal",
+        "zin": "جاءَتِ الطَّبيبَةُ ___.",
+        "nl": "De dokter (v) kwam haastig.",
+        "antwoord": [
+          "مُسْرِعَةً"
+        ],
+        "uitleg": "ḥāl vrouwelijk.",
+        "woordbank": [
+          "مُسْرِعَةً",
+          "مُسْرِعَةٌ",
+          "مُسْرِعًا"
+        ],
+        "streng": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُؤَثَّثٌ",
+            "nl": "gemeubileerd"
+          },
+          {
+            "ar": "أَحْيانًا",
+            "nl": "soms"
+          },
+          {
+            "ar": "زُكامٌ",
+            "nl": "verkoudheid"
+          },
+          {
+            "ar": "مَهاراتٌ",
+            "nl": "vaardigheden"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "bijzin-onbepaald",
+        "nl": "We vonden een huis dat bij zee ligt.",
+        "woorden": [
+          "وَجَدْنا",
+          "بَيْتًا",
+          "يَقَعُ",
+          "قُرْبَ",
+          "البَحْرِ."
+        ],
+        "uitleg": "Geen الَّذي."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de koorts",
+        "antwoorden": [
+          "الحَرارَةُ"
+        ],
+        "uitleg": "{ar|الحَرارَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-telefoon",
+        "bron": "ألو، شكون معايا؟",
+        "antwoorden": [
+          "hallo met wie spreek ik",
+          "hallo wie is daar"
+        ],
+        "uitleg": "Darija.",
+        "tr": "alō, škūn mʿāya?"
+      }
+    ]
+  }
+}

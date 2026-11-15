@@ -1,0 +1,743 @@
+{
+  "id": "j1-p4-l38",
+  "code": "L38",
+  "type": "les",
+  "titel": "Reizen en vervoer",
+  "thema": "Vertellen hoe en waarheen je reist",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vervoermiddelen en plaatsen op reis noemen.",
+    "werkwoorden van beweging met het juiste vaste voorzetsel gebruiken.",
+    "zeggen waarmee je reist: بِالقِطارِ، بِالطّائِرَةِ.",
+    "een reis beschrijven met مِنْ ... إِلى."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l38-w01",
+      "ar": "مَطارٌ",
+      "tr": "maṭār",
+      "nl": [
+        "vliegveld"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w02",
+      "ar": "طائِرَةٌ",
+      "tr": "ṭāʾira",
+      "nl": [
+        "vliegtuig"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w03",
+      "ar": "مَحَطَّةٌ",
+      "tr": "maḥaṭṭa",
+      "nl": [
+        "station",
+        "halte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w04",
+      "ar": "حَقيبَةُ سَفَرٍ",
+      "tr": "ḥaqībatu safar",
+      "nl": [
+        "koffer"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l38-w05",
+      "ar": "مُسافِرٌ",
+      "tr": "musāfir",
+      "nl": [
+        "reiziger",
+        "passagier"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w06",
+      "ar": "سافَرَ",
+      "tr": "sāfara",
+      "nl": [
+        "reizen (hij reisde)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُسافِرُ}. Vorm III (les 54)."
+    },
+    {
+      "id": "j1-p4-l38-w07",
+      "ar": "غادَرَ",
+      "tr": "ġādara",
+      "nl": [
+        "vertrekken uit",
+        "verlaten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Zonder voorzetsel: {ar|غادَرَ المَدينَةَ} = hij verliet de stad."
+    },
+    {
+      "id": "j1-p4-l38-w08",
+      "ar": "سَيّارَةُ أُجْرَةٍ",
+      "tr": "sayyāratu ujra",
+      "nl": [
+        "taxi"
+      ],
+      "soort": "iḍāfa",
+      "notitie": "Ook gewoon {ar|تاكْسي}."
+    },
+    {
+      "id": "j1-p4-l38-w09",
+      "ar": "ميناءٌ",
+      "tr": "mīnāʾ",
+      "nl": [
+        "haven"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w10",
+      "ar": "سَفينَةٌ",
+      "tr": "safīna",
+      "nl": [
+        "schip"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w11",
+      "ar": "مَشْيًا",
+      "tr": "mašyan",
+      "nl": [
+        "te voet"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l38-w12",
+      "ar": "بَعيدٌ",
+      "tr": "baʿīd",
+      "nl": [
+        "ver"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "{ar|بَعيدٌ عَنْ} = ver van."
+    },
+    {
+      "id": "j1-p4-l38-w13",
+      "ar": "قَريبٌ",
+      "tr": "qarīb",
+      "nl": [
+        "dichtbij"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "{ar|قَريبٌ مِنْ} = dicht bij."
+    },
+    {
+      "id": "j1-p4-l38-w14",
+      "ar": "طَريقٌ",
+      "tr": "ṭarīq",
+      "nl": [
+        "weg",
+        "route"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w15",
+      "ar": "تَأْخيرٌ",
+      "tr": "taʾḫīr",
+      "nl": [
+        "vertraging"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w16",
+      "ar": "مُباشَرَةً",
+      "tr": "mubāšaratan",
+      "nl": [
+        "direct",
+        "rechtstreeks"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l38-w17",
+      "ar": "رَصيفٌ",
+      "tr": "raṣīf",
+      "nl": [
+        "perron",
+        "stoep"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w18",
+      "ar": "مُغادَرَةٌ",
+      "tr": "muġādara",
+      "nl": [
+        "vertrek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w19",
+      "ar": "وُصولٌ",
+      "tr": "wuṣūl",
+      "nl": [
+        "aankomst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l38-w21",
+      "ar": "ثَقيلٌ",
+      "tr": "ṯaqīl",
+      "nl": [
+        "zwaar"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Werkwoorden met een vast voorzetsel",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Werkwoorden van beweging hebben in het Arabisch een **vast voorzetsel**, net als in het Nederlands (*gaan naar*, *komen uit*). Leer het werkwoord en het voorzetsel samen."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Werkwoord + voorzetsel",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "ذَهَبَ إِلى|ḏahaba ilā",
+              "gaan naar",
+              "ذَهَبْتُ إِلى المَطارِ|ḏahabtu ila l-maṭār"
+            ],
+            [
+              "وَصَلَ إِلى|waṣala ilā",
+              "aankomen in",
+              "وَصَلْنا إِلى الرِّباطِ|waṣalnā ila r-ribāṭ"
+            ],
+            [
+              "رَجَعَ مِنْ|rajaʿa min",
+              "terugkomen uit",
+              "رَجَعَتْ مِنْ مِصْرَ|rajaʿat min miṣr"
+            ],
+            [
+              "خَرَجَ مِنْ|ḫaraja min",
+              "weggaan uit",
+              "خَرَجَ مِنَ المَحَطَّةِ|ḫaraja mina l-maḥaṭṭa"
+            ],
+            [
+              "سافَرَ إِلى|sāfara ilā",
+              "reizen naar",
+              "سافَرُوا إِلى تونِسَ|sāfarū ilā tūnis"
+            ],
+            [
+              "غادَرَ (zonder voorzetsel)|ġādara",
+              "verlaten",
+              "غادَرَتِ الطّائِرَةُ المَطارَ|ġādarati ṭ-ṭāʾiratu l-maṭār"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|غادَرَ} neemt een **lijdend voorwerp** (accusatief), net als het Nederlandse *verlaten*: {ar|غادَرَ المَدينَةَ} = *hij verliet de stad*. Andere bewegingswerkwoorden hebben een voorzetsel nodig."
+        }
+      ]
+    },
+    {
+      "titel": "Met de trein: بِـ + vervoermiddel",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Waarmee je reist, zeg je met **بِـ** + vervoermiddel (met ال, genitief): {ar|بِالقِطارِ} (*met de trein*), {ar|بِالطّائِرَةِ} (*met het vliegtuig*). Te voet is {ar|مَشْيًا}. Een route beschrijf je met {ar|مِنْ ... إِلى}."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سافَرْنا مِنْ أَمْسْتِرْدام إِلى الدّارِ البَيْضاءِ بِالطّائِرَةِ.",
+              "tr": "sāfarnā min Amstirdām ila d-Dāri l-Bayḍāʾ bi-ṭ-ṭāʾira.",
+              "nl": "We vlogen van Amsterdam naar Casablanca.",
+              "review": {
+                "status": "onzeker",
+                "note": "Stadsnamen أَمْسْتِرْدام en الدّارُ البَيْضاءُ (Casablanca) laten controleren."
+              }
+            },
+            {
+              "ar": "أَذْهَبُ إِلى العَمَلِ مَشْيًا لِأَنَّهُ قَريبٌ.",
+              "tr": "aḏhabu ila l-ʿamali mašyan li-annahu qarīb.",
+              "nl": "Ik ga te voet naar mijn werk, omdat het dichtbij is."
+            },
+            {
+              "ar": "المَطارُ بَعيدٌ عَنِ المَدينَةِ.",
+              "tr": "al-maṭāru baʿīdun ʿani l-madīna.",
+              "nl": "Het vliegveld ligt ver van de stad."
+            },
+            {
+              "ar": "هُناكَ تَأْخيرٌ، القِطارُ لَمْ يَصِلْ بَعْدُ.",
+              "tr": "hunāka taʾḫīr, al-qiṭāru lam yaṣil baʿd.",
+              "nl": "Er is vertraging, de trein is nog niet aangekomen.",
+              "review": {
+                "status": "onzeker",
+                "note": "لَمْ يَصِلْ (les 51) als voorproefje; controleren."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Reizen",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَطارٌ",
+              "nl": "vliegveld",
+              "woord": "j1-p4-l38-w01"
+            },
+            {
+              "ar": "طائِرَةٌ",
+              "nl": "vliegtuig",
+              "woord": "j1-p4-l38-w02"
+            },
+            {
+              "ar": "مَحَطَّةٌ",
+              "nl": "station",
+              "woord": "j1-p4-l38-w03"
+            },
+            {
+              "ar": "سَفينَةٌ",
+              "nl": "schip",
+              "woord": "j1-p4-l38-w10"
+            },
+            {
+              "ar": "ميناءٌ",
+              "nl": "haven",
+              "woord": "j1-p4-l38-w09"
+            },
+            {
+              "ar": "تَأْخيرٌ",
+              "nl": "vertraging",
+              "woord": "j1-p4-l38-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "reizen",
+          "tekst": "سافَرْتُ بِالقِطارِ",
+          "vraag": "Hoe reisde de spreker?",
+          "opties": [
+            "met de trein",
+            "met het vliegtuig",
+            "met de bus"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بِالقِطارِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Het juiste voorzetsel",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "وَصَلْنا ___ المَطارِ.",
+          "nl": "We kwamen aan op het vliegveld.",
+          "woordbank": [
+            "إِلى",
+            "مِنْ",
+            "عَنْ"
+          ],
+          "antwoord": [
+            "إِلى"
+          ],
+          "uitleg": "{ar|وَصَلَ إِلى}"
+        },
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "رَجَعَتْ ___ مِصْرَ أَمْسِ.",
+          "nl": "Ze kwam gisteren terug uit Egypte.",
+          "woordbank": [
+            "مِنْ",
+            "إِلى",
+            "في"
+          ],
+          "antwoord": [
+            "مِنْ"
+          ],
+          "uitleg": "{ar|رَجَعَ مِنْ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "reizen",
+          "zin": "أَذْهَبُ إِلى الجامِعَةِ ___.",
+          "nl": "Ik ga met de bus naar de universiteit.",
+          "woordbank": [
+            "بِالحافِلَةِ",
+            "الحافِلَةَ",
+            "في حافِلَةٌ"
+          ],
+          "antwoord": [
+            "بِالحافِلَةِ"
+          ],
+          "uitleg": "{ar|بِـ} + vervoermiddel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vaste-voorzetsels",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "غادَرَ القِطارُ المَحَطَّةَ.",
+            "غادَرَ القِطارُ إِلى المَحَطَّةِ.",
+            "غادَرَ القِطارُ مِنَ المَحَطَّةُ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|غادَرَ} + lijdend voorwerp."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "reizen",
+          "vraag": "'Het station is dichtbij het huis' is ...",
+          "opties": [
+            "المَحَطَّةُ قَريبَةٌ مِنَ البَيْتِ.",
+            "المَحَطَّةُ قَريبٌ البَيْتَ.",
+            "المَحَطَّةُ بَعيدَةٌ عَنِ البَيْتِ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَريبٌ مِنْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Een reis",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "reizen",
+          "nl": "Ik ga te voet naar mijn werk, omdat het dichtbij is.",
+          "woorden": [
+            "أَذْهَبُ",
+            "إِلى",
+            "العَمَلِ",
+            "مَشْيًا",
+            "لِأَنَّهُ",
+            "قَريبٌ."
+          ],
+          "uitleg": "{ar|مَشْيًا} = te voet."
+        },
+        {
+          "type": "ordenen",
+          "tag": "vaste-voorzetsels",
+          "nl": "Het vliegveld ligt ver van de stad.",
+          "woorden": [
+            "المَطارُ",
+            "بَعيدٌ",
+            "عَنِ",
+            "المَدينَةِ."
+          ],
+          "uitleg": "{ar|بَعيدٌ عَنْ}"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vaste-voorzetsels",
+          "instructie": "Vul het vaste voorzetsel in.",
+          "rijen": [
+            {
+              "label": "ذَهَبَ ... (gaan naar)",
+              "antwoord": "إِلى",
+              "tr": "ilā"
+            },
+            {
+              "label": "رَجَعَ ... (terugkomen uit)",
+              "antwoord": "مِنْ",
+              "tr": "min"
+            },
+            {
+              "label": "قَريبٌ ... (dicht bij)",
+              "antwoord": "مِنْ",
+              "tr": "min"
+            },
+            {
+              "label": "بَعيدٌ ... (ver van)",
+              "antwoord": "عَنْ",
+              "tr": "ʿan"
+            }
+          ],
+          "uitleg": "Leer werkwoord en voorzetsel samen."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "reizen",
+          "bron": "met het vliegtuig",
+          "antwoorden": [
+            "بِالطّائِرَةِ"
+          ],
+          "uitleg": "{ar|بِالطّائِرَةِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vaste-voorzetsels",
+          "bron": "Ik ging naar het station.",
+          "antwoorden": [
+            "ذَهَبْتُ إِلى المَحَطَّةِ"
+          ],
+          "uitleg": "{ar|ذَهَبْتُ إِلى المَحَطَّةِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "reizen",
+          "bron": "وُصولُ الطّائِرَةِ في السّاعَةِ العاشِرَةِ.",
+          "antwoorden": [
+            "de aankomst van het vliegtuig is om tien uur",
+            "het vliegtuig komt om tien uur aan"
+          ],
+          "uitleg": "{ar|وُصولٌ} = aankomst."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "reizen",
+          "bron": "المُسافِرونَ عَلى الرَّصيفِ.",
+          "antwoorden": [
+            "de reizigers staan op het perron",
+            "de reizigers zijn op het perron",
+            "de passagiers staan op het perron"
+          ],
+          "uitleg": "{ar|الرَّصيفُ} = het perron."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُسافِرٌ",
+            "nl": "reiziger"
+          },
+          {
+            "ar": "طَريقٌ",
+            "nl": "weg"
+          },
+          {
+            "ar": "بَعيدٌ",
+            "nl": "ver"
+          },
+          {
+            "ar": "قَريبٌ",
+            "nl": "dichtbij"
+          },
+          {
+            "ar": "رَصيفٌ",
+            "nl": "perron"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "Welk voorzetsel hoort bij {ar|وَصَلَ}?",
+        "opties": [
+          "إِلى",
+          "عَنْ",
+          "بِـ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَصَلَ إِلى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reizen",
+        "vraag": "'Met de auto' is ...",
+        "opties": [
+          "بِالسَّيّارَةِ",
+          "في السَّيّارَةُ",
+          "السَّيّارَةَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِـ} + genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "'Hij verliet het huis' is ...",
+        "opties": [
+          "غادَرَ البَيْتَ.",
+          "غادَرَ مِنَ البَيْتِ.",
+          "غادَرَ إِلى البَيْتِ."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend voorwerp."
+      },
+      {
+        "type": "luisteren",
+        "tag": "reizen",
+        "tekst": "المَحَطَّةُ قَريبَةٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het station is dichtbij.",
+          "Het station is ver.",
+          "Het vliegveld is dichtbij."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَريبَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vaste-voorzetsels",
+        "tekst": "رَجَعْنا مِنْ تونِسَ بِالسَّفينَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We kwamen per schip terug uit Tunesië.",
+          "We gingen per schip naar Tunesië.",
+          "We kwamen per vliegtuig terug."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رَجَعَ مِنْ} + {ar|بِالسَّفينَةِ}."
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "سافَرُوا ___ المَغْرِبِ.",
+        "nl": "Zij reisden naar Marokko.",
+        "woordbank": [
+          "إِلى",
+          "مِنْ",
+          "في"
+        ],
+        "antwoord": [
+          "إِلى"
+        ],
+        "uitleg": "{ar|سافَرَ إِلى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "reizen",
+        "zin": "أَذْهَبُ ___ لِأَنَّ المَدْرَسَةَ قَريبَةٌ.",
+        "nl": "Ik ga te voet omdat de school dichtbij is.",
+        "antwoord": [
+          "مَشْيًا"
+        ],
+        "uitleg": "{ar|مَشْيًا}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vaste-voorzetsels",
+        "instructie": "Vul het vaste voorzetsel in.",
+        "rijen": [
+          {
+            "label": "خَرَجَ ... (weggaan uit)",
+            "antwoord": "مِنْ",
+            "tr": "min"
+          },
+          {
+            "label": "وَصَلَ ... (aankomen in)",
+            "antwoord": "إِلى",
+            "tr": "ilā"
+          }
+        ],
+        "uitleg": "{ar|مِنْ} · {ar|إِلى}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "reizen",
+        "nl": "We reisden van Rabat naar Fez met de trein.",
+        "woorden": [
+          "سافَرْنا",
+          "مِنَ",
+          "الرِّباطِ",
+          "إِلى",
+          "فاسَ",
+          "بِالقِطارِ."
+        ],
+        "uitleg": "{ar|مِنْ ... إِلى}; {ar|فاسَ} krijgt geen kasra (diptoot)."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "reizen",
+        "bron": "het vliegveld",
+        "antwoorden": [
+          "المَطارُ"
+        ],
+        "uitleg": "{ar|المَطارُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vaste-voorzetsels",
+        "bron": "Zij kwam aan in Parijs.",
+        "antwoorden": [
+          "وَصَلَتْ إِلى باريسَ",
+          "وَصَلَتْ إِلى باريس"
+        ],
+        "uitleg": "{ar|وَصَلَتْ إِلى باريسَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "reizen",
+        "bron": "هُناكَ تَأْخيرٌ.",
+        "antwoorden": [
+          "er is vertraging",
+          "er is een vertraging"
+        ],
+        "uitleg": "{ar|هُناكَ} = er is."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "reizen",
+        "bron": "حَقيبَةُ السَّفَرِ ثَقيلَةٌ.",
+        "antwoorden": [
+          "de koffer is zwaar"
+        ],
+        "uitleg": "{ar|ثَقيلَةٌ} = zwaar."
+      }
+    ]
+  }
+}

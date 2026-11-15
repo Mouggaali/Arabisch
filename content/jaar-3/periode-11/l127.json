@@ -1,0 +1,637 @@
+{
+  "id": "j3-p11-l127",
+  "code": "L127",
+  "type": "les",
+  "titel": "Spreekwoorden en poëzie",
+  "thema": "Bekende spreekwoorden en dichtregels; klassieke constructies",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bekende Arabische spreekwoorden begrijpen en gebruiken.",
+    "klassieke constructies herkennen (مَنْ + māḍī، رُبَّ، weglating).",
+    "een klassieke versregel lezen en de opbouw (rijm, twee helften) benoemen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l127-w01",
+      "ar": "حِكْمَةٌ",
+      "tr": "ḥikma",
+      "nl": [
+        "wijsheid, wijze spreuk"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|حِكَمٌ}."
+    },
+    {
+      "id": "j3-p11-l127-w02",
+      "ar": "بَيْتُ شِعْرٍ",
+      "tr": "baytu šiʿr",
+      "nl": [
+        "dichtregel (versregel)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Meervoud: {ar|أَبْياتٌ}."
+    },
+    {
+      "id": "j3-p11-l127-w03",
+      "ar": "قافِيَةٌ",
+      "tr": "qāfiya",
+      "nl": [
+        "rijm"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w04",
+      "ar": "جَدَّ",
+      "tr": "jadda",
+      "nl": [
+        "zich inspannen"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p11-l127-w05",
+      "ar": "حَصَدَ",
+      "tr": "ḥaṣada",
+      "nl": [
+        "oogsten"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l127-w06",
+      "ar": "ضارٌّ",
+      "tr": "ḍārr",
+      "nl": [
+        "schadelijk"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w07",
+      "ar": "نافِعٌ",
+      "tr": "nāfiʿ",
+      "nl": [
+        "nuttig, heilzaam"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w08",
+      "ar": "سَيْفٌ",
+      "tr": "sayf",
+      "nl": [
+        "zwaard"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|سُيوفٌ}."
+    },
+    {
+      "id": "j3-p11-l127-w09",
+      "ar": "ضيقٌ",
+      "tr": "ḍīq",
+      "nl": [
+        "nood, benauwdheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w10",
+      "ar": "قَدَرٌ",
+      "tr": "qadar",
+      "nl": [
+        "lot, noodlot"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w11",
+      "ar": "مَهْدٌ",
+      "tr": "mahd",
+      "nl": [
+        "wieg"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w12",
+      "ar": "لَحْدٌ",
+      "tr": "laḥd",
+      "nl": [
+        "graf"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l127-w13",
+      "ar": "رُبَّ",
+      "tr": "rubba",
+      "nl": [
+        "menig; soms"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j3-p11-l127-w14",
+      "ar": "اِسْتَجابَ",
+      "tr": "istajāba",
+      "nl": [
+        "verhoren, ingaan op"
+      ],
+      "soort": "werkwoord (X, hol)"
+    },
+    {
+      "id": "j3-p11-l127-w15",
+      "ar": "أَوْسَطُ",
+      "tr": "awsaṭ",
+      "nl": [
+        "het middelste, gematigdste"
+      ],
+      "soort": "vergrotende trap"
+    },
+    {
+      "id": "j3-p11-l127-w16",
+      "ar": "قِرْطاسٌ",
+      "tr": "qirṭās",
+      "nl": [
+        "papier, perkament (klassiek)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Klassieke constructies in spreekwoorden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "Spreekwoord",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "مَنْ + māḍī … māḍī (voorwaarde)",
+              "مَنْ جَدَّ وَجَدَ",
+              "wie zich inspant, vindt"
+            ],
+            [
+              "رُبَّ + onbepaald genitief",
+              "رُبَّ ضارَّةٍ نافِعَةٌ",
+              "soms is iets slechts toch goed"
+            ],
+            [
+              "إِنْ + majzūm … māḍī",
+              "الوَقْتُ كَالسَّيْفِ إِنْ لَمْ تَقْطَعْهُ قَطَعَكَ",
+              "tijd is als een zwaard: snijd je hem niet, dan snijdt hij jou"
+            ],
+            [
+              "أَفْعَلُ + iḍāfa",
+              "خَيْرُ الأُمورِ أَوْسَطُها",
+              "het gematigde is het beste"
+            ],
+            [
+              "naamwoord zonder werkwoord",
+              "الصَّديقُ وَقْتَ الضّيقِ",
+              "een vriend (toont zich) in nood"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Spreekwoorden zijn **kort en ritmisch**, daarom gebruiken ze klassieke middelen: een māḍī die algemeen geldt ({ar|مَنْ جَدَّ وَجَدَ}), weglating van het werkwoord, en klankherhaling ({ar|جَدَّ / وَجَدَ}، {ar|زَرَعَ / حَصَدَ}). Wie deze patronen herkent, begrijpt ook nieuwe spreekwoorden."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|رُبَّ} komt bijna alleen nog in vaste uitdrukkingen voor. Het naamwoord erna staat in de **genitief** en is **onbepaald**."
+        }
+      ]
+    },
+    {
+      "titel": "Poëzie",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Klassieke Arabische poëzie bestaat uit **versregels** ({ar|أَبْياتٌ}) met twee helften, een vast **metrum** en één **rijm** ({ar|قافِيَةٌ}) door het hele gedicht. Aan het eind van de regel wordt de laatste klinker vaak gerekt of valt weg ({ar|القَدَرْ})."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "مَنْ جَدَّ وَجَدَ، وَمَنْ زَرَعَ حَصَدَ.",
+              "tr": "man jadda wajada, wa-man zaraʿa ḥaṣad.",
+              "nl": "Wie zich inspant, vindt; wie zaait, oogst."
+            },
+            {
+              "ar": "رُبَّ ضارَّةٍ نافِعَةٌ.",
+              "tr": "rubba ḍārratin nāfiʿa.",
+              "nl": "Soms is iets slechts toch ergens goed voor."
+            },
+            {
+              "ar": "اُطْلُبوا العِلْمَ مِنَ المَهْدِ إِلى اللَّحْدِ.",
+              "tr": "uṭlubu l-ʿilma mina l-mahdi ila l-laḥd.",
+              "nl": "Zoek kennis van de wieg tot het graf. (bekend gezegde)"
+            },
+            {
+              "ar": "إِذا الشَّعْبُ يَوْمًا أَرادَ الحَياةَ ... فَلا بُدَّ أَنْ يَسْتَجيبَ القَدَرْ",
+              "tr": "iḏa š-šaʿbu yawman arāda l-ḥayāh ... fa-lā budda an yastajība l-qadar",
+              "nl": "Als het volk op een dag het leven wil, dan moet het lot wel gehoor geven. (Abu al-Qasim al-Shabbi, 1933)"
+            },
+            {
+              "ar": "الخَيْلُ وَاللَّيْلُ وَالبَيْداءُ تَعْرِفُني ... وَالسَّيْفُ وَالرُّمْحُ وَالقِرْطاسُ وَالقَلَمُ",
+              "tr": "al-ḫaylu wa-l-laylu wa-l-baydāʾu taʿrifunī ... wa-s-sayfu wa-r-rumḥu wa-l-qirṭāsu wa-l-qalamu",
+              "nl": "Het paard, de nacht en de woestijn kennen mij, en het zwaard, de lans, het papier en de pen. (al-Mutanabbi, 10e eeuw)"
+            },
+            {
+              "ar": "وَإِنَّما الأُمَمُ الأَخْلاقُ ما بَقِيَتْ ... فَإِنْ هُمُ ذَهَبَتْ أَخْلاقُهُمْ ذَهَبوا",
+              "tr": "wa-innama l-umamu l-aḫlāqu mā baqiyat ... fa-in humu ḏahabat aḫlāquhum ḏahabū",
+              "nl": "Volken bestaan slechts zolang hun moraal blijft; verdwijnt hun moraal, dan verdwijnen zij. (Ahmad Shawqi)"
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "In de regel van al-Shabbi volgt na {ar|إِذا} een **naamwoord** ({ar|الشَّعْبُ}) in plaats van een werkwoord. Dat mag in poëzie: het werkwoord ({ar|أَرادَ}) komt later. In proza zeg je {ar|إِذا أَرادَ الشَّعْبُ …}."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حِكْمَةٌ",
+              "nl": "wijsheid",
+              "woord": "j3-p11-l127-w01"
+            },
+            {
+              "ar": "قافِيَةٌ",
+              "nl": "rijm",
+              "woord": "j3-p11-l127-w03"
+            },
+            {
+              "ar": "حَصَدَ",
+              "nl": "oogsten",
+              "woord": "j3-p11-l127-w05"
+            },
+            {
+              "ar": "سَيْفٌ",
+              "nl": "zwaard",
+              "woord": "j3-p11-l127-w08"
+            },
+            {
+              "ar": "مَهْدٌ",
+              "nl": "wieg",
+              "woord": "j3-p11-l127-w11"
+            },
+            {
+              "ar": "لَحْدٌ",
+              "nl": "graf",
+              "woord": "j3-p11-l127-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "klassiek",
+          "tekst": "مَنْ جَدَّ وَجَدَ",
+          "vraag": "Wat is de les van dit spreekwoord?",
+          "opties": [
+            "Wie zich inspant, bereikt iets.",
+            "Wie zoekt, raakt verdwaald.",
+            "Haast je niet."
+          ],
+          "juist": 0,
+          "uitleg": "Spreekwoord."
+        }
+      ]
+    },
+    {
+      "titel": "Spreekwoorden begrijpen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "klassiek",
+          "vraag": "{ar|الصَّديقُ وَقْتَ الضّيقِ} betekent ...",
+          "opties": [
+            "Een echte vriend toont zich in nood.",
+            "Vrienden hebben weinig tijd.",
+            "Een vriend is altijd druk."
+          ],
+          "juist": 0,
+          "uitleg": "Weggelaten werkwoord."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "klassiek",
+          "vraag": "Welke naamval volgt na {ar|رُبَّ}?",
+          "opties": [
+            "genitief (onbepaald)",
+            "nominatief",
+            "accusatief"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|رُبَّ ضارَّةٍ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "klassiek",
+          "zin": "مَنْ جَدَّ وَجَدَ، وَمَنْ ___ حَصَدَ.",
+          "nl": "Wie zich inspant, vindt; wie zaait, oogst.",
+          "antwoord": [
+            "زَرَعَ"
+          ],
+          "uitleg": "Klankherhaling.",
+          "woordbank": [
+            "زَرَعَ",
+            "جَدَّ",
+            "قَطَعَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "klassiek",
+          "zin": "الوَقْتُ كَالسَّيْفِ إِنْ لَمْ ___ قَطَعَكَ.",
+          "nl": "Tijd is als een zwaard: als je hem niet snijdt, snijdt hij jou.",
+          "antwoord": [
+            "تَقْطَعْهُ"
+          ],
+          "uitleg": "Majzūm na {ar|لَمْ}.",
+          "woordbank": [
+            "تَقْطَعْهُ",
+            "تَقْطَعُهُ",
+            "قَطَعْتَهُ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "klassiek",
+          "vraag": "In {ar|إِذا الشَّعْبُ يَوْمًا أَرادَ الحَياةَ} staat na إِذا ...",
+          "opties": [
+            "een naamwoord (dichterlijke vrijheid)",
+            "een muḍāriʿ",
+            "een gebiedende wijs"
+          ],
+          "juist": 0,
+          "uitleg": "In proza: {ar|إِذا أَرادَ الشَّعْبُ}."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "klassiek",
+          "nl": "Zoek kennis van de wieg tot het graf.",
+          "woorden": [
+            "اُطْلُبوا",
+            "العِلْمَ",
+            "مِنَ",
+            "المَهْدِ",
+            "إِلى",
+            "اللَّحْدِ."
+          ],
+          "uitleg": "Gezegde."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "klassiek",
+          "bron": "Soms is iets slechts toch ergens goed voor (spreekwoord).",
+          "antwoorden": [
+            "رُبَّ ضارَّةٍ نافِعَةٌ",
+            "رب ضارة نافعة"
+          ],
+          "uitleg": "{ar|رُبَّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "klassiek",
+          "bron": "خَيْرُ الأُمورِ أَوْسَطُها.",
+          "antwoorden": [
+            "het gematigde is het beste",
+            "het midden is het beste",
+            "de gulden middenweg is het beste"
+          ],
+          "uitleg": "{ar|أَفْعَلُ} + iḍāfa."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "بَيْتُ شِعْرٍ",
+            "nl": "versregel"
+          },
+          {
+            "ar": "ضارٌّ",
+            "nl": "schadelijk"
+          },
+          {
+            "ar": "نافِعٌ",
+            "nl": "nuttig"
+          },
+          {
+            "ar": "قَدَرٌ",
+            "nl": "lot"
+          },
+          {
+            "ar": "ضيقٌ",
+            "nl": "nood"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "{ar|مَنْ زَرَعَ حَصَدَ} betekent ...",
+        "opties": [
+          "Wie zaait, oogst.",
+          "Wie oogst, zaait.",
+          "Zaai niet te vroeg."
+        ],
+        "juist": 0,
+        "uitleg": "Algemene māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "Waarom staat een spreekwoord vaak in de **māḍī**?",
+        "opties": [
+          "het geldt als algemene waarheid",
+          "het gaat over vroeger",
+          "het is een fout"
+        ],
+        "juist": 0,
+        "uitleg": "Tijdloos."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "Wat is een {ar|قافِيَةٌ}?",
+        "opties": [
+          "het rijm",
+          "het metrum",
+          "de dichter"
+        ],
+        "juist": 0,
+        "uitleg": "Rijm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "Wie schreef {ar|إِذا الشَّعْبُ يَوْمًا أَرادَ الحَياةَ}?",
+        "opties": [
+          "Abu al-Qasim al-Shabbi",
+          "al-Mutanabbi",
+          "Ibn Battuta"
+        ],
+        "juist": 0,
+        "uitleg": "Tunesische dichter."
+      },
+      {
+        "type": "luisteren",
+        "tag": "klassiek",
+        "tekst": "رُبَّ ضارَّةٍ نافِعَةٌ",
+        "vraag": "Wat betekent dit spreekwoord?",
+        "opties": [
+          "Iets slechts kan toch goed uitpakken.",
+          "Schade is altijd slecht.",
+          "Wees voorzichtig."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رُبَّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "klassiek",
+        "tekst": "الصَّديقُ وَقْتَ الضّيقِ",
+        "vraag": "Wanneer leer je een vriend kennen?",
+        "opties": [
+          "in moeilijke tijden",
+          "op feesten",
+          "op reis"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الضّيقُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "klassiek",
+        "zin": "رُبَّ ___ نافِعَةٌ.",
+        "nl": "Soms is iets slechts toch goed.",
+        "antwoord": [
+          "ضارَّةٍ"
+        ],
+        "uitleg": "Genitief na {ar|رُبَّ}.",
+        "woordbank": [
+          "ضارَّةٍ",
+          "ضارَّةٌ",
+          "ضارَّةً"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "klassiek",
+        "zin": "خَيْرُ الأُمورِ ___.",
+        "nl": "Het gematigde is het beste.",
+        "antwoord": [
+          "أَوْسَطُها"
+        ],
+        "uitleg": "Spreekwoord.",
+        "woordbank": [
+          "أَوْسَطُها",
+          "وَسَطٌ",
+          "أَوْسَطُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "في كُلِّ ___ مِنَ القَصيدَةِ نَفْسُ القافِيَةِ.",
+        "nl": "Elke versregel van het gedicht heeft hetzelfde rijm.",
+        "antwoord": [
+          "بَيْتٍ"
+        ],
+        "uitleg": "{ar|بَيْتُ شِعْرٍ}",
+        "woordbank": [
+          "بَيْتٍ",
+          "سَيْفٍ",
+          "مَهْدٍ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "klassiek",
+        "instructie": "Vul het spreekwoord aan.",
+        "rijen": [
+          {
+            "label": "مَنْ جَدَّ ___",
+            "antwoord": "وَجَدَ",
+            "tr": "wajada"
+          },
+          {
+            "label": "الوَقْتُ كَـ___",
+            "antwoord": "السَّيْف",
+            "tr": "as-sayf"
+          }
+        ],
+        "uitleg": "Spreekwoorden."
+      },
+      {
+        "type": "ordenen",
+        "tag": "klassiek",
+        "nl": "Wie zich inspant, vindt.",
+        "woorden": [
+          "مَنْ",
+          "جَدَّ",
+          "وَجَدَ."
+        ],
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "klassiek",
+        "bron": "het rijm",
+        "antwoorden": [
+          "القافِيَةُ",
+          "القافية"
+        ],
+        "uitleg": "{ar|القافِيَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "klassiek",
+        "bron": "الوَقْتُ كَالسَّيْفِ.",
+        "antwoorden": [
+          "tijd is als een zwaard",
+          "de tijd is als een zwaard"
+        ],
+        "uitleg": "Vergelijking."
+      }
+    ]
+  }
+}

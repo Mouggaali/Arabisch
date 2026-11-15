@@ -1,0 +1,761 @@
+{
+  "id": "j2-p5-l53",
+  "code": "L53",
+  "type": "les",
+  "titel": "Onderwijs",
+  "thema": "School, lesgeven en leren",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm II (فَعَّلَ / يُفَعِّلُ) herkennen en vervoegen.",
+    "de betekenis van vorm II afleiden: intensief of causatief (iemand iets laten doen).",
+    "de maṣdar van vorm II vormen (تَفْعيل).",
+    "over school, vakken en cijfers praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l53-w01",
+      "ar": "دَرَّسَ",
+      "tr": "darrasa",
+      "nl": [
+        "lesgeven",
+        "onderwijzen"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Muḍāriʿ: {ar|يُدَرِّسُ}. Van {ar|دَرَسَ} (studeren): iemand laten studeren."
+    },
+    {
+      "id": "j2-p5-l53-w02",
+      "ar": "عَلَّمَ",
+      "tr": "ʿallama",
+      "nl": [
+        "onderwijzen",
+        "leren (aan iemand)"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Muḍāriʿ: {ar|يُعَلِّمُ}. Van {ar|عَلِمَ} (weten): iemand laten weten."
+    },
+    {
+      "id": "j2-p5-l53-w03",
+      "ar": "مُدَرِّسٌ",
+      "tr": "mudarris",
+      "nl": [
+        "docent"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Actief deelwoord van vorm II."
+    },
+    {
+      "id": "j2-p5-l53-w04",
+      "ar": "تَعْليمٌ",
+      "tr": "taʿlīm",
+      "nl": [
+        "onderwijs"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|عَلَّمَ}."
+    },
+    {
+      "id": "j2-p5-l53-w05",
+      "ar": "تَدْريسٌ",
+      "tr": "tadrīs",
+      "nl": [
+        "het lesgeven"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|دَرَّسَ}."
+    },
+    {
+      "id": "j2-p5-l53-w06",
+      "ar": "صَحَّحَ",
+      "tr": "ṣaḥḥaḥa",
+      "nl": [
+        "corrigeren",
+        "nakijken"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Van {ar|صَحيحٌ} (juist): juist maken."
+    },
+    {
+      "id": "j2-p5-l53-w07",
+      "ar": "حَضَّرَ",
+      "tr": "ḥaḍḍara",
+      "nl": [
+        "voorbereiden"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Muḍāriʿ: {ar|يُحَضِّرُ}."
+    },
+    {
+      "id": "j2-p5-l53-w08",
+      "ar": "كَرَّرَ",
+      "tr": "karrara",
+      "nl": [
+        "herhalen"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Maṣdar: {ar|تَكْرارٌ}."
+    },
+    {
+      "id": "j2-p5-l53-w09",
+      "ar": "قَدَّمَ",
+      "tr": "qaddama",
+      "nl": [
+        "presenteren",
+        "aanbieden"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Maṣdar: {ar|تَقْديمٌ}."
+    },
+    {
+      "id": "j2-p5-l53-w10",
+      "ar": "دَرَّبَ",
+      "tr": "darraba",
+      "nl": [
+        "trainen (iemand)"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "{ar|مُدَرِّبٌ} = trainer."
+    },
+    {
+      "id": "j2-p5-l53-w11",
+      "ar": "عَلامَةٌ",
+      "tr": "ʿalāma",
+      "nl": [
+        "cijfer (op school)",
+        "teken"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l53-w12",
+      "ar": "مُعَدَّلٌ",
+      "tr": "muʿaddal",
+      "nl": [
+        "gemiddelde"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l53-w13",
+      "ar": "مادَّةٌ",
+      "tr": "mādda",
+      "nl": [
+        "vak (op school)",
+        "stof"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَوادُّ}."
+    },
+    {
+      "id": "j2-p5-l53-w14",
+      "ar": "اِبْتِدائِيٌّ",
+      "tr": "ibtidāʾiyy",
+      "nl": [
+        "basis- (onderwijs)"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "{ar|المَدْرَسَةُ الاِبْتِدائِيَّةُ} = de basisschool."
+    },
+    {
+      "id": "j2-p5-l53-w15",
+      "ar": "ثانَوِيٌّ",
+      "tr": "ṯānawiyy",
+      "nl": [
+        "middelbaar (onderwijs)"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l53-w20",
+      "ar": "فَهَّمَ",
+      "tr": "fahhama",
+      "nl": [
+        "uitleggen (iemand iets doen begrijpen)"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j2-p5-l53-w21",
+      "ar": "شَجَّعَ",
+      "tr": "šajjaʿa",
+      "nl": [
+        "aanmoedigen"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Muḍāriʿ: {ar|يُشَجِّعُ}."
+    },
+    {
+      "id": "j2-p5-l53-w22",
+      "ar": "وَضَّحَ",
+      "tr": "waḍḍaḥa",
+      "nl": [
+        "verduidelijken"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Van {ar|واضِحٌ} (duidelijk)."
+    },
+    {
+      "id": "j2-p5-l53-w23",
+      "ar": "مَنْهَجٌ",
+      "tr": "manhaj",
+      "nl": [
+        "leerplan",
+        "methode"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm II: فَعَّلَ / يُفَعِّلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm II verdubbelt de **middelste wortelletter** (shadda): {ar|دَرَسَ} → {ar|دَرَّسَ}.",
+            "In de muḍāriʿ krijgt het voorvoegsel een **u** en de stam een **i**: {ar|يُدَرِّسُ}. Dat geldt voor alle personen: {ar|أُدَرِّسُ}، {ar|تُدَرِّسُ}، {ar|نُدَرِّسُ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm I",
+            "Betekenis",
+            "Vorm II",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "دَرَسَ",
+              "studeren",
+              "دَرَّسَ|darrasa",
+              "lesgeven (laten studeren)"
+            ],
+            [
+              "عَلِمَ",
+              "weten",
+              "عَلَّمَ|ʿallama",
+              "onderwijzen (laten weten)"
+            ],
+            [
+              "فَهِمَ",
+              "begrijpen",
+              "فَهَّمَ|fahhama",
+              "uitleggen (laten begrijpen)"
+            ],
+            [
+              "كَسَرَ",
+              "breken",
+              "كَسَّرَ|kassara",
+              "kapotslaan (intensief)"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom een verdubbeling? Die extra lengte maakt de handeling **sterker** (intensief: {ar|كَسَّرَ} = in stukken slaan) of laat **iemand anders** de handeling doen (causatief: {ar|عَلَّمَ} = iemand laten weten). Het is een van de vaste betekenisverschuivingen die je bij de vormen II–X steeds terugziet."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoeging en maṣdar",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "دَرَّسْتُ",
+              "أُدَرِّسُ"
+            ],
+            [
+              "jij (v)",
+              "دَرَّسْتِ",
+              "تُدَرِّسينَ"
+            ],
+            [
+              "hij",
+              "دَرَّسَ",
+              "يُدَرِّسُ"
+            ],
+            [
+              "wij",
+              "دَرَّسْنا",
+              "نُدَرِّسُ"
+            ],
+            [
+              "zij (m mv)",
+              "دَرَّسُوا",
+              "يُدَرِّسونَ"
+            ]
+          ]
+        },
+        {
+          "type": "tekst",
+          "md": "**Maṣdar** van vorm II: **تَفْعيل**: {ar|تَدْريسٌ}، {ar|تَعْليمٌ}، {ar|تَقْديمٌ}. **Actief deelwoord**: **مُفَعِّل**: {ar|مُدَرِّسٌ} (docent), {ar|مُدَرِّبٌ} (trainer)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تُدَرِّسُ أُمّي الرِّياضِيّاتِ في مَدْرَسَةٍ ثانَوِيَّةٍ.",
+              "tr": "tudarrisu ummi r-riyāḍiyyāti fī madrasatin ṯānawiyya.",
+              "nl": "Mijn moeder geeft wiskunde op een middelbare school."
+            },
+            {
+              "ar": "صَحَّحَ المُدَرِّسُ الاِمْتِحاناتِ.",
+              "tr": "ṣaḥḥaḥa l-mudarrisu l-imtiḥānāt.",
+              "nl": "De docent heeft de examens nagekeken."
+            },
+            {
+              "ar": "حَصَلْتُ عَلى عَلامَةٍ جَيِّدَةٍ في التّاريخِ.",
+              "tr": "ḥaṣaltu ʿalā ʿalāmatin jayyidatin fi t-tārīḫ.",
+              "nl": "Ik heb een goed cijfer gehaald voor geschiedenis."
+            },
+            {
+              "ar": "التَّعْليمُ مُهِمٌّ لِكُلِّ طِفْلٍ.",
+              "tr": "at-taʿlīmu muhimmun li-kulli ṭifl.",
+              "nl": "Onderwijs is belangrijk voor elk kind."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مُدَرِّسٌ",
+              "nl": "docent",
+              "woord": "j2-p5-l53-w03"
+            },
+            {
+              "ar": "تَعْليمٌ",
+              "nl": "onderwijs",
+              "woord": "j2-p5-l53-w04"
+            },
+            {
+              "ar": "عَلامَةٌ",
+              "nl": "cijfer",
+              "woord": "j2-p5-l53-w11"
+            },
+            {
+              "ar": "مادَّةٌ",
+              "nl": "vak",
+              "woord": "j2-p5-l53-w13"
+            },
+            {
+              "ar": "رِياضِيّاتٌ",
+              "nl": "wiskunde"
+            },
+            {
+              "ar": "تِلْميذٌ",
+              "nl": "leerling"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-2",
+          "tekst": "يُدَرِّسُ العَرَبِيَّةَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Hij geeft Arabisch.",
+            "Hij studeert Arabisch.",
+            "Hij studeerde Arabisch."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُدَرِّسُ} = vorm II: lesgeven."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm II",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vorm-2",
+          "instructie": "Vervoeg عَلَّمَ / يُعَلِّمُ.",
+          "rijen": [
+            {
+              "label": "ik (māḍī)",
+              "antwoord": "عَلَّمْتُ",
+              "tr": "ʿallamtu"
+            },
+            {
+              "label": "zij (ev) (māḍī)",
+              "antwoord": "عَلَّمَتْ",
+              "tr": "ʿallamat"
+            },
+            {
+              "label": "ik (muḍāriʿ)",
+              "antwoord": "أُعَلِّمُ",
+              "tr": "uʿallimu"
+            },
+            {
+              "label": "zij (m mv) (muḍāriʿ)",
+              "antwoord": "يُعَلِّمونَ",
+              "tr": "yuʿallimūna"
+            }
+          ],
+          "uitleg": "Shadda op de middelste letter; muḍāriʿ يُـ … ـِـ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-2",
+          "vraag": "Wat betekent {ar|فَهَّمَ} waarschijnlijk, als {ar|فَهِمَ} *begrijpen* is?",
+          "opties": [
+            "laten begrijpen, uitleggen",
+            "goed begrijpen",
+            "begrepen"
+          ],
+          "juist": 0,
+          "uitleg": "Vorm II = causatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-2",
+          "vraag": "Welke klinker heeft het voorvoegsel van de muḍāriʿ in vorm II?",
+          "opties": [
+            "u (يُـ)",
+            "a (يَـ)",
+            "i (يِـ)"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُدَرِّسُ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-2",
+          "zin": "المُدَرِّسُ ___ الاِمْتِحاناتِ الآنَ.",
+          "nl": "De docent kijkt nu de examens na.",
+          "woordbank": [
+            "يُصَحِّحُ",
+            "يَصِحُّ",
+            "صَحَّحَ"
+          ],
+          "antwoord": [
+            "يُصَحِّحُ"
+          ],
+          "uitleg": "Muḍāriʿ vorm II."
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "أُحِبُّ ___ كَثيرًا.",
+          "nl": "Ik houd erg van lesgeven.",
+          "woordbank": [
+            "التَّدْريسَ",
+            "الدِّراسَةَ",
+            "المُدَرِّسَ"
+          ],
+          "antwoord": [
+            "التَّدْريسَ"
+          ],
+          "uitleg": "Maṣdar vorm II: تَفْعيل."
+        }
+      ]
+    },
+    {
+      "titel": "Op school",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-2",
+          "nl": "De docent heeft de examens nagekeken.",
+          "woorden": [
+            "صَحَّحَ",
+            "المُدَرِّسُ",
+            "الاِمْتِحاناتِ."
+          ],
+          "uitleg": "Verbale zin."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar (تَفْعيل).",
+          "rijen": [
+            {
+              "label": "قَدَّمَ",
+              "antwoord": "تَقْديمٌ",
+              "tr": "taqdīm"
+            },
+            {
+              "label": "دَرَّبَ",
+              "antwoord": "تَدْريبٌ",
+              "tr": "tadrīb"
+            },
+            {
+              "label": "صَحَّحَ",
+              "antwoord": "تَصْحيحٌ",
+              "tr": "taṣḥīḥ"
+            }
+          ],
+          "uitleg": "تَـ + r1 + r2 + ي + r3."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "حَصَلْتُ عَلى عَلامَةٍ جَيِّدَةٍ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb een goed cijfer gehaald.",
+            "Ik heb een slecht cijfer gehaald.",
+            "Ik heb het examen gemist."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عَلامَةٌ} = cijfer."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-2",
+          "bron": "Ik geef les.",
+          "antwoorden": [
+            "أُدَرِّسُ"
+          ],
+          "uitleg": "{ar|أُدَرِّسُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-2",
+          "bron": "عَلَّمَتْني أُمّي القِراءَةَ.",
+          "antwoorden": [
+            "mijn moeder leerde mij lezen",
+            "mijn moeder heeft mij leren lezen",
+            "mijn moeder heeft me leren lezen",
+            "mijn moeder leerde me lezen"
+          ],
+          "uitleg": "{ar|عَلَّمَ} + twee lijdend voorwerpen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حَضَّرَ",
+            "nl": "voorbereiden"
+          },
+          {
+            "ar": "كَرَّرَ",
+            "nl": "herhalen"
+          },
+          {
+            "ar": "مُعَدَّلٌ",
+            "nl": "gemiddelde"
+          },
+          {
+            "ar": "جُغْرافِيا",
+            "nl": "aardrijkskunde"
+          },
+          {
+            "ar": "ثانَوِيٌّ",
+            "nl": "middelbaar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-2",
+        "vraag": "Wat is het kenmerk van vorm II?",
+        "opties": [
+          "shadda op de middelste wortelletter",
+          "een alif na de eerste wortelletter",
+          "أَ vooraan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَعَّلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-2",
+        "vraag": "'Wij geven les' is ...",
+        "opties": [
+          "نُدَرِّسُ",
+          "نَدْرُسُ",
+          "دَرَّسْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm II muḍāriʿ: نُـ … ـِـ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|قَدَّمَ} is ...",
+        "opties": [
+          "تَقْديمٌ",
+          "قُدومٌ",
+          "مُقَدِّمٌ"
+        ],
+        "juist": 0,
+        "uitleg": "تَفْعيل"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-2",
+        "tekst": "قَدَّمَتِ الطّالِبَةُ مَشْروعَها",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De studente presenteerde haar project.",
+          "De studente bereidde haar project voor.",
+          "De studente herhaalde haar project."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَدَّمَ} = presenteren."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "المَدْرَسَةُ الاِبْتِدائِيَّةُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "de basisschool",
+          "de middelbare school",
+          "de universiteit"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِبْتِدائِيٌّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-2",
+        "zin": "هَلْ ___ لِلاِمْتِحانِ؟",
+        "nl": "Heb je je voorbereid op het examen? (m)",
+        "woordbank": [
+          "حَضَّرْتَ",
+          "حَضَرْتَ",
+          "تَحْضُرُ"
+        ],
+        "antwoord": [
+          "حَضَّرْتَ"
+        ],
+        "uitleg": "Vorm II māḍī, jij (m).",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-2",
+        "zin": "مَنْ ___ العَرَبِيَّةَ في مَدْرَسَتِكُمْ؟",
+        "nl": "Wie geeft Arabisch op jullie school?",
+        "woordbank": [
+          "يُدَرِّسُ",
+          "يَدْرُسُ",
+          "دَرَّسَ"
+        ],
+        "antwoord": [
+          "يُدَرِّسُ"
+        ],
+        "uitleg": "Vorm II (lesgeven), niet vorm I (studeren).",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-2",
+        "instructie": "Vervoeg دَرَّبَ / يُدَرِّبُ.",
+        "rijen": [
+          {
+            "label": "hij (māḍī)",
+            "antwoord": "دَرَّبَ",
+            "tr": "darraba"
+          },
+          {
+            "label": "jij (v) (muḍāriʿ)",
+            "antwoord": "تُدَرِّبينَ",
+            "tr": "tudarribīna"
+          },
+          {
+            "label": "wij (muḍāriʿ)",
+            "antwoord": "نُدَرِّبُ",
+            "tr": "nudarribu"
+          }
+        ],
+        "uitleg": "Vorm II."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-2",
+        "nl": "Mijn moeder geeft wiskunde op een middelbare school.",
+        "woorden": [
+          "تُدَرِّسُ",
+          "أُمّي",
+          "الرِّياضِيّاتِ",
+          "في",
+          "مَدْرَسَةٍ",
+          "ثانَوِيَّةٍ."
+        ],
+        "uitleg": "Verbale zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "masdar-afgeleid",
+        "bron": "het onderwijs",
+        "antwoorden": [
+          "التَّعْليمُ"
+        ],
+        "uitleg": "{ar|التَّعْليمُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-2",
+        "bron": "de trainer",
+        "antwoorden": [
+          "المُدَرِّبُ"
+        ],
+        "uitleg": "مُفَعِّل"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vorm-2",
+        "bron": "يُكَرِّرُ الطُّلّابُ الكَلِماتِ.",
+        "antwoorden": [
+          "de studenten herhalen de woorden"
+        ],
+        "uitleg": "{ar|كَرَّرَ} = herhalen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "ما هِيَ مادَّتُكَ المُفَضَّلَةُ؟",
+        "antwoorden": [
+          "wat is je lievelingsvak",
+          "wat is jouw favoriete vak",
+          "wat is je favoriete vak",
+          "wat is jouw lievelingsvak"
+        ],
+        "uitleg": "{ar|المُفَضَّلَةُ} = favoriet."
+      }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "id": "j2-p8-h23",
+  "code": "H23",
+  "type": "herhaling",
+  "titel": "Herhaling blok 8B",
+  "thema": "Gebiedende wijs, kwantoren, voorwaarde en uitroepen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "opdrachten geven met alle vormen.",
+    "kwantoren, إِذا, uitroepen en بَلى gebruiken.",
+    "de woorden van blok 8B herhalen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 89–92 en D17.",
+  "grammatica": [
+    {
+      "titel": "Blok 8B in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "gebiedende wijs II–X",
+              "majzūm zonder تـ; IV met أَ, VII–X met اِ",
+              "أَرْسِلْ · اِنْتَظِرْ"
+            ],
+            [
+              "zwakke gebiedende wijs",
+              "korte vorm",
+              "قُلْ · نَمْ · اِمْشِ"
+            ],
+            [
+              "kwantoren",
+              "eerste lid van iḍāfa",
+              "جَميعُ النّاسِ · كِلا الوَلَدَيْنِ"
+            ],
+            [
+              "إِذا",
+              "+ māḍī, hoofdzin vaak met فَـ",
+              "إِذا تَأَخَّرْتَ فَاتَّصِلْ"
+            ],
+            [
+              "uitroep",
+              "ما أَفْعَلَ + accusatief",
+              "ما أَجْمَلَ البَحْرَ!"
+            ],
+            [
+              "بَلى",
+              "jawel (na ontkenning)",
+              "أَلا تَأْتي؟ — بَلى"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bijna alle onderwerpen van dit blok gaan over **communiceren met anderen**: opdrachten geven, afspraken maken, uitnodigen en reageren. Daar draait spreekvaardigheid op A2-niveau om."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "gebiedende-wijs-2",
+          "vraag": "'Wacht!' (tegen een vrouw) is ...",
+          "opties": [
+            "اِنْتَظِري",
+            "اِنْتَظِرْ",
+            "تَنْتَظِرينَ"
+          ],
+          "juist": 0,
+          "uitleg": "ـي."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kwantoren",
+          "vraag": "'Alle studenten' (onderwerp) is ...",
+          "opties": [
+            "جَميعُ الطُّلّابِ",
+            "جَميعَ الطُّلّابِ",
+            "جَميعُ طُلّابٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Nominatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "idha",
+          "vraag": "'Als je wilt' is ...",
+          "opties": [
+            "إِذا أَرَدْتَ",
+            "إِذا تُريدُ",
+            "إِذا سَتُريدُ"
+          ],
+          "juist": 0,
+          "uitleg": "Māḍī."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بِطاقَةُ الصُّعودِ",
+              "nl": "instapkaart",
+              "woord": "j2-p8-l89-w05"
+            },
+            {
+              "ar": "قَرْضٌ",
+              "nl": "lening",
+              "woord": "j2-p8-l90-w11"
+            },
+            {
+              "ar": "القُمامَةُ",
+              "nl": "afval",
+              "woord": "j2-p8-l91-w06"
+            },
+            {
+              "ar": "مُفاجَأَةٌ",
+              "nl": "verrassing",
+              "woord": "j2-p8-l92-w13"
+            },
+            {
+              "ar": "العرس",
+              "nl": "bruiloft (Darija)",
+              "woord": "j2-p8-d17-w01"
+            },
+            {
+              "ar": "ضَريبَةٌ",
+              "nl": "belasting",
+              "woord": "j2-p8-l90-w16"
+            }
+          ],
+          "uitleg": "Woorden uit blok 8B."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "uitroep",
+          "zin": "ما أَطْيَبَ ___!",
+          "nl": "Wat is het eten lekker!",
+          "antwoord": [
+            "الطَّعامَ"
+          ],
+          "uitleg": "Accusatief.",
+          "woordbank": [
+            "الطَّعامَ",
+            "الطَّعامُ",
+            "الطَّعامِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "idha",
+          "zin": "إِذا ___ المَطَرُ، سَنَبْقى في البَيْتِ.",
+          "nl": "Als het gaat regenen, blijven we thuis.",
+          "antwoord": [
+            "نَزَلَ"
+          ],
+          "uitleg": "Māḍī.",
+          "woordbank": [
+            "نَزَلَ",
+            "يَنْزِلُ",
+            "سَيَنْزِلُ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "gebiedende-wijs-2",
+          "nl": "Zet uw bagage hier en wacht.",
+          "woorden": [
+            "ضَعْ",
+            "أَمْتِعَتَكَ",
+            "هُنا",
+            "وَانْتَظِرْ."
+          ],
+          "uitleg": "Gebiedende wijs."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-feest",
+          "tekst": "مبروك عليك",
+          "vraag": "Wat antwoord je?",
+          "opties": [
+            "الله يبارك فيك",
+            "بسلامة",
+            "لا شكرا"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "gebiedende-wijs-2",
+          "bron": "Stuur me een bericht. (m)",
+          "antwoorden": [
+            "أَرْسِلْ لي رِسالَةً",
+            "أَرْسِلْ إِلَيَّ رِسالَةً"
+          ],
+          "uitleg": "Vorm IV."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kwantoren",
+          "bron": "كِلا الحَلَّيْنِ مُمْكِنٌ.",
+          "antwoorden": [
+            "beide oplossingen zijn mogelijk",
+            "allebei de oplossingen zijn mogelijk"
+          ],
+          "uitleg": "{ar|كِلا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "uitroep",
+          "bron": "أَلَمْ تَفْهَمْ؟ — بَلى، فَهِمْتُ.",
+          "antwoorden": [
+            "heb je het niet begrepen jawel ik heb het begrepen",
+            "begreep je het niet jawel ik begreep het"
+          ],
+          "uitleg": "{ar|بَلى}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "De gebiedende wijs van {ar|تَسْتَمِعُ} is ...",
+        "opties": [
+          "اِسْتَمِعْ",
+          "سْتَمِعْ",
+          "أَسْتَمِعْ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VIII: اِ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "'Zeg!' (m) is ...",
+        "opties": [
+          "قُلْ",
+          "قولْ",
+          "اُقْوُلْ"
+        ],
+        "juist": 0,
+        "uitleg": "Hol."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kwantoren",
+        "vraag": "'Beide vrouwen' is ...",
+        "opties": [
+          "كِلْتا المَرْأَتَيْنِ",
+          "كِلا المَرْأَتَيْنِ",
+          "كِلْتا المَرْأَتانِ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk, genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "'Als je niet oplet, val je' begint met ...",
+        "opties": [
+          "إِذا لَمْ تَنْتَبِهْ",
+          "إِذا لا تَنْتَبِهُ",
+          "لَوْ لَمْ تَنْتَبِهْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا لَمْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "Welke zin is een uitroep?",
+        "opties": [
+          "ما أَكْبَرَ هٰذا البَيْتَ!",
+          "ما أَكْبَرُ بَيْتٍ؟",
+          "البَيْتُ كَبيرٌ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما أَفْعَلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "idha",
+        "tekst": "إِذا وَصَلْتَ، اتَّصِلْ بي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Als je aankomt, bel me.",
+          "Je kwam aan en belde.",
+          "Bel me niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "kwantoren",
+        "tekst": "مُعْظَمُ الطُّلّابِ نَجَحوا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De meeste studenten zijn geslaagd.",
+          "Alle studenten zijn gezakt.",
+          "Sommige studenten slaagden niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُعْظَمُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs-2",
+        "zin": "___ يا أَوْلادُ!",
+        "nl": "Kom, jongens!",
+        "antwoord": [
+          "تَعالَوْا"
+        ],
+        "uitleg": "Groep.",
+        "woordbank": [
+          "تَعالَوْا",
+          "تَعالَ",
+          "تَعالَيْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "kwantoren",
+        "zin": "زُرْنا ___ الأَماكِنِ السِّياحِيَّةِ.",
+        "nl": "We bezochten de meeste toeristische plekken.",
+        "antwoord": [
+          "مُعْظَمَ"
+        ],
+        "uitleg": "Lijdend voorwerp → -a.",
+        "woordbank": [
+          "مُعْظَمَ",
+          "كِلا",
+          "كُلُّ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "uitroep",
+        "zin": "أَلا تُريدُ الذَّهابَ؟ — ___!",
+        "nl": "Wil je niet gaan? — Jawel!",
+        "antwoord": [
+          "بَلى"
+        ],
+        "uitleg": "Tegenspraak.",
+        "woordbank": [
+          "بَلى",
+          "نَعَمْ",
+          "لا"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "سائِلٌ",
+            "nl": "vloeistof"
+          },
+          {
+            "ar": "دَيْنٌ",
+            "nl": "schuld"
+          },
+          {
+            "ar": "دَوْرٌ",
+            "nl": "beurt"
+          },
+          {
+            "ar": "لِلْأَسَفِ",
+            "nl": "helaas"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "idha",
+        "nl": "Als jij kookt, doe ik de afwas.",
+        "woorden": [
+          "إِذا",
+          "طَبَخْتَ",
+          "أَنْتَ،",
+          "أَغْسِلُ",
+          "أَنا",
+          "الصُّحونَ."
+        ],
+        "uitleg": "{ar|إِذا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebiedende-wijs-2",
+        "bron": "Gebruik! (m, vorm X)",
+        "antwoorden": [
+          "اِسْتَعْمِلْ",
+          "اِسْتَخْدِمْ"
+        ],
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "سَحَبْتُ المالَ مِنَ الصَّرّافِ الآلِيِّ.",
+        "antwoorden": [
+          "ik nam het geld op bij de geldautomaat",
+          "ik heb geld opgenomen bij de geldautomaat"
+        ],
+        "uitleg": "{ar|سَحَبَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-feest",
+        "bron": "العروسة لابسة قفطان",
+        "antwoorden": [
+          "de bruid draagt een kaftan",
+          "de bruid heeft een kaftan aan"
+        ],
+        "uitleg": "Darija.",
+        "tr": "lʿṛūsa lābsa qəfṭān"
+      }
+    ]
+  }
+}

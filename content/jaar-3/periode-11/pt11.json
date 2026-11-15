@@ -1,0 +1,576 @@
+{
+  "id": "j3-p11-pt11",
+  "code": "PT11",
+  "type": "periodetoets",
+  "titel": "Periodetoets 11",
+  "thema": "Alle leerdoelen van periode 11 (les 121 tot en met 132, D25–D27)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** woordvorming, vaste voorzetsels, vierletterige en dubbel zwakke werkwoorden (L121–L124).",
+    "**Getoetst:** nadruk, vocatief, spreekwoorden en poëzie, leestekst (L125–L128).",
+    "**Getoetst:** tekst schrijven, presenteren, interviewen, samenvatten (L129–L132).",
+    "**Getoetst:** Darija: dialogen en rollenspellen (D25–D27).",
+    "Geslaagd vanaf 70%. Maak eerst H33."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "{ar|مَفْعَل} duidt op ...",
+        "opties": [
+          "een plaats",
+          "een werktuig",
+          "een verkleinwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Plaats."
+      },
+      {
+        "type": "invullen",
+        "tag": "woordvorming",
+        "zin": "قَصَّ الوَرَقَةَ بِـ___.",
+        "nl": "Hij knipte het papier met een schaar.",
+        "antwoord": [
+          "المِقَصِّ"
+        ],
+        "uitleg": "Werktuig.",
+        "woordbank": [
+          "المِقَصِّ",
+          "المَقَصِّ",
+          "القَصّاصِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Het verkleinwoord van {ar|نَهْرٌ} is ...",
+        "opties": [
+          "نُهَيْرٌ",
+          "مَنْهَرٌ",
+          "أَنْهارٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فُعَيْل}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "{ar|قَضى عَلى} betekent ...",
+        "opties": [
+          "een einde maken aan",
+          "doorbrengen",
+          "oordelen over"
+        ],
+        "juist": 0,
+        "uitleg": "Voorzetsel verandert de betekenis."
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "يَهْتَمُّ ___ الفَنِّ.",
+        "nl": "Hij interesseert zich voor kunst.",
+        "antwoord": [
+          "بِـ"
+        ],
+        "uitleg": "{ar|اِهْتَمَّ بِـ}",
+        "woordbank": [
+          "بِـ",
+          "عَلى",
+          "مِنْ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "'Het huis dat ik zocht' is ...",
+        "opties": [
+          "البَيْتُ الَّذي بَحَثْتُ عَنْهُ",
+          "البَيْتُ الَّذي بَحَثْتُهُ",
+          "البَيْتُ بَحَثْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Voornaamwoord na voorzetsel."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vierletterig",
+        "instructie": "Vervoeg تَرْجَمَ.",
+        "rijen": [
+          {
+            "label": "ik vertaal",
+            "antwoord": "أُتَرْجِمُ",
+            "tr": "utarjimu"
+          },
+          {
+            "label": "zij (v) vertaalde",
+            "antwoord": "تَرْجَمَتْ",
+            "tr": "tarjamat"
+          }
+        ],
+        "uitleg": "Vierletterig."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vierletterig",
+        "vraag": "{ar|مُتَرْجَمٌ} betekent ...",
+        "opties": [
+          "vertaald",
+          "vertaler",
+          "vertaling"
+        ],
+        "juist": 0,
+        "uitleg": "Passief: -a-."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Ik zie' is ...",
+        "opties": [
+          "أَرى",
+          "أَرْأى",
+          "رَأَيْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Hamza weg."
+      },
+      {
+        "type": "invullen",
+        "tag": "dubbel-zwak",
+        "zin": "لَمْ ___ أَحَدٌ إِلى الاِجْتِماعِ.",
+        "nl": "Er kwam niemand naar de vergadering.",
+        "antwoord": [
+          "يَأْتِ"
+        ],
+        "uitleg": "Majzūm.",
+        "woordbank": [
+          "يَأْتِ",
+          "يَأْتي",
+          "أَتى"
+        ],
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "dubbel-zwak",
+        "instructie": "Vervoeg جاءَ.",
+        "rijen": [
+          {
+            "label": "ik kwam",
+            "antwoord": "جِئْتُ",
+            "tr": "jiʾtu"
+          },
+          {
+            "label": "hij komt",
+            "antwoord": "يَجيءُ",
+            "tr": "yajīʾu"
+          }
+        ],
+        "uitleg": "Hol + hamza."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "{ar|قَدْ يَتَأَخَّرُ} betekent ...",
+        "opties": [
+          "hij komt misschien te laat",
+          "hij is al te laat",
+          "hij is nooit te laat"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَدْ} + muḍāriʿ."
+      },
+      {
+        "type": "invullen",
+        "tag": "nadruk",
+        "zin": "قابَلْتُ الكاتِبَةَ ___.",
+        "nl": "Ik ontmoette de schrijfster zelf.",
+        "antwoord": [
+          "نَفْسَها"
+        ],
+        "uitleg": "Accusatief.",
+        "woordbank": [
+          "نَفْسَها",
+          "نَفْسُها",
+          "نَفْسِها"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "'Abdallah!' is ...",
+        "opties": [
+          "يا عَبْدَ اللّٰهِ!",
+          "يا عَبْدُ اللّٰهِ!",
+          "أَيُّها عَبْدُ اللّٰهِ!"
+        ],
+        "juist": 0,
+        "uitleg": "Iḍāfa → accusatief."
+      },
+      {
+        "type": "invullen",
+        "tag": "vocatief",
+        "zin": "___ الحُضورُ الكِرامُ.",
+        "nl": "Geacht publiek.",
+        "antwoord": [
+          "أَيُّها"
+        ],
+        "uitleg": "Mannelijk + ال.",
+        "woordbank": [
+          "أَيُّها",
+          "أَيَّتُها",
+          "يا"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "{ar|رُبَّ ضارَّةٍ نافِعَةٌ} betekent ...",
+        "opties": [
+          "iets slechts kan toch goed uitpakken",
+          "schade is altijd slecht",
+          "help anderen"
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "klassiek",
+        "vraag": "Wat volgt na {ar|رُبَّ}?",
+        "opties": [
+          "een onbepaald naamwoord in de genitief",
+          "een werkwoord",
+          "een bepaald naamwoord in de nominatief"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|رُبَّ ضارَّةٍ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "{ar|كَما أَنَّ الفَرَنْسِيَّةَ مُنْتَشِرَةٌ} betekent ...",
+        "opties": [
+          "bovendien is het Frans wijdverbreid",
+          "zoals het Frans verspreid is",
+          "hoewel het Frans verspreid is"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كَما أَنَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tekst-schrijven",
+        "vraag": "Wat is een {ar|فِقْرَةٌ}?",
+        "opties": [
+          "een alinea",
+          "een komma",
+          "een titel"
+        ],
+        "juist": 0,
+        "uitleg": "Alinea."
+      },
+      {
+        "type": "invullen",
+        "tag": "tekst-schrijven",
+        "zin": "وَ___ إِلى ذٰلِكَ أَنَّهُ رَخيصٌ.",
+        "nl": "En daarbij komt dat het goedkoop is.",
+        "antwoord": [
+          "يُضافُ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "يُضافُ",
+          "يُضيفُ",
+          "أَضافَ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "Waarmee markeer je een overgang in een presentatie?",
+        "opties": [
+          "أَنْتَقِلُ الآنَ إِلى …",
+          "هَلْ مِنْ أَسْئِلَةٍ؟",
+          "سَيِّداتي سادَتي"
+        ],
+        "juist": 0,
+        "uitleg": "Overgang."
+      },
+      {
+        "type": "invullen",
+        "tag": "presenteren",
+        "zin": "كَما ___ في الشَّريحَةِ.",
+        "nl": "Zoals u op de dia ziet.",
+        "antwoord": [
+          "تَرَوْنَ"
+        ],
+        "uitleg": "Publiek.",
+        "woordbank": [
+          "تَرَوْنَ",
+          "تَرى",
+          "يَرى"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "interview",
+        "vraag": "Welke vraag vraagt naar het motief?",
+        "opties": [
+          "ما الَّذي دَفَعَكَ إِلى ذٰلِكَ؟",
+          "إِلى أَيِّ حَدٍّ؟",
+          "مَتى بَدَأْتَ؟"
+        ],
+        "juist": 0,
+        "uitleg": "Drijfveer."
+      },
+      {
+        "type": "invullen",
+        "tag": "interview",
+        "zin": "هَلْ لَكَ أَنْ ___ عَنْ مَشْروعِكَ؟",
+        "nl": "Zou je ons over je project kunnen vertellen?",
+        "antwoord": [
+          "تُحَدِّثَنا"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تُحَدِّثَنا",
+          "تُحَدِّثُنا",
+          "حَدَّثْتَنا"
+        ],
+        "eind": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Na {ar|يَرى الكاتِبُ} volgt ...",
+        "opties": [
+          "أَنَّ",
+          "إِنَّ",
+          "لِكَيْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنَّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordvorming",
+        "tekst": "أَيْنَ المِفْتاحُ؟",
+        "vraag": "Wat zoekt de spreker?",
+        "opties": [
+          "de sleutel",
+          "de schaar",
+          "de lepel"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِفْتاحٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "vaste-voorzetsels",
+        "tekst": "تَخَلّى عَنْ حُلْمِهِ",
+        "vraag": "Wat deed hij?",
+        "opties": [
+          "Hij gaf zijn droom op.",
+          "Hij bereikte zijn droom.",
+          "Hij vertelde zijn droom."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَخَلّى عَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "dubbel-zwak",
+        "tekst": "لَمْ أَرَ مِثْلَهُ قَطُّ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Ik heb nog nooit zoiets gezien.",
+          "Ik zie het vaak.",
+          "Ik wil het zien."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ أَرَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "klassiek",
+        "tekst": "مَنْ جَدَّ وَجَدَ",
+        "vraag": "Wat is de les?",
+        "opties": [
+          "Inspanning loont.",
+          "Zoek niet te lang.",
+          "Wees geduldig."
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "يَنْقَسِمُ عَرْضي إِلى أَرْبَعَةِ مَحاوِرَ",
+        "vraag": "Uit hoeveel delen bestaat de presentatie?",
+        "opties": [
+          "vier",
+          "drie",
+          "twee"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَرْبَعَةِ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مِنْشارٌ",
+            "nl": "zaag"
+          },
+          {
+            "ar": "قاموسٌ",
+            "nl": "woordenboek"
+          },
+          {
+            "ar": "كابوسٌ",
+            "nl": "nachtmerrie"
+          },
+          {
+            "ar": "عَزيمَةٌ",
+            "nl": "vastberadenheid"
+          },
+          {
+            "ar": "خِطابٌ",
+            "nl": "toespraak"
+          }
+        ],
+        "uitleg": "Woordenschat periode 11."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "قافِيَةٌ",
+            "nl": "rijm"
+          },
+          {
+            "ar": "مَضيقٌ",
+            "nl": "zeestraat"
+          },
+          {
+            "ar": "فِقْرَةٌ",
+            "nl": "alinea"
+          },
+          {
+            "ar": "شَريحَةٌ",
+            "nl": "dia"
+          },
+          {
+            "ar": "خَبيرٌ",
+            "nl": "deskundige"
+          }
+        ],
+        "uitleg": "Woordenschat periode 11."
+      },
+      {
+        "type": "ordenen",
+        "tag": "samenvatten",
+        "nl": "De tekst behandelt het onderwerp migratie.",
+        "woorden": [
+          "يَتَناوَلُ",
+          "النَّصُّ",
+          "مَوْضوعَ",
+          "الهِجْرَةِ."
+        ],
+        "uitleg": "Samenvatting."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-dialoog",
+        "vraag": "Wat doet {ar|ياك} in een Darija-zin?",
+        "opties": [
+          "bevestiging zoeken (toch?)",
+          "ontkennen",
+          "de toekomst uitdrukken"
+        ],
+        "juist": 0,
+        "uitleg": "Partikel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "Wat wens je iemand na de hammam?",
+        "opties": [
+          "بالصحة والراحة",
+          "مبروك",
+          "الله يخلف"
+        ],
+        "juist": 0,
+        "uitleg": "Hammam."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-rollenspel",
+        "vraag": "Darija {ar|البلومبي} is ...",
+        "opties": [
+          "de loodgieter",
+          "de elektricien",
+          "de huisbaas"
+        ],
+        "juist": 0,
+        "uitleg": "Frans *plombier*."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vocatief",
+        "bron": "Dames en heren",
+        "antwoorden": [
+          "سَيِّداتي سادَتي",
+          "سيداتي سادتي",
+          "سَيِّداتي وَسادَتي"
+        ],
+        "uitleg": "Toespraak."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "nadruk",
+        "bron": "tegelijkertijd",
+        "antwoorden": [
+          "في الوَقْتِ ذاتِهِ",
+          "في الوقت ذاته",
+          "في نَفْسِ الوَقْتِ"
+        ],
+        "uitleg": "{ar|ذات}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vierletterig",
+        "bron": "تُرْجِمَ الكِتابُ إِلى العَرَبِيَّةِ.",
+        "antwoorden": [
+          "het boek is in het arabisch vertaald",
+          "het boek werd naar het arabisch vertaald"
+        ],
+        "uitleg": "Lijdend vierletterig."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "samenvatten",
+        "bron": "يَخْلُصُ الكاتِبُ إِلى أَنَّ الحَلَّ مُمْكِنٌ.",
+        "antwoorden": [
+          "de schrijver concludeert dat een oplossing mogelijk is",
+          "de schrijver komt tot de conclusie dat de oplossing mogelijk is"
+        ],
+        "uitleg": "{ar|خَلُصَ إِلى}"
+      }
+    ]
+  }
+}

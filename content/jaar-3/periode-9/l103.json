@@ -1,0 +1,618 @@
+{
+  "id": "j3-p9-l103",
+  "code": "L103",
+  "type": "les",
+  "titel": "Meningen",
+  "thema": "Voor- en tegenstanders; toegeving en tegenstelling",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "toegeving uitdrukken met رَغْمَ (أَنَّ) en مَعَ أَنَّ.",
+    "tegenstellingen maken met بَلْ، أَمّا … فَـ en في حينِ أَنَّ.",
+    "in een discussie standpunten tegenover elkaar zetten."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l103-w01",
+      "ar": "رَغْمَ",
+      "tr": "raġma",
+      "nl": [
+        "ondanks"
+      ],
+      "soort": "voorzetsel",
+      "notitie": "{ar|رَغْمَ أَنَّ} = hoewel."
+    },
+    {
+      "id": "j3-p9-l103-w02",
+      "ar": "مَعَ أَنَّ",
+      "tr": "maʿa anna",
+      "nl": [
+        "hoewel"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l103-w03",
+      "ar": "بَلْ",
+      "tr": "bal",
+      "nl": [
+        "maar (juist), integendeel"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l103-w04",
+      "ar": "أَمّا … فَـ",
+      "tr": "ammā … fa-",
+      "nl": [
+        "wat … betreft"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p9-l103-w05",
+      "ar": "في حينِ أَنَّ",
+      "tr": "fī ḥīni anna",
+      "nl": [
+        "terwijl (tegenstelling)"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l103-w06",
+      "ar": "عَلى العَكْسِ",
+      "tr": "ʿala l-ʿaks",
+      "nl": [
+        "integendeel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l103-w07",
+      "ar": "مُؤَيِّدٌ",
+      "tr": "muʾayyid",
+      "nl": [
+        "voorstander"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l103-w08",
+      "ar": "مُعارِضٌ",
+      "tr": "muʿāriḍ",
+      "nl": [
+        "tegenstander"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l103-w09",
+      "ar": "وِجْهَةُ نَظَرٍ",
+      "tr": "wijhatu naẓar",
+      "nl": [
+        "standpunt"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j3-p9-l103-w10",
+      "ar": "اِقْتَنَعَ بِـ",
+      "tr": "iqtanaʿa bi-",
+      "nl": [
+        "overtuigd raken van"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p9-l103-w11",
+      "ar": "أَقْنَعَ",
+      "tr": "aqnaʿa",
+      "nl": [
+        "overtuigen"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p9-l103-w12",
+      "ar": "مَنْطِقِيٌّ",
+      "tr": "manṭiqiyy",
+      "nl": [
+        "logisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l103-w13",
+      "ar": "مُبالَغٌ فيهِ",
+      "tr": "mubālaġun fīh",
+      "nl": [
+        "overdreven"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l103-w14",
+      "ar": "مَوْضوعِيٌّ",
+      "tr": "mawḍūʿiyy",
+      "nl": [
+        "objectief"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p9-l103-w15",
+      "ar": "نِقاشٌ",
+      "tr": "niqāš",
+      "nl": [
+        "discussie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Toegeving: hoewel en ondanks",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Wat volgt",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "رَغْمَ",
+              "naamwoord (genitief)",
+              "رَغْمَ المَطَرِ",
+              "ondanks de regen"
+            ],
+            [
+              "رَغْمَ أَنَّ / مَعَ أَنَّ",
+              "zin (أَنَّ + acc.)",
+              "مَعَ أَنَّ الجَوَّ بارِدٌ",
+              "hoewel het koud is"
+            ],
+            [
+              "في حينِ أَنَّ",
+              "zin",
+              "في حينِ أَنَّ أَخي يُحِبُّ القَهْوَةَ",
+              "terwijl mijn broer van koffie houdt"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Ook hier: een **naamwoord-** of een **zinsvariant**. {ar|رَغْمَ المَطَرِ} = {ar|رَغْمَ أَنَّ المَطَرَ يَنْزِلُ}. Formele teksten kiezen vaker de korte naamwoordvariant."
+        }
+      ]
+    },
+    {
+      "titel": "Tegenstelling: بَلْ en أَمّا … فَـ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|بَلْ} corrigeert na een ontkenning: {ar|لَيْسَ سَهْلًا بَلْ صَعْبًا} (het is niet makkelijk, maar juist moeilijk). {ar|أَمّا … فَـ} zet een nieuw onderwerp tegenover het vorige: {ar|أَمّا أَنا فَأُفَضِّلُ الشّايَ} (ik daarentegen geef de voorkeur aan thee)."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|أَمّا X} komt **altijd** {ar|فَـ} voor het gezegde: {ar|أَمّا الحَلُّ فَبَسيطٌ}. Vergeet die {ar|فَـ} niet."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "رَغْمَ أَنَّ الفِكْرَةَ جَيِّدَةٌ، فَهِيَ صَعْبَةُ التَّنْفيذِ.",
+              "tr": "raġma anna l-fikrata jayyidatun, fa-hiya ṣaʿbatu t-tanfīḏ.",
+              "nl": "Hoewel het idee goed is, is het moeilijk uit te voeren."
+            },
+            {
+              "ar": "المُشْكِلَةُ لَيْسَتْ في المالِ، بَلْ في الوَقْتِ.",
+              "tr": "al-muškilatu laysat fi l-māli, bal fi l-waqt.",
+              "nl": "Het probleem zit niet in het geld, maar juist in de tijd."
+            },
+            {
+              "ar": "أَمّا المُعارِضونَ فَيَقولونَ إِنَّ الخُطَّةَ مُكْلِفَةٌ.",
+              "tr": "ammā l-muʿāriḍūna fa-yaqūlūna inna l-ḫuṭṭata mukallifa.",
+              "nl": "De tegenstanders daarentegen zeggen dat het plan duur is."
+            },
+            {
+              "ar": "في حينِ أَنَّ المُؤَيِّدينَ يَرَوْنَها ضَرورِيَّةً.",
+              "tr": "fī ḥīni anna l-muʾayyidīna yarawnahā ḍarūriyya.",
+              "nl": "Terwijl de voorstanders het noodzakelijk vinden.",
+              "review": {
+                "status": "onzeker",
+                "note": "يَرَوْنَ (defectief + hamza) controleren."
+              }
+            },
+            {
+              "ar": "خَرَجْنا رَغْمَ المَطَرِ.",
+              "tr": "ḫarajnā raġma l-maṭar.",
+              "nl": "We gingen naar buiten ondanks de regen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مُؤَيِّدٌ",
+              "nl": "voorstander",
+              "woord": "j3-p9-l103-w07"
+            },
+            {
+              "ar": "مُعارِضٌ",
+              "nl": "tegenstander",
+              "woord": "j3-p9-l103-w08"
+            },
+            {
+              "ar": "وِجْهَةُ نَظَرٍ",
+              "nl": "standpunt",
+              "woord": "j3-p9-l103-w09"
+            },
+            {
+              "ar": "أَقْنَعَ",
+              "nl": "overtuigen",
+              "woord": "j3-p9-l103-w11"
+            },
+            {
+              "ar": "مَنْطِقِيٌّ",
+              "nl": "logisch",
+              "woord": "j3-p9-l103-w12"
+            },
+            {
+              "ar": "نِقاشٌ",
+              "nl": "discussie",
+              "woord": "j3-p9-l103-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "toegeving",
+          "tekst": "خَرَجْنا رَغْمَ المَطَرِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "We gingen naar buiten ondanks de regen.",
+            "We bleven binnen door de regen.",
+            "Het regende niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|رَغْمَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Toegeving en tegenstelling",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "toegeving",
+          "zin": "___ أَنَّهُ مَريضٌ، ذَهَبَ إِلى العَمَلِ.",
+          "nl": "Hoewel hij ziek is, ging hij naar zijn werk.",
+          "antwoord": [
+            "رَغْمَ"
+          ],
+          "uitleg": "{ar|رَغْمَ أَنَّ}",
+          "woordbank": [
+            "رَغْمَ",
+            "بِسَبَبِ",
+            "لِكَيْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "toegeving",
+          "zin": "لَيْسَ كَسولًا ___ مُتْعَبٌ.",
+          "nl": "Hij is niet lui, maar juist moe.",
+          "antwoord": [
+            "بَلْ"
+          ],
+          "uitleg": "Correctie na ontkenning.",
+          "woordbank": [
+            "بَلْ",
+            "لٰكِنَّ",
+            "أَمّا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "toegeving",
+          "zin": "أَمّا أَنا ___ أُفَضِّلُ الشّايَ.",
+          "nl": "Ik daarentegen geef de voorkeur aan thee.",
+          "antwoord": [
+            "فَـ",
+            "ف",
+            "فَ"
+          ],
+          "uitleg": "{ar|أَمّا … فَـ}",
+          "woordbank": [
+            "فَـ",
+            "وَ",
+            "ثُمَّ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "toegeving",
+          "vraag": "'Ondanks de kou' is ...",
+          "opties": [
+            "رَغْمَ البَرْدِ",
+            "رَغْمَ أَنَّ البَرْدَ",
+            "بِسَبَبِ البَرْدِ"
+          ],
+          "juist": 0,
+          "uitleg": "+ genitief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "toegeving",
+          "vraag": "Wat volgt altijd na {ar|أَمّا X}?",
+          "opties": [
+            "فَـ",
+            "إِلّا",
+            "أَنْ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|فَـ}"
+        }
+      ]
+    },
+    {
+      "titel": "Discussie",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "toegeving",
+          "nl": "Het probleem zit niet in het geld, maar in de tijd.",
+          "woorden": [
+            "المُشْكِلَةُ",
+            "لَيْسَتْ",
+            "في",
+            "المالِ،",
+            "بَلْ",
+            "في",
+            "الوَقْتِ."
+          ],
+          "uitleg": "{ar|بَلْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "toegeving",
+          "bron": "hoewel (+ zin)",
+          "antwoorden": [
+            "مَعَ أَنَّ",
+            "رَغْمَ أَنَّ"
+          ],
+          "uitleg": "Toegeving."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "toegeving",
+          "bron": "رَغْمَ أَنَّ الفِكْرَةَ جَيِّدَةٌ، فَهِيَ صَعْبَةٌ.",
+          "antwoorden": [
+            "hoewel het idee goed is is het moeilijk",
+            "het idee is goed maar moeilijk"
+          ],
+          "uitleg": "{ar|رَغْمَ أَنَّ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عَلى العَكْسِ",
+            "nl": "integendeel"
+          },
+          {
+            "ar": "اِقْتَنَعَ بِـ",
+            "nl": "overtuigd raken"
+          },
+          {
+            "ar": "مُبالَغٌ فيهِ",
+            "nl": "overdreven"
+          },
+          {
+            "ar": "مَوْضوعِيٌّ",
+            "nl": "objectief"
+          },
+          {
+            "ar": "في حينِ أَنَّ",
+            "nl": "terwijl"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "{ar|مَعَ أَنَّ} betekent ...",
+        "opties": [
+          "hoewel",
+          "omdat",
+          "zodat"
+        ],
+        "juist": 0,
+        "uitleg": "Toegeving."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "أَمّا الحَلُّ فَبَسيطٌ.",
+          "أَمّا الحَلُّ بَسيطٌ.",
+          "أَمّا الحَلَّ فَبَسيطًا."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ} is verplicht."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "'Niet goedkoop, maar juist duur' is ...",
+        "opties": [
+          "لَيْسَ رَخيصًا بَلْ غالِيًا",
+          "لَيْسَ رَخيصًا لِأَنَّ غالٍ",
+          "رَخيصٌ بَلْ غالٍ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَلْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "toegeving",
+        "vraag": "Welke naamval volgt op {ar|رَغْمَ}?",
+        "opties": [
+          "genitief",
+          "accusatief",
+          "nominatief"
+        ],
+        "juist": 0,
+        "uitleg": "Voorzetsel-achtig."
+      },
+      {
+        "type": "luisteren",
+        "tag": "toegeving",
+        "tekst": "أَمّا أَنا فَلا أُوافِقُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik daarentegen ben het er niet mee eens.",
+          "Ik ben het ermee eens.",
+          "Niemand is het ermee eens."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَمّا … فَـ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "toegeving",
+        "tekst": "مَعَ أَنَّهُ غَنِيٌّ، يَعيشُ بِبَساطَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hoewel hij rijk is, leeft hij eenvoudig.",
+          "Omdat hij rijk is, leeft hij luxe.",
+          "Hij is arm."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَعَ أَنَّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "toegeving",
+        "zin": "نَجَحَ ___ الصُّعوباتِ.",
+        "nl": "Hij slaagde ondanks de moeilijkheden.",
+        "antwoord": [
+          "رَغْمَ"
+        ],
+        "uitleg": "+ genitief.",
+        "woordbank": [
+          "رَغْمَ",
+          "بِسَبَبِ",
+          "لِكَيْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "toegeving",
+        "zin": "لَمْ يَكُنِ الفيلْمُ مُمِلًّا ___ مُمْتِعًا جِدًّا.",
+        "nl": "De film was niet saai, maar juist heel leuk.",
+        "antwoord": [
+          "بَلْ"
+        ],
+        "uitleg": "{ar|بَلْ}",
+        "woordbank": [
+          "بَلْ",
+          "لِأَنَّ",
+          "رَغْمَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "هٰذا رَأْيٌ ___ وَلَيْسَ عاطِفِيًّا.",
+        "nl": "Dit is een logische mening en geen emotionele.",
+        "antwoord": [
+          "مَنْطِقِيٌّ"
+        ],
+        "uitleg": "{ar|مَنْطِقِيٌّ}",
+        "woordbank": [
+          "مَنْطِقِيٌّ",
+          "مُعارِضٌ",
+          "مُبالَغٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "toegeving",
+        "instructie": "Kies het voegwoord.",
+        "rijen": [
+          {
+            "label": "ondanks (+ naamwoord)",
+            "antwoord": "رَغْمَ",
+            "tr": "raġma"
+          },
+          {
+            "label": "wat … betreft",
+            "antwoord": "أَمّا",
+            "tr": "ammā"
+          }
+        ],
+        "uitleg": "Toegeving · contrast."
+      },
+      {
+        "type": "ordenen",
+        "tag": "toegeving",
+        "nl": "We gingen naar buiten ondanks de regen.",
+        "woorden": [
+          "خَرَجْنا",
+          "رَغْمَ",
+          "المَطَرِ."
+        ],
+        "uitleg": "{ar|رَغْمَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het standpunt",
+        "antwoorden": [
+          "وِجْهَةُ النَّظَرِ"
+        ],
+        "uitleg": "{ar|وِجْهَةُ النَّظَرِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "toegeving",
+        "bron": "أَمّا المُعارِضونَ فَيَرْفُضونَ الخُطَّةَ.",
+        "antwoorden": [
+          "de tegenstanders daarentegen wijzen het plan af",
+          "wat de tegenstanders betreft zij wijzen het plan af"
+        ],
+        "uitleg": "{ar|أَمّا … فَـ}"
+      }
+    ]
+  }
+}

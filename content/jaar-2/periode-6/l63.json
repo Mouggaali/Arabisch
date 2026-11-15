@@ -1,0 +1,646 @@
+{
+  "id": "j2-p6-l63",
+  "code": "L63",
+  "type": "les",
+  "titel": "De uitgebreide familie",
+  "thema": "Schoonfamilie, neven en nichten, en de kunya",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de 'vijf zelfstandige naamwoorden' (أَبٌ، أَخٌ، حَمٌ، فَمٌ، ذو) in een iḍāfa verbuigen.",
+    "de naamval aflezen aan و / ا / ي: أَبو، أَبا، أَبي.",
+    "de kunya gebruiken: أَبو سَميرٍ، أُمُّ لَيْلى.",
+    "over de uitgebreide familie vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l63-w01",
+      "ar": "حَمٌ",
+      "tr": "ḥam",
+      "nl": [
+        "schoonvader"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "In iḍāfa: {ar|حَمو}، {ar|حَما}، {ar|حَمي}."
+    },
+    {
+      "id": "j2-p6-l63-w02",
+      "ar": "حَماةٌ",
+      "tr": "ḥamāh",
+      "nl": [
+        "schoonmoeder"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w03",
+      "ar": "ذو",
+      "tr": "ḏū",
+      "nl": [
+        "bezitter van",
+        "met"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Altijd in iḍāfa: {ar|ذو خِبْرَةٍ} = met ervaring. Vrouwelijk: {ar|ذاتُ}."
+    },
+    {
+      "id": "j2-p6-l63-w04",
+      "ar": "اِبْنُ العَمِّ",
+      "tr": "ibnu l-ʿamm",
+      "nl": [
+        "neef (zoon van oom, vaderskant)"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l63-w05",
+      "ar": "بِنْتُ الخالِ",
+      "tr": "bintu l-ḫāl",
+      "nl": [
+        "nicht (dochter van oom, moederskant)"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l63-w08",
+      "ar": "أَقارِبُ",
+      "tr": "aqārib",
+      "nl": [
+        "familieleden",
+        "verwanten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Diptoot. Enkelvoud: {ar|قَريبٌ}."
+    },
+    {
+      "id": "j2-p6-l63-w09",
+      "ar": "صِهْرٌ",
+      "tr": "ṣihr",
+      "nl": [
+        "schoonzoon",
+        "zwager"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w10",
+      "ar": "كَنَّةٌ",
+      "tr": "kanna",
+      "nl": [
+        "schoondochter"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Gangbaarheid (كَنَّة vs. زَوْجَةُ الاِبْنِ) per regio controleren."
+      }
+    },
+    {
+      "id": "j2-p6-l63-w11",
+      "ar": "أَرْمَلَةٌ",
+      "tr": "armala",
+      "nl": [
+        "weduwe"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w12",
+      "ar": "يَتيمٌ",
+      "tr": "yatīm",
+      "nl": [
+        "wees"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w13",
+      "ar": "كُنْيَةٌ",
+      "tr": "kunya",
+      "nl": [
+        "kunya (naam als 'vader/moeder van …')"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w14",
+      "ar": "عَريسٌ",
+      "tr": "ʿarīs",
+      "nl": [
+        "bruidegom"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w15",
+      "ar": "عَروسٌ",
+      "tr": "ʿarūs",
+      "nl": [
+        "bruid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l63-w16",
+      "ar": "تَشابَهَ",
+      "tr": "tašābaha",
+      "nl": [
+        "op elkaar lijken"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p6-l63-w18",
+      "ar": "شَبَهٌ",
+      "tr": "šabah",
+      "nl": [
+        "gelijkenis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De vijf zelfstandige naamwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Vijf korte woorden krijgen in een iḍāfa een **lange klinker** die de naamval aangeeft: **و** (nominatief), **ا** (accusatief), **ي** (genitief). Het bekendste paar: {ar|أَبٌ} en {ar|أَخٌ}."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Marfūʿ",
+            "Manṣūb",
+            "Majrūr"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "vader van Samir",
+              "أَبو سَميرٍ",
+              "أَبا سَميرٍ",
+              "أَبي سَميرٍ"
+            ],
+            [
+              "jouw broer",
+              "أَخوكَ",
+              "أَخاكَ",
+              "أَخيكَ"
+            ],
+            [
+              "zijn schoonvader",
+              "حَموهُ",
+              "حَماهُ",
+              "حَميهِ"
+            ],
+            [
+              "met ervaring",
+              "ذو خِبْرَةٍ",
+              "ذا خِبْرَةٍ",
+              "ذي خِبْرَةٍ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom de lange klinker? De oorspronkelijke woorden waren eigenlijk drieletterig met een zwakke laatste letter (*abawun*). In een iḍāfa komt die verborgen klinker tevoorschijn en draagt hij de naamval. Zonder iḍāfa gedraagt {ar|أَبٌ} zich gewoon: {ar|هٰذا أَبٌ}، {ar|رَأَيْتُ أَبًا}."
+        },
+        {
+          "type": "letop",
+          "md": "Met het suffix **ـي** (mijn) is er geen verschil: {ar|أَبي}، {ar|أَخي} in alle naamvallen. Dat is waarom je dit tot nu toe niet merkte."
+        }
+      ]
+    },
+    {
+      "titel": "Naamvallen in zinnen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَخوكَ طَويلٌ.",
+              "tr": "aḫūka ṭawīl.",
+              "nl": "Je broer is lang."
+            },
+            {
+              "ar": "رَأَيْتُ أَخاكَ في السّوقِ.",
+              "tr": "raʾaytu aḫāka fi s-sūq.",
+              "nl": "Ik zag je broer op de markt."
+            },
+            {
+              "ar": "سَلِّمْ عَلى أَخيكَ.",
+              "tr": "sallim ʿalā aḫīk.",
+              "nl": "Doe je broer de groeten."
+            },
+            {
+              "ar": "أَبو سَميرٍ رَجُلٌ ذو خِبْرَةٍ.",
+              "tr": "abū Samīrin rajulun ḏū ḫibra.",
+              "nl": "Abu Samir is een man met ervaring."
+            },
+            {
+              "ar": "حَضَرَ العُرْسَ كُلُّ الأَقارِبِ.",
+              "tr": "ḥaḍara l-ʿursa kullu l-aqārib.",
+              "nl": "Alle familieleden waren op de bruiloft."
+            }
+          ]
+        },
+        {
+          "type": "tekst",
+          "md": "**Kunya**: veel Arabieren worden met respect aangesproken als *vader van* / *moeder van* hun oudste kind: {ar|أَبو سَميرٍ}، {ar|أُمُّ لَيْلى}. {ar|أُمٌّ} is géén van de vijf: {ar|أُمُّ}، {ar|أُمَّ}، {ar|أُمِّ}."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَمٌ",
+              "nl": "schoonvader",
+              "woord": "j2-p6-l63-w01"
+            },
+            {
+              "ar": "حَماةٌ",
+              "nl": "schoonmoeder",
+              "woord": "j2-p6-l63-w02"
+            },
+            {
+              "ar": "حَفيدٌ",
+              "nl": "kleinzoon"
+            },
+            {
+              "ar": "أَقارِبُ",
+              "nl": "familieleden",
+              "woord": "j2-p6-l63-w08"
+            },
+            {
+              "ar": "عَريسٌ",
+              "nl": "bruidegom",
+              "woord": "j2-p6-l63-w14"
+            },
+            {
+              "ar": "عَروسٌ",
+              "nl": "bruid",
+              "woord": "j2-p6-l63-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vijf-namen",
+          "tekst": "رَأَيْتُ أَخاكَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik zag je broer.",
+            "Je broer zag mij.",
+            "Ik zag mijn broer."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَخا} = accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Vijf zelfstandige naamwoorden",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vijf-namen",
+          "instructie": "Verbuig 'de vader van Laila'.",
+          "rijen": [
+            {
+              "label": "marfūʿ",
+              "antwoord": "أَبو",
+              "tr": "abū"
+            },
+            {
+              "label": "manṣūb",
+              "antwoord": "أَبا",
+              "tr": "abā"
+            },
+            {
+              "label": "majrūr",
+              "antwoord": "أَبي",
+              "tr": "abī"
+            }
+          ],
+          "uitleg": "و · ا · ي"
+        },
+        {
+          "type": "invullen",
+          "tag": "vijf-namen",
+          "zin": "تَكَلَّمْتُ مَعَ ___كَ.",
+          "nl": "Ik heb met je broer gepraat.",
+          "woordbank": [
+            "أَخي",
+            "أَخو",
+            "أَخا"
+          ],
+          "antwoord": [
+            "أَخي"
+          ],
+          "uitleg": "Na {ar|مَعَ}: genitief → ي."
+        },
+        {
+          "type": "invullen",
+          "tag": "vijf-namen",
+          "zin": "___ سَميرٍ مُهَنْدِسٌ.",
+          "nl": "Abu Samir is ingenieur.",
+          "woordbank": [
+            "أَبو",
+            "أَبا",
+            "أَبي"
+          ],
+          "antwoord": [
+            "أَبو"
+          ],
+          "uitleg": "Onderwerp: nominatief → و."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vijf-namen",
+          "vraag": "'Ik ken je vader' is ...",
+          "opties": [
+            "أَعْرِفُ أَباكَ.",
+            "أَعْرِفُ أَبوكَ.",
+            "أَعْرِفُ أَبيكَ."
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend voorwerp → ا."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vijf-namen",
+          "vraag": "Waarom is {ar|أَبي} (mijn vader) in alle naamvallen gelijk?",
+          "opties": [
+            "Het suffix ـي overschaduwt de naamvalsklinker.",
+            "أَبٌ is een diptoot.",
+            "Mijn vader is altijd onderwerp."
+          ],
+          "juist": 0,
+          "uitleg": "Met ـي is er geen zichtbaar verschil."
+        }
+      ]
+    },
+    {
+      "titel": "Familie",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vijf-namen",
+          "nl": "Abu Samir is een man met ervaring.",
+          "woorden": [
+            "أَبو",
+            "سَميرٍ",
+            "رَجُلٌ",
+            "ذو",
+            "خِبْرَةٍ."
+          ],
+          "uitleg": "{ar|ذو} + genitief."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "اِبْنُ عَمّي يَسْكُنُ في فاسَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Mijn neef woont in Fez.",
+            "Mijn oom woont in Fez.",
+            "Mijn broer woont in Fez."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِبْنُ العَمِّ} = neef."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vijf-namen",
+          "bron": "je broer (m, onderwerp)",
+          "antwoorden": [
+            "أَخوكَ"
+          ],
+          "uitleg": "Nominatief → و."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "حَضَرَ العُرْسَ كُلُّ الأَقارِبِ.",
+          "antwoorden": [
+            "alle familieleden waren op de bruiloft",
+            "alle familieleden kwamen naar de bruiloft",
+            "alle verwanten waren op de bruiloft"
+          ],
+          "uitleg": "{ar|حَضَرَ} = aanwezig zijn."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حَفيدَةٌ",
+            "nl": "kleindochter"
+          },
+          {
+            "ar": "أَرْمَلَةٌ",
+            "nl": "weduwe"
+          },
+          {
+            "ar": "يَتيمٌ",
+            "nl": "wees"
+          },
+          {
+            "ar": "كُنْيَةٌ",
+            "nl": "kunya"
+          },
+          {
+            "ar": "شَبَهٌ",
+            "nl": "gelijkenis"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "Welke letter geeft bij {ar|أَبو / أَبا / أَبي} de accusatief aan?",
+        "opties": [
+          "ا",
+          "و",
+          "ي"
+        ],
+        "juist": 0,
+        "uitleg": "و = nominatief, ا = accusatief, ي = genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "'Op het huis van je broer' is ...",
+        "opties": [
+          "عَلى بَيْتِ أَخيكَ",
+          "عَلى بَيْتِ أَخوكَ",
+          "عَلى بَيْتِ أَخاكَ"
+        ],
+        "juist": 0,
+        "uitleg": "Tweede iḍāfa-lid → genitief → ي."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "'Een vrouw met ervaring' is ...",
+        "opties": [
+          "اِمْرَأَةٌ ذاتُ خِبْرَةٍ",
+          "اِمْرَأَةٌ ذو خِبْرَةٍ",
+          "اِمْرَأَةٌ ذا خِبْرَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk: {ar|ذاتُ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "Welk woord hoort NIET bij de vijf?",
+        "opties": [
+          "أُمٌّ",
+          "أَبٌ",
+          "أَخٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أُمٌّ} verbuigt normaal."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vijf-namen",
+        "tekst": "أَبوكِ رَجُلٌ طَيِّبٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Je vader is een goede man.",
+          "Mijn vader is een goede man.",
+          "Ik ken je vader."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَبوكِ} = jouw (v) vader, nominatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَضَرَ العَريسُ وَالعَروسُ",
+        "vraag": "Wie kwamen er?",
+        "opties": [
+          "de bruidegom en de bruid",
+          "de schoonouders",
+          "de kleinkinderen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|العَريسُ} · {ar|العَروسُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "vijf-namen",
+        "zin": "اِتَّصَلْتُ بِـ___كَ أَمْسِ.",
+        "nl": "Ik heb gisteren je vader gebeld.",
+        "woordbank": [
+          "أَبي",
+          "أَبو",
+          "أَبا"
+        ],
+        "antwoord": [
+          "أَبي"
+        ],
+        "uitleg": "Na {ar|بِـ}: genitief → ي."
+      },
+      {
+        "type": "invullen",
+        "tag": "vijf-namen",
+        "zin": "إِنَّ ___كِ ذَكِيٌّ.",
+        "nl": "Je broer is echt slim. (tegen een vrouw)",
+        "woordbank": [
+          "أَخا",
+          "أَخو",
+          "أَخي"
+        ],
+        "antwoord": [
+          "أَخا"
+        ],
+        "uitleg": "Na {ar|إِنَّ}: accusatief → ا (les 65)."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vijf-namen",
+        "instructie": "Verbuig 'jouw (m) broer'.",
+        "rijen": [
+          {
+            "label": "marfūʿ",
+            "antwoord": "أَخوكَ",
+            "tr": "aḫūka"
+          },
+          {
+            "label": "majrūr",
+            "antwoord": "أَخيكَ",
+            "tr": "aḫīka"
+          }
+        ],
+        "uitleg": "و · ي"
+      },
+      {
+        "type": "ordenen",
+        "tag": "vijf-namen",
+        "nl": "Ik zag je broer op de markt.",
+        "woorden": [
+          "رَأَيْتُ",
+          "أَخاكَ",
+          "في",
+          "السّوقِ."
+        ],
+        "uitleg": "Accusatief → ا."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de kleinzoon",
+        "antwoorden": [
+          "الحَفيدُ"
+        ],
+        "uitleg": "{ar|الحَفيدُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vijf-namen",
+        "bron": "met ervaring (m)",
+        "antwoorden": [
+          "ذو خِبْرَةٍ"
+        ],
+        "uitleg": "{ar|ذو} + genitief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vijf-namen",
+        "bron": "هٰذِهِ سَيّارَةُ أَبي سَميرٍ.",
+        "antwoorden": [
+          "dit is de auto van abu samir"
+        ],
+        "uitleg": "Genitief → {ar|أَبي}."
+      }
+    ]
+  }
+}

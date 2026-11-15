@@ -1,0 +1,643 @@
+{
+  "id": "j2-p7-l78",
+  "code": "L78",
+  "type": "les",
+  "titel": "Mijn jeugd",
+  "thema": "Herinneringen; gewoonte en duur in het verleden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "gewoonten in het verleden uitdrukken met كانَ + muḍāriʿ.",
+    "قَدْ + māḍī (al) en قَدْ + muḍāriʿ (misschien) gebruiken.",
+    "over je jeugd vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l78-w01",
+      "ar": "قَدْ",
+      "tr": "qad",
+      "nl": [
+        "al (+ māḍī)"
+      ],
+      "soort": "partikel",
+      "notitie": "{ar|قَدْ وَصَلَ} = hij is al aangekomen. Met muḍāriʿ: *misschien*."
+    },
+    {
+      "id": "j2-p7-l78-w02",
+      "ar": "لَعِبَ الكُرَةَ",
+      "tr": "laʿiba l-kura",
+      "nl": [
+        "voetballen (balspelen)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l78-w03",
+      "ar": "حَيٌّ شَعْبِيٌّ",
+      "tr": "ḥayyun šaʿbiyy",
+      "nl": [
+        "volkswijk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l78-w04",
+      "ar": "جيلٌ",
+      "tr": "jīl",
+      "nl": [
+        "generatie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَجْيالٌ}."
+    },
+    {
+      "id": "j2-p7-l78-w05",
+      "ar": "صِغَرٌ",
+      "tr": "ṣiġar",
+      "nl": [
+        "jonge leeftijd"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|في صِغَري} = toen ik klein was."
+    },
+    {
+      "id": "j2-p7-l78-w09",
+      "ar": "نادِرًا",
+      "tr": "nādiran",
+      "nl": [
+        "zelden"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p7-l78-w10",
+      "ar": "بِالفِعْلِ",
+      "tr": "bi-l-fiʿl",
+      "nl": [
+        "inderdaad"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p7-l78-w12",
+      "ar": "حِكايَةٌ",
+      "tr": "ḥikāya",
+      "nl": [
+        "verhaal, sprookje"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l78-w14",
+      "ar": "تَعَوَّدَ عَلى",
+      "tr": "taʿawwada ʿalā",
+      "nl": [
+        "gewend raken aan"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p7-l78-w15",
+      "ar": "ما زالَ يَفْعَلُ",
+      "tr": "mā zāla yafʿalu",
+      "nl": [
+        "nog steeds doen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l78-w16",
+      "ar": "كَبِرَ",
+      "tr": "kabira",
+      "nl": [
+        "opgroeien, ouder worden"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَكْبَرُ}"
+    },
+    {
+      "id": "j2-p7-l78-w17",
+      "ar": "ذِكْرَياتُ الطُّفولَةِ",
+      "tr": "ḏikrayātu ṭ-ṭufūla",
+      "nl": [
+        "jeugdherinneringen"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l78-w18",
+      "ar": "حَكى",
+      "tr": "ḥakā",
+      "nl": [
+        "vertellen"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|يَحْكي}"
+    },
+    {
+      "id": "j2-p7-l78-w19",
+      "ar": "أَلْعابٌ شَعْبِيَّةٌ",
+      "tr": "alʿābun šaʿbiyya",
+      "nl": [
+        "traditionele spelletjes"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l78-w20",
+      "ar": "مَدْرَسَةٌ قُرْآنِيَّةٌ",
+      "tr": "madrasatun qurʾāniyya",
+      "nl": [
+        "koranschool"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l78-w21",
+      "ar": "شَقِيٌّ",
+      "tr": "šaqiyy",
+      "nl": [
+        "ondeugend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p7-l78-w22",
+      "ar": "هادِئُ الطَّبْعِ",
+      "tr": "hādiʾu ṭ-ṭabʿ",
+      "nl": [
+        "rustig van aard"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Gewoonte en duur in het verleden: كانَ + muḍāriʿ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|كانَ} + muḍāriʿ beschrijft wat je **vroeger gewoonlijk deed** of **aan het doen was**: {ar|كُنْتُ أَلْعَبُ في الشّارِعِ} (ik speelde altijd op straat). {ar|كانَ} wordt vervoegd, het muḍāriʿ ook."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "māḍī",
+              "لَعِبْتُ",
+              "ik speelde (één keer)"
+            ],
+            [
+              "كانَ + muḍāriʿ",
+              "كُنْتُ أَلْعَبُ",
+              "ik speelde (altijd), ik was aan het spelen"
+            ],
+            [
+              "قَدْ + māḍī",
+              "قَدْ لَعِبْتُ",
+              "ik heb al gespeeld"
+            ],
+            [
+              "لَنْ + manṣūb",
+              "لَنْ أَلْعَبَ",
+              "ik zal niet spelen"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Het Arabisch heeft maar twee echte tijden. Fijnere betekenissen maak je met hulpwoorden: {ar|كانَ} schuift de muḍāriʿ naar het verleden (zoals de Nederlandse *onvoltooid verleden tijd*), {ar|قَدْ} benadrukt dat iets **al gebeurd** is."
+        }
+      ]
+    },
+    {
+      "titel": "Mijn jeugd",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في صِغَري كُنْتُ أَسْكُنُ في حَيٍّ شَعْبِيٍّ.",
+              "tr": "fī ṣiġarī kuntu askunu fī ḥayyin šaʿbiyy.",
+              "nl": "Toen ik klein was, woonde ik in een volkswijk."
+            },
+            {
+              "ar": "كانَتْ جَدَّتي تَحْكي لَنا حِكاياتٍ كُلَّ لَيْلَةٍ.",
+              "tr": "kānat jaddatī taḥkī lanā ḥikāyātin kulla layla.",
+              "nl": "Mijn oma vertelde ons elke avond verhalen."
+            },
+            {
+              "ar": "كُنّا نَلْعَبُ الكُرَةَ في الشّارِعِ.",
+              "tr": "kunnā nalʿabu l-kurata fi š-šāriʿ.",
+              "nl": "We voetbalden altijd op straat."
+            },
+            {
+              "ar": "قَدْ كَبِرْتُ، لٰكِنّي ما زِلْتُ أَتَذَكَّرُ تِلْكَ الأَيّامَ.",
+              "tr": "qad kabirtu, lākinnī mā ziltu ataḏakkaru tilka l-ayyām.",
+              "nl": "Ik ben inmiddels volwassen, maar ik herinner me die dagen nog."
+            },
+            {
+              "ar": "لَنْ أَنْسى طُفولَتي.",
+              "tr": "lan ansā ṭufūlatī.",
+              "nl": "Ik zal mijn kindertijd nooit vergeten."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|قَدْ} + **muḍāriʿ** betekent iets anders: *misschien, soms* ({ar|قَدْ يَتَأَخَّرُ} = hij komt misschien te laat)."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عادَةً",
+              "nl": "gewoonlijk"
+            },
+            {
+              "ar": "أَحْيانًا",
+              "nl": "soms"
+            },
+            {
+              "ar": "دائِمًا",
+              "nl": "altijd"
+            },
+            {
+              "ar": "نادِرًا",
+              "nl": "zelden",
+              "woord": "j2-p7-l78-w09"
+            },
+            {
+              "ar": "جيلٌ",
+              "nl": "generatie",
+              "woord": "j2-p7-l78-w04"
+            },
+            {
+              "ar": "حِكايَةٌ",
+              "nl": "verhaal",
+              "woord": "j2-p7-l78-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "kana-mudari",
+          "tekst": "كُنّا نَلْعَبُ في الشّارِعِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "We speelden altijd op straat.",
+            "We spelen op straat.",
+            "We gaan op straat spelen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كانَ} + muḍāriʿ = gewoonte."
+        }
+      ]
+    },
+    {
+      "titel": "Tijden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kana-mudari",
+          "zin": "كُنْتُ ___ في هولَنْدا.",
+          "nl": "Ik woonde (toen) in Nederland.",
+          "antwoord": [
+            "أَسْكُنُ"
+          ],
+          "uitleg": "{ar|كُنْتُ} + muḍāriʿ.",
+          "woordbank": [
+            "أَسْكُنُ",
+            "سَكَنْتُ",
+            "أَسْكُنَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-mudari",
+          "zin": "___ أَبي يَعْمَلُ في مَصْنَعٍ.",
+          "nl": "Mijn vader werkte (vroeger) in een fabriek.",
+          "antwoord": [
+            "كانَ"
+          ],
+          "uitleg": "{ar|كانَ} + muḍāriʿ.",
+          "woordbank": [
+            "كانَ",
+            "كُنْتُ",
+            "قَدْ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "kana-mudari",
+          "instructie": "Vul كانَ + muḍāriʿ in (lezen, قَرَأَ).",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "كُنْتُ أَقْرَأُ",
+              "tr": "kuntu aqraʾu"
+            },
+            {
+              "label": "wij",
+              "antwoord": "كُنّا نَقْرَأُ",
+              "tr": "kunnā naqraʾu"
+            },
+            {
+              "label": "zij (m mv)",
+              "antwoord": "كانوا يَقْرَؤونَ",
+              "tr": "kānū yaqraʾūna"
+            }
+          ],
+          "uitleg": "Beide delen vervoegen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-mudari",
+          "vraag": "Wat betekent {ar|قَدْ وَصَلَ القِطارُ}?",
+          "opties": [
+            "De trein is al aangekomen.",
+            "De trein komt misschien.",
+            "De trein kwam niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَدْ} + māḍī = al."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-mudari",
+          "vraag": "Wat betekent {ar|قَدْ يَتَأَخَّرُ}?",
+          "opties": [
+            "Hij komt misschien te laat.",
+            "Hij is al te laat.",
+            "Hij was altijd te laat."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَدْ} + muḍāriʿ = misschien."
+        }
+      ]
+    },
+    {
+      "titel": "Herinneringen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "kana-mudari",
+          "nl": "Mijn oma vertelde ons elke avond verhalen.",
+          "woorden": [
+            "كانَتْ",
+            "جَدَّتي",
+            "تَحْكي",
+            "لَنا",
+            "حِكاياتٍ",
+            "كُلَّ",
+            "لَيْلَةٍ."
+          ],
+          "uitleg": "{ar|كانَتْ تَحْكي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana-mudari",
+          "bron": "We speelden (altijd) samen.",
+          "antwoorden": [
+            "كُنّا نَلْعَبُ مَعًا"
+          ],
+          "uitleg": "{ar|كُنّا} + muḍāriʿ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kana-mudari",
+          "bron": "في صِغَري كُنْتُ أَسْكُنُ في القَرْيَةِ.",
+          "antwoorden": [
+            "toen ik klein was woonde ik in het dorp",
+            "in mijn jeugd woonde ik in het dorp",
+            "als kind woonde ik in het dorp"
+          ],
+          "uitleg": "{ar|في صِغَري}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "صِغَرٌ",
+            "nl": "jonge leeftijd"
+          },
+          {
+            "ar": "لُعْبَةٌ",
+            "nl": "spel"
+          },
+          {
+            "ar": "كَبِرَ",
+            "nl": "opgroeien"
+          },
+          {
+            "ar": "تَعَوَّدَ عَلى",
+            "nl": "gewend raken aan"
+          },
+          {
+            "ar": "بِالفِعْلِ",
+            "nl": "inderdaad"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "'Ik las (altijd) veel' is ...",
+        "opties": [
+          "كُنْتُ أَقْرَأُ كَثيرًا",
+          "قَرَأْتُ كَثيرًا",
+          "سَأَقْرَأُ كَثيرًا"
+        ],
+        "juist": 0,
+        "uitleg": "Gewoonte → كانَ + muḍāriʿ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "Welke zin betekent 'Ik heb al gegeten'?",
+        "opties": [
+          "قَدْ أَكَلْتُ",
+          "قَدْ آكُلُ",
+          "كُنْتُ آكُلُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَدْ} + māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "Wat is het verschil tussen {ar|ذَهَبْتُ} en {ar|كُنْتُ أَذْهَبُ}?",
+        "opties": [
+          "eenmalig tegenover gewoonte",
+          "heden tegenover verleden",
+          "geen verschil"
+        ],
+        "juist": 0,
+        "uitleg": "Gewoonte in het verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-mudari",
+        "vraag": "'Ik zal niet vergeten' is ...",
+        "opties": [
+          "لَنْ أَنْسى",
+          "لَمْ أَنْسَ",
+          "لا نَسيتُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَنْ} = toekomst ontkend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-mudari",
+        "tekst": "كانَتْ أُمّي تَطْبُخُ كُلَّ يَوْمٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn moeder kookte elke dag.",
+          "Mijn moeder kookt vandaag.",
+          "Mijn moeder zal koken."
+        ],
+        "juist": 0,
+        "uitleg": "Gewoonte."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-mudari",
+        "tekst": "قَدْ وَصَلَ الضُّيوفُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De gasten zijn al aangekomen.",
+          "De gasten komen misschien.",
+          "De gasten kwamen niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَدْ} + māḍī."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-mudari",
+        "zin": "كانوا ___ في المَسْجِدِ كُلَّ جُمُعَةٍ.",
+        "nl": "Ze kwamen elke vrijdag samen in de moskee.",
+        "antwoord": [
+          "يَجْتَمِعونَ"
+        ],
+        "uitleg": "{ar|كانوا} + muḍāriʿ.",
+        "woordbank": [
+          "يَجْتَمِعونَ",
+          "اِجْتَمَعوا",
+          "يَجْتَمِعوا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-mudari",
+        "zin": "___ يَنْجَحُ إِذا دَرَسَ.",
+        "nl": "Hij slaagt misschien als hij studeert.",
+        "antwoord": [
+          "قَدْ"
+        ],
+        "uitleg": "{ar|قَدْ} + muḍāriʿ = misschien.",
+        "woordbank": [
+          "قَدْ",
+          "لَنْ",
+          "كانَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أَشْرَبُ القَهْوَةَ ___ في الصَّباحِ.",
+        "nl": "Ik drink gewoonlijk 's ochtends koffie.",
+        "antwoord": [
+          "عادَةً"
+        ],
+        "uitleg": "{ar|عادَةً} = gewoonlijk.",
+        "woordbank": [
+          "عادَةً",
+          "نادِرًا",
+          "بِالفِعْلِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "kana-mudari",
+        "instructie": "Maak 'vroeger deed … altijd' (لَعِبَ / يَلْعَبُ).",
+        "rijen": [
+          {
+            "label": "jij (m)",
+            "antwoord": "كُنْتَ تَلْعَبُ",
+            "tr": "kunta talʿabu"
+          },
+          {
+            "label": "zij (ev)",
+            "antwoord": "كانَتْ تَلْعَبُ",
+            "tr": "kānat talʿabu"
+          }
+        ],
+        "uitleg": "Beide delen vervoegen."
+      },
+      {
+        "type": "ordenen",
+        "tag": "kana-mudari",
+        "nl": "We voetbalden altijd op straat.",
+        "woorden": [
+          "كُنّا",
+          "نَلْعَبُ",
+          "الكُرَةَ",
+          "في",
+          "الشّارِعِ."
+        ],
+        "uitleg": "{ar|كُنّا} + muḍāriʿ."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "soms",
+        "antwoorden": [
+          "أَحْيانًا"
+        ],
+        "uitleg": "{ar|أَحْيانًا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-mudari",
+        "bron": "كانَ جَدّي يَعْمَلُ في الحُقولِ.",
+        "antwoorden": [
+          "mijn opa werkte op de velden",
+          "mijn grootvader werkte op het land",
+          "mijn opa werkte op het land",
+          "mijn grootvader werkte op de velden"
+        ],
+        "uitleg": "Gewoonte in het verleden."
+      }
+    ]
+  }
+}

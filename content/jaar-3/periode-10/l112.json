@@ -1,0 +1,669 @@
+{
+  "id": "j3-p10-l112",
+  "code": "L112",
+  "type": "les",
+  "titel": "Onderwijs en toekomst",
+  "thema": "Studieplannen en ambities; intentie en nabije toekomst",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over studieplannen, beurzen en toelating praten.",
+    "intenties uitdrukken met أَنْوي أَنْ.",
+    "'op het punt van' en 'bijna' uitdrukken met عَلى وَشْكِ، أَوْشَكَ، كادَ."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l112-w01",
+      "ar": "نَوى يَنْوي",
+      "tr": "nawā yanwī",
+      "nl": [
+        "van plan zijn"
+      ],
+      "soort": "werkwoord (zwak)"
+    },
+    {
+      "id": "j3-p10-l112-w02",
+      "ar": "نِيَّةٌ",
+      "tr": "niyya",
+      "nl": [
+        "intentie, bedoeling"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l112-w03",
+      "ar": "عَلى وَشْكِ",
+      "tr": "ʿalā wašk",
+      "nl": [
+        "op het punt van"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l112-w04",
+      "ar": "كادَ يَكادُ",
+      "tr": "kāda yakādu",
+      "nl": [
+        "bijna (doen)"
+      ],
+      "soort": "werkwoord (hol)"
+    },
+    {
+      "id": "j3-p10-l112-w05",
+      "ar": "عازِمٌ عَلى",
+      "tr": "ʿāzimun ʿalā",
+      "nl": [
+        "vastbesloten om"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l112-w06",
+      "ar": "تَخَصُّصٌ",
+      "tr": "taḫaṣṣuṣ",
+      "nl": [
+        "studierichting, specialisatie"
+      ],
+      "soort": "maṣdar (V)"
+    },
+    {
+      "id": "j3-p10-l112-w08",
+      "ar": "التَّعْليمُ العالي",
+      "tr": "at-taʿlīmu l-ʿālī",
+      "nl": [
+        "hoger onderwijs"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l112-w09",
+      "ar": "تَدْريبٌ مِهَنِيٌّ",
+      "tr": "tadrībun mihaniyy",
+      "nl": [
+        "beroepsopleiding"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l112-w10",
+      "ar": "قَدَّمَ طَلَبًا",
+      "tr": "qaddama ṭalaban",
+      "nl": [
+        "een aanvraag indienen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l112-w11",
+      "ar": "قُبِلَ في",
+      "tr": "qubila fī",
+      "nl": [
+        "toegelaten worden tot"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p10-l112-w12",
+      "ar": "التَّخَرُّجُ",
+      "tr": "at-taḫarruj",
+      "nl": [
+        "het afstuderen"
+      ],
+      "soort": "maṣdar (V)"
+    },
+    {
+      "id": "j3-p10-l112-w13",
+      "ar": "ماجِسْتير",
+      "tr": "mājistīr",
+      "nl": [
+        "master(graad)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l112-w14",
+      "ar": "في الخارِجِ",
+      "tr": "fi l-ḫārij",
+      "nl": [
+        "in het buitenland"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l112-w15",
+      "ar": "إِكْمالٌ",
+      "tr": "ikmāl",
+      "nl": [
+        "voltooiing"
+      ],
+      "soort": "maṣdar (IV)"
+    },
+    {
+      "id": "j3-p10-l112-w16",
+      "ar": "أَوْشَكَ أَنْ",
+      "tr": "awšaka an",
+      "nl": [
+        "op het punt staan om"
+      ],
+      "soort": "werkwoord (IV)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Intentie: أَنْوي أَنْ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|نَوى يَنْوي} (*van plan zijn*) is een **defectief** werkwoord (laatste wortelletter ي). Erna volgt {ar|أَنْ} + manṣūb of een maṣdar: {ar|أَنْوي أَنْ أَدْرُسَ} = {ar|أَنْوي الدِّراسَةَ}."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Muḍāriʿ",
+            "Māḍī"
+          ],
+          "rijen": [
+            [
+              "أَنا",
+              "أَنْوي|anwī",
+              "نَوَيْتُ|nawaytu"
+            ],
+            [
+              "أَنْتَ",
+              "تَنْوي|tanwī",
+              "نَوَيْتَ|nawayta"
+            ],
+            [
+              "هُوَ",
+              "يَنْوي|yanwī",
+              "نَوى|nawā"
+            ],
+            [
+              "هِيَ",
+              "تَنْوي|tanwī",
+              "نَوَتْ|nawat"
+            ],
+            [
+              "نَحْنُ",
+              "نَنْوي|nanwī",
+              "نَوَيْنا|nawaynā"
+            ],
+            [
+              "هُمْ",
+              "يَنْوونَ|yanwūna",
+              "نَوَوْا|nawaw"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|نَوَتْ} en niet {ar|نَوَيَتْ}? Bij defectieve werkwoorden op -ā valt de ي weg voor uitgangen die met een klinker of {ar|تْ} beginnen; vergelijk {ar|مَشى → مَشَتْ}."
+        }
+      ]
+    },
+    {
+      "titel": "Nabije toekomst en 'bijna'",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Uitdrukking",
+            "Constructie",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "عَلى وَشْكِ",
+              "+ maṣdar of أَنْ + manṣūb",
+              "أَنا عَلى وَشْكِ التَّخَرُّجِ"
+            ],
+            [
+              "أَوْشَكَ",
+              "+ أَنْ + manṣūb",
+              "أَوْشَكَ أَنْ يَنْجَحَ"
+            ],
+            [
+              "كادَ",
+              "+ muḍāriʿ (zonder أَنْ)",
+              "كادَ يَسْقُطُ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كادَ} is hol: {ar|كِدْتُ أَنْسى} = ik was het bijna vergeten. Ontkend betekent het *nauwelijks*: {ar|لَمْ أَكَدْ أَفْهَمُ} = ik begreep het nauwelijks."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَنْوي أَنْ أَدْرُسَ الطِّبَّ في الخارِجِ.",
+              "tr": "anwī an adrusa ṭ-ṭibba fi l-ḫārij.",
+              "nl": "Ik ben van plan geneeskunde in het buitenland te studeren."
+            },
+            {
+              "ar": "أَنا عَلى وَشْكِ التَّخَرُّجِ.",
+              "tr": "anā ʿalā waški t-taḫarruj.",
+              "nl": "Ik sta op het punt af te studeren."
+            },
+            {
+              "ar": "كانَ القِطارُ عَلى وَشْكِ أَنْ يَنْطَلِقَ.",
+              "tr": "kāna l-qiṭāru ʿalā waški an yanṭaliqa.",
+              "nl": "De trein stond op het punt te vertrekken."
+            },
+            {
+              "ar": "كادَ يَنْسى مَوْعِدَ الاِمْتِحانِ.",
+              "tr": "kāda yansā mawʿida l-imtiḥān.",
+              "nl": "Hij was bijna de examendatum vergeten."
+            },
+            {
+              "ar": "قَدَّمْتُ طَلَبًا لِلْحُصولِ عَلى مِنْحَةٍ دِراسِيَّةٍ.",
+              "tr": "qaddamtu ṭalaban li-l-ḥuṣūli ʿalā minḥatin dirāsiyya.",
+              "nl": "Ik heb een aanvraag ingediend voor een studiebeurs."
+            },
+            {
+              "ar": "هِيَ عازِمَةٌ عَلى إِكْمالِ دِراسَتِها.",
+              "tr": "hiya ʿāzimatun ʿalā ikmāli dirāsatihā.",
+              "nl": "Zij is vastbesloten haar studie af te maken."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تَخَصُّصٌ",
+              "nl": "studierichting",
+              "woord": "j3-p10-l112-w06"
+            },
+            {
+              "ar": "مِنْحَةٌ دِراسِيَّةٌ",
+              "nl": "studiebeurs"
+            },
+            {
+              "ar": "التَّعْليمُ العالي",
+              "nl": "hoger onderwijs",
+              "woord": "j3-p10-l112-w08"
+            },
+            {
+              "ar": "تَدْريبٌ مِهَنِيٌّ",
+              "nl": "beroepsopleiding",
+              "woord": "j3-p10-l112-w09"
+            },
+            {
+              "ar": "ماجِسْتير",
+              "nl": "master",
+              "woord": "j3-p10-l112-w13"
+            },
+            {
+              "ar": "نِيَّةٌ",
+              "nl": "intentie",
+              "woord": "j3-p10-l112-w02"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "intentie",
+          "tekst": "أَنا عَلى وَشْكِ التَّخَرُّجِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik sta op het punt af te studeren.",
+            "Ik ben net begonnen met studeren.",
+            "Ik ben gezakt."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عَلى وَشْكِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Plannen en bijna",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "intentie",
+          "instructie": "Vervoeg نَوى.",
+          "rijen": [
+            {
+              "label": "ik ben van plan",
+              "antwoord": "أَنْوي",
+              "tr": "anwī"
+            },
+            {
+              "label": "wij zijn van plan",
+              "antwoord": "نَنْوي",
+              "tr": "nanwī"
+            },
+            {
+              "label": "zij (v) was van plan",
+              "antwoord": "نَوَتْ",
+              "tr": "nawat"
+            }
+          ],
+          "uitleg": "Defectief werkwoord."
+        },
+        {
+          "type": "invullen",
+          "tag": "intentie",
+          "zin": "نَنْوي أَنْ ___ إِلى كَنَدا.",
+          "nl": "We zijn van plan naar Canada te verhuizen.",
+          "antwoord": [
+            "نَنْتَقِلَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: manṣūb.",
+          "woordbank": [
+            "نَنْتَقِلَ",
+            "نَنْتَقِلُ",
+            "اِنْتَقَلْنا"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "intentie",
+          "zin": "___ يَسْقُطُ مِنَ الدَّرَجِ.",
+          "nl": "Hij viel bijna van de trap.",
+          "antwoord": [
+            "كادَ"
+          ],
+          "uitleg": "{ar|كادَ} + muḍāriʿ.",
+          "woordbank": [
+            "كادَ",
+            "نَوى",
+            "عَزَمَ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "intentie",
+          "vraag": "Wat volgt na {ar|كادَ}?",
+          "opties": [
+            "muḍāriʿ zonder أَنْ",
+            "maṣdar met ال",
+            "māḍī"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كادَ يَفْعَلُ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "intentie",
+          "vraag": "{ar|لَمْ أَكَدْ أَفْهَمُ} betekent ...",
+          "opties": [
+            "Ik begreep het nauwelijks.",
+            "Ik begreep het bijna.",
+            "Ik wilde het begrijpen."
+          ],
+          "juist": 0,
+          "uitleg": "Ontkend {ar|كادَ} = nauwelijks."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "intentie",
+          "nl": "Ik heb een aanvraag ingediend voor een studiebeurs.",
+          "woorden": [
+            "قَدَّمْتُ",
+            "طَلَبًا",
+            "لِلْحُصولِ",
+            "عَلى",
+            "مِنْحَةٍ",
+            "دِراسِيَّةٍ."
+          ],
+          "uitleg": "{ar|قَدَّمَ طَلَبًا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "intentie",
+          "bron": "Ik ben van plan te studeren.",
+          "antwoorden": [
+            "أَنْوي أَنْ أَدْرُسَ",
+            "أنوي الدراسة",
+            "أَنْوي الدِّراسَةَ"
+          ],
+          "uitleg": "{ar|أَنْوي أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "intentie",
+          "bron": "هِيَ عازِمَةٌ عَلى إِكْمالِ دِراسَتِها.",
+          "antwoorden": [
+            "zij is vastbesloten haar studie af te maken",
+            "ze is vastbesloten haar studie te voltooien"
+          ],
+          "uitleg": "{ar|عازِمٌ عَلى}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "قُبِلَ في",
+            "nl": "toegelaten worden"
+          },
+          {
+            "ar": "التَّخَرُّجُ",
+            "nl": "afstuderen"
+          },
+          {
+            "ar": "في الخارِجِ",
+            "nl": "in het buitenland"
+          },
+          {
+            "ar": "إِكْمالٌ",
+            "nl": "voltooiing"
+          },
+          {
+            "ar": "عازِمٌ عَلى",
+            "nl": "vastbesloten"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "{ar|عَلى وَشْكِ} betekent ...",
+        "opties": [
+          "op het punt van",
+          "in plaats van",
+          "ondanks"
+        ],
+        "juist": 0,
+        "uitleg": "Nabije toekomst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "'Zij (mv, m) zijn van plan' is ...",
+        "opties": [
+          "يَنْوونَ",
+          "يَنْويونَ",
+          "يَنْوُونَ أَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "Defectief: {ar|يَنْوونَ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "'Ik was het bijna vergeten' is ...",
+        "opties": [
+          "كِدْتُ أَنْسى",
+          "كادَتْ أَنْسى",
+          "نَوَيْتُ أَنْسى"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كِدْتُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "intentie",
+        "vraag": "Na {ar|أَوْشَكَ} volgt ...",
+        "opties": [
+          "أَنْ + manṣūb",
+          "een māḍī",
+          "إِنَّ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَوْشَكَ أَنْ يَفْعَلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "intentie",
+        "tekst": "أَنْوي أَنْ أَدْرُسَ في الخارِجِ",
+        "vraag": "Wat is de spreker van plan?",
+        "opties": [
+          "in het buitenland studeren",
+          "stoppen met studeren",
+          "thuis blijven"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْوي أَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "قُبِلْتُ في الجامِعَةِ!",
+        "vraag": "Wat is er gebeurd?",
+        "opties": [
+          "Ik ben toegelaten tot de universiteit.",
+          "Ik ben afgewezen.",
+          "De universiteit is dicht."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قُبِلَ في}"
+      },
+      {
+        "type": "invullen",
+        "tag": "intentie",
+        "zin": "أَنا ___ التَّخَرُّجِ.",
+        "nl": "Ik sta op het punt af te studeren.",
+        "antwoord": [
+          "عَلى وَشْكِ"
+        ],
+        "uitleg": "+ maṣdar.",
+        "woordbank": [
+          "عَلى وَشْكِ",
+          "كادَ",
+          "أَنْوي"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "intentie",
+        "zin": "نَوَتْ أَنْ ___ ماجِسْتير.",
+        "nl": "Ze was van plan een master te doen.",
+        "antwoord": [
+          "تَدْرُسَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تَدْرُسَ",
+          "تَدْرُسُ",
+          "دَرَسَتْ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "ما ___ كَ في الجامِعَةِ؟",
+        "nl": "Wat is je studierichting aan de universiteit?",
+        "antwoord": [
+          "تَخَصُّصُ"
+        ],
+        "uitleg": "{ar|تَخَصُّصٌ}",
+        "woordbank": [
+          "تَخَصُّصُ",
+          "تَدْريبُ",
+          "إِكْمالُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "intentie",
+        "instructie": "Vervoeg نَوى in de māḍī.",
+        "rijen": [
+          {
+            "label": "ik",
+            "antwoord": "نَوَيْتُ",
+            "tr": "nawaytu"
+          },
+          {
+            "label": "hij",
+            "antwoord": "نَوى",
+            "tr": "nawā"
+          }
+        ],
+        "uitleg": "Defectief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "intentie",
+        "nl": "De trein stond op het punt te vertrekken.",
+        "woorden": [
+          "كانَ",
+          "القِطارُ",
+          "عَلى",
+          "وَشْكِ",
+          "أَنْ",
+          "يَنْطَلِقَ."
+        ],
+        "uitleg": "{ar|عَلى وَشْكِ أَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het hoger onderwijs",
+        "antwoorden": [
+          "التَّعْليمُ العالي",
+          "التعليم العالي"
+        ],
+        "uitleg": "{ar|التَّعْليمُ العالي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "intentie",
+        "bron": "كادَ يَنْسى مَوْعِدَ الاِمْتِحانِ.",
+        "antwoorden": [
+          "hij was bijna de examendatum vergeten",
+          "hij vergat bijna de datum van het examen",
+          "hij vergat bijna het examen"
+        ],
+        "uitleg": "{ar|كادَ}"
+      }
+    ]
+  }
+}

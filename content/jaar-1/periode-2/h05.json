@@ -1,0 +1,124 @@
+{
+  "id": "j1-p2-h05",
+  "code": "H05",
+  "type": "herhaling",
+  "titel": "Herhaling 2B + 2A",
+  "thema": "Prijzen, de week en de muḍāriʿ in alle personen van enkelvoud en meervoud",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "getallen tot 100 en prijzen gebruiken.",
+    "vertellen wat ik en anderen op welke dag doen.",
+    "de muḍāriʿ in tien personen vervoegen en met لا ontkennen.",
+    "werkwoorden combineren met iḍāfa, voorzetsels en tijdsbepalingen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal vooral de werkwoorden uit les 19 en 20 met hun stamklinker.",
+
+  "grammatica": [
+    {
+      "titel": "De muḍāriʿ in één overzicht",
+      "blokken": [
+        { "type": "tabel", "kop": ["Persoon", "يَدْرُسُ (u)", "يَذْهَبُ (a)", "يَجْلِسُ (i)"], "arKolommen": [1, 2, 3], "rijen": [
+          ["ik", "أَدْرُسُ", "أَذْهَبُ", "أَجْلِسُ"],
+          ["jij (m)", "تَدْرُسُ", "تَذْهَبُ", "تَجْلِسُ"],
+          ["jij (v)", "تَدْرُسِينَ", "تَذْهَبِينَ", "تَجْلِسِينَ"],
+          ["hij", "يَدْرُسُ", "يَذْهَبُ", "يَجْلِسُ"],
+          ["zij", "تَدْرُسُ", "تَذْهَبُ", "تَجْلِسُ"],
+          ["wij", "نَدْرُسُ", "نَذْهَبُ", "نَجْلِسُ"],
+          ["jullie (m)", "تَدْرُسونَ", "تَذْهَبونَ", "تَجْلِسونَ"],
+          ["jullie (v)", "تَدْرُسْنَ", "تَذْهَبْنَ", "تَجْلِسْنَ"],
+          ["zij (m)", "يَدْرُسونَ", "يَذْهَبونَ", "يَجْلِسونَ"],
+          ["zij (v)", "يَدْرُسْنَ", "يَذْهَبْنَ", "يَجْلِسْنَ"]
+        ] },
+        { "type": "waarom", "md": "Kijk naar de kolommen: de voorvoegsels en uitgangen zijn steeds dezelfde, alleen de stamklinker verschilt. Wie de tien uitgangen kent, kan elk regelmatig werkwoord vervoegen. De dualisvormen volgen in les 40. Met de **vervoegingstrainer** kun je dit apart oefenen." }
+      ]
+    },
+    {
+      "titel": "Een week in zinnen",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "يَوْمَ الأَحَدِ نَلْعَبُ في الحَديقَةِ.", "tr": "yawma l-aḥadi nalʿabu fi l-ḥadīqa.", "nl": "Op zondag spelen we in de tuin." },
+          { "ar": "أَذْهَبُ إِلى العَمَلِ بِالقِطارِ كُلَّ يَوْمٍ.", "tr": "aḏhabu ila l-ʿamali bi-l-qiṭāri kulla yawm.", "nl": "Ik ga elke dag met de trein naar het werk." },
+          { "ar": "لا تَعْمَلُ أُخْتي يَوْمَ السَّبْتِ.", "tr": "lā taʿmalu uḫtī yawma s-sabt.", "nl": "Mijn zus werkt niet op zaterdag." },
+          { "ar": "التَّذْكِرَةُ بِخَمْسَةٍ وَعِشْرينَ دِرْهَمًا.", "tr": "at-taḏkiratu bi-ḫamsatin wa-ʿišrīna dirhaman.", "nl": "Het kaartje kost vijfentwintig dirham." }
+        ] },
+        { "type": "letop", "md": "{ar|بِـ} betekent ook *met (een vervoermiddel)*: {ar|بِالقِطارِ} (*met de trein*), {ar|بِالحافِلَةِ} (*met de bus*)." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "الخَميسُ", "nl": "donderdag", "woord": "j1-p2-l18-w07" },
+          { "ar": "سِعْرٌ", "nl": "prijs", "woord": "j1-p2-l17-w12" },
+          { "ar": "يَعْمَلُ", "nl": "werken", "woord": "j1-p2-l19-w05" },
+          { "ar": "يَحْمِلُ", "nl": "dragen", "woord": "j1-p2-l20-w09" },
+          { "ar": "غَدًا", "nl": "morgen", "woord": "j1-p2-l18-w14" },
+          { "ar": "أَحْيانًا", "nl": "soms", "woord": "j1-p2-l19-w18" }
+        ], "uitleg": "Woorden uit les 17 tot en met 20." },
+        { "type": "luisteren", "tag": "prijzen", "tekst": "بِكَمْ هٰذا؟ بِسِتّينَ دِرْهَمًا", "vraag": "Wat kost het?", "opties": ["60 dirham", "16 dirham", "6 dirham", "70 dirham"], "juist": 0, "uitleg": "{ar|بِسِتّينَ} = voor zestig." },
+        { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "يَوْمَ الجُمُعَةِ لا يَعْمَلونَ", "vraag": "Wat hoor je?", "opties": ["Op vrijdag werken zij niet.", "Op vrijdag werken wij niet.", "Op donderdag werken zij."], "juist": 0, "uitleg": "{ar|لا} + يَـ ... ـونَ." },
+        { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَفْهَمُ (begrijpen).",
+          "rijen": [
+            { "label": "ik", "antwoord": "أَفْهَمُ", "tr": "afhamu" },
+            { "label": "jij (v)", "antwoord": "تَفْهَمِينَ", "tr": "tafhamīna" },
+            { "label": "wij", "antwoord": "نَفْهَمُ", "tr": "nafhamu" },
+            { "label": "jullie (m)", "antwoord": "تَفْهَمونَ", "tr": "tafhamūna" },
+            { "label": "zij (v mv)", "antwoord": "يَفْهَمْنَ", "tr": "yafhamna" }
+          ], "uitleg": "Enkelvoud en meervoud door elkaar." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "invullen", "tag": "tijdsbepaling", "zin": "___ الأَحَدِ نَلْعَبُ في الحَديقَةِ.", "nl": "Op zondag spelen we in de tuin.", "woordbank": ["يَوْمَ", "يَوْمُ", "يَوْمٍ"], "antwoord": ["يَوْمَ"], "uitleg": "Tijdsbepaling: accusatief." },
+        { "type": "invullen", "tag": "ontkenning-la", "zin": "أُخْتي ___ تَعْمَلُ يَوْمَ السَّبْتِ.", "nl": "Mijn zus werkt niet op zaterdag.", "woordbank": ["لا", "لَيْسَتْ", "ما"], "antwoord": ["لا"], "uitleg": "Werkwoord in de muḍāriʿ → {ar|لا}." },
+        { "type": "ordenen", "tag": "mudari-enkelvoud", "nl": "Ik ga elke dag met de trein naar het werk.", "woorden": ["أَذْهَبُ", "إِلى", "العَمَلِ", "بِالقِطارِ", "كُلَّ", "يَوْمٍ."], "uitleg": "Werkwoord + bestemming + vervoer + tijd." },
+        { "type": "meerkeuze", "tag": "getallen-tot-100", "vraag": "Welke prijs klopt voor 'vijfenveertig dirham'?", "opties": ["خَمْسَةٌ وَأَرْبَعونَ دِرْهَمًا", "خَمْسَةٌ وَأَرْبَعونَ دَراهِمُ", "أَرْبَعونَ وَخَمْسَةٌ دِرْهَمًا"], "juist": 0, "uitleg": "Eenheid + وَ + tiental, dan enkelvoud accusatief." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-meervoud", "bron": "Zij (m) wonen in Marokko.", "antwoorden": ["يَسْكُنونَ في المَغْرِبِ", "هُمْ يَسْكُنونَ في المَغْرِبِ"], "uitleg": "{ar|يَسْكُنونَ في المَغْرِبِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "ontkenning-la", "bron": "Wij werken niet op vrijdag.", "antwoorden": ["لا نَعْمَلُ يَوْمَ الجُمُعَةِ", "نَحْنُ لا نَعْمَلُ يَوْمَ الجُمُعَةِ"], "uitleg": "{ar|لا نَعْمَلُ يَوْمَ الجُمُعَةِ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "تَدْرُسِينَ كُلَّ مَساءٍ.", "tr": "tadrusīna kulla masāʾ.", "antwoorden": ["jij studeert elke avond", "je studeert elke avond", "jij leert elke avond", "je leert elke avond"], "uitleg": "Jij (v)." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "prijzen", "bron": "التَّذْكِرَةُ رَخيصَةٌ.", "tr": "at-taḏkiratu raḫīṣa.", "antwoorden": ["het kaartje is goedkoop", "het ticket is goedkoop"], "uitleg": "{ar|رَخيصَةٌ}: vrouwelijk vanwege {ar|تَذْكِرَةٌ}." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "getallen-tot-100", "vraag": "'Zeventig' is ...", "opties": ["سَبْعونَ", "سَبْعَةَ عَشَرَ", "سِتّونَ"], "juist": 0, "uitleg": "{ar|سَبْعونَ}" },
+      { "type": "meerkeuze", "tag": "dagen", "vraag": "Welke dag komt vóór vrijdag?", "opties": ["الخَميسُ", "السَّبْتُ", "الأَرْبِعاءُ"], "juist": 0, "uitleg": "Donderdag." },
+      { "type": "meerkeuze", "tag": "mudari-meervoud", "vraag": "'Jullie (v) schrijven' is ...", "opties": ["تَكْتُبْنَ", "تَكْتُبونَ", "يَكْتُبْنَ"], "juist": 0, "uitleg": "أَنْتُنَّ: تَـ ... ـْنَ." },
+      { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "Welke vorm hoort bij 'jij (v)'?", "opties": ["تَسْكُنِينَ", "تَسْكُنُ", "يَسْكُنُ"], "juist": 0, "uitleg": "تَـ ... ـينَ." },
+      { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "ثَمانِيَةٌ وَعِشْرونَ", "vraag": "Welk getal hoor je?", "opties": ["28", "82", "18"], "juist": 0, "uitleg": "8 + 20." },
+      { "type": "luisteren", "tag": "mudari-meervoud", "tekst": "نَذْهَبُ إِلى البَحْرِ غَدًا", "vraag": "Wat hoor je?", "opties": ["We gaan morgen naar zee.", "Ze gaan morgen naar zee.", "We gingen gisteren naar zee."], "juist": 0, "uitleg": "نَـ = wij; {ar|غَدًا} = morgen." },
+      { "type": "invullen", "tag": "mudari-meervoud", "zin": "هُمْ ___ الشّايَ.", "nl": "Zij (m) drinken thee.", "woordbank": ["يَشْرَبونَ", "يَشْرَبْنَ", "نَشْرَبُ"], "antwoord": ["يَشْرَبونَ"], "uitleg": "هُمْ: يَـ ... ـونَ." },
+      { "type": "invullen", "tag": "tijdsbepaling", "zin": "الاِمْتِحانُ ___ الاِثْنَيْنِ.", "nl": "Het examen is op maandag.", "antwoord": ["يَوْمَ"], "uitleg": "{ar|يَوْمَ}" },
+      { "type": "vervoegen", "tag": "mudari-meervoud", "instructie": "Vervoeg يَعْمَلُ (werken).",
+        "rijen": [
+          { "label": "wij", "antwoord": "نَعْمَلُ", "tr": "naʿmalu" },
+          { "label": "zij (v mv)", "antwoord": "يَعْمَلْنَ", "tr": "yaʿmalna" },
+          { "label": "jij (m)", "antwoord": "تَعْمَلُ", "tr": "taʿmalu" }
+        ], "uitleg": "Stamklinker a." },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "تِسْعونَ", "nl": "90" },
+        { "ar": "مَتى", "nl": "wanneer" },
+        { "ar": "يَشْرَحُ", "nl": "uitleggen" },
+        { "ar": "كَثيرًا", "nl": "vaak" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "ontkenning-la", "nl": "Op vrijdag werken zij niet.", "woorden": ["يَوْمَ", "الجُمُعَةِ", "لا", "يَعْمَلونَ."], "uitleg": "Tijdsbepaling vooraan mag." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ontkenning-la", "bron": "Ik begrijp het niet.", "antwoorden": ["لا أَفْهَمُ"], "uitleg": "{ar|لا أَفْهَمُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "prijzen", "bron": "Hoeveel kost dit?", "antwoorden": ["بِكَمْ هٰذا؟"], "uitleg": "{ar|بِكَمْ هٰذا؟}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-meervoud", "bron": "تَرْكَبونَ الحافِلَةَ صَباحًا.", "tr": "tarkabūna l-ḥāfilata ṣabāḥan.", "antwoorden": ["jullie nemen 's ochtends de bus", "jullie nemen de bus 's ochtends"], "uitleg": "أَنْتُمْ + tijdsbepaling." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "يَكْتُبُ رِسالَةً إِلى صَديقِهِ.", "tr": "yaktubu risālatan ilā ṣadīqih.", "antwoorden": ["hij schrijft een brief aan zijn vriend", "hij schrijft een brief naar zijn vriend"], "uitleg": "{ar|صَديقِهِ}: na {ar|إِلى} wordt ـهُ uitgesproken als ـهِ." }
+    ]
+  }
+}

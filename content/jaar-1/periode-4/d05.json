@@ -1,0 +1,796 @@
+{
+  "id": "j1-p4-d05",
+  "code": "D05",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: verleden tijd",
+  "thema": "Vertellen wat je gisteren deed, in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een regelmatig werkwoord in de verleden tijd vervoegen in het Darija.",
+    "veelgebruikte onregelmatige vormen herkennen (مشيت، جيت، كليت).",
+    "vertellen wat ik gisteren deed."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-d05-w01",
+      "ar": "البارح",
+      "tr": "lbāṛəḥ",
+      "nl": [
+        "gisteren"
+      ],
+      "soort": "bijwoord",
+      "notitie": "Fusha: {ar|أَمْسِ}. (In het Fusha betekent {ar|البارِحَةُ} *gisteravond*.)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w02",
+      "ar": "كتبت",
+      "tr": "ktəbt",
+      "nl": [
+        "ik schreef",
+        "jij schreef (m)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "In het Darija zijn *ik* en *jij (m)* in de verleden tijd gelijk.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w03",
+      "ar": "كتبتي",
+      "tr": "ktəbti",
+      "nl": [
+        "jij schreef (v)"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w04",
+      "ar": "كتب",
+      "tr": "kteb",
+      "nl": [
+        "hij schreef"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w05",
+      "ar": "كتبات",
+      "tr": "ketbat",
+      "nl": [
+        "zij schreef"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija: vorm en spelling (كتبات / كتبت) bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w06",
+      "ar": "كتبنا",
+      "tr": "ktəbna",
+      "nl": [
+        "wij schreven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w07",
+      "ar": "كتبتو",
+      "tr": "ktəbtu",
+      "nl": [
+        "jullie schreven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w08",
+      "ar": "كتبو",
+      "tr": "ketbu",
+      "nl": [
+        "zij schreven"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w09",
+      "ar": "مشيت",
+      "tr": "mšīt",
+      "nl": [
+        "ik ging"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|ذَهَبْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w10",
+      "ar": "جيت",
+      "tr": "jīt",
+      "nl": [
+        "ik kwam"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|جِئْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w11",
+      "ar": "كليت",
+      "tr": "klīt",
+      "nl": [
+        "ik at"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|أَكَلْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w12",
+      "ar": "شفت",
+      "tr": "šəft",
+      "nl": [
+        "ik zag"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|رَأَيْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w13",
+      "ar": "نعست",
+      "tr": "nʿəst",
+      "nl": [
+        "ik sliep"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|نِمْتُ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w14",
+      "ar": "قريت",
+      "tr": "qrīt",
+      "nl": [
+        "ik las",
+        "ik studeerde"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w15",
+      "ar": "العشية",
+      "tr": "lʿšiya",
+      "nl": [
+        "de middag",
+        "namiddag"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Fusha: {ar|العَشِيَّةُ} betekent *de avond*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w16",
+      "ar": "السيمانة اللي فاتت",
+      "tr": "ssimana lli fātət",
+      "nl": [
+        "vorige week"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|السيمانة} komt uit het Spaans *semana*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w17",
+      "ar": "من بعد",
+      "tr": "mən bəʿd",
+      "nl": [
+        "daarna",
+        "later"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j1-p4-d05-w18",
+      "ar": "مع صحابي",
+      "tr": "mʿa ṣḥābi",
+      "nl": [
+        "met mijn vrienden"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De verleden tijd in het Darija",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "De Darija-verleden tijd lijkt op de Fusha-māḍī zonder de korte klinkers aan het eind. Er zijn maar **7 vormen**: geen dualis, geen vrouwelijk meervoud, en *ik* en *jij (m)* zijn gelijk."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Fusha",
+            "Darija"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "كَتَبْتُ",
+              "كتبت|ktəbt"
+            ],
+            [
+              "jij (m)",
+              "كَتَبْتَ",
+              "كتبت|ktəbt"
+            ],
+            [
+              "jij (v)",
+              "كَتَبْتِ",
+              "كتبتي|ktəbti"
+            ],
+            [
+              "hij",
+              "كَتَبَ",
+              "كتب|kteb"
+            ],
+            [
+              "zij",
+              "كَتَبَتْ",
+              "كتبات|ketbat"
+            ],
+            [
+              "wij",
+              "كَتَبْنا",
+              "كتبنا|ktəbna"
+            ],
+            [
+              "jullie",
+              "كَتَبْتُمْ",
+              "كتبتو|ktəbtu"
+            ],
+            [
+              "zij (mv)",
+              "كَتَبُوا",
+              "كتبو|ketbu"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Valt het op? *Ik* en *jij (m)* zijn in het Fusha alleen verschillend door de laatste klinker (-tu / -ta). Het Darija laat die klinker weg, en dan vallen ze samen. De context maakt duidelijk wie bedoeld wordt."
+        },
+        {
+          "type": "letop",
+          "md": "Werkwoorden die eindigen op een klinker krijgen ـيت: {ar|مشيت} (ik ging), {ar|كليت} (ik at), {ar|قريت} (ik las). Leer die als vaste woorden."
+        }
+      ]
+    },
+    {
+      "titel": "Gisteren",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "البارح مشيت للخدمة.",
+              "tr": "lbāṛəḥ mšīt l-lxədma.",
+              "nl": "Gisteren ging ik naar mijn werk.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "من بعد كليت مع صحابي.",
+              "tr": "mən bəʿd klīt mʿa ṣḥābi.",
+              "nl": "Daarna at ik met mijn vrienden.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "شفتي الفيلم؟",
+              "tr": "šəfti l-film?",
+              "nl": "Heb jij (v) de film gezien?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "السيمانة اللي فاتت قرينا بزاف.",
+              "tr": "ssimana lli fātət qrīna bəzzāf.",
+              "nl": "Vorige week hebben we veel gestudeerd.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-verleden",
+          "paren": [
+            {
+              "ar": "مشيت",
+              "nl": "ik ging",
+              "woord": "j1-p4-d05-w09"
+            },
+            {
+              "ar": "جيت",
+              "nl": "ik kwam",
+              "woord": "j1-p4-d05-w10"
+            },
+            {
+              "ar": "كليت",
+              "nl": "ik at",
+              "woord": "j1-p4-d05-w11"
+            },
+            {
+              "ar": "شفت",
+              "nl": "ik zag",
+              "woord": "j1-p4-d05-w12"
+            },
+            {
+              "ar": "نعست",
+              "nl": "ik sliep",
+              "woord": "j1-p4-d05-w13"
+            },
+            {
+              "ar": "البارح",
+              "nl": "gisteren",
+              "woord": "j1-p4-d05-w01"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Het Darija {ar|البارح} is in het Fusha ...",
+          "opties": [
+            "أَمْسِ",
+            "غَدًا",
+            "اليَوْمَ"
+          ],
+          "juist": 0,
+          "uitleg": "gisteren"
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-verleden",
+          "tekst": "كتبنا",
+          "vraag": "Wie schreven?",
+          "opties": [
+            "wij",
+            "zij (mv)",
+            "jullie"
+          ],
+          "juist": 0,
+          "uitleg": "*ktəbna* = wij (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "darija-verleden",
+          "instructie": "Vervoeg كتب (schrijven) in de Darija-verleden tijd.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "كتبت",
+              "tr": "ktəbt"
+            },
+            {
+              "label": "jij (v)",
+              "antwoord": "كتبتي",
+              "tr": "ktəbti"
+            },
+            {
+              "label": "wij",
+              "antwoord": "كتبنا",
+              "tr": "ktəbna"
+            },
+            {
+              "label": "zij (mv)",
+              "antwoord": "كتبو",
+              "tr": "ketbu"
+            }
+          ],
+          "uitleg": "-t · -ti · -na · -u"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "darija-verleden",
+          "instructie": "Vervoeg خدم (werken) in de Darija-verleden tijd.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "خدمت",
+              "tr": "xdəmt"
+            },
+            {
+              "label": "jullie",
+              "antwoord": "خدمتو",
+              "tr": "xdəmtu"
+            },
+            {
+              "label": "hij",
+              "antwoord": "خدم",
+              "tr": "xdem"
+            }
+          ],
+          "uitleg": "Zelfde uitgangen als bij كتب."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-verleden",
+          "zin": "البارح ___ للخدمة.",
+          "nl": "Gisteren ging ik naar mijn werk.",
+          "woordbank": [
+            "مشيت",
+            "كانمشي",
+            "مشينا"
+          ],
+          "antwoord": [
+            "مشيت"
+          ],
+          "uitleg": "{ar|مشيت} = ik ging."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-verleden",
+          "zin": "___ الفيلم؟",
+          "nl": "Heb jij (v) de film gezien?",
+          "woordbank": [
+            "شفتي",
+            "شفت",
+            "شافو"
+          ],
+          "antwoord": [
+            "شفتي"
+          ],
+          "uitleg": "-ti = jij (v)."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-verleden",
+          "nl": "Daarna at ik met mijn vrienden.",
+          "woorden": [
+            "من",
+            "بعد",
+            "كليت",
+            "مع",
+            "صحابي."
+          ],
+          "uitleg": "{ar|من بعد} = daarna."
+        }
+      ]
+    },
+    {
+      "titel": "Fusha en Darija",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Fusha {ar|ذَهَبْتُ} is in het Darija ...",
+          "opties": [
+            "مشيت",
+            "جيت",
+            "شفت"
+          ],
+          "juist": 0,
+          "uitleg": "Darija gebruikt {ar|مشى} voor gaan."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-verleden",
+          "vraag": "Welk verschil met het Fusha klopt?",
+          "opties": [
+            "*Ik* en *jij (m)* hebben dezelfde vorm.",
+            "Het Darija heeft een dualis.",
+            "Het Darija heeft meer vormen dan het Fusha."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كتبت} = ik schreef én jij (m) schreef."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-verleden",
+          "bron": "ik kwam (Darija)",
+          "antwoorden": [
+            "جيت"
+          ],
+          "uitleg": "{ar|جيت}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-verleden",
+          "bron": "نعست بكري.",
+          "tr": "nʿəst bəkri.",
+          "antwoorden": [
+            "ik ging vroeg slapen",
+            "ik sliep vroeg",
+            "ik ben vroeg gaan slapen"
+          ],
+          "uitleg": "{ar|بكري} = vroeg.",
+          "review": {
+            "status": "onzeker",
+            "note": "Darija-zin en بكري laten nakijken."
+          }
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-verleden",
+        "paren": [
+          {
+            "ar": "كتبتي",
+            "nl": "jij (v) schreef"
+          },
+          {
+            "ar": "كتبات",
+            "nl": "zij schreef"
+          },
+          {
+            "ar": "كتبو",
+            "nl": "zij (mv) schreven"
+          },
+          {
+            "ar": "كتبتو",
+            "nl": "jullie schreven"
+          }
+        ],
+        "uitleg": "Darija-verleden tijd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-verleden",
+        "vraag": "'Wij gingen' in het Darija is ...",
+        "opties": [
+          "مشينا",
+          "مشيت",
+          "كانمشيو"
+        ],
+        "juist": 0,
+        "uitleg": "-na = wij."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Fusha {ar|رَأَيْتُ} is in het Darija ...",
+        "opties": [
+          "شفت",
+          "قريت",
+          "كليت"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|شفت} = ik zag."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-verleden",
+        "vraag": "{ar|السيمانة اللي فاتت} betekent ...",
+        "opties": [
+          "vorige week",
+          "volgende week",
+          "deze week"
+        ],
+        "juist": 0,
+        "uitleg": "*semana* (Spaans) = week."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-verleden",
+        "tekst": "كليت",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "ik at",
+          "ik kwam",
+          "ik las"
+        ],
+        "juist": 0,
+        "uitleg": "*klīt*"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-verleden",
+        "tekst": "البارح",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "gisteren",
+          "nu",
+          "altijd"
+        ],
+        "juist": 0,
+        "uitleg": "*lbāṛəḥ*"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-verleden",
+        "zin": "هوما ___ البارح.",
+        "nl": "Zij (mv) kwamen gisteren.",
+        "woordbank": [
+          "جاو",
+          "جيت",
+          "جينا"
+        ],
+        "antwoord": [
+          "جاو"
+        ],
+        "uitleg": "-u = zij (mv).",
+        "review": {
+          "status": "onzeker",
+          "note": "هوما (zij mv) en جاو laten nakijken."
+        }
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-verleden",
+        "zin": "___ بزاف السيمانة اللي فاتت.",
+        "nl": "We hebben vorige week veel gestudeerd.",
+        "woordbank": [
+          "قرينا",
+          "قريت",
+          "كانقراو"
+        ],
+        "antwoord": [
+          "قرينا"
+        ],
+        "uitleg": "-na = wij."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "darija-verleden",
+        "instructie": "Vervoeg شرب (drinken) in de Darija-verleden tijd.",
+        "rijen": [
+          {
+            "label": "ik",
+            "antwoord": "شربت",
+            "tr": "šṛəbt"
+          },
+          {
+            "label": "jij (v)",
+            "antwoord": "شربتي",
+            "tr": "šṛəbti"
+          },
+          {
+            "label": "wij",
+            "antwoord": "شربنا",
+            "tr": "šṛəbna"
+          }
+        ],
+        "uitleg": "-t · -ti · -na"
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-verleden",
+        "nl": "Gisteren ging ik naar mijn werk.",
+        "woorden": [
+          "البارح",
+          "مشيت",
+          "للخدمة."
+        ],
+        "uitleg": "Tijd – werkwoord – plaats."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-verleden",
+        "bron": "ik zag (Darija)",
+        "antwoorden": [
+          "شفت"
+        ],
+        "uitleg": "{ar|شفت}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-verleden",
+        "bron": "gisteren (Darija)",
+        "antwoorden": [
+          "البارح"
+        ],
+        "uitleg": "{ar|البارح}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-verleden",
+        "bron": "كتبات رسالة.",
+        "tr": "ketbat ṛsāla.",
+        "antwoorden": [
+          "zij schreef een brief",
+          "ze schreef een brief"
+        ],
+        "uitleg": "-at = zij."
+      }
+    ]
+  }
+}

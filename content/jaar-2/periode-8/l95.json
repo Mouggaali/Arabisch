@@ -1,0 +1,668 @@
+{
+  "id": "j2-p8-l95",
+  "code": "L95",
+  "type": "les",
+  "titel": "Schrijven: mening en beschrijving",
+  "thema": "Een korte betoogtekst schrijven",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een mening opbouwen met inleiding, argumenten, tegenargument en conclusie.",
+    "argumentatiewoorden gebruiken (أَوَّلًا، لِذٰلِكَ، مَعَ ذٰلِكَ، في الخِتامِ).",
+    "voor- en nadelen benoemen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l95-w02",
+      "ar": "ثانِيًا",
+      "tr": "ṯāniyan",
+      "nl": [
+        "ten tweede"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p8-l95-w03",
+      "ar": "ثالِثًا",
+      "tr": "ṯāliṯan",
+      "nl": [
+        "ten derde"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p8-l95-w04",
+      "ar": "لِذٰلِكَ",
+      "tr": "li-ḏālika",
+      "nl": [
+        "daarom"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j2-p8-l95-w05",
+      "ar": "مَعَ ذٰلِكَ",
+      "tr": "maʿa ḏālika",
+      "nl": [
+        "toch, desondanks"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l95-w06",
+      "ar": "بِالإِضافَةِ إِلى",
+      "tr": "bi-l-iḍāfati ilā",
+      "nl": [
+        "bovendien, naast"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l95-w07",
+      "ar": "مِنْ ناحِيَةٍ … وَمِنْ ناحِيَةٍ أُخْرى",
+      "tr": "min nāḥiyatin … wa-min nāḥiyatin uḫrā",
+      "nl": [
+        "enerzijds … anderzijds"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l95-w08",
+      "ar": "في الخِتامِ",
+      "tr": "fi l-ḫitām",
+      "nl": [
+        "tot slot"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l95-w09",
+      "ar": "بِاخْتِصارٍ",
+      "tr": "bi-ḫtiṣār",
+      "nl": [
+        "kortom"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p8-l95-w10",
+      "ar": "فائِدَةٌ",
+      "tr": "fāʾida",
+      "nl": [
+        "voordeel, nut"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فَوائِدُ}."
+    },
+    {
+      "id": "j2-p8-l95-w11",
+      "ar": "عَيْبٌ",
+      "tr": "ʿayb",
+      "nl": [
+        "nadeel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|عُيوبٌ}."
+    },
+    {
+      "id": "j2-p8-l95-w12",
+      "ar": "حُجَّةٌ",
+      "tr": "ḥujja",
+      "nl": [
+        "argument"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l95-w13",
+      "ar": "مِثالٌ",
+      "tr": "miṯāl",
+      "nl": [
+        "voorbeeld"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|عَلى سَبيلِ المِثالِ} = bijvoorbeeld."
+    },
+    {
+      "id": "j2-p8-l95-w14",
+      "ar": "اِسْتِنْتاجٌ",
+      "tr": "istintāj",
+      "nl": [
+        "conclusie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l95-w15",
+      "ar": "مَوْضوعُ النِّقاشِ",
+      "tr": "mawḍūʿu n-niqāš",
+      "nl": [
+        "discussieonderwerp"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l95-w16",
+      "ar": "العَمَلُ عَنْ بُعْدٍ",
+      "tr": "al-ʿamalu ʿan buʿd",
+      "nl": [
+        "thuiswerken (op afstand)"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een mening opbouwen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Deel",
+            "Woorden",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "inleiding",
+              "في رَأْيي، أَعْتَقِدُ أَنَّ",
+              "في رَأْيي، لِلْعَمَلِ عَنْ بُعْدٍ فَوائِدُ كَثيرَةٌ."
+            ],
+            [
+              "argumenten",
+              "أَوَّلًا، ثانِيًا، بِالإِضافَةِ إِلى",
+              "أَوَّلًا، نُوَفِّرُ وَقْتَ التَّنَقُّلِ."
+            ],
+            [
+              "tegenargument",
+              "مَعَ ذٰلِكَ، مِنْ ناحِيَةٍ أُخْرى",
+              "مَعَ ذٰلِكَ، قَدْ نَشْعُرُ بِالوَحْدَةِ."
+            ],
+            [
+              "conclusie",
+              "لِذٰلِكَ، في الخِتامِ، بِاخْتِصارٍ",
+              "في الخِتامِ، الحَلُّ هُوَ التَّوازُنُ."
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Een Arabische betoogtekst lijkt op een Nederlandse: standpunt, argumenten, tegenargument, conclusie. De **verbindingswoorden** maken de structuur zichtbaar. Gebruik er genoeg; een tekst zonder {ar|لِذٰلِكَ} en {ar|مَعَ ذٰلِكَ} leest als een rijtje losse zinnen."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeldtekst: thuiswerken",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في رَأْيي، لِلْعَمَلِ عَنْ بُعْدٍ فَوائِدُ كَثيرَةٌ.",
+              "tr": "fī raʾyī, li-l-ʿamali ʿan buʿdin fawāʾidu kaṯīra.",
+              "nl": "Naar mijn mening heeft thuiswerken veel voordelen."
+            },
+            {
+              "ar": "أَوَّلًا، نُوَفِّرُ الوَقْتَ وَالمالَ.",
+              "tr": "awwalan, nuwaffiru l-waqta wa-l-māl.",
+              "nl": "Ten eerste besparen we tijd en geld."
+            },
+            {
+              "ar": "ثانِيًا، نَسْتَطيعُ أَنْ نُنَظِّمَ يَوْمَنا بِحُرِّيَّةٍ.",
+              "tr": "ṯāniyan, nastaṭīʿu an nunaẓẓima yawmanā bi-ḥurriyya.",
+              "nl": "Ten tweede kunnen we onze dag vrij indelen."
+            },
+            {
+              "ar": "مَعَ ذٰلِكَ، لِلْعَمَلِ عَنْ بُعْدٍ عُيوبٌ، مِثْلُ الوَحْدَةِ.",
+              "tr": "maʿa ḏālika, li-l-ʿamali ʿan buʿdin ʿuyūbun, miṯlu l-waḥda.",
+              "nl": "Toch heeft thuiswerken ook nadelen, zoals eenzaamheid."
+            },
+            {
+              "ar": "لِذٰلِكَ أَقْتَرِحُ يَوْمَيْنِ في المَكْتَبِ وَثَلاثَةَ أَيّامٍ في البَيْتِ.",
+              "tr": "li-ḏālika aqtariḥu yawmayni fi l-maktabi wa-ṯalāṯata ayyāmin fi l-bayt.",
+              "nl": "Daarom stel ik twee dagen op kantoor en drie dagen thuis voor."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|لِلْعَمَلِ … فَوائِدُ} = *het werk heeft voordelen* (letterlijk: voor het werk zijn er voordelen). Het onderwerp {ar|فَوائِدُ} staat achteraan omdat het onbepaald is; de bepaling met {ar|لِـ} staat vooraan."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "argumenteren",
+          "paren": [
+            {
+              "ar": "أَوَّلًا",
+              "nl": "ten eerste"
+            },
+            {
+              "ar": "لِذٰلِكَ",
+              "nl": "daarom",
+              "woord": "j2-p8-l95-w04"
+            },
+            {
+              "ar": "مَعَ ذٰلِكَ",
+              "nl": "toch",
+              "woord": "j2-p8-l95-w05"
+            },
+            {
+              "ar": "في الخِتامِ",
+              "nl": "tot slot",
+              "woord": "j2-p8-l95-w08"
+            },
+            {
+              "ar": "بِاخْتِصارٍ",
+              "nl": "kortom",
+              "woord": "j2-p8-l95-w09"
+            },
+            {
+              "ar": "بِالإِضافَةِ إِلى",
+              "nl": "bovendien",
+              "woord": "j2-p8-l95-w06"
+            }
+          ],
+          "uitleg": "Verbindingswoorden."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "فائِدَةٌ",
+              "nl": "voordeel",
+              "woord": "j2-p8-l95-w10"
+            },
+            {
+              "ar": "عَيْبٌ",
+              "nl": "nadeel",
+              "woord": "j2-p8-l95-w11"
+            },
+            {
+              "ar": "حُجَّةٌ",
+              "nl": "argument",
+              "woord": "j2-p8-l95-w12"
+            },
+            {
+              "ar": "مِثالٌ",
+              "nl": "voorbeeld",
+              "woord": "j2-p8-l95-w13"
+            },
+            {
+              "ar": "اِسْتِنْتاجٌ",
+              "nl": "conclusie",
+              "woord": "j2-p8-l95-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        }
+      ]
+    },
+    {
+      "titel": "Structuur",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Met welk woord begin je de conclusie?",
+          "opties": [
+            "في الخِتامِ",
+            "أَوَّلًا",
+            "مَعَ ذٰلِكَ"
+          ],
+          "juist": 0,
+          "uitleg": "Tot slot."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Met welk woord leid je een tegenargument in?",
+          "opties": [
+            "مَعَ ذٰلِكَ",
+            "لِذٰلِكَ",
+            "ثانِيًا"
+          ],
+          "juist": 0,
+          "uitleg": "Toch / desondanks."
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "الجَوُّ بارِدٌ، ___ سَأَلْبَسُ مِعْطَفًا.",
+          "nl": "Het is koud, daarom trek ik een jas aan.",
+          "antwoord": [
+            "لِذٰلِكَ"
+          ],
+          "uitleg": "Gevolg.",
+          "woordbank": [
+            "لِذٰلِكَ",
+            "مَعَ ذٰلِكَ",
+            "أَوَّلًا"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "الشَّقَّةُ صَغيرَةٌ، ___ أُحِبُّها.",
+          "nl": "Het appartement is klein; toch houd ik ervan.",
+          "antwoord": [
+            "مَعَ ذٰلِكَ"
+          ],
+          "uitleg": "Tegenstelling.",
+          "woordbank": [
+            "مَعَ ذٰلِكَ",
+            "لِذٰلِكَ",
+            "بِاخْتِصارٍ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "argumenteren",
+          "nl": "Naar mijn mening heeft thuiswerken veel voordelen.",
+          "woorden": [
+            "في",
+            "رَأْيي،",
+            "لِلْعَمَلِ",
+            "عَنْ",
+            "بُعْدٍ",
+            "فَوائِدُ",
+            "كَثيرَةٌ."
+          ],
+          "uitleg": "Mening."
+        }
+      ]
+    },
+    {
+      "titel": "Schrijven",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "argumenteren",
+          "bron": "bijvoorbeeld",
+          "antwoorden": [
+            "عَلى سَبيلِ المِثالِ",
+            "مَثَلًا"
+          ],
+          "uitleg": "{ar|عَلى سَبيلِ المِثالِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "argumenteren",
+          "bron": "مِنْ ناحِيَةٍ، المَدينَةُ مُمْتِعَةٌ، وَمِنْ ناحِيَةٍ أُخْرى، هِيَ غالِيَةٌ.",
+          "antwoorden": [
+            "enerzijds is de stad leuk anderzijds is ze duur",
+            "aan de ene kant is de stad leuk aan de andere kant is ze duur"
+          ],
+          "uitleg": "Enerzijds … anderzijds."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "argumenteren",
+          "opdracht": "Schrijf je mening over een onderwerp dat je bezighoudt, bijvoorbeeld thuiswerken of openbaar vervoer (ongeveer 100 woorden).",
+          "model": [
+            {
+              "ar": "في رَأْيي، لِلْعَمَلِ عَنْ بُعْدٍ فَوائِدُ كَثيرَةٌ.",
+              "tr": "fī raʾyī, li-l-ʿamali ʿan buʿdin fawāʾidu kaṯīra.",
+              "nl": "Naar mijn mening heeft thuiswerken veel voordelen."
+            },
+            {
+              "ar": "أَوَّلًا، نُوَفِّرُ الوَقْتَ وَالمالَ.",
+              "tr": "awwalan, nuwaffiru l-waqta wa-l-māl.",
+              "nl": "Ten eerste besparen we tijd en geld."
+            },
+            {
+              "ar": "ثانِيًا، نَسْتَطيعُ أَنْ نُنَظِّمَ يَوْمَنا بِحُرِّيَّةٍ.",
+              "tr": "ṯāniyan, nastaṭīʿu an nunaẓẓima yawmanā bi-ḥurriyya.",
+              "nl": "Ten tweede kunnen we onze dag vrij indelen."
+            },
+            {
+              "ar": "مَعَ ذٰلِكَ، لِلْعَمَلِ عَنْ بُعْدٍ عُيوبٌ، مِثْلُ الوَحْدَةِ.",
+              "tr": "maʿa ḏālika, li-l-ʿamali ʿan buʿdin ʿuyūbun, miṯlu l-waḥda.",
+              "nl": "Toch heeft thuiswerken ook nadelen, zoals eenzaamheid."
+            },
+            {
+              "ar": "لِذٰلِكَ أَقْتَرِحُ يَوْمَيْنِ في المَكْتَبِ وَثَلاثَةَ أَيّامٍ في البَيْتِ.",
+              "tr": "li-ḏālika aqtariḥu yawmayni fi l-maktabi wa-ṯalāṯata ayyāmin fi l-bayt.",
+              "nl": "Daarom stel ik twee dagen op kantoor en drie dagen thuis voor."
+            }
+          ],
+          "checklist": [
+            "Je mening staat duidelijk aan het begin ({ar|في رَأْيي}, {ar|أَرى أَنَّ}).",
+            "Minstens twee argumenten ({ar|أَوَّلًا}، {ar|ثانِيًا}).",
+            "Een tegenargument ({ar|مَعَ ذٰلِكَ}, {ar|لٰكِنْ}).",
+            "Een conclusie ({ar|لِذٰلِكَ}).",
+            "Bijvoeglijke naamwoorden congrueren (ook bij niet-menselijk meervoud).",
+            "Spelling klopt: {ar|ة} / {ar|ه}, {ar|ى} / {ar|ي} en de hamza."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "في رَأْيي",
+            "أَوَّلًا",
+            "ثانِيًا",
+            "مَعَ ذٰلِكَ",
+            "لِذٰلِكَ"
+          ],
+          "minimum": 60
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "argumenteren",
+        "paren": [
+          {
+            "ar": "ثانِيًا",
+            "nl": "ten tweede"
+          },
+          {
+            "ar": "ثالِثًا",
+            "nl": "ten derde"
+          },
+          {
+            "ar": "مَوْضوعُ النِّقاشِ",
+            "nl": "discussieonderwerp"
+          },
+          {
+            "ar": "العَمَلُ عَنْ بُعْدٍ",
+            "nl": "thuiswerken"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|لِذٰلِكَ} betekent ...",
+        "opties": [
+          "daarom",
+          "toch",
+          "bovendien"
+        ],
+        "juist": 0,
+        "uitleg": "Gevolg."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|بِالإِضافَةِ إِلى} betekent ...",
+        "opties": [
+          "bovendien",
+          "tot slot",
+          "kortom"
+        ],
+        "juist": 0,
+        "uitleg": "Toevoeging."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Welke volgorde past in een betoog?",
+        "opties": [
+          "mening – argumenten – tegenargument – conclusie",
+          "conclusie – mening – voorbeeld",
+          "tegenargument – conclusie – mening"
+        ],
+        "juist": 0,
+        "uitleg": "Structuur."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Het tegenovergestelde van {ar|فائِدَةٌ} is ...",
+        "opties": [
+          "عَيْبٌ",
+          "حُجَّةٌ",
+          "مِثالٌ"
+        ],
+        "juist": 0,
+        "uitleg": "voordeel ↔ nadeel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "في الخِتامِ، أَرى أَنَّ الحَلَّ هُوَ التَّوازُنُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Tot slot vind ik dat evenwicht de oplossing is.",
+          "Ten eerste is er geen oplossing.",
+          "Kortom, er is een probleem."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|في الخِتامِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "مَعَ ذٰلِكَ، هُناكَ عُيوبٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Toch zijn er nadelen.",
+          "Daarom zijn er voordelen.",
+          "Er zijn geen nadelen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَعَ ذٰلِكَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "___، نُوَفِّرُ الوَقْتَ.",
+        "nl": "Ten eerste besparen we tijd.",
+        "antwoord": [
+          "أَوَّلًا"
+        ],
+        "uitleg": "Eerste argument.",
+        "woordbank": [
+          "أَوَّلًا",
+          "في الخِتامِ",
+          "لِذٰلِكَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "___، العَمَلُ عَنْ بُعْدٍ مُفيدٌ.",
+        "nl": "Kortom, thuiswerken is nuttig.",
+        "antwoord": [
+          "بِاخْتِصارٍ"
+        ],
+        "uitleg": "Samenvatting.",
+        "woordbank": [
+          "بِاخْتِصارٍ",
+          "ثانِيًا",
+          "مَعَ ذٰلِكَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "هٰذِهِ ___ قَوِيَّةٌ.",
+        "nl": "Dit is een sterk argument.",
+        "antwoord": [
+          "حُجَّةٌ"
+        ],
+        "uitleg": "{ar|حُجَّةٌ}",
+        "woordbank": [
+          "حُجَّةٌ",
+          "فائِدَةٌ",
+          "عَيْبٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "argumenteren",
+        "instructie": "Rangtelwoorden als bijwoord.",
+        "rijen": [
+          {
+            "label": "ten eerste",
+            "antwoord": "أَوَّلًا",
+            "tr": "awwalan"
+          },
+          {
+            "label": "ten tweede",
+            "antwoord": "ثانِيًا",
+            "tr": "ṯāniyan"
+          }
+        ],
+        "uitleg": "Accusatief met tanwīn."
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "Daarom stel ik twee dagen op kantoor voor.",
+        "woorden": [
+          "لِذٰلِكَ",
+          "أَقْتَرِحُ",
+          "يَوْمَيْنِ",
+          "في",
+          "المَكْتَبِ."
+        ],
+        "uitleg": "{ar|لِذٰلِكَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "argumenteren",
+        "bron": "tot slot",
+        "antwoorden": [
+          "في الخِتامِ",
+          "أَخيرًا"
+        ],
+        "uitleg": "{ar|في الخِتامِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "argumenteren",
+        "bron": "لِلسَّفَرِ فَوائِدُ كَثيرَةٌ.",
+        "antwoorden": [
+          "reizen heeft veel voordelen",
+          "aan reizen zitten veel voordelen"
+        ],
+        "uitleg": "{ar|لِـ} + onbepaald onderwerp achteraan."
+      }
+    ]
+  }
+}

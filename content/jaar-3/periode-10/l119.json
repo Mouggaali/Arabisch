@@ -1,0 +1,619 @@
+{
+  "id": "j3-p10-l119",
+  "code": "L119",
+  "type": "les",
+  "titel": "Nieuwsfragmenten beluisteren",
+  "thema": "Journaal, weerbericht, verkeer en sport; luistervaardigheid",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "korte nieuwsfragmenten verstaan (verkeer, weer, sport, economie).",
+    "de vaste nieuwsformules herkennen (أَفادَ، وَفْقًا لِـ، مِنَ المُتَوَقَّعِ).",
+    "de structuur van een nieuwsbericht gebruiken om te begrijpen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l119-w03",
+      "ar": "خَبَرٌ عاجِلٌ",
+      "tr": "ḫabarun ʿājil",
+      "nl": [
+        "nieuwsflits"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w04",
+      "ar": "أَفادَ",
+      "tr": "afāda",
+      "nl": [
+        "melden, berichten"
+      ],
+      "soort": "werkwoord (IV, hol)"
+    },
+    {
+      "id": "j3-p10-l119-w05",
+      "ar": "وَفْقًا لِـ",
+      "tr": "wafqan li-",
+      "nl": [
+        "volgens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w06",
+      "ar": "الأَرْصادُ الجَوِّيَّةُ",
+      "tr": "al-arṣādu l-jawwiyya",
+      "nl": [
+        "het weerinstituut"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w07",
+      "ar": "نَشْرَةٌ جَوِّيَّةٌ",
+      "tr": "našratun jawwiyya",
+      "nl": [
+        "weerbericht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w08",
+      "ar": "مُتَوَقَّعٌ",
+      "tr": "mutawaqqaʿ",
+      "nl": [
+        "verwacht"
+      ],
+      "soort": "deelwoord (V, passief)"
+    },
+    {
+      "id": "j3-p10-l119-w09",
+      "ar": "غَزيرٌ",
+      "tr": "ġazīr",
+      "nl": [
+        "hevig, overvloedig (regen)"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l119-w10",
+      "ar": "حَرَكَةُ السَّيْرِ",
+      "tr": "ḥarakatu s-sayr",
+      "nl": [
+        "het verkeer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w11",
+      "ar": "اِنْقِطاعُ الكَهْرَباءِ",
+      "tr": "inqiṭāʿu l-kahrabāʾ",
+      "nl": [
+        "stroomstoring"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w12",
+      "ar": "الدَّوْرِيُّ",
+      "tr": "ad-dawriyy",
+      "nl": [
+        "de (voetbal)competitie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l119-w14",
+      "ar": "بورْصَةٌ",
+      "tr": "būrṣa",
+      "nl": [
+        "beurs"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l119-w15",
+      "ar": "طَقْسٌ مُشْمِسٌ",
+      "tr": "ṭaqsun mušmis",
+      "nl": [
+        "zonnig weer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w16",
+      "ar": "الطَّريقُ السَّيّارُ",
+      "tr": "aṭ-ṭarīqu s-sayyār",
+      "nl": [
+        "de snelweg"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w17",
+      "ar": "مُتَوَقِّفٌ",
+      "tr": "mutawaqqif",
+      "nl": [
+        "stilstaand, stilgelegd"
+      ],
+      "soort": "deelwoord (V, actief)"
+    },
+    {
+      "id": "j3-p10-l119-w18",
+      "ar": "تَحْتَ السَّيْطَرَةِ",
+      "tr": "taḥta s-sayṭara",
+      "nl": [
+        "onder controle"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l119-w19",
+      "ar": "مَوْجَةُ حَرٍّ",
+      "tr": "mawjatu ḥarr",
+      "nl": [
+        "hittegolf"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Hoe luister je naar nieuws?",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Nieuws gaat snel. Je hoeft niet elk woord te verstaan: let op de **vaste formules** die zeggen *wie* iets zegt, *wat* er gebeurde en *volgens wie*."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Formule",
+            "Betekenis",
+            "Waar let je op?"
+          ],
+          "rijen": [
+            [
+              "أَفادَ مُراسِلُنا أَنَّ …",
+              "onze correspondent meldt dat …",
+              "wat volgt na أَنَّ"
+            ],
+            [
+              "وَفْقًا لِـ … / حَسَبَ …",
+              "volgens …",
+              "de bron"
+            ],
+            [
+              "نَقَلَتْ وَكالَةُ الأَنْباءِ عَنْ …",
+              "het persbureau citeerde …",
+              "wie er gesproken heeft"
+            ],
+            [
+              "مِنَ المُتَوَقَّعِ أَنْ …",
+              "naar verwachting zal …",
+              "de toekomst"
+            ],
+            [
+              "أَسْفَرَ عَنْ …",
+              "resulteerde in …",
+              "het gevolg, vaak met getallen"
+            ]
+          ],
+          "arKolommen": [
+            0
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Nieuwsberichten volgen bijna altijd dezelfde volgorde: **wat – waar – wanneer – wie zegt het – gevolg**. Als je die structuur kent, kun je de ontbrekende woorden vaak raden."
+        },
+        {
+          "type": "letop",
+          "md": "Getallen worden in het nieuws vaak in de **spreektaal-uitspraak** gezegd (zonder naamvalsuitgangen). Luister naar het getal zelf, niet naar de uitgang."
+        }
+      ]
+    },
+    {
+      "titel": "Fragmenten",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَفادَ مُراسِلُنا أَنَّ حَرَكَةَ السَّيْرِ مُتَوَقِّفَةٌ عَلى الطَّريقِ السَّيّارِ.",
+              "tr": "afāda murāsilunā anna ḥarakata s-sayri mutawaqqifatun ʿala ṭ-ṭarīqi s-sayyār.",
+              "nl": "Onze correspondent meldt dat het verkeer op de snelweg stilstaat."
+            },
+            {
+              "ar": "وَفْقًا لِلْأَرْصادِ الجَوِّيَّةِ، مِنَ المُتَوَقَّعِ سُقوطُ أَمْطارٍ غَزيرَةٍ غَدًا.",
+              "tr": "wafqan li-l-arṣādi l-jawwiyyati, mina l-mutawaqqaʿi suqūṭu amṭārin ġazīratin ġadan.",
+              "nl": "Volgens het weerinstituut wordt morgen hevige regen verwacht."
+            },
+            {
+              "ar": "سَجَّلَ اللّاعِبُ هَدَفَيْنِ في الدَّقائِقِ الأَخيرَةِ.",
+              "tr": "sajjala l-lāʿibu hadafayni fi d-daqāʾiqi l-aḫīra.",
+              "nl": "De speler maakte twee doelpunten in de laatste minuten."
+            },
+            {
+              "ar": "أَسْفَرَ اِنْقِطاعُ الكَهْرَباءِ عَنْ تَوَقُّفِ القِطاراتِ لِمُدَّةِ ساعَتَيْنِ.",
+              "tr": "asfara nqiṭāʿu l-kahrabāʾi ʿan tawaqqufi l-qiṭārāti li-muddati sāʿatayn.",
+              "nl": "De stroomstoring zorgde ervoor dat de treinen twee uur stillagen."
+            },
+            {
+              "ar": "نَقَلَتْ وَكالَةُ الأَنْباءِ عَنِ الوَزيرِ قَوْلَهُ إِنَّ الوَضْعَ تَحْتَ السَّيْطَرَةِ.",
+              "tr": "naqalat wakālatu l-anbāʾi ʿani l-wazīri qawlahu inna l-waḍʿa taḥta s-sayṭara.",
+              "nl": "Het persbureau citeerde de minister, die zei dat de situatie onder controle is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مُذيعٌ",
+              "nl": "nieuwslezer"
+            },
+            {
+              "ar": "بَثٌّ مُباشِرٌ",
+              "nl": "live-uitzending"
+            },
+            {
+              "ar": "نَشْرَةٌ جَوِّيَّةٌ",
+              "nl": "weerbericht",
+              "woord": "j3-p10-l119-w07"
+            },
+            {
+              "ar": "حَرَكَةُ السَّيْرِ",
+              "nl": "verkeer",
+              "woord": "j3-p10-l119-w10"
+            },
+            {
+              "ar": "الدَّوْرِيُّ",
+              "nl": "competitie",
+              "woord": "j3-p10-l119-w12"
+            },
+            {
+              "ar": "بورْصَةٌ",
+              "nl": "beurs",
+              "woord": "j3-p10-l119-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "مِنَ المُتَوَقَّعِ سُقوطُ أَمْطارٍ غَزيرَةٍ غَدًا",
+          "vraag": "Wat voor weer wordt verwacht?",
+          "opties": [
+            "morgen hevige regen",
+            "morgen zon",
+            "vandaag sneeuw"
+          ],
+          "juist": 0,
+          "uitleg": "Weerbericht."
+        }
+      ]
+    },
+    {
+      "titel": "Fragmenten",
+      "items": [
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "أَفادَ مُراسِلُنا أَنَّ حَرَكَةَ السَّيْرِ مُتَوَقِّفَةٌ",
+          "vraag": "Wat meldt de correspondent?",
+          "opties": [
+            "Het verkeer staat stil.",
+            "De wegen zijn leeg.",
+            "Er is een nieuwe weg."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَفادَ … أَنَّ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "سَجَّلَ اللّاعِبُ هَدَفَيْنِ",
+          "vraag": "Wat deed de speler?",
+          "opties": [
+            "Hij maakte twee doelpunten.",
+            "Hij raakte geblesseerd.",
+            "Hij kreeg een rode kaart."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَجَّلَ هَدَفًا}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "اِنْقِطاعُ الكَهْرَباءِ في وَسَطِ المَدينَةِ",
+          "vraag": "Wat is er aan de hand?",
+          "opties": [
+            "Er is een stroomstoring in het centrum.",
+            "Er is een brand in het centrum.",
+            "Het centrum is afgesloten."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِنْقِطاعُ الكَهْرَباءِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "luistervaardigheid",
+          "vraag": "Welke formule geeft de **bron** van een bericht?",
+          "opties": [
+            "وَفْقًا لِـ",
+            "مِنَ المُتَوَقَّعِ أَنْ",
+            "أَسْفَرَ عَنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Volgens."
+        },
+        {
+          "type": "invullen",
+          "tag": "luistervaardigheid",
+          "zin": "___ لِلشُّرْطَةِ، لا توجَدُ إِصاباتٌ.",
+          "nl": "Volgens de politie zijn er geen gewonden.",
+          "antwoord": [
+            "وَفْقًا"
+          ],
+          "uitleg": "{ar|وَفْقًا لِـ}",
+          "woordbank": [
+            "وَفْقًا",
+            "مِمّا",
+            "رَغْمَ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "luistervaardigheid",
+          "nl": "Volgens het weerinstituut wordt morgen regen verwacht.",
+          "woorden": [
+            "وَفْقًا",
+            "لِلْأَرْصادِ",
+            "الجَوِّيَّةِ،",
+            "مِنَ",
+            "المُتَوَقَّعِ",
+            "سُقوطُ",
+            "أَمْطارٍ",
+            "غَدًا."
+          ],
+          "uitleg": "Weerbericht."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "zonnig weer",
+          "antwoorden": [
+            "طَقْسٌ مُشْمِسٌ",
+            "طقس مشمس",
+            "الطَّقْسُ مُشْمِسٌ"
+          ],
+          "uitleg": "{ar|طَقْسٌ مُشْمِسٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "luistervaardigheid",
+          "bron": "نَقَلَتْ وَكالَةُ الأَنْباءِ عَنِ الوَزيرِ قَوْلَهُ إِنَّ الوَضْعَ هادِئٌ.",
+          "antwoorden": [
+            "het persbureau citeerde de minister die zei dat de situatie rustig is",
+            "volgens het persbureau zei de minister dat de situatie rustig is"
+          ],
+          "uitleg": "{ar|نَقَلَ عَنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَفادَ",
+            "nl": "melden"
+          },
+          {
+            "ar": "مُتَوَقَّعٌ",
+            "nl": "verwacht"
+          },
+          {
+            "ar": "غَزيرٌ",
+            "nl": "hevig"
+          },
+          {
+            "ar": "خَبَرٌ عاجِلٌ",
+            "nl": "nieuwsflits"
+          },
+          {
+            "ar": "نَقَلَ عَنْ",
+            "nl": "citeren"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "In welke volgorde staat de informatie meestal in een nieuwsbericht?",
+        "opties": [
+          "wat – waar – wanneer – bron – gevolg",
+          "gevolg – bron – wat",
+          "bron – conclusie – inleiding"
+        ],
+        "juist": 0,
+        "uitleg": "Vaste structuur."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|مِنَ المُتَوَقَّعِ أَنْ …} betekent ...",
+        "opties": [
+          "naar verwachting zal …",
+          "volgens de bron …",
+          "als gevolg van …"
+        ],
+        "juist": 0,
+        "uitleg": "Toekomst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|البورْصَةُ} is ...",
+        "opties": [
+          "de beurs",
+          "de competitie",
+          "het weerinstituut"
+        ],
+        "juist": 0,
+        "uitleg": "Economie."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "وَفْقًا لِلْأَرْصادِ الجَوِّيَّةِ سَيَكونُ الطَّقْسُ مُشْمِسًا",
+        "vraag": "Wat voorspelt het weerinstituut?",
+        "opties": [
+          "zonnig weer",
+          "regen",
+          "storm"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُشْمِسٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "فازَ الفَريقُ بِثَلاثَةِ أَهْدافٍ مُقابِلَ هَدَفٍ واحِدٍ",
+        "vraag": "Wat was de uitslag?",
+        "opties": [
+          "3–1",
+          "1–3",
+          "3–0"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُقابِلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "أَسْفَرَ الحادِثُ عَنْ إِصابَةِ أَرْبَعَةِ أَشْخاصٍ",
+        "vraag": "Wat was het gevolg van het ongeluk?",
+        "opties": [
+          "vier gewonden",
+          "vier doden",
+          "geen gewonden"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِصابَةُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "نَبْدَأُ النَّشْرَةَ بِخَبَرٍ عاجِلٍ",
+        "vraag": "Waarmee begint het journaal?",
+        "opties": [
+          "met een nieuwsflits",
+          "met het weer",
+          "met sport"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَبَرٌ عاجِلٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "luistervaardigheid",
+        "zin": "___ مُراسِلُنا أَنَّ الطَّريقَ مُغْلَقٌ.",
+        "nl": "Onze correspondent meldt dat de weg afgesloten is.",
+        "antwoord": [
+          "أَفادَ"
+        ],
+        "uitleg": "{ar|أَفادَ}",
+        "woordbank": [
+          "أَفادَ",
+          "سَجَّلَ",
+          "نَقَلَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تُتابِعونَ ___ مُباشِرًا مِنَ المَلْعَبِ.",
+        "nl": "U kijkt naar een live-uitzending vanuit het stadion.",
+        "antwoord": [
+          "بَثًّا"
+        ],
+        "uitleg": "{ar|بَثٌّ مُباشِرٌ}",
+        "woordbank": [
+          "بَثًّا",
+          "مُذيعًا",
+          "دَوْرِيًّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "سَقَطَتْ أَمْطارٌ ___ في الشَّمالِ.",
+        "nl": "Er viel hevige regen in het noorden.",
+        "antwoord": [
+          "غَزيرَةٌ"
+        ],
+        "uitleg": "Congruentie met {ar|أَمْطارٌ}.",
+        "woordbank": [
+          "غَزيرَةٌ",
+          "مُشْمِسَةٌ",
+          "عاجِلَةٌ"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "luistervaardigheid",
+        "nl": "De speler maakte twee doelpunten.",
+        "woorden": [
+          "سَجَّلَ",
+          "اللّاعِبُ",
+          "هَدَفَيْنِ."
+        ],
+        "uitleg": "Sport."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het weerbericht",
+        "antwoorden": [
+          "النَّشْرَةُ الجَوِّيَّةُ",
+          "النشرة الجوية"
+        ],
+        "uitleg": "{ar|النَّشْرَةُ الجَوِّيَّةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "luistervaardigheid",
+        "bron": "أَفادَ مُراسِلُنا أَنَّ حَرَكَةَ السَّيْرِ مُتَوَقِّفَةٌ.",
+        "antwoorden": [
+          "onze correspondent meldt dat het verkeer stilstaat",
+          "onze verslaggever meldt dat het verkeer stilstaat"
+        ],
+        "uitleg": "Nieuws."
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "j1-p1-l05",
+  "code": "L05",
+  "type": "les",
+  "titel": "De groep en de klas",
+  "thema": "Over meerdere personen praten: klasgenoten, collega's en vrienden",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de voornaamwoorden in het meervoud gebruiken: wij, jullie (m/v) en zij (m/v).",
+    "de dualisvormen أَنْتُما en هُما herkennen.",
+    "uitleggen wanneer je de mannelijke en wanneer de vrouwelijke meervoudsvorm gebruikt.",
+    "eenvoudige zinnen maken over een groep: 'wij zijn studenten'."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l05-w01", "ar": "نَحْنُ", "tr": "naḥnu", "nl": ["wij"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l05-w02", "ar": "أَنْتُمْ", "tr": "antum", "nl": ["jullie (m of gemengd)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l05-w03", "ar": "أَنْتُنَّ", "tr": "antunna", "nl": ["jullie (alleen vrouwen)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l05-w04", "ar": "هُمْ", "tr": "hum", "nl": ["zij (meervoud, m of gemengd)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l05-w05", "ar": "هُنَّ", "tr": "hunna", "nl": ["zij (meervoud, alleen vrouwen)"], "soort": "voornaamwoord" },
+    { "id": "j1-p1-l05-w06", "ar": "أَنْتُما", "tr": "antumā", "nl": ["jullie twee"], "soort": "voornaamwoord", "notitie": "Dualis: voor precies twee personen, mannen of vrouwen." },
+    { "id": "j1-p1-l05-w07", "ar": "هُما", "tr": "humā", "nl": ["zij twee"], "soort": "voornaamwoord", "notitie": "Dualis: voor precies twee personen of dingen." },
+    { "id": "j1-p1-l05-w08", "ar": "طُلّابٌ", "tr": "ṭullāb", "nl": ["studenten", "leerlingen"], "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Meervoud van {ar|طالِبٌ}. Een gebroken meervoud: leer het als paar." },
+    { "id": "j1-p1-l05-w09", "ar": "طالِباتٌ", "tr": "ṭālibāt", "nl": ["studentes", "leerlingen (v)"], "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Meervoud van {ar|طالِبَةٌ}: ة wordt ـاتٌ." },
+    { "id": "j1-p1-l05-w10", "ar": "مُعَلِّمونَ", "tr": "muʿallimūn", "nl": ["leraren"], "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Meervoud van {ar|مُعَلِّمٌ} met de uitgang ـونَ." },
+    { "id": "j1-p1-l05-w11", "ar": "أَصْدِقاءُ", "tr": "aṣdiqāʾ", "nl": ["vrienden"], "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Meervoud van {ar|صَديقٌ}." },
+    { "id": "j1-p1-l05-w12", "ar": "صَفٌّ", "tr": "ṣaff", "nl": ["klas", "rij"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l05-w13", "ar": "مَدْرَسَةٌ", "tr": "madrasa", "nl": ["school"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l05-w14", "ar": "جامِعَةٌ", "tr": "jāmiʿa", "nl": ["universiteit"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l05-w15", "ar": "زَميلٌ", "tr": "zamīl", "nl": ["collega", "klasgenoot (m)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l05-w16", "ar": "زَميلَةٌ", "tr": "zamīla", "nl": ["collega", "klasgenote (v)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l05-w17", "ar": "أَيْضًا", "tr": "ayḍan", "nl": ["ook"], "soort": "bijwoord" },
+    { "id": "j1-p1-l05-w18", "ar": "مَعًا", "tr": "maʿan", "nl": ["samen"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Persoonlijke voornaamwoorden: het meervoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Net als bij *jij* maakt het Arabisch ook in het meervoud verschil tussen mannelijk en vrouwelijk: bij *jullie* en bij *zij*. Alleen *wij* ({ar|نَحْنُ}) heeft één vorm.",
+          "Hieronder het volledige overzicht: het enkelvoud uit les 2 en het nieuwe meervoud."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Enkelvoud", "Meervoud"], "arKolommen": [1, 2], "rijen": [
+          ["1e persoon", "أَنا|ana · ik", "نَحْنُ|naḥnu · wij"],
+          ["2e persoon, m", "أَنْتَ|anta · jij", "أَنْتُمْ|antum · jullie"],
+          ["2e persoon, v", "أَنْتِ|anti · jij", "أَنْتُنَّ|antunna · jullie"],
+          ["3e persoon, m", "هُوَ|huwa · hij", "هُمْ|hum · zij"],
+          ["3e persoon, v", "هِيَ|hiya · zij", "هُنَّ|hunna · zij"]
+        ] },
+        { "type": "waarom", "md": "Voor een **gemengde groep** gebruik je de mannelijke vorm: {ar|أَنْتُمْ} en {ar|هُمْ}. De mannelijke vorm is in het Arabisch de algemene vorm. {ar|أَنْتُنَّ} en {ar|هُنَّ} gebruik je alleen voor een groep die volledig uit vrouwen bestaat." },
+        { "type": "voorbeelden", "items": [
+          { "ar": "نَحْنُ طُلّابٌ.", "tr": "naḥnu ṭullāb.", "nl": "Wij zijn studenten." },
+          { "ar": "أَنْتُمْ أَصْدِقاءُ.", "tr": "antum aṣdiqāʾ.", "nl": "Jullie zijn vrienden." },
+          { "ar": "هُمْ مُعَلِّمونَ.", "tr": "hum muʿallimūn.", "nl": "Zij zijn leraren." },
+          { "ar": "هُنَّ طالِباتٌ.", "tr": "hunna ṭālibāt.", "nl": "Zij zijn studentes." },
+          { "ar": "نَحْنُ مِنْ هولَنْدا وَهُمْ مِنَ المَغْرِبِ.", "tr": "naḥnu min Hūlandā wa-hum mina l-Maġrib.", "nl": "Wij komen uit Nederland en zij komen uit Marokko." }
+        ] }
+      ]
+    },
+    {
+      "titel": "Precies twee: de dualis herkennen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch heeft naast enkelvoud en meervoud een aparte vorm voor **precies twee**: de **dualis**. Voor voornaamwoorden zijn dat {ar|أَنْتُما} (*jullie twee*) en {ar|هُما} (*zij twee*). Ze zijn hetzelfde voor mannen en vrouwen.",
+          "Je hoeft de dualis nu alleen te **herkennen**. In les 40 leer je hem volledig gebruiken, ook bij zelfstandige naamwoorden en werkwoorden."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَنْ هُما؟ — هُما سامي وَيوسُفُ.", "tr": "man humā? — humā Sāmī wa-Yūsuf.", "nl": "Wie zijn zij (twee)? — Dat zijn Sami en Youssef." },
+          { "ar": "أَنْتُما مِنْ مِصْرَ؟", "tr": "antumā min Miṣra?", "nl": "Komen jullie (twee) uit Egypte?",
+            "review": { "status": "onzeker", "note": "Ja/nee-vraag zonder هَلْ (alleen intonatie). Bevestigen dat dit natuurlijk klinkt; anders vervangen door هَلْ أَنْتُما مِنْ مِصْرَ؟" } }
+        ] },
+        { "type": "waarom", "md": "In het Nederlands zeg je *jullie* of *ze*, of het nu om twee of om twintig mensen gaat. Het oudere Arabisch heeft de dualis bewaard, en Fusha gebruikt hem nog steeds consequent. Vandaar de extra vormen." }
+      ]
+    },
+    {
+      "titel": "Woorden voor groepen leren als paar",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Bij zelfstandige naamwoorden heeft het meervoud verschillende vormen. Sommige krijgen een uitgang: {ar|مُعَلِّمٌ} → {ar|مُعَلِّمونَ}, {ar|طالِبَةٌ} → {ar|طالِباتٌ}. Andere veranderen van binnen: {ar|طالِبٌ} → {ar|طُلّابٌ}, {ar|صَديقٌ} → {ar|أَصْدِقاءُ}. Dat heet een **gebroken meervoud**.",
+          "Leer daarom elk zelfstandig naamwoord met zijn meervoud erbij. In les 32 en in jaar 2 leer je de regels en patronen."
+        ] },
+        { "type": "tabel", "kop": ["Enkelvoud", "Meervoud", "Soort meervoud"], "arKolommen": [0, 1], "rijen": [
+          ["مُعَلِّمٌ|muʿallim", "مُعَلِّمونَ|muʿallimūn", "uitgang ـونَ (mannen)"],
+          ["طالِبَةٌ|ṭāliba", "طالِباتٌ|ṭālibāt", "uitgang ـاتٌ (vrouwen)"],
+          ["طالِبٌ|ṭālib", "طُلّابٌ|ṭullāb", "gebroken meervoud"],
+          ["صَديقٌ|ṣadīq", "أَصْدِقاءُ|aṣdiqāʾ", "gebroken meervoud"]
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Voornaamwoorden in het meervoud",
+      "items": [
+        { "type": "koppelen", "tag": "voornaamwoorden-mv", "paren": [
+          { "ar": "نَحْنُ", "nl": "wij", "woord": "j1-p1-l05-w01" },
+          { "ar": "أَنْتُمْ", "nl": "jullie (m)", "woord": "j1-p1-l05-w02" },
+          { "ar": "أَنْتُنَّ", "nl": "jullie (v)", "woord": "j1-p1-l05-w03" },
+          { "ar": "هُمْ", "nl": "zij (m mv)", "woord": "j1-p1-l05-w04" },
+          { "ar": "هُنَّ", "nl": "zij (v mv)", "woord": "j1-p1-l05-w05" }
+        ], "uitleg": "De vrouwelijke vormen eindigen op ـنَّ (-nna)." },
+        { "type": "vervoegen", "tag": "voornaamwoorden-mv", "instructie": "Vul het juiste voornaamwoord in.",
+          "rijen": [
+            { "label": "wij", "antwoord": "نَحْنُ", "tr": "naḥnu" },
+            { "label": "jullie (m)", "antwoord": "أَنْتُمْ", "tr": "antum" },
+            { "label": "jullie (v)", "antwoord": "أَنْتُنَّ", "tr": "antunna" },
+            { "label": "zij (m mv)", "antwoord": "هُمْ", "tr": "hum" },
+            { "label": "zij (v mv)", "antwoord": "هُنَّ", "tr": "hunna" }
+          ],
+          "uitleg": "Kijk nog eens naar de tabel in de grammatica als je twijfelt." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Je spreekt een groep aan van drie jongens en twee meisjes. Welk woord voor 'jullie'?",
+          "opties": ["أَنْتُمْ", "أَنْتُنَّ", "أَنْتُما", "هُمْ"], "juist": 0,
+          "uitleg": "Een gemengde groep krijgt de mannelijke vorm: {ar|أَنْتُمْ}." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Je praat óver vier vriendinnen. Welk woord voor 'zij'?",
+          "opties": ["هُنَّ", "هُمْ", "هِيَ", "أَنْتُنَّ"], "juist": 0,
+          "uitleg": "Alleen vrouwen, en je praat óver ze: {ar|هُنَّ}." },
+        { "type": "meerkeuze", "tag": "dualis-herkennen", "vraag": "Wat betekent {ar|هُما}?",
+          "opties": ["zij twee", "zij (veel)", "wij", "jullie"], "juist": 0, "uitleg": "{ar|هُما} is de dualis: precies twee." }
+      ]
+    },
+    {
+      "titel": "Luisteren en invullen",
+      "items": [
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "نَحْنُ طُلّابٌ", "vraag": "Wat hoor je?",
+          "opties": ["Wij zijn studenten.", "Zij zijn studenten.", "Jullie zijn studenten.", "Wij zijn leraren."], "juist": 0,
+          "uitleg": "{ar|نَحْنُ} = wij, {ar|طُلّابٌ} = studenten." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "أَنْتُنَّ", "vraag": "Wat hoor je?",
+          "opties": ["jullie (alleen vrouwen)", "jullie (m)", "zij (v mv)", "jullie twee"], "juist": 0,
+          "uitleg": "*antunna*, met dubbele n." },
+        { "type": "invullen", "tag": "voornaamwoorden-mv", "zin": "___ طالِباتٌ.", "nl": "Zij zijn studentes.",
+          "woordbank": ["هُنَّ", "هُمْ", "نَحْنُ"], "antwoord": ["هُنَّ"], "uitleg": "Studentes = vrouwen: {ar|هُنَّ}." },
+        { "type": "invullen", "tag": "voornaamwoorden-mv", "zin": "___ مِنْ هولَنْدا.", "nl": "Wij komen uit Nederland.",
+          "antwoord": ["نَحْنُ"], "uitleg": "{ar|نَحْنُ} = wij." },
+        { "type": "invullen", "tag": "meervoud-paar", "zin": "هُمْ ___.", "nl": "Zij zijn leraren.",
+          "woordbank": ["مُعَلِّمونَ", "مُعَلِّمٌ", "مُعَلِّماتٌ"], "antwoord": ["مُعَلِّمونَ"],
+          "uitleg": "Meervoud van {ar|مُعَلِّمٌ} voor mannen of een gemengde groep: {ar|مُعَلِّمونَ}." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "voornaamwoorden-mv", "nl": "Jullie zijn vrienden.", "woorden": ["أَنْتُمْ", "أَصْدِقاءُ."], "uitleg": "Nominale zin: onderwerp + gezegde." },
+        { "type": "ordenen", "tag": "voornaamwoorden-mv", "nl": "Wij komen uit Nederland en zij komen uit Marokko.",
+          "woorden": ["نَحْنُ", "مِنْ", "هولَنْدا", "وَهُمْ", "مِنَ", "المَغْرِبِ."], "uitleg": "Twee nominale zinnen verbonden met {ar|وَ}." },
+        { "type": "ordenen", "tag": "dualis-herkennen", "nl": "Wie zijn zij (twee)?", "woorden": ["مَنْ", "هُما؟"], "uitleg": "{ar|مَنْ} + {ar|هُما}." },
+        { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Wat is het meervoud van {ar|طالِبٌ}?",
+          "opties": ["طُلّابٌ", "طالِبونَ", "طالِباتٌ", "طالِبانِ"], "juist": 0,
+          "uitleg": "{ar|طالِبٌ} heeft een gebroken meervoud: {ar|طُلّابٌ}." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "wij", "antwoorden": ["نَحْنُ"], "uitleg": "{ar|نَحْنُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "Wij zijn studenten.", "antwoorden": ["نَحْنُ طُلّابٌ"], "uitleg": "{ar|نَحْنُ طُلّابٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "Zij (v mv) zijn studentes.", "antwoorden": ["هُنَّ طالِباتٌ"], "uitleg": "{ar|هُنَّ طالِباتٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden-mv", "bron": "هُمْ زُمَلاءُ.", "tr": "hum zumalāʾ.",
+          "antwoorden": ["zij zijn collegas", "ze zijn collegas", "zij zijn klasgenoten", "ze zijn klasgenoten", "zij zijn collega's"],
+          "uitleg": "{ar|زُمَلاءُ} is het meervoud van {ar|زَميلٌ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden-mv", "bron": "نَحْنُ في الصَّفِّ مَعًا.", "tr": "naḥnu fi ṣ-ṣaffi maʿan.",
+          "antwoorden": ["wij zitten samen in de klas", "we zitten samen in de klas", "wij zijn samen in de klas", "we zijn samen in de klas", "wij zitten in dezelfde klas"],
+          "uitleg": "{ar|في} = in (les 15), {ar|الصَّفّ} = de klas, {ar|مَعًا} = samen." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "dualis-herkennen", "bron": "أَنْتُما", "tr": "antumā", "antwoorden": ["jullie twee", "jullie beiden", "jullie"], "uitleg": "Dualis: jullie twee." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مَدْرَسَةٌ", "nl": "school" },
+        { "ar": "جامِعَةٌ", "nl": "universiteit" },
+        { "ar": "أَيْضًا", "nl": "ook" },
+        { "ar": "مَعًا", "nl": "samen" },
+        { "ar": "صَفٌّ", "nl": "klas" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Welk woord betekent 'wij'?", "opties": ["نَحْنُ", "هُمْ", "أَنْتُمْ", "هُنَّ"], "juist": 0, "uitleg": "{ar|نَحْنُ}" },
+      { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Je spreekt een groep vrouwen aan. 'Jullie' is ...", "opties": ["أَنْتُنَّ", "أَنْتُمْ", "هُنَّ"], "juist": 0, "uitleg": "{ar|أَنْتُنَّ}" },
+      { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Over een gemengde groep (mannen en vrouwen) zeg je 'zij' met ...", "opties": ["هُمْ", "هُنَّ", "هُما"], "juist": 0, "uitleg": "Gemengd = mannelijke vorm." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "هُمْ أَصْدِقاءُ", "vraag": "Wat hoor je?", "opties": ["Zij zijn vrienden.", "Wij zijn vrienden.", "Jullie zijn vrienden."], "juist": 0, "uitleg": "{ar|هُمْ} = zij." },
+      { "type": "luisteren", "tag": "dualis-herkennen", "tekst": "هُما", "vraag": "Wat hoor je?", "opties": ["zij twee", "zij (v mv)", "wij"], "juist": 0, "uitleg": "{ar|هُما}: dualis." },
+      { "type": "invullen", "tag": "voornaamwoorden-mv", "zin": "___ زَميلاتٌ.", "nl": "Jullie (v) zijn collega's.", "woordbank": ["أَنْتُنَّ", "أَنْتُمْ", "هُنَّ"], "antwoord": ["أَنْتُنَّ"], "uitleg": "Je spreekt vrouwen aan: {ar|أَنْتُنَّ}." },
+      { "type": "invullen", "tag": "meervoud-paar", "zin": "نَحْنُ ___.", "nl": "Wij zijn studenten.", "woordbank": ["طُلّابٌ", "طالِبٌ", "طُلّابُ"], "antwoord": ["طُلّابٌ"], "uitleg": "Gezegde: onbepaald, met tanwīn." },
+      { "type": "vervoegen", "tag": "voornaamwoorden-mv", "instructie": "Vul het voornaamwoord in.",
+        "rijen": [
+          { "label": "zij (v mv)", "antwoord": "هُنَّ", "tr": "hunna" },
+          { "label": "jullie (m)", "antwoord": "أَنْتُمْ", "tr": "antum" },
+          { "label": "wij", "antwoord": "نَحْنُ", "tr": "naḥnu" }
+        ], "uitleg": "{ar|هُنَّ} · {ar|أَنْتُمْ} · {ar|نَحْنُ}" },
+      { "type": "ordenen", "tag": "voornaamwoorden-mv", "nl": "Zij zijn leraren.", "woorden": ["هُمْ", "مُعَلِّمونَ."], "uitleg": "Nominale zin." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "zij (v mv)", "antwoorden": ["هُنَّ"], "uitleg": "{ar|هُنَّ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "Jullie zijn vrienden.", "antwoorden": ["أَنْتُمْ أَصْدِقاءُ"], "uitleg": "{ar|أَنْتُمْ أَصْدِقاءُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden-mv", "bron": "نَحْنُ مِنَ المَغْرِبِ.", "tr": "naḥnu mina l-Maġrib.", "antwoorden": ["wij komen uit marokko", "we komen uit marokko", "wij zijn uit marokko"], "uitleg": "{ar|نَحْنُ} = wij." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-paar", "bron": "طالِباتٌ", "tr": "ṭālibāt", "antwoorden": ["studentes", "studenten", "leerlingen"], "uitleg": "Meervoud van {ar|طالِبَةٌ}." }
+    ]
+  }
+}

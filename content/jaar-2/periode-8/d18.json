@@ -1,0 +1,420 @@
+{
+  "id": "j2-p8-d18",
+  "code": "D18",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: herhaling A1",
+  "thema": "Alle Darija-basisstof van D01 tot en met D17",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de Darija-werkwoordstijden en ontkenning herhalen.",
+    "bezit, vraagwoorden en gebiedende wijs gebruiken.",
+    "dagelijkse situaties in het Darija afhandelen (A1)."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal je Darija-flashcards (D01–D17).",
+  "grammatica": [
+    {
+      "titel": "Darija A1 in één tabel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Darija",
+            "Fusha"
+          ],
+          "rijen": [
+            [
+              "tegenwoordige tijd",
+              "كانكتب|kanktəb",
+              "أَكْتُبُ"
+            ],
+            [
+              "verleden tijd",
+              "كتبت|ktəbt",
+              "كَتَبْتُ"
+            ],
+            [
+              "toekomst",
+              "غادي نكتب|ġādi nəktəb",
+              "سَأَكْتُبُ"
+            ],
+            [
+              "ontkenning",
+              "ماكانكتبش|makanktəbš",
+              "لا أَكْتُبُ"
+            ],
+            [
+              "bezit",
+              "الكتاب ديالي|lktāb dyāli",
+              "كِتابي"
+            ],
+            [
+              "gebod / verbod",
+              "كتب / ما تكتبش|ktəb / ma təktəbš",
+              "اُكْتُبْ / لا تَكْتُبْ"
+            ],
+            [
+              "vraagwoorden",
+              "فين، شكون، علاش، كيفاش",
+              "أَيْنَ، مَنْ، لِماذا، كَيْفَ"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met deze zeven bouwstenen kun je in het Darija over jezelf vertellen, vragen stellen en dagelijkse situaties afhandelen: het A1-niveau. Vergelijk steeds met het Fusha: de meeste woorden en patronen hebben een herkenbare tegenhanger."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-presens",
+          "vraag": "'Wij werken' in het Darija is ...",
+          "opties": [
+            "كانخدمو",
+            "خدمنا",
+            "غادي نخدمو"
+          ],
+          "juist": 0,
+          "uitleg": "Tegenwoordige tijd."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-verleden",
+          "vraag": "'Ik at' in het Darija is ...",
+          "opties": [
+            "كليت",
+            "كانكول",
+            "غادي ناكل"
+          ],
+          "juist": 0,
+          "uitleg": "Verleden tijd."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-toekomst",
+          "vraag": "'Ik ga reizen' in het Darija is ...",
+          "opties": [
+            "غادي نسافر",
+            "كانسافر",
+            "سافرت"
+          ],
+          "juist": 0,
+          "uitleg": "Toekomst."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-ontkenning",
+          "vraag": "'Ik weet het niet' in het Darija is ...",
+          "opties": [
+            "ماكانعرفش",
+            "كانعرف",
+            "ماشي عرفت"
+          ],
+          "juist": 0,
+          "uitleg": "ما … ش."
+        }
+      ]
+    },
+    {
+      "titel": "Situaties",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-fusha",
+          "paren": [
+            {
+              "ar": "فين",
+              "nl": "waar",
+              "woord": "j2-p6-d12-w01"
+            },
+            {
+              "ar": "بشحال",
+              "nl": "hoeveel kost het",
+              "woord": "j1-p3-d03-w12"
+            },
+            {
+              "ar": "ديالي",
+              "nl": "van mij",
+              "woord": "j2-p5-d07-w02"
+            },
+            {
+              "ar": "أتاي",
+              "nl": "thee",
+              "woord": "j2-p5-d08-w01"
+            },
+            {
+              "ar": "نيشان",
+              "nl": "rechtdoor",
+              "woord": "j2-p6-d10-w01"
+            },
+            {
+              "ar": "زوين",
+              "nl": "mooi",
+              "woord": "j2-p7-d13-w06"
+            }
+          ],
+          "uitleg": "Woorden uit D01–D17."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-vragen",
+          "tekst": "شحال هادي؟",
+          "vraag": "Wat wordt er gevraagd?",
+          "opties": [
+            "Hoeveel kost dit?",
+            "Waar is dit?",
+            "Wie is dit?"
+          ],
+          "juist": 0,
+          "uitleg": "Op de markt."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-bezit",
+          "zin": "الطوموبيل ___ زوينة.",
+          "nl": "Jouw auto is mooi.",
+          "antwoord": [
+            "ديالك"
+          ],
+          "uitleg": "ديال + ـك.",
+          "woordbank": [
+            "ديالك",
+            "ديالي",
+            "ديالو"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-gebod",
+          "bron": "kom! (Darija)",
+          "antwoorden": [
+            "أجي"
+          ],
+          "uitleg": "{ar|أجي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-vragen",
+          "bron": "علاش ما جيتيش؟",
+          "antwoorden": [
+            "waarom kwam je niet",
+            "waarom ben je niet gekomen"
+          ],
+          "uitleg": "Darija.",
+          "tr": "ʿlāš ma jītīš?"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-presens",
+          "bron": "كانسكن ف الرباط",
+          "antwoorden": [
+            "ik woon in rabat"
+          ],
+          "uitleg": "Darija.",
+          "tr": "kanskən f-ṛṛbāṭ"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|دابا} is in het Fusha ...",
+        "opties": [
+          "الآنَ",
+          "غَدًا",
+          "أَمْسِ"
+        ],
+        "juist": 0,
+        "uitleg": "nu."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|البارح} is in het Fusha ...",
+        "opties": [
+          "أَمْسِ",
+          "اليَوْمَ",
+          "غَدًا"
+        ],
+        "juist": 0,
+        "uitleg": "gisteren."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-gebod",
+        "vraag": "'Ga niet!' in het Darija is ...",
+        "opties": [
+          "ما تمشيش",
+          "سير",
+          "ما مشيتش"
+        ],
+        "juist": 0,
+        "uitleg": "Verbod."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-bezit",
+        "vraag": "'Haar huis' in het Darija is ...",
+        "opties": [
+          "الدار ديالها",
+          "الدار ديالو",
+          "الدار ديالي"
+        ],
+        "juist": 0,
+        "uitleg": "ديال + ـها."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-leenwoorden",
+        "vraag": "{ar|السبيطار} betekent ...",
+        "opties": [
+          "ziekenhuis",
+          "kantoor",
+          "bus"
+        ],
+        "juist": 0,
+        "uitleg": "Spaans *hospital*."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-toekomst",
+        "tekst": "غدا غادي نسافرو",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Morgen gaan we reizen.",
+          "Gisteren reisden we.",
+          "We reizen niet."
+        ],
+        "juist": 0,
+        "uitleg": "Toekomst."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-eten",
+        "tekst": "عطيني أتاي عافاك",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Geef me thee alsjeblieft.",
+          "Ik wil geen thee.",
+          "De thee is heet."
+        ],
+        "juist": 0,
+        "uitleg": "Aan tafel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-weg",
+        "tekst": "دور على ليمن",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Sla rechtsaf.",
+          "Sla linksaf.",
+          "Rij rechtdoor."
+        ],
+        "juist": 0,
+        "uitleg": "De weg."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-vragen",
+        "zin": "___ ساكن؟",
+        "nl": "Waar woon je?",
+        "antwoord": [
+          "فين"
+        ],
+        "uitleg": "{ar|فين}",
+        "woordbank": [
+          "فين",
+          "شكون",
+          "علاش"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-verleden",
+        "zin": "البارح ___ للسوق.",
+        "nl": "Gisteren ging ik naar de markt.",
+        "antwoord": [
+          "مشيت"
+        ],
+        "uitleg": "Verleden tijd.",
+        "woordbank": [
+          "مشيت",
+          "كانمشي",
+          "غادي نمشي"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-gevoel-weer",
+        "zin": "اليوم ___ زوين.",
+        "nl": "Vandaag is het mooi weer.",
+        "antwoord": [
+          "الجو"
+        ],
+        "uitleg": "Het weer.",
+        "woordbank": [
+          "الجو",
+          "الشتا",
+          "البرد"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-presens",
+        "nl": "Ik leer nu Arabisch.",
+        "woorden": [
+          "كانقرا",
+          "العربية",
+          "دابا."
+        ],
+        "uitleg": "Tegenwoordige tijd."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-ontkenning",
+        "bron": "geen probleem (Darija)",
+        "antwoorden": [
+          "ماشي مشكل"
+        ],
+        "uitleg": "{ar|ماشي مشكل}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-telefoon",
+        "bron": "نعاود ليك",
+        "antwoorden": [
+          "ik bel je terug"
+        ],
+        "uitleg": "Darija.",
+        "tr": "nʿāwəd lik"
+      }
+    ]
+  }
+}

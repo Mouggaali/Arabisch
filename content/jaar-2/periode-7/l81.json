@@ -1,0 +1,633 @@
+{
+  "id": "j2-p7-l81",
+  "code": "L81",
+  "type": "les",
+  "titel": "Natuur en milieu",
+  "thema": "Vervuiling, water en energie; de tamyīz",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een tamyīz (specificatie in de accusatief) herkennen en gebruiken.",
+    "كَمْ als vraag (+ accusatief) en als uitroep (+ genitief) onderscheiden.",
+    "over milieuproblemen praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l81-w01",
+      "ar": "بيئَةٌ",
+      "tr": "bīʾa",
+      "nl": [
+        "milieu"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l81-w02",
+      "ar": "تَلَوُّثٌ",
+      "tr": "talawwuṯ",
+      "nl": [
+        "vervuiling"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l81-w03",
+      "ar": "نُفاياتٌ",
+      "tr": "nufāyāt",
+      "nl": [
+        "afval"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p7-l81-w04",
+      "ar": "إِعادَةُ التَّدْويرِ",
+      "tr": "iʿādatu t-tadwīr",
+      "nl": [
+        "recycling"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l81-w05",
+      "ar": "طاقَةٌ شَمْسِيَّةٌ",
+      "tr": "ṭāqatun šamsiyya",
+      "nl": [
+        "zonne-energie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l81-w06",
+      "ar": "ثَرْوَةٌ",
+      "tr": "ṯarwa",
+      "nl": [
+        "rijkdom, bron"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l81-w07",
+      "ar": "حَرارَةُ الأَرْضِ",
+      "tr": "ḥarāratu l-arḍ",
+      "nl": [
+        "opwarming van de aarde"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l81-w08",
+      "ar": "جَفافٌ",
+      "tr": "jafāf",
+      "nl": [
+        "droogte"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l81-w09",
+      "ar": "فَيَضانٌ",
+      "tr": "fayaḍān",
+      "nl": [
+        "overstroming"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l81-w10",
+      "ar": "مِياهٌ",
+      "tr": "miyāh",
+      "nl": [
+        "wateren, water(voorraad)"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p7-l81-w11",
+      "ar": "اِسْتَهْلَكَ",
+      "tr": "istahlaka",
+      "nl": [
+        "verbruiken"
+      ],
+      "soort": "werkwoord (X)",
+      "notitie": "Maṣdar {ar|اِسْتِهْلاكٌ}."
+    },
+    {
+      "id": "j2-p7-l81-w12",
+      "ar": "حافَظَ عَلى",
+      "tr": "ḥāfaẓa ʿalā",
+      "nl": [
+        "beschermen, behouden"
+      ],
+      "soort": "werkwoord (III)"
+    },
+    {
+      "id": "j2-p7-l81-w14",
+      "ar": "طُنٌّ",
+      "tr": "ṭunn",
+      "nl": [
+        "ton"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَطْنانٌ}."
+    },
+    {
+      "id": "j2-p7-l81-w15",
+      "ar": "نَوْعٌ",
+      "tr": "nawʿ",
+      "nl": [
+        "soort"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَنْواعٌ}."
+    },
+    {
+      "id": "j2-p7-l81-w16",
+      "ar": "كائِنٌ حَيٌّ",
+      "tr": "kāʾinun ḥayy",
+      "nl": [
+        "levend wezen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l81-w17",
+      "ar": "نَظيفٌ",
+      "tr": "naẓīf",
+      "nl": [
+        "schoon"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Tamyīz: specificatie in de accusatief",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een **tamyīz** legt uit *waarin* iets geldt. Het staat als onbepaald naamwoord in de **accusatief** na een maat, een getal of een vergelijking: {ar|عِشْرونَ لِتْرًا} (twintig liter), {ar|أَكْثَرُ تَلَوُّثًا} (meer vervuild, letterlijk: meer qua vervuiling), {ar|اِمْتَلَأَ الكَأْسُ ماءً} (het glas raakte vol met water)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Na …",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "getal 11–99",
+              "ثَلاثونَ نَوْعًا",
+              "dertig soorten"
+            ],
+            [
+              "أَفْعَلُ (vergelijking)",
+              "المُدُنُ أَكْثَرُ تَلَوُّثًا",
+              "steden zijn meer vervuild"
+            ],
+            [
+              "كَمْ (vraag)",
+              "كَمْ لِتْرًا؟",
+              "hoeveel liter?"
+            ],
+            [
+              "maat",
+              "كيلو لَحْمًا",
+              "een kilo vlees"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom accusatief? De tamyīz verduidelijkt een woord dat op zichzelf **vaag** is (*hoeveel? meer waarvan?*). Net als de ḥāl en tijdsbepalingen is het een 'extra' bij de zin, en die staan in de accusatief."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كَمْ} als **vraag** + accusatief enkelvoud ({ar|كَمْ طالِبًا؟}); {ar|كَمْ} als **uitroep** (*hoeveel …!*) + genitief ({ar|كَمْ مِنْ مَرَّةٍ قُلْتُ لَكَ!} = hoe vaak heb ik je niet gezegd!)."
+        }
+      ]
+    },
+    {
+      "titel": "Het milieu",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَسْتَهْلِكُ العائِلَةُ مِئَتَيْ لِتْرٍ مِنَ الماءِ يَوْمِيًّا.",
+              "tr": "tastahliku l-ʿāʾilatu miʾatay litrin mina l-māʾi yawmiyyan.",
+              "nl": "Het gezin verbruikt dagelijks tweehonderd liter water."
+            },
+            {
+              "ar": "المُدُنُ الكَبيرَةُ أَكْثَرُ تَلَوُّثًا مِنَ القُرى.",
+              "tr": "al-mudunu l-kabīratu akṯaru talawwuṯan mina l-qurā.",
+              "nl": "Grote steden zijn meer vervuild dan dorpen."
+            },
+            {
+              "ar": "كَمْ طُنًّا مِنَ النُّفاياتِ نُنْتِجُ كُلَّ سَنَةٍ؟",
+              "tr": "kam ṭunnan mina n-nufāyāti nuntiju kulla sana?",
+              "nl": "Hoeveel ton afval produceren we elk jaar?"
+            },
+            {
+              "ar": "يَجِبُ أَنْ نُحافِظَ عَلى البيئَةِ.",
+              "tr": "yajibu an nuḥāfiẓa ʿala l-bīʾa.",
+              "nl": "We moeten het milieu beschermen."
+            },
+            {
+              "ar": "في الغابَةِ أَكْثَرُ مِنْ مِئَةِ نَوْعٍ مِنَ الطُّيورِ.",
+              "tr": "fi l-ġābati akṯaru min miʾati nawʿin mina ṭ-ṭuyūr.",
+              "nl": "In het bos leven meer dan honderd soorten vogels."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بيئَةٌ",
+              "nl": "milieu",
+              "woord": "j2-p7-l81-w01"
+            },
+            {
+              "ar": "تَلَوُّثٌ",
+              "nl": "vervuiling",
+              "woord": "j2-p7-l81-w02"
+            },
+            {
+              "ar": "نُفاياتٌ",
+              "nl": "afval",
+              "woord": "j2-p7-l81-w03"
+            },
+            {
+              "ar": "جَفافٌ",
+              "nl": "droogte",
+              "woord": "j2-p7-l81-w08"
+            },
+            {
+              "ar": "فَيَضانٌ",
+              "nl": "overstroming",
+              "woord": "j2-p7-l81-w09"
+            },
+            {
+              "ar": "نَوْعٌ",
+              "nl": "soort",
+              "woord": "j2-p7-l81-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "tamyiz",
+          "tekst": "كَمْ لِتْرًا تَشْرَبُ في اليَوْمِ؟",
+          "vraag": "Wat wordt er gevraagd?",
+          "opties": [
+            "Hoeveel liter drink je per dag?",
+            "Hoeveel water is er?",
+            "Wanneer drink je?"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كَمْ} + accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Tamyīz",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "tamyiz",
+          "zin": "كَمْ ___ في الصَّفِّ؟",
+          "nl": "Hoeveel studenten zijn er in de klas?",
+          "antwoord": [
+            "طالِبًا"
+          ],
+          "uitleg": "{ar|كَمْ} (vraag) + accusatief enkelvoud.",
+          "woordbank": [
+            "طالِبًا",
+            "طُلّابٍ",
+            "طالِبٌ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "tamyiz",
+          "zin": "هٰذِهِ المَدينَةُ أَكْثَرُ ___.",
+          "nl": "Deze stad is schoner (meer qua netheid).",
+          "antwoord": [
+            "نَظافَةً"
+          ],
+          "uitleg": "{ar|أَكْثَرُ} + tamyīz.",
+          "woordbank": [
+            "نَظافَةً",
+            "نَظيفَةٌ",
+            "نَظافَةٍ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tamyiz",
+          "vraag": "Welke naamval heeft een tamyīz?",
+          "opties": [
+            "manṣūb",
+            "marfūʿ",
+            "majrūr"
+          ],
+          "juist": 0,
+          "uitleg": "Accusatief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tamyiz",
+          "vraag": "Wat betekent {ar|كَمْ مِنْ مَرَّةٍ!}?",
+          "opties": [
+            "Hoe vaak al!",
+            "Hoe vaak?",
+            "Eén keer."
+          ],
+          "juist": 0,
+          "uitleg": "Uitroep + genitief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "tamyiz",
+          "instructie": "Zet het woord als tamyīz.",
+          "rijen": [
+            {
+              "label": "عِشْرونَ ___ (لِتْرٌ)",
+              "antwoord": "لِتْرًا",
+              "tr": "litran"
+            },
+            {
+              "label": "أَكْثَرُ ___ (جَمالٌ)",
+              "antwoord": "جَمالًا",
+              "tr": "jamālan"
+            }
+          ],
+          "uitleg": "Accusatief, onbepaald."
+        }
+      ]
+    },
+    {
+      "titel": "Het milieu",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "tamyiz",
+          "nl": "Grote steden zijn meer vervuild dan dorpen.",
+          "woorden": [
+            "المُدُنُ",
+            "الكَبيرَةُ",
+            "أَكْثَرُ",
+            "تَلَوُّثًا",
+            "مِنَ",
+            "القُرى."
+          ],
+          "uitleg": "Tamyīz na أَكْثَرُ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het milieu",
+          "antwoorden": [
+            "البيئَةُ"
+          ],
+          "uitleg": "{ar|البيئَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "tamyiz",
+          "bron": "في الغابَةِ أَكْثَرُ مِنْ مِئَةِ نَوْعٍ مِنَ الطُّيورِ.",
+          "antwoorden": [
+            "in het bos leven meer dan honderd soorten vogels",
+            "in het bos zijn meer dan honderd soorten vogels",
+            "er zijn meer dan honderd vogelsoorten in het bos"
+          ],
+          "uitleg": "{ar|مِئَةُ نَوْعٍ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِعادَةُ التَّدْويرِ",
+            "nl": "recycling"
+          },
+          {
+            "ar": "طاقَةٌ شَمْسِيَّةٌ",
+            "nl": "zonne-energie"
+          },
+          {
+            "ar": "اِسْتَهْلَكَ",
+            "nl": "verbruiken"
+          },
+          {
+            "ar": "حافَظَ عَلى",
+            "nl": "beschermen"
+          },
+          {
+            "ar": "كائِنٌ حَيٌّ",
+            "nl": "levend wezen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Hoeveel boeken?' is ...",
+        "opties": [
+          "كَمْ كِتابًا؟",
+          "كَمْ كُتُبٍ؟",
+          "كَمْ الكُتُبُ؟"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كَمْ} + accusatief enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Meer gebruikt' (qua gebruik) is ...",
+        "opties": [
+          "أَكْثَرُ اِسْتِعْمالًا",
+          "أَكْثَرُ اِسْتِعْمالٌ",
+          "أَكْثَرُ اِسْتِعْمالٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Tamyīz in de accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "Wat is een tamyīz?",
+        "opties": [
+          "een woord dat uitlegt waarin iets geldt",
+          "een tijdsbepaling",
+          "een voorzetsel"
+        ],
+        "juist": 0,
+        "uitleg": "Specificatie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Dertig soorten' is ...",
+        "opties": [
+          "ثَلاثونَ نَوْعًا",
+          "ثَلاثونَ أَنْواعٍ",
+          "ثَلاثونَ نَوْعٍ"
+        ],
+        "juist": 0,
+        "uitleg": "11–99 + accusatief enkelvoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "يُسَبِّبُ التَّلَوُّثُ أَمْراضًا كَثيرَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Vervuiling veroorzaakt veel ziektes.",
+          "Vervuiling is verdwenen.",
+          "Ziektes veroorzaken vervuiling."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُسَبِّبُ} = veroorzaakt."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tamyiz",
+        "tekst": "اِسْتَهْلَكْنا مِئَةَ لِتْرٍ",
+        "vraag": "Hoeveel verbruikten ze?",
+        "opties": [
+          "honderd liter",
+          "tien liter",
+          "duizend liter"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِئَةَ لِتْرٍ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "tamyiz",
+        "zin": "كَمْ ___ تَعْمَلُ في الأُسْبوعِ؟",
+        "nl": "Hoeveel uur werk je per week?",
+        "antwoord": [
+          "ساعَةً"
+        ],
+        "uitleg": "{ar|كَمْ} + accusatief.",
+        "woordbank": [
+          "ساعَةً",
+          "ساعاتٍ",
+          "ساعَةٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "tamyiz",
+        "zin": "الصَّيْفُ هُنا أَشَدُّ ___.",
+        "nl": "De zomer is hier heter (sterker qua hitte).",
+        "antwoord": [
+          "حَرارَةً"
+        ],
+        "uitleg": "Tamyīz.",
+        "woordbank": [
+          "حَرارَةً",
+          "حارٌّ",
+          "حَرارَةٍ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يَجِبُ أَنْ نُقَلِّلَ ___ البِلاسْتيكِ.",
+        "nl": "We moeten het plasticverbruik verminderen.",
+        "antwoord": [
+          "اِسْتِهْلاكَ"
+        ],
+        "uitleg": "Maṣdar vorm X.",
+        "woordbank": [
+          "اِسْتِهْلاكَ",
+          "تَلَوُّثَ",
+          "جَفافَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "tamyiz",
+        "instructie": "Zet als tamyīz.",
+        "rijen": [
+          {
+            "label": "خَمْسونَ ___ (طُنٌّ)",
+            "antwoord": "طُنًّا",
+            "tr": "ṭunnan"
+          },
+          {
+            "label": "أَكْثَرُ ___ (سُكّانٌ)",
+            "antwoord": "سُكّانًا",
+            "tr": "sukkānan"
+          }
+        ],
+        "uitleg": "Accusatief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "tamyiz",
+        "nl": "Hoeveel ton afval produceren we elk jaar?",
+        "woorden": [
+          "كَمْ",
+          "طُنًّا",
+          "مِنَ",
+          "النُّفاياتِ",
+          "نُنْتِجُ",
+          "كُلَّ",
+          "سَنَةٍ؟"
+        ],
+        "uitleg": "{ar|كَمْ} + tamyīz."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de vervuiling",
+        "antwoorden": [
+          "التَّلَوُّثُ"
+        ],
+        "uitleg": "{ar|التَّلَوُّثُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "يَجِبُ أَنْ نُحافِظَ عَلى البيئَةِ.",
+        "antwoorden": [
+          "we moeten het milieu beschermen",
+          "wij moeten het milieu beschermen"
+        ],
+        "uitleg": "{ar|حافَظَ عَلى}"
+      }
+    ]
+  }
+}

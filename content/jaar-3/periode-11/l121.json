@@ -1,0 +1,623 @@
+{
+  "id": "j3-p11-l121",
+  "code": "L121",
+  "type": "les",
+  "titel": "Woordvorming",
+  "thema": "Plaats, werktuig en verkleinwoord: woorden afleiden uit wortels",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "plaatsnamen (مَفْعَل)، werktuigen (مِفْعال) en verkleinwoorden (فُعَيْل) herkennen.",
+    "de betekenis van een onbekend woord afleiden uit wortel en patroon.",
+    "zelf zulke woorden vormen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l121-w01",
+      "ar": "مِنْشارٌ",
+      "tr": "minšār",
+      "nl": [
+        "zaag"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعال)"
+    },
+    {
+      "id": "j3-p11-l121-w02",
+      "ar": "ميزانٌ",
+      "tr": "mīzān",
+      "nl": [
+        "weegschaal"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعال)",
+      "notitie": "Van و-ز-ن: {ar|مِوْزان} → {ar|ميزان}."
+    },
+    {
+      "id": "j3-p11-l121-w03",
+      "ar": "مِقَصٌّ",
+      "tr": "miqaṣṣ",
+      "nl": [
+        "schaar"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعَل)"
+    },
+    {
+      "id": "j3-p11-l121-w04",
+      "ar": "مِرْوَحَةٌ",
+      "tr": "mirwaḥa",
+      "nl": [
+        "ventilator, waaier"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعَلَة)"
+    },
+    {
+      "id": "j3-p11-l121-w05",
+      "ar": "مِكْواةٌ",
+      "tr": "mikwāh",
+      "nl": [
+        "strijkijzer"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعَلَة)"
+    },
+    {
+      "id": "j3-p11-l121-w06",
+      "ar": "مِغْرَفَةٌ",
+      "tr": "miġrafa",
+      "nl": [
+        "pollepel"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعَلَة)"
+    },
+    {
+      "id": "j3-p11-l121-w07",
+      "ar": "مِحْراثٌ",
+      "tr": "miḥrāṯ",
+      "nl": [
+        "ploeg"
+      ],
+      "soort": "zelfstandig naamwoord (مِفْعال)"
+    },
+    {
+      "id": "j3-p11-l121-w08",
+      "ar": "مَخْزَنٌ",
+      "tr": "maḫzan",
+      "nl": [
+        "opslagplaats, magazijn"
+      ],
+      "soort": "zelfstandig naamwoord (مَفْعَل)"
+    },
+    {
+      "id": "j3-p11-l121-w09",
+      "ar": "مَرْسًى",
+      "tr": "marsan",
+      "nl": [
+        "haven, ankerplaats"
+      ],
+      "soort": "zelfstandig naamwoord (مَفْعَل)",
+      "notitie": "Met ال: {ar|المَرْسى}."
+    },
+    {
+      "id": "j3-p11-l121-w10",
+      "ar": "مَشْغَلٌ",
+      "tr": "mašġal",
+      "nl": [
+        "werkplaats, atelier"
+      ],
+      "soort": "zelfstandig naamwoord (مَفْعَل)"
+    },
+    {
+      "id": "j3-p11-l121-w11",
+      "ar": "كُتَيِّبٌ",
+      "tr": "kutayyib",
+      "nl": [
+        "boekje, brochure"
+      ],
+      "soort": "verkleinwoord"
+    },
+    {
+      "id": "j3-p11-l121-w12",
+      "ar": "جُبَيْلٌ",
+      "tr": "jubayl",
+      "nl": [
+        "heuveltje"
+      ],
+      "soort": "verkleinwoord"
+    },
+    {
+      "id": "j3-p11-l121-w13",
+      "ar": "نُهَيْرٌ",
+      "tr": "nuhayr",
+      "nl": [
+        "riviertje, beek"
+      ],
+      "soort": "verkleinwoord"
+    },
+    {
+      "id": "j3-p11-l121-w14",
+      "ar": "شُجَيْرَةٌ",
+      "tr": "šujayra",
+      "nl": [
+        "struik"
+      ],
+      "soort": "verkleinwoord"
+    },
+    {
+      "id": "j3-p11-l121-w15",
+      "ar": "يا بُنَيَّ",
+      "tr": "yā bunayya",
+      "nl": [
+        "mijn jongen, zoontje"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Drie woordvormingspatronen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Patroon",
+            "Betekenis",
+            "Voorbeelden"
+          ],
+          "rijen": [
+            [
+              "مَفْعَل / مَفْعِل / مَفْعَلَة",
+              "plaats waar iets gebeurt",
+              "مَلْعَبٌ، مَجْلِسٌ، مَدْرَسَةٌ، مَخْزَنٌ"
+            ],
+            [
+              "مِفْعال / مِفْعَل / مِفْعَلَة",
+              "werktuig waarmee iets gebeurt",
+              "مِفْتاحٌ، مِقَصٌّ، مِكْنَسَةٌ، مِنْشارٌ"
+            ],
+            [
+              "فُعَيْل (فُعَيِّل)",
+              "verkleinwoord",
+              "جُبَيْلٌ، نُهَيْرٌ، كُتَيِّبٌ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Ook hier is het Arabisch **voorspelbaar**: ken je de wortel en het patroon, dan raad je de betekenis. {ar|ل-ع-ب} (spelen) + {ar|مَفْعَل} = {ar|مَلْعَبٌ} (speelplaats, stadion); {ar|ف-ت-ح} (openen) + {ar|مِفْعال} = {ar|مِفْتاحٌ} (opener: sleutel). Let op het verschil tussen **ma-** (plaats) en **mi-** (werktuig)."
+        },
+        {
+          "type": "letop",
+          "md": "Plaatsnamen krijgen meestal **-a-** ({ar|مَفْعَل}), maar **-i-** ({ar|مَفْعِل}) als de muḍāriʿ een i heeft: {ar|يَجْلِسُ → مَجْلِسٌ}، {ar|يَنْزِلُ → مَنْزِلٌ}، {ar|يَقِفُ → مَوْقِفٌ}. Uitzonderingen zoals {ar|مَسْجِدٌ} (van {ar|يَسْجُدُ}) leer je los."
+        }
+      ]
+    },
+    {
+      "titel": "Verkleinwoorden en een leenwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Het verkleinwoord {ar|فُعَيْل} geeft *klein* of ook *lief*: {ar|يا بُنَيَّ} = mijn jongen. Veel namen zijn eigenlijk verkleinwoorden: {ar|حُسَيْنٌ} (kleine {ar|حَسَن}), {ar|زُهَيْرٌ} (bloempje)."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|مَخْزَنٌ} is via het Spaans ({tr|almacén}) en het Frans ({tr|magasin}) in het Nederlands terechtgekomen als **magazijn**. In Marokko betekent {ar|المَخْزَنُ} ook *de staat, het gezag*."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِشْتَرَيْتُ مِنْشارًا وَمِقَصًّا مِنَ المَتْجَرِ.",
+              "tr": "ištaraytu minšāran wa-miqaṣṣan mina l-matjar.",
+              "nl": "Ik heb een zaag en een schaar in de winkel gekocht."
+            },
+            {
+              "ar": "وَضَعَ التّاجِرُ البَضائِعَ في المَخْزَنِ.",
+              "tr": "waḍaʿa t-tājiru l-baḍāʾiʿa fi l-maḫzan.",
+              "nl": "De handelaar zette de goederen in het magazijn."
+            },
+            {
+              "ar": "تَقْرَأُ الطِّفْلَةُ كُتَيِّبًا عَنِ الحَيَواناتِ.",
+              "tr": "taqraʾu ṭ-ṭiflatu kutayyiban ʿani l-ḥayawānāt.",
+              "nl": "Het meisje leest een boekje over dieren."
+            },
+            {
+              "ar": "وَراءَ القَرْيَةِ جُبَيْلٌ وَنُهَيْرٌ.",
+              "tr": "warāʾa l-qaryati jubaylun wa-nuhayr.",
+              "nl": "Achter het dorp liggen een heuveltje en een beekje."
+            },
+            {
+              "ar": "قالَ الأَبُ: يا بُنَيَّ، لا تَتَأَخَّرْ.",
+              "tr": "qāla l-ab: yā bunayya, lā tataʾaḫḫar.",
+              "nl": "De vader zei: 'Jongen, kom niet te laat.'"
+            },
+            {
+              "ar": "رَسَتِ السَّفينَةُ في المَرْسى.",
+              "tr": "rasati s-safīnatu fi l-marsā.",
+              "nl": "Het schip ging voor anker in de haven."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مِنْشارٌ",
+              "nl": "zaag",
+              "woord": "j3-p11-l121-w01"
+            },
+            {
+              "ar": "ميزانٌ",
+              "nl": "weegschaal",
+              "woord": "j3-p11-l121-w02"
+            },
+            {
+              "ar": "مِقَصٌّ",
+              "nl": "schaar",
+              "woord": "j3-p11-l121-w03"
+            },
+            {
+              "ar": "مِكْواةٌ",
+              "nl": "strijkijzer",
+              "woord": "j3-p11-l121-w05"
+            },
+            {
+              "ar": "مَخْزَنٌ",
+              "nl": "magazijn",
+              "woord": "j3-p11-l121-w08"
+            },
+            {
+              "ar": "شُجَيْرَةٌ",
+              "nl": "struik",
+              "woord": "j3-p11-l121-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordvorming",
+          "tekst": "أَيْنَ المِقَصُّ؟",
+          "vraag": "Wat zoekt de spreker?",
+          "opties": [
+            "de schaar",
+            "de sleutel",
+            "de weegschaal"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مِقَصٌّ}"
+        }
+      ]
+    },
+    {
+      "titel": "Patronen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "woordvorming",
+          "vraag": "Welk patroon geeft een **werktuig**?",
+          "opties": [
+            "مِفْعال",
+            "مَفْعَل",
+            "فُعَيْل"
+          ],
+          "juist": 0,
+          "uitleg": "mi-."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "woordvorming",
+          "vraag": "Wat betekent {ar|مَطْبَخٌ} (van ط-ب-خ, koken)?",
+          "opties": [
+            "keuken",
+            "kok",
+            "kookgerei"
+          ],
+          "juist": 0,
+          "uitleg": "Plaats: {ar|مَفْعَل}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "woordvorming",
+          "vraag": "Waarom {ar|مَجْلِسٌ} met -i- en niet {ar|مَجْلَسٌ}?",
+          "opties": [
+            "de muḍāriʿ is يَجْلِسُ (met i)",
+            "het is een werktuig",
+            "het is een verkleinwoord"
+          ],
+          "juist": 0,
+          "uitleg": "Plaats met i."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "woordvorming",
+          "instructie": "Vorm het woord.",
+          "rijen": [
+            {
+              "label": "ل-ع-ب: plaats",
+              "antwoord": "مَلْعَب",
+              "tr": "malʿab"
+            },
+            {
+              "label": "ف-ت-ح: werktuig",
+              "antwoord": "مِفْتاح",
+              "tr": "miftāḥ"
+            },
+            {
+              "label": "نَهْرٌ: verkleinwoord",
+              "antwoord": "نُهَيْر",
+              "tr": "nuhayr"
+            }
+          ],
+          "uitleg": "Patronen."
+        },
+        {
+          "type": "invullen",
+          "tag": "woordvorming",
+          "zin": "يَعْمَلُ النَّجّارُ في ___ـهِ.",
+          "nl": "De timmerman werkt in zijn werkplaats.",
+          "antwoord": [
+            "مَشْغَلِ"
+          ],
+          "uitleg": "Plaats.",
+          "woordbank": [
+            "مَشْغَلِ",
+            "مِنْشارِ",
+            "مَرْسى"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "woordvorming",
+          "nl": "Het meisje leest een boekje over dieren.",
+          "woorden": [
+            "تَقْرَأُ",
+            "الطِّفْلَةُ",
+            "كُتَيِّبًا",
+            "عَنِ",
+            "الحَيَواناتِ."
+          ],
+          "uitleg": "Verkleinwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordvorming",
+          "bron": "de weegschaal",
+          "antwoorden": [
+            "الميزانُ",
+            "الميزان"
+          ],
+          "uitleg": "{ar|الميزانُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordvorming",
+          "bron": "وَضَعَ التّاجِرُ البَضائِعَ في المَخْزَنِ.",
+          "antwoorden": [
+            "de handelaar zette de goederen in het magazijn",
+            "de koopman legde de waren in de opslag"
+          ],
+          "uitleg": "{ar|مَخْزَنٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مِرْوَحَةٌ",
+            "nl": "ventilator"
+          },
+          {
+            "ar": "مِغْرَفَةٌ",
+            "nl": "pollepel"
+          },
+          {
+            "ar": "مِحْراثٌ",
+            "nl": "ploeg"
+          },
+          {
+            "ar": "مَرْسًى",
+            "nl": "haven"
+          },
+          {
+            "ar": "جُبَيْلٌ",
+            "nl": "heuveltje"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "{ar|مَفْعَل} duidt meestal op ...",
+        "opties": [
+          "een plaats",
+          "een werktuig",
+          "een verkleinwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Plaats."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "{ar|فُعَيْل} duidt op ...",
+        "opties": [
+          "een verkleinwoord",
+          "een plaats",
+          "een beroep"
+        ],
+        "juist": 0,
+        "uitleg": "Klein."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Welk woord is een **werktuig**?",
+        "opties": [
+          "مِكْنَسَةٌ",
+          "مَكْتَبَةٌ",
+          "مَكْتَبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "mi-."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Waar komt het Nederlandse *magazijn* vandaan?",
+        "opties": [
+          "مَخْزَنٌ",
+          "مَجْلِسٌ",
+          "مِيزانٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Via Spaans en Frans."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordvorming",
+        "tekst": "يا بُنَيَّ، اِسْمَعْ كَلامي",
+        "vraag": "Tegen wie praat de spreker?",
+        "opties": [
+          "tegen zijn zoontje",
+          "tegen zijn baas",
+          "tegen een vreemde"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بُنَيَّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordvorming",
+        "tekst": "رَسَتِ السَّفينَةُ في المَرْسى",
+        "vraag": "Waar is het schip?",
+        "opties": [
+          "in de haven",
+          "op zee",
+          "in de werkplaats"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَرْسًى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "woordvorming",
+        "zin": "قَصَّتِ الخَيّاطَةُ القُماشَ بِـ___.",
+        "nl": "De naaister knipte de stof met een schaar.",
+        "antwoord": [
+          "المِقَصِّ"
+        ],
+        "uitleg": "Werktuig.",
+        "woordbank": [
+          "المِقَصِّ",
+          "المَقَصِّ",
+          "المِيزانِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordvorming",
+        "zin": "اِشْتَرَيْتُ الخُبْزَ مِنَ ___.",
+        "nl": "Ik kocht het brood in de winkel.",
+        "antwoord": [
+          "المَتْجَرِ"
+        ],
+        "uitleg": "Plaats.",
+        "woordbank": [
+          "المَتْجَرِ",
+          "المِنْشارِ",
+          "المِحْراثِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordvorming",
+        "zin": "في الحَديقَةِ ___ صَغيرَةٌ.",
+        "nl": "In de tuin staat een kleine struik.",
+        "antwoord": [
+          "شُجَيْرَةٌ"
+        ],
+        "uitleg": "Verkleinwoord.",
+        "woordbank": [
+          "شُجَيْرَةٌ",
+          "شَجَرَةٌ",
+          "مَشْجَرَةٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "woordvorming",
+        "instructie": "Vorm het woord.",
+        "rijen": [
+          {
+            "label": "ك-ن-س (vegen): werktuig",
+            "antwoord": "مِكْنَسَة",
+            "tr": "miknasa"
+          },
+          {
+            "label": "جَبَلٌ: verkleinwoord",
+            "antwoord": "جُبَيْل",
+            "tr": "jubayl"
+          }
+        ],
+        "uitleg": "Patronen."
+      },
+      {
+        "type": "ordenen",
+        "tag": "woordvorming",
+        "nl": "Ik kocht een zaag en een schaar.",
+        "woorden": [
+          "اِشْتَرَيْتُ",
+          "مِنْشارًا",
+          "وَمِقَصًّا."
+        ],
+        "uitleg": "Werktuigen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordvorming",
+        "bron": "de sleutel",
+        "antwoorden": [
+          "المِفْتاحُ",
+          "المفتاح"
+        ],
+        "uitleg": "{ar|المِفْتاحُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordvorming",
+        "bron": "وَراءَ القَرْيَةِ نُهَيْرٌ.",
+        "antwoorden": [
+          "achter het dorp is een beekje",
+          "achter het dorp stroomt een riviertje",
+          "achter het dorp ligt een beekje"
+        ],
+        "uitleg": "Verkleinwoord."
+      }
+    ]
+  }
+}

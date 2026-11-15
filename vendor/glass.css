@@ -1,0 +1,192 @@
+/* ============================================================================
+   glass.css: Apple liquid glass bovenop scrollcraft.css
+   ----------------------------------------------------------------------------
+   Laad na scrollcraft.css. Thema = de tokens hieronder (plus de zes --sc-*-kleuren).
+   Bouwstenen: .glass (het materiaal), .world/.orb (het licht erachter), .bar (zwevende
+   capsules), .tabs, .segment, .panel, .field. [data-sc-*] wordt nergens herstyled.
+   ========================================================================== */
+
+:root {
+  /* scroll-craft-rollen: donker is de standaard, glas heeft licht achter zich nodig */
+  --sc-canvas: #070b14;
+  --sc-surface: #0e1524;
+  --sc-ink: #f2f5fb;
+  --sc-ink-soft: #a6b1c6;
+  --sc-accent: #f0c46a;
+  --sc-accent-ink: #1a1306;
+  --sc-font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Geist", system-ui, sans-serif;
+  --sc-font-text: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Geist", system-ui, sans-serif;
+  --sc-font-mono: "SF Mono", "Geist Mono", ui-monospace, monospace;
+  --sc-shadow-color: 224 60% 3%;
+  --sc-gutter: clamp(1rem, 4vw, 3.5rem);
+
+  /* glas */
+  --glass-fill: linear-gradient(180deg, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.045));
+  --glass-flat: rgba(18, 26, 44, 0.86);          /* zonder backdrop-filter */
+  --glass-rim: rgba(255, 255, 255, 0.16);
+  --glass-spec: rgba(255, 255, 255, 0.6);        /* glinster linksboven */
+  --glass-spec-low: rgba(255, 255, 255, 0.22);   /* glinster rechtsonder */
+  --glass-lip: inset 0 1px 0 rgba(255, 255, 255, 0.28), inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+  --glass-blur: blur(26px) saturate(175%);
+  --glass-shadow: 0 2px 6px hsl(var(--sc-shadow-color) / 0.25), 0 22px 48px -16px hsl(var(--sc-shadow-color) / 0.6);
+  --hover: rgba(255, 255, 255, 0.07);
+  --pressed: rgba(255, 255, 255, 0.16);
+  --track: rgba(222, 232, 255, 0.12);
+  --line: rgba(222, 232, 255, 0.14);
+
+  /* de wereld */
+  --orb-opacity: 0.62;
+  --wall: radial-gradient(120% 80% at 50% -10%, #142040 0%, transparent 60%),
+          radial-gradient(90% 70% at 100% 100%, #1b1530 0%, transparent 60%),
+          #070b14;
+
+  /* één radiusschaal: panelen 28, binnenvlakken 16, knoppen pil */
+  --r-panel: 28px;
+  --r-inner: 16px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --sc-canvas: #e7ecf5; --sc-surface: #f5f7fb; --sc-ink: #0c1324; --sc-ink-soft: #4b5873;
+    --sc-accent: #9a6b0c; --sc-accent-ink: #ffffff; --sc-shadow-color: 222 40% 40%;
+    --glass-fill: linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.42));
+    --glass-flat: rgba(250, 251, 254, 0.92); --glass-rim: rgba(255, 255, 255, 0.75);
+    --glass-spec: rgba(255, 255, 255, 1); --glass-spec-low: rgba(255, 255, 255, 0.5);
+    --glass-lip: inset 0 1px 0 rgba(255, 255, 255, 0.95), inset 0 -1px 0 rgba(20, 34, 64, 0.05);
+    --glass-shadow: 0 2px 6px hsl(var(--sc-shadow-color) / 0.10), 0 22px 48px -18px hsl(var(--sc-shadow-color) / 0.30);
+    --hover: rgba(20, 34, 64, 0.05); --pressed: rgba(20, 34, 64, 0.09);
+    --track: rgba(20, 34, 64, 0.1); --line: rgba(20, 34, 64, 0.12);
+    --orb-opacity: 0.5;
+    --wall: radial-gradient(120% 80% at 50% -10%, #ffffff 0%, transparent 60%),
+            radial-gradient(90% 70% at 100% 100%, #dfe2f5 0%, transparent 60%), #e7ecf5;
+  }
+}
+:root[data-theme="light"] {
+  --sc-canvas: #e7ecf5; --sc-surface: #f5f7fb; --sc-ink: #0c1324; --sc-ink-soft: #4b5873;
+  --sc-accent: #9a6b0c; --sc-accent-ink: #ffffff; --sc-shadow-color: 222 40% 40%;
+  --glass-fill: linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.42));
+  --glass-flat: rgba(250, 251, 254, 0.92); --glass-rim: rgba(255, 255, 255, 0.75);
+  --glass-spec: rgba(255, 255, 255, 1); --glass-spec-low: rgba(255, 255, 255, 0.5);
+  --glass-lip: inset 0 1px 0 rgba(255, 255, 255, 0.95), inset 0 -1px 0 rgba(20, 34, 64, 0.05);
+  --glass-shadow: 0 2px 6px hsl(var(--sc-shadow-color) / 0.10), 0 22px 48px -18px hsl(var(--sc-shadow-color) / 0.30);
+  --hover: rgba(20, 34, 64, 0.05); --pressed: rgba(20, 34, 64, 0.09);
+  --track: rgba(20, 34, 64, 0.1); --line: rgba(20, 34, 64, 0.12);
+  --orb-opacity: 0.5;
+  --wall: radial-gradient(120% 80% at 50% -10%, #ffffff 0%, transparent 60%),
+          radial-gradient(90% 70% at 100% 100%, #dfe2f5 0%, transparent 60%), #e7ecf5;
+}
+
+body { background: var(--sc-canvas); }
+
+/* ------------------------------------------------------------ materiaal --
+   Vier lagen: wazige achtergrond, zachte vulling, een lip van licht aan de bovenrand
+   (box-shadow inset) en een specular rand (::before met mask) die linksboven oplicht. */
+.glass {
+  position: relative;
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-rim);
+  box-shadow: var(--glass-lip), var(--glass-shadow);
+  border-radius: var(--r-panel);
+}
+.glass::before {
+  content: ""; position: absolute; inset: -1px; border-radius: inherit; padding: 1px; pointer-events: none;
+  background: linear-gradient(135deg, var(--glass-spec) 0%, transparent 32%, transparent 68%, var(--glass-spec-low) 100%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+}
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .glass { background: var(--glass-flat); }
+}
+/* Een glazen ring (decoratief voorvlak). Masker op het element zelf is veilig. */
+.glass--ring {
+  border-radius: 50%; aspect-ratio: 1;
+  -webkit-mask: radial-gradient(circle, transparent 54%, #000 55%);
+  mask: radial-gradient(circle, transparent 54%, #000 55%);
+}
+.glass--lens { border-radius: 50%; aspect-ratio: 1; display: grid; place-content: center; justify-items: center; padding: 6%; }
+.panel { padding: clamp(16px, 2.2vw, 28px); }
+
+/* ---------------------------------------------------------- de wereld --
+   Vaste laag achter alles. glass.js vult hem met lichten (.orb). */
+.world { position: fixed; inset: 0; z-index: 0; overflow: hidden; background: var(--wall); pointer-events: none; }
+.orb {
+  position: absolute; left: 0; top: 0;
+  width: var(--s); height: var(--s); margin: calc(var(--s) / -2) 0 0 calc(var(--s) / -2);
+  opacity: var(--orb-opacity);
+  transition: transform 1100ms var(--sc-ease-out), opacity 420ms var(--sc-ease-out);
+  will-change: transform;
+}
+.orb > i {
+  position: absolute; inset: 0; border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in oklab, var(--c) 80%, transparent) 0%, color-mix(in oklab, var(--c) 34%, transparent) 34%, transparent 70%);
+  animation: sg-float var(--d, 18s) ease-in-out infinite alternate;
+}
+.orb.is-lit { opacity: 1; }
+.orb--ambient { opacity: calc(var(--orb-opacity) * 0.8); }
+@keyframes sg-float {
+  from { transform: translate3d(-3%, -2%, 0) scale(1); }
+  to   { transform: translate3d(3%, 3%, 0) scale(1.08); }
+}
+main { position: relative; z-index: 1; }
+
+/* ------------------------------------------------------------ chrome --
+   .bar is zelf GEEN glas: backdrop-filter maakt een element de containing block voor
+   position: fixed, dan kan de tabbalk op de telefoon niet naar onderen. De kinderen zijn glas. */
+.bar {
+  position: fixed; z-index: var(--sc-z-chrome);
+  top: calc(10px + env(safe-area-inset-top)); left: var(--sc-gutter); right: var(--sc-gutter);
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  pointer-events: none;
+}
+.bar > * { pointer-events: auto; border-radius: 999px; }
+.bar .brand { padding: 11px 18px; font-weight: 650; letter-spacing: -0.01em; text-decoration: none; color: var(--sc-ink); }
+
+.tabs, .segment { display: flex; gap: 2px; padding: 4px; border-radius: 999px; }
+.tabs a, .segment button {
+  appearance: none; border: 0; background: transparent; cursor: pointer;
+  padding: 8px 14px; border-radius: 999px; text-decoration: none; color: var(--sc-ink-soft);
+  font: inherit; font-size: 0.92rem; font-weight: 550; white-space: nowrap;
+  transition: background-color 160ms var(--sc-ease-out), color 160ms var(--sc-ease-out), transform 120ms var(--sc-ease-out);
+}
+.tabs a:active, .segment button:active { transform: scale(0.97); }
+.tabs a[aria-current="true"], .segment button[aria-selected="true"] { color: var(--sc-ink); background: var(--pressed); box-shadow: var(--glass-lip); }
+@media (hover: hover) and (pointer: fine) {
+  .tabs a:hover, .segment button:hover { color: var(--sc-ink); background: var(--hover); }
+}
+.segment { display: inline-flex; max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+
+/* Invoerveld: ingelaten in het glas, geen glas op glas. */
+.field {
+  display: flex; align-items: center; gap: 10px; padding: 0 16px; border-radius: 999px;
+  background: var(--track); box-shadow: inset 0 1px 2px hsl(var(--sc-shadow-color) / 0.25);
+}
+.field:focus-within { box-shadow: inset 0 1px 2px hsl(var(--sc-shadow-color) / 0.25), 0 0 0 2px var(--sc-accent); }
+.field input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 13px 0; font-size: 1rem; color: var(--sc-ink); outline: none; }
+
+/* Rijen en lijsten in een paneel: haarlijnen als inset-schaduw, geen randen. */
+.rows > * + * { box-shadow: inset 0 1px 0 var(--line); }
+.row-hit { border-radius: var(--r-inner); transition: background-color 160ms var(--sc-ease-out); }
+.row-hit.is-lit, .row-hit[aria-expanded="true"] { background: var(--hover); box-shadow: var(--glass-lip); }
+
+/* Ankers landen onder de zwevende balk. */
+main section[id] { scroll-margin-top: calc(76px + env(safe-area-inset-top)); }
+
+/* ---------------------------------------------------------- telefoon -- */
+@media (max-width: 860px) {
+  .bar { left: 10px; right: 10px; }
+  /* Tabbalk onderaan, zoals op iOS. */
+  .bar .tabs {
+    position: fixed; left: 10px; right: 10px; bottom: calc(10px + env(safe-area-inset-bottom));
+    justify-content: space-between;
+  }
+  .bar .tabs a { flex: 1; text-align: center; padding: 10px 4px; font-size: 0.8rem; }
+  main { padding-bottom: calc(80px + env(safe-area-inset-bottom)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .orb > i { animation: none; }
+  .orb { transition: opacity 220ms linear; }
+}

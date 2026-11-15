@@ -1,0 +1,628 @@
+{
+  "id": "j2-p7-d15",
+  "code": "D15",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: gebiedende wijs",
+  "thema": "Opdrachten en verboden in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de gebiedende wijs in het Darija gebruiken (man, vrouw, groep).",
+    "een verbod maken met ما … ش.",
+    "de parallel met het Fusha zien."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-d15-w01",
+      "ar": "أجي",
+      "tr": "aji",
+      "nl": [
+        "kom!"
+      ],
+      "soort": "gebiedende wijs",
+      "notitie": "Vrouw: {ar|أجي}; groep: {ar|أجيو}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w02",
+      "ar": "سير",
+      "tr": "sīr",
+      "nl": [
+        "ga!"
+      ],
+      "soort": "gebiedende wijs",
+      "notitie": "Vrouw: {ar|سيري}; groep: {ar|سيرو}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w03",
+      "ar": "جيب",
+      "tr": "jīb",
+      "nl": [
+        "breng!"
+      ],
+      "soort": "gebiedende wijs",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w04",
+      "ar": "كلس",
+      "tr": "gləs",
+      "nl": [
+        "ga zitten!"
+      ],
+      "soort": "gebiedende wijs",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      },
+      "notitie": "Vaak uitgesproken met g; ook gespeld als {ar|ڭلس}."
+    },
+    {
+      "id": "j2-p7-d15-w05",
+      "ar": "شوف",
+      "tr": "šūf",
+      "nl": [
+        "kijk!"
+      ],
+      "soort": "gebiedende wijs",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w06",
+      "ar": "سمع",
+      "tr": "sməʿ",
+      "nl": [
+        "luister!"
+      ],
+      "soort": "gebiedende wijs",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w07",
+      "ar": "قول",
+      "tr": "qūl",
+      "nl": [
+        "zeg!"
+      ],
+      "soort": "gebiedende wijs",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w08",
+      "ar": "سد الباب",
+      "tr": "sədd lbāb",
+      "nl": [
+        "doe de deur dicht"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w09",
+      "ar": "حل الباب",
+      "tr": "ḥəll lbāb",
+      "nl": [
+        "doe de deur open"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w10",
+      "ar": "زربة",
+      "tr": "zəṛba",
+      "nl": [
+        "haast"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|بالزربة} = snel.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w11",
+      "ar": "بشوية",
+      "tr": "bšwiya",
+      "nl": [
+        "langzaam, rustig aan"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w12",
+      "ar": "ما تخافش",
+      "tr": "ma txāfš",
+      "nl": [
+        "wees niet bang"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Verbod: ما … ش + werkwoord.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w13",
+      "ar": "ما تنساش",
+      "tr": "ma tənsāš",
+      "nl": [
+        "vergeet niet"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w14",
+      "ar": "عاونّي",
+      "tr": "ʿāwənni",
+      "nl": [
+        "help me"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p7-d15-w15",
+      "ar": "تسنّاني",
+      "tr": "tsənnāni",
+      "nl": [
+        "wacht op me"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Gebiedende wijs in het Darija",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "De Darija-gebiedende wijs is kort: zonder voorvoegsel en zonder eindklinker. Tegen een vrouw komt er **-i** achter, tegen een groep **-u**: {ar|سير}، {ar|سيري}، {ar|سيرو}.",
+            "Een **verbod** maak je met {ar|ما} + **t-vorm** + {ar|ش}: {ar|ما تخافش} (wees niet bang), {ar|ما تمشيش} (ga niet)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "man",
+            "vrouw",
+            "groep"
+          ],
+          "rijen": [
+            [
+              "ga!",
+              "سير|sīr",
+              "سيري|sīri",
+              "سيرو|sīru"
+            ],
+            [
+              "kom!",
+              "أجي|aji",
+              "أجي|aji",
+              "أجيو|ajīw"
+            ],
+            [
+              "kijk!",
+              "شوف|šūf",
+              "شوفي|šūfi",
+              "شوفو|šūfu"
+            ],
+            [
+              "ga niet!",
+              "ما تمشيش|ma təmšīš",
+              "ما تمشيش|ma təmšīš",
+              "ما تمشيوش|ma təmšīwš"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Net als in het Fusha is het verbod geen gebiedende wijs maar een ontkende t-vorm ({ar|لا تَذْهَبْ} → {ar|ما تمشيش}). Wie het Fusha-systeem kent, ziet de parallel: **gebod = korte vorm, verbod = ontkende jij-vorm**."
+        }
+      ]
+    },
+    {
+      "titel": "Thuis en onderweg",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أجي هنا عافاك!",
+              "tr": "aji hna ʿāfāk!",
+              "nl": "Kom alsjeblieft hier!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "سد الباب، كاين البرد.",
+              "tr": "sədd lbāb, kāyn lbəṛd.",
+              "nl": "Doe de deur dicht, het is koud.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ما تخافش، الكلب ما كيعضش.",
+              "tr": "ma txāfš, lkəlb ma kayʿəḍḍš.",
+              "nl": "Wees niet bang, de hond bijt niet.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "سوق بشوية!",
+              "tr": "sūq bšwiya!",
+              "nl": "Rij rustig aan!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-gebod",
+          "paren": [
+            {
+              "ar": "سير",
+              "nl": "ga!",
+              "woord": "j2-p7-d15-w02"
+            },
+            {
+              "ar": "جيب",
+              "nl": "breng!",
+              "woord": "j2-p7-d15-w03"
+            },
+            {
+              "ar": "شوف",
+              "nl": "kijk!",
+              "woord": "j2-p7-d15-w05"
+            },
+            {
+              "ar": "سمع",
+              "nl": "luister!",
+              "woord": "j2-p7-d15-w06"
+            },
+            {
+              "ar": "قول",
+              "nl": "zeg!",
+              "woord": "j2-p7-d15-w07"
+            },
+            {
+              "ar": "بشوية",
+              "nl": "rustig aan",
+              "woord": "j2-p7-d15-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-gebod",
+          "tekst": "سيري للدار",
+          "vraag": "Tegen wie wordt dit gezegd?",
+          "opties": [
+            "een vrouw",
+            "een man",
+            "een groep"
+          ],
+          "juist": 0,
+          "uitleg": "-i = vrouw (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Gebod en verbod",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-gebod",
+          "zin": "___ هنا عافاك!",
+          "nl": "Kom alsjeblieft hier! (m)",
+          "antwoord": [
+            "أجي"
+          ],
+          "uitleg": "{ar|أجي} = kom.",
+          "woordbank": [
+            "أجي",
+            "سير",
+            "شوف"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-gebod",
+          "zin": "ما ___، كلشي مزيان.",
+          "nl": "Wees niet bang, alles is goed.",
+          "antwoord": [
+            "تخافش"
+          ],
+          "uitleg": "ما … ش.",
+          "woordbank": [
+            "تخافش",
+            "خاف",
+            "تخاف"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-gebod",
+          "vraag": "'Kijk!' tegen een groep is ...",
+          "opties": [
+            "شوفو",
+            "شوفي",
+            "شوف"
+          ],
+          "juist": 0,
+          "uitleg": "-u = groep."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-gebod",
+          "nl": "Doe de deur dicht, het is koud.",
+          "woorden": [
+            "سد",
+            "الباب،",
+            "كاين",
+            "البرد."
+          ],
+          "uitleg": "Gebiedende wijs."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-gebod",
+          "bron": "wacht op me (Darija)",
+          "antwoorden": [
+            "تسناني",
+            "تسنّاني"
+          ],
+          "uitleg": "{ar|تسنّاني}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-gebod",
+          "bron": "عاونّي عافاك",
+          "antwoorden": [
+            "help me alsjeblieft",
+            "help mij alsjeblieft"
+          ],
+          "uitleg": "{ar|عاونّي}",
+          "tr": "ʿāwənni ʿāfāk"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-gebod",
+        "paren": [
+          {
+            "ar": "حل الباب",
+            "nl": "doe de deur open"
+          },
+          {
+            "ar": "زربة",
+            "nl": "haast"
+          },
+          {
+            "ar": "ما تنساش",
+            "nl": "vergeet niet"
+          },
+          {
+            "ar": "كلس",
+            "nl": "ga zitten"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-gebod",
+        "vraag": "Hoe maak je in het Darija een verbod?",
+        "opties": [
+          "ما + t-vorm + ش",
+          "لا + gebiedende wijs",
+          "alleen ش"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما تمشيش}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-gebod",
+        "vraag": "'Ga!' tegen een vrouw is ...",
+        "opties": [
+          "سيري",
+          "سير",
+          "سيرو"
+        ],
+        "juist": 0,
+        "uitleg": "-i."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|شوف} is in het Fusha ...",
+        "opties": [
+          "اُنْظُرْ",
+          "اِسْمَعْ",
+          "قُلْ"
+        ],
+        "juist": 0,
+        "uitleg": "kijk!"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-gebod",
+        "tekst": "ما تنساش",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Vergeet niet.",
+          "Vergeet het.",
+          "Ik vergeet het."
+        ],
+        "juist": 0,
+        "uitleg": "Verbod."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-gebod",
+        "tekst": "سوق بشوية",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Rij rustig aan.",
+          "Rij snel.",
+          "Stop hier."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بشوية}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-gebod",
+        "zin": "___ الماء عافاك.",
+        "nl": "Breng alsjeblieft het water.",
+        "antwoord": [
+          "جيب"
+        ],
+        "uitleg": "{ar|جيب} = breng.",
+        "woordbank": [
+          "جيب",
+          "سير",
+          "قول"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-gebod",
+        "zin": "___ مزيان شنو كنقول.",
+        "nl": "Luister goed naar wat ik zeg.",
+        "antwoord": [
+          "سمع"
+        ],
+        "uitleg": "{ar|سمع} = luister.",
+        "woordbank": [
+          "سمع",
+          "شوف",
+          "أجي"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-gebod",
+        "nl": "Kom alsjeblieft hier!",
+        "woorden": [
+          "أجي",
+          "هنا",
+          "عافاك!"
+        ],
+        "uitleg": "Gebiedende wijs."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-gebod",
+        "bron": "zeg! (Darija, m)",
+        "antwoorden": [
+          "قول"
+        ],
+        "uitleg": "{ar|قول}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-gebod",
+        "bron": "wees niet bang (Darija)",
+        "antwoorden": [
+          "ما تخافش"
+        ],
+        "uitleg": "{ar|ما تخافش}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-gebod",
+        "bron": "سيرو بالزربة!",
+        "antwoorden": [
+          "ga snel",
+          "gaan jullie snel",
+          "ga vlug"
+        ],
+        "uitleg": "Groep, haast.",
+        "tr": "sīru bzzəṛba!"
+      }
+    ]
+  }
+}

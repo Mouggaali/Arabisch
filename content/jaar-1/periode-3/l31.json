@@ -1,0 +1,152 @@
+{
+  "id": "j1-p3-l31",
+  "code": "L31",
+  "type": "les",
+  "titel": "Ziek en gezond",
+  "thema": "Klachten beschrijven, bij de dokter en de apotheek",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "klachten en ziektes benoemen en zeggen hoe ik me voel.",
+    "begrijpen dat een meervoud van dingen (niet-mensen) zich gedraagt als vrouwelijk enkelvoud.",
+    "bijvoeglijke naamwoorden en aanwijzende voornaamwoorden bij meervouden juist kiezen.",
+    "iemand beterschap wensen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l31-w01", "ar": "صِحَّةٌ", "tr": "ṣiḥḥa", "nl": ["gezondheid"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w02", "ar": "مُسْتَشْفًى", "tr": "mustašfā", "nl": ["ziekenhuis"], "soort": "zelfstandig naamwoord", "notitie": "Met lidwoord: {ar|المُسْتَشْفى}." },
+    { "id": "j1-p3-l31-w03", "ar": "عِيادَةٌ", "tr": "ʿiyāda", "nl": ["praktijk", "kliniek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w04", "ar": "صَيْدَلِيَّةٌ", "tr": "ṣaydaliyya", "nl": ["apotheek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w05", "ar": "دَواءٌ", "tr": "dawāʾ", "nl": ["medicijn"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|أَدْوِيَةٌ}." },
+    { "id": "j1-p3-l31-w06", "ar": "حُبوبٌ", "tr": "ḥubūb", "nl": ["pillen", "tabletten"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l31-w07", "ar": "حَرارَةٌ", "tr": "ḥarāra", "nl": ["koorts", "temperatuur"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w08", "ar": "زُكامٌ", "tr": "zukām", "nl": ["verkoudheid"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w09", "ar": "سُعالٌ", "tr": "suʿāl", "nl": ["hoest"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w10", "ar": "جُرْحٌ", "tr": "jurḥ", "nl": ["wond"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w11", "ar": "مُمَرِّضٌ", "tr": "mumarriḍ", "nl": ["verpleger"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w12", "ar": "مُمَرِّضَةٌ", "tr": "mumarriḍa", "nl": ["verpleegster"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w13", "ar": "وَصْفَةٌ طِبِّيَّةٌ", "tr": "waṣfa ṭibbiyya", "nl": ["recept (van de dokter)"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l31-w14", "ar": "يَشْعُرُ بِـ", "tr": "yašʿuru bi-", "nl": ["zich voelen", "voelen"], "soort": "werkwoord", "notitie": "{ar|أَشْعُرُ بِالتَّعَبِ} = ik voel me moe (letterlijk: ik voel vermoeidheid)." },
+    { "id": "j1-p3-l31-w15", "ar": "تَعَبٌ", "tr": "taʿab", "nl": ["vermoeidheid"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l31-w16", "ar": "سَلامَتُكَ", "tr": "salāmatuk", "nl": ["beterschap (tegen een man)"], "soort": "uitdrukking", "notitie": "Tegen een vrouw: {ar|سَلامَتُكِ}.", "review": { "status": "onzeker", "note": "Vocalisatie: in de spreektaal vaak salāmtak (accusatief). Bevestigen welke vorm we aanleren." } },
+    { "id": "j1-p3-l31-w17", "ar": "شِفاءٌ عاجِلٌ", "tr": "šifāʾun ʿājil", "nl": ["spoedig herstel"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l31-w18", "ar": "سَريعٌ", "tr": "sarīʿ", "nl": ["snel"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l31-w19", "ar": "كُتُبٌ", "tr": "kutub", "nl": ["boeken"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|كِتابٌ}." },
+    { "id": "j1-p3-l31-w20", "ar": "بُيوتٌ", "tr": "buyūt", "nl": ["huizen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|بَيْتٌ}." },
+    { "id": "j1-p3-l31-w21", "ar": "سَيّاراتٌ", "tr": "sayyārāt", "nl": ["auto's"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l31-w22", "ar": "أَقْلامٌ", "tr": "aqlām", "nl": ["pennen"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Meervoud van {ar|قَلَمٌ}." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Meervoud van dingen = vrouwelijk enkelvoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een belangrijke regel van het Arabisch: het **meervoud van een ding** (geen mens) gedraagt zich grammaticaal als **vrouwelijk enkelvoud**. Het bijvoeglijk naamwoord, het voornaamwoord, het aanwijzend voornaamwoord en het werkwoord staan dan allemaal in de vrouwelijk-enkelvoudsvorm.",
+          "{ar|الكُتُبُ جَديدَةٌ} = *de boeken zijn nieuw* (letterlijk: de boeken is nieuw-v). {ar|هٰذِهِ السَّيّاراتُ} = *deze auto's*."
+        ] },
+        { "type": "tabel", "kop": ["Dingen (meervoud)", "Mensen (meervoud)"], "arKolommen": [0, 1], "rijen": [
+          ["الكُتُبُ جَديدَةٌ.|al-kutubu jadīda", "المُعَلِّمونَ جُدُدٌ.|al-muʿallimūna judud"],
+          ["البُيوتُ كَبيرَةٌ.|al-buyūtu kabīra", "المُمَرِّضاتُ مَشْغولاتٌ.|al-mumarriḍātu mašġūlāt"],
+          ["هٰذِهِ الأَقْلامُ|hāḏihi l-aqlām", "هٰؤُلاءِ الطُّلّابُ|hāʾulāʾi ṭ-ṭullāb"],
+          ["السَّيّاراتُ سَريعَةٌ.|as-sayyārātu sarīʿa", "الطُّلّابُ مُجْتَهِدونَ.|aṭ-ṭullābu mujtahidūn"]
+        ] },
+        { "type": "waarom", "md": "Het Arabisch behandelt een groep dingen als één geheel, en zo'n geheel krijgt de vrouwelijke enkelvoudsvorm. Bij mensen telt elk individu, dus houdt het meervoud zijn meervoudsvorm. In het dagelijks gebruik is dit verschil overal: elk meervoud van een ding krijgt {ar|ـَةٌ} bij het bijvoeglijk naamwoord en {ar|هٰذِهِ} / {ar|هِيَ} als aanwijzend en persoonlijk voornaamwoord." },
+        { "type": "letop", "md": "{ar|جُدُدٌ} (nieuw, meervoud voor personen) en {ar|هٰؤُلاءِ} (deze, voor personen) zijn nieuwe vormen; je hoeft ze nu alleen te herkennen." }
+      ]
+    },
+    {
+      "titel": "Bij de dokter",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "ماذا بِكَ؟ — عِنْدي حَرارَةٌ وَسُعالٌ.", "tr": "māḏā bik? — ʿindī ḥarāratun wa-suʿāl.", "nl": "Wat scheelt eraan? — Ik heb koorts en hoest.", "review": { "status": "onzeker", "note": "ماذا بِكَ؟ (wat heb je?) als vaste vraag bevestigen; alternatief: ما بِكَ؟" } },
+          { "ar": "أَشْعُرُ بِالتَّعَبِ مُنْذُ يَوْمَيْنِ.", "tr": "ašʿuru bi-t-taʿabi munḏu yawmayn.", "nl": "Ik voel me al twee dagen moe." },
+          { "ar": "هٰذِهِ الحُبوبُ لِلصُّداعِ.", "tr": "hāḏihi l-ḥubūbu li-ṣ-ṣudāʿ.", "nl": "Deze pillen zijn tegen de hoofdpijn." },
+          { "ar": "الأَدْوِيَةُ غالِيَةٌ في هٰذِهِ الصَّيْدَلِيَّةِ.", "tr": "al-adwiyatu ġāliya fī hāḏihi ṣ-ṣaydaliyya.", "nl": "De medicijnen zijn duur in deze apotheek." },
+          { "ar": "سَلامَتُكَ! شِفاءٌ عاجِلٌ.", "tr": "salāmatuk! šifāʾun ʿājil.", "nl": "Beterschap! Spoedig herstel." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gezondheid",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مُسْتَشْفًى", "nl": "ziekenhuis", "woord": "j1-p3-l31-w02" },
+          { "ar": "صَيْدَلِيَّةٌ", "nl": "apotheek", "woord": "j1-p3-l31-w04" },
+          { "ar": "دَواءٌ", "nl": "medicijn", "woord": "j1-p3-l31-w05" },
+          { "ar": "حَرارَةٌ", "nl": "koorts", "woord": "j1-p3-l31-w07" },
+          { "ar": "زُكامٌ", "nl": "verkoudheid", "woord": "j1-p3-l31-w08" },
+          { "ar": "سُعالٌ", "nl": "hoest", "woord": "j1-p3-l31-w09" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "عِنْدي زُكامٌ وَحَرارَةٌ", "vraag": "Welke klachten heeft de spreker?", "opties": ["verkoudheid en koorts", "hoest en hoofdpijn", "buikpijn en koorts"], "juist": 0, "uitleg": "{ar|زُكامٌ} = verkoudheid, {ar|حَرارَةٌ} = koorts." },
+        { "type": "meerkeuze", "tag": "woordenschat", "vraag": "Wat zeg je tegen een zieke vriend?", "opties": ["سَلامَتُكَ!", "تَشَرَّفْنا!", "بِالهَناءِ وَالشِّفاءِ!"], "juist": 0, "uitleg": "Beterschap." }
+      ]
+    },
+    {
+      "titel": "Meervoud van dingen",
+      "items": [
+        { "type": "invullen", "tag": "meervoud-dingen", "zin": "الكُتُبُ ___.", "nl": "De boeken zijn nieuw.", "woordbank": ["جَديدَةٌ", "جَديدونَ", "جَديدٌ"], "antwoord": ["جَديدَةٌ"], "uitleg": "Meervoud van dingen → vrouwelijk enkelvoud." },
+        { "type": "invullen", "tag": "meervoud-dingen", "zin": "___ السَّيّاراتُ سَريعَةٌ.", "nl": "Deze auto's zijn snel.", "woordbank": ["هٰذِهِ", "هٰؤُلاءِ", "هٰذا"], "antwoord": ["هٰذِهِ"], "uitleg": "Dingen in het meervoud: {ar|هٰذِهِ}." },
+        { "type": "invullen", "tag": "meervoud-dingen", "zin": "المُعَلِّمونَ ___.", "nl": "De leraren zijn bezig.", "woordbank": ["مَشْغولونَ", "مَشْغولَةٌ", "مَشْغولٌ"], "antwoord": ["مَشْغولونَ"], "uitleg": "Mensen: gewoon meervoud." },
+        { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "Welke zin is juist voor 'De huizen zijn groot'?", "opties": ["البُيوتُ كَبيرَةٌ.", "البُيوتُ كَبيرونَ.", "البُيوتُ كَبيرٌ."], "juist": 0, "uitleg": "Dingen → vrouwelijk enkelvoud." },
+        { "type": "vervoegen", "tag": "meervoud-dingen", "instructie": "Kies de juiste vorm van het bijvoeglijk naamwoord (zonder tanwīn).",
+          "rijen": [
+            { "label": "الأَقْلامُ ... (de pennen zijn nieuw)", "antwoord": "جَديدَة", "tr": "jadīda" },
+            { "label": "الطُّلّابُ ... (de studenten zijn ijverig)", "antwoord": "مُجْتَهِدونَ", "tr": "mujtahidūn" },
+            { "label": "السَّيّاراتُ ... (de auto's zijn duur)", "antwoord": "غالِيَة", "tr": "ġāliya" }
+          ], "uitleg": "Dingen → ـَة; mensen → meervoud." }
+      ]
+    },
+    {
+      "titel": "Bij de dokter",
+      "items": [
+        { "type": "ordenen", "tag": "pijn", "nl": "Ik voel me al twee dagen moe.", "woorden": ["أَشْعُرُ", "بِالتَّعَبِ", "مُنْذُ", "يَوْمَيْنِ."], "uitleg": "{ar|مُنْذُ} = sinds, al." },
+        { "type": "ordenen", "tag": "meervoud-dingen", "nl": "Deze pillen zijn tegen de hoofdpijn.", "woorden": ["هٰذِهِ", "الحُبوبُ", "لِلصُّداعِ."], "uitleg": "{ar|هٰذِهِ} bij een meervoud van dingen." },
+        { "type": "luisteren", "tag": "meervoud-dingen", "tekst": "الأَدْوِيَةُ غالِيَةٌ", "vraag": "Wat hoor je?", "opties": ["De medicijnen zijn duur.", "Het medicijn is goedkoop.", "De apotheek is duur."], "juist": 0, "uitleg": "{ar|الأَدْوِيَةُ} = de medicijnen; {ar|غالِيَةٌ} vrouwelijk enkelvoud." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-dingen", "bron": "De boeken zijn oud.", "antwoorden": ["الكُتُبُ قَديمَةٌ"], "uitleg": "{ar|الكُتُبُ قَديمَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "pijn", "bron": "Ik heb koorts.", "antwoorden": ["عِنْدي حَرارَةٌ"], "uitleg": "{ar|عِنْدي حَرارَةٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-dingen", "bron": "هٰذِهِ البُيوتُ جَميلَةٌ.", "antwoorden": ["deze huizen zijn mooi"], "uitleg": "Meervoud van dingen + {ar|هٰذِهِ}." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "المُمَرِّضَةُ في العِيادَةِ.", "antwoorden": ["de verpleegster is in de praktijk", "de verpleegster is in de kliniek"], "uitleg": "Nominale zin." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "woordenschat", "bron": "شِفاءٌ عاجِلٌ!", "antwoorden": ["spoedig herstel", "beterschap", "word snel beter"], "uitleg": "Een wens." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "صِحَّةٌ", "nl": "gezondheid" },
+        { "ar": "جُرْحٌ", "nl": "wond" },
+        { "ar": "مُمَرِّضٌ", "nl": "verpleger" },
+        { "ar": "حُبوبٌ", "nl": "pillen" },
+        { "ar": "سَريعٌ", "nl": "snel" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "'De auto's zijn nieuw' is ...", "opties": ["السَّيّاراتُ جَديدَةٌ.", "السَّيّاراتُ جَديدونَ.", "السَّيّاراتُ جَديدٌ."], "juist": 0, "uitleg": "Vrouwelijk enkelvoud." },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "'Deze boeken' is ...", "opties": ["هٰذِهِ الكُتُبُ", "هٰذا الكُتُبُ", "هٰؤُلاءِ الكُتُبُ"], "juist": 0, "uitleg": "{ar|هٰذِهِ}" },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "Welke zin is juist?", "opties": ["المُعَلِّماتُ مَشْغولاتٌ.", "المُعَلِّماتُ مَشْغولَةٌ.", "المُعَلِّماتُ مَشْغولونَ."], "juist": 0, "uitleg": "Mensen: meervoud." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أَذْهَبُ إِلى الصَّيْدَلِيَّةِ", "vraag": "Waar gaat de spreker heen?", "opties": ["naar de apotheek", "naar het ziekenhuis", "naar de praktijk"], "juist": 0, "uitleg": "{ar|الصَّيْدَلِيَّةُ} = de apotheek." },
+      { "type": "luisteren", "tag": "meervoud-dingen", "tekst": "البُيوتُ هُنا قَديمَةٌ", "vraag": "Wat hoor je?", "opties": ["De huizen hier zijn oud.", "Het huis hier is oud.", "De huizen hier zijn nieuw."], "juist": 0, "uitleg": "{ar|البُيوتُ} = de huizen." },
+      { "type": "invullen", "tag": "meervoud-dingen", "zin": "الأَقْلامُ ___ الطّاوِلَةِ.", "nl": "De pennen liggen op de tafel.", "woordbank": ["عَلى", "في", "تَحْتَ"], "antwoord": ["عَلى"], "uitleg": "{ar|عَلى} = op." },
+      { "type": "invullen", "tag": "meervoud-dingen", "zin": "هٰذِهِ الأَدْوِيَةُ ___.", "nl": "Deze medicijnen zijn goedkoop.", "antwoord": ["رَخيصَةٌ"], "uitleg": "Vrouwelijk enkelvoud." },
+      { "type": "vervoegen", "tag": "meervoud-dingen", "instructie": "Kies de juiste vorm (zonder tanwīn).",
+        "rijen": [
+          { "label": "الكُتُبُ ... (de boeken zijn mooi)", "antwoord": "جَميلَة", "tr": "jamīla" },
+          { "label": "المُهَنْدِسونَ ... (de ingenieurs zijn moe)", "antwoord": "مُتْعَبونَ", "tr": "mutʿabūn" }
+        ], "uitleg": "Dingen → ـَة; mensen → meervoud." },
+      { "type": "ordenen", "tag": "pijn", "nl": "Wat scheelt eraan? Ik heb koorts en hoest.", "woorden": ["ماذا", "بِكَ؟", "عِنْدي", "حَرارَةٌ", "وَسُعالٌ."], "uitleg": "{ar|عِنْدي} + klachten." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-dingen", "bron": "deze huizen", "antwoorden": ["هٰذِهِ البُيوتُ"], "uitleg": "{ar|هٰذِهِ البُيوتُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "woordenschat", "bron": "Beterschap! (tegen een man)", "antwoorden": ["سَلامَتُكَ", "سَلامَتَكَ"], "uitleg": "{ar|سَلامَتُكَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-dingen", "bron": "السَّيّاراتُ سَريعَةٌ.", "antwoorden": ["de auto's zijn snel", "de autos zijn snel"], "uitleg": "Meervoud van dingen." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "pijn", "bron": "أَشْعُرُ بِالتَّعَبِ.", "antwoorden": ["ik voel me moe", "ik ben moe"], "uitleg": "{ar|أَشْعُرُ بِـ} = voelen." }
+    ]
+  }
+}

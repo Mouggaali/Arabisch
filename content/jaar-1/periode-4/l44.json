@@ -1,0 +1,817 @@
+{
+  "id": "j1-p4-l44",
+  "code": "L44",
+  "type": "les",
+  "titel": "Mijn leven",
+  "thema": "Over je verleden, heden en toekomst vertellen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een werkwoord vervoegen in alle 13 personen, in māḍī en muḍāriʿ.",
+    "de drie ontkenningen kiezen: لَيْسَ، لا en ما.",
+    "in een paar zinnen mijn levensloop vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l44-w01",
+      "ar": "حَياةٌ",
+      "tr": "ḥayāh",
+      "nl": [
+        "leven"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w03",
+      "ar": "وُلِدْتُ",
+      "tr": "wulidtu",
+      "nl": [
+        "ik ben geboren"
+      ],
+      "soort": "werkwoord (lijdend)",
+      "notitie": "{ar|وُلِدَ} = hij is geboren; {ar|وُلِدَتْ} = zij is geboren."
+    },
+    {
+      "id": "j1-p4-l44-w04",
+      "ar": "تَخَرَّجَ",
+      "tr": "taḫarraja",
+      "nl": [
+        "afstuderen (hij studeerde af)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|تَخَرَّجَ مِنَ الجامِعَةِ}."
+    },
+    {
+      "id": "j1-p4-l44-w05",
+      "ar": "تَزَوَّجَ",
+      "tr": "tazawwaja",
+      "nl": [
+        "trouwen (hij trouwde)"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j1-p4-l44-w06",
+      "ar": "اِنْتَقَلَ إِلى",
+      "tr": "intaqala ilā",
+      "nl": [
+        "verhuizen naar"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j1-p4-l44-w08",
+      "ar": "مُسْتَقْبَلٌ",
+      "tr": "mustaqbal",
+      "nl": [
+        "toekomst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w09",
+      "ar": "حُلْمٌ",
+      "tr": "ḥulm",
+      "nl": [
+        "droom"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَحْلامٌ}."
+    },
+    {
+      "id": "j1-p4-l44-w10",
+      "ar": "الماضي",
+      "tr": "al-māḍī",
+      "nl": [
+        "het verleden"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook de naam van de verleden tijd!"
+    },
+    {
+      "id": "j1-p4-l44-w11",
+      "ar": "الحاضِرُ",
+      "tr": "al-ḥāḍir",
+      "nl": [
+        "het heden"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w12",
+      "ar": "تَجْرِبَةٌ",
+      "tr": "tajriba",
+      "nl": [
+        "ervaring"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w13",
+      "ar": "هَدَفٌ",
+      "tr": "hadaf",
+      "nl": [
+        "doel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَهْدافٌ}."
+    },
+    {
+      "id": "j1-p4-l44-w14",
+      "ar": "مَرْحَلَةٌ",
+      "tr": "marḥala",
+      "nl": [
+        "fase",
+        "periode"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w15",
+      "ar": "ما زِلْتُ",
+      "tr": "mā ziltu",
+      "nl": [
+        "ik ben nog steeds"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Als vaste uitdrukking: {ar|ما زِلْتُ طالِبًا} = ik ben nog steeds student. Uitleg in les 64."
+    },
+    {
+      "id": "j1-p4-l44-w16",
+      "ar": "شَبابٌ",
+      "tr": "šabāb",
+      "nl": [
+        "jeugd (jonge jaren)",
+        "jongeren"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l44-w17",
+      "ar": "شَيْخوخَةٌ",
+      "tr": "šayḫūḫa",
+      "nl": [
+        "ouderdom"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De volledige vervoeging",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Hier staan alle 13 personen bij elkaar, met {ar|كَتَبَ / يَكْتُبُ}. Dit is het skelet van ieder regelmatig werkwoord. Oefen de tabel in de vervoegingstrainer tot je haar blind kunt invullen."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أَنا",
+              "كَتَبْتُ",
+              "أَكْتُبُ"
+            ],
+            [
+              "jij (m)",
+              "أَنْتَ",
+              "كَتَبْتَ",
+              "تَكْتُبُ"
+            ],
+            [
+              "jij (v)",
+              "أَنْتِ",
+              "كَتَبْتِ",
+              "تَكْتُبينَ"
+            ],
+            [
+              "hij",
+              "هُوَ",
+              "كَتَبَ",
+              "يَكْتُبُ"
+            ],
+            [
+              "zij",
+              "هِيَ",
+              "كَتَبَتْ",
+              "تَكْتُبُ"
+            ],
+            [
+              "jullie twee",
+              "أَنْتُما",
+              "كَتَبْتُما",
+              "تَكْتُبانِ"
+            ],
+            [
+              "zij twee (m)",
+              "هُما",
+              "كَتَبا",
+              "يَكْتُبانِ"
+            ],
+            [
+              "zij twee (v)",
+              "هُما",
+              "كَتَبَتا",
+              "تَكْتُبانِ"
+            ],
+            [
+              "wij",
+              "نَحْنُ",
+              "كَتَبْنا",
+              "نَكْتُبُ"
+            ],
+            [
+              "jullie (m)",
+              "أَنْتُمْ",
+              "كَتَبْتُمْ",
+              "تَكْتُبونَ"
+            ],
+            [
+              "jullie (v)",
+              "أَنْتُنَّ",
+              "كَتَبْتُنَّ",
+              "تَكْتُبْنَ"
+            ],
+            [
+              "zij (m)",
+              "هُمْ",
+              "كَتَبُوا",
+              "يَكْتُبونَ"
+            ],
+            [
+              "zij (v)",
+              "هُنَّ",
+              "كَتَبْنَ",
+              "يَكْتُبْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Twee systemen: de **māḍī** werkt met **achtervoegsels** (wie het deed staat aan het eind), de **muḍāriʿ** met **voorvoegsels** (أَ، تَـ، يَـ، نَـ) en voor sommige personen ook een achtervoegsel. Let op {ar|كَتَبْنَ} (zij v, verleden) en {ar|يَكْتُبْنَ} (zij v, heden): dezelfde ـْنَ."
+        }
+      ]
+    },
+    {
+      "titel": "Drie ontkenningen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Wanneer",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "لَيْسَ",
+              "zin zonder werkwoord (nominaal), vervoegd",
+              "لَسْتُ مُتْعَبًا.|lastu mutʿaban."
+            ],
+            [
+              "لا",
+              "+ muḍāriʿ (heden)",
+              "لا أَعْرِفُ.|lā aʿrif."
+            ],
+            [
+              "ما",
+              "+ māḍī (verleden)",
+              "ما فَهِمْتُ.|mā fahimtu."
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Welke ontkenning past, hangt af van de **soort zin**: zonder werkwoord {ar|لَيْسَ} (met accusatief erna), met een muḍāriʿ {ar|لا}, met een māḍī {ar|ما}. In les 51 komt er een vierde bij, {ar|لَمْ}, de gebruikelijke ontkenning van het verleden in geschreven Arabisch."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وُلِدْتُ في طَنْجَةَ وَانْتَقَلْتُ إِلى هولَنْدا في طُفولَتي.",
+              "tr": "wulidtu fī Ṭanjata wa-ntaqaltu ilā Hōlandā fī ṭufūlatī.",
+              "nl": "Ik ben geboren in Tanger en als kind naar Nederland verhuisd."
+            },
+            {
+              "ar": "تَخَرَّجْتُ مِنَ الجامِعَةِ قَبْلَ خَمْسِ سَنَواتٍ.",
+              "tr": "taḫarrajtu mina l-jāmiʿati qabla ḫamsi sanawāt.",
+              "nl": "Ik ben vijf jaar geleden afgestudeerd."
+            },
+            {
+              "ar": "لَسْتُ مُتَزَوِّجًا، لٰكِنْ عِنْدي صَديقَةٌ.",
+              "tr": "lastu mutazawwijan, lākin ʿindī ṣadīqa.",
+              "nl": "Ik ben niet getrouwd, maar ik heb een vriendin."
+            },
+            {
+              "ar": "حُلْمي أَنْ أَعيشَ في المَغْرِبِ في المُسْتَقْبَلِ.",
+              "tr": "ḥulmī an aʿīša fi l-Maġribi fi l-mustaqbal.",
+              "nl": "Mijn droom is om in de toekomst in Marokko te wonen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَياةٌ",
+              "nl": "leven",
+              "woord": "j1-p4-l44-w01"
+            },
+            {
+              "ar": "طُفولَةٌ",
+              "nl": "jeugd"
+            },
+            {
+              "ar": "مُسْتَقْبَلٌ",
+              "nl": "toekomst",
+              "woord": "j1-p4-l44-w08"
+            },
+            {
+              "ar": "حُلْمٌ",
+              "nl": "droom",
+              "woord": "j1-p4-l44-w09"
+            },
+            {
+              "ar": "تَجْرِبَةٌ",
+              "nl": "ervaring",
+              "woord": "j1-p4-l44-w12"
+            },
+            {
+              "ar": "هَدَفٌ",
+              "nl": "doel",
+              "woord": "j1-p4-l44-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vervoeging-overzicht",
+          "tekst": "كَتَبْتُنَّ",
+          "vraag": "Wie schreven?",
+          "opties": [
+            "jullie (v)",
+            "jullie (m)",
+            "zij (v)"
+          ],
+          "juist": 0,
+          "uitleg": "ـْتُنَّ = jullie (v)."
+        }
+      ]
+    },
+    {
+      "titel": "Alle personen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vervoeging-overzicht",
+          "instructie": "Vervoeg دَرَسَ / يَدْرُسُ (māḍī).",
+          "rijen": [
+            {
+              "label": "ik",
+              "ar": "أَنا",
+              "antwoord": "دَرَسْتُ",
+              "tr": "darastu",
+              "eind": true
+            },
+            {
+              "label": "jij (v)",
+              "ar": "أَنْتِ",
+              "antwoord": "دَرَسْتِ",
+              "tr": "darasti",
+              "eind": true
+            },
+            {
+              "label": "zij twee (v)",
+              "ar": "هُما",
+              "antwoord": "دَرَسَتا",
+              "tr": "darasatā"
+            },
+            {
+              "label": "jullie (m)",
+              "ar": "أَنْتُمْ",
+              "antwoord": "دَرَسْتُمْ",
+              "tr": "darastum"
+            },
+            {
+              "label": "zij (m)",
+              "ar": "هُمْ",
+              "antwoord": "دَرَسُوا",
+              "tr": "darasū"
+            },
+            {
+              "label": "zij (v)",
+              "ar": "هُنَّ",
+              "antwoord": "دَرَسْنَ",
+              "tr": "darasna"
+            }
+          ],
+          "uitleg": "ـْتُ · ـْتِ · ـَتا · ـْتُمْ · ـُوا · ـْنَ"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vervoeging-overzicht",
+          "instructie": "Vervoeg دَرَسَ / يَدْرُسُ (muḍāriʿ).",
+          "rijen": [
+            {
+              "label": "ik",
+              "ar": "أَنا",
+              "antwoord": "أَدْرُسُ",
+              "tr": "adrusu"
+            },
+            {
+              "label": "jij (v)",
+              "ar": "أَنْتِ",
+              "antwoord": "تَدْرُسينَ",
+              "tr": "tadrusīna"
+            },
+            {
+              "label": "jullie twee",
+              "ar": "أَنْتُما",
+              "antwoord": "تَدْرُسانِ",
+              "tr": "tadrusāni"
+            },
+            {
+              "label": "wij",
+              "ar": "نَحْنُ",
+              "antwoord": "نَدْرُسُ",
+              "tr": "nadrusu"
+            },
+            {
+              "label": "jullie (v)",
+              "ar": "أَنْتُنَّ",
+              "antwoord": "تَدْرُسْنَ",
+              "tr": "tadrusna"
+            },
+            {
+              "label": "zij (m)",
+              "ar": "هُمْ",
+              "antwoord": "يَدْرُسونَ",
+              "tr": "yadrusūna"
+            }
+          ],
+          "uitleg": "Voorvoegsel + eventueel achtervoegsel."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vervoeging-overzicht",
+          "vraag": "Bij welke persoon horen zowel {ar|ـْنَ} (māḍī) als {ar|يَـ … ـْنَ} (muḍāriʿ)?",
+          "opties": [
+            "zij (v mv)",
+            "wij",
+            "jullie (m)"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كَتَبْنَ} / {ar|يَكْتُبْنَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Ontkennen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "ontkenning-overzicht",
+          "zin": "___ أَعْرِفُ الجَوابَ.",
+          "nl": "Ik weet het antwoord niet.",
+          "woordbank": [
+            "لا",
+            "ما",
+            "لَيْسَ"
+          ],
+          "antwoord": [
+            "لا"
+          ],
+          "uitleg": "Muḍāriʿ → {ar|لا}."
+        },
+        {
+          "type": "invullen",
+          "tag": "ontkenning-overzicht",
+          "zin": "___ ذَهَبْتُ إِلى العَمَلِ أَمْسِ.",
+          "nl": "Ik ging gisteren niet naar mijn werk.",
+          "woordbank": [
+            "ما",
+            "لا",
+            "لَسْتُ"
+          ],
+          "antwoord": [
+            "ما"
+          ],
+          "uitleg": "Māḍī → {ar|ما}."
+        },
+        {
+          "type": "invullen",
+          "tag": "ontkenning-overzicht",
+          "zin": "___ مُتَزَوِّجَةً.",
+          "nl": "Ik (v) ben niet getrouwd.",
+          "woordbank": [
+            "لَسْتُ",
+            "لا",
+            "ما"
+          ],
+          "antwoord": [
+            "لَسْتُ"
+          ],
+          "uitleg": "Zin zonder werkwoord → {ar|لَيْسَ}, vervoegd."
+        },
+        {
+          "type": "ordenen",
+          "tag": "ontkenning-overzicht",
+          "nl": "Ik ben niet getrouwd, maar ik heb een vriendin.",
+          "woorden": [
+            "لَسْتُ",
+            "مُتَزَوِّجًا،",
+            "لٰكِنْ",
+            "عِنْدي",
+            "صَديقَةٌ."
+          ],
+          "uitleg": "{ar|لَسْتُ} + accusatief."
+        },
+        {
+          "type": "ordenen",
+          "tag": "vervoeging-overzicht",
+          "nl": "Ik ben vijf jaar geleden afgestudeerd.",
+          "woorden": [
+            "تَخَرَّجْتُ",
+            "مِنَ",
+            "الجامِعَةِ",
+            "قَبْلَ",
+            "خَمْسِ",
+            "سَنَواتٍ."
+          ],
+          "uitleg": "{ar|قَبْلَ} + tijd = geleden."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vervoeging-overzicht",
+          "bron": "ik ben geboren",
+          "antwoorden": [
+            "وُلِدْتُ"
+          ],
+          "uitleg": "{ar|وُلِدْتُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "ontkenning-overzicht",
+          "bron": "Ik begreep het niet.",
+          "antwoorden": [
+            "ما فَهِمْتُ"
+          ],
+          "uitleg": "{ar|ما} + māḍī."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vervoeging-overzicht",
+          "bron": "هُنَّ يَعْمَلْنَ في المُسْتَشْفى.",
+          "antwoorden": [
+            "zij werken in het ziekenhuis",
+            "ze werken in het ziekenhuis"
+          ],
+          "uitleg": "{ar|يَعْمَلْنَ} = zij (v mv) werken."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "ontkenning-overzicht",
+          "bron": "لا نَسْكُنُ في المَدينَةِ.",
+          "antwoorden": [
+            "we wonen niet in de stad",
+            "wij wonen niet in de stad"
+          ],
+          "uitleg": "{ar|لا} + muḍāriʿ."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ذِكْرى",
+            "nl": "herinnering"
+          },
+          {
+            "ar": "مَرْحَلَةٌ",
+            "nl": "fase"
+          },
+          {
+            "ar": "تَزَوَّجَ",
+            "nl": "trouwen"
+          },
+          {
+            "ar": "الماضي",
+            "nl": "het verleden"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vervoeging-overzicht",
+        "vraag": "'Jullie (m) schrijven' is ...",
+        "opties": [
+          "تَكْتُبونَ",
+          "يَكْتُبونَ",
+          "تَكْتُبانِ"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ … ـونَ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vervoeging-overzicht",
+        "vraag": "'Zij (v mv) schreven' is ...",
+        "opties": [
+          "كَتَبْنَ",
+          "كَتَبْنا",
+          "كَتَبُوا"
+        ],
+        "juist": 0,
+        "uitleg": "ـْنَ (let op: {ar|كَتَبْنا} = wij)."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-overzicht",
+        "vraag": "Welke ontkenning hoort bij {ar|… الطَّقْسُ بارِدًا}?",
+        "opties": [
+          "لَيْسَ",
+          "لا",
+          "ما"
+        ],
+        "juist": 0,
+        "uitleg": "Zin zonder werkwoord; {ar|بارِدًا} in de accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-overzicht",
+        "vraag": "'Hij sliep niet' is ...",
+        "opties": [
+          "ما نامَ.",
+          "لا نامَ.",
+          "لَيْسَ نامَ."
+        ],
+        "juist": 0,
+        "uitleg": "Māḍī → {ar|ما}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vervoeging-overzicht",
+        "tekst": "تَدْرُسينَ",
+        "vraag": "Wie studeert?",
+        "opties": [
+          "jij (v)",
+          "jij (m)",
+          "zij (v mv)"
+        ],
+        "juist": 0,
+        "uitleg": "تَـ … ـينَ"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ontkenning-overzicht",
+        "tekst": "ما سافَرْنا هٰذا الصَّيْفَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We zijn deze zomer niet op reis geweest.",
+          "We reizen deze zomer niet.",
+          "We gaan deze zomer reizen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما} + māḍī."
+      },
+      {
+        "type": "invullen",
+        "tag": "vervoeging-overzicht",
+        "zin": "هُمْ ___ في شَرِكَةٍ كَبيرَةٍ.",
+        "nl": "Zij (m mv) werken bij een groot bedrijf.",
+        "woordbank": [
+          "يَعْمَلونَ",
+          "يَعْمَلْنَ",
+          "تَعْمَلونَ"
+        ],
+        "antwoord": [
+          "يَعْمَلونَ"
+        ],
+        "uitleg": "يَـ … ـونَ"
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-overzicht",
+        "zin": "___ نَتَكَلَّمُ الفَرَنْسِيَّةَ.",
+        "nl": "Wij spreken geen Frans.",
+        "woordbank": [
+          "لا",
+          "ما",
+          "لَسْنا"
+        ],
+        "antwoord": [
+          "لا"
+        ],
+        "uitleg": "Muḍāriʿ → {ar|لا}."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vervoeging-overzicht",
+        "instructie": "Vervoeg عَمِلَ / يَعْمَلُ.",
+        "rijen": [
+          {
+            "label": "wij (māḍī)",
+            "antwoord": "عَمِلْنا",
+            "tr": "ʿamilnā"
+          },
+          {
+            "label": "jullie (v) (muḍāriʿ)",
+            "antwoord": "تَعْمَلْنَ",
+            "tr": "taʿmalna"
+          },
+          {
+            "label": "zij twee (m) (māḍī)",
+            "antwoord": "عَمِلا",
+            "tr": "ʿamilā"
+          }
+        ],
+        "uitleg": "{ar|عَمِلْنا} · {ar|تَعْمَلْنَ} · {ar|عَمِلا}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "vervoeging-overzicht",
+        "nl": "Ik ben geboren in Tanger.",
+        "woorden": [
+          "وُلِدْتُ",
+          "في",
+          "طَنْجَةَ."
+        ],
+        "uitleg": "{ar|وُلِدْتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ontkenning-overzicht",
+        "bron": "Ik ben niet moe. (m)",
+        "antwoorden": [
+          "لَسْتُ مُتْعَبًا"
+        ],
+        "uitleg": "{ar|لَسْتُ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "حُلْمي أَنْ أَعيشَ في المَغْرِبِ.",
+        "antwoorden": [
+          "mijn droom is om in marokko te wonen",
+          "mijn droom is in marokko te wonen",
+          "mijn droom is om in marokko te leven"
+        ],
+        "uitleg": "{ar|حُلْمي} = mijn droom."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vervoeging-overzicht",
+        "bron": "اِنْتَقَلْنا إِلى أَمْسْتِرْدامَ.",
+        "antwoorden": [
+          "we zijn naar amsterdam verhuisd",
+          "wij zijn naar amsterdam verhuisd",
+          "we verhuisden naar amsterdam"
+        ],
+        "uitleg": "{ar|اِنْتَقَلَ إِلى} = verhuizen naar."
+      }
+    ]
+  }
+}

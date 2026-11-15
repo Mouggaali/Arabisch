@@ -1,0 +1,637 @@
+{
+  "id": "j3-p12-l134",
+  "code": "L134",
+  "type": "les",
+  "titel": "Wonen en werken in de Arabische wereld",
+  "thema": "Contracten, vergunningen en huren; voorwaarden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over werken en wonen in een Arabisch land praten.",
+    "voorwaarden uitdrukken met بِشَرْطِ أَنْ، ما دامَ، طالَما، يُشْتَرَطُ.",
+    "de belangrijkste woorden van arbeids- en huurcontracten begrijpen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l134-w01",
+      "ar": "عَقْدُ عَمَلٍ",
+      "tr": "ʿaqdu ʿamal",
+      "nl": [
+        "arbeidscontract"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w02",
+      "ar": "عَقْدُ إيجارٍ",
+      "tr": "ʿaqdu ījār",
+      "nl": [
+        "huurcontract"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w03",
+      "ar": "تَصْريحُ إِقامَةٍ",
+      "tr": "taṣrīḥu iqāma",
+      "nl": [
+        "verblijfsvergunning"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w04",
+      "ar": "مُغْتَرِبٌ",
+      "tr": "muġtarib",
+      "nl": [
+        "expat, iemand die in het buitenland woont"
+      ],
+      "soort": "deelwoord (VIII)"
+    },
+    {
+      "id": "j3-p12-l134-w05",
+      "ar": "ضَمانٌ اِجْتِماعِيٌّ",
+      "tr": "ḍamānun ijtimāʿiyy",
+      "nl": [
+        "sociale zekerheid"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w06",
+      "ar": "فَتْرَةُ التَّجْرِبَةِ",
+      "tr": "fatratu t-tajriba",
+      "nl": [
+        "proeftijd"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w07",
+      "ar": "ساعاتٌ إِضافِيَّةٌ",
+      "tr": "sāʿātun iḍāfiyya",
+      "nl": [
+        "overuren"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w08",
+      "ar": "عُطْلَةٌ سَنَوِيَّةٌ",
+      "tr": "ʿuṭlatun sanawiyya",
+      "nl": [
+        "jaarlijkse vakantie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w09",
+      "ar": "مَبْلَغُ الضَّمانِ",
+      "tr": "mablaġu ḍ-ḍamān",
+      "nl": [
+        "de borg (huur)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w10",
+      "ar": "بِشَرْطِ أَنْ",
+      "tr": "bi-šarṭi an",
+      "nl": [
+        "op voorwaarde dat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w11",
+      "ar": "ما دامَ",
+      "tr": "mā dāma",
+      "nl": [
+        "zolang (als)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l134-w12",
+      "ar": "طالَما",
+      "tr": "ṭālamā",
+      "nl": [
+        "zolang"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p12-l134-w13",
+      "ar": "يُشْتَرَطُ",
+      "tr": "yuštaraṭu",
+      "nl": [
+        "het is een vereiste"
+      ],
+      "soort": "werkwoord (lijdend VIII)"
+    },
+    {
+      "id": "j3-p12-l134-w14",
+      "ar": "وَقَّعَ عَلى",
+      "tr": "waqqaʿa ʿalā",
+      "nl": [
+        "tekenen, ondertekenen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p12-l134-w15",
+      "ar": "بَنْدٌ",
+      "tr": "band",
+      "nl": [
+        "artikel, clausule"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|بُنودٌ}."
+    },
+    {
+      "id": "j3-p12-l134-w16",
+      "ar": "فَسَخَ العَقْدَ",
+      "tr": "fasaḫa l-ʿaqd",
+      "nl": [
+        "het contract opzeggen"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Voorwaarden in contracten",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Constructie",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "بِشَرْطِ أَنْ + manṣūb",
+              "op voorwaarde dat",
+              "بِشَرْطِ أَنْ تَدْفَعَ الإيجارَ في وَقْتِهِ"
+            ],
+            [
+              "يُشْتَرَطُ أَنْ + manṣūb / maṣdar",
+              "het is een vereiste dat",
+              "يُشْتَرَطُ إِتْقانُ العَرَبِيَّةِ"
+            ],
+            [
+              "ما دامَ + zin",
+              "zolang (als)",
+              "ما دُمْتَ تَعْمَلُ هُنا، تَحْتاجُ إِلى تَصْريحٍ"
+            ],
+            [
+              "طالَما + werkwoord",
+              "zolang",
+              "طالَما العَقْدُ ساري المَفْعولِ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|ما دامَ} kende je als *zuster van kāna* (les 64): het vervoegt zoals {ar|دامَ}: {ar|ما دُمْتُ، ما دُمْتَ، ما دامَتْ}. Het verbindt een **toestand** met een gevolg: zolang de toestand duurt, geldt het gevolg."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|يُشْتَرَطُ} is een lijdende vorm VIII van {ar|ش-ر-ط}: *er wordt als voorwaarde gesteld*. Typisch voor vacatures en contracten: {ar|يُشْتَرَطُ في المُرَشَّحِ …} (de kandidaat moet …)."
+        }
+      ]
+    },
+    {
+      "titel": "Een baan in Dubai",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وَقَّعْتُ عَلى عَقْدِ عَمَلٍ لِمُدَّةِ سَنَتَيْنِ.",
+              "tr": "waqqaʿtu ʿalā ʿaqdi ʿamalin li-muddati sanatayn.",
+              "nl": "Ik heb een arbeidscontract voor twee jaar getekend."
+            },
+            {
+              "ar": "يُشْتَرَطُ في المُرَشَّحِ إِتْقانُ العَرَبِيَّةِ وَالإِنْجْليزِيَّةِ.",
+              "tr": "yuštaraṭu fi l-muraššaḥi itqānu l-ʿarabiyyati wa-l-injlīziyya.",
+              "nl": "De kandidaat moet Arabisch en Engels goed beheersen."
+            },
+            {
+              "ar": "فَتْرَةُ التَّجْرِبَةِ ثَلاثَةُ أَشْهُرٍ.",
+              "tr": "fatratu t-tajribati ṯalāṯatu ašhur.",
+              "nl": "De proeftijd is drie maanden."
+            },
+            {
+              "ar": "يُمْكِنُكَ أَنْ تَسْكُنَ هُنا بِشَرْطِ أَنْ تَدْفَعَ مَبْلَغَ الضَّمانِ.",
+              "tr": "yumkinuka an taskuna hunā bi-šarṭi an tadfaʿa mablaġa ḍ-ḍamān.",
+              "nl": "Je mag hier wonen op voorwaarde dat je de borg betaalt."
+            },
+            {
+              "ar": "ما دُمْتَ مُغْتَرِبًا، تَحْتاجُ إِلى تَصْريحِ إِقامَةٍ.",
+              "tr": "mā dumta muġtariban, taḥtāju ilā taṣrīḥi iqāma.",
+              "nl": "Zolang je in het buitenland woont, heb je een verblijfsvergunning nodig."
+            },
+            {
+              "ar": "لا يَجوزُ فَسْخُ العَقْدِ خِلالَ فَتْرَةِ التَّجْرِبَةِ إِلّا بِإِشْعارٍ.",
+              "tr": "lā yajūzu fasḫu l-ʿaqdi ḫilāla fatrati t-tajribati illā bi-išʿār.",
+              "nl": "Het contract mag tijdens de proeftijd alleen met opzegging worden beëindigd.",
+              "review": {
+                "status": "onzeker",
+                "note": "Juridische formulering laten controleren."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عَقْدُ إيجارٍ",
+              "nl": "huurcontract",
+              "woord": "j3-p12-l134-w02"
+            },
+            {
+              "ar": "تَصْريحُ إِقامَةٍ",
+              "nl": "verblijfsvergunning",
+              "woord": "j3-p12-l134-w03"
+            },
+            {
+              "ar": "مُغْتَرِبٌ",
+              "nl": "expat",
+              "woord": "j3-p12-l134-w04"
+            },
+            {
+              "ar": "فَتْرَةُ التَّجْرِبَةِ",
+              "nl": "proeftijd",
+              "woord": "j3-p12-l134-w06"
+            },
+            {
+              "ar": "ساعاتٌ إِضافِيَّةٌ",
+              "nl": "overuren",
+              "woord": "j3-p12-l134-w07"
+            },
+            {
+              "ar": "بَنْدٌ",
+              "nl": "clausule",
+              "woord": "j3-p12-l134-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "voorwaarde-contract",
+          "tekst": "بِشَرْطِ أَنْ تَدْفَعَ في وَقْتِكَ",
+          "vraag": "Wat is de voorwaarde?",
+          "opties": [
+            "op tijd betalen",
+            "vroeg komen",
+            "het contract tekenen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بِشَرْطِ أَنْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Voorwaarden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "voorwaarde-contract",
+          "zin": "يُمْكِنُكَ العَمَلُ هُنا بِشَرْطِ أَنْ ___ عَلى تَصْريحٍ.",
+          "nl": "Je mag hier werken op voorwaarde dat je een vergunning krijgt.",
+          "antwoord": [
+            "تَحْصُلَ"
+          ],
+          "uitleg": "Manṣūb na {ar|أَنْ}.",
+          "woordbank": [
+            "تَحْصُلَ",
+            "تَحْصُلُ",
+            "حَصَلْتَ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "voorwaarde-contract",
+          "zin": "ما ___ تَسْكُنُ هُنا، اِدْفَعِ الإيجارَ.",
+          "nl": "Zolang je hier woont, betaal de huur.",
+          "antwoord": [
+            "دُمْتَ"
+          ],
+          "uitleg": "{ar|ما دامَ} vervoegd.",
+          "woordbank": [
+            "دُمْتَ",
+            "دامَ",
+            "دُمْتُ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voorwaarde-contract",
+          "vraag": "{ar|يُشْتَرَطُ إِتْقانُ الفَرَنْسِيَّةِ} betekent ...",
+          "opties": [
+            "Goede beheersing van het Frans is vereist.",
+            "Frans is niet nodig.",
+            "Je mag Frans leren."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُشْتَرَطُ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voorwaarde-contract",
+          "vraag": "Welk woord betekent ook 'zolang'?",
+          "opties": [
+            "طالَما",
+            "بِشَرْطِ",
+            "رَغْمَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|طالَما}"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "voorwaarde-contract",
+          "instructie": "Vervoeg ما دامَ.",
+          "rijen": [
+            {
+              "label": "zolang ik …",
+              "antwoord": "ما دُمْتُ",
+              "tr": "mā dumtu"
+            },
+            {
+              "label": "zolang zij (v) …",
+              "antwoord": "ما دامَتْ",
+              "tr": "mā dāmat"
+            }
+          ],
+          "uitleg": "Hol: {ar|دُمْ-} voor medeklinkeruitgangen."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "voorwaarde-contract",
+          "nl": "Ik heb een arbeidscontract voor twee jaar getekend.",
+          "woorden": [
+            "وَقَّعْتُ",
+            "عَلى",
+            "عَقْدِ",
+            "عَمَلٍ",
+            "لِمُدَّةِ",
+            "سَنَتَيْنِ."
+          ],
+          "uitleg": "{ar|وَقَّعَ عَلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de jaarlijkse vakantie",
+          "antwoorden": [
+            "العُطْلَةُ السَّنَوِيَّةُ",
+            "العطلة السنوية"
+          ],
+          "uitleg": "{ar|العُطْلَةُ السَّنَوِيَّةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "voorwaarde-contract",
+          "bron": "فَتْرَةُ التَّجْرِبَةِ ثَلاثَةُ أَشْهُرٍ.",
+          "antwoorden": [
+            "de proeftijd is drie maanden",
+            "de proefperiode duurt drie maanden"
+          ],
+          "uitleg": "{ar|فَتْرَةُ التَّجْرِبَةِ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عَقْدُ عَمَلٍ",
+            "nl": "arbeidscontract"
+          },
+          {
+            "ar": "ضَمانٌ اِجْتِماعِيٌّ",
+            "nl": "sociale zekerheid"
+          },
+          {
+            "ar": "مَبْلَغُ الضَّمانِ",
+            "nl": "borg"
+          },
+          {
+            "ar": "فَسَخَ العَقْدَ",
+            "nl": "contract opzeggen"
+          },
+          {
+            "ar": "وَقَّعَ عَلى",
+            "nl": "ondertekenen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "{ar|بِشَرْطِ أَنْ} betekent ...",
+        "opties": [
+          "op voorwaarde dat",
+          "omdat",
+          "hoewel"
+        ],
+        "juist": 0,
+        "uitleg": "Voorwaarde."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "'Zolang jij (m) hier bent' is ...",
+        "opties": [
+          "ما دُمْتَ هُنا",
+          "ما دامَ هُنا",
+          "طالَما كُنْتُ هُنا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما دُمْتَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voorwaarde-contract",
+        "vraag": "Waar lees je vaak {ar|يُشْتَرَطُ}?",
+        "opties": [
+          "in vacatures en contracten",
+          "in liefdesbrieven",
+          "in recepten"
+        ],
+        "juist": 0,
+        "uitleg": "Vereisten."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|مُغْتَرِبٌ} is ...",
+        "opties": [
+          "iemand die in het buitenland woont",
+          "een toerist",
+          "een vluchteling"
+        ],
+        "juist": 0,
+        "uitleg": "Expat."
+      },
+      {
+        "type": "luisteren",
+        "tag": "voorwaarde-contract",
+        "tekst": "يُشْتَرَطُ في المُرَشَّحِ خِبْرَةُ خَمْسِ سَنَواتٍ",
+        "vraag": "Wat is vereist?",
+        "opties": [
+          "vijf jaar ervaring",
+          "een master",
+          "een rijbewijs"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُشْتَرَطُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "وَقَّعْتُ عَلى عَقْدِ الإيجارِ",
+        "vraag": "Wat heeft de spreker gedaan?",
+        "opties": [
+          "het huurcontract getekend",
+          "het huurcontract opgezegd",
+          "de huur betaald"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَقَّعَ عَلى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "voorwaarde-contract",
+        "zin": "___ العَقْدُ ساري المَفْعولِ، لا يُمْكِنُكَ المُغادَرَةُ.",
+        "nl": "Zolang het contract geldig is, kun je niet vertrekken.",
+        "antwoord": [
+          "طالَما"
+        ],
+        "uitleg": "Zolang.",
+        "woordbank": [
+          "طالَما",
+          "بِشَرْطِ",
+          "لِأَنَّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "voorwaarde-contract",
+        "zin": "سَأَقْبَلُ العَرْضَ بِشَرْطِ أَنْ ___ الرّاتِبُ مُناسِبًا.",
+        "nl": "Ik accepteer het aanbod op voorwaarde dat het salaris passend is.",
+        "antwoord": [
+          "يَكونَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "يَكونَ",
+          "يَكونُ",
+          "كانَ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِشْتَغَلْتُ عَشْرَ ساعاتٍ ___ هٰذا الشَّهْرَ.",
+        "nl": "Ik heb deze maand tien overuren gewerkt.",
+        "antwoord": [
+          "إِضافِيَّةً"
+        ],
+        "uitleg": "{ar|ساعاتٌ إِضافِيَّةٌ}",
+        "woordbank": [
+          "إِضافِيَّةً",
+          "سَنَوِيَّةً",
+          "اِجْتِماعِيَّةً"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "voorwaarde-contract",
+        "instructie": "Vervoeg ما دامَ.",
+        "rijen": [
+          {
+            "label": "zolang wij …",
+            "antwoord": "ما دُمْنا",
+            "tr": "mā dumnā"
+          },
+          {
+            "label": "zolang hij …",
+            "antwoord": "ما دامَ",
+            "tr": "mā dāma"
+          }
+        ],
+        "uitleg": "Hol."
+      },
+      {
+        "type": "ordenen",
+        "tag": "voorwaarde-contract",
+        "nl": "Je mag hier wonen op voorwaarde dat je de borg betaalt.",
+        "woorden": [
+          "يُمْكِنُكَ",
+          "أَنْ",
+          "تَسْكُنَ",
+          "هُنا",
+          "بِشَرْطِ",
+          "أَنْ",
+          "تَدْفَعَ",
+          "الضَّمانَ."
+        ],
+        "uitleg": "{ar|بِشَرْطِ أَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de verblijfsvergunning",
+        "antwoorden": [
+          "تَصْريحُ الإِقامَةِ",
+          "تصريح الإقامة",
+          "تَصْريحُ إِقامَةٍ"
+        ],
+        "uitleg": "{ar|تَصْريحُ الإِقامَةِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "voorwaarde-contract",
+        "bron": "ما دُمْتَ مُغْتَرِبًا تَحْتاجُ إِلى تَصْريحٍ.",
+        "antwoorden": [
+          "zolang je in het buitenland woont heb je een vergunning nodig",
+          "zolang je expat bent heb je een vergunning nodig"
+        ],
+        "uitleg": "{ar|ما دامَ}"
+      }
+    ]
+  }
+}

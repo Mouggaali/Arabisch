@@ -1,0 +1,479 @@
+{
+  "id": "j2-p6-h16",
+  "code": "H16",
+  "type": "herhaling",
+  "titel": "Herhaling blok 6A",
+  "thema": "Naamvallen, diptoten, de vijf namen en kāna en zusters",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bij elk naamwoord de naamval bepalen en verklaren.",
+    "diptoten correct verbuigen.",
+    "أَبو / أَبا / أَبي en ذو / ذا / ذي gebruiken.",
+    "het gezegde na كانَ en zusters in de accusatief zetten."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 61–64 en D10.",
+  "grammatica": [
+    {
+      "titel": "Eén zin, alle naamvallen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كانَ أَبو سَميرٍ صَيّادًا في مَدينَةِ طَنْجَةَ.",
+              "tr": "kāna abū Samīrin ṣayyādan fī madīnati Ṭanjata.",
+              "nl": "Abu Samir was visser in de stad Tanger."
+            }
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Naamval",
+            "Waarom"
+          ],
+          "arKolommen": [
+            0
+          ],
+          "rijen": [
+            [
+              "أَبو",
+              "marfūʿ (و)",
+              "onderwerp van كانَ; een van de vijf namen"
+            ],
+            [
+              "سَميرٍ",
+              "majrūr",
+              "tweede lid iḍāfa"
+            ],
+            [
+              "صَيّادًا",
+              "manṣūb",
+              "gezegde van كانَ"
+            ],
+            [
+              "مَدينَةِ",
+              "majrūr",
+              "na في; eerste iḍāfa-lid zonder tanwīn"
+            ],
+            [
+              "طَنْجَةَ",
+              "majrūr (-a)",
+              "tweede lid iḍāfa; diptoot (stadsnaam)"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Zie je hoe alle onderwerpen van dit blok samenkomen? Een Arabische zin lezen met de juiste uitgangen is een kwestie van **per woord twee vragen stellen**: welke functie heeft het (onderwerp, gezegde, voorwerp, na voorzetsel …) en welk soort woord is het (normaal, diptoot, een van de vijf)?"
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Naamvallen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Welke naamval heeft {ar|الكِتابَ} in {ar|قَرَأَ الطّالِبُ الكِتابَ}?",
+          "opties": [
+            "manṣūb",
+            "marfūʿ",
+            "majrūr"
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend voorwerp."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "diptoten",
+          "vraag": "'Uit Parijs' is ...",
+          "opties": [
+            "مِنْ باريسَ",
+            "مِنْ باريسٍ",
+            "مِنْ باريسِ"
+          ],
+          "juist": 0,
+          "uitleg": "Diptoot: genitief -a."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vijf-namen",
+          "vraag": "'Ik bezocht je vader' is ...",
+          "opties": [
+            "زُرْتُ أَباكَ",
+            "زُرْتُ أَبوكَ",
+            "زُرْتُ أَبيكَ"
+          ],
+          "juist": 0,
+          "uitleg": "Accusatief → ا."
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-zusters",
+          "zin": "صارَ الطَّقْسُ ___.",
+          "nl": "Het weer werd warm.",
+          "woordbank": [
+            "حارًّا",
+            "حارٌّ",
+            "حارٍّ"
+          ],
+          "antwoord": [
+            "حارًّا"
+          ],
+          "uitleg": "Gezegde → accusatief."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "صَيّادٌ",
+              "nl": "visser",
+              "woord": "j2-p6-l61-w08"
+            },
+            {
+              "ar": "جَزيرَةٌ",
+              "nl": "eiland",
+              "woord": "j2-p6-l62-w03"
+            },
+            {
+              "ar": "حَفيدٌ",
+              "nl": "kleinzoon"
+            },
+            {
+              "ar": "ريفٌ",
+              "nl": "platteland",
+              "woord": "j2-p6-l64-w11"
+            },
+            {
+              "ar": "نيشان",
+              "nl": "rechtdoor (Darija)",
+              "woord": "j2-p6-d10-w01"
+            },
+            {
+              "ar": "عاصِفَةٌ",
+              "nl": "storm"
+            }
+          ],
+          "uitleg": "Woorden uit blok 6A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "irab",
+          "instructie": "Zet مَدْرَسَةٌ / مَدارِسُ in de genitief na في (onbepaald).",
+          "rijen": [
+            {
+              "label": "enkelvoud",
+              "antwoord": "مَدْرَسَةٍ",
+              "tr": "madrasatin",
+              "eind": true
+            },
+            {
+              "label": "meervoud",
+              "antwoord": "مَدارِسَ",
+              "tr": "madārisa",
+              "eind": true
+            }
+          ],
+          "uitleg": "Triptoot -in · diptoot -a."
+        },
+        {
+          "type": "invullen",
+          "tag": "vijf-namen",
+          "zin": "هٰذا كِتابُ ___كَ.",
+          "nl": "Dit is het boek van je broer.",
+          "woordbank": [
+            "أَخي",
+            "أَخو",
+            "أَخا"
+          ],
+          "antwoord": [
+            "أَخي"
+          ],
+          "uitleg": "Tweede iḍāfa-lid → genitief → ي."
+        },
+        {
+          "type": "ordenen",
+          "tag": "kana-zusters",
+          "nl": "Vroeger was ons dorp arm.",
+          "woorden": [
+            "في",
+            "الماضي",
+            "كانَتْ",
+            "قَرْيَتُنا",
+            "فَقيرَةً."
+          ],
+          "uitleg": "{ar|كانَتْ} + accusatief."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-weg",
+          "tekst": "دور على ليسر",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Sla linksaf.",
+            "Sla rechtsaf.",
+            "Rij rechtdoor."
+          ],
+          "juist": 0,
+          "uitleg": "Darija: {ar|ليسر} = links."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana-zusters",
+          "bron": "De stad werd groot.",
+          "antwoorden": [
+            "صارَتِ المَدينَةُ كَبيرَةً",
+            "أَصْبَحَتِ المَدينَةُ كَبيرَةً"
+          ],
+          "uitleg": "Accusatief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "diptoten",
+          "bron": "في مَساجِدَ قَديمَةٍ",
+          "antwoorden": [
+            "in oude moskeeën"
+          ],
+          "uitleg": "Diptoot + bijvoeglijk naamwoord met -in."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "irab",
+          "bron": "أَكَلَ السَّمَكَةَ القِطُّ.",
+          "antwoorden": [
+            "de kat at de vis",
+            "de kat heeft de vis opgegeten"
+          ],
+          "uitleg": "Naamvallen bepalen wie wat doet."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval krijgt een woord na {ar|عَلى}?",
+        "opties": [
+          "majrūr",
+          "manṣūb",
+          "marfūʿ"
+        ],
+        "juist": 0,
+        "uitleg": "Voorzetsel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Wie doet wat in {ar|زارَ المَريضَ الطَّبيبُ}?",
+        "opties": [
+          "De arts bezocht de patiënt.",
+          "De patiënt bezocht de arts.",
+          "Arts en patiënt bezochten iemand."
+        ],
+        "juist": 0,
+        "uitleg": "-u = onderwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Welk woord is een diptoot?",
+        "opties": [
+          "عُلَماءُ",
+          "طُلّابٌ",
+          "كُتُبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Patroon فُعَلاءُ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vijf-namen",
+        "vraag": "'Abu Karim is hier' is ...",
+        "opties": [
+          "أَبو كَريمٍ هُنا.",
+          "أَبا كَريمٍ هُنا.",
+          "أَبي كَريمٍ هُنا."
+        ],
+        "juist": 0,
+        "uitleg": "Onderwerp → و."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "'Hij is nog steeds ziek' is ...",
+        "opties": [
+          "ما زالَ مَريضًا.",
+          "ما زالَ مَريضٌ.",
+          "لَيْسَ مَريضًا."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما زالَ} + accusatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vijf-namen",
+        "tekst": "سَلِّمْ عَلى أَبيكَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Doe je vader de groeten.",
+          "Bel je vader.",
+          "Dit is je vader."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَبيكَ}: genitief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-zusters",
+        "tekst": "أَصْبَحَ الطَّريقُ مُزْدَحِمًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De weg werd druk.",
+          "De weg was leeg.",
+          "De weg is nog steeds druk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَصْبَحَ} = werd."
+      },
+      {
+        "type": "invullen",
+        "tag": "diptoten",
+        "zin": "مَرَرْتُ بِـ___ كَثيرَةٍ.",
+        "nl": "Ik kwam langs veel scholen.",
+        "woordbank": [
+          "مَدارِسَ",
+          "مَدارِسٍ",
+          "المَدارِسَ"
+        ],
+        "antwoord": [
+          "مَدارِسَ"
+        ],
+        "uitleg": "Diptoot: genitief -a.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "رَأَيْتُ ___ في البَحْرِ.",
+        "nl": "Ik zag de boot op zee.",
+        "woordbank": [
+          "القارِبَ",
+          "القارِبُ",
+          "القارِبِ"
+        ],
+        "antwoord": [
+          "القارِبَ"
+        ],
+        "uitleg": "Lijdend voorwerp → -a.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-zusters",
+        "zin": "لَيْسَتِ ___ صَعْبَةً.",
+        "nl": "Het leven is niet moeilijk.",
+        "woordbank": [
+          "الحَياةُ",
+          "الحَياةَ",
+          "الحَياةِ"
+        ],
+        "antwoord": [
+          "الحَياةُ"
+        ],
+        "uitleg": "Onderwerp van {ar|لَيْسَ} → marfūʿ.",
+        "streng": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "شُجاعٌ",
+            "nl": "dapper"
+          },
+          {
+            "ar": "مُحيطٌ",
+            "nl": "oceaan"
+          },
+          {
+            "ar": "عَروسٌ",
+            "nl": "bruid"
+          },
+          {
+            "ar": "مُخْتَلِفٌ",
+            "nl": "anders"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vijf-namen",
+        "nl": "Abu Samir is een man met ervaring.",
+        "woorden": [
+          "أَبو",
+          "سَميرٍ",
+          "رَجُلٌ",
+          "ذو",
+          "خِبْرَةٍ."
+        ],
+        "uitleg": "{ar|ذو} + genitief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vijf-namen",
+        "bron": "je vader (m, onderwerp)",
+        "antwoorden": [
+          "أَبوكَ"
+        ],
+        "uitleg": "Nominatief → و."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-zusters",
+        "bron": "ظَلَّ جَدّي في القَرْيَةِ.",
+        "antwoorden": [
+          "mijn opa bleef in het dorp",
+          "mijn grootvader bleef in het dorp"
+        ],
+        "uitleg": "{ar|ظَلَّ} = bleef."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-weg",
+        "bron": "وقف هنا عافاك",
+        "tr": "wqəf hna ʿāfāk",
+        "antwoorden": [
+          "stop hier alstublieft",
+          "stop hier alsjeblieft"
+        ],
+        "uitleg": "Darija in de taxi."
+      }
+    ]
+  }
+}

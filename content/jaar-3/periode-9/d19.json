@@ -1,0 +1,618 @@
+{
+  "id": "j3-p9-d19",
+  "code": "D19",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: verhalen vertellen in het verleden",
+  "thema": "Een verhaal of sprookje navertellen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een verhaal openen en afsluiten in het Darija.",
+    "verleden tijd en gewoonte (كان + كا-vorm) combineren.",
+    "verbindingswoorden gebruiken (ملي، من بعد، الحاصول)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-d19-w01",
+      "ar": "واحد النهار",
+      "tr": "wāḥəd nnhāṛ",
+      "nl": [
+        "op een dag"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w02",
+      "ar": "كان واحد الراجل",
+      "tr": "kān wāḥəd ṛṛājəl",
+      "nl": [
+        "er was eens een man"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w04",
+      "ar": "فجأة",
+      "tr": "fəjʾa",
+      "nl": [
+        "plotseling"
+      ],
+      "soort": "bijwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w05",
+      "ar": "ملي",
+      "tr": "mlli",
+      "nl": [
+        "toen, wanneer"
+      ],
+      "soort": "voegwoord",
+      "notitie": "Fusha: {ar|عِنْدَما}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w06",
+      "ar": "حتى",
+      "tr": "ḥtta",
+      "nl": [
+        "totdat, tot"
+      ],
+      "soort": "voegwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w07",
+      "ar": "قال ليه",
+      "tr": "qāl līh",
+      "nl": [
+        "hij zei tegen hem"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w08",
+      "ar": "بقا",
+      "tr": "bqa",
+      "nl": [
+        "bleef"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w09",
+      "ar": "رجع",
+      "tr": "ṛjəʿ",
+      "nl": [
+        "kwam terug"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w10",
+      "ar": "لقا",
+      "tr": "lqa",
+      "nl": [
+        "vond"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|وَجَدَ}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w11",
+      "ar": "دار",
+      "tr": "dāṛ",
+      "nl": [
+        "deed"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Fusha: {ar|فَعَلَ}. {ar|شنو درتي؟} = wat heb je gedaan?",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w12",
+      "ar": "الحاصول",
+      "tr": "lḥāṣūl",
+      "nl": [
+        "kortom, uiteindelijk"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w13",
+      "ar": "الخرافة",
+      "tr": "lxṛāfa",
+      "nl": [
+        "het sprookje, de fabel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w14",
+      "ar": "كان كيدير",
+      "tr": "kān kaydīr",
+      "nl": [
+        "hij deed altijd"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "كان + كا-vorm = gewoonte in het verleden.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w15",
+      "ar": "ساليت",
+      "tr": "sālīt",
+      "nl": [
+        "ik ben klaar"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p9-d19-w16",
+      "ar": "مرة",
+      "tr": "mərra",
+      "nl": [
+        "een keer, eens"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een verhaal vertellen in het Darija",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Verhalen beginnen vaak met {ar|كان واحد …} (er was eens …) of {ar|واحد النهار} (op een dag). Gewoontes in het verleden maak je met {ar|كان} + كا-vorm, net als Fusha {ar|كانَ} + muḍāriʿ: {ar|كان كيخدم} (hij werkte altijd)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "er was eens",
+              "كانَ يا ما كانَ",
+              "كان واحد …|kān wāḥəd …"
+            ],
+            [
+              "toen",
+              "عِنْدَما",
+              "ملي|mlli"
+            ],
+            [
+              "hij vond",
+              "وَجَدَ",
+              "لقا|lqa"
+            ],
+            [
+              "hij deed",
+              "فَعَلَ",
+              "دار|dāṛ"
+            ],
+            [
+              "kortom",
+              "بِاخْتِصارٍ",
+              "الحاصول|lḥāṣūl"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De parallel met het Fusha is groot: {ar|كان} + tegenwoordige tijd voor gewoonte, māḍī voor afzonderlijke gebeurtenissen. Wat verschilt, zijn vooral de woorden ({ar|لقا}، {ar|دار}، {ar|ملي})."
+        }
+      ]
+    },
+    {
+      "titel": "Een kort verhaal",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كان واحد الراجل كيسكن ف واحد القرية.",
+              "tr": "kān wāḥəd ṛṛājəl kayskən f-wāḥəd lqarya.",
+              "nl": "Er was eens een man die in een dorp woonde.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "واحد النهار مشى للسوق ولقا واحد الصندوق.",
+              "tr": "wāḥəd nnhāṛ mša l-ssūq w-lqa wāḥəd ṣṣndūq.",
+              "nl": "Op een dag ging hij naar de markt en vond een kist.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ملي حلو، لقا فيه الدهب!",
+              "tr": "mlli ḥəllu, lqa fīh ddhəb!",
+              "nl": "Toen hij hem opendeed, vond hij er goud in!",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الحاصول، رجع غني.",
+              "tr": "lḥāṣūl, ṛjəʿ ġni.",
+              "nl": "Kortom, hij werd rijk.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-verhaal",
+          "paren": [
+            {
+              "ar": "واحد النهار",
+              "nl": "op een dag",
+              "woord": "j3-p9-d19-w01"
+            },
+            {
+              "ar": "ملي",
+              "nl": "toen",
+              "woord": "j3-p9-d19-w05"
+            },
+            {
+              "ar": "لقا",
+              "nl": "vond",
+              "woord": "j3-p9-d19-w10"
+            },
+            {
+              "ar": "دار",
+              "nl": "deed",
+              "woord": "j3-p9-d19-w11"
+            },
+            {
+              "ar": "الحاصول",
+              "nl": "kortom",
+              "woord": "j3-p9-d19-w12"
+            },
+            {
+              "ar": "الخرافة",
+              "nl": "sprookje",
+              "woord": "j3-p9-d19-w13"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-verhaal",
+          "tekst": "واحد النهار",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "op een dag",
+            "elke dag",
+            "vandaag"
+          ],
+          "juist": 0,
+          "uitleg": "*wāḥəd nnhāṛ* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Vertellen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-verhaal",
+          "zin": "___ الراجل كيسكن ف القرية.",
+          "nl": "Er was eens een man die in het dorp woonde.",
+          "antwoord": [
+            "كان واحد"
+          ],
+          "uitleg": "Begin van een verhaal.",
+          "woordbank": [
+            "كان واحد",
+            "واحد النهار",
+            "الحاصول"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|لقا} is in het Fusha ...",
+          "opties": [
+            "وَجَدَ",
+            "قالَ",
+            "بَقِيَ"
+          ],
+          "juist": 0,
+          "uitleg": "vond."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-verhaal",
+          "vraag": "Hoe zeg je 'hij werkte altijd' in het Darija?",
+          "opties": [
+            "كان كيخدم",
+            "خدم",
+            "غادي يخدم"
+          ],
+          "juist": 0,
+          "uitleg": "كان + كا-vorm."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-verhaal",
+          "nl": "Op een dag ging hij naar de markt.",
+          "woorden": [
+            "واحد",
+            "النهار",
+            "مشى",
+            "للسوق."
+          ],
+          "uitleg": "Verleden tijd."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-verhaal",
+          "bron": "toen (Darija)",
+          "antwoorden": [
+            "ملي"
+          ],
+          "uitleg": "{ar|ملي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-verhaal",
+          "bron": "شنو درتي البارح؟",
+          "antwoorden": [
+            "wat heb je gisteren gedaan",
+            "wat deed je gisteren"
+          ],
+          "uitleg": "{ar|دار} = doen.",
+          "tr": "šnu dərti lbāṛəḥ?"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-verhaal",
+        "paren": [
+          {
+            "ar": "من بعد",
+            "nl": "daarna"
+          },
+          {
+            "ar": "فجأة",
+            "nl": "plotseling"
+          },
+          {
+            "ar": "بقا",
+            "nl": "bleef"
+          },
+          {
+            "ar": "ساليت",
+            "nl": "ik ben klaar"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-verhaal",
+        "vraag": "Waarmee begint een Darija-verhaal vaak?",
+        "opties": [
+          "كان واحد …",
+          "غادي …",
+          "ما … ش"
+        ],
+        "juist": 0,
+        "uitleg": "Er was eens."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|ملي} is in het Fusha ...",
+        "opties": [
+          "عِنْدَما",
+          "لِماذا",
+          "أَيْنَ"
+        ],
+        "juist": 0,
+        "uitleg": "toen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|دار} betekent ...",
+        "opties": [
+          "deed",
+          "huis",
+          "draaide"
+        ],
+        "juist": 0,
+        "uitleg": "Context!"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-verhaal",
+        "tekst": "ملي رجعت للدار، لقيت الباب محلول",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Toen ik thuiskwam, vond ik de deur open.",
+          "Ik ging naar huis en deed de deur dicht.",
+          "De deur was dicht."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ملي}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-verhaal",
+        "tekst": "الحاصول، كلشي مشى مزيان",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Kortom, alles ging goed.",
+          "Plotseling ging alles mis.",
+          "Daarna ging niemand."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الحاصول}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-verhaal",
+        "zin": "___ النهار، مشيت للبحر.",
+        "nl": "Op een dag ging ik naar zee.",
+        "antwoord": [
+          "واحد"
+        ],
+        "uitleg": "{ar|واحد النهار}",
+        "woordbank": [
+          "واحد",
+          "كل",
+          "هاد"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-verhaal",
+        "zin": "___ قال ليه: سير!",
+        "nl": "Daarna zei hij tegen hem: ga!",
+        "antwoord": [
+          "من بعد"
+        ],
+        "uitleg": "{ar|من بعد}",
+        "woordbank": [
+          "من بعد",
+          "فجأة",
+          "ملي"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-verhaal",
+        "nl": "Kortom, hij werd rijk.",
+        "woorden": [
+          "الحاصول،",
+          "رجع",
+          "غني."
+        ],
+        "uitleg": "Afsluiting."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-verhaal",
+        "bron": "het sprookje (Darija)",
+        "antwoorden": [
+          "الخرافة"
+        ],
+        "uitleg": "{ar|الخرافة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-verhaal",
+        "bron": "plotseling (Darija)",
+        "antwoorden": [
+          "فجأة"
+        ],
+        "uitleg": "{ar|فجأة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-verhaal",
+        "bron": "كان كيخدم بزاف",
+        "antwoorden": [
+          "hij werkte altijd veel",
+          "hij werkte veel"
+        ],
+        "uitleg": "Gewoonte in het verleden.",
+        "tr": "kān kayxdəm bəzzāf"
+      }
+    ]
+  }
+}

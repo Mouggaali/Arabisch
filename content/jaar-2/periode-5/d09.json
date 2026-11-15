@@ -1,0 +1,121 @@
+{
+  "id": "j2-p5-d09",
+  "code": "D09",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: op de markt (afdingen)",
+  "thema": "Groente, fruit en vis kopen op de souk",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "groente, fruit en hoeveelheden benoemen in het Darija.",
+    "naar de prijs per kilo vragen en afdingen.",
+    "betalen en om wisselgeld vragen."
+  ],
+
+  "woorden": [
+    { "id": "j2-p5-d09-w01", "ar": "الخضرة", "tr": "lxəḍṛa", "nl": ["de groente"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|الخُضَرُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w02", "ar": "الفاكية", "tr": "lfākya", "nl": ["het fruit"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|الفاكِهَةُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w03", "ar": "مطيشة", "tr": "maṭēša", "nl": ["tomaten"], "soort": "zelfstandig naamwoord", "notitie": "Uit het Spaans *tomate*. Fusha: {ar|طَماطِمُ}.", "review": { "status": "onzeker", "note": "Darija-spelling en uitspraak bevestigen." } },
+    { "id": "j2-p5-d09-w04", "ar": "البطاطا", "tr": "lbaṭāṭa", "nl": ["de aardappelen"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w05", "ar": "الحوت", "tr": "lḥūt", "nl": ["de vis"], "soort": "zelfstandig naamwoord", "notitie": "Fusha {ar|حوتٌ} = walvis; vis = {ar|سَمَكٌ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w06", "ar": "نص كيلو", "tr": "nəṣṣ kīlu", "nl": ["een halve kilo"], "soort": "uitdrukking", "notitie": "Fusha: {ar|نِصْفُ كيلو}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w07", "ar": "بشحال الكيلو؟", "tr": "bšḥāl lkīlu?", "nl": ["hoeveel kost een kilo?"], "soort": "vraag", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w08", "ar": "آخر ثمن", "tr": "āxir taman", "nl": ["laatste prijs"], "soort": "uitdrukking", "notitie": "{ar|شنو آخر ثمن؟} = wat is je laatste prijs?", "review": { "status": "onzeker", "note": "Darija bevestigen (ثمن uitgesproken als taman)." } },
+    { "id": "j2-p5-d09-w09", "ar": "خلص", "tr": "xəlləṣ", "nl": ["betalen"], "soort": "werkwoord", "notitie": "{ar|نخلص} = ik betaal. Fusha: {ar|دَفَعَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w10", "ar": "الصرف", "tr": "ṣṣəṛf", "nl": ["het wisselgeld", "kleingeld"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w11", "ar": "البياع", "tr": "lbəyyāʿ", "nl": ["de verkoper"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|البائِعُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w12", "ar": "طري", "tr": "ṭri", "nl": ["vers", "zacht"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w13", "ar": "مزيان", "tr": "mzyān", "nl": ["goed", "mooi"], "soort": "bijvoeglijk naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen; mogelijk al eerder gebruikt." } },
+    { "id": "j2-p5-d09-w14", "ar": "عطيني جوج كيلو", "tr": "ʿṭīni žūž kīlu", "nl": ["geef me twee kilo"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w15", "ar": "صافي", "tr": "ṣāfi", "nl": ["oké", "klaar", "dat is het"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p5-d09-w16", "ar": "الحانوت", "tr": "lḥānūt", "nl": ["de buurtwinkel"], "soort": "zelfstandig naamwoord", "notitie": "Ook Fusha: {ar|حانوتٌ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Afdingen op de souk",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Op de markt vraag je de prijs per kilo: {ar|بشحال الكيلو؟}. Vind je het te duur, dan reageer je met {ar|غالي بزاف!} en vraag je {ar|شنو آخر ثمن؟} (wat is je laatste prijs?).",
+          "Getallen na {ar|جوج} blijven in het Darija gewoon enkelvoud: {ar|جوج كيلو}، {ar|تلاتة كيلو}. De ingewikkelde telwoordregels van het Fusha (les 42) gelden hier niet."
+        ] },
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["groente", "خُضَرٌ", "الخضرة|lxəḍṛa"],
+          ["fruit", "فاكِهَةٌ", "الفاكية|lfākya"],
+          ["tomaten", "طَماطِمُ", "مطيشة|maṭēša"],
+          ["vis", "سَمَكٌ", "الحوت|lḥūt"],
+          ["betalen", "دَفَعَ", "خلص|xəlləṣ"]
+        ] },
+        { "type": "waarom", "md": "Waarom zoveel leenwoorden? Marokko had eeuwenlang contact met Spanje en Frankrijk. Groente- en gebruiksnamen zijn daardoor vaak Spaans ({ar|مطيشة} < *tomate*) of Frans ({ar|الطوموبيل}). Bij twijfel helpt de Europese taal je soms meer dan het Fusha." }
+      ]
+    },
+    {
+      "titel": "Een gesprek",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "بشحال الكيلو ديال مطيشة؟", "tr": "bšḥāl lkīlu dyāl maṭēša?", "nl": "Hoeveel kost een kilo tomaten?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "عشرة دراهم.", "tr": "ʿšṛa dṛāhəm.", "nl": "Tien dirham.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "غالي بزاف! شنو آخر ثمن؟", "tr": "ġāli bəzzāf! šnu āxir taman?", "nl": "Veel te duur! Wat is je laatste prijs?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "صافي، تمنية. عطيني جوج كيلو.", "tr": "ṣāfi, tmənya. ʿṭīni žūž kīlu.", "nl": "Oké, acht. Geef me twee kilo.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "عندك الصرف؟", "tr": "ʿəndək ṣṣəṛf?", "nl": "Heb je wisselgeld?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-markt", "paren": [
+          { "ar": "الخضرة", "nl": "groente", "woord": "j2-p5-d09-w01" },
+          { "ar": "الفاكية", "nl": "fruit", "woord": "j2-p5-d09-w02" },
+          { "ar": "مطيشة", "nl": "tomaten", "woord": "j2-p5-d09-w03" },
+          { "ar": "الحوت", "nl": "vis", "woord": "j2-p5-d09-w05" },
+          { "ar": "الصرف", "nl": "wisselgeld", "woord": "j2-p5-d09-w10" },
+          { "ar": "البياع", "nl": "verkoper", "woord": "j2-p5-d09-w11" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "darija-markt", "tekst": "بشحال الكيلو؟", "vraag": "Wat vraagt de klant?", "opties": ["Hoeveel kost een kilo?", "Hoeveel kilo wil je?", "Waar is de markt?"], "juist": 0, "uitleg": "*bšḥāl lkīlu?* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Afdingen",
+      "items": [
+        { "type": "invullen", "tag": "darija-markt", "zin": "غالي بزاف! شنو ___؟", "nl": "Veel te duur! Wat is je laatste prijs?", "woordbank": ["آخر ثمن", "نص كيلو", "الصرف"], "antwoord": ["آخر ثمن"], "uitleg": "{ar|آخر ثمن} = laatste prijs." },
+        { "type": "invullen", "tag": "darija-markt", "zin": "عطيني ___ كيلو.", "nl": "Geef me twee kilo.", "woordbank": ["جوج", "زوج", "اثنين"], "antwoord": ["جوج"], "uitleg": "Darija 2 = {ar|جوج}." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija {ar|الحوت} is in het Fusha ...", "opties": ["السَّمَكُ (vis)", "الحوتُ (walvis)", "اللَّحْمُ (vlees)"], "juist": 0, "uitleg": "Darija: الحوت = vis." },
+        { "type": "ordenen", "tag": "darija-markt", "nl": "Hoeveel kost een kilo tomaten?", "woorden": ["بشحال", "الكيلو", "ديال", "مطيشة؟"], "uitleg": "{ar|ديال} verbindt kilo en tomaten." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-markt", "bron": "een halve kilo (Darija)", "antwoorden": ["نص كيلو"], "uitleg": "{ar|نص كيلو}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-markt", "bron": "عندك الصرف؟", "tr": "ʿəndək ṣṣəṛf?", "antwoorden": ["heb je wisselgeld", "heb je kleingeld", "heeft u wisselgeld"], "uitleg": "{ar|الصرف} = wisselgeld." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-markt", "paren": [
+        { "ar": "البطاطا", "nl": "aardappelen" },
+        { "ar": "طري", "nl": "vers" },
+        { "ar": "خلص", "nl": "betalen" },
+        { "ar": "الحانوت", "nl": "buurtwinkel" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "darija-markt", "vraag": "Hoe vraag je naar de prijs per kilo?", "opties": ["بشحال الكيلو؟", "فين الكيلو؟", "شكون الكيلو؟"], "juist": 0, "uitleg": "{ar|بشحال} = hoeveel kost." },
+      { "type": "meerkeuze", "tag": "darija-markt", "vraag": "{ar|مطيشة} komt uit het ...", "opties": ["Spaans", "Frans", "Fusha"], "juist": 0, "uitleg": "*tomate*" },
+      { "type": "meerkeuze", "tag": "darija-markt", "vraag": "'Drie kilo' in het Darija is ...", "opties": ["تلاتة كيلو", "تلاتة كيلوات", "ثَلاثَةُ كيلواتٍ"], "juist": 0, "uitleg": "In het Darija blijft het enkelvoud." },
+      { "type": "luisteren", "tag": "darija-markt", "tekst": "صافي، عطيني جوج كيلو", "vraag": "Wat hoor je?", "opties": ["Oké, geef me twee kilo.", "Nee, het is te duur.", "Geef me een halve kilo."], "juist": 0, "uitleg": "{ar|صافي} = oké." },
+      { "type": "luisteren", "tag": "darija-markt", "tekst": "الحوت طري", "vraag": "Wat hoor je?", "opties": ["De vis is vers.", "De vis is duur.", "De vis is op."], "juist": 0, "uitleg": "{ar|طري} = vers." },
+      { "type": "invullen", "tag": "darija-markt", "zin": "بغيت ___ كيلو ديال البطاطا.", "nl": "Ik wil een halve kilo aardappelen.", "woordbank": ["نص", "جوج", "آخر"], "antwoord": ["نص"], "uitleg": "{ar|نص} = half." },
+      { "type": "invullen", "tag": "darija-markt", "zin": "فين ___؟ بغيت نشري الخضرة.", "nl": "Waar is de markt? Ik wil groente kopen.", "woordbank": ["السوق", "الصرف", "الحوت"], "antwoord": ["السوق"], "uitleg": "{ar|السوق} = de markt.", "review": { "status": "onzeker", "note": "نشري (ik koop) laten nakijken." } },
+      { "type": "ordenen", "tag": "darija-markt", "nl": "Veel te duur! Wat is je laatste prijs?", "woorden": ["غالي", "بزاف!", "شنو", "آخر", "ثمن؟"], "uitleg": "Afdingen." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-markt", "bron": "het fruit (Darija)", "antwoorden": ["الفاكية"], "uitleg": "{ar|الفاكية}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-markt", "bron": "oké, klaar (Darija)", "antwoorden": ["صافي"], "uitleg": "{ar|صافي}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-markt", "bron": "البياع مزيان", "tr": "lbəyyāʿ mzyān", "antwoorden": ["de verkoper is goed", "de verkoper is aardig"], "uitleg": "{ar|مزيان} = goed." }
+    ]
+  }
+}

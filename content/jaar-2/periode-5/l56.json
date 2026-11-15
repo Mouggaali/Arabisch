@@ -1,0 +1,759 @@
+{
+  "id": "j2-p5-l56",
+  "code": "L56",
+  "type": "les",
+  "titel": "Talen leren",
+  "thema": "Over je taalleerproces praten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm V (تَفَعَّلَ / يَتَفَعَّلُ) herkennen en vervoegen.",
+    "vorm V zien als de wederkerende tegenhanger van vorm II.",
+    "de maṣdar (تَفَعُّل) en het deelwoord (مُتَفَعِّل) van vorm V vormen.",
+    "vertellen welke talen ik spreek en hoe ik leer."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l56-w01",
+      "ar": "تَذَكَّرَ",
+      "tr": "taḏakkara",
+      "nl": [
+        "zich herinneren"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Muḍāriʿ: {ar|يَتَذَكَّرُ}."
+    },
+    {
+      "id": "j2-p5-l56-w02",
+      "ar": "تَحَسَّنَ",
+      "tr": "taḥassana",
+      "nl": [
+        "verbeteren (zelf beter worden)"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Vorm II {ar|حَسَّنَ} = iets verbeteren."
+    },
+    {
+      "id": "j2-p5-l56-w03",
+      "ar": "تَدَرَّبَ",
+      "tr": "tadarraba",
+      "nl": [
+        "oefenen",
+        "trainen (zelf)"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Vorm II {ar|دَرَّبَ} = iemand trainen."
+    },
+    {
+      "id": "j2-p5-l56-w04",
+      "ar": "تَعَرَّفَ عَلى",
+      "tr": "taʿarrafa ʿalā",
+      "nl": [
+        "kennismaken met",
+        "leren kennen"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p5-l56-w05",
+      "ar": "تَخَصَّصَ في",
+      "tr": "taḫaṣṣaṣa fī",
+      "nl": [
+        "zich specialiseren in"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Maṣdar: {ar|تَخَصُّصٌ} (specialisatie, studierichting)."
+    },
+    {
+      "id": "j2-p5-l56-w06",
+      "ar": "تَقَدَّمَ",
+      "tr": "taqaddama",
+      "nl": [
+        "vooruitgaan",
+        "vorderen"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Maṣdar: {ar|تَقَدُّمٌ} (vooruitgang)."
+    },
+    {
+      "id": "j2-p5-l56-w07",
+      "ar": "تَوَقَّعَ",
+      "tr": "tawaqqaʿa",
+      "nl": [
+        "verwachten"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j2-p5-l56-w08",
+      "ar": "لَهْجَةٌ",
+      "tr": "lahja",
+      "nl": [
+        "dialect"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|لَهَجاتٌ}."
+    },
+    {
+      "id": "j2-p5-l56-w09",
+      "ar": "اللُّغَةُ الأُمُّ",
+      "tr": "al-luġatu l-umm",
+      "nl": [
+        "de moedertaal"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l56-w10",
+      "ar": "مُفْرَداتٌ",
+      "tr": "mufradāt",
+      "nl": [
+        "woordenschat"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p5-l56-w11",
+      "ar": "قَواعِدُ",
+      "tr": "qawāʿid",
+      "nl": [
+        "grammatica",
+        "regels"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|قاعِدَةٌ}."
+    },
+    {
+      "id": "j2-p5-l56-w12",
+      "ar": "نُطْقٌ",
+      "tr": "nuṭq",
+      "nl": [
+        "uitspraak"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l56-w13",
+      "ar": "بِطَلاقَةٍ",
+      "tr": "bi-ṭalāqa",
+      "nl": [
+        "vloeiend"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p5-l56-w14",
+      "ar": "مُتَرْجِمٌ",
+      "tr": "mutarjim",
+      "nl": [
+        "vertaler",
+        "tolk"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l56-w15",
+      "ar": "أَجْنَبِيٌّ",
+      "tr": "ajnabiyy",
+      "nl": [
+        "buitenlands",
+        "buitenlander"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Meervoud (personen): {ar|أَجانِبُ}."
+    },
+    {
+      "id": "j2-p5-l56-w17",
+      "ar": "مُتَعَلِّمٌ",
+      "tr": "mutaʿallim",
+      "nl": [
+        "leerder",
+        "ontwikkeld"
+      ],
+      "soort": "zelfstandig / bijvoeglijk naamwoord",
+      "notitie": "Actief deelwoord van {ar|تَعَلَّمَ}."
+    },
+    {
+      "id": "j2-p5-l56-w18",
+      "ar": "مُبْتَدِئٌ",
+      "tr": "mubtadiʾ",
+      "nl": [
+        "beginner"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l56-w19",
+      "ar": "مُتَقَدِّمٌ",
+      "tr": "mutaqaddim",
+      "nl": [
+        "gevorderd"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Actief deelwoord van {ar|تَقَدَّمَ}."
+    },
+    {
+      "id": "j2-p5-l56-w20",
+      "ar": "ثُنائِيُّ اللُّغَةِ",
+      "tr": "ṯunāʾiyyu l-luġa",
+      "nl": [
+        "tweetalig"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm V: تَفَعَّلَ / يَتَفَعَّلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm V = **تَـ + vorm II**: {ar|عَلَّمَ} (onderwijzen) → {ar|تَعَلَّمَ} (leren, zichzelf laten onderwijzen).",
+            "In de muḍāriʿ blijft de hele stam staan en krijgt het voorvoegsel een **a**: {ar|يَتَعَلَّمُ}. Let op: de stam houdt overal een **a** (niet i zoals in vorm II): {ar|يَتَعَلَّمُ} tegenover {ar|يُعَلِّمُ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm II",
+            "Betekenis",
+            "Vorm V",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "عَلَّمَ",
+              "onderwijzen",
+              "تَعَلَّمَ|taʿallama",
+              "leren"
+            ],
+            [
+              "دَرَّبَ",
+              "iemand trainen",
+              "تَدَرَّبَ|tadarraba",
+              "oefenen"
+            ],
+            [
+              "حَسَّنَ",
+              "verbeteren (iets)",
+              "تَحَسَّنَ|taḥassana",
+              "beter worden"
+            ],
+            [
+              "ذَكَّرَ",
+              "herinneren (iemand)",
+              "تَذَكَّرَ|taḏakkara",
+              "zich herinneren"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De {ar|تَـ} maakt de handeling **wederkerend**: wat vorm II met een ander doet, doet vorm V met jezelf. *Iemand onderwijzen* → *jezelf onderwijzen* = leren. Ken je een vorm II, dan raad je vaak de vorm V."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoeging, maṣdar en deelwoord",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "تَكَلَّمْتُ",
+              "أَتَكَلَّمُ"
+            ],
+            [
+              "jij (v)",
+              "تَكَلَّمْتِ",
+              "تَتَكَلَّمينَ"
+            ],
+            [
+              "hij",
+              "تَكَلَّمَ",
+              "يَتَكَلَّمُ"
+            ],
+            [
+              "wij",
+              "تَكَلَّمْنا",
+              "نَتَكَلَّمُ"
+            ],
+            [
+              "zij (m mv)",
+              "تَكَلَّموا",
+              "يَتَكَلَّمونَ"
+            ]
+          ]
+        },
+        {
+          "type": "tekst",
+          "md": "**Maṣdar**: **تَفَعُّل** met een **u** op de middelste letter: {ar|تَعَلُّمٌ}، {ar|تَقَدُّمٌ}، {ar|تَخَصُّصٌ}. **Actief deelwoord**: **مُتَفَعِّل**: {ar|مُتَعَلِّمٌ}، {ar|مُتَقَدِّمٌ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَتَعَلَّمُ العَرَبِيَّةَ مُنْذُ سَنَتَيْنِ.",
+              "tr": "ataʿallamu l-ʿarabiyyata mundu sanatayn.",
+              "nl": "Ik leer al twee jaar Arabisch."
+            },
+            {
+              "ar": "تَتَكَلَّمُ أُخْتي ثَلاثَ لُغاتٍ بِطَلاقَةٍ.",
+              "tr": "tatakallamu uḫtī ṯalāṯa luġātin bi-ṭalāqa.",
+              "nl": "Mijn zus spreekt drie talen vloeiend."
+            },
+            {
+              "ar": "تَحَسَّنَ نُطْقي كَثيرًا.",
+              "tr": "taḥassana nuṭqī kaṯīran.",
+              "nl": "Mijn uitspraak is veel beter geworden."
+            },
+            {
+              "ar": "لا أَتَذَكَّرُ هٰذِهِ الكَلِمَةَ.",
+              "tr": "lā ataḏakkaru hāḏihi l-kalima.",
+              "nl": "Ik herinner me dit woord niet."
+            },
+            {
+              "ar": "التَّعَلُّمُ مِنَ الأَخْطاءِ مُهِمٌّ.",
+              "tr": "at-taʿallumu mina l-aḫṭāʾi muhimm.",
+              "nl": "Leren van fouten is belangrijk."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "لَهْجَةٌ",
+              "nl": "dialect",
+              "woord": "j2-p5-l56-w08"
+            },
+            {
+              "ar": "مُفْرَداتٌ",
+              "nl": "woordenschat",
+              "woord": "j2-p5-l56-w10"
+            },
+            {
+              "ar": "قَواعِدُ",
+              "nl": "grammatica",
+              "woord": "j2-p5-l56-w11"
+            },
+            {
+              "ar": "نُطْقٌ",
+              "nl": "uitspraak",
+              "woord": "j2-p5-l56-w12"
+            },
+            {
+              "ar": "مُتَرْجِمٌ",
+              "nl": "vertaler",
+              "woord": "j2-p5-l56-w14"
+            },
+            {
+              "ar": "مُبْتَدِئٌ",
+              "nl": "beginner",
+              "woord": "j2-p5-l56-w18"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-5",
+          "tekst": "أَتَكَلَّمُ العَرَبِيَّةَ قَليلًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik spreek een beetje Arabisch.",
+            "Ik leer een beetje Arabisch.",
+            "Ik spreek geen Arabisch."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَتَكَلَّمُ} = ik spreek."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm V",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "vorm-5",
+          "instructie": "Vervoeg تَذَكَّرَ / يَتَذَكَّرُ.",
+          "rijen": [
+            {
+              "label": "ik (māḍī)",
+              "antwoord": "تَذَكَّرْتُ",
+              "tr": "taḏakkartu"
+            },
+            {
+              "label": "wij (māḍī)",
+              "antwoord": "تَذَكَّرْنا",
+              "tr": "taḏakkarnā"
+            },
+            {
+              "label": "ik (muḍāriʿ)",
+              "antwoord": "أَتَذَكَّرُ",
+              "tr": "ataḏakkaru"
+            },
+            {
+              "label": "zij (m mv) (muḍāriʿ)",
+              "antwoord": "يَتَذَكَّرونَ",
+              "tr": "yataḏakkarūna"
+            }
+          ],
+          "uitleg": "تَـ + vorm II; muḍāriʿ يَتَـ … ـَـ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-5",
+          "vraag": "Hoe verhoudt vorm V zich tot vorm II?",
+          "opties": [
+            "Vorm V is meestal de wederkerende vorm van II.",
+            "Vorm V is de lijdende vorm van I.",
+            "Er is geen verband."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عَلَّمَ} → {ar|تَعَلَّمَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-5",
+          "vraag": "'Hij leert' (zelf) is ...",
+          "opties": [
+            "يَتَعَلَّمُ",
+            "يُعَلِّمُ",
+            "يَعْلَمُ"
+          ],
+          "juist": 0,
+          "uitleg": "Vorm V muḍāriʿ. {ar|يُعَلِّمُ} = hij onderwijst; {ar|يَعْلَمُ} = hij weet."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-5",
+          "zin": "كَمْ لُغَةً ___؟",
+          "nl": "Hoeveel talen spreek jij (v)?",
+          "woordbank": [
+            "تَتَكَلَّمينَ",
+            "تَتَكَلَّمُ",
+            "تَكَلَّمْتِ"
+          ],
+          "antwoord": [
+            "تَتَكَلَّمينَ"
+          ],
+          "uitleg": "jij (v): تَتَـ … ـينَ."
+        },
+        {
+          "type": "invullen",
+          "tag": "masdar-afgeleid",
+          "zin": "___ اللُّغاتِ مُفيدٌ.",
+          "nl": "Talen leren is nuttig.",
+          "woordbank": [
+            "تَعَلُّمُ",
+            "تَعْليمُ",
+            "تَعَلَّمَ"
+          ],
+          "antwoord": [
+            "تَعَلُّمُ"
+          ],
+          "uitleg": "Maṣdar vorm V: تَفَعُّل.",
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Mijn talen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-5",
+          "nl": "Mijn zus spreekt drie talen vloeiend.",
+          "woorden": [
+            "تَتَكَلَّمُ",
+            "أُخْتي",
+            "ثَلاثَ",
+            "لُغاتٍ",
+            "بِطَلاقَةٍ."
+          ],
+          "uitleg": "{ar|لُغَةٌ} vrouwelijk → {ar|ثَلاثَ}."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "masdar-afgeleid",
+          "instructie": "Geef de maṣdar (تَفَعُّل).",
+          "rijen": [
+            {
+              "label": "تَقَدَّمَ",
+              "antwoord": "تَقَدُّمٌ",
+              "tr": "taqaddum"
+            },
+            {
+              "label": "تَخَصَّصَ",
+              "antwoord": "تَخَصُّصٌ",
+              "tr": "taḫaṣṣuṣ"
+            },
+            {
+              "label": "تَذَكَّرَ",
+              "antwoord": "تَذَكُّرٌ",
+              "tr": "taḏakkur"
+            }
+          ],
+          "uitleg": "Middelste letter met shadda en u."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-5",
+          "tekst": "تَحَسَّنَ مُسْتَوايَ كَثيرًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Mijn niveau is erg verbeterd.",
+            "Mijn niveau is gedaald.",
+            "Ik verwacht een beter niveau."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَحَسَّنَ} = beter worden."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-5",
+          "bron": "Ik herinner me.",
+          "antwoorden": [
+            "أَتَذَكَّرُ"
+          ],
+          "uitleg": "{ar|أَتَذَكَّرُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-5",
+          "bron": "تَعَرَّفْتُ عَلى طُلّابٍ مِنْ تونِسَ.",
+          "antwoorden": [
+            "ik heb studenten uit tunesië leren kennen",
+            "ik leerde studenten uit tunesië kennen",
+            "ik heb kennisgemaakt met studenten uit tunesië"
+          ],
+          "uitleg": "{ar|تَعَرَّفَ عَلى} = leren kennen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَوَقَّعَ",
+            "nl": "verwachten"
+          },
+          {
+            "ar": "خَطَأٌ",
+            "nl": "fout"
+          },
+          {
+            "ar": "أَجْنَبِيٌّ",
+            "nl": "buitenlands"
+          },
+          {
+            "ar": "مُتَقَدِّمٌ",
+            "nl": "gevorderd"
+          },
+          {
+            "ar": "بِطَلاقَةٍ",
+            "nl": "vloeiend"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-5",
+        "vraag": "Wat is het kenmerk van vorm V?",
+        "opties": [
+          "تَـ vooraan + shadda op de middelste letter",
+          "اِسْتَـ vooraan",
+          "ā na de eerste letter"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَفَعَّلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-5",
+        "vraag": "'Wij oefenen' is ...",
+        "opties": [
+          "نَتَدَرَّبُ",
+          "نُدَرِّبُ",
+          "تَدَرَّبْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V muḍāriʿ: نَتَـ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|تَقَدَّمَ} is ...",
+        "opties": [
+          "تَقَدُّمٌ",
+          "تَقْديمٌ",
+          "مُتَقَدِّمٌ"
+        ],
+        "juist": 0,
+        "uitleg": "تَفَعُّل. ({ar|تَقْديمٌ} is de maṣdar van vorm II {ar|قَدَّمَ}.)"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-5",
+        "vraag": "{ar|حَسَّنَ} = iets verbeteren. Wat betekent {ar|تَحَسَّنَ}?",
+        "opties": [
+          "beter worden",
+          "slechter worden",
+          "laten verbeteren"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm V = wederkerend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-5",
+        "tekst": "هَلْ تَتَذَكَّرُني؟",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Herinner je je mij?",
+          "Ken je me?",
+          "Help je me?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَذَكَّرَ} = zich herinneren."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أَنا مُبْتَدِئٌ في الإِسْبانِيَّةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik ben een beginner in het Spaans.",
+          "Ik spreek vloeiend Spaans.",
+          "Ik ben tolk Spaans."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُبْتَدِئٌ} = beginner."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-5",
+        "zin": "الطُّلّابُ ___ كُلَّ يَوْمٍ.",
+        "nl": "De studenten oefenen elke dag.",
+        "woordbank": [
+          "يَتَدَرَّبونَ",
+          "يُدَرِّبونَ",
+          "تَدَرَّبوا"
+        ],
+        "antwoord": [
+          "يَتَدَرَّبونَ"
+        ],
+        "uitleg": "Vorm V muḍāriʿ, zij (m mv)."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-5",
+        "zin": "لَمْ ___ أَنْ يَكونَ الاِمْتِحانُ صَعْبًا.",
+        "nl": "We hadden niet verwacht dat het examen moeilijk zou zijn.",
+        "woordbank": [
+          "نَتَوَقَّعْ",
+          "نَتَوَقَّعُ",
+          "تَوَقَّعْنا"
+        ],
+        "antwoord": [
+          "نَتَوَقَّعْ"
+        ],
+        "uitleg": "{ar|لَمْ} + majzūm.",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-5",
+        "instructie": "Vervoeg تَعَلَّمَ / يَتَعَلَّمُ.",
+        "rijen": [
+          {
+            "label": "zij (ev) (māḍī)",
+            "antwoord": "تَعَلَّمَتْ",
+            "tr": "taʿallamat"
+          },
+          {
+            "label": "jullie (m) (muḍāriʿ)",
+            "antwoord": "تَتَعَلَّمونَ",
+            "tr": "tataʿallamūna"
+          }
+        ],
+        "uitleg": "Vorm V."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-5",
+        "nl": "Ik leer al twee jaar Arabisch.",
+        "woorden": [
+          "أَتَعَلَّمُ",
+          "العَرَبِيَّةَ",
+          "مُنْذُ",
+          "سَنَتَيْنِ."
+        ],
+        "uitleg": "{ar|مُنْذُ} = sinds / al."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-5",
+        "bron": "Ik spreek Arabisch.",
+        "antwoorden": [
+          "أَتَكَلَّمُ العَرَبِيَّةَ",
+          "أَتَكَلَّمُ اللُّغَةَ العَرَبِيَّةَ"
+        ],
+        "uitleg": "{ar|أَتَكَلَّمُ العَرَبِيَّةَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het dialect",
+        "antwoorden": [
+          "اللَّهْجَةُ"
+        ],
+        "uitleg": "{ar|اللَّهْجَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "masdar-afgeleid",
+        "bron": "التَّعَلُّمُ مِنَ الأَخْطاءِ مُهِمٌّ.",
+        "antwoorden": [
+          "leren van fouten is belangrijk",
+          "het leren van fouten is belangrijk"
+        ],
+        "uitleg": "Maṣdar als onderwerp."
+      }
+    ]
+  }
+}

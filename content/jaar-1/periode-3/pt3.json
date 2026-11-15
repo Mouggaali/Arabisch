@@ -1,0 +1,97 @@
+{
+  "id": "j1-p3-pt3",
+  "code": "PT3",
+  "type": "periodetoets",
+  "titel": "Periodetoets 3",
+  "thema": "Alle leerdoelen van periode 3 (les 25 tot en met 36, D01–D03)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** de māḍī in alle personen, ontkenning met ما, de verbale zin, كانَ (L25–L28).",
+    "**Getoetst:** lichaam en dualis, kleding, meervoud van dingen, klank- en gebroken meervouden (L29–L32).",
+    "**Getoetst:** maanden en seizoenen, toekomst met سَـ / سَوْفَ, rangtelwoorden en data, de maṣdar (L33–L36).",
+    "**Getoetst:** Darija-basis: begroeten, voornaamwoorden, hebben, getallen (D01–D03).",
+    "Geslaagd vanaf 70%. Maak eerst H09 en herhaal je flashcards."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "madi-enkelvoud", "vraag": "'Zij schreef' is ...", "opties": ["كَتَبَتْ", "كَتَبْتُ", "تَكْتُبُ"], "juist": 0, "uitleg": "ـَتْ" },
+      { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg ذَهَبَ in de verleden tijd.",
+        "rijen": [
+          { "label": "ik", "antwoord": "ذَهَبْتُ", "tr": "ḏahabtu", "eind": true },
+          { "label": "wij", "antwoord": "ذَهَبْنا", "tr": "ḏahabnā" },
+          { "label": "zij (m mv)", "antwoord": "ذَهَبُوا", "tr": "ḏahabū" }
+        ], "uitleg": "ـْتُ / ـْنا / ـُوا" },
+      { "type": "invullen", "tag": "madi-ontkenning", "zin": "___ فَهِمْتُ الدَّرْسَ.", "nl": "Ik begreep de les niet.", "woordbank": ["ما", "لا", "لَيْسَ"], "antwoord": ["ما"], "uitleg": "{ar|ما} + māḍī." },
+      { "type": "luisteren", "tag": "madi-meervoud", "tekst": "هَلْ أَكَلْتُمْ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Hebben jullie gegeten?", "Eten jullie?", "Heeft hij gegeten?"], "juist": 0, "uitleg": "ـْتُمْ" },
+      { "type": "meerkeuze", "tag": "verbale-zin", "vraag": "'De meisjes speelden' (werkwoord eerst) is ...", "opties": ["لَعِبَتِ البَناتُ", "لَعِبْنَ البَناتُ", "لَعِبَ البَناتُ"], "juist": 0, "uitleg": "Vrouwelijk enkelvoud vóór het onderwerp." },
+      { "type": "invullen", "tag": "verbale-zin", "zin": "الطُّلّابُ ___ إِلى المَكْتَبَةِ.", "nl": "De studenten gingen naar de bibliotheek.", "woordbank": ["ذَهَبُوا", "ذَهَبَ", "ذَهَبَتْ"], "antwoord": ["ذَهَبُوا"], "uitleg": "Onderwerp vooraan → volledige congruentie." },
+      { "type": "meerkeuze", "tag": "kana-accusatief", "vraag": "'Het huis was klein' is ...", "opties": ["كانَ البَيْتُ صَغيرًا.", "كانَ البَيْتُ صَغيرٌ.", "كانَتِ البَيْتُ صَغيرًا."], "juist": 0, "uitleg": "{ar|كانَ} + accusatief." },
+      { "type": "vervoegen", "tag": "kana", "instructie": "Vervoeg كانَ.",
+        "rijen": [
+          { "label": "ik", "antwoord": "كُنْتُ", "tr": "kuntu" },
+          { "label": "zij (ev)", "antwoord": "كانَتْ", "tr": "kānat" },
+          { "label": "wij", "antwoord": "كُنّا", "tr": "kunnā" }
+        ], "uitleg": "{ar|كُنْتُ} · {ar|كانَتْ} · {ar|كُنّا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "kana-hebben", "bron": "Ik had geen tijd.", "antwoorden": ["ما كانَ عِنْدي وَقْتٌ"], "uitleg": "{ar|ما كانَ عِنْدي وَقْتٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-enkelvoud", "bron": "رَجَعَتْ أُمّي مِنَ السّوقِ.", "antwoorden": ["mijn moeder kwam terug van de markt", "mijn moeder is teruggekomen van de markt", "mijn moeder kwam terug van de markt"], "uitleg": "Verbale zin, vrouwelijk." },
+
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "يَدٌ", "nl": "hand" },
+        { "ar": "رَأْسٌ", "nl": "hoofd" },
+        { "ar": "قَميصٌ", "nl": "overhemd" },
+        { "ar": "صَيْدَلِيَّةٌ", "nl": "apotheek" },
+        { "ar": "خَبّازٌ", "nl": "bakker" },
+        { "ar": "مُسْتَشْفًى", "nl": "ziekenhuis" }
+      ], "uitleg": "Woordenschat uit blok 3B." },
+      { "type": "meerkeuze", "tag": "dualis-naamwoord", "vraag": "'Twee boeken' (onderwerp) is ...", "opties": ["كِتابانِ", "كِتابَيْنِ", "كُتُبٌ"], "juist": 0, "uitleg": "ـانِ" },
+      { "type": "invullen", "tag": "dualis-naamwoord", "zin": "أَكْتُبُ بِـ___.", "nl": "Ik schrijf met twee pennen.", "woordbank": ["قَلَمَيْنِ", "قَلَمانِ", "أَقْلامٍ"], "antwoord": ["قَلَمَيْنِ"], "uitleg": "Na een voorzetsel: ـَيْنِ." },
+      { "type": "invullen", "tag": "pijn", "zin": "يَدي ___.", "nl": "Mijn hand doet pijn.", "woordbank": ["تُؤْلِمُني", "يُؤْلِمُني"], "antwoord": ["تُؤْلِمُني"], "uitleg": "{ar|يَدٌ} is vrouwelijk." },
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Wat betekent {ar|هٰذا القَميصُ غالٍ}?", "opties": ["Dit overhemd is duur.", "Dit is een duur overhemd.", "Dit dure overhemd."], "juist": 0, "uitleg": "Woordgroep + gezegde." },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "'Deze boeken zijn nieuw' is ...", "opties": ["هٰذِهِ الكُتُبُ جَديدَةٌ.", "هٰؤُلاءِ الكُتُبُ جُدُدٌ.", "هٰذا الكُتُبُ جَديدٌ."], "juist": 0, "uitleg": "Dingen → {ar|هٰذِهِ} + vrouwelijk enkelvoud." },
+      { "type": "invullen", "tag": "meervoud-dingen", "zin": "السَّيّاراتُ ___.", "nl": "De auto's zijn snel.", "woordbank": ["سَريعَةٌ", "سَريعونَ", "سَريعٌ"], "antwoord": ["سَريعَةٌ"], "uitleg": "Vrouwelijk enkelvoud." },
+      { "type": "vervoegen", "tag": "klankmeervoud", "instructie": "Maak het meervoud (onderwerpsvorm, zonder tanwīn).",
+        "rijen": [
+          { "label": "مُهَنْدِسٌ", "antwoord": "مُهَنْدِسونَ", "tr": "muhandisūn" },
+          { "label": "مُمَرِّضَةٌ", "antwoord": "مُمَرِّضات", "tr": "mumarriḍāt" }
+        ], "uitleg": "ـونَ / ـات" },
+      { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Het meervoud van {ar|وَلَدٌ} is ...", "opties": ["أَوْلادٌ", "وَلَدونَ", "وَلَداتٌ"], "juist": 0, "uitleg": "Gebroken meervoud." },
+      { "type": "luisteren", "tag": "klankmeervoud", "tekst": "أَعْرِفُ المُعَلِّمينَ", "vraag": "Wat hoor je?", "opties": ["Ik ken de leraren.", "Ik ken de leraar.", "De leraren kennen mij."], "juist": 0, "uitleg": "ـينَ = meervoud, lijdend voorwerp." },
+
+      { "type": "meerkeuze", "tag": "maanden", "vraag": "Welke maand is {ar|أُغُسْطُسُ}?", "opties": ["augustus", "april", "oktober"], "juist": 0, "uitleg": "augustus" },
+      { "type": "luisteren", "tag": "seizoenen", "tekst": "في الخَريفِ", "vraag": "Wanneer?", "opties": ["in de herfst", "in de lente", "in de winter"], "juist": 0, "uitleg": "{ar|الخَريفُ} = de herfst." },
+      { "type": "invullen", "tag": "tijd-voorzetsels", "zin": "أَسْكُنُ هُنا ___ سَنَتَيْنِ.", "nl": "Ik woon hier al twee jaar.", "woordbank": ["مُنْذُ", "بَعْدَ", "في"], "antwoord": ["مُنْذُ"], "uitleg": "{ar|مُنْذُ} = al, sinds." },
+      { "type": "meerkeuze", "tag": "toekomst", "vraag": "'Zij zal reizen' is ...", "opties": ["سَتُسافِرُ", "سافَرَتْ", "سَيُسافِرُ"], "juist": 0, "uitleg": "سَـ + zij-vorm." },
+      { "type": "invullen", "tag": "toekomst", "zin": "سَيَكونُ الجَوُّ ___ غَدًا.", "nl": "Het weer zal morgen mooi zijn.", "woordbank": ["جَميلًا", "جَميلٌ", "الجَميلُ"], "antwoord": ["جَميلًا"], "uitleg": "Accusatief." },
+      { "type": "vervoegen", "tag": "toekomst", "instructie": "Zet in de toekomende tijd met سَـ.",
+        "rijen": [
+          { "label": "نَأْكُلُ", "antwoord": "سَنَأْكُلُ", "tr": "sa-naʾkulu" },
+          { "label": "يَدْرُسونَ", "antwoord": "سَيَدْرُسونَ", "tr": "sa-yadrusūna" }
+        ], "uitleg": "سَـ vast vóór het werkwoord." },
+      { "type": "luisteren", "tag": "toekomst", "tekst": "سَأَذْهَبُ إِلى الطَّبيبِ غَدًا", "vraag": "Wat hoor je?", "opties": ["Ik ga morgen naar de dokter.", "Ik ging gisteren naar de dokter.", "Hij gaat morgen naar de dokter."], "juist": 0, "uitleg": "سَأَ = ik zal." },
+      { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "'De derde pagina' is ...", "opties": ["الصَّفْحَةُ الثّالِثَةُ", "الصَّفْحَةُ الثّالِثُ", "ثَلاثُ صَفَحاتٍ"], "juist": 0, "uitleg": "Vrouwelijk rangtelwoord." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "datum", "bron": "في السّابِعِ مِنْ يونيو", "antwoorden": ["op 7 juni", "op zeven juni", "op de zevende juni"], "uitleg": "Datum." },
+      { "type": "invullen", "tag": "masdar", "zin": "أُحِبُّ ___.", "nl": "Ik houd van zwemmen.", "woordbank": ["السِّباحَةَ", "أَسْبَحُ", "السِّباحَةُ"], "antwoord": ["السِّباحَةَ"], "uitleg": "Maṣdar als lijdend voorwerp." },
+      { "type": "meerkeuze", "tag": "masdar", "vraag": "De maṣdar van {ar|قَرَأَ} is ...", "opties": ["القِراءَةُ", "القارِئُ", "المَقْروءُ"], "juist": 0, "uitleg": "{ar|القِراءَةُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "masdar", "bron": "Tekenen is leuk.", "antwoorden": ["الرَّسْمُ مُمْتِعٌ"], "uitleg": "{ar|الرَّسْمُ مُمْتِعٌ}" },
+
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija voor 'hoe heet je?' is ...", "opties": ["شنو سميتك؟", "منين نتا؟", "بشحال؟"], "juist": 0, "uitleg": "*šnu smiytək?*" },
+      { "type": "meerkeuze", "tag": "darija-hebben", "vraag": "'Ik heb geen tijd' in het Darija is ...", "opties": ["ما عنديش الوقت", "لا عندي الوقت", "عندي ما الوقت"], "juist": 0, "uitleg": "ما ... ش" },
+      { "type": "koppelen", "tag": "darija-getallen", "paren": [
+        { "ar": "جوج", "nl": "2" },
+        { "ar": "تلاتة", "nl": "3" },
+        { "ar": "تسعود", "nl": "9" },
+        { "ar": "عشرة", "nl": "10" }
+      ], "uitleg": "Darija-getallen." },
+
+      { "type": "ordenen", "tag": "madi-meervoud", "nl": "Vorige week gingen we met de trein naar zee.", "woorden": ["الأُسْبوعَ", "الماضِيَ", "ذَهَبْنا", "بِالقِطارِ", "إِلى", "البَحْرِ."], "uitleg": "Tijdsbepaling vooraan." },
+      { "type": "ordenen", "tag": "kana-hebben", "nl": "Toen ik klein was, hadden we een hond.", "woorden": ["عِنْدَما", "كُنْتُ", "صَغيرًا", "كانَ", "عِنْدَنا", "كَلْبٌ."], "uitleg": "Twee keer {ar|كانَ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "Jullie (m) kwamen te laat aan.", "antwoorden": ["وَصَلْتُمْ مُتَأَخِّرينَ"], "uitleg": "{ar|وَصَلْتُمْ مُتَأَخِّرينَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "toekomst", "bron": "سَوْفَ نَحْتَفِلُ بِالعيدِ.", "antwoorden": ["we zullen het feest vieren", "wij zullen het feest vieren", "we gaan het feest vieren"], "uitleg": "{ar|سَوْفَ} + muḍāriʿ." }
+    ]
+  }
+}

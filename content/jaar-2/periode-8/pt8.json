@@ -1,0 +1,562 @@
+{
+  "id": "j2-p8-pt8",
+  "code": "PT8",
+  "type": "periodetoets",
+  "titel": "Periodetoets 8",
+  "thema": "Alle leerdoelen van periode 8 (les 85 tot en met 96, D16–D18)",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Getoetst:** iḍāfa-ketens, ontkenning, uitzondering, maṣdar en leenwoorden (L85–L88).",
+    "**Getoetst:** gebiedende wijs van alle vormen, kwantoren, إِذا, uitroepen en بَلى (L89–L92).",
+    "**Getoetst:** lezen, luisteren, schrijven en presenteren (L93–L96).",
+    "**Getoetst:** Darija: leenwoorden, feesten, A1-herhaling (D16–D18).",
+    "Geslaagd vanaf 70%. Maak eerst H24."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "Waar kan ال staan in een iḍāfa-keten?",
+        "opties": [
+          "alleen op het laatste lid",
+          "op elk lid",
+          "op het eerste lid"
+        ],
+        "juist": 0,
+        "uitleg": "Laatste lid."
+      },
+      {
+        "type": "invullen",
+        "tag": "idafa-keten",
+        "zin": "مُديرُ ___ الأَنْباءِ",
+        "nl": "de directeur van het persbureau",
+        "antwoord": [
+          "وَكالَةِ"
+        ],
+        "uitleg": "Tussenlid.",
+        "woordbank": [
+          "وَكالَةِ",
+          "الوَكالَةِ",
+          "وَكالَةُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "'De nieuwe directeur van het bedrijf' is ...",
+        "opties": [
+          "مُديرُ الشَّرِكَةِ الجَديدُ",
+          "مُديرُ الشَّرِكَةِ الجَديدَةِ",
+          "المُديرُ الجَديدُ الشَّرِكَةِ"
+        ],
+        "juist": 0,
+        "uitleg": "Bij {ar|مُديرُ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "Welke ontkenning past bij de toekomst?",
+        "opties": [
+          "لَنْ",
+          "لَمْ",
+          "لَيْسَ"
+        ],
+        "juist": 0,
+        "uitleg": "+ manṣūb."
+      },
+      {
+        "type": "invullen",
+        "tag": "ontkenning-totaal",
+        "zin": "هٰذا الجَوابُ ___ صَحيحٍ.",
+        "nl": "Dit antwoord is onjuist.",
+        "antwoord": [
+          "غَيْرُ"
+        ],
+        "uitleg": "+ genitief.",
+        "woordbank": [
+          "غَيْرُ",
+          "لَيْسَ",
+          "لا"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ontkenning-totaal",
+        "vraag": "'Er is geen twijfel' is ...",
+        "opties": [
+          "لا شَكَّ",
+          "لَيْسَ شَكٌّ",
+          "لَمْ شَكَّ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا} + naamwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitzondering",
+        "vraag": "'Ik spreek alleen Arabisch' is ...",
+        "opties": [
+          "لا أَتَكَلَّمُ إِلّا العَرَبِيَّةَ",
+          "أَتَكَلَّمُ إِلّا العَرَبِيَّةَ",
+          "لا أَتَكَلَّمُ العَرَبِيَّةَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا … إِلّا}"
+      },
+      {
+        "type": "invullen",
+        "tag": "uitzondering",
+        "zin": "حَضَرَ الجَميعُ ___ أَخي.",
+        "nl": "Iedereen kwam, behalve mijn broer.",
+        "antwoord": [
+          "غَيْرَ"
+        ],
+        "uitleg": "+ genitief.",
+        "woordbank": [
+          "غَيْرَ",
+          "لا",
+          "لَيْسَ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "masdar-afgeleid",
+        "vraag": "De maṣdar van {ar|تَصَفَّحَ} is ...",
+        "opties": [
+          "تَصَفُّحٌ",
+          "تَصْفيحٌ",
+          "مُتَصَفِّحٌ"
+        ],
+        "juist": 0,
+        "uitleg": "تَفَعُّل."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leenwoorden",
+        "vraag": "Welk woord is een leenwoord?",
+        "opties": [
+          "فيديو",
+          "تَعْليقٌ",
+          "خُصوصِيَّةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "*video*"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "De gebiedende wijs van {ar|تُرْسِلُ} is ...",
+        "opties": [
+          "أَرْسِلْ",
+          "اِرْسِلْ",
+          "رْسِلْ"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm IV met hamza."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebiedende-wijs-2",
+        "vraag": "'Kom!' tegen een groep is ...",
+        "opties": [
+          "تَعالَوْا",
+          "تَعالَ",
+          "تَعالَيْ"
+        ],
+        "juist": 0,
+        "uitleg": "Onregelmatig."
+      },
+      {
+        "type": "invullen",
+        "tag": "gebiedende-wijs-2",
+        "zin": "___ هُنا مِنْ فَضْلِكَ.",
+        "nl": "Wacht hier alstublieft. (m)",
+        "antwoord": [
+          "اِنْتَظِرْ"
+        ],
+        "uitleg": "Vorm VIII.",
+        "woordbank": [
+          "اِنْتَظِرْ",
+          "تَنْتَظِرُ",
+          "اِنْتَظَرَ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kwantoren",
+        "vraag": "'Beide jongens' is ...",
+        "opties": [
+          "كِلا الوَلَدَيْنِ",
+          "كِلْتا الوَلَدَيْنِ",
+          "كِلا الوَلَدانِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كِلا} + genitief dualis."
+      },
+      {
+        "type": "invullen",
+        "tag": "kwantoren",
+        "zin": "___ النّاسِ يَعْمَلونَ في المَدينَةِ.",
+        "nl": "De meeste mensen werken in de stad.",
+        "antwoord": [
+          "مُعْظَمُ"
+        ],
+        "uitleg": "{ar|مُعْظَمُ}",
+        "woordbank": [
+          "مُعْظَمُ",
+          "كِلا",
+          "بَعْضَ"
+        ]
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "'Als je moe bent, ga slapen' is ...",
+        "opties": [
+          "إِذا كُنْتَ مُتْعَبًا فَنَمْ",
+          "إِذا تَكونُ مُتْعَبًا نامَ",
+          "لَوْ كُنْتَ مُتْعَبًا لَنِمْتَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا} + māḍī, فَـ + gebiedende wijs."
+      },
+      {
+        "type": "invullen",
+        "tag": "idha",
+        "zin": "إِذا لَمْ ___، فَسَأَذْهَبُ وَحْدي.",
+        "nl": "Als je niet komt, ga ik alleen.",
+        "antwoord": [
+          "تَأْتِ"
+        ],
+        "uitleg": "{ar|لَمْ} + majzūm.",
+        "woordbank": [
+          "تَأْتِ",
+          "تَأْتي",
+          "أَتَيْتَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "Welke zin is een uitroep?",
+        "opties": [
+          "ما أَجْمَلَ البَحْرَ!",
+          "ما أَجْمَلُ مَكانٍ؟",
+          "البَحْرُ أَجْمَلُ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما أَفْعَلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "'Kom je niet?' — 'Jawel!' Welk woord?",
+        "opties": [
+          "بَلى",
+          "نَعَمْ",
+          "لا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَلى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Lees het bericht. Wie opende de beurs?",
+        "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في الرِّباطِ.",
+        "opties": [
+          "de minister van Cultuur",
+          "een uitgever",
+          "de burgemeester"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَزيرُ الثَّقافَةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval heeft {ar|مَعْرِضًا} in die zin?",
+        "opties": [
+          "manṣūb",
+          "marfūʿ",
+          "majrūr"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend voorwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Met welk woord begin je de conclusie?",
+        "opties": [
+          "في الخِتامِ",
+          "أَوَّلًا",
+          "مَعَ ذٰلِكَ"
+        ],
+        "juist": 0,
+        "uitleg": "Tot slot."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|مَعَ ذٰلِكَ} betekent ...",
+        "opties": [
+          "toch",
+          "daarom",
+          "ten eerste"
+        ],
+        "juist": 0,
+        "uitleg": "Tegenstelling."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "Hoe sluit je een presentatie af?",
+        "opties": [
+          "شُكْرًا عَلى اِنْتِباهِكُمْ",
+          "سَأَتَحَدَّثُ عَنْ …",
+          "أَوَّلًا …"
+        ],
+        "juist": 0,
+        "uitleg": "Afsluiting."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "هَلْ يُمْكِنُ أَنْ نُؤَجِّلَ المَوْعِدَ؟",
+        "vraag": "Wat wordt er gevraagd?",
+        "opties": [
+          "of de afspraak kan worden uitgesteld",
+          "waar de afspraak is",
+          "of de afspraak afgelopen is"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَجَّلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ontkenning-totaal",
+        "tekst": "لَنْ أَنْسى هٰذا اليَوْمَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik zal deze dag nooit vergeten.",
+          "Ik ben deze dag vergeten.",
+          "Ik vergeet deze dag."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "idha",
+        "tekst": "إِذا تَأَخَّرْتَ اتَّصِلْ بي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Als je te laat bent, bel me.",
+          "Je was te laat en belde.",
+          "Bel me niet als je te laat bent."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "kwantoren",
+        "tekst": "دَفَعْتُ جَميعَ الفَواتيرِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb alle rekeningen betaald.",
+          "Ik heb één rekening betaald.",
+          "Ik heb niets betaald."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|جَميعَ}"
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَصْدَرٌ",
+            "nl": "bron"
+          },
+          {
+            "ar": "مُحاضَرَةٌ",
+            "nl": "college"
+          },
+          {
+            "ar": "تُراثٌ",
+            "nl": "erfgoed"
+          },
+          {
+            "ar": "خُصوصِيَّةٌ",
+            "nl": "privacy"
+          },
+          {
+            "ar": "بِطاقَةُ الصُّعودِ",
+            "nl": "instapkaart"
+          }
+        ],
+        "uitleg": "Woordenschat periode 8."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "قَرْضٌ",
+            "nl": "lening"
+          },
+          {
+            "ar": "القُمامَةُ",
+            "nl": "afval"
+          },
+          {
+            "ar": "مُفاجَأَةٌ",
+            "nl": "verrassing"
+          },
+          {
+            "ar": "دارُ نَشْرٍ",
+            "nl": "uitgeverij"
+          },
+          {
+            "ar": "فائِدَةٌ",
+            "nl": "voordeel"
+          }
+        ],
+        "uitleg": "Woordenschat periode 8."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "masdar-afgeleid",
+        "instructie": "Geef de maṣdar.",
+        "rijen": [
+          {
+            "label": "سَجَّلَ (II)",
+            "antwoord": "تَسْجيلٌ",
+            "tr": "tasjīl"
+          },
+          {
+            "label": "اِسْتَخْدَمَ (X)",
+            "antwoord": "اِسْتِخْدامٌ",
+            "tr": "istiḫdām"
+          }
+        ],
+        "uitleg": "Patronen."
+      },
+      {
+        "type": "ordenen",
+        "tag": "ontkenning-totaal",
+        "nl": "Het examen is niet moeilijk, maar wel lang.",
+        "woorden": [
+          "الاِمْتِحانُ",
+          "لَيْسَ",
+          "صَعْبًا،",
+          "لٰكِنَّهُ",
+          "طَويلٌ."
+        ],
+        "uitleg": "{ar|لَيْسَ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "Daarom stel ik twee dagen op kantoor voor.",
+        "woorden": [
+          "لِذٰلِكَ",
+          "أَقْتَرِحُ",
+          "يَوْمَيْنِ",
+          "في",
+          "المَكْتَبِ."
+        ],
+        "uitleg": "{ar|لِذٰلِكَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-leenwoorden",
+        "vraag": "{ar|البيرو} betekent ...",
+        "opties": [
+          "kantoor",
+          "bus",
+          "ziekenhuis"
+        ],
+        "juist": 0,
+        "uitleg": "Frans *bureau*."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "Wat antwoord je op {ar|مبروك عليك}?",
+        "opties": [
+          "الله يبارك فيك",
+          "بسلامة",
+          "ماشي مشكل"
+        ],
+        "juist": 0,
+        "uitleg": "Wederwens."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-presens",
+        "vraag": "'Ik woon in Rabat' in het Darija is ...",
+        "opties": [
+          "كانسكن ف الرباط",
+          "سكنت ف الرباط",
+          "غادي نسكن ف الرباط"
+        ],
+        "juist": 0,
+        "uitleg": "Tegenwoordige tijd."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "uitzondering",
+        "bron": "behalve (+ genitief, onveranderlijk)",
+        "antwoorden": [
+          "سِوى"
+        ],
+        "uitleg": "{ar|سِوى}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebiedende-wijs-2",
+        "bron": "Gebruik! (m, vorm X)",
+        "antwoorden": [
+          "اِسْتَعْمِلْ",
+          "اِسْتَخْدِمْ"
+        ],
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kwantoren",
+        "bron": "كِلا الحَلَّيْنِ مُمْكِنٌ.",
+        "antwoorden": [
+          "beide oplossingen zijn mogelijk",
+          "allebei de oplossingen zijn mogelijk"
+        ],
+        "uitleg": "{ar|كِلا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "uitroep",
+        "bron": "ما أَطْيَبَ الطَّعامَ!",
+        "antwoorden": [
+          "wat is het eten lekker",
+          "wat een lekker eten",
+          "het eten is heerlijk"
+        ],
+        "uitleg": "Uitroep."
+      }
+    ]
+  }
+}

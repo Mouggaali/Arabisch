@@ -1,0 +1,172 @@
+{
+  "id": "j1-p2-l16",
+  "code": "L16",
+  "type": "les",
+  "titel": "Kleuren",
+  "thema": "Dingen beschrijven naar hun kleur",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de belangrijkste kleuren noemen.",
+    "de basiskleuren vormen volgens het patroon أَفْعَلُ / فَعْلاءُ (mannelijk / vrouwelijk).",
+    "andere kleuren maken met de nisba-uitgang ـِيّ.",
+    "vragen en zeggen welke kleur iets heeft."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l16-w01", "ar": "لَوْنٌ", "tr": "lawn", "nl": ["kleur"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|أَلْوانٌ} (*alwān*)." },
+    { "id": "j1-p2-l16-w02", "ar": "أَحْمَرُ", "tr": "aḥmar", "nl": ["rood (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|حَمْراءُ}." },
+    { "id": "j1-p2-l16-w03", "ar": "أَزْرَقُ", "tr": "azraq", "nl": ["blauw (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|زَرْقاءُ}." },
+    { "id": "j1-p2-l16-w04", "ar": "أَخْضَرُ", "tr": "aḫḍar", "nl": ["groen (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|خَضْراءُ}." },
+    { "id": "j1-p2-l16-w05", "ar": "أَصْفَرُ", "tr": "aṣfar", "nl": ["geel (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|صَفْراءُ}." },
+    { "id": "j1-p2-l16-w06", "ar": "أَسْوَدُ", "tr": "aswad", "nl": ["zwart (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|سَوْداءُ}." },
+    { "id": "j1-p2-l16-w07", "ar": "أَبْيَضُ", "tr": "abyaḍ", "nl": ["wit (m)"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|بَيْضاءُ}." },
+    { "id": "j1-p2-l16-w08", "ar": "حَمْراءُ", "tr": "ḥamrāʾ", "nl": ["rood (v)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l16-w09", "ar": "بَيْضاءُ", "tr": "bayḍāʾ", "nl": ["wit (v)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l16-w10", "ar": "بُنِّيٌّ", "tr": "bunnī", "nl": ["bruin"], "soort": "bijvoeglijk naamwoord", "notitie": "Van {ar|بُنّ} (koffiebonen). Vrouwelijk: {ar|بُنِّيَّةٌ}." },
+    { "id": "j1-p2-l16-w11", "ar": "رَمادِيٌّ", "tr": "ramādī", "nl": ["grijs"], "soort": "bijvoeglijk naamwoord", "notitie": "Van {ar|رَماد} (as)." },
+    { "id": "j1-p2-l16-w12", "ar": "بُرْتُقالِيٌّ", "tr": "burtuqālī", "nl": ["oranje"], "soort": "bijvoeglijk naamwoord", "notitie": "Van {ar|بُرْتُقال} (sinaasappel)." },
+    { "id": "j1-p2-l16-w13", "ar": "وَرْدِيٌّ", "tr": "wardī", "nl": ["roze"], "soort": "bijvoeglijk naamwoord", "notitie": "Van {ar|وَرْد} (rozen)." },
+    { "id": "j1-p2-l16-w14", "ar": "بَنَفْسَجِيٌّ", "tr": "banafsajī", "nl": ["paars"], "soort": "bijvoeglijk naamwoord", "notitie": "Van {ar|بَنَفْسَج} (viooltje)." },
+    { "id": "j1-p2-l16-w15", "ar": "ذَهَبِيٌّ", "tr": "ḏahabī", "nl": ["goudkleurig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l16-w16", "ar": "فاتِحٌ", "tr": "fātiḥ", "nl": ["licht (van kleur)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l16-w17", "ar": "غامِقٌ", "tr": "ġāmiq", "nl": ["donker (van kleur)"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l16-w18", "ar": "سَماءٌ", "tr": "samāʾ", "nl": ["hemel", "lucht"], "soort": "zelfstandig naamwoord", "notitie": "Vrouwelijk zonder ة." },
+    { "id": "j1-p2-l16-w19", "ar": "بَحْرٌ", "tr": "baḥr", "nl": ["zee"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l16-w20", "ar": "ثَلْجٌ", "tr": "ṯalj", "nl": ["sneeuw", "ijs"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Basiskleuren: أَفْعَلُ / فَعْلاءُ",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De zes basiskleuren volgen een vast **patroon**. Mannelijk: *aFʿaL* (أَفْعَلُ), vrouwelijk: *FaʿLāʾ* (فَعْلاءُ). De drie medeklinkers van de kleur blijven, de klinkers eromheen veranderen.",
+          "Rood: ح-م-ر → {ar|أَحْمَرُ} / {ar|حَمْراءُ}. Wit: ب-ي-ض → {ar|أَبْيَضُ} / {ar|بَيْضاءُ}."
+        ] },
+        { "type": "tabel", "kop": ["Kleur", "Mannelijk", "Vrouwelijk"], "arKolommen": [1, 2], "rijen": [
+          ["rood", "أَحْمَرُ|aḥmar", "حَمْراءُ|ḥamrāʾ"],
+          ["blauw", "أَزْرَقُ|azraq", "زَرْقاءُ|zarqāʾ"],
+          ["groen", "أَخْضَرُ|aḫḍar", "خَضْراءُ|ḫaḍrāʾ"],
+          ["geel", "أَصْفَرُ|aṣfar", "صَفْراءُ|ṣafrāʾ"],
+          ["zwart", "أَسْوَدُ|aswad", "سَوْداءُ|sawdāʾ"],
+          ["wit", "أَبْيَضُ|abyaḍ", "بَيْضاءُ|bayḍāʾ"]
+        ] },
+        { "type": "waarom", "md": "Dit is je eerste kennismaking met **patronen**: dezelfde 'mal' van klinkers rond drie medeklinkers geeft woorden van dezelfde soort. In jaar 2 is dit de sleutel tot de hele woordenschat (de wortelsystematiek). De vrouwelijke vorm krijgt hier geen ة maar de uitgang ـاءُ." },
+        { "type": "letop", "md": "Deze kleuren krijgen **geen tanwīn**: {ar|بَيْتٌ أَبْيَضُ} (*een wit huis*), dus niet أَبْيَضٌ met tanwīn. Het zijn diptoten, net als de namen {ar|أَحْمَدُ} en {ar|فاطِمَةُ}." }
+      ]
+    },
+    {
+      "titel": "Andere kleuren: de nisba",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Andere kleuren maak je van een zelfstandig naamwoord met de nisba-uitgang ـِيّ / ـِيَّة uit les 3: {ar|بُرْتُقال} (sinaasappel) → {ar|بُرْتُقالِيٌّ} (oranje), {ar|وَرْد} (rozen) → {ar|وَرْدِيٌّ} (roze).",
+          "Deze kleuren gedragen zich als gewone bijvoeglijke naamwoorden: met tanwīn, en vrouwelijk met ة: {ar|حَقيبَةٌ بُنِّيَّةٌ} (een bruine tas)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "سَيّارَةٌ حَمْراءُ", "tr": "sayyāratun ḥamrāʾ", "nl": "een rode auto" },
+          { "ar": "البَيْتُ الأَبْيَضُ", "tr": "al-baytu l-abyaḍ", "nl": "het witte huis" },
+          { "ar": "السَّماءُ زَرْقاءُ.", "tr": "as-samāʾu zarqāʾ.", "nl": "De lucht is blauw." },
+          { "ar": "الثَّلْجُ أَبْيَضُ.", "tr": "aṯ-ṯalju abyaḍ.", "nl": "De sneeuw is wit." },
+          { "ar": "عِنْدي حَقيبَةٌ بُنِّيَّةٌ وَقَلَمٌ أَخْضَرُ.", "tr": "ʿindī ḥaqībatun bunniyyatun wa-qalamun aḫḍar.", "nl": "Ik heb een bruine tas en een groene pen." }
+        ] }
+      ]
+    },
+    {
+      "titel": "Welke kleur?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Naar een kleur vraag je met {ar|ما لَوْنُ ...؟} (*wat is de kleur van ...?*): een iḍāfa met {ar|لَوْنٌ}. Lichte en donkere tinten maak je met {ar|فاتِحٌ} en {ar|غامِقٌ} na de kleur: {ar|أَزْرَقُ فاتِحٌ} (lichtblauw)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "ما لَوْنُ سَيّارَتِكَ؟ — لَوْنُها رَمادِيٌّ.", "tr": "mā lawnu sayyāratika? — lawnuhā ramādī.", "nl": "Welke kleur heeft je auto? — Hij is grijs." },
+          { "ar": "البَحْرُ أَزْرَقُ غامِقٌ.", "tr": "al-baḥru azraqu ġāmiq.", "nl": "De zee is donkerblauw.",
+            "review": { "status": "onzeker", "note": "Combinatie diptoot + bijvoeglijk naamwoord (أَزْرَقُ غامِقٌ). Controleer of أَزْرَقُ داكِنٌ gebruikelijker is in MSA." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Kleuren herkennen",
+      "items": [
+        { "type": "koppelen", "tag": "kleuren", "paren": [
+          { "ar": "أَحْمَرُ", "nl": "rood", "woord": "j1-p2-l16-w02" },
+          { "ar": "أَزْرَقُ", "nl": "blauw", "woord": "j1-p2-l16-w03" },
+          { "ar": "أَخْضَرُ", "nl": "groen", "woord": "j1-p2-l16-w04" },
+          { "ar": "أَصْفَرُ", "nl": "geel", "woord": "j1-p2-l16-w05" },
+          { "ar": "أَسْوَدُ", "nl": "zwart", "woord": "j1-p2-l16-w06" },
+          { "ar": "أَبْيَضُ", "nl": "wit", "woord": "j1-p2-l16-w07" }
+        ], "uitleg": "Alle zes volgen het patroon أَفْعَلُ." },
+        { "type": "luisteren", "tag": "kleuren", "tekst": "بُرْتُقالِيٌّ", "vraag": "Welke kleur hoor je?", "opties": ["oranje", "bruin", "paars", "roze"], "juist": 0, "uitleg": "Van {ar|بُرْتُقال} (sinaasappel)." },
+        { "type": "luisteren", "tag": "kleuren", "tekst": "خَضْراءُ", "vraag": "Welke kleur hoor je?", "opties": ["groen (v)", "groen (m)", "geel (v)"], "juist": 0, "uitleg": "{ar|خَضْراءُ}: vrouwelijke vorm van groen." },
+        { "type": "meerkeuze", "tag": "kleuren", "vraag": "Wat is de vrouwelijke vorm van {ar|أَسْوَدُ}?", "opties": ["سَوْداءُ", "أَسْوَدَةٌ", "سَوْدَةٌ"], "juist": 0, "uitleg": "Patroon فَعْلاءُ: {ar|سَوْداءُ}." }
+      ]
+    },
+    {
+      "titel": "Kleur en geslacht",
+      "items": [
+        { "type": "vervoegen", "tag": "kleuren", "instructie": "Geef de vrouwelijke vorm.",
+          "rijen": [
+            { "label": "أَحْمَرُ (rood)", "antwoord": "حَمْراءُ", "tr": "ḥamrāʾ" },
+            { "label": "أَزْرَقُ (blauw)", "antwoord": "زَرْقاءُ", "tr": "zarqāʾ" },
+            { "label": "أَبْيَضُ (wit)", "antwoord": "بَيْضاءُ", "tr": "bayḍāʾ" },
+            { "label": "بُنِّيٌّ (bruin)", "antwoord": "بُنِّيَّةٌ", "tr": "bunniyya" }
+          ], "uitleg": "Basiskleuren: فَعْلاءُ. Nisba-kleuren: ـِيَّة." },
+        { "type": "invullen", "tag": "kleuren", "zin": "سَيّارَةٌ ___", "nl": "een rode auto", "woordbank": ["حَمْراءُ", "أَحْمَرُ", "حَمْراءٌ"], "antwoord": ["حَمْراءُ"], "uitleg": "{ar|سَيّارَةٌ} is vrouwelijk; geen tanwīn op {ar|حَمْراءُ}." },
+        { "type": "invullen", "tag": "kleuren", "zin": "القَلَمُ ___.", "nl": "De pen is zwart.", "woordbank": ["أَسْوَدُ", "سَوْداءُ", "أَسْوَدٌ"], "antwoord": ["أَسْوَدُ"], "uitleg": "{ar|قَلَمٌ} is mannelijk." },
+        { "type": "invullen", "tag": "kleuren", "zin": "السَّماءُ ___ اليَوْمَ.", "nl": "De lucht is grijs vandaag.", "woordbank": ["رَمادِيَّةٌ", "رَمادِيٌّ", "الرَّمادِيَّةُ"], "antwoord": ["رَمادِيَّةٌ"], "uitleg": "{ar|سَماءٌ} is vrouwelijk (zonder ة)." },
+        { "type": "meerkeuze", "tag": "kleuren", "vraag": "Welke woordgroep is juist?", "opties": ["بَيْتٌ أَبْيَضُ", "بَيْتٌ أَبْيَضٌ", "بَيْتٌ بَيْضاءُ"], "juist": 0, "uitleg": "Mannelijk en zonder tanwīn." }
+      ]
+    },
+    {
+      "titel": "Beschrijven",
+      "items": [
+        { "type": "ordenen", "tag": "kleuren", "nl": "Welke kleur heeft je tas? (tegen een vrouw)", "woorden": ["ما", "لَوْنُ", "حَقيبَتِكِ؟"], "uitleg": "{ar|ما لَوْنُ} + iḍāfa." },
+        { "type": "ordenen", "tag": "kleuren", "nl": "Ik heb een bruine tas en een groene pen.", "woorden": ["عِنْدي", "حَقيبَةٌ", "بُنِّيَّةٌ", "وَقَلَمٌ", "أَخْضَرُ."], "uitleg": "Elk bijvoeglijk naamwoord past bij zijn eigen woord." },
+        { "type": "luisteren", "tag": "kleuren", "tekst": "البَيْتُ الأَبْيَضُ كَبيرٌ", "vraag": "Wat hoor je?", "opties": ["Het witte huis is groot.", "Het huis is wit en groot.", "Het grote huis is wit."], "juist": 0, "uitleg": "Woordgroep {ar|البَيْتُ الأَبْيَضُ} + gezegde." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "kleur", "antwoorden": ["لَوْنٌ"], "uitleg": "{ar|لَوْنٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "De zee is blauw.", "antwoorden": ["البَحْرُ أَزْرَقُ"], "uitleg": "{ar|البَحْرُ أَزْرَقُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "een gele bloem", "antwoorden": ["زَهْرَةٌ صَفْراءُ"], "uitleg": "{ar|زَهْرَةٌ صَفْراءُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "kleuren", "bron": "الثَّلْجُ أَبْيَضُ.", "tr": "aṯ-ṯalju abyaḍ.", "antwoorden": ["de sneeuw is wit"], "uitleg": "{ar|أَبْيَضُ} = wit." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "kleuren", "bron": "حَقيبَةٌ وَرْدِيَّةٌ", "tr": "ḥaqībatun wardiyya", "antwoorden": ["een roze tas"], "uitleg": "{ar|وَرْدِيَّةٌ} = roze (v)." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "kleuren", "bron": "ما لَوْنُ البابِ؟", "tr": "mā lawnu l-bāb?", "antwoorden": ["welke kleur heeft de deur", "wat is de kleur van de deur", "welke kleur is de deur"], "uitleg": "{ar|ما لَوْنُ} = wat is de kleur van." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "kleuren", "paren": [
+        { "ar": "رَمادِيٌّ", "nl": "grijs" },
+        { "ar": "بَنَفْسَجِيٌّ", "nl": "paars" },
+        { "ar": "وَرْدِيٌّ", "nl": "roze" },
+        { "ar": "بُنِّيٌّ", "nl": "bruin" },
+        { "ar": "أَصْفَرُ", "nl": "geel" }
+      ], "uitleg": "Herhaal de kleuren." },
+      { "type": "meerkeuze", "tag": "kleuren", "vraag": "De vrouwelijke vorm van {ar|أَخْضَرُ} is ...", "opties": ["خَضْراءُ", "أَخْضَرَةٌ", "خُضْرٌ"], "juist": 0, "uitleg": "فَعْلاءُ" },
+      { "type": "meerkeuze", "tag": "kleuren", "vraag": "'Een witte kat' is ...", "opties": ["قِطَّةٌ بَيْضاءُ", "قِطَّةٌ أَبْيَضُ", "قِطَّةٌ بَيْضاءٌ"], "juist": 0, "uitleg": "Vrouwelijk, zonder tanwīn." },
+      { "type": "meerkeuze", "tag": "kleuren", "vraag": "Hoe vraag je naar de kleur van de auto?", "opties": ["ما لَوْنُ السَّيّارَةِ؟", "ما السَّيّارَةُ لَوْنٌ؟", "كَمْ لَوْنًا السَّيّارَةُ؟"], "juist": 0, "uitleg": "{ar|ما لَوْنُ} + iḍāfa." },
+      { "type": "luisteren", "tag": "kleuren", "tekst": "أَزْرَقُ", "vraag": "Welke kleur hoor je?", "opties": ["blauw", "groen", "rood"], "juist": 0, "uitleg": "{ar|أَزْرَقُ} = blauw." },
+      { "type": "luisteren", "tag": "kleuren", "tekst": "السَّماءُ زَرْقاءُ", "vraag": "Wat hoor je?", "opties": ["De lucht is blauw.", "De zee is blauw.", "De lucht is grijs."], "juist": 0, "uitleg": "{ar|السَّماءُ} = de lucht." },
+      { "type": "invullen", "tag": "kleuren", "zin": "الزَّهْرَةُ ___.", "nl": "De bloem is geel.", "woordbank": ["صَفْراءُ", "أَصْفَرُ"], "antwoord": ["صَفْراءُ"], "uitleg": "{ar|زَهْرَةٌ} is vrouwelijk." },
+      { "type": "invullen", "tag": "kleuren", "zin": "الكَلْبُ ___.", "nl": "De hond is zwart.", "antwoord": ["أَسْوَدُ"], "uitleg": "{ar|أَسْوَدُ}" },
+      { "type": "vervoegen", "tag": "kleuren", "instructie": "Geef de vrouwelijke vorm.",
+        "rijen": [
+          { "label": "أَصْفَرُ (geel)", "antwoord": "صَفْراءُ", "tr": "ṣafrāʾ" },
+          { "label": "رَمادِيٌّ (grijs)", "antwoord": "رَمادِيَّةٌ", "tr": "ramādiyya" }
+        ], "uitleg": "{ar|صَفْراءُ} · {ar|رَمادِيَّةٌ}" },
+      { "type": "ordenen", "tag": "kleuren", "nl": "De rode auto is nieuw.", "woorden": ["السَّيّارَةُ", "الحَمْراءُ", "جَديدَةٌ."], "uitleg": "Woordgroep + gezegde." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "een rode pen", "antwoorden": ["قَلَمٌ أَحْمَرُ"], "uitleg": "{ar|قَلَمٌ أَحْمَرُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "kleuren", "bron": "De deur is groen.", "antwoorden": ["البابُ أَخْضَرُ"], "uitleg": "{ar|البابُ أَخْضَرُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "kleuren", "bron": "البَيْتُ الأَبْيَضُ", "tr": "al-baytu l-abyaḍ", "antwoorden": ["het witte huis"], "uitleg": "Woordgroep." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "kleuren", "bron": "لَوْنُها بُرْتُقالِيٌّ.", "tr": "lawnuhā burtuqālī.", "antwoorden": ["haar kleur is oranje", "het is oranje", "zij is oranje", "de kleur ervan is oranje"], "uitleg": "{ar|لَوْنُها} = haar/zijn kleur." }
+    ]
+  }
+}

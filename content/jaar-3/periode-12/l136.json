@@ -1,0 +1,646 @@
+{
+  "id": "j3-p12-l136",
+  "code": "L136",
+  "type": "les",
+  "titel": "Verhalen vertellen in alle tijden",
+  "thema": "Het geheim op zolder; alle verteltijden en spanning",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een verhaal vertellen met alle verleden tijden door elkaar.",
+    "spanning opbouwen met فَإِذا بِـ en لَمْ يَكَدْ … حَتّى.",
+    "achtergrond, gebeurtenis en eerdere gebeurtenis onderscheiden."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l136-w01",
+      "ar": "فَإِذا بِـ",
+      "tr": "fa-iḏā bi-",
+      "nl": [
+        "en opeens (daar was)"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p12-l136-w02",
+      "ar": "الرّاوي",
+      "tr": "ar-rāwī",
+      "nl": [
+        "de verteller"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l136-w03",
+      "ar": "حَبْكَةٌ",
+      "tr": "ḥabka",
+      "nl": [
+        "plot, intrige"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l136-w04",
+      "ar": "ذُرْوَةٌ",
+      "tr": "ḏurwa",
+      "nl": [
+        "hoogtepunt, climax"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l136-w05",
+      "ar": "نِهايَةٌ سَعيدَةٌ",
+      "tr": "nihāyatun saʿīda",
+      "nl": [
+        "goede afloop"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l136-w06",
+      "ar": "في تِلْكَ اللَّحْظَةِ",
+      "tr": "fī tilka l-laḥẓa",
+      "nl": [
+        "op dat moment"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l136-w07",
+      "ar": "مُنْذُ ذٰلِكَ الحينِ",
+      "tr": "munḏu ḏālika l-ḥīn",
+      "nl": [
+        "sindsdien"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l136-w08",
+      "ar": "اِنْهَمَرَ",
+      "tr": "inhamara",
+      "nl": [
+        "met bakken neerkomen (regen)"
+      ],
+      "soort": "werkwoord (VII)"
+    },
+    {
+      "id": "j3-p12-l136-w09",
+      "ar": "هَمَّ بِـ",
+      "tr": "hamma bi-",
+      "nl": [
+        "op het punt staan om"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p12-l136-w10",
+      "ar": "لَمْ يَكَدْ … حَتّى",
+      "tr": "lam yakad … ḥattā",
+      "nl": [
+        "nauwelijks … of"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p12-l136-w11",
+      "ar": "تَعَثَّرَ",
+      "tr": "taʿaṯṯara",
+      "nl": [
+        "struikelen"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p12-l136-w12",
+      "ar": "حَقيبَةٌ قَديمَةٌ",
+      "tr": "ḥaqībatun qadīma",
+      "nl": [
+        "oude koffer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l136-w13",
+      "ar": "رِسالَةٌ مَنْسِيَّةٌ",
+      "tr": "risālatun mansiyya",
+      "nl": [
+        "vergeten brief"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l136-w14",
+      "ar": "دَمْعَةٌ",
+      "tr": "damʿa",
+      "nl": [
+        "traan"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|دُموعٌ}."
+    },
+    {
+      "id": "j3-p12-l136-w15",
+      "ar": "سِرٌّ",
+      "tr": "sirr",
+      "nl": [
+        "geheim"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَسْرارٌ}."
+    },
+    {
+      "id": "j3-p12-l136-w16",
+      "ar": "عُلِّيَّةٌ",
+      "tr": "ʿulliyya",
+      "nl": [
+        "zolder"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Alle verteltijden samen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Functie",
+            "Vorm",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "gebeurtenis",
+              "māḍī",
+              "صَعِدْتُ إِلى العُلِّيَّةِ"
+            ],
+            [
+              "achtergrond / gewoonte",
+              "كانَ + muḍāriʿ",
+              "كانَ المَطَرُ يَنْهَمِرُ"
+            ],
+            [
+              "eerder gebeurd",
+              "كانَ قَدْ + māḍī",
+              "كانَتْ جَدَّتي قَدْ كَتَبَتْها"
+            ],
+            [
+              "bijna",
+              "هَمَّ بِـ / كادَ + muḍāriʿ",
+              "هَمَمْتُ بِالخُروجِ"
+            ],
+            [
+              "toestand",
+              "ḥāl",
+              "جَلَسْتُ وَأَنا أَرْتَجِفُ"
+            ],
+            [
+              "plotseling",
+              "فَإِذا بِـ + naamwoord",
+              "فَإِذا بِرِسالَةٍ قَديمَةٍ"
+            ],
+            [
+              "nauwelijks … of",
+              "لَمْ يَكَدْ … حَتّى",
+              "لَمْ أَكَدْ أَقْرَأُها حَتّى بَكَيْتُ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|فَإِذا بِـ} is de Arabische manier om **spanning** te maken: *ik deed de koffer open, en opeens: een brief!* Het naamwoord na {ar|بِـ} staat in de genitief; er volgt vaak een ḥāl of een zin die beschrijft wat je ziet."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|لَمْ يَكَدْ … حَتّى} (*nauwelijks … of*) heeft na {ar|يَكَدْ} een muḍāriʿ en na {ar|حَتّى} een māḍī: {ar|لَمْ نَكَدْ نَصِلُ حَتّى بَدَأَ المَطَرُ}."
+        }
+      ]
+    },
+    {
+      "titel": "Het geheim op zolder",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "كانَ المَطَرُ يَنْهَمِرُ عِنْدَما صَعِدْتُ إِلى العُلِّيَّةِ.",
+              "tr": "kāna l-maṭaru yanhamiru ʿindamā ṣaʿidtu ila l-ʿulliyya.",
+              "nl": "Het regende pijpenstelen toen ik naar de zolder ging."
+            },
+            {
+              "ar": "فَتَحْتُ حَقيبَةً قَديمَةً، فَإِذا بِرِسالَةٍ مَنْسِيَّةٍ.",
+              "tr": "fataḥtu ḥaqībatan qadīmatan, fa-iḏā bi-risālatin mansiyya.",
+              "nl": "Ik opende een oude koffer, en opeens: een vergeten brief."
+            },
+            {
+              "ar": "كانَتْ جَدَّتي قَدْ كَتَبَتْها قَبْلَ خَمْسينَ سَنَةً.",
+              "tr": "kānat jaddatī qad katabathā qabla ḫamsīna sana.",
+              "nl": "Mijn oma had hem vijftig jaar eerder geschreven."
+            },
+            {
+              "ar": "لَمْ أَكَدْ أَقْرَأُ السَّطْرَ الأَوَّلَ حَتّى سالَتْ دُموعي.",
+              "tr": "lam akad aqraʾu s-saṭra l-awwala ḥattā sālat dumūʿī.",
+              "nl": "Ik had nauwelijks de eerste regel gelezen of de tranen stroomden."
+            },
+            {
+              "ar": "في تِلْكَ اللَّحْظَةِ فَهِمْتُ سِرَّ العائِلَةِ.",
+              "tr": "fī tilka l-laḥẓati fahimtu sirra l-ʿāʾila.",
+              "nl": "Op dat moment begreep ik het familiegeheim."
+            },
+            {
+              "ar": "وَمُنْذُ ذٰلِكَ الحينِ أَحْتَفِظُ بِالرِّسالَةِ في دُرْجِ مَكْتَبي.",
+              "tr": "wa-munḏu ḏālika l-ḥīni aḥtafiẓu bi-r-risālati fī durji maktabī.",
+              "nl": "En sindsdien bewaar ik de brief in de la van mijn bureau."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "الرّاوي",
+              "nl": "verteller",
+              "woord": "j3-p12-l136-w02"
+            },
+            {
+              "ar": "حَبْكَةٌ",
+              "nl": "plot",
+              "woord": "j3-p12-l136-w03"
+            },
+            {
+              "ar": "ذُرْوَةٌ",
+              "nl": "climax",
+              "woord": "j3-p12-l136-w04"
+            },
+            {
+              "ar": "دَمْعَةٌ",
+              "nl": "traan",
+              "woord": "j3-p12-l136-w14"
+            },
+            {
+              "ar": "سِرٌّ",
+              "nl": "geheim",
+              "woord": "j3-p12-l136-w15"
+            },
+            {
+              "ar": "عُلِّيَّةٌ",
+              "nl": "zolder",
+              "woord": "j3-p12-l136-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "verteltijden",
+          "tekst": "فَتَحْتُ البابَ فَإِذا بِقِطَّةٍ صَغيرَةٍ",
+          "vraag": "Wat gebeurde er?",
+          "opties": [
+            "Achter de deur zat opeens een klein katje.",
+            "De kat deed de deur open.",
+            "Er was niemand."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|فَإِذا بِـ}"
+        }
+      ]
+    },
+    {
+      "titel": "De tijden kiezen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "verteltijden",
+          "zin": "كانَ المَطَرُ ___ عِنْدَما خَرَجْتُ.",
+          "nl": "Het regende pijpenstelen toen ik naar buiten ging.",
+          "antwoord": [
+            "يَنْهَمِرُ"
+          ],
+          "uitleg": "Achtergrond: كانَ + muḍāriʿ.",
+          "woordbank": [
+            "يَنْهَمِرُ",
+            "اِنْهَمَرَ",
+            "سَيَنْهَمِرُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "verteltijden",
+          "zin": "كانَ أَبي قَدْ ___ البَيْتَ قَبْلَ وِلادَتي.",
+          "nl": "Mijn vader had het huis vóór mijn geboorte gekocht.",
+          "antwoord": [
+            "اِشْتَرى"
+          ],
+          "uitleg": "Voltooid verleden.",
+          "woordbank": [
+            "اِشْتَرى",
+            "يَشْتَري",
+            "سَيَشْتَري"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "verteltijden",
+          "zin": "فَتَحْتُ الحَقيبَةَ فَإِذا ___ قَديمَةٍ.",
+          "nl": "Ik opende de koffer en opeens: oude foto's.",
+          "antwoord": [
+            "بِصُوَرٍ"
+          ],
+          "uitleg": "{ar|فَإِذا بِـ} + genitief.",
+          "woordbank": [
+            "بِصُوَرٍ",
+            "صُوَرٌ",
+            "صُوَرًا"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "verteltijden",
+          "vraag": "{ar|لَمْ نَكَدْ نَصِلُ حَتّى بَدَأَ المَطَرُ} betekent ...",
+          "opties": [
+            "We waren nauwelijks aangekomen of het begon te regenen.",
+            "We kwamen aan toen het al regende.",
+            "Het regende niet toen we aankwamen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ يَكَدْ … حَتّى}"
+        },
+        {
+          "type": "vervoegen",
+          "tag": "verteltijden",
+          "instructie": "Kies de juiste vorm van كَتَبَ.",
+          "rijen": [
+            {
+              "label": "zij (v) had geschreven",
+              "antwoord": "كانَتْ قَدْ كَتَبَتْ",
+              "tr": "kānat qad katabat"
+            },
+            {
+              "label": "zij (v) schreef (altijd)",
+              "antwoord": "كانَتْ تَكْتُبُ",
+              "tr": "kānat taktubu"
+            }
+          ],
+          "uitleg": "Voltooid tegenover gewoonte."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "verteltijden",
+          "nl": "Op dat moment begreep ik het geheim.",
+          "woorden": [
+            "في",
+            "تِلْكَ",
+            "اللَّحْظَةِ",
+            "فَهِمْتُ",
+            "السِّرَّ."
+          ],
+          "uitleg": "Gebeurtenis."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "sindsdien",
+          "antwoorden": [
+            "مُنْذُ ذٰلِكَ الحينِ",
+            "منذ ذلك الحين",
+            "مُنْذُ ذٰلِكَ الوَقْتِ"
+          ],
+          "uitleg": "{ar|مُنْذُ ذٰلِكَ الحينِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "verteltijden",
+          "bron": "هَمَمْتُ بِالخُروجِ فَإِذا بِالهاتِفِ يَرِنُّ.",
+          "antwoorden": [
+            "ik stond op het punt weg te gaan toen opeens de telefoon ging",
+            "ik wilde net vertrekken en opeens ging de telefoon"
+          ],
+          "uitleg": "{ar|هَمَّ بِـ} + {ar|فَإِذا بِـ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "نِهايَةٌ سَعيدَةٌ",
+            "nl": "goede afloop"
+          },
+          {
+            "ar": "في تِلْكَ اللَّحْظَةِ",
+            "nl": "op dat moment"
+          },
+          {
+            "ar": "تَعَثَّرَ",
+            "nl": "struikelen"
+          },
+          {
+            "ar": "رِسالَةٌ مَنْسِيَّةٌ",
+            "nl": "vergeten brief"
+          },
+          {
+            "ar": "هَمَّ بِـ",
+            "nl": "op het punt staan"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "Welke vorm geeft de **achtergrond** van een verhaal?",
+        "opties": [
+          "كانَ + muḍāriʿ",
+          "كانَ قَدْ + māḍī",
+          "سَـ + muḍāriʿ"
+        ],
+        "juist": 0,
+        "uitleg": "Duur in het verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "Waarvoor gebruik je {ar|فَإِذا بِـ}?",
+        "opties": [
+          "een plotselinge ontdekking",
+          "een gewoonte",
+          "een wens"
+        ],
+        "juist": 0,
+        "uitleg": "Spanning."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "'Ik had de brief al gelezen' is ...",
+        "opties": [
+          "كُنْتُ قَدْ قَرَأْتُ الرِّسالَةَ",
+          "كُنْتُ أَقْرَأُ الرِّسالَةَ",
+          "قَرَأْتُ الرِّسالَةَ غَدًا"
+        ],
+        "juist": 0,
+        "uitleg": "Voltooid verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "verteltijden",
+        "vraag": "Na {ar|لَمْ يَكَدْ} volgt ...",
+        "opties": [
+          "een muḍāriʿ, en na حَتّى een māḍī",
+          "een māḍī, en na حَتّى een muḍāriʿ",
+          "twee maṣdars"
+        ],
+        "juist": 0,
+        "uitleg": "Nauwelijks … of."
+      },
+      {
+        "type": "luisteren",
+        "tag": "verteltijden",
+        "tekst": "كانَتْ جَدَّتي قَدْ كَتَبَتْها قَبْلَ سَنَواتٍ",
+        "vraag": "Wanneer schreef de oma de brief?",
+        "opties": [
+          "jaren eerder",
+          "gisteren",
+          "ze schrijft hem nu"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَتْ قَدْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "verteltijden",
+        "tekst": "لَمْ أَكَدْ أَنامُ حَتّى رَنَّ الهاتِفُ",
+        "vraag": "Wat gebeurde er?",
+        "opties": [
+          "Hij was nauwelijks in slaap of de telefoon ging.",
+          "Hij sliep de hele nacht.",
+          "Hij belde iemand."
+        ],
+        "juist": 0,
+        "uitleg": "Nauwelijks … of."
+      },
+      {
+        "type": "invullen",
+        "tag": "verteltijden",
+        "zin": "خَرَجْتُ مِنَ البَيْتِ فَإِذا ___ صَديقي يَنْتَظِرُني.",
+        "nl": "Ik ging de deur uit en opeens stond mijn vriend op me te wachten.",
+        "antwoord": [
+          "بِـ"
+        ],
+        "uitleg": "{ar|فَإِذا بِـ}",
+        "woordbank": [
+          "بِـ",
+          "أَنَّ",
+          "لِـ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "verteltijden",
+        "zin": "___ بِالخُروجِ عِنْدَما بَدَأَ المَطَرُ.",
+        "nl": "Ik stond op het punt weg te gaan toen het begon te regenen.",
+        "antwoord": [
+          "هَمَمْتُ"
+        ],
+        "uitleg": "{ar|هَمَّ بِـ}",
+        "woordbank": [
+          "هَمَمْتُ",
+          "كِدْتُ",
+          "كُنْتُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "وَجَدْتُ الصُّوَرَ في ___.",
+        "nl": "Ik vond de foto's op zolder.",
+        "antwoord": [
+          "العُلِّيَّةِ"
+        ],
+        "uitleg": "{ar|عُلِّيَّةٌ}",
+        "woordbank": [
+          "العُلِّيَّةِ",
+          "الذُّرْوَةِ",
+          "الحَبْكَةِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "verteltijden",
+        "instructie": "Vul de juiste tijd in van سَكَنَ (wonen).",
+        "rijen": [
+          {
+            "label": "wij woonden (gewoonte)",
+            "antwoord": "كُنّا نَسْكُنُ",
+            "tr": "kunnā naskunu"
+          },
+          {
+            "label": "wij hadden gewoond",
+            "antwoord": "كُنّا قَدْ سَكَنّا",
+            "tr": "kunnā qad sakannā"
+          }
+        ],
+        "uitleg": "Verteltijden."
+      },
+      {
+        "type": "ordenen",
+        "tag": "verteltijden",
+        "nl": "Ik opende de koffer en opeens: een brief.",
+        "woorden": [
+          "فَتَحْتُ",
+          "الحَقيبَةَ",
+          "فَإِذا",
+          "بِرِسالَةٍ."
+        ],
+        "uitleg": "{ar|فَإِذا بِـ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het geheim",
+        "antwoorden": [
+          "السِّرُّ",
+          "السر"
+        ],
+        "uitleg": "{ar|السِّرُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "verteltijden",
+        "bron": "كانَ المَطَرُ يَنْهَمِرُ.",
+        "antwoorden": [
+          "het regende pijpenstelen",
+          "de regen kwam met bakken naar beneden",
+          "het regende hard"
+        ],
+        "uitleg": "Achtergrond."
+      }
+    ]
+  }
+}

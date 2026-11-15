@@ -1,0 +1,671 @@
+{
+  "id": "j3-p11-l130",
+  "code": "L130",
+  "type": "les",
+  "titel": "Project: presentatie",
+  "thema": "Een presentatie met cijfers over toerisme",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een presentatie openen, structureren en afsluiten.",
+    "naar dia's en grafieken verwijzen en percentages noemen.",
+    "het publiek correct in het meervoud aanspreken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l130-w01",
+      "ar": "شَريحَةٌ",
+      "tr": "šarīḥa",
+      "nl": [
+        "dia (slide)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|شَرائِحُ}."
+    },
+    {
+      "id": "j3-p11-l130-w02",
+      "ar": "رَسْمٌ بَيانِيٌّ",
+      "tr": "rasmun bayāniyy",
+      "nl": [
+        "grafiek"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w03",
+      "ar": "جَدْوَلٌ",
+      "tr": "jadwal",
+      "nl": [
+        "tabel, schema"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l130-w04",
+      "ar": "نِسْبَةٌ مِئَوِيَّةٌ",
+      "tr": "nisbatun miʾawiyya",
+      "nl": [
+        "percentage"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w05",
+      "ar": "لَخَّصَ",
+      "tr": "laḫḫaṣa",
+      "nl": [
+        "samenvatten"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p11-l130-w07",
+      "ar": "يَنْقَسِمُ إِلى",
+      "tr": "yanqasimu ilā",
+      "nl": [
+        "is verdeeld in"
+      ],
+      "soort": "werkwoord (VII)"
+    },
+    {
+      "id": "j3-p11-l130-w08",
+      "ar": "أَنْتَقِلُ الآنَ إِلى",
+      "tr": "antaqilu l-āna ilā",
+      "nl": [
+        "ik ga nu over naar"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w09",
+      "ar": "كَما تَرَوْنَ",
+      "tr": "kamā tarawna",
+      "nl": [
+        "zoals u ziet"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w10",
+      "ar": "حُسْنُ الاِسْتِماعِ",
+      "tr": "ḥusnu l-istimāʿ",
+      "nl": [
+        "aandacht (goed luisteren)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w11",
+      "ar": "هَلْ مِنْ أَسْئِلَةٍ؟",
+      "tr": "hal min asʾila?",
+      "nl": [
+        "zijn er vragen?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l130-w12",
+      "ar": "مُسْتَمِعٌ",
+      "tr": "mustamiʿ",
+      "nl": [
+        "luisteraar"
+      ],
+      "soort": "deelwoord (VIII)"
+    },
+    {
+      "id": "j3-p11-l130-w13",
+      "ar": "أَبْرَزُ",
+      "tr": "abraz",
+      "nl": [
+        "opvallendst, belangrijkst"
+      ],
+      "soort": "overtreffende trap"
+    },
+    {
+      "id": "j3-p11-l130-w14",
+      "ar": "عَرَضَ",
+      "tr": "ʿaraḍa",
+      "nl": [
+        "presenteren, tonen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l130-w15",
+      "ar": "مِحْوَرٌ",
+      "tr": "miḥwar",
+      "nl": [
+        "hoofdpunt, thema"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَحاوِرُ}."
+    },
+    {
+      "id": "j3-p11-l130-w16",
+      "ar": "ارْتَفَعَ إِلى",
+      "tr": "irtafaʿa ilā",
+      "nl": [
+        "stijgen tot"
+      ],
+      "soort": "werkwoord (VIII)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een presentatie in vier stappen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Stap",
+            "Formule",
+            "Nederlands"
+          ],
+          "rijen": [
+            [
+              "openen",
+              "سَأَتَحَدَّثُ اليَوْمَ عَنْ …",
+              "Vandaag ga ik het hebben over …"
+            ],
+            [
+              "structuur",
+              "يَنْقَسِمُ عَرْضي إِلى ثَلاثَةِ مَحاوِرَ",
+              "Mijn presentatie bestaat uit drie delen"
+            ],
+            [
+              "overgang",
+              "أَنْتَقِلُ الآنَ إِلى …",
+              "Ik ga nu over naar …"
+            ],
+            [
+              "visuals",
+              "كَما تَرَوْنَ في الشَّريحَةِ / في الرَّسْمِ البَيانِيِّ",
+              "Zoals u op de dia / in de grafiek ziet"
+            ],
+            [
+              "afsluiten",
+              "لِأُلَخِّصَ … · شُكْرًا عَلى حُسْنِ اسْتِماعِكُمْ",
+              "Samenvattend … · Bedankt voor uw aandacht"
+            ],
+            [
+              "vragen",
+              "هَلْ مِنْ أَسْئِلَةٍ؟",
+              "Zijn er vragen?"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Een presentatie is **gesproken tekst**: het publiek kan niet terugbladeren. Daarom kondig je de structuur aan ({ar|يَنْقَسِمُ عَرْضي إِلى …}) en markeer je elke overgang ({ar|أَنْتَقِلُ الآنَ إِلى …}). Je spreekt het publiek aan in het meervoud: {ar|تَرَوْنَ، اِسْتِماعِكُمْ}."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|هَلْ مِنْ أَسْئِلَةٍ؟} is een vaste vorm: {ar|مِنْ} + genitief betekent hier *enige*. Letterlijk: *zijn er enige vragen?*"
+        }
+      ]
+    },
+    {
+      "titel": "Cijfers presenteren",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَأَتَحَدَّثُ اليَوْمَ عَنِ السِّياحَةِ في المَغْرِبِ.",
+              "tr": "sa-ataḥaddaṯu l-yawma ʿani s-siyāḥati fi l-maġrib.",
+              "nl": "Vandaag ga ik het hebben over toerisme in Marokko."
+            },
+            {
+              "ar": "يَنْقَسِمُ عَرْضي إِلى ثَلاثَةِ مَحاوِرَ.",
+              "tr": "yanqasimu ʿarḍī ilā ṯalāṯati maḥāwir.",
+              "nl": "Mijn presentatie bestaat uit drie delen."
+            },
+            {
+              "ar": "كَما تَرَوْنَ في الرَّسْمِ البَيانِيِّ، اِرْتَفَعَ عَدَدُ السُّيّاحِ.",
+              "tr": "kamā tarawna fi r-rasmi l-bayāniyy, irtafaʿa ʿadadu s-suyyāḥ.",
+              "nl": "Zoals u in de grafiek ziet, is het aantal toeristen gestegen."
+            },
+            {
+              "ar": "اِرْتَفَعَتِ النِّسْبَةُ إِلى عِشْرينَ في المِئَةِ.",
+              "tr": "irtafaʿati n-nisbatu ilā ʿišrīna fi l-miʾa.",
+              "nl": "Het percentage steeg tot twintig procent."
+            },
+            {
+              "ar": "أَنْتَقِلُ الآنَ إِلى المِحْوَرِ الثّاني.",
+              "tr": "antaqilu l-āna ila l-miḥwari ṯ-ṯānī.",
+              "nl": "Ik ga nu over naar het tweede deel."
+            },
+            {
+              "ar": "شُكْرًا عَلى حُسْنِ اسْتِماعِكُمْ. هَلْ مِنْ أَسْئِلَةٍ؟",
+              "tr": "šukran ʿalā ḥusni stimāʿikum. hal min asʾila?",
+              "nl": "Bedankt voor uw aandacht. Zijn er vragen?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "presenteren",
+          "paren": [
+            {
+              "ar": "شَريحَةٌ",
+              "nl": "dia",
+              "woord": "j3-p11-l130-w01"
+            },
+            {
+              "ar": "رَسْمٌ بَيانِيٌّ",
+              "nl": "grafiek",
+              "woord": "j3-p11-l130-w02"
+            },
+            {
+              "ar": "جَدْوَلٌ",
+              "nl": "tabel",
+              "woord": "j3-p11-l130-w03"
+            },
+            {
+              "ar": "نِسْبَةٌ مِئَوِيَّةٌ",
+              "nl": "percentage",
+              "woord": "j3-p11-l130-w04"
+            },
+            {
+              "ar": "مِحْوَرٌ",
+              "nl": "hoofdpunt",
+              "woord": "j3-p11-l130-w15"
+            },
+            {
+              "ar": "مُسْتَمِعٌ",
+              "nl": "luisteraar",
+              "woord": "j3-p11-l130-w12"
+            }
+          ],
+          "uitleg": "Presentatiewoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "presenteren",
+          "tekst": "أَنْتَقِلُ الآنَ إِلى المِحْوَرِ الثّاني",
+          "vraag": "Wat doet de spreker?",
+          "opties": [
+            "Hij gaat over naar het tweede deel.",
+            "Hij sluit af.",
+            "Hij stelt een vraag."
+          ],
+          "juist": 0,
+          "uitleg": "Overgang."
+        }
+      ]
+    },
+    {
+      "titel": "Formules",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "presenteren",
+          "vraag": "Welke formule kondigt de structuur aan?",
+          "opties": [
+            "يَنْقَسِمُ عَرْضي إِلى ثَلاثَةِ مَحاوِرَ",
+            "هَلْ مِنْ أَسْئِلَةٍ؟",
+            "شُكْرًا عَلى حُسْنِ اسْتِماعِكُمْ"
+          ],
+          "juist": 0,
+          "uitleg": "Structuur."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "presenteren",
+          "vraag": "Waarom {ar|تَرَوْنَ} (meervoud)?",
+          "opties": [
+            "je spreekt het hele publiek aan",
+            "het is beleefder enkelvoud",
+            "het is lijdend"
+          ],
+          "juist": 0,
+          "uitleg": "Publiek."
+        },
+        {
+          "type": "invullen",
+          "tag": "presenteren",
+          "zin": "كَما ___ في الشَّريحَةِ.",
+          "nl": "Zoals u op de dia ziet.",
+          "antwoord": [
+            "تَرَوْنَ"
+          ],
+          "uitleg": "Meervoud.",
+          "woordbank": [
+            "تَرَوْنَ",
+            "تَرى",
+            "رَأَيْتُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "presenteren",
+          "zin": "اِرْتَفَعَتِ النِّسْبَةُ إِلى ثَلاثينَ في ___.",
+          "nl": "Het percentage steeg tot dertig procent.",
+          "antwoord": [
+            "المِئَةِ"
+          ],
+          "uitleg": "{ar|في المِئَةِ}",
+          "woordbank": [
+            "المِئَةِ",
+            "المِئَةُ",
+            "مِئَةٍ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "presenteren",
+          "nl": "Bedankt voor uw aandacht.",
+          "woorden": [
+            "شُكْرًا",
+            "عَلى",
+            "حُسْنِ",
+            "اسْتِماعِكُمْ."
+          ],
+          "uitleg": "Slot."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "presenteren",
+          "bron": "Zijn er vragen?",
+          "antwoorden": [
+            "هَلْ مِنْ أَسْئِلَةٍ؟",
+            "هل من أسئلة",
+            "هَلْ هُناكَ أَسْئِلَةٌ؟"
+          ],
+          "uitleg": "Vaste formule."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "presenteren",
+          "bron": "سَأَتَحَدَّثُ اليَوْمَ عَنِ السِّياحَةِ.",
+          "antwoorden": [
+            "vandaag ga ik het hebben over toerisme",
+            "vandaag spreek ik over toerisme"
+          ],
+          "uitleg": "Opening."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf spreken",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "spreken",
+          "tag": "presenteren",
+          "opdracht": "Geef een presentatie van twee minuten over een onderwerp met cijfers, bijvoorbeeld fietsen in Nederland.",
+          "model": [
+            {
+              "ar": "سَأَتَحَدَّثُ اليَوْمَ عَنِ السِّياحَةِ في المَغْرِبِ.",
+              "tr": "sa-ataḥaddaṯu l-yawma ʿani s-siyāḥati fi l-maġrib.",
+              "nl": "Vandaag ga ik het hebben over toerisme in Marokko."
+            },
+            {
+              "ar": "يَنْقَسِمُ عَرْضي إِلى ثَلاثَةِ مَحاوِرَ.",
+              "tr": "yanqasimu ʿarḍī ilā ṯalāṯati maḥāwir.",
+              "nl": "Mijn presentatie bestaat uit drie delen."
+            },
+            {
+              "ar": "كَما تَرَوْنَ في الرَّسْمِ البَيانِيِّ، اِرْتَفَعَ عَدَدُ السُّيّاحِ.",
+              "tr": "kamā tarawna fi r-rasmi l-bayāniyy, irtafaʿa ʿadadu s-suyyāḥ.",
+              "nl": "Zoals u in de grafiek ziet, is het aantal toeristen gestegen."
+            },
+            {
+              "ar": "اِرْتَفَعَتِ النِّسْبَةُ إِلى عِشْرينَ في المِئَةِ.",
+              "tr": "irtafaʿati n-nisbatu ilā ʿišrīna fi l-miʾa.",
+              "nl": "Het percentage steeg tot twintig procent."
+            },
+            {
+              "ar": "أَنْتَقِلُ الآنَ إِلى المِحْوَرِ الثّاني.",
+              "tr": "antaqilu l-āna ila l-miḥwari ṯ-ṯānī.",
+              "nl": "Ik ga nu over naar het tweede deel."
+            },
+            {
+              "ar": "شُكْرًا عَلى حُسْنِ اسْتِماعِكُمْ. هَلْ مِنْ أَسْئِلَةٍ؟",
+              "tr": "šukran ʿalā ḥusni stimāʿikum. hal min asʾila?",
+              "nl": "Bedankt voor uw aandacht. Zijn er vragen?"
+            }
+          ],
+          "checklist": [
+            "Een opening met het onderwerp.",
+            "Je kondigde de structuur aan ({ar|يَنْقَسِمُ عَرْضي إِلى …}).",
+            "Je markeerde de overgangen ({ar|أَنْتَقِلُ الآنَ إِلى …}).",
+            "Je noemde minstens één percentage of getal.",
+            "Je sprak het publiek aan in het meervoud.",
+            "Afsluiting met bedankje en {ar|هَلْ مِنْ أَسْئِلَةٍ؟}."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk wat je zei met het modelantwoord. Spreek het model daarna een keer hardop na, en probeer het dan opnieuw zonder te kijken.",
+          "woorden": [
+            "سَأَتَحَدَّثُ اليَوْمَ عَنْ",
+            "يَنْقَسِمُ عَرْضي إِلى",
+            "كَما تَرَوْنَ",
+            "أَنْتَقِلُ الآنَ إِلى",
+            "هَلْ مِنْ أَسْئِلَةٍ؟"
+          ]
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "presenteren",
+        "paren": [
+          {
+            "ar": "لَخَّصَ",
+            "nl": "samenvatten"
+          },
+          {
+            "ar": "عَرَضَ",
+            "nl": "presenteren"
+          },
+          {
+            "ar": "أَبْرَزُ",
+            "nl": "belangrijkst"
+          },
+          {
+            "ar": "حُسْنُ الاِسْتِماعِ",
+            "nl": "aandacht"
+          },
+          {
+            "ar": "يَنْقَسِمُ إِلى",
+            "nl": "is verdeeld in"
+          }
+        ],
+        "uitleg": "Presentatiewoorden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "Waarmee open je een presentatie?",
+        "opties": [
+          "سَأَتَحَدَّثُ اليَوْمَ عَنْ …",
+          "هَلْ مِنْ أَسْئِلَةٍ؟",
+          "أَنْتَقِلُ الآنَ إِلى …"
+        ],
+        "juist": 0,
+        "uitleg": "Opening."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "{ar|كَما تَرَوْنَ في الرَّسْمِ البَيانِيِّ} betekent ...",
+        "opties": [
+          "zoals u in de grafiek ziet",
+          "zoals u op de foto ziet",
+          "zoals u weet"
+        ],
+        "juist": 0,
+        "uitleg": "Visuals."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "presenteren",
+        "vraag": "{ar|مِنْ} in {ar|هَلْ مِنْ أَسْئِلَةٍ؟} betekent ...",
+        "opties": [
+          "enige",
+          "van",
+          "uit"
+        ],
+        "juist": 0,
+        "uitleg": "Vaste vorm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|الشَّريحَةُ} is ...",
+        "opties": [
+          "de dia",
+          "de tabel",
+          "de grafiek"
+        ],
+        "juist": 0,
+        "uitleg": "Slide."
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "يَنْقَسِمُ عَرْضي إِلى ثَلاثَةِ مَحاوِرَ",
+        "vraag": "Uit hoeveel delen bestaat de presentatie?",
+        "opties": [
+          "drie",
+          "twee",
+          "vier"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ثَلاثَةِ مَحاوِرَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "اِرْتَفَعَتِ النِّسْبَةُ إِلى خَمْسينَ في المِئَةِ",
+        "vraag": "Tot welk percentage steeg het?",
+        "opties": [
+          "50%",
+          "15%",
+          "5%"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَمْسينَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "presenteren",
+        "zin": "أَنْتَقِلُ الآنَ ___ المِحْوَرِ الأَخيرِ.",
+        "nl": "Ik ga nu over naar het laatste deel.",
+        "antwoord": [
+          "إِلى"
+        ],
+        "uitleg": "Overgang.",
+        "woordbank": [
+          "إِلى",
+          "مِنْ",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "presenteren",
+        "zin": "سَ___ اليَوْمَ عَنِ الهِجْرَةِ.",
+        "nl": "Vandaag ga ik het hebben over migratie.",
+        "antwoord": [
+          "أَتَحَدَّثُ"
+        ],
+        "uitleg": "1e persoon.",
+        "woordbank": [
+          "أَتَحَدَّثُ",
+          "تَحَدَّثَ",
+          "يَتَحَدَّثونَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اُنْظُروا إِلى هٰذا ___.",
+        "nl": "Kijk naar deze tabel.",
+        "antwoord": [
+          "الجَدْوَلِ"
+        ],
+        "uitleg": "{ar|جَدْوَلٌ}",
+        "woordbank": [
+          "الجَدْوَلِ",
+          "المُسْتَمِعِ",
+          "المِحْوَرِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "presenteren",
+        "instructie": "Zet in het meervoud (publiek aanspreken).",
+        "rijen": [
+          {
+            "label": "تَرى (je ziet)",
+            "antwoord": "تَرَوْنَ",
+            "tr": "tarawna"
+          },
+          {
+            "label": "اُنْظُرْ (kijk)",
+            "antwoord": "اُنْظُروا",
+            "tr": "unẓurū"
+          }
+        ],
+        "uitleg": "Publiek in het meervoud."
+      },
+      {
+        "type": "ordenen",
+        "tag": "presenteren",
+        "nl": "Zoals u in de grafiek ziet, is het aantal gestegen.",
+        "woorden": [
+          "كَما",
+          "تَرَوْنَ",
+          "في",
+          "الرَّسْمِ",
+          "البَيانِيِّ،",
+          "اِرْتَفَعَ",
+          "العَدَدُ."
+        ],
+        "uitleg": "Visuals."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de grafiek",
+        "antwoorden": [
+          "الرَّسْمُ البَيانِيُّ",
+          "الرسم البياني"
+        ],
+        "uitleg": "{ar|الرَّسْمُ البَيانِيُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "presenteren",
+        "bron": "لِأُلَخِّصَ: السِّياحَةُ مُهِمَّةٌ لِلْاِقْتِصادِ.",
+        "antwoorden": [
+          "samenvattend: toerisme is belangrijk voor de economie",
+          "om samen te vatten: toerisme is belangrijk voor de economie"
+        ],
+        "uitleg": "{ar|لِأُلَخِّصَ}"
+      }
+    ]
+  }
+}

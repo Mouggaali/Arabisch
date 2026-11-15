@@ -1,0 +1,119 @@
+{
+  "id": "j2-p6-d12",
+  "code": "D12",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: vraagwoorden",
+  "thema": "Waar, wie, waarom, hoe, wanneer en hoeveel in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de Darija-vraagwoorden gebruiken: فين، شكون، علاش، كيفاش، إيمتا، شحال.",
+    "ja/nee-vragen stellen met واش.",
+    "de vraagwoorden vergelijken met het Fusha."
+  ],
+
+  "woorden": [
+    { "id": "j2-p6-d12-w01", "ar": "فين", "tr": "fīn", "nl": ["waar"], "soort": "vraagwoord", "notitie": "Fusha: {ar|أَيْنَ}. {ar|منين} = waarvandaan.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w02", "ar": "شكون", "tr": "škūn", "nl": ["wie"], "soort": "vraagwoord", "notitie": "Fusha: {ar|مَنْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w03", "ar": "علاش", "tr": "ʿlāš", "nl": ["waarom"], "soort": "vraagwoord", "notitie": "Fusha: {ar|لِماذا}. Antwoord vaak met {ar|حيت} (omdat).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w04", "ar": "كيفاش", "tr": "kīfāš", "nl": ["hoe"], "soort": "vraagwoord", "notitie": "Fusha: {ar|كَيْفَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w05", "ar": "إيمتا", "tr": "īmta", "nl": ["wanneer"], "soort": "vraagwoord", "notitie": "Fusha: {ar|مَتى}.", "review": { "status": "onzeker", "note": "Darija bevestigen (إيمتا / فوقاش)." } },
+    { "id": "j2-p6-d12-w06", "ar": "واش", "tr": "wāš", "nl": ["(vraagpartikel ja/nee)"], "soort": "vraagwoord", "notitie": "Fusha: {ar|هَلْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w07", "ar": "منين", "tr": "mnīn", "nl": ["waarvandaan"], "soort": "vraagwoord", "notitie": "Fusha: {ar|مِنْ أَيْنَ}.", "review": { "status": "onzeker", "note": "Darija bevestigen; mogelijk al in D01." } },
+    { "id": "j2-p6-d12-w08", "ar": "أشمن", "tr": "ašmən", "nl": ["welk(e)"], "soort": "vraagwoord", "notitie": "Fusha: {ar|أَيُّ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w09", "ar": "حيت", "tr": "ḥīt", "nl": ["omdat"], "soort": "voegwoord", "notitie": "Fusha: {ar|لِأَنَّ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w10", "ar": "لمن", "tr": "lmən", "nl": ["voor wie", "aan wie"], "soort": "vraagwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w11", "ar": "مع من", "tr": "mʿa mən", "nl": ["met wie"], "soort": "vraagwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w12", "ar": "شحال ديال الوقت", "tr": "šḥāl dyāl lwəqt", "nl": ["hoe lang (hoeveel tijd)"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w13", "ar": "علاه", "tr": "ʿlāh", "nl": ["waarom (variant)"], "soort": "vraagwoord", "review": { "status": "onzeker", "note": "Regionale variant van علاش; bevestigen." } },
+    { "id": "j2-p6-d12-w14", "ar": "ماعرفتش", "tr": "maʿṛəftš", "nl": ["ik weet het niet"], "soort": "uitdrukking", "notitie": "Letterlijk: ik heb het niet geweten.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d12-w15", "ar": "صافي فهمت", "tr": "ṣāfi fhəmt", "nl": ["oké, ik begrijp het"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Vraagwoorden: Fusha en Darija",
+      "blokken": [
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["waar", "أَيْنَ", "فين|fīn"],
+          ["wie", "مَنْ", "شكون|škūn"],
+          ["wat", "ما / ماذا", "شنو|šnu"],
+          ["waarom", "لِماذا", "علاش|ʿlāš"],
+          ["hoe", "كَيْفَ", "كيفاش|kīfāš"],
+          ["wanneer", "مَتى", "إيمتا|īmta"],
+          ["hoeveel", "كَمْ", "شحال|šḥāl"],
+          ["ja/nee", "هَلْ", "واش|wāš"]
+        ] },
+        { "type": "waarom", "md": "Veel Darija-vraagwoorden eindigen op **-āš**: {ar|علاش}، {ar|كيفاش}. Die *-š* komt van {ar|شَيْء} (ding): {ar|علاش} = *ʿalā ayy šayʾ* (om welk ding?). Je ziet dezelfde *ش* als bij de ontkenning ما…ش (D06)." }
+      ]
+    },
+    {
+      "titel": "Vragen stellen",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "فين ساكن؟", "tr": "fīn sākən?", "nl": "Waar woon je?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "شكون هادا؟", "tr": "škūn hāda?", "nl": "Wie is dat?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "علاش ما جيتيش البارح؟ — حيت كنت مريض.", "tr": "ʿlāš ma jītīš lbāṛəḥ? — ḥīt kənt mṛīḍ.", "nl": "Waarom kwam je gisteren niet? — Omdat ik ziek was.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "إيمتا غادي تسافر؟", "tr": "īmta ġādi tsāfər?", "nl": "Wanneer ga je op reis?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "واش كتفهم الدارجة؟", "tr": "wāš katfhəm ddārija?", "nl": "Begrijp je Darija?", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-vragen", "paren": [
+          { "ar": "فين", "nl": "waar", "woord": "j2-p6-d12-w01" },
+          { "ar": "شكون", "nl": "wie", "woord": "j2-p6-d12-w02" },
+          { "ar": "علاش", "nl": "waarom", "woord": "j2-p6-d12-w03" },
+          { "ar": "كيفاش", "nl": "hoe", "woord": "j2-p6-d12-w04" },
+          { "ar": "إيمتا", "nl": "wanneer", "woord": "j2-p6-d12-w05" },
+          { "ar": "حيت", "nl": "omdat", "woord": "j2-p6-d12-w09" }
+        ], "uitleg": "Vraagwoorden." },
+        { "type": "luisteren", "tag": "darija-vragen", "tekst": "فين ساكن؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Waar woon je?", "Hoe heet je?", "Wanneer kom je?"], "juist": 0, "uitleg": "*fīn sākən?* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Vragen",
+      "items": [
+        { "type": "invullen", "tag": "darija-vragen", "zin": "___ ما جيتيش؟ — حيت كنت مريض.", "nl": "Waarom kwam je niet? — Omdat ik ziek was.", "woordbank": ["علاش", "فين", "شكون"], "antwoord": ["علاش"], "uitleg": "{ar|علاش} = waarom." },
+        { "type": "invullen", "tag": "darija-vragen", "zin": "___ كتفهم الدارجة؟", "nl": "Begrijp je Darija? (ja/nee)", "woordbank": ["واش", "شنو", "إيمتا"], "antwoord": ["واش"], "uitleg": "{ar|واش} = Fusha {ar|هَلْ}." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|كَيْفَ} is in het Darija ...", "opties": ["كيفاش", "فين", "علاش"], "juist": 0, "uitleg": "{ar|كيفاش} = hoe." },
+        { "type": "ordenen", "tag": "darija-vragen", "nl": "Wanneer ga je op reis?", "woorden": ["إيمتا", "غادي", "تسافر؟"], "uitleg": "Vraagwoord + غادي + werkwoord." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-vragen", "bron": "wie? (Darija)", "antwoorden": ["شكون", "شكون؟"], "uitleg": "{ar|شكون}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-vragen", "bron": "شكون هادا؟", "tr": "škūn hāda?", "antwoorden": ["wie is dat", "wie is dit"], "uitleg": "{ar|شكون} = wie." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-vragen", "paren": [
+        { "ar": "منين", "nl": "waarvandaan" },
+        { "ar": "أشمن", "nl": "welk" },
+        { "ar": "مع من", "nl": "met wie" },
+        { "ar": "واش", "nl": "ja/nee-vraag" }
+      ], "uitleg": "Vraagwoorden." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|مَتى} is in het Darija ...", "opties": ["إيمتا", "علاش", "شحال"], "juist": 0, "uitleg": "{ar|إيمتا} = wanneer." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|لِأَنَّ} is in het Darija ...", "opties": ["حيت", "واش", "فين"], "juist": 0, "uitleg": "{ar|حيت} = omdat." },
+      { "type": "meerkeuze", "tag": "darija-vragen", "vraag": "Waar komt de *-š* in {ar|علاش} vandaan?", "opties": ["van شَيْء (ding)", "van شُكْرًا", "het is een meervoudsuitgang"], "juist": 0, "uitleg": "*om welk ding?*" },
+      { "type": "luisteren", "tag": "darija-vragen", "tekst": "علاش", "vraag": "Wat hoor je?", "opties": ["waarom", "waar", "wanneer"], "juist": 0, "uitleg": "*ʿlāš*" },
+      { "type": "luisteren", "tag": "darija-vragen", "tekst": "واش كتفهم؟", "vraag": "Wat hoor je?", "opties": ["Begrijp je het?", "Waar woon je?", "Wie ben je?"], "juist": 0, "uitleg": "{ar|واش} + werkwoord." },
+      { "type": "invullen", "tag": "darija-vragen", "zin": "___ نتا؟ — أنا من فاس.", "nl": "Waar kom jij vandaan? — Ik kom uit Fez.", "woordbank": ["منين", "فين", "شكون"], "antwoord": ["منين"], "uitleg": "{ar|منين} = waarvandaan." },
+      { "type": "invullen", "tag": "darija-vragen", "zin": "___ كتمشي للخدمة؟ — بالطوبيس.", "nl": "Hoe ga je naar je werk? — Met de bus.", "woordbank": ["كيفاش", "إيمتا", "علاش"], "antwoord": ["كيفاش"], "uitleg": "{ar|كيفاش} = hoe.", "review": { "status": "onzeker", "note": "الطوبيس (bus) bevestigen." } },
+      { "type": "ordenen", "tag": "darija-vragen", "nl": "Begrijp je Darija?", "woorden": ["واش", "كتفهم", "الدارجة؟"], "uitleg": "{ar|واش} vooraan." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-vragen", "bron": "waar? (Darija)", "antwoorden": ["فين", "فين؟"], "uitleg": "{ar|فين}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-vragen", "bron": "omdat (Darija)", "antwoorden": ["حيت"], "uitleg": "{ar|حيت}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-vragen", "bron": "إيمتا غادي تسافر؟", "tr": "īmta ġādi tsāfər?", "antwoorden": ["wanneer ga je op reis", "wanneer ga je reizen", "wanneer vertrek je"], "uitleg": "{ar|إيمتا} = wanneer." }
+    ]
+  }
+}

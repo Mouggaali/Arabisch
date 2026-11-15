@@ -1,0 +1,626 @@
+{
+  "id": "j2-p8-l85",
+  "code": "L85",
+  "type": "les",
+  "titel": "Media en nieuws",
+  "thema": "Kranten, persbureaus en betrouwbare bronnen; iḍāfa-ketens",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "iḍāfa-ketens van drie of meer leden maken en lezen.",
+    "een bijvoeglijk naamwoord correct bij een iḍāfa plaatsen.",
+    "nieuwsberichten en hun bronnen bespreken."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l85-w01",
+      "ar": "وَكالَةُ الأَنْباءِ",
+      "tr": "wakālatu l-anbāʾ",
+      "nl": [
+        "persbureau"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l85-w02",
+      "ar": "نَبَأٌ",
+      "tr": "nabaʾ",
+      "nl": [
+        "bericht, tijding"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَنْباءٌ}."
+    },
+    {
+      "id": "j2-p8-l85-w03",
+      "ar": "مُراسِلٌ صَحَفِيٌّ",
+      "tr": "murāsilun ṣaḥafiyy",
+      "nl": [
+        "persverslaggever"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l85-w04",
+      "ar": "رَئيسُ التَّحْريرِ",
+      "tr": "raʾīsu t-taḥrīr",
+      "nl": [
+        "hoofdredacteur"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l85-w05",
+      "ar": "مُؤْتَمَرٌ صَحَفِيٌّ",
+      "tr": "muʾtamarun ṣaḥafiyy",
+      "nl": [
+        "persconferentie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l85-w06",
+      "ar": "وَسائِلُ الإِعْلامِ",
+      "tr": "wasāʾilu l-iʿlām",
+      "nl": [
+        "de media"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l85-w07",
+      "ar": "بَثٌّ مُباشِرٌ",
+      "tr": "baṯṯun mubāšir",
+      "nl": [
+        "live-uitzending"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l85-w08",
+      "ar": "حُرِّيَّةُ الصَّحافَةِ",
+      "tr": "ḥurriyyatu ṣ-ṣaḥāfa",
+      "nl": [
+        "persvrijheid"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l85-w09",
+      "ar": "مَصْدَرٌ",
+      "tr": "maṣdar",
+      "nl": [
+        "bron"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَصادِرُ}. (Ook: grammaticale term maṣdar.)"
+    },
+    {
+      "id": "j2-p8-l85-w10",
+      "ar": "مَوْثوقٌ",
+      "tr": "mawṯūq",
+      "nl": [
+        "betrouwbaar"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l85-w11",
+      "ar": "شائِعَةٌ",
+      "tr": "šāʾiʿa",
+      "nl": [
+        "gerucht"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|شائِعاتٌ}."
+    },
+    {
+      "id": "j2-p8-l85-w12",
+      "ar": "صَرَّحَ",
+      "tr": "ṣarraḥa",
+      "nl": [
+        "verklaren"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "Maṣdar {ar|تَصْريحٌ} (verklaring)."
+    },
+    {
+      "id": "j2-p8-l85-w13",
+      "ar": "أَكَّدَ",
+      "tr": "akkada",
+      "nl": [
+        "bevestigen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j2-p8-l85-w14",
+      "ar": "نَفى",
+      "tr": "nafā",
+      "nl": [
+        "ontkennen"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|يَنْفي}"
+    },
+    {
+      "id": "j2-p8-l85-w15",
+      "ar": "مُتابِعٌ",
+      "tr": "mutābiʿ",
+      "nl": [
+        "volger, kijker"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l85-w16",
+      "ar": "عَبْرَ",
+      "tr": "ʿabra",
+      "nl": [
+        "via, over (de grens)"
+      ],
+      "soort": "voorzetsel"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Iḍāfa-ketens",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een iḍāfa kan meer dan twee leden hebben. Alleen het **laatste** lid kan ال hebben; alle leden behalve het eerste staan in de **genitief**: {ar|مَكْتَبُ رَئيسِ التَّحْريرِ} (het kantoor van de hoofdredacteur)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Lid 1",
+            "Lid 2",
+            "Lid 3",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "مَكْتَبُ",
+              "رَئيسِ",
+              "التَّحْريرِ",
+              "het kantoor van de hoofdredacteur"
+            ],
+            [
+              "مُديرُ",
+              "وَكالَةِ",
+              "الأَنْباءِ",
+              "de directeur van het persbureau"
+            ],
+            [
+              "بابُ",
+              "بَيْتِ",
+              "جاري",
+              "de deur van het huis van mijn buurman"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom alleen het laatste lid bepaald? Een iḍāfa wordt bepaald door zijn **laatste** lid. Omdat elk lid 'bepaald' wordt door het volgende, is de hele keten bepaald zodra het laatste woord ال of een suffix heeft. Een tussenlid met ال zou de keten breken."
+        }
+      ]
+    },
+    {
+      "titel": "Een bijvoeglijk naamwoord bij een iḍāfa",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een bijvoeglijk naamwoord kan pas **na** de hele iḍāfa komen. Het congrueert met het woord dat het beschrijft, en is altijd **bepaald** als de iḍāfa bepaald is: {ar|مُديرُ الشَّرِكَةِ الجَديدُ} (de nieuwe directeur van het bedrijf) tegenover {ar|مُديرُ الشَّرِكَةِ الجَديدَةِ} (de directeur van het nieuwe bedrijf)."
+        },
+        {
+          "type": "letop",
+          "md": "Kijk naar de **naamval** en het **geslacht** van het bijvoeglijk naamwoord om te zien bij welk woord het hoort: {ar|الجَديدُ} (-u, nominatief) hoort bij {ar|مُديرُ}; {ar|الجَديدَةِ} (-i, vrouwelijk) bij {ar|الشَّرِكَةِ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عَقَدَ رَئيسُ الحُكومَةِ مُؤْتَمَرًا صَحَفِيًّا.",
+              "tr": "ʿaqada raʾīsu l-ḥukūmati muʾtamaran ṣaḥafiyyan.",
+              "nl": "De premier hield een persconferentie."
+            },
+            {
+              "ar": "نَفى المُتَحَدِّثُ بِاسْمِ الوِزارَةِ الشّائِعاتِ.",
+              "tr": "nafa l-mutaḥaddiṯu bi-smi l-wizārati š-šāʾiʿāt.",
+              "nl": "De woordvoerder van het ministerie ontkende de geruchten."
+            },
+            {
+              "ar": "أَكَّدَتْ وَكالَةُ الأَنْباءِ المَغْرِبِيَّةُ الخَبَرَ.",
+              "tr": "akkadat wakālatu l-anbāʾi l-maġribiyyatu l-ḫabar.",
+              "nl": "Het Marokkaanse persbureau bevestigde het nieuws."
+            },
+            {
+              "ar": "حُرِّيَّةُ الصَّحافَةِ مُهِمَّةٌ في كُلِّ مُجْتَمَعٍ.",
+              "tr": "ḥurriyyatu ṣ-ṣaḥāfati muhimmatun fī kulli mujtamaʿ.",
+              "nl": "Persvrijheid is belangrijk in elke samenleving."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "نَبَأٌ",
+              "nl": "bericht",
+              "woord": "j2-p8-l85-w02"
+            },
+            {
+              "ar": "مَصْدَرٌ",
+              "nl": "bron",
+              "woord": "j2-p8-l85-w09"
+            },
+            {
+              "ar": "مَوْثوقٌ",
+              "nl": "betrouwbaar",
+              "woord": "j2-p8-l85-w10"
+            },
+            {
+              "ar": "شائِعَةٌ",
+              "nl": "gerucht",
+              "woord": "j2-p8-l85-w11"
+            },
+            {
+              "ar": "أَكَّدَ",
+              "nl": "bevestigen",
+              "woord": "j2-p8-l85-w13"
+            },
+            {
+              "ar": "نَفى",
+              "nl": "ontkennen",
+              "woord": "j2-p8-l85-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "idafa-keten",
+          "tekst": "مَكْتَبُ رَئيسِ التَّحْريرِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "het kantoor van de hoofdredacteur",
+            "de hoofdredacteur van het kantoor",
+            "de redactie"
+          ],
+          "juist": 0,
+          "uitleg": "Drie leden."
+        }
+      ]
+    },
+    {
+      "titel": "Iḍāfa-ketens",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "idafa-keten",
+          "vraag": "Welk lid van {ar|بابُ بَيْتِ جاري} is bepaald?",
+          "opties": [
+            "het laatste (جاري)",
+            "het eerste (بابُ)",
+            "geen enkel"
+          ],
+          "juist": 0,
+          "uitleg": "Het laatste lid bepaalt de keten."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "idafa-keten",
+          "vraag": "'De nieuwe directeur van het bedrijf' is ...",
+          "opties": [
+            "مُديرُ الشَّرِكَةِ الجَديدُ",
+            "مُديرُ الشَّرِكَةِ الجَديدَةِ",
+            "المُديرُ الجَديدُ الشَّرِكَةِ"
+          ],
+          "juist": 0,
+          "uitleg": "Bijvoeglijk na de iḍāfa, nominatief, mannelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "idafa-keten",
+          "zin": "مُديرُ ___ الأَنْباءِ",
+          "nl": "de directeur van het persbureau",
+          "antwoord": [
+            "وَكالَةِ"
+          ],
+          "uitleg": "Tussenlid: geen ال, genitief.",
+          "woordbank": [
+            "وَكالَةِ",
+            "الوَكالَةِ",
+            "وَكالَةُ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "idafa-keten",
+          "zin": "بَيْتُ عائِلَةِ صَديقي ___.",
+          "nl": "Het huis van de familie van mijn vriend is groot.",
+          "antwoord": [
+            "كَبيرٌ"
+          ],
+          "uitleg": "Gezegde (onbepaald) bij {ar|بَيْتُ}.",
+          "woordbank": [
+            "كَبيرٌ",
+            "الكَبيرُ",
+            "كَبيرَةٌ"
+          ]
+        },
+        {
+          "type": "vervoegen",
+          "tag": "idafa-keten",
+          "instructie": "Maak de keten af (genitief).",
+          "rijen": [
+            {
+              "label": "مَكْتَبُ ___ (رَئيسٌ) التَّحْريرِ",
+              "antwoord": "رَئيسِ",
+              "tr": "raʾīsi",
+              "eind": true
+            },
+            {
+              "label": "سَيّارَةُ ___ (أُسْتاذٌ) أَخي",
+              "antwoord": "أُسْتاذِ",
+              "tr": "ustāḏi",
+              "eind": true
+            }
+          ],
+          "uitleg": "Tussenlid zonder ال, genitief."
+        }
+      ]
+    },
+    {
+      "titel": "Nieuws",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "idafa-keten",
+          "nl": "De premier hield een persconferentie.",
+          "woorden": [
+            "عَقَدَ",
+            "رَئيسُ",
+            "الحُكومَةِ",
+            "مُؤْتَمَرًا",
+            "صَحَفِيًّا."
+          ],
+          "uitleg": "{ar|رَئيسُ الحُكومَةِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de media",
+          "antwoorden": [
+            "وَسائِلُ الإِعْلامِ"
+          ],
+          "uitleg": "{ar|وَسائِلُ الإِعْلامِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "idafa-keten",
+          "bron": "أَكَّدَتْ وَكالَةُ الأَنْباءِ الخَبَرَ.",
+          "antwoorden": [
+            "het persbureau bevestigde het nieuws",
+            "het persbureau heeft het nieuws bevestigd"
+          ],
+          "uitleg": "{ar|أَكَّدَ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "رَئيسُ التَّحْريرِ",
+            "nl": "hoofdredacteur"
+          },
+          {
+            "ar": "مُؤْتَمَرٌ صَحَفِيٌّ",
+            "nl": "persconferentie"
+          },
+          {
+            "ar": "بَثٌّ مُباشِرٌ",
+            "nl": "live-uitzending"
+          },
+          {
+            "ar": "صَرَّحَ",
+            "nl": "verklaren"
+          },
+          {
+            "ar": "مُتابِعٌ",
+            "nl": "volger"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "Waar kan ال staan in een iḍāfa-keten?",
+        "opties": [
+          "alleen op het laatste lid",
+          "op elk lid",
+          "alleen op het eerste lid"
+        ],
+        "juist": 0,
+        "uitleg": "Laatste lid."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "'De directeur van het nieuwe bedrijf' is ...",
+        "opties": [
+          "مُديرُ الشَّرِكَةِ الجَديدَةِ",
+          "مُديرُ الشَّرِكَةِ الجَديدُ",
+          "المُديرُ الشَّرِكَةِ الجَديدَةِ"
+        ],
+        "juist": 0,
+        "uitleg": "Bijvoeglijk vrouwelijk, genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idafa-keten",
+        "vraag": "Wat betekent {ar|حُرِّيَّةُ الصَّحافَةِ}?",
+        "opties": [
+          "persvrijheid",
+          "vrije pers",
+          "persbureau"
+        ],
+        "juist": 0,
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Een betrouwbare bron is ...",
+        "opties": [
+          "مَصْدَرٌ مَوْثوقٌ",
+          "شائِعَةٌ",
+          "نَبَأٌ كاذِبٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَوْثوقٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "نَفى الوَزيرُ الشّائِعاتِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De minister ontkende de geruchten.",
+          "De minister bevestigde het nieuws.",
+          "De minister verspreidde geruchten."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَفى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "idafa-keten",
+        "tekst": "بابُ بَيْتِ جاري مَفْتوحٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De deur van het huis van mijn buurman staat open.",
+          "Mijn buurman doet de deur open.",
+          "Het huis van mijn buurman is open."
+        ],
+        "juist": 0,
+        "uitleg": "Iḍāfa-keten."
+      },
+      {
+        "type": "invullen",
+        "tag": "idafa-keten",
+        "zin": "اِبْنُ ___ عَمّي",
+        "nl": "de zoon van de vriend van mijn oom",
+        "antwoord": [
+          "صَديقِ"
+        ],
+        "uitleg": "Tussenlid.",
+        "woordbank": [
+          "صَديقِ",
+          "الصَّديقِ",
+          "صَديقُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "شاهَدْنا الخِطابَ في ___ مُباشِرٍ.",
+        "nl": "We bekeken de toespraak in een live-uitzending.",
+        "antwoord": [
+          "بَثٍّ"
+        ],
+        "uitleg": "{ar|بَثٌّ مُباشِرٌ}",
+        "woordbank": [
+          "بَثٍّ",
+          "مَصْدَرٍ",
+          "نَبَإٍ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "idafa-keten",
+        "zin": "مُديرُ المَدْرَسَةِ ___ لَطيفٌ.",
+        "nl": "De nieuwe directeur van de school is aardig.",
+        "antwoord": [
+          "الجَديدُ"
+        ],
+        "uitleg": "Bij {ar|مُديرُ}: nominatief, bepaald.",
+        "woordbank": [
+          "الجَديدُ",
+          "الجَديدَةِ",
+          "جَديدٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "idafa-keten",
+        "instructie": "Genitief tussenlid.",
+        "rijen": [
+          {
+            "label": "مُديرُ ___ (مَكْتَبٌ) البَريدِ",
+            "antwoord": "مَكْتَبِ",
+            "tr": "maktabi",
+            "eind": true
+          }
+        ],
+        "uitleg": "Geen ال, genitief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "idafa-keten",
+        "nl": "Persvrijheid is belangrijk.",
+        "woorden": [
+          "حُرِّيَّةُ",
+          "الصَّحافَةِ",
+          "مُهِمَّةٌ."
+        ],
+        "uitleg": "iḍāfa + gezegde."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de bron",
+        "antwoorden": [
+          "المَصْدَرُ"
+        ],
+        "uitleg": "{ar|المَصْدَرُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "idafa-keten",
+        "bron": "صَرَّحَ مُديرُ وَكالَةِ الأَنْباءِ.",
+        "antwoorden": [
+          "de directeur van het persbureau verklaarde",
+          "de directeur van het persbureau deed een verklaring"
+        ],
+        "uitleg": "Iḍāfa-keten."
+      }
+    ]
+  }
+}

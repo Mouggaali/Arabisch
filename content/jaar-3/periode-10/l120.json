@@ -1,0 +1,663 @@
+{
+  "id": "j3-p10-l120",
+  "code": "L120",
+  "type": "les",
+  "titel": "Voor en tegen",
+  "thema": "Mobiele telefoons op school: een betoog",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een betoog opbouwen met standpunt, argumenten, tegenargumenten en conclusie.",
+    "toegeven en weerleggen met صَحيحٌ أَنَّ … إِلّا أَنَّ.",
+    "argumenten toevoegen en afwegen (عَلاوَةً عَلى ذٰلِكَ، في المُقابِلِ)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l120-w01",
+      "ar": "إيجابِيٌّ",
+      "tr": "ījābiyy",
+      "nl": [
+        "positief"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l120-w02",
+      "ar": "سَلْبِيٌّ",
+      "tr": "salbiyy",
+      "nl": [
+        "negatief"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l120-w03",
+      "ar": "ضَرَرٌ",
+      "tr": "ḍarar",
+      "nl": [
+        "schade"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَضْرارٌ}."
+    },
+    {
+      "id": "j3-p10-l120-w04",
+      "ar": "مَنْعٌ",
+      "tr": "manʿ",
+      "nl": [
+        "verbod"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p10-l120-w05",
+      "ar": "هاتِفٌ مَحْمولٌ",
+      "tr": "hātifun maḥmūl",
+      "nl": [
+        "mobiele telefoon"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w06",
+      "ar": "تَرْكيزٌ",
+      "tr": "tarkīz",
+      "nl": [
+        "concentratie"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p10-l120-w07",
+      "ar": "إِدْمانٌ",
+      "tr": "idmān",
+      "nl": [
+        "verslaving"
+      ],
+      "soort": "maṣdar (IV)"
+    },
+    {
+      "id": "j3-p10-l120-w08",
+      "ar": "حَلٌّ وَسَطٌ",
+      "tr": "ḥallun wasaṭ",
+      "nl": [
+        "compromis"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w09",
+      "ar": "لا شَكَّ أَنَّ",
+      "tr": "lā šakka anna",
+      "nl": [
+        "het lijdt geen twijfel dat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w10",
+      "ar": "صَحيحٌ أَنَّ … إِلّا أَنَّ",
+      "tr": "ṣaḥīḥun anna … illā anna",
+      "nl": [
+        "het klopt dat … maar toch"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l120-w11",
+      "ar": "عَلاوَةً عَلى ذٰلِكَ",
+      "tr": "ʿalāwatan ʿalā ḏālik",
+      "nl": [
+        "bovendien"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w12",
+      "ar": "فَضْلًا عَنْ",
+      "tr": "faḍlan ʿan",
+      "nl": [
+        "afgezien van, naast"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w13",
+      "ar": "في المُقابِلِ",
+      "tr": "fi l-muqābil",
+      "nl": [
+        "daartegenover"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w14",
+      "ar": "مِنْ جِهَةٍ … وَمِنْ جِهَةٍ أُخْرى",
+      "tr": "min jihatin … wa-min jihatin uḫrā",
+      "nl": [
+        "enerzijds … anderzijds"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l120-w15",
+      "ar": "خُلاصَةُ القَوْلِ",
+      "tr": "ḫulāṣatu l-qawl",
+      "nl": [
+        "kortom, samengevat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l120-w16",
+      "ar": "المَدْرَسَةُ الاِبْتِدائِيَّةُ",
+      "tr": "al-madrasatu l-ibtidāʾiyya",
+      "nl": [
+        "de basisschool"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een betoog opbouwen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Stap",
+            "Formules"
+          ],
+          "rijen": [
+            [
+              "standpunt",
+              "لا شَكَّ أَنَّ … · في رَأْيي …"
+            ],
+            [
+              "argument voor",
+              "أَوَّلًا … · عَلاوَةً عَلى ذٰلِكَ … · فَضْلًا عَنْ …"
+            ],
+            [
+              "tegenargument",
+              "في المُقابِلِ … · مِنْ جِهَةٍ أُخْرى …"
+            ],
+            [
+              "toegeven en weerleggen",
+              "صَحيحٌ أَنَّ …، إِلّا أَنَّ …"
+            ],
+            [
+              "conclusie",
+              "خُلاصَةُ القَوْلِ … · لِذٰلِكَ أَرى أَنَّ …"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|صَحيحٌ أَنَّ …، إِلّا أَنَّ …} is de sterkste zet in een betoog: je **erkent** het argument van de ander en **weerlegt** het meteen. {ar|إِلّا أَنَّ} betekent hier *maar toch*; net als na {ar|أَنَّ} staat het onderwerp erna in de **accusatief**: {ar|إِلّا أَنَّ الهاتِفَ …}."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|فَضْلًا عَنْ} + genitief = *naast, nog afgezien van*: {ar|فَضْلًا عَنِ الإِدْمانِ} = nog afgezien van verslaving."
+        }
+      ]
+    },
+    {
+      "titel": "Mobiele telefoons op school: voor en tegen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لا شَكَّ أَنَّ الهاتِفَ المَحْمولَ أَصْبَحَ جُزْءًا مِنْ حَياةِ الأَطْفالِ.",
+              "tr": "lā šakka anna l-hātifa l-maḥmūla aṣbaḥa juzʾan min ḥayāti l-aṭfāl.",
+              "nl": "Het lijdt geen twijfel dat de mobiele telefoon deel is gaan uitmaken van het leven van kinderen."
+            },
+            {
+              "ar": "مِنْ جِهَةٍ، يُمْكِنُ اسْتِخْدامُهُ لِلْبَحْثِ عَنِ المَعْلوماتِ.",
+              "tr": "min jihatin, yumkinu stiḫdāmuhu li-l-baḥṯi ʿani l-maʿlūmāt.",
+              "nl": "Enerzijds kun je hem gebruiken om informatie op te zoeken."
+            },
+            {
+              "ar": "وَمِنْ جِهَةٍ أُخْرى، يُضْعِفُ التَّرْكيزَ في القِسْمِ.",
+              "tr": "wa-min jihatin uḫrā, yuḍʿifu t-tarkīza fi l-qism.",
+              "nl": "Anderzijds verzwakt hij de concentratie in de klas."
+            },
+            {
+              "ar": "صَحيحٌ أَنَّ الهاتِفَ مُفيدٌ، إِلّا أَنَّ أَضْرارَهُ أَكْثَرُ مِنْ فَوائِدِهِ.",
+              "tr": "ṣaḥīḥun anna l-hātifa mufīdun, illā anna aḍrārahu akṯaru min fawāʾidih.",
+              "nl": "Het klopt dat de telefoon nuttig is, maar de nadelen zijn groter dan de voordelen."
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، أَرى أَنَّ الحَلَّ الوَسَطَ هُوَ مَنْعُهُ في المَدْرَسَةِ الاِبْتِدائِيَّةِ فَقَطْ.",
+              "tr": "ḫulāṣatu l-qawli, arā anna l-ḥalla l-wasaṭa huwa manʿuhu fi l-madrasati l-ibtidāʾiyyati faqaṭ.",
+              "nl": "Kortom: ik vind dat het compromis is om hem alleen op de basisschool te verbieden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "argumenteren",
+          "paren": [
+            {
+              "ar": "عَلاوَةً عَلى ذٰلِكَ",
+              "nl": "bovendien",
+              "woord": "j3-p10-l120-w11"
+            },
+            {
+              "ar": "في المُقابِلِ",
+              "nl": "daartegenover",
+              "woord": "j3-p10-l120-w13"
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ",
+              "nl": "kortom",
+              "woord": "j3-p10-l120-w15"
+            },
+            {
+              "ar": "حَلٌّ وَسَطٌ",
+              "nl": "compromis",
+              "woord": "j3-p10-l120-w08"
+            },
+            {
+              "ar": "ضَرَرٌ",
+              "nl": "schade",
+              "woord": "j3-p10-l120-w03"
+            },
+            {
+              "ar": "تَرْكيزٌ",
+              "nl": "concentratie",
+              "woord": "j3-p10-l120-w06"
+            }
+          ],
+          "uitleg": "Betoogwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "argumenteren",
+          "tekst": "صَحيحٌ أَنَّ الهاتِفَ مُفيدٌ، إِلّا أَنَّهُ يُضْعِفُ التَّرْكيزَ",
+          "vraag": "Wat is het standpunt van de spreker?",
+          "opties": [
+            "De telefoon is nuttig, maar schadelijk voor de concentratie.",
+            "De telefoon is alleen maar nuttig.",
+            "De telefoon is niet nuttig."
+          ],
+          "juist": 0,
+          "uitleg": "Toegeven en weerleggen."
+        }
+      ]
+    },
+    {
+      "titel": "Argumenteren",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Welke formule gebruik je om een **conclusie** in te leiden?",
+          "opties": [
+            "خُلاصَةُ القَوْلِ",
+            "عَلاوَةً عَلى ذٰلِكَ",
+            "مِنْ جِهَةٍ"
+          ],
+          "juist": 0,
+          "uitleg": "Kortom."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "argumenteren",
+          "vraag": "Welke naamval volgt na {ar|إِلّا أَنَّ}?",
+          "opties": [
+            "accusatief (zoals na أَنَّ)",
+            "nominatief",
+            "genitief"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِلّا أَنَّ الهاتِفَ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "مِنْ جِهَةٍ هُوَ مُفيدٌ، وَمِنْ ___ أُخْرى هُوَ خَطيرٌ.",
+          "nl": "Enerzijds is het nuttig, anderzijds gevaarlijk.",
+          "antwoord": [
+            "جِهَةٍ"
+          ],
+          "uitleg": "Na {ar|مِنْ}: genitief.",
+          "woordbank": [
+            "جِهَةٍ",
+            "جِهَةُ",
+            "جِهَةً"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "argumenteren",
+          "zin": "صَحيحٌ أَنَّ السَّفَرَ غالٍ، ___ أَنَّهُ مُفيدٌ.",
+          "nl": "Het klopt dat reizen duur is, maar toch is het nuttig.",
+          "antwoord": [
+            "إِلّا"
+          ],
+          "uitleg": "{ar|إِلّا أَنَّ}",
+          "woordbank": [
+            "إِلّا",
+            "لِأَنَّ",
+            "بَلْ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "argumenteren",
+          "nl": "Het lijdt geen twijfel dat de telefoon nuttig is.",
+          "woorden": [
+            "لا",
+            "شَكَّ",
+            "أَنَّ",
+            "الهاتِفَ",
+            "مُفيدٌ."
+          ],
+          "uitleg": "{ar|لا شَكَّ أَنَّ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "argumenteren",
+          "bron": "bovendien",
+          "antwoorden": [
+            "عَلاوَةً عَلى ذٰلِكَ",
+            "علاوة على ذلك",
+            "فَضْلًا عَنْ ذٰلِكَ"
+          ],
+          "uitleg": "{ar|عَلاوَةً عَلى ذٰلِكَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "argumenteren",
+          "bron": "أَضْرارُهُ أَكْثَرُ مِنْ فَوائِدِهِ.",
+          "antwoorden": [
+            "de nadelen zijn groter dan de voordelen",
+            "het heeft meer nadelen dan voordelen"
+          ],
+          "uitleg": "Vergelijking."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "argumenteren",
+          "opdracht": "Schrijf een tekst voor en tegen (ongeveer 100 woorden): moeten winkels op zondag open zijn?",
+          "model": [
+            {
+              "ar": "لا شَكَّ أَنَّ الهاتِفَ المَحْمولَ أَصْبَحَ جُزْءًا مِنْ حَياةِ الأَطْفالِ.",
+              "tr": "lā šakka anna l-hātifa l-maḥmūla aṣbaḥa juzʾan min ḥayāti l-aṭfāl.",
+              "nl": "Het lijdt geen twijfel dat de mobiele telefoon deel is gaan uitmaken van het leven van kinderen."
+            },
+            {
+              "ar": "مِنْ جِهَةٍ، يُمْكِنُ اسْتِخْدامُهُ لِلْبَحْثِ عَنِ المَعْلوماتِ.",
+              "tr": "min jihatin, yumkinu stiḫdāmuhu li-l-baḥṯi ʿani l-maʿlūmāt.",
+              "nl": "Enerzijds kun je hem gebruiken om informatie op te zoeken."
+            },
+            {
+              "ar": "وَمِنْ جِهَةٍ أُخْرى، يُضْعِفُ التَّرْكيزَ في القِسْمِ.",
+              "tr": "wa-min jihatin uḫrā, yuḍʿifu t-tarkīza fi l-qism.",
+              "nl": "Anderzijds verzwakt hij de concentratie in de klas."
+            },
+            {
+              "ar": "صَحيحٌ أَنَّ الهاتِفَ مُفيدٌ، إِلّا أَنَّ أَضْرارَهُ أَكْثَرُ مِنْ فَوائِدِهِ.",
+              "tr": "ṣaḥīḥun anna l-hātifa mufīdun, illā anna aḍrārahu akṯaru min fawāʾidih.",
+              "nl": "Het klopt dat de telefoon nuttig is, maar de nadelen zijn groter dan de voordelen."
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، أَرى أَنَّ الحَلَّ الوَسَطَ هُوَ مَنْعُهُ في المَدْرَسَةِ الاِبْتِدائِيَّةِ فَقَطْ.",
+              "tr": "ḫulāṣatu l-qawli, arā anna l-ḥalla l-wasaṭa huwa manʿuhu fi l-madrasati l-ibtidāʾiyyati faqaṭ.",
+              "nl": "Kortom: ik vind dat het compromis is om hem alleen op de basisschool te verbieden."
+            }
+          ],
+          "checklist": [
+            "Een duidelijk standpunt.",
+            "Minstens één argument voor en één argument tegen.",
+            "Afwegen met {ar|مِنْ جِهَةٍ … وَمِنْ جِهَةٍ أُخْرى} of {ar|في المُقابِلِ}.",
+            "Toegeven en weerleggen met {ar|صَحيحٌ أَنَّ … إِلّا أَنَّ}.",
+            "Accusatief na {ar|أَنَّ} en {ar|إِلّا أَنَّ}.",
+            "Een conclusie met {ar|خُلاصَةُ القَوْلِ}."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "لا شَكَّ أَنَّ",
+            "مِنْ جِهَةٍ",
+            "في المُقابِلِ",
+            "صَحيحٌ أَنَّ … إِلّا أَنَّ",
+            "خُلاصَةُ القَوْلِ"
+          ],
+          "minimum": 80
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "argumenteren",
+        "paren": [
+          {
+            "ar": "إيجابِيٌّ",
+            "nl": "positief"
+          },
+          {
+            "ar": "سَلْبِيٌّ",
+            "nl": "negatief"
+          },
+          {
+            "ar": "مَنْعٌ",
+            "nl": "verbod"
+          },
+          {
+            "ar": "إِدْمانٌ",
+            "nl": "verslaving"
+          },
+          {
+            "ar": "فَضْلًا عَنْ",
+            "nl": "naast, afgezien van"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "{ar|في المُقابِلِ} betekent ...",
+        "opties": [
+          "daartegenover",
+          "bovendien",
+          "kortom"
+        ],
+        "juist": 0,
+        "uitleg": "Tegenargument."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Wat doe je met {ar|صَحيحٌ أَنَّ … إِلّا أَنَّ …}?",
+        "opties": [
+          "een argument erkennen en weerleggen",
+          "een conclusie trekken",
+          "een voorbeeld geven"
+        ],
+        "juist": 0,
+        "uitleg": "Sterke zet."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "'Enerzijds … anderzijds' is ...",
+        "opties": [
+          "مِنْ جِهَةٍ … وَمِنْ جِهَةٍ أُخْرى",
+          "أَوَّلًا … ثانِيًا",
+          "إِمّا … أَوْ"
+        ],
+        "juist": 0,
+        "uitleg": "Afwegen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "argumenteren",
+        "vraag": "Welke formule voegt een argument **toe**?",
+        "opties": [
+          "عَلاوَةً عَلى ذٰلِكَ",
+          "في المُقابِلِ",
+          "صَحيحٌ أَنَّ"
+        ],
+        "juist": 0,
+        "uitleg": "Bovendien."
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "خُلاصَةُ القَوْلِ، يَجِبُ أَنْ نَجِدَ حَلًّا وَسَطًا",
+        "vraag": "Wat is de conclusie?",
+        "opties": [
+          "We moeten een compromis vinden.",
+          "Een verbod is de enige oplossing.",
+          "Er is geen probleem."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|حَلٌّ وَسَطٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "argumenteren",
+        "tekst": "لا شَكَّ أَنَّ الإِدْمانَ مُشْكِلَةٌ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Verslaving is zonder twijfel een probleem.",
+          "Verslaving is geen probleem.",
+          "Hij twijfelt of verslaving een probleem is."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا شَكَّ أَنَّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "صَحيحٌ أَنَّهُ غالٍ، إِلّا أَنَّ ___ جَيِّدَةٌ.",
+        "nl": "Het klopt dat het duur is, maar de kwaliteit is goed.",
+        "antwoord": [
+          "جَوْدَتَهُ"
+        ],
+        "uitleg": "Accusatief na {ar|إِلّا أَنَّ}.",
+        "woordbank": [
+          "جَوْدَتَهُ",
+          "جَوْدَتُهُ",
+          "جَوْدَتِهِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "argumenteren",
+        "zin": "___ القَوْلِ، أَنا ضِدَّ المَنْعِ.",
+        "nl": "Kortom, ik ben tegen het verbod.",
+        "antwoord": [
+          "خُلاصَةُ"
+        ],
+        "uitleg": "Conclusie.",
+        "woordbank": [
+          "خُلاصَةُ",
+          "عَلاوَةً",
+          "فَضْلًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يُضْعِفُ الهاتِفُ ___ في القِسْمِ.",
+        "nl": "De telefoon verzwakt de concentratie in de klas.",
+        "antwoord": [
+          "التَّرْكيزَ"
+        ],
+        "uitleg": "{ar|تَرْكيزٌ}",
+        "woordbank": [
+          "التَّرْكيزَ",
+          "الإِدْمانَ",
+          "المَنْعَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "argumenteren",
+        "instructie": "Geef het tegenovergestelde.",
+        "rijen": [
+          {
+            "label": "إيجابِيٌّ",
+            "antwoord": "سَلْبِيّ",
+            "tr": "salbiyy"
+          },
+          {
+            "label": "فائِدَةٌ (voordeel)",
+            "antwoord": "ضَرَر",
+            "tr": "ḍarar"
+          }
+        ],
+        "uitleg": "Voor en tegen."
+      },
+      {
+        "type": "ordenen",
+        "tag": "argumenteren",
+        "nl": "Het klopt dat de telefoon nuttig is, maar de nadelen zijn groter.",
+        "woorden": [
+          "صَحيحٌ",
+          "أَنَّ",
+          "الهاتِفَ",
+          "مُفيدٌ،",
+          "إِلّا",
+          "أَنَّ",
+          "أَضْرارَهُ",
+          "أَكْبَرُ."
+        ],
+        "uitleg": "Toegeven en weerleggen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de mobiele telefoon",
+        "antwoorden": [
+          "الهاتِفُ المَحْمولُ",
+          "الهاتف المحمول"
+        ],
+        "uitleg": "{ar|الهاتِفُ المَحْمولُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "argumenteren",
+        "bron": "في المُقابِلِ، يُمْكِنُ اسْتِخْدامُهُ لِلدِّراسَةِ.",
+        "antwoorden": [
+          "daartegenover kan hij gebruikt worden om te studeren",
+          "aan de andere kant kun je hem gebruiken om te leren"
+        ],
+        "uitleg": "Tegenargument."
+      }
+    ]
+  }
+}

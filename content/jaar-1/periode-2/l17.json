@@ -1,0 +1,157 @@
+{
+  "id": "j1-p2-l17",
+  "code": "L17",
+  "type": "les",
+  "titel": "Getallen 20–100",
+  "thema": "Prijzen en leeftijden",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de tientallen 20 tot en met 100 noemen.",
+    "samengestelde getallen maken: eenheid + وَ + tiental.",
+    "vragen wat iets kost en een prijs noemen.",
+    "na 21–99 het getelde woord in het enkelvoud, accusatief zetten."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l17-w01", "ar": "ثَلاثونَ", "tr": "ṯalāṯūn", "nl": ["dertig", "30"], "soort": "telwoord", "notitie": "٣٠" },
+    { "id": "j1-p2-l17-w02", "ar": "أَرْبَعونَ", "tr": "arbaʿūn", "nl": ["veertig", "40"], "soort": "telwoord", "notitie": "٤٠" },
+    { "id": "j1-p2-l17-w03", "ar": "خَمْسونَ", "tr": "ḫamsūn", "nl": ["vijftig", "50"], "soort": "telwoord", "notitie": "٥٠" },
+    { "id": "j1-p2-l17-w04", "ar": "سِتّونَ", "tr": "sittūn", "nl": ["zestig", "60"], "soort": "telwoord", "notitie": "٦٠" },
+    { "id": "j1-p2-l17-w05", "ar": "سَبْعونَ", "tr": "sabʿūn", "nl": ["zeventig", "70"], "soort": "telwoord", "notitie": "٧٠" },
+    { "id": "j1-p2-l17-w06", "ar": "ثَمانونَ", "tr": "ṯamānūn", "nl": ["tachtig", "80"], "soort": "telwoord", "notitie": "٨٠" },
+    { "id": "j1-p2-l17-w07", "ar": "تِسْعونَ", "tr": "tisʿūn", "nl": ["negentig", "90"], "soort": "telwoord", "notitie": "٩٠" },
+    { "id": "j1-p2-l17-w08", "ar": "مِئَةٌ", "tr": "miʾa", "nl": ["honderd", "100"], "soort": "telwoord", "notitie": "١٠٠. Ook geschreven als {ar|مائَةٌ} (de alif spreek je niet uit)." },
+    { "id": "j1-p2-l17-w09", "ar": "دِرْهَمٌ", "tr": "dirham", "nl": ["dirham"], "soort": "zelfstandig naamwoord", "notitie": "Munteenheid van onder meer Marokko en de Emiraten." },
+    { "id": "j1-p2-l17-w10", "ar": "دينارٌ", "tr": "dīnār", "nl": ["dinar"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l17-w11", "ar": "رِيالٌ", "tr": "riyāl", "nl": ["rial"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l17-w12", "ar": "سِعْرٌ", "tr": "siʿr", "nl": ["prijs"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l17-w13", "ar": "بِكَمْ؟", "tr": "bi-kam?", "nl": ["hoeveel kost ...?", "voor hoeveel?"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l17-w14", "ar": "رَخيصٌ", "tr": "raḫīṣ", "nl": ["goedkoop"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p2-l17-w15", "ar": "غالٍ", "tr": "ġālin", "nl": ["duur"], "soort": "bijvoeglijk naamwoord",
+      "notitie": "Bijzondere vorm: met ال wordt het {ar|الغالي}, vrouwelijk {ar|غالِيَةٌ}." },
+    { "id": "j1-p2-l17-w16", "ar": "فَقَطْ", "tr": "faqaṭ", "nl": ["slechts", "alleen maar"], "soort": "bijwoord" },
+    { "id": "j1-p2-l17-w17", "ar": "المَجْموعُ", "tr": "al-majmūʿ", "nl": ["het totaal"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l17-w18", "ar": "يورو", "tr": "yūrū", "nl": ["euro"], "soort": "zelfstandig naamwoord", "notitie": "Verandert niet: {ar|عِشْرونَ يورو}." }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Tientallen en samengestelde getallen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De tientallen 30 tot en met 90 maak je van de eenheden met de uitgang **ـونَ**: {ar|ثَلاث} → {ar|ثَلاثونَ}, {ar|خَمْس} → {ar|خَمْسونَ}. Twintig is {ar|عِشْرونَ}.",
+          "Samengestelde getallen bouw je zoals in het Nederlands: **eenheid + en + tiental**. 25 = {ar|خَمْسَةٌ وَعِشْرونَ} (*vijf-en-twintig*); 47 = {ar|سَبْعَةٌ وَأَرْبَعونَ}."
+        ] },
+        { "type": "tabel", "kop": ["Getal", "Arabisch", "Opbouw"], "arKolommen": [0, 1], "rijen": [
+          ["٢١", "واحِدٌ وَعِشْرونَ|wāḥidun wa-ʿišrūn", "een en twintig"],
+          ["٢٢", "اِثْنانِ وَعِشْرونَ|iṯnāni wa-ʿišrūn", "twee en twintig"],
+          ["٣٥", "خَمْسَةٌ وَثَلاثونَ|ḫamsatun wa-ṯalāṯūn", "vijf en dertig"],
+          ["٥٨", "ثَمانِيَةٌ وَخَمْسونَ|ṯamāniyatun wa-ḫamsūn", "acht en vijftig"],
+          ["٩٩", "تِسْعَةٌ وَتِسْعونَ|tisʿatun wa-tisʿūn", "negen en negentig"],
+          ["١٠٠", "مِئَةٌ|miʾa", "honderd"]
+        ] },
+        { "type": "letop", "md": "Na een voorzetsel (en in de accusatief) wordt ـونَ → **ـينَ**: {ar|بِعِشْرينَ} (*voor twintig*). Dezelfde wisseling zag je bij {ar|مُعَلِّمونَ} → {ar|مُعَلِّمينَ}." }
+      ]
+    },
+    {
+      "titel": "Prijzen: بِكَمْ؟",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Naar de prijs vraag je met {ar|بِكَمْ هٰذا؟} (*voor hoeveel is dit?*) of {ar|كَمْ سِعْرُ ...؟} (*hoeveel is de prijs van ...?*).",
+          "Net als bij 11–19 staat het getelde woord na 21–99 in het **enkelvoud, accusatief**: {ar|خَمْسونَ دِرْهَمًا}. Na 100 staat het in het **enkelvoud, genitief**: {ar|مِئَةُ دِرْهَمٍ}. Dat leer je in les 41–42 uitgebreid."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "بِكَمْ هٰذا القَميصُ؟ — بِثَلاثينَ دِرْهَمًا.", "tr": "bi-kam hāḏa l-qamīṣ? — bi-ṯalāṯīna dirhaman.", "nl": "Hoeveel kost dit overhemd? — Dertig dirham." },
+          { "ar": "كَمْ سِعْرُ الكِتابِ؟ — خَمْسَةٌ وَعِشْرونَ يورو.", "tr": "kam siʿru l-kitāb? — ḫamsatun wa-ʿišrūna yūrū.", "nl": "Wat is de prijs van het boek? — Vijfentwintig euro." },
+          { "ar": "هٰذا غالٍ! — لا، هٰذا رَخيصٌ، عَشَرَةُ دَراهِمَ فَقَطْ.", "tr": "hāḏā ġālin! — lā, hāḏā raḫīṣ, ʿašaratu darāhima faqaṭ.", "nl": "Dat is duur! — Nee, dat is goedkoop, maar tien dirham.",
+            "review": { "status": "onzeker", "note": "عَشَرَةُ دَراهِمَ: 3–10 + genitief meervoud (diptoot دَراهِمُ). Controleren; de regel komt in les 42." } },
+          { "ar": "عُمْرُ جَدّي ثَمانِيَةٌ وَسَبْعونَ عامًا.", "tr": "ʿumru jaddī ṯamāniyatun wa-sabʿūna ʿāman.", "nl": "Mijn opa is achtenzeventig." }
+        ] },
+        { "type": "waarom", "md": "{ar|بِكَمْ} is {ar|بِـ} (*voor, met*) + {ar|كَمْ}: *voor hoeveel?* Het antwoord herhaalt dat {ar|بِـ}: {ar|بِثَلاثينَ}. Omdat {ar|بِـ} een voorzetsel is, staat het getal in de genitief: ـينَ in plaats van ـونَ." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Tientallen",
+      "items": [
+        { "type": "koppelen", "tag": "getallen-tot-100", "paren": [
+          { "ar": "ثَلاثونَ", "nl": "30", "woord": "j1-p2-l17-w01" },
+          { "ar": "خَمْسونَ", "nl": "50", "woord": "j1-p2-l17-w03" },
+          { "ar": "سِتّونَ", "nl": "60", "woord": "j1-p2-l17-w04" },
+          { "ar": "ثَمانونَ", "nl": "80", "woord": "j1-p2-l17-w06" },
+          { "ar": "تِسْعونَ", "nl": "90", "woord": "j1-p2-l17-w07" },
+          { "ar": "مِئَةٌ", "nl": "100", "woord": "j1-p2-l17-w08" }
+        ], "uitleg": "Eenheid + ـونَ." },
+        { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "أَرْبَعونَ", "vraag": "Welk getal hoor je?", "opties": ["40", "14", "4", "400"], "juist": 0, "uitleg": "{ar|أَرْبَعونَ} = 40." },
+        { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "سَبْعَةٌ وَثَلاثونَ", "vraag": "Welk getal hoor je?", "opties": ["37", "73", "17", "33"], "juist": 0, "uitleg": "Eenheid eerst: 7 + 30." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ٦٤?", "opties": ["64", "46", "74", "54"], "juist": 0, "uitleg": "٦ = 6, ٤ = 4." },
+        { "type": "vervoegen", "tag": "getallen-tot-100", "instructie": "Schrijf het getal in het Arabisch.",
+          "rijen": [
+            { "label": "30", "antwoord": "ثَلاثونَ", "tr": "ṯalāṯūn" },
+            { "label": "70", "antwoord": "سَبْعونَ", "tr": "sabʿūn" },
+            { "label": "21", "antwoord": "واحِدٌ وَعِشْرونَ", "tr": "wāḥidun wa-ʿišrūn" },
+            { "label": "45", "antwoord": "خَمْسَةٌ وَأَرْبَعونَ", "tr": "ḫamsatun wa-arbaʿūn" }
+          ], "uitleg": "Samengesteld: eenheid + وَ + tiental." }
+      ]
+    },
+    {
+      "titel": "Prijzen",
+      "items": [
+        { "type": "invullen", "tag": "prijzen", "zin": "___ هٰذا الكِتابُ؟", "nl": "Hoeveel kost dit boek?", "woordbank": ["بِكَمْ", "كَمْ", "ما"], "antwoord": ["بِكَمْ"], "uitleg": "{ar|بِكَمْ} = voor hoeveel." },
+        { "type": "invullen", "tag": "prijzen", "zin": "السِّعْرُ خَمْسونَ ___.", "nl": "De prijs is vijftig dirham.", "woordbank": ["دِرْهَمًا", "دِرْهَمٌ", "دَراهِمُ"], "antwoord": ["دِرْهَمًا"], "uitleg": "Na 21–99: enkelvoud accusatief." },
+        { "type": "invullen", "tag": "prijzen", "zin": "بِكَمْ هٰذا؟ — ___ دِرْهَمًا.", "nl": "Hoeveel kost dit? — Twintig dirham.", "woordbank": ["بِعِشْرينَ", "بِعِشْرونَ", "عِشْرينَ"], "antwoord": ["بِعِشْرينَ"], "uitleg": "Na {ar|بِـ}: genitief ـينَ." },
+        { "type": "meerkeuze", "tag": "prijzen", "vraag": "Je vindt iets te duur. Wat zeg je?", "opties": ["هٰذا غالٍ!", "هٰذا رَخيصٌ!", "هٰذا فَقَطْ!"], "juist": 0, "uitleg": "{ar|غالٍ} = duur." },
+        { "type": "ordenen", "tag": "prijzen", "nl": "Wat is de prijs van het boek?", "woorden": ["كَمْ", "سِعْرُ", "الكِتابِ؟"], "uitleg": "{ar|كَمْ} + iḍāfa." }
+      ]
+    },
+    {
+      "titel": "Leeftijden en luisteren",
+      "items": [
+        { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "عُمْرُ أَبي اِثْنانِ وَخَمْسونَ عامًا", "vraag": "Hoe oud is de vader?", "opties": ["52", "25", "50", "62"], "juist": 0, "uitleg": "2 + 50 = 52." },
+        { "type": "ordenen", "tag": "leeftijd", "nl": "Mijn opa is achtenzeventig.", "woorden": ["عُمْرُ", "جَدّي", "ثَمانِيَةٌ", "وَسَبْعونَ", "عامًا."], "uitleg": "Iḍāfa {ar|عُمْرُ جَدّي} + getal + {ar|عامًا}." },
+        { "type": "meerkeuze", "tag": "getallen-tot-100", "vraag": "Hoe zeg je 99?", "opties": ["تِسْعَةٌ وَتِسْعونَ", "تِسْعونَ وَتِسْعَةٌ", "تِسْعَةَ عَشَرَ"], "juist": 0, "uitleg": "Eenheid eerst." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "getallen-tot-100", "bron": "vijftig", "antwoorden": ["خَمْسونَ"], "uitleg": "{ar|خَمْسونَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "getallen-tot-100", "bron": "honderd", "antwoorden": ["مِئَةٌ", "مائَةٌ"], "uitleg": "{ar|مِئَةٌ} (ook {ar|مائَةٌ})." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "prijzen", "bron": "Dit is goedkoop.", "antwoorden": ["هٰذا رَخيصٌ"], "uitleg": "{ar|هٰذا رَخيصٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "prijzen", "bron": "بِكَمْ هٰذِهِ الحَقيبَةُ؟", "tr": "bi-kam hāḏihi l-ḥaqība?", "antwoorden": ["hoeveel kost deze tas", "voor hoeveel is deze tas", "wat kost deze tas"], "uitleg": "{ar|بِكَمْ} = hoeveel kost." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "getallen-tot-100", "bron": "سِتّونَ دَقيقَةً", "tr": "sittūna daqīqa", "antwoorden": ["zestig minuten", "60 minuten"], "uitleg": "60 + enkelvoud accusatief." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "getallen-tot-100", "paren": [
+        { "ar": "أَرْبَعونَ", "nl": "40" },
+        { "ar": "سَبْعونَ", "nl": "70" },
+        { "ar": "ثَلاثونَ", "nl": "30" },
+        { "ar": "مِئَةٌ", "nl": "100" }
+      ], "uitleg": "Herhaal de tientallen." },
+      { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "ثَمانونَ", "vraag": "Welk getal hoor je?", "opties": ["80", "18", "8"], "juist": 0, "uitleg": "80" },
+      { "type": "luisteren", "tag": "getallen-tot-100", "tekst": "ثَلاثَةٌ وَسِتّونَ", "vraag": "Welk getal hoor je?", "opties": ["63", "36", "13"], "juist": 0, "uitleg": "3 + 60." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ٩١?", "opties": ["91", "19", "61"], "juist": 0, "uitleg": "٩ = 9, ١ = 1." },
+      { "type": "meerkeuze", "tag": "getallen-tot-100", "vraag": "Hoe zeg je 24?", "opties": ["أَرْبَعَةٌ وَعِشْرونَ", "عِشْرونَ وَأَرْبَعَةٌ", "أَرْبَعَةَ عَشَرَ"], "juist": 0, "uitleg": "Eenheid + وَ + tiental." },
+      { "type": "meerkeuze", "tag": "prijzen", "vraag": "Wat betekent {ar|رَخيصٌ}?", "opties": ["goedkoop", "duur", "prijs"], "juist": 0, "uitleg": "{ar|رَخيصٌ} = goedkoop." },
+      { "type": "invullen", "tag": "prijzen", "zin": "الحَقيبَةُ بِأَرْبَعينَ ___.", "nl": "De tas kost veertig euro.", "woordbank": ["يورو", "يوروًا", "اليورو"], "antwoord": ["يورو"], "uitleg": "{ar|يورو} verandert niet." },
+      { "type": "invullen", "tag": "getallen-tot-100", "zin": "عِشْرونَ، ___، أَرْبَعونَ", "nl": "20, ..., 40", "antwoord": ["ثَلاثونَ"], "uitleg": "{ar|ثَلاثونَ}" },
+      { "type": "vervoegen", "tag": "getallen-tot-100", "instructie": "Schrijf het getal in het Arabisch.",
+        "rijen": [
+          { "label": "90", "antwoord": "تِسْعونَ", "tr": "tisʿūn" },
+          { "label": "33", "antwoord": "ثَلاثَةٌ وَثَلاثونَ", "tr": "ṯalāṯatun wa-ṯalāṯūn" }
+        ], "uitleg": "{ar|تِسْعونَ} · {ar|ثَلاثَةٌ وَثَلاثونَ}" },
+      { "type": "ordenen", "tag": "prijzen", "nl": "Hoeveel kost dit overhemd?", "woorden": ["بِكَمْ", "هٰذا", "القَميصُ؟"], "uitleg": "{ar|بِكَمْ} + aanwijzende woordgroep." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "getallen-tot-100", "bron": "zestig", "antwoorden": ["سِتّونَ"], "uitleg": "{ar|سِتّونَ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "prijzen", "bron": "Dat is duur.", "antwoorden": ["هٰذا غالٍ", "ذٰلِكَ غالٍ"], "uitleg": "{ar|هٰذا غالٍ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "prijzen", "bron": "السِّعْرُ ثَلاثونَ دينارًا فَقَطْ.", "tr": "as-siʿru ṯalāṯūna dīnāran faqaṭ.", "antwoorden": ["de prijs is maar dertig dinar", "de prijs is slechts dertig dinar", "de prijs is alleen dertig dinar", "het kost maar dertig dinar"], "uitleg": "{ar|فَقَطْ} = slechts." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "getallen-tot-100", "bron": "خَمْسَةٌ وَتِسْعونَ", "tr": "ḫamsatun wa-tisʿūn", "antwoorden": ["vijfennegentig", "95"], "uitleg": "5 + 90." }
+    ]
+  }
+}

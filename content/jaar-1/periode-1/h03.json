@@ -1,0 +1,121 @@
+{
+  "id": "j1-p1-h03",
+  "code": "H03",
+  "type": "herhaling",
+  "titel": "Herhaling periode 1",
+  "thema": "Getallen, hebben, familie en ontkenning, gecombineerd met alles uit periode 1",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "tellen tot 10 en een telefoonnummer opnoemen.",
+    "bezit uitdrukken met عِنْدَ / لِـ / مَعَ en met bezittelijke achtervoegsels.",
+    "mijn familie voorstellen.",
+    "nominale zinnen en bezit ontkennen met لَيْسَ."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 1 in je flashcards voordat je de periodetoets maakt.",
+
+  "grammatica": [
+    {
+      "titel": "Eén set achtervoegsels, drie toepassingen",
+      "blokken": [
+        { "type": "tabel", "kop": ["Persoon", "Bezit (mijn ...)", "Hebben (bij ...)", "Voor / van"], "arKolommen": [1, 2, 3], "rijen": [
+          ["ik", "بَيْتي|baytī", "عِنْدي|ʿindī", "لي|lī"],
+          ["jij (m)", "بَيْتُكَ|baytuka", "عِنْدَكَ|ʿindaka", "لَكَ|laka"],
+          ["jij (v)", "بَيْتُكِ|baytuki", "عِنْدَكِ|ʿindaki", "لَكِ|laki"],
+          ["hij", "بَيْتُهُ|baytuhu", "عِنْدَهُ|ʿindahu", "لَهُ|lahu"],
+          ["zij", "بَيْتُها|baytuhā", "عِنْدَها|ʿindahā", "لَها|lahā"],
+          ["wij", "بَيْتُنا|baytunā", "عِنْدَنا|ʿindanā", "لَنا|lanā"],
+          ["jullie (m)", "بَيْتُكُمْ|baytukum", "عِنْدَكُمْ|ʿindakum", "لَكُمْ|lakum"],
+          ["zij (m mv)", "بَيْتُهُمْ|baytuhum", "عِنْدَهُمْ|ʿindahum", "لَهُمْ|lahum"]
+        ] },
+        { "type": "waarom", "md": "Je hoeft geen drie lijstjes te leren: het is steeds dezelfde reeks uitgangen (ـي، ـكَ، ـكِ، ـهُ، ـها، ـنا، ـكُمْ، ـهُمْ). Alleen de basis verschilt." }
+      ]
+    },
+    {
+      "titel": "Bevestigen en ontkennen",
+      "blokken": [
+        { "type": "tabel", "kop": ["Bevestigend", "Ontkennend"], "arKolommen": [0, 1], "rijen": [
+          ["أَنا مُتْعَبٌ.|ik ben moe", "أَنا لَسْتُ مُتْعَبًا.|ik ben niet moe"],
+          ["هِيَ طَبيبَةٌ.|zij is arts", "هِيَ لَيْسَتْ طَبيبَةً.|zij is geen arts"],
+          ["عِنْدي سَيّارَةٌ.|ik heb een auto", "لَيْسَ عِنْدي سَيّارَةٌ.|ik heb geen auto"],
+          ["هٰذا كِتابي.|dit is mijn boek", "هٰذا لَيْسَ كِتابي.|dit is niet mijn boek"]
+        ] },
+        { "type": "letop", "md": "Na {ar|لَيْسَ} staat het **gezegde** in de accusatief ({ar|مُتْعَبًا}). Bij {ar|لَيْسَ عِنْدي} is het zelfstandig naamwoord het **onderwerp** en blijft het -un ({ar|سَيّارَةٌ}). In {ar|هٰذا لَيْسَ كِتابي} zie je geen accusatief, omdat ـي de naamvalsklinker verbergt." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Getallen en familie",
+      "items": [
+        { "type": "luisteren", "tag": "getallen", "tekst": "تِسْعَة، صِفْر، ثَلاثَة", "vraag": "Welk nummer hoor je?", "opties": ["903", "930", "309"], "juist": 0, "uitleg": "9, 0, 3." },
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "خَمْسَةٌ", "nl": "5", "woord": "j1-p1-l09-w06" },
+          { "ar": "جَدَّةٌ", "nl": "oma", "woord": "j1-p1-l11-w09" },
+          { "ar": "وَقْتٌ", "nl": "tijd", "woord": "j1-p1-l10-w06" },
+          { "ar": "قَلِقٌ", "nl": "ongerust", "woord": "j1-p1-l12-w04" },
+          { "ar": "عَمٌّ", "nl": "oom (vaderskant)", "woord": "j1-p1-l11-w10" }
+        ], "uitleg": "Woorden uit les 9 tot en met 12." },
+        { "type": "meerkeuze", "tag": "cijfers", "vraag": "Welk getal is ٨٤?", "opties": ["84", "48", "74", "86"], "juist": 0, "uitleg": "٨ = 8, ٤ = 4, van links naar rechts." },
+        { "type": "vervoegen", "tag": "bezit-suffix", "instructie": "Maak bezittelijk (let op ة → ت).",
+          "rijen": [
+            { "label": "mijn moeder", "antwoord": "أُمّي", "tr": "ummī" },
+            { "label": "zijn zus", "antwoord": "أُخْتُهُ", "tr": "uḫtuhu" },
+            { "label": "onze familie", "antwoord": "عائِلَتُنا", "tr": "ʿāʾilatunā" },
+            { "label": "haar oom (moederskant)", "antwoord": "خالُها", "tr": "ḫāluhā" }
+          ], "uitleg": "Achtervoegsel aan het woord; ة wordt ت." }
+      ]
+    },
+    {
+      "titel": "Hebben en niet hebben",
+      "items": [
+        { "type": "invullen", "tag": "hebben-inda", "zin": "___ أَخٌ وَأُخْتٌ.", "nl": "Zij heeft een broer en een zus.", "woordbank": ["عِنْدَها", "عِنْدَهُ", "لَها"], "antwoord": ["عِنْدَها"], "uitleg": "Familie hebben: {ar|عِنْدَها} (ook {ar|لَها} komt voor)." },
+        { "type": "invullen", "tag": "laysa-hebben", "zin": "___ عِنْدَنا اِمْتِحانٌ اليَوْمَ.", "nl": "We hebben vandaag geen examen.", "woordbank": ["لَيْسَ", "لَسْنا", "لا"], "antwoord": ["لَيْسَ"], "uitleg": "Het onderwerp is {ar|اِمْتِحانٌ}: {ar|لَيْسَ}." },
+        { "type": "invullen", "tag": "laysa-accusatief", "zin": "أَبي لَيْسَ ___.", "nl": "Mijn vader is niet ziek.", "woordbank": ["مَريضًا", "مَريضٌ", "مَريضَةً"], "antwoord": ["مَريضًا"], "uitleg": "Accusatief na {ar|لَيْسَ}." },
+        { "type": "meerkeuze", "tag": "hebben-keuze", "vraag": "Een vriend vraagt of je geld bij je hebt. Je zegt: 'Nee, ik heb geen geld bij me.'", "opties": ["لا، لَيْسَ مَعي نُقودٌ.", "لا، لَسْتُ نُقودًا.", "لا، نُقودي لَيْسَ."], "juist": 0, "uitleg": "{ar|لَيْسَ} + {ar|مَعي} + onderwerp." },
+        { "type": "ordenen", "tag": "laysa", "nl": "Mijn zus is geen lerares, zij is arts.", "woorden": ["أُخْتي", "لَيْسَتْ", "مُعَلِّمَةً،", "هِيَ", "طَبيبَةٌ."], "uitleg": "Ontkenning met accusatief, daarna een gewone nominale zin." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "bezit-suffix", "bron": "Mijn familie is klein.", "antwoorden": ["عائِلَتي صَغيرَةٌ"], "uitleg": "{ar|عائِلَتي صَغيرَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "laysa-hebben", "bron": "Hij heeft geen auto.", "antwoorden": ["لَيْسَ عِنْدَهُ سَيّارَةٌ", "لَيْسَتْ عِنْدَهُ سَيّارَةٌ"], "uitleg": "{ar|لَيْسَ عِنْدَهُ سَيّارَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "leeftijd", "bron": "Hoe oud ben je? (tegen een man)", "antwoorden": ["كَمْ عُمْرُكَ؟"], "eind": true, "uitleg": "{ar|كَمْ عُمْرُكَ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "laysa", "bron": "أَنا لَسْتُ مُسْتَعِدًّا الآنَ.", "tr": "ana lastu mustaʿiddan al-ān.", "antwoorden": ["ik ben nu niet klaar", "ik ben niet klaar nu", "ik ben nu nog niet klaar"], "uitleg": "{ar|مُسْتَعِدٌّ} = klaar." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "اِبْنُ عَمّي طالِبٌ.", "tr": "ibnu ʿammī ṭālib.", "antwoorden": ["mijn neef is student", "de zoon van mijn oom is student"], "uitleg": "{ar|اِبْنُ عَمّي} = zoon van mijn oom, neef." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "luisteren", "tag": "getallen", "tekst": "عَشَرَةٌ", "vraag": "Welk getal hoor je?", "opties": ["10", "2", "7"], "juist": 0, "uitleg": "{ar|عَشَرَةٌ} = 10." },
+      { "type": "meerkeuze", "tag": "cijfers", "vraag": "Hoe schrijf je 6 in Arabisch-Indische cijfers?", "opties": ["٦", "٧", "٥"], "juist": 0, "uitleg": "٦ = 6." },
+      { "type": "meerkeuze", "tag": "hebben-inda", "vraag": "'Jullie (m) hebben' is ...", "opties": ["عِنْدَكُمْ", "عِنْدَهُمْ", "عِنْدَنا"], "juist": 0, "uitleg": "ـكُمْ = jullie." },
+      { "type": "meerkeuze", "tag": "ta-marbuta", "vraag": "'Zijn oma' is ...", "opties": ["جَدَّتُهُ", "جَدَّةُهُ", "جَدَّتُها"], "juist": 0, "uitleg": "ة → ت; ـهُ = zijn." },
+      { "type": "meerkeuze", "tag": "laysa", "vraag": "'Zij (v mv) zijn niet' is ...", "opties": ["لَسْنَ", "لَسْنا", "لَيْسوا"], "juist": 0, "uitleg": "{ar|لَسْنَ}" },
+      { "type": "luisteren", "tag": "bezit-suffix", "tekst": "هٰذِهِ زَوْجَتي", "vraag": "Wat hoor je?", "opties": ["Dit is mijn vrouw.", "Dit is zijn vrouw.", "Dit is een vrouw."], "juist": 0, "uitleg": "ـي = mijn." },
+      { "type": "invullen", "tag": "laysa-accusatief", "zin": "نَحْنُ لَسْنا ___.", "nl": "Wij zijn niet moe.", "woordbank": ["مُتْعَبينَ", "مُتْعَبونَ", "مُتْعَبًا"], "antwoord": ["مُتْعَبينَ"], "uitleg": "Meervoud accusatief: ـينَ." },
+      { "type": "invullen", "tag": "hebben-inda", "zin": "هَلْ ___ أَطْفالٌ؟", "nl": "Heb je kinderen? (tegen een vrouw)", "antwoord": ["عِنْدَكِ"], "eind": true, "uitleg": "{ar|عِنْدَكِ}" },
+      { "type": "vervoegen", "tag": "laysa", "instructie": "Vul de juiste vorm van لَيْسَ in.",
+        "rijen": [
+          { "label": "jij (m) bent niet", "antwoord": "لَسْتَ", "tr": "lasta", "eind": true },
+          { "label": "zij (m mv) zijn niet", "antwoord": "لَيْسوا", "tr": "laysū" }
+        ], "uitleg": "{ar|لَسْتَ} · {ar|لَيْسوا}" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "حَفيدٌ", "nl": "kleinzoon" },
+        { "ar": "مَوْعِدٌ", "nl": "afspraak" },
+        { "ar": "صَحيحٌ", "nl": "juist" },
+        { "ar": "كَمْ", "nl": "hoeveel" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "laysa-hebben", "nl": "Ik heb vandaag geen tijd.", "woorden": ["لَيْسَ", "عِنْدي", "وَقْتٌ", "اليَوْمَ."], "uitleg": "{ar|لَيْسَ عِنْدي} + onderwerp." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "bezit-suffix", "bron": "mijn vader", "antwoorden": ["أَبي"], "uitleg": "{ar|أَبي}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "laysa", "bron": "Zij is niet bang.", "antwoorden": ["هِيَ لَيْسَتْ خائِفَةً", "لَيْسَتْ خائِفَةً"], "uitleg": "{ar|هِيَ لَيْسَتْ خائِفَةً}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-inda", "bron": "عِنْدَهُمْ ثَلاثَةُ أَطْفالٍ.", "tr": "ʿindahum ṯalāṯatu aṭfāl.", "antwoorden": ["zij hebben drie kinderen", "ze hebben drie kinderen"], "uitleg": "{ar|ثَلاثَةُ أَطْفالٍ} = drie kinderen (telwoordregels: les 42)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "bezit-suffix", "bron": "خالَتي مُتَزَوِّجَةٌ.", "tr": "ḫālatī mutazawwija.", "antwoorden": ["mijn tante is getrouwd"], "uitleg": "{ar|خالَتي} = mijn tante (moederskant)." }
+    ]
+  }
+}

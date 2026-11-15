@@ -1,0 +1,619 @@
+{
+  "id": "j3-p9-l99",
+  "code": "L99",
+  "type": "les",
+  "titel": "Advies en plannen",
+  "thema": "Adviezen en toekomstplannen; voorwaarde met إِنْ",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een voorwaarde maken met إِنْ + majzūm.",
+    "voorwaardelijke woorden gebruiken (مَنْ، مَهْما، أَيْنَما).",
+    "adviezen geven en toekomstplannen bespreken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p9-l99-w01",
+      "ar": "إِنْ",
+      "tr": "in",
+      "nl": [
+        "als, indien"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ majzūm in beide zinsdelen."
+    },
+    {
+      "id": "j3-p9-l99-w03",
+      "ar": "مَهْما",
+      "tr": "mahmā",
+      "nl": [
+        "wat ook"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l99-w04",
+      "ar": "أَيْنَما",
+      "tr": "aynamā",
+      "nl": [
+        "waar ook"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j3-p9-l99-w06",
+      "ar": "خُطَّةٌ مُسْتَقْبَلِيَّةٌ",
+      "tr": "ḫuṭṭatun mustaqbaliyya",
+      "nl": [
+        "toekomstplan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l99-w07",
+      "ar": "حَقَّقَ",
+      "tr": "ḥaqqaqa",
+      "nl": [
+        "verwezenlijken"
+      ],
+      "soort": "werkwoord (II)",
+      "notitie": "{ar|حَقَّقَ حُلْمَهُ} = zijn droom waarmaken."
+    },
+    {
+      "id": "j3-p9-l99-w08",
+      "ar": "اِجْتَهَدَ",
+      "tr": "ijtahada",
+      "nl": [
+        "zich inspannen"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p9-l99-w09",
+      "ar": "نَدِمَ عَلى",
+      "tr": "nadima ʿalā",
+      "nl": [
+        "spijt hebben van"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p9-l99-w10",
+      "ar": "فُرْصَةٌ ذَهَبِيَّةٌ",
+      "tr": "furṣatun ḏahabiyya",
+      "nl": [
+        "gouden kans"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l99-w11",
+      "ar": "اِسْتَغَلَّ",
+      "tr": "istaġalla",
+      "nl": [
+        "benutten"
+      ],
+      "soort": "werkwoord (X, verdubbeld)"
+    },
+    {
+      "id": "j3-p9-l99-w12",
+      "ar": "ضَيَّعَ",
+      "tr": "ḍayyaʿa",
+      "nl": [
+        "verspillen, laten lopen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p9-l99-w13",
+      "ar": "مُسْتَقْبَلٌ مِهَنِيٌّ",
+      "tr": "mustaqbalun mihaniyy",
+      "nl": [
+        "loopbaan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p9-l99-w14",
+      "ar": "وَظَّفَ",
+      "tr": "waẓẓafa",
+      "nl": [
+        "in dienst nemen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j3-p9-l99-w15",
+      "ar": "اِسْتَشارَ",
+      "tr": "istašāra",
+      "nl": [
+        "raadplegen"
+      ],
+      "soort": "werkwoord (X, hol)"
+    },
+    {
+      "id": "j3-p9-l99-w16",
+      "ar": "مُخْتَصٌّ",
+      "tr": "muḫtaṣṣ",
+      "nl": [
+        "specialist"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p9-l99-w17",
+      "ar": "طُموحاتٌ",
+      "tr": "ṭumūḥāt",
+      "nl": [
+        "ambities"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Voorwaarde met إِنْ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "{ar|إِنْ} (*als, indien*) is formeler dan {ar|إِذا}. Beide zinsdelen staan in de **majzūm** (of in de māḍī): {ar|إِنْ تَدْرُسْ تَنْجَحْ} (als je studeert, slaag je).",
+            "Ook voorwaardelijke woorden als {ar|مَنْ} (wie ook), {ar|مَهْما} (wat ook) en {ar|أَيْنَما} (waar ook) werken zo: {ar|مَنْ يَجْتَهِدْ يَنْجَحْ} (wie zich inspant, slaagt)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "إِذا",
+            "إِنْ"
+          ],
+          "rijen": [
+            [
+              "register",
+              "algemeen, ook gesproken",
+              "formeel, schrijftaal, spreekwoorden"
+            ],
+            [
+              "werkwoord",
+              "māḍī",
+              "majzūm (of māḍī)"
+            ],
+            [
+              "betekenis",
+              "als (verwacht)",
+              "als, indien (mogelijk, minder zeker)"
+            ]
+          ],
+          "arKolommen": []
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom majzūm? {ar|إِنْ} is een 'majzūm-maker' zoals {ar|لَمْ}: het zet zowel de voorwaarde als het gevolg in de verkorte wijs. Daardoor hoor je die korte uitgang vooral in spreekwoorden en formele teksten: {ar|إِنْ تَزْرَعْ تَحْصُدْ} (wie zaait, zal oogsten)."
+        },
+        {
+          "type": "letop",
+          "md": "Begint het gevolg niet met een werkwoord in de majzūm (bijv. gebiedende wijs, سَـ, nominale zin), dan komt er {ar|فَـ} voor: {ar|إِنْ أَرَدْتَ النَّجاحَ فَاجْتَهِدْ}."
+        }
+      ]
+    },
+    {
+      "titel": "Adviezen voor de toekomst",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "إِنْ تَجْتَهِدْ تُحَقِّقْ أَحْلامَكَ.",
+              "tr": "in tajtahid tuḥaqqiq aḥlāmak.",
+              "nl": "Als je je inspant, maak je je dromen waar."
+            },
+            {
+              "ar": "مَنْ يَسْتَغِلَّ الفُرْصَةَ لا يَنْدَمْ.",
+              "tr": "man yastaġilla l-furṣata lā yandam.",
+              "nl": "Wie de kans grijpt, krijgt geen spijt.",
+              "review": {
+                "status": "onzeker",
+                "note": "Majzūm van verdubbeld vorm X (يَسْتَغِلَّ) controleren."
+              }
+            },
+            {
+              "ar": "إِنْ أَرَدْتَ نَصيحَتي فَاسْتَشِرْ أُسْتاذَكَ.",
+              "tr": "in aradta naṣīḥatī fa-stašir ustāḏak.",
+              "nl": "Als je mijn advies wilt: raadpleeg je docent."
+            },
+            {
+              "ar": "أَيْنَما تَذْهَبْ تَجِدْ أَصْدِقاءَ.",
+              "tr": "aynamā taḏhab tajid aṣdiqāʾ.",
+              "nl": "Waar je ook gaat, je vindt vrienden."
+            },
+            {
+              "ar": "إِذا ضَيَّعْتَ الفُرْصَةَ، فَلَنْ تَعودَ.",
+              "tr": "iḏā ḍayyaʿta l-furṣata, fa-lan taʿūd.",
+              "nl": "Als je de kans laat lopen, komt ze niet terug."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "نَصيحَةٌ",
+              "nl": "advies"
+            },
+            {
+              "ar": "حَقَّقَ",
+              "nl": "verwezenlijken",
+              "woord": "j3-p9-l99-w07"
+            },
+            {
+              "ar": "اِجْتَهَدَ",
+              "nl": "zich inspannen",
+              "woord": "j3-p9-l99-w08"
+            },
+            {
+              "ar": "نَدِمَ عَلى",
+              "nl": "spijt hebben van",
+              "woord": "j3-p9-l99-w09"
+            },
+            {
+              "ar": "ضَيَّعَ",
+              "nl": "verspillen",
+              "woord": "j3-p9-l99-w12"
+            },
+            {
+              "ar": "اِسْتَشارَ",
+              "nl": "raadplegen",
+              "woord": "j3-p9-l99-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "in-majzum",
+          "tekst": "إِنْ تَدْرُسْ تَنْجَحْ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Als je studeert, slaag je.",
+            "Je hebt gestudeerd en bent geslaagd.",
+            "Studeer niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِنْ} + majzūm."
+        }
+      ]
+    },
+    {
+      "titel": "إِنْ en voorwaardelijke woorden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "in-majzum",
+          "zin": "إِنْ ___ تَصِلْ في الوَقْتِ.",
+          "nl": "Als je je haast, ben je op tijd.",
+          "antwoord": [
+            "تُسْرِعْ"
+          ],
+          "uitleg": "Majzūm.",
+          "woordbank": [
+            "تُسْرِعْ",
+            "تُسْرِعُ",
+            "أَسْرَعْتَ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "in-majzum",
+          "zin": "مَنْ ___ يَنْجَحْ.",
+          "nl": "Wie zich inspant, slaagt.",
+          "antwoord": [
+            "يَجْتَهِدْ"
+          ],
+          "uitleg": "Majzūm.",
+          "woordbank": [
+            "يَجْتَهِدْ",
+            "يَجْتَهِدُ",
+            "اِجْتَهَدَ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "in-majzum",
+          "vraag": "Wat is het verschil tussen {ar|إِذا} en {ar|إِنْ}?",
+          "opties": [
+            "إِنْ is formeler en vraagt de majzūm",
+            "إِذا is alleen voor het verleden",
+            "geen verschil"
+          ],
+          "juist": 0,
+          "uitleg": "Register en vorm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "in-majzum",
+          "vraag": "Wat betekent {ar|أَيْنَما تَذْهَبْ}?",
+          "opties": [
+            "waar je ook gaat",
+            "waar ga je heen?",
+            "ga niet"
+          ],
+          "juist": 0,
+          "uitleg": "Voorwaardelijk woord."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "in-majzum",
+          "instructie": "Zet in de majzūm na إِنْ.",
+          "rijen": [
+            {
+              "label": "تَكْتُبُ",
+              "antwoord": "تَكْتُبْ",
+              "tr": "taktub"
+            },
+            {
+              "label": "تَدْرُسونَ",
+              "antwoord": "تَدْرُسوا",
+              "tr": "tadrusū"
+            }
+          ],
+          "uitleg": "Majzūm.",
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Adviezen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "in-majzum",
+          "nl": "Als je je inspant, maak je je dromen waar.",
+          "woorden": [
+            "إِنْ",
+            "تَجْتَهِدْ",
+            "تُحَقِّقْ",
+            "أَحْلامَكَ."
+          ],
+          "uitleg": "Twee majzūm-vormen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "in-majzum",
+          "bron": "Wie zaait, zal oogsten. (إِنْ + majzūm, letterlijk: als je zaait, oogst je)",
+          "antwoorden": [
+            "إِنْ تَزْرَعْ تَحْصُدْ"
+          ],
+          "uitleg": "Spreekwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "in-majzum",
+          "bron": "إِنْ أَرَدْتَ النَّجاحَ فَاجْتَهِدْ.",
+          "antwoorden": [
+            "als je wilt slagen span je dan in",
+            "als je succes wilt doe dan je best",
+            "wil je slagen span je dan in"
+          ],
+          "uitleg": "{ar|فَـ} + gebiedende wijs."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "خُطَّةٌ مُسْتَقْبَلِيَّةٌ",
+            "nl": "toekomstplan"
+          },
+          {
+            "ar": "فُرْصَةٌ ذَهَبِيَّةٌ",
+            "nl": "gouden kans"
+          },
+          {
+            "ar": "اِسْتَغَلَّ",
+            "nl": "benutten"
+          },
+          {
+            "ar": "وَظَّفَ",
+            "nl": "in dienst nemen"
+          },
+          {
+            "ar": "مُسْتَقْبَلٌ مِهَنِيٌّ",
+            "nl": "loopbaan"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "Welke wijs volgt op {ar|إِنْ}?",
+        "opties": [
+          "majzūm",
+          "manṣūb",
+          "marfūʿ"
+        ],
+        "juist": 0,
+        "uitleg": "Beide delen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "'Als je zoekt, vind je' (formeel) is ...",
+        "opties": [
+          "إِنْ تَبْحَثْ تَجِدْ",
+          "إِنْ تَبْحَثُ تَجِدُ",
+          "إِذا تَبْحَثْ وَجَدْتَ"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "Wanneer komt {ar|فَـ} voor het gevolg?",
+        "opties": [
+          "als het gevolg geen majzūm-werkwoord is (bv. gebiedende wijs)",
+          "altijd",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "Wat betekent {ar|مَهْما تَفْعَلْ}?",
+        "opties": [
+          "wat je ook doet",
+          "wat doe je?",
+          "doe niets"
+        ],
+        "juist": 0,
+        "uitleg": "Voorwaardelijk woord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "in-majzum",
+        "tekst": "مَنْ يَجْتَهِدْ يَنْجَحْ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Wie zich inspant, slaagt.",
+          "Wie slaagt, spant zich in.",
+          "Niemand slaagt."
+        ],
+        "juist": 0,
+        "uitleg": "Spreekwoord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "لا تُضَيِّعْ هٰذِهِ الفُرْصَةَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Laat deze kans niet lopen.",
+          "Grijp deze kans niet.",
+          "Deze kans is verloren."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضَيَّعَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "in-majzum",
+        "zin": "إِنْ ___ إِلى المَغْرِبِ، فَزُرْ فاسَ.",
+        "nl": "Als je naar Marokko gaat, bezoek dan Fez.",
+        "antwoord": [
+          "سافَرْتَ"
+        ],
+        "uitleg": "Māḍī kan ook na {ar|إِنْ}.",
+        "woordbank": [
+          "سافَرْتَ",
+          "تُسافِرُ",
+          "سَتُسافِرُ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "in-majzum",
+        "zin": "أَيْنَما ___ تَجِدْ مَطاعِمَ جَيِّدَةً.",
+        "nl": "Waar je ook gaat, je vindt goede restaurants.",
+        "antwoord": [
+          "تَذْهَبْ"
+        ],
+        "uitleg": "Majzūm.",
+        "woordbank": [
+          "تَذْهَبْ",
+          "تَذْهَبُ",
+          "ذَهَبْتَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِسْتَشِرْ ___ قَبْلَ أَنْ تُقَرِّرَ.",
+        "nl": "Raadpleeg een specialist voordat je beslist.",
+        "antwoord": [
+          "مُخْتَصًّا"
+        ],
+        "uitleg": "{ar|مُخْتَصٌّ} = specialist.",
+        "woordbank": [
+          "مُخْتَصًّا",
+          "نَصيحَةً",
+          "فُرْصَةً"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "in-majzum",
+        "instructie": "Zet in de majzūm.",
+        "rijen": [
+          {
+            "label": "تَجِدُ",
+            "antwoord": "تَجِدْ",
+            "tr": "tajid"
+          },
+          {
+            "label": "يَنْدَمُ",
+            "antwoord": "يَنْدَمْ",
+            "tr": "yandam"
+          }
+        ],
+        "uitleg": "Sukūn.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "in-majzum",
+        "nl": "Waar je ook gaat, je vindt vrienden.",
+        "woorden": [
+          "أَيْنَما",
+          "تَذْهَبْ",
+          "تَجِدْ",
+          "أَصْدِقاءَ."
+        ],
+        "uitleg": "{ar|أَيْنَما}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het advies",
+        "antwoorden": [
+          "النَّصيحَةُ"
+        ],
+        "uitleg": "{ar|النَّصيحَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "in-majzum",
+        "bron": "إِنْ تَزُرْنا نَفْرَحْ.",
+        "antwoorden": [
+          "als je ons bezoekt zijn we blij",
+          "als je bij ons op bezoek komt worden we blij"
+        ],
+        "uitleg": "Majzūm (hol: تَزُرْ)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "id": "j3-p10-l111",
+  "code": "L111",
+  "type": "les",
+  "titel": "Milieu en klimaat",
+  "thema": "Klimaatverandering en de gevolgen; oorzaak en gevolg",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over klimaat en milieu praten.",
+    "oorzaak en gevolg verbinden met نَتيجَةً لِـ، مِمّا أَدّى إِلى، وَبِالتّالي.",
+    "het zwakke werkwoord أَدّى / يُؤَدّي gebruiken."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l111-w01",
+      "ar": "تَغَيُّرٌ مُناخِيٌّ",
+      "tr": "taġayyurun munāḫiyy",
+      "nl": [
+        "klimaatverandering"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w02",
+      "ar": "اِحْتِباسٌ حَرارِيٌّ",
+      "tr": "iḥtibāsun ḥarāriyy",
+      "nl": [
+        "broeikaseffect"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w03",
+      "ar": "اِنْبِعاثاتٌ",
+      "tr": "inbiʿāṯāt",
+      "nl": [
+        "uitstoot"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p10-l111-w04",
+      "ar": "طاقَةٌ مُتَجَدِّدَةٌ",
+      "tr": "ṭāqatun mutajaddida",
+      "nl": [
+        "duurzame energie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w05",
+      "ar": "اِنْقِراضٌ",
+      "tr": "inqirāḍ",
+      "nl": [
+        "uitsterven"
+      ],
+      "soort": "maṣdar (VII)"
+    },
+    {
+      "id": "j3-p10-l111-w06",
+      "ar": "جَليدٌ",
+      "tr": "jalīd",
+      "nl": [
+        "ijs"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l111-w07",
+      "ar": "ذَوَبانٌ",
+      "tr": "ḏawabān",
+      "nl": [
+        "smelten"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p10-l111-w08",
+      "ar": "تَصَحُّرٌ",
+      "tr": "taṣaḥḥur",
+      "nl": [
+        "woestijnvorming"
+      ],
+      "soort": "maṣdar (V)"
+    },
+    {
+      "id": "j3-p10-l111-w09",
+      "ar": "وَقودٌ",
+      "tr": "waqūd",
+      "nl": [
+        "brandstof"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l111-w10",
+      "ar": "مَحْصولٌ",
+      "tr": "maḥṣūl",
+      "nl": [
+        "oogst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l111-w12",
+      "ar": "مِمّا أَدّى إِلى",
+      "tr": "mimmā addā ilā",
+      "nl": [
+        "wat leidde tot"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w13",
+      "ar": "وَبِالتّالي",
+      "tr": "wa-bi-t-tālī",
+      "nl": [
+        "en dus, bijgevolg"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w14",
+      "ar": "نَتَجَ عَنْ",
+      "tr": "nataja ʿan",
+      "nl": [
+        "voortkomen uit"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p10-l111-w15",
+      "ar": "شُحُّ المِياهِ",
+      "tr": "šuḥḥu l-miyāh",
+      "nl": [
+        "waterschaarste"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l111-w16",
+      "ar": "مُسْتَوى سَطْحِ البَحْرِ",
+      "tr": "mustawā saṭḥi l-baḥr",
+      "nl": [
+        "zeespiegel"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Oorzaak en gevolg",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Uitdrukking",
+            "Wat volgt",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "نَتيجَةً لِـ (als gevolg van)",
+              "naamwoord (gen.)",
+              "نَتيجَةً لِلْجَفافِ"
+            ],
+            [
+              "بِسَبَبِ (vanwege)",
+              "naamwoord (gen.)",
+              "بِسَبَبِ التَّلَوُّثِ"
+            ],
+            [
+              "مِمّا أَدّى إِلى (wat leidde tot)",
+              "maṣdar (gen.)",
+              "مِمّا أَدّى إِلى ذَوَبانِ الجَليدِ"
+            ],
+            [
+              "وَبِالتّالي (bijgevolg)",
+              "hele zin",
+              "وَبِالتّالي قَلَّ المَحْصولُ"
+            ],
+            [
+              "نَتَجَ / يَنْتُجُ عَنْ (voortkomen uit)",
+              "oorzaak (gen.)",
+              "يَنْتُجُ التَّلَوُّثُ عَنْ …"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|مِمّا} = {ar|مِنْ} + {ar|ما}: *waardoor, wat*. Het verwijst naar de **hele vorige zin** als oorzaak, zoals het Nederlandse *wat ertoe leidde dat*. Daarom staat er altijd een komma voor."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|أَدّى} is een zwak werkwoord (vorm II van أ-د-ي): muḍāriʿ {ar|يُؤَدّي}, maṣdar {ar|تَأْدِيَةٌ}. Gebruik na {ar|أَدّى إِلى} bij voorkeur een **maṣdar**: {ar|أَدّى إِلى اِرْتِفاعِ الأَسْعارِ}."
+        }
+      ]
+    },
+    {
+      "titel": "Het klimaat",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِرْتَفَعَتْ دَرَجاتُ الحَرارَةِ، مِمّا أَدّى إِلى ذَوَبانِ الجَليدِ.",
+              "tr": "irtafaʿat darajātu l-ḥarārati, mimmā addā ilā ḏawabāni l-jalīd.",
+              "nl": "De temperaturen stegen, wat leidde tot het smelten van het ijs."
+            },
+            {
+              "ar": "نَتيجَةً لِلْجَفافِ، اِرْتَفَعَتْ أَسْعارُ الخُضَرِ.",
+              "tr": "natījatan li-l-jafāfi rtafaʿat asʿāru l-ḫuḍar.",
+              "nl": "Als gevolg van de droogte stegen de groenteprijzen."
+            },
+            {
+              "ar": "يَنْتُجُ التَّلَوُّثُ عَنْ حَرْقِ الوَقودِ.",
+              "tr": "yantuju t-talawwuṯu ʿan ḥarqi l-waqūd.",
+              "nl": "Vervuiling komt voort uit het verbranden van brandstof."
+            },
+            {
+              "ar": "قَلَّتِ الأَمْطارُ، وَبِالتّالي قَلَّ المَحْصولُ.",
+              "tr": "qallati l-amṭāru, wa-bi-t-tālī qalla l-maḥṣūl.",
+              "nl": "Er viel minder regen, en dus was de oogst kleiner."
+            },
+            {
+              "ar": "يُؤَدّي التَّصَحُّرُ إِلى هِجْرَةِ السُّكّانِ.",
+              "tr": "yuʾaddī t-taṣaḥḥuru ilā hijrati s-sukkān.",
+              "nl": "Woestijnvorming leidt tot migratie van de bevolking."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تَغَيُّرٌ مُناخِيٌّ",
+              "nl": "klimaatverandering",
+              "woord": "j3-p10-l111-w01"
+            },
+            {
+              "ar": "اِنْبِعاثاتٌ",
+              "nl": "uitstoot",
+              "woord": "j3-p10-l111-w03"
+            },
+            {
+              "ar": "طاقَةٌ مُتَجَدِّدَةٌ",
+              "nl": "duurzame energie",
+              "woord": "j3-p10-l111-w04"
+            },
+            {
+              "ar": "اِنْقِراضٌ",
+              "nl": "uitsterven",
+              "woord": "j3-p10-l111-w05"
+            },
+            {
+              "ar": "تَصَحُّرٌ",
+              "nl": "woestijnvorming",
+              "woord": "j3-p10-l111-w08"
+            },
+            {
+              "ar": "مَحْصولٌ",
+              "nl": "oogst",
+              "woord": "j3-p10-l111-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "oorzaak-gevolg",
+          "tekst": "نَتيجَةً لِلْجَفافِ قَلَّ المَحْصولُ",
+          "vraag": "Waarom was de oogst klein?",
+          "opties": [
+            "door de droogte",
+            "door overstromingen",
+            "door de kou"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نَتيجَةً لِـ}"
+        }
+      ]
+    },
+    {
+      "titel": "Oorzaak en gevolg",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "oorzaak-gevolg",
+          "zin": "زادَتِ الاِنْبِعاثاتُ، ___ أَدّى إِلى اِرْتِفاعِ الحَرارَةِ.",
+          "nl": "De uitstoot nam toe, wat leidde tot een temperatuurstijging.",
+          "antwoord": [
+            "مِمّا"
+          ],
+          "uitleg": "{ar|مِمّا}",
+          "woordbank": [
+            "مِمّا",
+            "لِأَنَّ",
+            "رَغْمَ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "oorzaak-gevolg",
+          "zin": "___ لِلتَّلَوُّثِ، ماتَتِ الأَسْماكُ.",
+          "nl": "Als gevolg van de vervuiling stierven de vissen.",
+          "antwoord": [
+            "نَتيجَةً"
+          ],
+          "uitleg": "Accusatief: {ar|نَتيجَةً لِـ}.",
+          "woordbank": [
+            "نَتيجَةً",
+            "نَتيجَةٌ",
+            "نَتيجَةِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-gevolg",
+          "vraag": "Wat volgt bij voorkeur na {ar|أَدّى إِلى}?",
+          "opties": [
+            "een maṣdar",
+            "een muḍāriʿ",
+            "een gebiedende wijs"
+          ],
+          "juist": 0,
+          "uitleg": "Bijv. {ar|أَدّى إِلى ذَوَبانِ …}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "oorzaak-gevolg",
+          "vraag": "Welk woord geeft de **oorzaak**?",
+          "opties": [
+            "بِسَبَبِ",
+            "وَبِالتّالي",
+            "مِمّا أَدّى إِلى"
+          ],
+          "juist": 0,
+          "uitleg": "De andere geven het gevolg."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "oorzaak-gevolg",
+          "instructie": "Vervoeg أَدّى إِلى.",
+          "rijen": [
+            {
+              "label": "het (m) leidt tot (muḍāriʿ)",
+              "antwoord": "يُؤَدّي",
+              "tr": "yuʾaddī"
+            },
+            {
+              "label": "het (v) leidt tot (muḍāriʿ)",
+              "antwoord": "تُؤَدّي",
+              "tr": "tuʾaddī"
+            },
+            {
+              "label": "het (v) leidde tot (māḍī)",
+              "antwoord": "أَدَّتْ",
+              "tr": "addat"
+            }
+          ],
+          "uitleg": "Zwak werkwoord, vorm II."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "oorzaak-gevolg",
+          "nl": "Er viel minder regen, en dus was de oogst kleiner.",
+          "woorden": [
+            "قَلَّتِ",
+            "الأَمْطارُ،",
+            "وَبِالتّالي",
+            "قَلَّ",
+            "المَحْصولُ."
+          ],
+          "uitleg": "Gevolg."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de klimaatverandering",
+          "antwoorden": [
+            "التَّغَيُّرُ المُناخِيُّ",
+            "تغير المناخ",
+            "التَّغَيُّرُ المُناخِيّ"
+          ],
+          "uitleg": "{ar|التَّغَيُّرُ المُناخِيُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "oorzaak-gevolg",
+          "bron": "يُؤَدّي التَّصَحُّرُ إِلى هِجْرَةِ السُّكّانِ.",
+          "antwoorden": [
+            "woestijnvorming leidt tot migratie van de bevolking",
+            "verwoestijning leidt tot migratie van de bewoners"
+          ],
+          "uitleg": "{ar|يُؤَدّي إِلى}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "جَليدٌ",
+            "nl": "ijs"
+          },
+          {
+            "ar": "وَقودٌ",
+            "nl": "brandstof"
+          },
+          {
+            "ar": "شُحُّ المِياهِ",
+            "nl": "waterschaarste"
+          },
+          {
+            "ar": "اِحْتِباسٌ حَرارِيٌّ",
+            "nl": "broeikaseffect"
+          },
+          {
+            "ar": "مُسْتَوى سَطْحِ البَحْرِ",
+            "nl": "zeespiegel"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "{ar|مِمّا} is samengesteld uit ...",
+        "opties": [
+          "مِنْ + ما",
+          "مَعَ + ما",
+          "مِنْ + مَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِنْ} + {ar|ما}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "{ar|وَبِالتّالي} betekent ...",
+        "opties": [
+          "en dus, bijgevolg",
+          "hoewel",
+          "vanwege"
+        ],
+        "juist": 0,
+        "uitleg": "Gevolg."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "'Vervuiling komt voort uit brandstof' is ...",
+        "opties": [
+          "يَنْتُجُ التَّلَوُّثُ عَنِ الوَقودِ",
+          "يُنْتِجُ التَّلَوُّثُ الوَقودَ",
+          "يَنْتُجُ الوَقودُ لِلتَّلَوُّثِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَتَجَ عَنْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "oorzaak-gevolg",
+        "vraag": "Welke naamval heeft {ar|نَتيجَةً} in {ar|نَتيجَةً لِلْجَفافِ}?",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Bijwoordelijk gebruikt."
+      },
+      {
+        "type": "luisteren",
+        "tag": "oorzaak-gevolg",
+        "tekst": "اِرْتَفَعَتِ الحَرارَةُ مِمّا أَدّى إِلى ذَوَبانِ الجَليدِ",
+        "vraag": "Wat was het gevolg?",
+        "opties": [
+          "Het ijs smolt.",
+          "Het ging regenen.",
+          "De zee bevroor."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِمّا أَدّى إِلى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "يَجِبُ الاِعْتِمادُ عَلى الطّاقَةِ المُتَجَدِّدَةِ",
+        "vraag": "Wat wordt bepleit?",
+        "opties": [
+          "meer duurzame energie",
+          "meer olie",
+          "minder elektriciteit"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|طاقَةٌ مُتَجَدِّدَةٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-gevolg",
+        "zin": "أَدّى الجَفافُ إِلى ___ المَحْصولِ.",
+        "nl": "De droogte leidde tot een daling van de oogst.",
+        "antwoord": [
+          "اِنْخِفاضِ"
+        ],
+        "uitleg": "Maṣdar na {ar|إِلى}.",
+        "woordbank": [
+          "اِنْخِفاضِ",
+          "يَنْخَفِضُ",
+          "مُنْخَفِضٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "oorzaak-gevolg",
+        "zin": "تَأَخَّرَ القِطارُ ___ العاصِفَةِ.",
+        "nl": "De trein had vertraging vanwege de storm.",
+        "antwoord": [
+          "بِسَبَبِ"
+        ],
+        "uitleg": "Oorzaak.",
+        "woordbank": [
+          "بِسَبَبِ",
+          "وَبِالتّالي",
+          "مِمّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تَخْشى الحُكومَةُ اِرْتِفاعَ ___ سَطْحِ البَحْرِ.",
+        "nl": "De regering vreest een stijging van de zeespiegel.",
+        "antwoord": [
+          "مُسْتَوى"
+        ],
+        "uitleg": "{ar|مُسْتَوى سَطْحِ البَحْرِ}",
+        "woordbank": [
+          "مُسْتَوى",
+          "مَحْصولِ",
+          "جَليدِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "oorzaak-gevolg",
+        "instructie": "Vervoeg يُؤَدّي.",
+        "rijen": [
+          {
+            "label": "zij (mv, m) leiden tot",
+            "antwoord": "يُؤَدّونَ",
+            "tr": "yuʾaddūna"
+          },
+          {
+            "label": "dit (v) zal leiden tot",
+            "antwoord": "سَتُؤَدّي",
+            "tr": "sa-tuʾaddī"
+          }
+        ],
+        "uitleg": "Zwak werkwoord."
+      },
+      {
+        "type": "ordenen",
+        "tag": "oorzaak-gevolg",
+        "nl": "Als gevolg van de droogte stegen de prijzen.",
+        "woorden": [
+          "نَتيجَةً",
+          "لِلْجَفافِ،",
+          "اِرْتَفَعَتِ",
+          "الأَسْعارُ."
+        ],
+        "uitleg": "Oorzaak eerst."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de uitstoot",
+        "antwoorden": [
+          "الاِنْبِعاثاتُ",
+          "الانبعاثات"
+        ],
+        "uitleg": "{ar|الاِنْبِعاثاتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "oorzaak-gevolg",
+        "bron": "زادَ التَّلَوُّثُ، مِمّا أَدّى إِلى اِنْقِراضِ بَعْضِ الحَيَواناتِ.",
+        "antwoorden": [
+          "de vervuiling nam toe, wat leidde tot het uitsterven van sommige dieren",
+          "de vervuiling nam toe waardoor sommige dieren uitstierven"
+        ],
+        "uitleg": "{ar|مِمّا أَدّى إِلى}"
+      }
+    ]
+  }
+}

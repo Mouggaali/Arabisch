@@ -1,0 +1,613 @@
+{
+  "id": "j3-p10-l117",
+  "code": "L117",
+  "type": "les",
+  "titel": "Krantenkoppen",
+  "thema": "Nieuwskoppen lezen en begrijpen; krantenstijl",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "krantenkoppen lezen en begrijpen.",
+    "de kenmerken van koppen herkennen: maṣdar, naamwoord + muḍāriʿ, geen kāna.",
+    "een kop omzetten in een gewone zin."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l117-w01",
+      "ar": "العُنْوانُ الرَّئيسِيُّ",
+      "tr": "al-ʿunwānu r-raʾīsiyy",
+      "nl": [
+        "de hoofdkop"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l117-w02",
+      "ar": "عاجِلٌ",
+      "tr": "ʿājil",
+      "nl": [
+        "dringend; breaking (nieuws)"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w03",
+      "ar": "اِنْتِخاباتٌ",
+      "tr": "intiḫābāt",
+      "nl": [
+        "verkiezingen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p10-l117-w04",
+      "ar": "بَرْلَمانٌ",
+      "tr": "barlamān",
+      "nl": [
+        "parlement"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w05",
+      "ar": "رَئيسُ الحُكومَةِ",
+      "tr": "raʾīsu l-ḥukūma",
+      "nl": [
+        "regeringsleider, premier"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l117-w06",
+      "ar": "مُظاهَرَةٌ",
+      "tr": "muẓāhara",
+      "nl": [
+        "demonstratie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w07",
+      "ar": "اِتِّفاقِيَّةٌ",
+      "tr": "ittifāqiyya",
+      "nl": [
+        "overeenkomst, akkoord"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w08",
+      "ar": "قِمَّةٌ",
+      "tr": "qimma",
+      "nl": [
+        "top(conferentie)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w09",
+      "ar": "زِيارَةٌ رَسْمِيَّةٌ",
+      "tr": "ziyāratun rasmiyya",
+      "nl": [
+        "staatsbezoek, officieel bezoek"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l117-w10",
+      "ar": "حادِثُ سَيْرٍ",
+      "tr": "ḥādiṯu sayr",
+      "nl": [
+        "verkeersongeluk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l117-w11",
+      "ar": "مَصْرَعٌ",
+      "tr": "maṣraʿ",
+      "nl": [
+        "dood (bij een ongeluk)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w12",
+      "ar": "إِصابَةٌ",
+      "tr": "iṣāba",
+      "nl": [
+        "verwonding"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l117-w13",
+      "ar": "أَسْفَرَ عَنْ",
+      "tr": "asfara ʿan",
+      "nl": [
+        "resulteren in"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j3-p10-l117-w14",
+      "ar": "المُنْتَخَبُ الوَطَنِيُّ",
+      "tr": "al-muntaḫabu l-waṭaniyy",
+      "nl": [
+        "het nationale elftal"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l117-w15",
+      "ar": "تَدْشينٌ",
+      "tr": "tadšīn",
+      "nl": [
+        "inhuldiging, opening"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p10-l117-w16",
+      "ar": "اِسْتَقالَ",
+      "tr": "istaqāla",
+      "nl": [
+        "aftreden, ontslag nemen"
+      ],
+      "soort": "werkwoord (X, hol)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De taal van krantenkoppen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Type kop",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "maṣdar (zonder werkwoord)",
+              "اِفْتِتاحُ مِهْرَجانِ فاسَ",
+              "Opening van het festival van Fès"
+            ],
+            [
+              "naamwoord + muḍāriʿ",
+              "المُنْتَخَبُ الوَطَنِيُّ يَفوزُ عَلى مِصْرَ",
+              "Nationaal elftal wint van Egypte"
+            ],
+            [
+              "naamwoord + lijdend deelwoord",
+              "مَصْرَعُ ثَلاثَةِ أَشْخاصٍ في حادِثِ سَيْرٍ",
+              "Drie doden bij verkeersongeluk"
+            ],
+            [
+              "naamwoord + سَـ",
+              "رَئيسُ الحُكومَةِ سَيَزورُ الصّينَ",
+              "Premier gaat China bezoeken"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Koppen moeten kort en direct zijn. Daarom: **geen lidwoord-zinnen met kāna**, een **maṣdar** in plaats van een werkwoord, en de **tegenwoordige tijd** voor wat gisteren gebeurde (zoals in het Nederlands: *Ajax wint*). Het onderwerp staat vooraan, omdat de lezer meteen moet zien **waarover** het gaat."
+        },
+        {
+          "type": "letop",
+          "md": "In de **tekst** onder de kop schakelt de krant terug naar de gewone verbale zin in de māḍī: {ar|فازَ المُنْتَخَبُ الوَطَنِيُّ أَمْسِ عَلى نَظيرِهِ المِصْرِيِّ}."
+        }
+      ]
+    },
+    {
+      "titel": "Van kop naar bericht",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عاجِلٌ: رَئيسُ الحُكومَةِ يَسْتَقيلُ",
+              "tr": "ʿājil: raʾīsu l-ḥukūmati yastaqīl",
+              "nl": "Breaking: premier treedt af"
+            },
+            {
+              "ar": "قَدَّمَ رَئيسُ الحُكومَةِ اِسْتِقالَتَهُ صَباحَ اليَوْمِ.",
+              "tr": "qaddama raʾīsu l-ḥukūmati stiqālatahu ṣabāḥa l-yawm.",
+              "nl": "De premier heeft vanochtend zijn ontslag ingediend."
+            },
+            {
+              "ar": "تَوْقيعُ اتِّفاقِيَّةٍ تِجارِيَّةٍ بَيْنَ المَغْرِبِ وَهولَنْدا",
+              "tr": "tawqīʿu ttifāqiyyatin tijāriyyatin bayna l-maġribi wa-hūlandā",
+              "nl": "Handelsakkoord tussen Marokko en Nederland ondertekend"
+            },
+            {
+              "ar": "أَسْفَرَ الحادِثُ عَنْ مَصْرَعِ شَخْصَيْنِ وَإِصابَةِ خَمْسَةٍ آخَرينَ.",
+              "tr": "asfara l-ḥādiṯu ʿan maṣraʿi šaḫṣayni wa-iṣābati ḫamsatin āḫarīn.",
+              "nl": "Het ongeluk kostte twee mensen het leven en vijf anderen raakten gewond."
+            },
+            {
+              "ar": "آلافُ المُتَظاهِرينَ في شَوارِعِ الرِّباطِ",
+              "tr": "ālāfu l-mutaẓāhirīna fī šawāriʿi r-ribāṭ",
+              "nl": "Duizenden demonstranten in de straten van Rabat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِنْتِخاباتٌ",
+              "nl": "verkiezingen",
+              "woord": "j3-p10-l117-w03"
+            },
+            {
+              "ar": "بَرْلَمانٌ",
+              "nl": "parlement",
+              "woord": "j3-p10-l117-w04"
+            },
+            {
+              "ar": "مُظاهَرَةٌ",
+              "nl": "demonstratie",
+              "woord": "j3-p10-l117-w06"
+            },
+            {
+              "ar": "اِتِّفاقِيَّةٌ",
+              "nl": "akkoord",
+              "woord": "j3-p10-l117-w07"
+            },
+            {
+              "ar": "قِمَّةٌ",
+              "nl": "topconferentie",
+              "woord": "j3-p10-l117-w08"
+            },
+            {
+              "ar": "إِصابَةٌ",
+              "nl": "verwonding",
+              "woord": "j3-p10-l117-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "krantenstijl",
+          "tekst": "المُنْتَخَبُ الوَطَنِيُّ يَفوزُ عَلى مِصْرَ",
+          "vraag": "Wat is het nieuws?",
+          "opties": [
+            "Het nationale elftal heeft van Egypte gewonnen.",
+            "Egypte heeft gewonnen.",
+            "De wedstrijd is uitgesteld."
+          ],
+          "juist": 0,
+          "uitleg": "Kop in de muḍāriʿ."
+        }
+      ]
+    },
+    {
+      "titel": "Koppen lezen en maken",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "krantenstijl",
+          "vraag": "Waarom staat {ar|يَفوزُ} (muḍāriʿ) in een kop over een wedstrijd van gisteren?",
+          "opties": [
+            "koppen gebruiken de tegenwoordige tijd voor directheid",
+            "de wedstrijd moet nog komen",
+            "het is een fout"
+          ],
+          "juist": 0,
+          "uitleg": "Net als in het Nederlands."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "krantenstijl",
+          "vraag": "Welke kop gebruikt een maṣdar?",
+          "opties": [
+            "تَدْشينُ مُسْتَشْفى جَديدٍ في فاسَ",
+            "الوَزيرُ يَزورُ فاسَ",
+            "فاسُ تَسْتَقْبِلُ الوَزيرَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَدْشينُ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "krantenstijl",
+          "zin": "___ الحُكومَةِ يَسْتَقيلُ",
+          "nl": "Premier treedt af",
+          "antwoord": [
+            "رَئيسُ"
+          ],
+          "uitleg": "Onderwerp vooraan, nominatief.",
+          "woordbank": [
+            "رَئيسُ",
+            "رَئيسَ",
+            "رَئيسِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "vervoegen",
+          "tag": "krantenstijl",
+          "instructie": "Maak van de zin een maṣdar-kop.",
+          "rijen": [
+            {
+              "label": "وَقَّعَ البَلَدانِ اتِّفاقِيَّةً",
+              "antwoord": "تَوْقيعُ اتِّفاقِيَّةٍ",
+              "tr": "tawqīʿu ttifāqiyyatin"
+            },
+            {
+              "label": "اِفْتَتَحَ الوَزيرُ المَعْرِضَ",
+              "antwoord": "اِفْتِتاحُ المَعْرِضِ",
+              "tr": "iftitāḥu l-maʿraḍi"
+            }
+          ],
+          "uitleg": "Maṣdar + genitief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "krantenstijl",
+          "vraag": "{ar|أَسْفَرَ الحادِثُ عَنْ إِصابَةِ خَمْسَةِ أَشْخاصٍ} betekent ...",
+          "opties": [
+            "Bij het ongeluk raakten vijf mensen gewond.",
+            "Vijf mensen veroorzaakten het ongeluk.",
+            "Vijf mensen kwamen om."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَسْفَرَ عَنْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "krantenstijl",
+          "nl": "Het ongeluk kostte twee mensen het leven.",
+          "woorden": [
+            "أَسْفَرَ",
+            "الحادِثُ",
+            "عَنْ",
+            "مَصْرَعِ",
+            "شَخْصَيْنِ."
+          ],
+          "uitleg": "{ar|أَسْفَرَ عَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de verkiezingen",
+          "antwoorden": [
+            "الاِنْتِخاباتُ",
+            "الانتخابات"
+          ],
+          "uitleg": "{ar|الاِنْتِخاباتُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "krantenstijl",
+          "bron": "آلافُ المُتَظاهِرينَ في شَوارِعِ الرِّباطِ",
+          "antwoorden": [
+            "duizenden demonstranten in de straten van rabat"
+          ],
+          "uitleg": "Kop zonder werkwoord."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عاجِلٌ",
+            "nl": "breaking"
+          },
+          {
+            "ar": "حادِثُ سَيْرٍ",
+            "nl": "verkeersongeluk"
+          },
+          {
+            "ar": "تَدْشينٌ",
+            "nl": "inhuldiging"
+          },
+          {
+            "ar": "اِسْتَقالَ",
+            "nl": "aftreden"
+          },
+          {
+            "ar": "زِيارَةٌ رَسْمِيَّةٌ",
+            "nl": "staatsbezoek"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "krantenstijl",
+        "vraag": "Welke kop betekent 'Premier bezoekt Nederland'?",
+        "opties": [
+          "رَئيسُ الحُكومَةِ يَزورُ هولَنْدا",
+          "زارَ هولَنْدا رَئيسُ الحُكومَةِ",
+          "زِيارَةٌ هولَنْدا رَئيسَ"
+        ],
+        "juist": 0,
+        "uitleg": "Naamwoord + muḍāriʿ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "krantenstijl",
+        "vraag": "In de tekst onder de kop gebruikt de krant meestal ...",
+        "opties": [
+          "een verbale zin in de māḍī",
+          "alleen maṣdars",
+          "de gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "Gewone verteltijd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|المُنْتَخَبُ الوَطَنِيُّ} is ...",
+        "opties": [
+          "het nationale elftal",
+          "de nationale verkiezing",
+          "de nationale feestdag"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُنْتَخَبٌ} = gekozen (team)."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "krantenstijl",
+        "vraag": "{ar|مَصْرَعُ ثَلاثَةِ أَشْخاصٍ} betekent ...",
+        "opties": [
+          "drie doden",
+          "drie gewonden",
+          "drie arrestaties"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَصْرَعٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "krantenstijl",
+        "tekst": "عاجِلٌ: اِسْتِقالَةُ وَزيرِ الصِّحَّةِ",
+        "vraag": "Wat is het nieuws?",
+        "opties": [
+          "De minister van gezondheid is afgetreden.",
+          "Er is een nieuwe minister.",
+          "De minister is ziek."
+        ],
+        "juist": 0,
+        "uitleg": "Maṣdar-kop."
+      },
+      {
+        "type": "luisteren",
+        "tag": "krantenstijl",
+        "tekst": "تَوْقيعُ اتِّفاقِيَّةٍ بَيْنَ البَلَدَيْنِ",
+        "vraag": "Wat gebeurde er?",
+        "opties": [
+          "Er werd een akkoord getekend.",
+          "Er was een conflict.",
+          "Er waren verkiezingen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَوْقيعُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "krantenstijl",
+        "zin": "___ مُسْتَشْفى جَديدٍ في طَنْجَةَ",
+        "nl": "Opening van een nieuw ziekenhuis in Tanger",
+        "antwoord": [
+          "تَدْشينُ"
+        ],
+        "uitleg": "Maṣdar-kop.",
+        "woordbank": [
+          "تَدْشينُ",
+          "يُدَشِّنُ",
+          "مُدَشَّنٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "krantenstijl",
+        "zin": "أَسْفَرَ الحادِثُ ___ إِصابَةِ ثَلاثَةِ أَشْخاصٍ.",
+        "nl": "Bij het ongeluk raakten drie mensen gewond.",
+        "antwoord": [
+          "عَنْ"
+        ],
+        "uitleg": "{ar|أَسْفَرَ عَنْ}",
+        "woordbank": [
+          "عَنْ",
+          "إِلى",
+          "عَلى"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "سَتُجْرى ___ في شَهْرِ سِبْتَمْبِرَ.",
+        "nl": "De verkiezingen worden in september gehouden.",
+        "antwoord": [
+          "الاِنْتِخاباتُ"
+        ],
+        "uitleg": "{ar|اِنْتِخاباتٌ}",
+        "woordbank": [
+          "الاِنْتِخاباتُ",
+          "المُظاهَرَةُ",
+          "القِمَّةُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "krantenstijl",
+        "instructie": "Maak een maṣdar-kop.",
+        "rijen": [
+          {
+            "label": "اِسْتَقالَ الوَزيرُ",
+            "antwoord": "اِسْتِقالَةُ الوَزيرِ",
+            "tr": "istiqālatu l-wazīri"
+          }
+        ],
+        "uitleg": "Maṣdar + genitief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "krantenstijl",
+        "nl": "Nationaal elftal wint van Egypte",
+        "woorden": [
+          "المُنْتَخَبُ",
+          "الوَطَنِيُّ",
+          "يَفوزُ",
+          "عَلى",
+          "مِصْرَ"
+        ],
+        "uitleg": "Kop."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het parlement",
+        "antwoorden": [
+          "البَرْلَمانُ",
+          "البرلمان"
+        ],
+        "uitleg": "{ar|البَرْلَمانُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "krantenstijl",
+        "bron": "رَئيسُ الحُكومَةِ سَيَزورُ الصّينَ",
+        "antwoorden": [
+          "premier gaat china bezoeken",
+          "de premier zal china bezoeken",
+          "premier bezoekt binnenkort china"
+        ],
+        "uitleg": "Kop met {ar|سَـ}."
+      }
+    ]
+  }
+}

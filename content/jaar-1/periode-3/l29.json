@@ -1,0 +1,851 @@
+{
+  "id": "j1-p3-l29",
+  "code": "L29",
+  "type": "les",
+  "titel": "Het lichaam",
+  "thema": "Lichaamsdelen benoemen en zeggen waar het pijn doet",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de belangrijkste lichaamsdelen noemen.",
+    "de dualis van zelfstandige naamwoorden vormen: ـانِ / ـَيْنِ.",
+    "een bijvoeglijk naamwoord bij een dualis laten congrueren.",
+    "zeggen waar het pijn doet met ... يُؤْلِمُني / تُؤْلِمُني."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p3-l29-w01",
+      "ar": "جِسْمٌ",
+      "tr": "jism",
+      "nl": [
+        "lichaam"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w02",
+      "ar": "رَأْسٌ",
+      "tr": "raʾs",
+      "nl": [
+        "hoofd"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w03",
+      "ar": "وَجْهٌ",
+      "tr": "wajh",
+      "nl": [
+        "gezicht"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w04",
+      "ar": "عَيْنٌ",
+      "tr": "ʿayn",
+      "nl": [
+        "oog"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk zonder ة."
+    },
+    {
+      "id": "j1-p3-l29-w05",
+      "ar": "أُذُنٌ",
+      "tr": "uḏun",
+      "nl": [
+        "oor"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk zonder ة."
+    },
+    {
+      "id": "j1-p3-l29-w06",
+      "ar": "أَنْفٌ",
+      "tr": "anf",
+      "nl": [
+        "neus"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w07",
+      "ar": "فَمٌ",
+      "tr": "fam",
+      "nl": [
+        "mond"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w08",
+      "ar": "سِنٌّ",
+      "tr": "sinn",
+      "nl": [
+        "tand"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَسْنانٌ}."
+    },
+    {
+      "id": "j1-p3-l29-w09",
+      "ar": "شَعْرٌ",
+      "tr": "šaʿr",
+      "nl": [
+        "haar (op het hoofd)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w10",
+      "ar": "رَقَبَةٌ",
+      "tr": "raqaba",
+      "nl": [
+        "nek",
+        "hals"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w11",
+      "ar": "كَتِفٌ",
+      "tr": "katif",
+      "nl": [
+        "schouder"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w12",
+      "ar": "يَدٌ",
+      "tr": "yad",
+      "nl": [
+        "hand"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk zonder ة."
+    },
+    {
+      "id": "j1-p3-l29-w13",
+      "ar": "ذِراعٌ",
+      "tr": "ḏirāʿ",
+      "nl": [
+        "arm"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meestal vrouwelijk.",
+      "review": {
+        "status": "onzeker",
+        "note": "Geslacht van ذِراع: meestal vrouwelijk, soms mannelijk. Bevestigen welke vorm we aanleren."
+      }
+    },
+    {
+      "id": "j1-p3-l29-w14",
+      "ar": "إِصْبَعٌ",
+      "tr": "iṣbaʿ",
+      "nl": [
+        "vinger"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w15",
+      "ar": "صَدْرٌ",
+      "tr": "ṣadr",
+      "nl": [
+        "borst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w16",
+      "ar": "بَطْنٌ",
+      "tr": "baṭn",
+      "nl": [
+        "buik"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w17",
+      "ar": "ظَهْرٌ",
+      "tr": "ẓahr",
+      "nl": [
+        "rug"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w18",
+      "ar": "رِجْلٌ",
+      "tr": "rijl",
+      "nl": [
+        "been",
+        "voet"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Vrouwelijk zonder ة."
+    },
+    {
+      "id": "j1-p3-l29-w19",
+      "ar": "رُكْبَةٌ",
+      "tr": "rukba",
+      "nl": [
+        "knie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w20",
+      "ar": "قَلْبٌ",
+      "tr": "qalb",
+      "nl": [
+        "hart"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w21",
+      "ar": "أَلَمٌ",
+      "tr": "alam",
+      "nl": [
+        "pijn"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p3-l29-w22",
+      "ar": "يُؤْلِمُني",
+      "tr": "yuʾlimunī",
+      "nl": [
+        "het doet me pijn (m)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Bij een vrouwelijk lichaamsdeel: {ar|تُؤْلِمُني}."
+    },
+    {
+      "id": "j1-p3-l29-w23",
+      "ar": "عَيْنانِ",
+      "tr": "ʿaynān",
+      "nl": [
+        "twee ogen",
+        "(de) ogen"
+      ],
+      "soort": "dualis"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De dualis: precies twee",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Voor **precies twee** heeft het Arabisch een aparte vorm: de **dualis**. Je plakt **ـانِ** aan het enkelvoud: {ar|كِتابٌ} → {ar|كِتابانِ} (*twee boeken*). Een apart getal *twee* is niet nodig.",
+            "Bij een woord met ة wordt de ة een ت: {ar|رُكْبَةٌ} → {ar|رُكْبَتانِ} (*twee knieën*).",
+            "Na een voorzetsel, als lijdend voorwerp, en als tweede woord van een iḍāfa wordt ـانِ → **ـَيْنِ**: {ar|بِعَيْنَيْنِ} (*met twee ogen*)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Enkelvoud",
+            "Dualis (onderwerp)",
+            "Dualis (na voorzetsel / l.v.)"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "عَيْنٌ|ʿayn",
+              "عَيْنانِ|ʿaynāni",
+              "عَيْنَيْنِ|ʿaynayni"
+            ],
+            [
+              "يَدٌ|yad",
+              "يَدانِ|yadāni",
+              "يَدَيْنِ|yadayni"
+            ],
+            [
+              "أُذُنٌ|uḏun",
+              "أُذُنانِ|uḏunāni",
+              "أُذُنَيْنِ|uḏunayni"
+            ],
+            [
+              "رُكْبَةٌ|rukba",
+              "رُكْبَتانِ|rukbatāni",
+              "رُكْبَتَيْنِ|rukbatayni"
+            ],
+            [
+              "كِتابٌ|kitāb",
+              "كِتابانِ|kitābāni",
+              "كِتابَيْنِ|kitābayni"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Je kent de dualis al uit {ar|اِثْنانِ} (twee), {ar|والِدانِ} (ouders), {ar|أُخْتانِ} (twee zussen) en {ar|هُما}. Voor lichaamsdelen die in paren voorkomen is hij heel gewoon. In les 40 komt ook het werkwoord in de dualis aan bod."
+        }
+      ]
+    },
+    {
+      "titel": "Bijvoeglijk naamwoord bij een dualis",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Het bijvoeglijk naamwoord krijgt ook de dualis-uitgang en volgt het geslacht: {ar|عَيْنانِ جَميلَتانِ} (*twee mooie ogen*), {ar|كِتابانِ جَديدانِ} (*twee nieuwe boeken*)."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لِلْبِنْتِ عَيْنانِ زَرْقاوانِ.",
+              "tr": "li-l-binti ʿaynāni zarqāwān.",
+              "nl": "Het meisje heeft blauwe ogen.",
+              "review": {
+                "status": "onzeker",
+                "note": "Dualis van kleur زَرْقاءُ → زَرْقاوانِ: correct maar zeldzaam; controleren of dit hier niet te moeilijk is."
+              }
+            },
+            {
+              "ar": "عِنْدي كِتابانِ جَديدانِ.",
+              "tr": "ʿindī kitābāni jadīdān.",
+              "nl": "Ik heb twee nieuwe boeken."
+            },
+            {
+              "ar": "أَكْتُبُ بِيَدَيْنِ.",
+              "tr": "aktubu bi-yadayn.",
+              "nl": "Ik schrijf met twee handen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Waar doet het pijn?",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "*Mijn hoofd doet pijn* zeg je met {ar|يُؤْلِمُني} (*het doet mij pijn*). Het lichaamsdeel is het onderwerp: {ar|رَأْسي يُؤْلِمُني}, of als verbale zin {ar|يُؤْلِمُني رَأْسي}.",
+            "Bij een **vrouwelijk** lichaamsdeel ({ar|يَدٌ}, {ar|رِجْلٌ}, {ar|عَيْنٌ}, {ar|أُذُنٌ}) wordt het {ar|تُؤْلِمُني}: {ar|رِجْلي تُؤْلِمُني}."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "ظَهْري يُؤْلِمُني.",
+              "tr": "ẓahrī yuʾlimunī.",
+              "nl": "Mijn rug doet pijn."
+            },
+            {
+              "ar": "يَدي تُؤْلِمُني.",
+              "tr": "yadī tuʾlimunī.",
+              "nl": "Mijn hand doet pijn."
+            },
+            {
+              "ar": "عِنْدي أَلَمٌ في بَطْني.",
+              "tr": "ʿindī alamun fī baṭnī.",
+              "nl": "Ik heb pijn in mijn buik."
+            },
+            {
+              "ar": "أَيْنَ الأَلَمُ؟ — في رُكْبَتي.",
+              "tr": "ayna l-alam? — fī rukbatī.",
+              "nl": "Waar zit de pijn? — In mijn knie."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Een alternatief dat altijd werkt: {ar|عِنْدي أَلَمٌ في ...} (*ik heb pijn in ...*)."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Lichaamsdelen",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رَأْسٌ",
+              "nl": "hoofd",
+              "woord": "j1-p3-l29-w02"
+            },
+            {
+              "ar": "عَيْنٌ",
+              "nl": "oog",
+              "woord": "j1-p3-l29-w04"
+            },
+            {
+              "ar": "أُذُنٌ",
+              "nl": "oor",
+              "woord": "j1-p3-l29-w05"
+            },
+            {
+              "ar": "أَنْفٌ",
+              "nl": "neus",
+              "woord": "j1-p3-l29-w06"
+            },
+            {
+              "ar": "فَمٌ",
+              "nl": "mond",
+              "woord": "j1-p3-l29-w07"
+            },
+            {
+              "ar": "يَدٌ",
+              "nl": "hand",
+              "woord": "j1-p3-l29-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "ظَهْرٌ",
+              "nl": "rug",
+              "woord": "j1-p3-l29-w17"
+            },
+            {
+              "ar": "بَطْنٌ",
+              "nl": "buik",
+              "woord": "j1-p3-l29-w16"
+            },
+            {
+              "ar": "رُكْبَةٌ",
+              "nl": "knie",
+              "woord": "j1-p3-l29-w19"
+            },
+            {
+              "ar": "قَلْبٌ",
+              "nl": "hart",
+              "woord": "j1-p3-l29-w20"
+            },
+            {
+              "ar": "كَتِفٌ",
+              "nl": "schouder",
+              "woord": "j1-p3-l29-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "uitspraak",
+          "tekst": "رَأْسي يُؤْلِمُني",
+          "vraag": "Wat doet pijn?",
+          "opties": [
+            "het hoofd",
+            "de rug",
+            "de buik",
+            "de knie"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|رَأْسي} = mijn hoofd."
+        }
+      ]
+    },
+    {
+      "titel": "De dualis",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "dualis-naamwoord",
+          "instructie": "Maak de dualis (onderwerpsvorm, ـانِ).",
+          "rijen": [
+            {
+              "label": "يَدٌ → twee handen",
+              "antwoord": "يَدانِ",
+              "tr": "yadāni"
+            },
+            {
+              "label": "أُذُنٌ → twee oren",
+              "antwoord": "أُذُنانِ",
+              "tr": "uḏunāni"
+            },
+            {
+              "label": "رُكْبَةٌ → twee knieën",
+              "antwoord": "رُكْبَتانِ",
+              "tr": "rukbatāni"
+            },
+            {
+              "label": "كِتابٌ → twee boeken",
+              "antwoord": "كِتابانِ",
+              "tr": "kitābāni"
+            }
+          ],
+          "uitleg": "+ ـانِ; ة wordt ت."
+        },
+        {
+          "type": "invullen",
+          "tag": "dualis-naamwoord",
+          "zin": "أَكْتُبُ بِـ___.",
+          "nl": "Ik schrijf met twee handen.",
+          "woordbank": [
+            "يَدَيْنِ",
+            "يَدانِ",
+            "يَدٍ"
+          ],
+          "antwoord": [
+            "يَدَيْنِ"
+          ],
+          "uitleg": "Na een voorzetsel: ـَيْنِ."
+        },
+        {
+          "type": "invullen",
+          "tag": "dualis-naamwoord",
+          "zin": "عِنْدي ___ جَديدانِ.",
+          "nl": "Ik heb twee nieuwe boeken.",
+          "woordbank": [
+            "كِتابانِ",
+            "كِتابَيْنِ",
+            "كُتُبٌ"
+          ],
+          "antwoord": [
+            "كِتابانِ"
+          ],
+          "uitleg": "Onderwerp na {ar|عِنْدي}: ـانِ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "dualis-naamwoord",
+          "vraag": "Wat betekent {ar|طالِبَتانِ}?",
+          "opties": [
+            "twee studentes",
+            "studentes (veel)",
+            "twee studenten (m)"
+          ],
+          "juist": 0,
+          "uitleg": "ة → ت + ـانِ."
+        },
+        {
+          "type": "luisteren",
+          "tag": "dualis-naamwoord",
+          "tekst": "عِنْدي أُذُنانِ وَعَيْنانِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb twee oren en twee ogen.",
+            "Ik heb één oor en één oog.",
+            "Ik heb oren en een neus."
+          ],
+          "juist": 0,
+          "uitleg": "Twee keer de dualis ـانِ."
+        }
+      ]
+    },
+    {
+      "titel": "Bij de dokter",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "pijn",
+          "zin": "رِجْلي ___.",
+          "nl": "Mijn been doet pijn.",
+          "woordbank": [
+            "تُؤْلِمُني",
+            "يُؤْلِمُني"
+          ],
+          "antwoord": [
+            "تُؤْلِمُني"
+          ],
+          "uitleg": "{ar|رِجْلٌ} is vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "pijn",
+          "zin": "ظَهْري ___.",
+          "nl": "Mijn rug doet pijn.",
+          "woordbank": [
+            "يُؤْلِمُني",
+            "تُؤْلِمُني"
+          ],
+          "antwoord": [
+            "يُؤْلِمُني"
+          ],
+          "uitleg": "{ar|ظَهْرٌ} is mannelijk."
+        },
+        {
+          "type": "ordenen",
+          "tag": "pijn",
+          "nl": "Ik heb pijn in mijn buik.",
+          "woorden": [
+            "عِنْدي",
+            "أَلَمٌ",
+            "في",
+            "بَطْني."
+          ],
+          "uitleg": "{ar|عِنْدي أَلَمٌ في ...}"
+        },
+        {
+          "type": "ordenen",
+          "tag": "pijn",
+          "nl": "Waar zit de pijn? In mijn knie.",
+          "woorden": [
+            "أَيْنَ",
+            "الأَلَمُ؟",
+            "في",
+            "رُكْبَتي."
+          ],
+          "uitleg": "ة → ت in {ar|رُكْبَتي}."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dualis-naamwoord",
+          "bron": "twee ogen",
+          "antwoorden": [
+            "عَيْنانِ"
+          ],
+          "uitleg": "{ar|عَيْنانِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "pijn",
+          "bron": "Mijn hoofd doet pijn.",
+          "antwoorden": [
+            "رَأْسي يُؤْلِمُني",
+            "يُؤْلِمُني رَأْسي"
+          ],
+          "uitleg": "{ar|رَأْسي يُؤْلِمُني}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "dualis-naamwoord",
+          "bron": "عِنْدَهُ أُخْتانِ.",
+          "antwoorden": [
+            "hij heeft twee zussen"
+          ],
+          "uitleg": "Dualis van {ar|أُخْتٌ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "pijn",
+          "bron": "عَيْني تُؤْلِمُني.",
+          "antwoorden": [
+            "mijn oog doet pijn"
+          ],
+          "uitleg": "{ar|عَيْنٌ} is vrouwelijk."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "شَعْرُها طَويلٌ.",
+          "antwoorden": [
+            "haar haar is lang",
+            "zij heeft lang haar"
+          ],
+          "uitleg": "{ar|شَعْرُها} = haar haar."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "وَجْهٌ",
+            "nl": "gezicht"
+          },
+          {
+            "ar": "إِصْبَعٌ",
+            "nl": "vinger"
+          },
+          {
+            "ar": "رَقَبَةٌ",
+            "nl": "nek"
+          },
+          {
+            "ar": "سِنٌّ",
+            "nl": "tand"
+          },
+          {
+            "ar": "أَلَمٌ",
+            "nl": "pijn"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-naamwoord",
+        "vraag": "'Twee handen' (onderwerp) is ...",
+        "opties": [
+          "يَدانِ",
+          "يَدَيْنِ",
+          "أَيْدٍ"
+        ],
+        "juist": 0,
+        "uitleg": "ـانِ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-naamwoord",
+        "vraag": "Welke vorm na een voorzetsel?",
+        "opties": [
+          "في عَيْنَيْنِ",
+          "في عَيْنانِ",
+          "في عَيْنٌ"
+        ],
+        "juist": 0,
+        "uitleg": "ـَيْنِ"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "pijn",
+        "vraag": "'Mijn hand doet pijn' is ...",
+        "opties": [
+          "يَدي تُؤْلِمُني.",
+          "يَدي يُؤْلِمُني.",
+          "يَدي أَلَمٌ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَدٌ} is vrouwelijk."
+      },
+      {
+        "type": "luisteren",
+        "tag": "uitspraak",
+        "tekst": "عِنْدي أَلَمٌ في ظَهْري",
+        "vraag": "Waar heeft de spreker pijn?",
+        "opties": [
+          "in de rug",
+          "in de buik",
+          "in het hoofd"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ظَهْري} = mijn rug."
+      },
+      {
+        "type": "luisteren",
+        "tag": "dualis-naamwoord",
+        "tekst": "طالِبَتانِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "twee studentes",
+          "een studente",
+          "veel studentes"
+        ],
+        "juist": 0,
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "invullen",
+        "tag": "dualis-naamwoord",
+        "zin": "لِلطِّفْلِ ___ صَغيرَتانِ.",
+        "nl": "Het kind heeft twee kleine handen.",
+        "woordbank": [
+          "يَدانِ",
+          "يَدَيْنِ",
+          "يَدٌ"
+        ],
+        "antwoord": [
+          "يَدانِ"
+        ],
+        "uitleg": "Onderwerp: ـانِ."
+      },
+      {
+        "type": "invullen",
+        "tag": "pijn",
+        "zin": "بَطْني ___.",
+        "nl": "Mijn buik doet pijn.",
+        "antwoord": [
+          "يُؤْلِمُني"
+        ],
+        "uitleg": "{ar|بَطْنٌ} is mannelijk."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "dualis-naamwoord",
+        "instructie": "Maak de dualis (onderwerpsvorm).",
+        "rijen": [
+          {
+            "label": "عَيْنٌ → twee ogen",
+            "antwoord": "عَيْنانِ",
+            "tr": "ʿaynāni"
+          },
+          {
+            "label": "سَيّارَةٌ → twee auto's",
+            "antwoord": "سَيّارَتانِ",
+            "tr": "sayyāratāni"
+          }
+        ],
+        "uitleg": "+ ـانِ; ة → ت."
+      },
+      {
+        "type": "ordenen",
+        "tag": "pijn",
+        "nl": "Mijn rug doet pijn.",
+        "woorden": [
+          "ظَهْري",
+          "يُؤْلِمُني."
+        ],
+        "uitleg": "Onderwerp + {ar|يُؤْلِمُني}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dualis-naamwoord",
+        "bron": "twee oren",
+        "antwoorden": [
+          "أُذُنانِ"
+        ],
+        "uitleg": "{ar|أُذُنانِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "pijn",
+        "bron": "Ik heb pijn in mijn knie.",
+        "antwoorden": [
+          "عِنْدي أَلَمٌ في رُكْبَتي"
+        ],
+        "uitleg": "{ar|عِنْدي أَلَمٌ في رُكْبَتي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "dualis-naamwoord",
+        "bron": "كِتابانِ",
+        "antwoorden": [
+          "twee boeken"
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "pijn",
+        "bron": "قَلْبي يُؤْلِمُني.",
+        "antwoorden": [
+          "mijn hart doet pijn"
+        ],
+        "uitleg": "{ar|قَلْبي} = mijn hart."
+      }
+    ]
+  }
+}

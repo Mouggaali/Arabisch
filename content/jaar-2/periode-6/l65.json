@@ -1,0 +1,691 @@
+{
+  "id": "j2-p6-l65",
+  "code": "L65",
+  "type": "les",
+  "titel": "Meningen",
+  "thema": "Je mening geven, hopen en twijfelen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de 'zusters van inna' gebruiken: إِنَّ، أَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ، كَأَنَّ.",
+    "het onderwerp na deze partikels in de accusatief zetten.",
+    "suffixen aan deze partikels hechten (إِنَّهُ، أَنَّني، لَعَلَّكَ).",
+    "een mening geven met أَعْتَقِدُ أَنَّ / أَظُنُّ أَنَّ."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l65-w01",
+      "ar": "إِنَّ",
+      "tr": "inna",
+      "nl": [
+        "voorwaar",
+        "echt (nadruk)"
+      ],
+      "soort": "partikel",
+      "notitie": "Aan het begin van een zin; vaak niet vertaald."
+    },
+    {
+      "id": "j2-p6-l65-w02",
+      "ar": "أَنَّ",
+      "tr": "anna",
+      "nl": [
+        "dat (+ zin)"
+      ],
+      "soort": "partikel",
+      "notitie": "{ar|أَعْرِفُ أَنَّ …} = ik weet dat …"
+    },
+    {
+      "id": "j2-p6-l65-w03",
+      "ar": "لَيْتَ",
+      "tr": "layta",
+      "nl": [
+        "was het maar zo dat",
+        "had ik maar"
+      ],
+      "soort": "partikel",
+      "notitie": "{ar|لَيْتَني …} = had ik maar …"
+    },
+    {
+      "id": "j2-p6-l65-w04",
+      "ar": "لَعَلَّ",
+      "tr": "laʿalla",
+      "nl": [
+        "misschien",
+        "hopelijk"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j2-p6-l65-w05",
+      "ar": "كَأَنَّ",
+      "tr": "kaʾanna",
+      "nl": [
+        "alsof"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j2-p6-l65-w06",
+      "ar": "رَأْيٌ",
+      "tr": "raʾy",
+      "nl": [
+        "mening"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|آراءٌ}. {ar|في رَأْيي} = naar mijn mening."
+    },
+    {
+      "id": "j2-p6-l65-w07",
+      "ar": "اِعْتَقَدَ",
+      "tr": "iʿtaqada",
+      "nl": [
+        "geloven",
+        "menen"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "{ar|أَعْتَقِدُ أَنَّ} = ik denk dat."
+    },
+    {
+      "id": "j2-p6-l65-w08",
+      "ar": "ظَنَّ",
+      "tr": "ẓanna",
+      "nl": [
+        "denken",
+        "vermoeden"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Verdubbeld; {ar|أَظُنُّ أَنَّ} = ik denk dat."
+    },
+    {
+      "id": "j2-p6-l65-w10",
+      "ar": "وافَقَ عَلى",
+      "tr": "wāfaqa ʿalā",
+      "nl": [
+        "het eens zijn met",
+        "instemmen met"
+      ],
+      "soort": "werkwoord (III)"
+    },
+    {
+      "id": "j2-p6-l65-w11",
+      "ar": "اِخْتَلَفَ مَعَ",
+      "tr": "iḫtalafa maʿa",
+      "nl": [
+        "het oneens zijn met"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p6-l65-w13",
+      "ar": "خاطِئٌ",
+      "tr": "ḫāṭiʾ",
+      "nl": [
+        "fout",
+        "onjuist"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l65-w14",
+      "ar": "بِصَراحَةٍ",
+      "tr": "bi-ṣarāḥa",
+      "nl": [
+        "eerlijk gezegd"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p6-l65-w15",
+      "ar": "مِنَ المُمْكِنِ",
+      "tr": "mina l-mumkin",
+      "nl": [
+        "het is mogelijk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l65-w17",
+      "ar": "مَوْقِفٌ",
+      "tr": "mawqif",
+      "nl": [
+        "standpunt",
+        "situatie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l65-w18",
+      "ar": "حَقٌّ",
+      "tr": "ḥaqq",
+      "nl": [
+        "gelijk",
+        "recht"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|مَعَكَ حَقٌّ} = je hebt gelijk."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Inna en zusters",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Deze partikels staan vóór een nominale zin. Het **onderwerp** wordt dan **manṣūb** (-a), het gezegde blijft **marfūʿ** (-u). Precies het omgekeerde van {ar|كانَ}!",
+            "{ar|الطَّقْسُ جَميلٌ} → {ar|إِنَّ الطَّقْسَ جَميلٌ} (het weer is echt mooi)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Partikel",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "إِنَّ",
+              "(nadruk) voorwaar",
+              "إِنَّ اللُّغَةَ العَرَبِيَّةَ جَميلَةٌ.|inna l-luġata l-ʿarabiyyata jamīla."
+            ],
+            [
+              "أَنَّ",
+              "dat",
+              "أَعْرِفُ أَنَّ الاِمْتِحانَ صَعْبٌ.|aʿrifu anna l-imtiḥāna ṣaʿb."
+            ],
+            [
+              "لٰكِنَّ",
+              "maar",
+              "الشَّقَّةُ صَغيرَةٌ لٰكِنَّ الإيجارَ رَخيصٌ.|… lākinna l-ījāra raḫīṣ."
+            ],
+            [
+              "لَيْتَ",
+              "had … maar",
+              "لَيْتَ الصَّيْفَ طَويلٌ.|layta ṣ-ṣayfa ṭawīl."
+            ],
+            [
+              "لَعَلَّ",
+              "misschien, hopelijk",
+              "لَعَلَّ الجَوَّ جَميلٌ غَدًا.|laʿalla l-jawwa jamīlun ġadan."
+            ],
+            [
+              "كَأَنَّ",
+              "alsof",
+              "كَأَنَّ البَيْتَ قَصْرٌ.|kaʾanna l-bayta qaṣr."
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom accusatief? Het partikel 'werkt in' op het onderwerp, zoals een werkwoord op zijn lijdend voorwerp. Het gezegde wordt niet geraakt. Ezelsbrug: **kāna raakt het gezegde, inna raakt het onderwerp**."
+        },
+        {
+          "type": "letop",
+          "md": "Met een **suffix** wordt het onderwerp een voornaamwoord: {ar|إِنَّهُ}، {ar|أَنَّها}، {ar|لٰكِنَّكَ}. Bij *ik* zeg je {ar|إِنَّني} of {ar|إِنّي}. Na {ar|قالَ} gebruik je {ar|إِنَّ}, niet {ar|أَنَّ}: {ar|قالَ إِنَّهُ مَريضٌ} (les 104)."
+        }
+      ]
+    },
+    {
+      "titel": "Een mening geven",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في رَأْيي، التَّعْليمُ أَهَمُّ شَيْءٍ.",
+              "tr": "fī raʾyī, at-taʿlīmu ahammu šayʾ.",
+              "nl": "Naar mijn mening is onderwijs het belangrijkste."
+            },
+            {
+              "ar": "أَعْتَقِدُ أَنَّ هٰذِهِ الفِكْرَةَ مُمْتازَةٌ.",
+              "tr": "aʿtaqidu anna hāḏihi l-fikrata mumtāza.",
+              "nl": "Ik denk dat dit idee uitstekend is."
+            },
+            {
+              "ar": "مَعَكَ حَقٌّ، لٰكِنَّني أَخْتَلِفُ مَعَكَ في نُقْطَةٍ واحِدَةٍ.",
+              "tr": "maʿaka ḥaqq, lākinnanī aḫtalifu maʿaka fī nuqṭatin wāḥida.",
+              "nl": "Je hebt gelijk, maar op één punt ben ik het niet met je eens."
+            },
+            {
+              "ar": "لَيْتَني تَعَلَّمْتُ العَرَبِيَّةَ في طُفولَتي.",
+              "tr": "laytanī taʿallamtu l-ʿarabiyyata fī ṭufūlatī.",
+              "nl": "Had ik maar als kind Arabisch geleerd."
+            },
+            {
+              "ar": "لَعَلَّكَ مُتْعَبٌ بَعْدَ السَّفَرِ.",
+              "tr": "laʿallaka mutʿabun baʿda s-safar.",
+              "nl": "Je bent vast moe na de reis."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رَأْيٌ",
+              "nl": "mening",
+              "woord": "j2-p6-l65-w06"
+            },
+            {
+              "ar": "فِكْرَةٌ",
+              "nl": "idee"
+            },
+            {
+              "ar": "مَوْقِفٌ",
+              "nl": "standpunt",
+              "woord": "j2-p6-l65-w17"
+            },
+            {
+              "ar": "صَحيحٌ",
+              "nl": "juist"
+            },
+            {
+              "ar": "خاطِئٌ",
+              "nl": "onjuist",
+              "woord": "j2-p6-l65-w13"
+            },
+            {
+              "ar": "بِصَراحَةٍ",
+              "nl": "eerlijk gezegd",
+              "woord": "j2-p6-l65-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "inna-zusters",
+          "paren": [
+            {
+              "ar": "لَيْتَ",
+              "nl": "had … maar",
+              "woord": "j2-p6-l65-w03"
+            },
+            {
+              "ar": "لَعَلَّ",
+              "nl": "misschien",
+              "woord": "j2-p6-l65-w04"
+            },
+            {
+              "ar": "كَأَنَّ",
+              "nl": "alsof",
+              "woord": "j2-p6-l65-w05"
+            },
+            {
+              "ar": "أَنَّ",
+              "nl": "dat",
+              "woord": "j2-p6-l65-w02"
+            }
+          ],
+          "uitleg": "Zusters van inna."
+        },
+        {
+          "type": "luisteren",
+          "tag": "inna-zusters",
+          "tekst": "أَظُنُّ أَنَّ الفِكْرَةَ جَيِّدَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik denk dat het idee goed is.",
+            "Ik weet niet of het idee goed is.",
+            "Het idee is slecht."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَظُنُّ أَنَّ} = ik denk dat."
+        }
+      ]
+    },
+    {
+      "titel": "Naamvallen na inna",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "inna-zusters",
+          "zin": "إِنَّ ___ صَعْبٌ.",
+          "nl": "Het examen is echt moeilijk.",
+          "woordbank": [
+            "الاِمْتِحانَ",
+            "الاِمْتِحانُ",
+            "الاِمْتِحانِ"
+          ],
+          "antwoord": [
+            "الاِمْتِحانَ"
+          ],
+          "uitleg": "Onderwerp na {ar|إِنَّ} → -a.",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "inna-zusters",
+          "zin": "أَعْرِفُ أَنَّ المَدينَةَ ___.",
+          "nl": "Ik weet dat de stad groot is.",
+          "woordbank": [
+            "كَبيرَةٌ",
+            "كَبيرَةً",
+            "كَبيرَةٍ"
+          ],
+          "antwoord": [
+            "كَبيرَةٌ"
+          ],
+          "uitleg": "Het gezegde blijft marfūʿ.",
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "inna-zusters",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "لَعَلَّ الجَوَّ جَميلٌ.",
+            "لَعَلَّ الجَوُّ جَميلًا.",
+            "لَعَلَّ الجَوِّ جَميلٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Onderwerp -a, gezegde -u."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "inna-zusters",
+          "vraag": "Wat is het verschil tussen كانَ en إِنَّ?",
+          "opties": [
+            "كانَ maakt het gezegde -a; إِنَّ maakt het onderwerp -a.",
+            "Er is geen verschil.",
+            "Beide maken het onderwerp -a."
+          ],
+          "juist": 0,
+          "uitleg": "Spiegelbeeld."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "inna-zusters",
+          "instructie": "Plak het suffix aan إِنَّ / أَنَّ.",
+          "rijen": [
+            {
+              "label": "إِنَّ + hij",
+              "antwoord": "إِنَّهُ",
+              "tr": "innahu"
+            },
+            {
+              "label": "أَنَّ + zij",
+              "antwoord": "أَنَّها",
+              "tr": "annahā"
+            },
+            {
+              "label": "لٰكِنَّ + ik",
+              "antwoord": "لٰكِنَّني",
+              "tr": "lākinnanī"
+            }
+          ],
+          "uitleg": "Ook {ar|لٰكِنّي} is goed."
+        }
+      ]
+    },
+    {
+      "titel": "Meningen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "inna-zusters",
+          "nl": "Ik denk dat dit idee uitstekend is.",
+          "woorden": [
+            "أَعْتَقِدُ",
+            "أَنَّ",
+            "هٰذِهِ",
+            "الفِكْرَةَ",
+            "مُمْتازَةٌ."
+          ],
+          "uitleg": "{ar|أَنَّ} + accusatief + nominatief."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "مَعَكَ حَقٌّ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Je hebt gelijk.",
+            "Ik ben het niet eens.",
+            "Je bent bij mij."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَعَكَ حَقٌّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "inna-zusters",
+          "bron": "Ik weet dat hij ziek is.",
+          "antwoorden": [
+            "أَعْرِفُ أَنَّهُ مَريضٌ"
+          ],
+          "uitleg": "{ar|أَنَّهُ} + gezegde."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "inna-zusters",
+          "bron": "كَأَنَّ الوَقْتَ لا يَمُرُّ.",
+          "antwoorden": [
+            "het is alsof de tijd niet voorbijgaat",
+            "alsof de tijd niet verstrijkt",
+            "het lijkt alsof de tijd niet voorbijgaat"
+          ],
+          "uitleg": "{ar|كَأَنَّ} = alsof."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "اِعْتَقَدَ",
+            "nl": "geloven"
+          },
+          {
+            "ar": "مُتَأَكِّدٌ",
+            "nl": "zeker"
+          },
+          {
+            "ar": "وافَقَ عَلى",
+            "nl": "instemmen met"
+          },
+          {
+            "ar": "حَقٌّ",
+            "nl": "gelijk"
+          },
+          {
+            "ar": "مِنَ المُمْكِنِ",
+            "nl": "het is mogelijk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "inna-zusters",
+        "vraag": "Welke naamval krijgt het onderwerp na {ar|إِنَّ}?",
+        "opties": [
+          "manṣūb (-a)",
+          "marfūʿ (-u)",
+          "majrūr (-i)"
+        ],
+        "juist": 0,
+        "uitleg": "Inna raakt het onderwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "inna-zusters",
+        "vraag": "'Had ik maar meer tijd' begint met ...",
+        "opties": [
+          "لَيْتَ",
+          "لَعَلَّ",
+          "كَأَنَّ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْتَ} = wens die niet uitkomt."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "inna-zusters",
+        "vraag": "Welke zin is juist? ('maar de huur is duur')",
+        "opties": [
+          "لٰكِنَّ الإيجارَ غالٍ",
+          "لٰكِنَّ الإيجارُ غالٍ",
+          "لٰكِنَّ الإيجارِ غالِيًا"
+        ],
+        "juist": 0,
+        "uitleg": "Onderwerp -a na {ar|لٰكِنَّ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "inna-zusters",
+        "vraag": "'Ik denk dat jij moe bent' is ...",
+        "opties": [
+          "أَظُنُّ أَنَّكَ مُتْعَبٌ.",
+          "أَظُنُّ أَنْتَ مُتْعَبٌ.",
+          "أَظُنُّ أَنَّكَ مُتْعَبًا."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنَّ} + suffix; gezegde marfūʿ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "inna-zusters",
+        "tekst": "لَعَلَّ القِطارَ يَصِلُ قَريبًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hopelijk komt de trein snel.",
+          "De trein komt niet.",
+          "De trein is al aangekomen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَعَلَّ} = hopelijk."
+      },
+      {
+        "type": "luisteren",
+        "tag": "inna-zusters",
+        "tekst": "لَيْتَني كُنْتُ هُناكَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Was ik er maar geweest.",
+          "Ik was er.",
+          "Misschien was ik er."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْتَني} = had ik maar."
+      },
+      {
+        "type": "invullen",
+        "tag": "inna-zusters",
+        "zin": "كَأَنَّ ___ نائِمَةٌ.",
+        "nl": "Het is alsof de stad slaapt.",
+        "woordbank": [
+          "المَدينَةَ",
+          "المَدينَةُ",
+          "المَدينَةِ"
+        ],
+        "antwoord": [
+          "المَدينَةَ"
+        ],
+        "uitleg": "Onderwerp na {ar|كَأَنَّ} → -a.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "inna-zusters",
+        "zin": "أَنا مُتَأَكِّدٌ أَنَّ___ سَيَنْجَحُ.",
+        "nl": "Ik ben er zeker van dat hij gaat slagen.",
+        "woordbank": [
+          "هُ",
+          "ها",
+          "ني"
+        ],
+        "antwoord": [
+          "هُ",
+          "ه"
+        ],
+        "uitleg": "{ar|أَنَّهُ} = dat hij."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "inna-zusters",
+        "instructie": "Zet het onderwerp in de juiste naamval.",
+        "rijen": [
+          {
+            "label": "إِنَّ ___ مُفيدٌ (الدَّرْسُ)",
+            "antwoord": "الدَّرْسَ",
+            "tr": "ad-darsa",
+            "eind": true
+          },
+          {
+            "label": "كانَ ___ مُفيدًا (الدَّرْسُ)",
+            "antwoord": "الدَّرْسُ",
+            "tr": "ad-darsu",
+            "eind": true
+          }
+        ],
+        "uitleg": "Inna → onderwerp -a; kāna → onderwerp -u."
+      },
+      {
+        "type": "ordenen",
+        "tag": "inna-zusters",
+        "nl": "Had ik maar als kind Arabisch geleerd.",
+        "woorden": [
+          "لَيْتَني",
+          "تَعَلَّمْتُ",
+          "العَرَبِيَّةَ",
+          "في",
+          "طُفولَتي."
+        ],
+        "uitleg": "{ar|لَيْتَني}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "naar mijn mening",
+        "antwoorden": [
+          "في رَأْيي"
+        ],
+        "uitleg": "{ar|في رَأْيي}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "inna-zusters",
+        "bron": "إِنَّ الصِّحَّةَ أَهَمُّ مِنَ المالِ.",
+        "antwoorden": [
+          "gezondheid is belangrijker dan geld",
+          "de gezondheid is belangrijker dan geld"
+        ],
+        "uitleg": "{ar|إِنَّ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "بِصَراحَةٍ، لا أُوافِقُ عَلى هٰذا.",
+        "antwoorden": [
+          "eerlijk gezegd ben ik het hier niet mee eens",
+          "eerlijk gezegd ben ik het daar niet mee eens",
+          "eerlijk gezegd ga ik hier niet mee akkoord"
+        ],
+        "uitleg": "{ar|وافَقَ عَلى}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "id": "j3-p10-l110",
+  "code": "L110",
+  "type": "les",
+  "titel": "Gezondheidszorg",
+  "thema": "Zorgstelsel, preventie en behandeling; beperking",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over de gezondheidszorg en verzekeringen praten.",
+    "'alleen' en 'pas' uitdrukken met لا/ما … إِلّا.",
+    "إِنَّما gebruiken en de naamval erna juist kiezen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l110-w01",
+      "ar": "نِظامٌ صِحِّيٌّ",
+      "tr": "niẓāmun ṣiḥḥiyy",
+      "nl": [
+        "gezondheidszorgstelsel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l110-w02",
+      "ar": "تَأْمينٌ صِحِّيٌّ",
+      "tr": "taʾmīnun ṣiḥḥiyy",
+      "nl": [
+        "ziektekostenverzekering"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l110-w03",
+      "ar": "عِلاجٌ",
+      "tr": "ʿilāj",
+      "nl": [
+        "behandeling"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w04",
+      "ar": "وِقايَةٌ",
+      "tr": "wiqāya",
+      "nl": [
+        "preventie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w05",
+      "ar": "لَقاحٌ",
+      "tr": "laqāḥ",
+      "nl": [
+        "vaccin"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w07",
+      "ar": "قِسْمُ الطَّوارِئِ",
+      "tr": "qismu ṭ-ṭawāriʾ",
+      "nl": [
+        "spoedeisende hulp"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l110-w08",
+      "ar": "طَبيبٌ عامٌّ",
+      "tr": "ṭabībun ʿāmm",
+      "nl": [
+        "huisarts"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l110-w09",
+      "ar": "أَخِصّائِيٌّ",
+      "tr": "aḫiṣṣāʾiyy",
+      "nl": [
+        "specialist"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w10",
+      "ar": "قائِمَةُ الاِنْتِظارِ",
+      "tr": "qāʾimatu l-intiẓār",
+      "nl": [
+        "wachtlijst"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l110-w11",
+      "ar": "فَحْصٌ",
+      "tr": "faḥṣ",
+      "nl": [
+        "onderzoek, controle"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w12",
+      "ar": "مُزْمِنٌ",
+      "tr": "muzmin",
+      "nl": [
+        "chronisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w13",
+      "ar": "تَكاليفُ",
+      "tr": "takālīf",
+      "nl": [
+        "kosten"
+      ],
+      "soort": "zelfstandig naamwoord (mv, diptoot)"
+    },
+    {
+      "id": "j3-p10-l110-w14",
+      "ar": "إِنَّما",
+      "tr": "innamā",
+      "nl": [
+        "slechts, maar (eerder)"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j3-p10-l110-w15",
+      "ar": "لا … إِلّا",
+      "tr": "lā … illā",
+      "nl": [
+        "alleen, pas"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l110-w16",
+      "ar": "وَعْيٌ",
+      "tr": "waʿy",
+      "nl": [
+        "bewustzijn"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l110-w17",
+      "ar": "حالَةٌ عاجِلَةٌ",
+      "tr": "ḥālatun ʿājila",
+      "nl": [
+        "spoedgeval"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Beperking met لا/ما … إِلّا",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Een ontkenning gevolgd door {ar|إِلّا} betekent **alleen, slechts, pas**: {ar|ما رَأَيْتُ إِلّا طَبيبًا واحِدًا} = ik heb maar één arts gezien (letterlijk: ik zag niemand behalve één arts).",
+            "Het woord na {ar|إِلّا} krijgt de naamval die het **zonder de ontkenning** zou hebben: lijdend voorwerp → accusatief, onderwerp → nominatief."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Zin",
+            "Functie na إِلّا",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "ما رَأَيْتُ إِلّا طَبيبًا",
+              "lijdend voorwerp (acc.)",
+              "ik zag alleen een arts"
+            ],
+            [
+              "لا يَدْخُلُ إِلّا الأَطِبّاءُ",
+              "onderwerp (nom.)",
+              "alleen artsen mogen naar binnen"
+            ],
+            [
+              "لا يُصْرَفُ الدَّواءُ إِلّا بِوَصْفَةٍ",
+              "voorzetsel + gen.",
+              "het medicijn wordt alleen op recept verstrekt"
+            ],
+            [
+              "لَمْ أَنَمْ إِلّا ساعَتَيْنِ",
+              "tijdsbepaling (acc.)",
+              "ik heb maar twee uur geslapen"
+            ]
+          ],
+          "arKolommen": [
+            0
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zo omslachtig? Een ontkenning met uitzondering is **sterker** dan {ar|فَقَطْ}: *ik zag niemand behalve …*. Daarom is dit in formele teksten de gewone manier om *alleen* te zeggen."
+        }
+      ]
+    },
+    {
+      "titel": "إِنَّما",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "{ar|إِنَّما} = {ar|إِنَّ} + {ar|ما}. Het betekent *slechts, alleen maar* of, na een ontkenning, *maar (eerder)*. Anders dan {ar|إِنَّ} heeft het **geen invloed op de naamval**: na {ar|إِنَّما} volgt een gewone zin met nominatief."
+        },
+        {
+          "type": "letop",
+          "md": "Vergelijk: {ar|إِنَّ العِلاجَ مُكْلِفٌ} (accusatief na inna) maar {ar|إِنَّما العِلاجُ مُكْلِفٌ} (nominatief: de ما *blokkeert* inna)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "الوِقايَةُ لَيْسَتْ صَعْبَةً، إِنَّما تَحْتاجُ إِلى وَعْيٍ.",
+              "tr": "al-wiqāyatu laysat ṣaʿbatan, innamā taḥtāju ilā waʿy.",
+              "nl": "Preventie is niet moeilijk, ze vraagt alleen bewustzijn."
+            },
+            {
+              "ar": "إِنَّما الأَعْمالُ بِالنِّيّاتِ.",
+              "tr": "innama l-aʿmālu bi-n-niyyāt.",
+              "nl": "Daden worden alleen naar de bedoelingen beoordeeld (bekende hadith)."
+            },
+            {
+              "ar": "ما زُرْتُ الطَّبيبَ إِلّا مَرَّةً واحِدَةً هٰذا العامَ.",
+              "tr": "mā zurtu ṭ-ṭabība illā marratan wāḥidatan hāḏa l-ʿām.",
+              "nl": "Ik ben dit jaar maar één keer naar de dokter geweest."
+            },
+            {
+              "ar": "لا يُصْرَفُ هٰذا الدَّواءُ إِلّا بِوَصْفَةٍ طِبِّيَّةٍ.",
+              "tr": "lā yuṣrafu hāḏa d-dawāʾu illā bi-waṣfatin ṭibbiyya.",
+              "nl": "Dit medicijn wordt alleen op recept verstrekt."
+            },
+            {
+              "ar": "لا يَدْخُلُ قِسْمَ الطَّوارِئِ إِلّا الحالاتُ العاجِلَةُ.",
+              "tr": "lā yadḫulu qisma ṭ-ṭawāriʾi illa l-ḥālātu l-ʿājila.",
+              "nl": "Op de spoedeisende hulp worden alleen spoedgevallen opgenomen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "لَقاحٌ",
+              "nl": "vaccin",
+              "woord": "j3-p10-l110-w05"
+            },
+            {
+              "ar": "وِقايَةٌ",
+              "nl": "preventie",
+              "woord": "j3-p10-l110-w04"
+            },
+            {
+              "ar": "عِلاجٌ",
+              "nl": "behandeling",
+              "woord": "j3-p10-l110-w03"
+            },
+            {
+              "ar": "طَبيبٌ عامٌّ",
+              "nl": "huisarts",
+              "woord": "j3-p10-l110-w08"
+            },
+            {
+              "ar": "أَخِصّائِيٌّ",
+              "nl": "specialist",
+              "woord": "j3-p10-l110-w09"
+            },
+            {
+              "ar": "مُزْمِنٌ",
+              "nl": "chronisch",
+              "woord": "j3-p10-l110-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "اِتَّصِلْ بِسَيّارَةِ الإِسْعافِ!",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "de ambulance bellen",
+            "naar de apotheek gaan",
+            "een vaccin halen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَيّارَةُ إِسْعافٍ}"
+        }
+      ]
+    },
+    {
+      "titel": "Beperking",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "beperking",
+          "vraag": "Wat betekent {ar|لَمْ أَنَمْ إِلّا ساعَتَيْنِ}?",
+          "opties": [
+            "Ik heb maar twee uur geslapen.",
+            "Ik heb twee uur niet geslapen.",
+            "Ik sliep meer dan twee uur."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَمْ … إِلّا}"
+        },
+        {
+          "type": "invullen",
+          "tag": "beperking",
+          "zin": "ما رَأَيْتُ إِلّا ___ واحِدًا.",
+          "nl": "Ik heb maar één arts gezien.",
+          "antwoord": [
+            "طَبيبًا"
+          ],
+          "uitleg": "Lijdend voorwerp → accusatief.",
+          "woordbank": [
+            "طَبيبًا",
+            "طَبيبٌ",
+            "طَبيبٍ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "beperking",
+          "zin": "لا يَزورُ المَرْضى إِلّا ___.",
+          "nl": "Alleen de familie bezoekt de patiënten.",
+          "antwoord": [
+            "الأَهْلُ"
+          ],
+          "uitleg": "Onderwerp → nominatief.",
+          "woordbank": [
+            "الأَهْلُ",
+            "الأَهْلَ",
+            "الأَهْلِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "beperking",
+          "vraag": "Welke naamval volgt na {ar|إِنَّما}?",
+          "opties": [
+            "gewone zin: nominatief",
+            "accusatief zoals na إِنَّ",
+            "genitief"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ما} blokkeert {ar|إِنَّ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "beperking",
+          "vraag": "Kies de juiste zin.",
+          "opties": [
+            "إِنَّما العِلاجُ مُكْلِفٌ.",
+            "إِنَّما العِلاجَ مُكْلِفٌ.",
+            "إِنَّما العِلاجِ مُكْلِفٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Nominatief na {ar|إِنَّما}."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "beperking",
+          "nl": "Dit medicijn wordt alleen op recept verstrekt.",
+          "woorden": [
+            "لا",
+            "يُصْرَفُ",
+            "هٰذا",
+            "الدَّواءُ",
+            "إِلّا",
+            "بِوَصْفَةٍ."
+          ],
+          "uitleg": "{ar|لا … إِلّا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de wachtlijst",
+          "antwoorden": [
+            "قائِمَةُ الاِنْتِظارِ",
+            "قائمة الانتظار"
+          ],
+          "uitleg": "{ar|قائِمَةُ الاِنْتِظارِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "beperking",
+          "bron": "ما زُرْتُ الطَّبيبَ إِلّا مَرَّةً واحِدَةً.",
+          "antwoorden": [
+            "ik ben maar een keer naar de dokter geweest",
+            "ik heb de dokter maar een keer bezocht",
+            "ik ging maar een keer naar de dokter"
+          ],
+          "uitleg": "Beperking."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَأْمينٌ صِحِّيٌّ",
+            "nl": "ziektekostenverzekering"
+          },
+          {
+            "ar": "فَحْصٌ",
+            "nl": "onderzoek"
+          },
+          {
+            "ar": "تَكاليفُ",
+            "nl": "kosten"
+          },
+          {
+            "ar": "وَعْيٌ",
+            "nl": "bewustzijn"
+          },
+          {
+            "ar": "قِسْمُ الطَّوارِئِ",
+            "nl": "spoedeisende hulp"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "{ar|لا … إِلّا} betekent ...",
+        "opties": [
+          "alleen, pas",
+          "nooit",
+          "altijd"
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "{ar|إِنَّما} is samengesteld uit ...",
+        "opties": [
+          "إِنَّ + ما",
+          "إِنْ + ما",
+          "أَنْ + ما"
+        ],
+        "juist": 0,
+        "uitleg": "Inna + mā."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "'Ik heb maar een uur gewacht' is ...",
+        "opties": [
+          "لَمْ أَنْتَظِرْ إِلّا ساعَةً",
+          "اِنْتَظَرْتُ إِلّا ساعَةً",
+          "ما اِنْتَظَرْتُ ساعَةً"
+        ],
+        "juist": 0,
+        "uitleg": "Ontkenning + {ar|إِلّا}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "beperking",
+        "vraag": "In {ar|لا يَدْخُلُ إِلّا الأَطِبّاءُ} is {ar|الأَطِبّاءُ} ...",
+        "opties": [
+          "onderwerp (nominatief)",
+          "lijdend voorwerp",
+          "uitzondering in de accusatief"
+        ],
+        "juist": 0,
+        "uitleg": "Naamval zoals zonder ontkenning."
+      },
+      {
+        "type": "luisteren",
+        "tag": "beperking",
+        "tekst": "لا يُصْرَفُ الدَّواءُ إِلّا بِوَصْفَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het medicijn is alleen op recept.",
+          "Het medicijn is zonder recept.",
+          "Het medicijn is uitverkocht."
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "طولُ قائِمَةِ الاِنْتِظارِ مُشْكِلَةٌ كَبيرَةٌ",
+        "vraag": "Wat is het probleem?",
+        "opties": [
+          "de lange wachtlijst",
+          "de dure medicijnen",
+          "te weinig ambulances"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قائِمَةُ الاِنْتِظارِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "beperking",
+        "zin": "لَمْ يَبْقَ إِلّا ___ واحِدٌ.",
+        "nl": "Er is nog maar één bed over.",
+        "antwoord": [
+          "سَريرٌ"
+        ],
+        "uitleg": "Onderwerp van {ar|بَقِيَ} → nominatief.",
+        "woordbank": [
+          "سَريرٌ",
+          "سَريرًا",
+          "سَريرٍ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "beperking",
+        "zin": "الصِّحَّةُ لا تُشْتَرى، ___ تُحْفَظُ.",
+        "nl": "Gezondheid koop je niet, je kunt haar alleen bewaren.",
+        "antwoord": [
+          "إِنَّما"
+        ],
+        "uitleg": "{ar|إِنَّما}",
+        "woordbank": [
+          "إِنَّما",
+          "إِنَّ",
+          "إِلّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "يُعاني جَدّي مِنْ مَرَضٍ ___.",
+        "nl": "Mijn opa heeft een chronische ziekte.",
+        "antwoord": [
+          "مُزْمِنٍ"
+        ],
+        "uitleg": "{ar|مُزْمِنٌ}",
+        "woordbank": [
+          "مُزْمِنٍ",
+          "عاجِلٍ",
+          "عامٍّ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "beperking",
+        "instructie": "Kies de juiste naamval na إِلّا.",
+        "rijen": [
+          {
+            "label": "ما شَرِبْتُ إِلّا ___ (water)",
+            "antwoord": "ماءً",
+            "tr": "māʾan",
+            "eind": true
+          },
+          {
+            "label": "لا يَعْرِفُ الجَوابَ إِلّا ___ (de leraar)",
+            "antwoord": "المُعَلِّمُ",
+            "tr": "al-muʿallimu",
+            "eind": true
+          }
+        ],
+        "uitleg": "Acc. als lijdend voorwerp, nom. als onderwerp."
+      },
+      {
+        "type": "ordenen",
+        "tag": "beperking",
+        "nl": "Ik heb dit jaar maar één keer de dokter bezocht.",
+        "woorden": [
+          "ما",
+          "زُرْتُ",
+          "الطَّبيبَ",
+          "إِلّا",
+          "مَرَّةً",
+          "واحِدَةً."
+        ],
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de ambulance",
+        "antwoorden": [
+          "سَيّارَةُ الإِسْعافِ",
+          "سيارة الإسعاف",
+          "الإِسْعافُ"
+        ],
+        "uitleg": "{ar|سَيّارَةُ الإِسْعافِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "beperking",
+        "bron": "الوِقايَةُ لَيْسَتْ صَعْبَةً، إِنَّما تَحْتاجُ إِلى وَعْيٍ.",
+        "antwoorden": [
+          "preventie is niet moeilijk, ze vraagt alleen bewustzijn",
+          "preventie is niet moeilijk maar vraagt bewustzijn"
+        ],
+        "uitleg": "{ar|إِنَّما}"
+      }
+    ]
+  }
+}

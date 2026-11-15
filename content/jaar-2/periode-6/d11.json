@@ -1,0 +1,116 @@
+{
+  "id": "j2-p6-d11",
+  "code": "D11",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: het huis en het dagelijks leven",
+  "thema": "Kamers, klusjes en je dagritme in het Marokkaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de ruimtes van een huis benoemen in het Darija.",
+    "huishoudelijke klusjes noemen.",
+    "je dagritme vertellen met de tegenwoordige tijd (كا-)."
+  ],
+
+  "woorden": [
+    { "id": "j2-p6-d11-w01", "ar": "البيت", "tr": "lbīt", "nl": ["de kamer"], "soort": "zelfstandig naamwoord", "notitie": "Let op: in het Darija is {ar|البيت} een kamer; het huis is {ar|الدار}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w02", "ar": "الكوزينة", "tr": "lkūzīna", "nl": ["de keuken"], "soort": "zelfstandig naamwoord", "notitie": "Uit het Spaans *cocina*.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w03", "ar": "بيت الما", "tr": "bīt lma", "nl": ["de wc", "de badkamer"], "soort": "uitdrukking", "notitie": "Letterlijk: kamer van het water.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w04", "ar": "الصالون", "tr": "ṣṣālōn", "nl": ["de woonkamer"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w05", "ar": "السطح", "tr": "ssṭəḥ", "nl": ["het dakterras"], "soort": "zelfstandig naamwoord", "notitie": "Fusha: {ar|السَّطْحُ} (dak).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w06", "ar": "الشرجم", "tr": "šəṛjəm", "nl": ["het raam"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|الشراجم}. Fusha: {ar|النّافِذَةُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w07", "ar": "كنفيق", "tr": "kanfīq", "nl": ["ik word wakker"], "soort": "werkwoord", "notitie": "Fusha: {ar|أَسْتَيْقِظُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen (كانفيق / كنفيق)." } },
+    { "id": "j2-p6-d11-w08", "ar": "نوض", "tr": "nūḍ", "nl": ["sta op!"], "soort": "werkwoord (gebiedende wijs)", "notitie": "Fusha: {ar|قُمْ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w09", "ar": "كنصبن", "tr": "kanṣəbbən", "nl": ["ik doe de was"], "soort": "werkwoord", "notitie": "Van {ar|الصابون} (zeep).", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w10", "ar": "كنشطب", "tr": "kanšəṭṭəb", "nl": ["ik veeg (de vloer)"], "soort": "werkwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w11", "ar": "كنطيب", "tr": "kanṭəyyəb", "nl": ["ik kook"], "soort": "werkwoord", "notitie": "Fusha: {ar|أَطْبُخُ}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w12", "ar": "شعل الضو", "tr": "šəʿʿəl ḍḍu", "nl": ["doe het licht aan"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w13", "ar": "طفي الضو", "tr": "ṭfi ḍḍu", "nl": ["doe het licht uit"], "soort": "uitdrukking", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w14", "ar": "الصباح", "tr": "ṣṣbāḥ", "nl": ["de ochtend"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w15", "ar": "الليل", "tr": "llīl", "nl": ["de nacht"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "Darija bevestigen." } },
+    { "id": "j2-p6-d11-w16", "ar": "بكري", "tr": "bəkri", "nl": ["vroeg"], "soort": "bijwoord", "notitie": "Fusha: {ar|مُبَكِّرًا}.", "review": { "status": "onzeker", "note": "Darija bevestigen." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Thuis",
+      "blokken": [
+        { "type": "tabel", "kop": ["", "Fusha", "Darija"], "arKolommen": [1, 2], "rijen": [
+          ["huis", "بَيْتٌ / دارٌ", "الدار|ddāṛ"],
+          ["kamer", "غُرْفَةٌ", "البيت|lbīt"],
+          ["keuken", "مَطْبَخٌ", "الكوزينة|lkūzīna"],
+          ["raam", "نافِذَةٌ", "الشرجم|šəṛjəm"],
+          ["ik kook", "أَطْبُخُ", "كنطيب|kanṭəyyəb"]
+        ] },
+        { "type": "waarom", "md": "Een valkuil: hetzelfde woord kan in het Fusha en het Darija iets anders betekenen. {ar|بَيْتٌ} is in het Fusha een **huis**, in het Darija een **kamer**. Zo ook {ar|الحوت} (D09). Let bij Darija dus niet alleen op de vorm, maar ook op de betekenis." }
+      ]
+    },
+    {
+      "titel": "Mijn dag",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "كنفيق بكري، وكنشرب أتاي ف الكوزينة.", "tr": "kanfīq bəkri, w-kanšṛəb atāy f-lkūzīna.", "nl": "Ik word vroeg wakker en drink thee in de keuken.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "نهار السبت كنصبن وكنشطب الدار.", "tr": "nhāṛ ssəbt kanṣəbbən w-kanšəṭṭəb ddāṛ.", "nl": "Op zaterdag doe ik de was en veeg ik het huis.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } },
+          { "ar": "نوض! راه الصباح.", "tr": "nūḍ! ṛāh ṣṣbāḥ.", "nl": "Sta op! Het is al ochtend.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken (راه)." } },
+          { "ar": "طفي الضو عافاك، بغيت نعس.", "tr": "ṭfi ḍḍu ʿāfāk, bġīt nəʿs.", "nl": "Doe alsjeblieft het licht uit, ik wil slapen.", "review": { "status": "onzeker", "note": "Darija-zin laten nakijken." } }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "darija-huis", "paren": [
+          { "ar": "البيت", "nl": "kamer", "woord": "j2-p6-d11-w01" },
+          { "ar": "الكوزينة", "nl": "keuken", "woord": "j2-p6-d11-w02" },
+          { "ar": "بيت الما", "nl": "wc", "woord": "j2-p6-d11-w03" },
+          { "ar": "الصالون", "nl": "woonkamer", "woord": "j2-p6-d11-w04" },
+          { "ar": "السطح", "nl": "dakterras", "woord": "j2-p6-d11-w05" },
+          { "ar": "الشرجم", "nl": "raam", "woord": "j2-p6-d11-w06" }
+        ], "uitleg": "Het huis." },
+        { "type": "luisteren", "tag": "darija-huis", "tekst": "شعل الضو", "vraag": "Wat hoor je?", "opties": ["Doe het licht aan.", "Doe het licht uit.", "Doe het raam open."], "juist": 0, "uitleg": "*šəʿʿəl ḍḍu* (de computerstem spreekt dit mogelijk anders uit)." }
+      ]
+    },
+    {
+      "titel": "Klusjes en dagritme",
+      "items": [
+        { "type": "invullen", "tag": "darija-huis", "zin": "___ بكري كل نهار.", "nl": "Ik word elke dag vroeg wakker.", "woordbank": ["كنفيق", "نوض", "كنصبن"], "antwoord": ["كنفيق"], "uitleg": "{ar|كنفيق} = ik word wakker." },
+        { "type": "invullen", "tag": "darija-huis", "zin": "طفي ___ عافاك.", "nl": "Doe alsjeblieft het licht uit.", "woordbank": ["الضو", "الشرجم", "البيت"], "antwoord": ["الضو"], "uitleg": "{ar|الضو} = het licht." },
+        { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Het Darija {ar|البيت} betekent ...", "opties": ["kamer", "huis", "keuken"], "juist": 0, "uitleg": "In het Fusha is {ar|بَيْتٌ} een huis!" },
+        { "type": "ordenen", "tag": "darija-huis", "nl": "Op zaterdag doe ik de was en veeg ik het huis.", "woorden": ["نهار", "السبت", "كنصبن", "وكنشطب", "الدار."], "uitleg": "Dagritme." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "darija-huis", "bron": "de keuken (Darija)", "antwoorden": ["الكوزينة"], "uitleg": "{ar|الكوزينة}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "darija-huis", "bron": "كنطيب ف الليل", "tr": "kanṭəyyəb f-llīl", "antwoorden": ["ik kook 's avonds", "ik kook 's nachts", "ik kook in de avond"], "uitleg": "{ar|كنطيب} = ik kook." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "darija-huis", "paren": [
+        { "ar": "كنصبن", "nl": "ik doe de was" },
+        { "ar": "كنشطب", "nl": "ik veeg" },
+        { "ar": "كنطيب", "nl": "ik kook" },
+        { "ar": "نوض", "nl": "sta op" }
+      ], "uitleg": "Klusjes." },
+      { "type": "meerkeuze", "tag": "darija-huis", "vraag": "Hoe zeg je 'de wc' in het Darija?", "opties": ["بيت الما", "الصالون", "السطح"], "juist": 0, "uitleg": "Letterlijk: kamer van het water." },
+      { "type": "meerkeuze", "tag": "darija-fusha", "vraag": "Fusha {ar|مُبَكِّرًا} is in het Darija ...", "opties": ["بكري", "دابا", "غدا"], "juist": 0, "uitleg": "{ar|بكري} = vroeg." },
+      { "type": "meerkeuze", "tag": "darija-huis", "vraag": "{ar|الكوزينة} komt uit het ...", "opties": ["Spaans", "Frans", "Fusha"], "juist": 0, "uitleg": "*cocina*" },
+      { "type": "luisteren", "tag": "darija-huis", "tekst": "نوض، راه الصباح", "vraag": "Wat hoor je?", "opties": ["Sta op, het is ochtend.", "Ga slapen, het is nacht.", "Doe het licht uit."], "juist": 0, "uitleg": "{ar|نوض} = sta op." },
+      { "type": "luisteren", "tag": "darija-huis", "tekst": "حل الشرجم", "vraag": "Wat hoor je?", "opties": ["Doe het raam open.", "Doe de deur dicht.", "Doe het licht aan."], "juist": 0, "uitleg": "{ar|حل} = open (doen).", "review": { "status": "onzeker", "note": "حل (openen) bevestigen." } },
+      { "type": "invullen", "tag": "darija-huis", "zin": "كنشرب أتاي ف ___.", "nl": "Ik drink thee in de keuken.", "woordbank": ["الكوزينة", "بيت الما", "السطح"], "antwoord": ["الكوزينة"], "uitleg": "{ar|الكوزينة} = de keuken." },
+      { "type": "invullen", "tag": "darija-huis", "zin": "___ الضو، بغيت نقرا.", "nl": "Doe het licht aan, ik wil lezen.", "woordbank": ["شعل", "طفي", "نوض"], "antwoord": ["شعل"], "uitleg": "{ar|شعل} = aandoen." },
+      { "type": "ordenen", "tag": "darija-huis", "nl": "Ik word vroeg wakker.", "woorden": ["كنفيق", "بكري."], "uitleg": "Werkwoord + bijwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-huis", "bron": "de kamer (Darija)", "antwoorden": ["البيت"], "uitleg": "{ar|البيت}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "darija-huis", "bron": "doe het licht uit (Darija)", "antwoorden": ["طفي الضو"], "uitleg": "{ar|طفي الضو}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "darija-huis", "bron": "الصالون كبير", "tr": "ṣṣālōn kbīr", "antwoorden": ["de woonkamer is groot", "de salon is groot"], "uitleg": "{ar|الصالون} = woonkamer." }
+    ]
+  }
+}

@@ -1,0 +1,754 @@
+{
+  "id": "j1-p4-l46",
+  "code": "L46",
+  "type": "les",
+  "titel": "Feesten en tradities",
+  "thema": "Feestdagen beschrijven en de juiste wens uitspreken",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de belangrijkste islamitische en algemene feestdagen benoemen.",
+    "de vaste wensen en hun antwoorden gebruiken.",
+    "كُلّ (elk, alle, heel) en بَعْض (sommige) correct in een iḍāfa gebruiken."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l46-w01",
+      "ar": "عيدُ الفِطْرِ",
+      "tr": "ʿīdu l-fiṭr",
+      "nl": [
+        "Suikerfeest"
+      ],
+      "soort": "iḍāfa",
+      "notitie": "Feest aan het eind van de ramadan."
+    },
+    {
+      "id": "j1-p4-l46-w02",
+      "ar": "عيدُ الأَضْحى",
+      "tr": "ʿīdu l-aḍḥā",
+      "nl": [
+        "Offerfeest"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l46-w03",
+      "ar": "رَأْسُ السَّنَةِ",
+      "tr": "raʾsu s-sana",
+      "nl": [
+        "nieuwjaar"
+      ],
+      "soort": "iḍāfa",
+      "notitie": "Letterlijk: het hoofd van het jaar."
+    },
+    {
+      "id": "j1-p4-l46-w04",
+      "ar": "اِحْتَفَلَ بِـ",
+      "tr": "iḥtafala bi-",
+      "nl": [
+        "vieren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَحْتَفِلُ بِـ}."
+    },
+    {
+      "id": "j1-p4-l46-w05",
+      "ar": "صامَ",
+      "tr": "ṣāma",
+      "nl": [
+        "vasten (hij vastte)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَصومُ}. Zelfstandig naamwoord: {ar|الصَّوْمُ}."
+    },
+    {
+      "id": "j1-p4-l46-w06",
+      "ar": "إِفْطارٌ",
+      "tr": "ifṭār",
+      "nl": [
+        "iftar (maaltijd na het vasten)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l46-w07",
+      "ar": "تَقْليدٌ",
+      "tr": "taqlīd",
+      "nl": [
+        "traditie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|تَقاليدُ}."
+    },
+    {
+      "id": "j1-p4-l46-w08",
+      "ar": "عادَةٌ",
+      "tr": "ʿāda",
+      "nl": [
+        "gewoonte"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|عادَةً} = gewoonlijk."
+    },
+    {
+      "id": "j1-p4-l46-w09",
+      "ar": "عُرْسٌ",
+      "tr": "ʿurs",
+      "nl": [
+        "bruiloft"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l46-w10",
+      "ar": "حَلَوِيّاتٌ",
+      "tr": "ḥalawiyyāt",
+      "nl": [
+        "zoetigheden",
+        "gebak"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j1-p4-l46-w11",
+      "ar": "زَيَّنَ",
+      "tr": "zayyana",
+      "nl": [
+        "versieren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُزَيِّنُ}."
+    },
+    {
+      "id": "j1-p4-l46-w12",
+      "ar": "تَهْنِئَةٌ",
+      "tr": "tahniʾa",
+      "nl": [
+        "felicitatie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l46-w13",
+      "ar": "عيدٌ مُبارَكٌ",
+      "tr": "ʿīdun mubārak",
+      "nl": [
+        "gezegend feest (feestwens)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l46-w14",
+      "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ",
+      "tr": "kullu ʿāmin wa-antum bi-ḫayr",
+      "nl": [
+        "fijne feestdagen (letterlijk: elk jaar en jullie in goedheid)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Antwoord: {ar|وَأَنْتُمْ بِخَيْرٍ}."
+    },
+    {
+      "id": "j1-p4-l46-w15",
+      "ar": "رَمَضانُ كَريمٌ",
+      "tr": "ramaḍānu karīm",
+      "nl": [
+        "gezegende ramadan (wens)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Antwoord: {ar|اللهُ أَكْرَمُ}."
+    },
+    {
+      "id": "j1-p4-l46-w16",
+      "ar": "مَبْروكٌ",
+      "tr": "mabrūk",
+      "nl": [
+        "gefeliciteerd"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Antwoord: {ar|اللهُ يُبارِكُ فيكَ}."
+    },
+    {
+      "id": "j1-p4-l46-w17",
+      "ar": "كُلُّ",
+      "tr": "kull",
+      "nl": [
+        "elk",
+        "alle",
+        "heel"
+      ],
+      "soort": "kwantor"
+    },
+    {
+      "id": "j1-p4-l46-w18",
+      "ar": "بَعْضُ",
+      "tr": "baʿḍ",
+      "nl": [
+        "sommige",
+        "een paar"
+      ],
+      "soort": "kwantor"
+    },
+    {
+      "id": "j1-p4-l46-w19",
+      "ar": "جَميعُ",
+      "tr": "jamīʿ",
+      "nl": [
+        "alle (geheel)"
+      ],
+      "soort": "kwantor",
+      "notitie": "Als {ar|كُلُّ} + bepaald meervoud: {ar|جَميعُ النّاسِ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Wensen en antwoorden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Wens",
+            "Wanneer",
+            "Antwoord"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "عيدٌ مُبارَكٌ|ʿīdun mubārak",
+              "bij een feest (ʿīd)",
+              "عَلَيْنا وَعَلَيْكُمْ|ʿalaynā wa-ʿalaykum"
+            ],
+            [
+              "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ|kullu ʿāmin wa-antum bi-ḫayr",
+              "bij elk jaarlijks feest",
+              "وَأَنْتُمْ بِخَيْرٍ|wa-antum bi-ḫayr"
+            ],
+            [
+              "رَمَضانُ كَريمٌ|ramaḍānu karīm",
+              "tijdens de ramadan",
+              "اللهُ أَكْرَمُ|allāhu akram"
+            ],
+            [
+              "مَبْروكٌ|mabrūk",
+              "bruiloft, geboorte, geslaagd",
+              "اللهُ يُبارِكُ فيكَ|allāhu yubāriku fīk"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Net als bij de begroetingen in les 1 horen wens en antwoord bij elkaar. Het antwoord geeft de wens terug: *en jullie ook in goedheid*. Een losse *dank je* klinkt dan kaal.",
+          "review": {
+            "status": "onzeker",
+            "note": "Antwoorden عَلَيْنا وَعَلَيْكُمْ en اللهُ يُبارِكُ فيكَ: gangbaarheid per regio laten bevestigen."
+          }
+        }
+      ]
+    },
+    {
+      "titel": "كُلّ en بَعْض",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "{ar|كُلُّ} en {ar|بَعْضُ} staan vooraan in een **iḍāfa**: het woord erna staat in de genitief, en {ar|كُلُّ} / {ar|بَعْضُ} zelf heeft geen ال.",
+            "De betekenis van {ar|كُلُّ} hangt af van wat erna komt."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Na كُلُّ",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "onbepaald enkelvoud",
+              "elk, iedere",
+              "كُلَّ يَوْمٍ|kulla yawm (elke dag)"
+            ],
+            [
+              "bepaald meervoud",
+              "alle",
+              "كُلُّ الطُّلّابِ|kullu ṭ-ṭullāb (alle studenten)"
+            ],
+            [
+              "bepaald enkelvoud",
+              "heel, het hele",
+              "كُلُّ البَيْتِ|kullu l-bayt (het hele huis)"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|كُلُّ} betekent eigenlijk *het geheel van*. *Het geheel van een dag* (onbepaald) = elke dag; *het geheel van de studenten* = alle studenten; *het geheel van het huis* = het hele huis. Eén woord, drie Nederlandse vertalingen."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "نَحْتَفِلُ بِالعيدِ كُلَّ سَنَةٍ مَعَ العائِلَةِ.",
+              "tr": "naḥtafilu bi-l-ʿīdi kulla sanatin maʿa l-ʿāʾila.",
+              "nl": "We vieren elk jaar het feest met de familie."
+            },
+            {
+              "ar": "يَصومُ كُلُّ أَفْرادِ العائِلَةِ في رَمَضانَ.",
+              "tr": "yaṣūmu kullu afrādi l-ʿāʾilati fī ramaḍān.",
+              "nl": "Alle gezinsleden vasten tijdens de ramadan.",
+              "review": {
+                "status": "onzeker",
+                "note": "أَفْراد (leden) is nieuw; controleren."
+              }
+            },
+            {
+              "ar": "بَعْضُ النّاسِ يُزَيِّنونَ بُيوتَهُمْ.",
+              "tr": "baʿḍu n-nāsi yuzayyinūna buyūtahum.",
+              "nl": "Sommige mensen versieren hun huis."
+            },
+            {
+              "ar": "أَكَلْنا كُلَّ الحَلَوِيّاتِ!",
+              "tr": "akalnā kulla l-ḥalawiyyāt!",
+              "nl": "We hebben alle zoetigheden opgegeten!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden en wensen",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "عيدُ الفِطْرِ",
+              "nl": "Suikerfeest",
+              "woord": "j1-p4-l46-w01"
+            },
+            {
+              "ar": "عيدُ الأَضْحى",
+              "nl": "Offerfeest",
+              "woord": "j1-p4-l46-w02"
+            },
+            {
+              "ar": "رَأْسُ السَّنَةِ",
+              "nl": "nieuwjaar",
+              "woord": "j1-p4-l46-w03"
+            },
+            {
+              "ar": "عُرْسٌ",
+              "nl": "bruiloft",
+              "woord": "j1-p4-l46-w09"
+            },
+            {
+              "ar": "تَقْليدٌ",
+              "nl": "traditie",
+              "woord": "j1-p4-l46-w07"
+            },
+            {
+              "ar": "إِفْطارٌ",
+              "nl": "iftar",
+              "woord": "j1-p4-l46-w06"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "feestwensen",
+          "paren": [
+            {
+              "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ",
+              "nl": "fijne feestdagen",
+              "woord": "j1-p4-l46-w14"
+            },
+            {
+              "ar": "رَمَضانُ كَريمٌ",
+              "nl": "gezegende ramadan",
+              "woord": "j1-p4-l46-w15"
+            },
+            {
+              "ar": "مَبْروكٌ",
+              "nl": "gefeliciteerd",
+              "woord": "j1-p4-l46-w16"
+            },
+            {
+              "ar": "عيدٌ مُبارَكٌ",
+              "nl": "gezegend feest",
+              "woord": "j1-p4-l46-w13"
+            }
+          ],
+          "uitleg": "De vaste wensen. Leer ook het antwoord (zie de tabel)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "feestwensen",
+          "vraag": "Je vriend is net getrouwd. Wat zeg je?",
+          "opties": [
+            "مَبْروكٌ!",
+            "رَمَضانُ كَريمٌ!",
+            "صَباحَ الخَيْرِ!"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَبْروكٌ} = gefeliciteerd."
+        },
+        {
+          "type": "luisteren",
+          "tag": "feestwensen",
+          "tekst": "عيدٌ مُبارَكٌ",
+          "vraag": "Wanneer zeg je dit?",
+          "opties": [
+            "bij een feest",
+            "bij een begrafenis",
+            "bij het afscheid"
+          ],
+          "juist": 0,
+          "uitleg": "Feestwens."
+        }
+      ]
+    },
+    {
+      "titel": "كُلّ en بَعْض",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kull-bad",
+          "zin": "أَشْرَبُ القَهْوَةَ ___ يَوْمٍ.",
+          "nl": "Ik drink elke dag koffie.",
+          "woordbank": [
+            "كُلَّ",
+            "بَعْضَ",
+            "جَميعَ"
+          ],
+          "antwoord": [
+            "كُلَّ"
+          ],
+          "uitleg": "{ar|كُلَّ} + onbepaald enkelvoud = elke."
+        },
+        {
+          "type": "invullen",
+          "tag": "kull-bad",
+          "zin": "___ النّاسِ لا يَصومونَ.",
+          "nl": "Sommige mensen vasten niet.",
+          "woordbank": [
+            "بَعْضُ",
+            "كُلُّ"
+          ],
+          "antwoord": [
+            "بَعْضُ"
+          ],
+          "uitleg": "{ar|بَعْضُ} = sommige."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kull-bad",
+          "vraag": "Wat betekent {ar|كُلُّ البَيْتِ}?",
+          "opties": [
+            "het hele huis",
+            "elk huis",
+            "alle huizen"
+          ],
+          "juist": 0,
+          "uitleg": "Bepaald enkelvoud → het hele."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kull-bad",
+          "vraag": "'Alle studenten' is ...",
+          "opties": [
+            "كُلُّ الطُّلّابِ",
+            "كُلُّ طالِبٍ",
+            "الكُلُّ طُلّابٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Bepaald meervoud → alle."
+        },
+        {
+          "type": "ordenen",
+          "tag": "kull-bad",
+          "nl": "Sommige mensen versieren hun huis.",
+          "woorden": [
+            "بَعْضُ",
+            "النّاسِ",
+            "يُزَيِّنونَ",
+            "بُيوتَهُمْ."
+          ],
+          "uitleg": "{ar|بَعْضُ} + genitief."
+        },
+        {
+          "type": "ordenen",
+          "tag": "kull-bad",
+          "nl": "We vieren elk jaar het feest met de familie.",
+          "woorden": [
+            "نَحْتَفِلُ",
+            "بِالعيدِ",
+            "كُلَّ",
+            "سَنَةٍ",
+            "مَعَ",
+            "العائِلَةِ."
+          ],
+          "uitleg": "{ar|كُلَّ سَنَةٍ} = elk jaar."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kull-bad",
+          "bron": "elke dag",
+          "antwoorden": [
+            "كُلَّ يَوْمٍ",
+            "كُلُّ يَوْمٍ"
+          ],
+          "uitleg": "{ar|كُلَّ يَوْمٍ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "feestwensen",
+          "bron": "Gefeliciteerd!",
+          "antwoorden": [
+            "مَبْروكٌ",
+            "مَبْروك"
+          ],
+          "uitleg": "{ar|مَبْروكٌ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "نَصومُ في رَمَضانَ.",
+          "antwoorden": [
+            "we vasten tijdens de ramadan",
+            "wij vasten in de ramadan",
+            "we vasten in ramadan",
+            "we vasten in de ramadan"
+          ],
+          "uitleg": "{ar|صامَ / يَصومُ} = vasten."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kull-bad",
+          "bron": "بَعْضُ الطُّلّابِ مَرْضى.",
+          "antwoorden": [
+            "sommige studenten zijn ziek",
+            "een paar studenten zijn ziek"
+          ],
+          "uitleg": "{ar|مَرْضى} = zieken (mv van {ar|مَريضٌ})."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عادَةٌ",
+            "nl": "gewoonte"
+          },
+          {
+            "ar": "تَهْنِئَةٌ",
+            "nl": "felicitatie"
+          },
+          {
+            "ar": "حَلَوِيّاتٌ",
+            "nl": "zoetigheden"
+          },
+          {
+            "ar": "مُناسَبَةٌ",
+            "nl": "gelegenheid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "feestwensen",
+        "vraag": "Iemand zegt {ar|كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ}. Je antwoordt ...",
+        "opties": [
+          "وَأَنْتُمْ بِخَيْرٍ",
+          "وَعَلَيْكُمُ السَّلامُ",
+          "مَعَ السَّلامَةِ"
+        ],
+        "juist": 0,
+        "uitleg": "De wens teruggeven."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "feestwensen",
+        "vraag": "Welke wens hoort bij de ramadan?",
+        "opties": [
+          "رَمَضانُ كَريمٌ",
+          "مَبْروكٌ",
+          "تُصْبِحُ عَلى خَيْرٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Antwoord: {ar|اللهُ أَكْرَمُ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kull-bad",
+        "vraag": "Wat betekent {ar|كُلُّ طالِبٍ}?",
+        "opties": [
+          "elke student",
+          "alle studenten",
+          "de hele student"
+        ],
+        "juist": 0,
+        "uitleg": "Onbepaald enkelvoud → elke."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kull-bad",
+        "vraag": "'Het hele jaar' is ...",
+        "opties": [
+          "كُلُّ السَّنَةِ",
+          "كُلُّ سَنَةٍ",
+          "بَعْضُ السَّنَةِ"
+        ],
+        "juist": 0,
+        "uitleg": "Bepaald enkelvoud → het hele."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "نَحْتَفِلُ بِعيدِ الأَضْحى",
+        "vraag": "Welk feest vieren ze?",
+        "opties": [
+          "het Offerfeest",
+          "het Suikerfeest",
+          "nieuwjaar"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عيدُ الأَضْحى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "kull-bad",
+        "tekst": "بَعْضُ الأَصْدِقاءِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "sommige vrienden",
+          "alle vrienden",
+          "elke vriend"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَعْضُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "kull-bad",
+        "zin": "زُرْنا ___ الأَقارِبِ في العيدِ.",
+        "nl": "We bezochten alle familieleden met het feest.",
+        "woordbank": [
+          "كُلَّ",
+          "بَعْضُ",
+          "كُلُّ"
+        ],
+        "antwoord": [
+          "كُلَّ"
+        ],
+        "uitleg": "Lijdend voorwerp → {ar|كُلَّ} (accusatief).",
+        "eind": true,
+        "review": {
+          "status": "onzeker",
+          "note": "زُرْنا en الأَقارِب (familieleden) zijn nieuw; controleren."
+        }
+      },
+      {
+        "type": "invullen",
+        "tag": "feestwensen",
+        "zin": "— نَجَحْتُ في الاِمْتِحانِ! — ___!",
+        "nl": "— Ik ben geslaagd! — Gefeliciteerd!",
+        "woordbank": [
+          "مَبْروكٌ",
+          "رَمَضانُ كَريمٌ",
+          "عيدٌ مُبارَكٌ"
+        ],
+        "antwoord": [
+          "مَبْروكٌ"
+        ],
+        "uitleg": "{ar|مَبْروكٌ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "kull-bad",
+        "instructie": "Vertaal met كُلّ.",
+        "rijen": [
+          {
+            "label": "elke week",
+            "antwoord": "كُلَّ أُسْبوعٍ",
+            "tr": "kulla usbūʿ"
+          },
+          {
+            "label": "alle mensen",
+            "antwoord": "كُلُّ النّاسِ",
+            "tr": "kullu n-nās"
+          }
+        ],
+        "uitleg": "{ar|كُلَّ أُسْبوعٍ} · {ar|كُلُّ النّاسِ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "kull-bad",
+        "nl": "We hebben alle zoetigheden opgegeten!",
+        "woorden": [
+          "أَكَلْنا",
+          "كُلَّ",
+          "الحَلَوِيّاتِ!"
+        ],
+        "uitleg": "{ar|كُلَّ} + bepaald meervoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het Suikerfeest",
+        "antwoorden": [
+          "عيدُ الفِطْرِ"
+        ],
+        "uitleg": "{ar|عيدُ الفِطْرِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "نُزَيِّنُ البَيْتَ لِلْعيدِ.",
+        "antwoorden": [
+          "we versieren het huis voor het feest",
+          "wij versieren het huis voor het feest"
+        ],
+        "uitleg": "{ar|زَيَّنَ / يُزَيِّنُ} = versieren."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kull-bad",
+        "bron": "كُلُّ عائِلَةٍ لَها تَقاليدُها.",
+        "antwoorden": [
+          "elke familie heeft haar eigen tradities",
+          "elk gezin heeft zijn eigen tradities",
+          "elke familie heeft haar tradities",
+          "elk gezin heeft zijn tradities"
+        ],
+        "uitleg": "{ar|كُلُّ} + onbepaald enkelvoud = elke."
+      }
+    ]
+  }
+}

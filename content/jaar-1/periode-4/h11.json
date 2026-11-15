@@ -1,0 +1,538 @@
+{
+  "id": "j1-p4-h11",
+  "code": "H11",
+  "type": "herhaling",
+  "titel": "Herhaling blok 4B + 4A",
+  "thema": "Getallen, boodschappen, reisplannen en je levensverhaal",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "grote getallen en jaartallen zeggen.",
+    "de telwoordregels toepassen (1–2, 3–10, 11–99, 100/1000).",
+    "wensen uitdrukken met أُريدُ أَنْ / أَوَدُّ أَنْ.",
+    "alle 13 personen vervoegen en de juiste ontkenning kiezen.",
+    "de Darija-verleden tijd gebruiken."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 37–44, D04 en D05.",
+  "grammatica": [
+    {
+      "titel": "Getallen: alles op een rij",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Getal",
+            "Na het getal",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "1",
+              "bijvoeglijk, na het woord",
+              "رَغيفٌ واحِدٌ"
+            ],
+            [
+              "2",
+              "dualis",
+              "رَغيفانِ"
+            ],
+            [
+              "3–10",
+              "omgekeerd geslacht + genitief meervoud",
+              "ثَلاثَةُ أَرْغِفَةٍ"
+            ],
+            [
+              "11–99",
+              "accusatief enkelvoud",
+              "ثَلاثونَ رَغيفًا"
+            ],
+            [
+              "100, 1000",
+              "genitief enkelvoud",
+              "مِئَةُ رَغيفٍ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij twijfel: bepaal eerst **welke groep** (1–2, 3–10, 11–99, 100+), dan **welke vorm** van het zelfstandig naamwoord (dualis, meervoud of enkelvoud), en pas daarna de naamval."
+        }
+      ]
+    },
+    {
+      "titel": "Een reisplan",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أُريدُ أَنْ أَزورَ مَرّاكُشَ في الصَّيْفِ.",
+              "tr": "urīdu an azūra Marrākuša fi ṣ-ṣayf.",
+              "nl": "Ik wil in de zomer Marrakesh bezoeken."
+            },
+            {
+              "ar": "حَجَزْتُ غُرْفَةً لِخَمْسِ لَيالٍ.",
+              "tr": "ḥajaztu ġurfatan li-ḫamsi layāl.",
+              "nl": "Ik heb een kamer voor vijf nachten gereserveerd.",
+              "review": {
+                "status": "onzeker",
+                "note": "لِخَمْسِ لَيالٍ (لَيْلَةٌ vrouwelijk → خَمْس) controleren."
+              }
+            },
+            {
+              "ar": "ثَمَنُ التَّذْكِرَةِ أَلْفٌ وَمِئَتا دِرْهَمٍ.",
+              "tr": "ṯamanu t-taḏkirati alfun wa-miʾatā dirham.",
+              "nl": "Het ticket kost twaalfhonderd dirham.",
+              "review": {
+                "status": "onzeker",
+                "note": "Getalsconstructie 1200 + dirham controleren."
+              }
+            },
+            {
+              "ar": "لا أَعْرِفُ المَدينَةَ، ما زُرْتُها مِنْ قَبْلُ.",
+              "tr": "lā aʿrifu l-madīnata, mā zurtuhā min qablu.",
+              "nl": "Ik ken de stad niet; ik ben er nog nooit geweest.",
+              "review": {
+                "status": "onzeker",
+                "note": "زُرْتُها (hol werkwoord, māḍī) en مِنْ قَبْلُ controleren."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Getallen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "اِشْتَرَيْتُ ___ زُجاجاتٍ.",
+          "nl": "Ik kocht vier flessen.",
+          "woordbank": [
+            "أَرْبَعَ",
+            "أَرْبَعَةَ"
+          ],
+          "antwoord": [
+            "أَرْبَعَ"
+          ],
+          "uitleg": "{ar|زُجاجَةٌ} vrouwelijk → getal zonder ة."
+        },
+        {
+          "type": "invullen",
+          "tag": "telwoordregels",
+          "zin": "في المَدْرَسَةِ أَرْبَعونَ ___.",
+          "nl": "Op school zijn veertig leraren.",
+          "woordbank": [
+            "مُعَلِّمًا",
+            "مُعَلِّمينَ",
+            "مُعَلِّمٍ"
+          ],
+          "antwoord": [
+            "مُعَلِّمًا"
+          ],
+          "uitleg": "11–99: accusatief enkelvoud."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "grote-getallen",
+          "vraag": "'Tweeduizend' is ...",
+          "opties": [
+            "أَلْفانِ",
+            "اِثْنا أَلْفٍ",
+            "أَلْفُ اثْنَيْنِ"
+          ],
+          "juist": 0,
+          "uitleg": "Dualis van {ar|أَلْفٌ}."
+        },
+        {
+          "type": "luisteren",
+          "tag": "jaartallen",
+          "tekst": "أَلْفٌ وَتِسْعُمِئَةٍ وَخَمْسَةٌ وَثَمانونَ",
+          "vraag": "Welk jaar hoor je?",
+          "opties": [
+            "1985",
+            "1958",
+            "1895"
+          ],
+          "juist": 0,
+          "uitleg": "1000 + 900 + 5 + 80."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَسافَةٌ",
+              "nl": "afstand",
+              "woord": "j1-p4-l41-w10"
+            },
+            {
+              "ar": "كيسٌ",
+              "nl": "zak",
+              "woord": "j1-p4-l42-w04"
+            },
+            {
+              "ar": "فُنْدُقٌ",
+              "nl": "hotel",
+              "woord": "j1-p4-l43-w01"
+            },
+            {
+              "ar": "طُفولَةٌ",
+              "nl": "jeugd"
+            },
+            {
+              "ar": "البارح",
+              "nl": "gisteren (Darija)",
+              "woord": "j1-p4-d05-w01"
+            },
+            {
+              "ar": "وَظيفَةٌ",
+              "nl": "baan",
+              "woord": "j1-p4-l37-w01"
+            }
+          ],
+          "uitleg": "Woorden uit blok 4A en 4B."
+        }
+      ]
+    },
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "an-mudari",
+          "zin": "أَوَدُّ أَنْ ___ التَّذْكِرَةَ.",
+          "nl": "Ik zou graag het ticket betalen.",
+          "woordbank": [
+            "أَدْفَعَ",
+            "سَأَدْفَعُ",
+            "دَفَعْتُ"
+          ],
+          "antwoord": [
+            "أَدْفَعَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: muḍāriʿ op -a.",
+          "eind": true
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vervoeging-overzicht",
+          "instructie": "Vervoeg سَكَنَ / يَسْكُنُ.",
+          "rijen": [
+            {
+              "label": "zij (m mv), māḍī",
+              "antwoord": "سَكَنُوا",
+              "tr": "sakanū"
+            },
+            {
+              "label": "jullie twee, muḍāriʿ",
+              "antwoord": "تَسْكُنانِ",
+              "tr": "taskunāni"
+            },
+            {
+              "label": "jij (v), muḍāriʿ",
+              "antwoord": "تَسْكُنينَ",
+              "tr": "taskunīna"
+            }
+          ],
+          "uitleg": "{ar|سَكَنُوا} · {ar|تَسْكُنانِ} · {ar|تَسْكُنينَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "ontkenning-overzicht",
+          "vraag": "'Wij zijn niet thuis' is ...",
+          "opties": [
+            "لَسْنا في البَيْتِ.",
+            "لا نَحْنُ في البَيْتِ.",
+            "ما نَحْنُ في البَيْتِ."
+          ],
+          "juist": 0,
+          "uitleg": "Zin zonder werkwoord → {ar|لَيْسَ} vervoegd."
+        },
+        {
+          "type": "ordenen",
+          "tag": "an-mudari",
+          "nl": "Ik wil in de zomer Marrakesh bezoeken.",
+          "woorden": [
+            "أُريدُ",
+            "أَنْ",
+            "أَزورَ",
+            "مَرّاكُشَ",
+            "في",
+            "الصَّيْفِ."
+          ],
+          "uitleg": "{ar|أُريدُ أَنْ} + muḍāriʿ."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-verleden",
+          "zin": "البارح ___ مع صحابي.",
+          "nl": "Gisteren at ik met mijn vrienden.",
+          "woordbank": [
+            "كليت",
+            "كانكول",
+            "كلينا"
+          ],
+          "antwoord": [
+            "كليت"
+          ],
+          "uitleg": "{ar|كليت} = ik at."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "telwoordregels",
+          "bron": "drie mannen",
+          "antwoorden": [
+            "ثَلاثَةُ رِجالٍ",
+            "ثَلاثَةَ رِجالٍ"
+          ],
+          "uitleg": "Mannelijk → {ar|ثَلاثَةُ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "ontkenning-overzicht",
+          "bron": "Ik weet het niet.",
+          "antwoorden": [
+            "لا أَعْرِفُ"
+          ],
+          "uitleg": "{ar|لا} + muḍāriʿ."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "telwoordregels",
+          "bron": "عِنْدَنا خَمْسَةُ أَوْلادٍ.",
+          "antwoorden": [
+            "we hebben vijf kinderen",
+            "wij hebben vijf kinderen",
+            "we hebben vijf jongens"
+          ],
+          "uitleg": "{ar|وَلَدٌ} mannelijk → {ar|خَمْسَةُ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-presens",
+          "bron": "كانسكن ف أمستردام.",
+          "tr": "kanskən f-amstərdām.",
+          "antwoorden": [
+            "ik woon in amsterdam"
+          ],
+          "uitleg": "Darija: ka-n = ik."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Acht dagen' is ...",
+        "opties": [
+          "ثَمانِيَةُ أَيّامٍ",
+          "ثَمانِي أَيّامٍ",
+          "ثَمانِيَةُ يَوْمًا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَوْمٌ} mannelijk → met ة; meervoud genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoordregels",
+        "vraag": "'Vijftig dirham' is ...",
+        "opties": [
+          "خَمْسونَ دِرْهَمًا",
+          "خَمْسونَ دَراهِمَ",
+          "خَمْسونَ دِرْهَمٍ"
+        ],
+        "juist": 0,
+        "uitleg": "11–99: accusatief enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "grote-getallen",
+        "vraag": "'Vierduizend' is ...",
+        "opties": [
+          "أَرْبَعَةُ آلافٍ",
+          "أَرْبَعُمِئَةٍ",
+          "أَرْبَعَةُ أَلْفٍ"
+        ],
+        "juist": 0,
+        "uitleg": "3–10 + {ar|آلافٍ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-mudari",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "نُريدُ أَنْ نَشْتَرِيَ بَيْتًا.",
+          "نُريدُ أَنْ سَنَشْتَري بَيْتًا.",
+          "نُريدُ نَشْتَرَيْنا بَيْتًا."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنْ} + muḍāriʿ op -a."
+      },
+      {
+        "type": "luisteren",
+        "tag": "grote-getallen",
+        "tekst": "سَبْعُمِئَةٍ",
+        "vraag": "Welk getal hoor je?",
+        "opties": [
+          "700",
+          "70",
+          "7000"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَبْعُمِئَةٍ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ontkenning-overzicht",
+        "tekst": "ما فَهِمْتُ السُّؤالَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb de vraag niet begrepen.",
+          "Ik begrijp de vraag niet.",
+          "Ik heb de vraag begrepen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما} + māḍī."
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoordregels",
+        "zin": "عِنْدي ___ أَخَواتٍ.",
+        "nl": "Ik heb drie zussen.",
+        "woordbank": [
+          "ثَلاثُ",
+          "ثَلاثَةُ"
+        ],
+        "antwoord": [
+          "ثَلاثُ"
+        ],
+        "uitleg": "{ar|أُخْتٌ} vrouwelijk → zonder ة."
+      },
+      {
+        "type": "invullen",
+        "tag": "vervoeging-overzicht",
+        "zin": "أَنْتُنَّ ___ العَرَبِيَّةَ.",
+        "nl": "Jullie (v) leren Arabisch.",
+        "woordbank": [
+          "تَدْرُسْنَ",
+          "تَدْرُسونَ",
+          "يَدْرُسْنَ"
+        ],
+        "antwoord": [
+          "تَدْرُسْنَ"
+        ],
+        "uitleg": "تَـ … ـْنَ"
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "صَديقي يَنْتَظِرُ___ في المَحَطَّةِ.",
+        "nl": "Mijn vriend wacht op mij op het station.",
+        "woordbank": [
+          "ـني",
+          "ـي",
+          "ـنا"
+        ],
+        "antwoord": [
+          "ـني",
+          "ني"
+        ],
+        "uitleg": "ـني bij een werkwoord."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَطارٌ",
+            "nl": "vliegveld"
+          },
+          {
+            "ar": "بَيْضَةٌ",
+            "nl": "ei"
+          },
+          {
+            "ar": "مُتْحَفٌ",
+            "nl": "museum"
+          },
+          {
+            "ar": "هَدَفٌ",
+            "nl": "doel"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "jaartallen",
+        "nl": "1990 (begin rechts)",
+        "woorden": [
+          "أَلْفٌ",
+          "وَتِسْعُمِئَةٍ",
+          "وَتِسْعونَ"
+        ],
+        "uitleg": "1000 + 900 + 90."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "telwoordregels",
+        "bron": "twee kamers",
+        "antwoorden": [
+          "غُرْفَتانِ",
+          "غُرْفَتَيْنِ"
+        ],
+        "uitleg": "Dualis."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-verleden",
+        "bron": "wij schreven (Darija)",
+        "antwoorden": [
+          "كتبنا"
+        ],
+        "uitleg": "{ar|كتبنا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "an-mudari",
+        "bron": "أُريدُ أَنْ أَتَعَلَّمَ العَرَبِيَّةَ.",
+        "antwoorden": [
+          "ik wil arabisch leren"
+        ],
+        "uitleg": "{ar|أُريدُ أَنْ} + muḍāriʿ."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ontkenning-overzicht",
+        "bron": "لَيْسَتِ الغُرْفَةُ كَبيرَةً.",
+        "antwoorden": [
+          "de kamer is niet groot"
+        ],
+        "uitleg": "{ar|لَيْسَتْ} + accusatief."
+      }
+    ]
+  }
+}

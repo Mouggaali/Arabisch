@@ -1,0 +1,684 @@
+{
+  "id": "j2-p6-l66",
+  "code": "L66",
+  "type": "les",
+  "titel": "Natuur en dieren",
+  "thema": "Landschap, planten en dieren; gebroken meervouden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vier veelvoorkomende patronen van gebroken meervouden herkennen: أَفْعال، فُعول، فِعال، فُعُل.",
+    "bij een bekend enkelvoud het meervoud raden (en controleren).",
+    "over natuur en dieren vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l66-w01",
+      "ar": "أَشْجارٌ",
+      "tr": "ašjār",
+      "nl": [
+        "bomen"
+      ],
+      "soort": "meervoud (أَفْعال)",
+      "notitie": "Enkelvoud: {ar|شَجَرَةٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w02",
+      "ar": "أَزْهارٌ",
+      "tr": "azhār",
+      "nl": [
+        "bloemen"
+      ],
+      "soort": "meervoud (أَفْعال)",
+      "notitie": "Enkelvoud: {ar|زَهْرَةٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w03",
+      "ar": "أَنْهارٌ",
+      "tr": "anhār",
+      "nl": [
+        "rivieren"
+      ],
+      "soort": "meervoud (أَفْعال)",
+      "notitie": "Enkelvoud: {ar|نَهْرٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w04",
+      "ar": "طُيورٌ",
+      "tr": "ṭuyūr",
+      "nl": [
+        "vogels"
+      ],
+      "soort": "meervoud (فُعول)",
+      "notitie": "Enkelvoud: {ar|طائِرٌ} / {ar|طَيْرٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w05",
+      "ar": "أُسودٌ",
+      "tr": "usūd",
+      "nl": [
+        "leeuwen"
+      ],
+      "soort": "meervoud (فُعول)",
+      "notitie": "Enkelvoud: {ar|أَسَدٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w06",
+      "ar": "حُقولٌ",
+      "tr": "ḥuqūl",
+      "nl": [
+        "velden",
+        "akkers"
+      ],
+      "soort": "meervoud (فُعول)",
+      "notitie": "Enkelvoud: {ar|حَقْلٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w07",
+      "ar": "جِبالٌ",
+      "tr": "jibāl",
+      "nl": [
+        "bergen"
+      ],
+      "soort": "meervoud (فِعال)",
+      "notitie": "Enkelvoud: {ar|جَبَلٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w08",
+      "ar": "بِحارٌ",
+      "tr": "biḥār",
+      "nl": [
+        "zeeën"
+      ],
+      "soort": "meervoud (فِعال)",
+      "notitie": "Enkelvoud: {ar|بَحْرٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w09",
+      "ar": "كِلابٌ",
+      "tr": "kilāb",
+      "nl": [
+        "honden"
+      ],
+      "soort": "meervoud (فِعال)",
+      "notitie": "Enkelvoud: {ar|كَلْبٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w10",
+      "ar": "جِمالٌ",
+      "tr": "jimāl",
+      "nl": [
+        "kamelen"
+      ],
+      "soort": "meervoud (فِعال)",
+      "notitie": "Enkelvoud: {ar|جَمَلٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w11",
+      "ar": "طُرُقٌ",
+      "tr": "ṭuruq",
+      "nl": [
+        "wegen"
+      ],
+      "soort": "meervoud (فُعُل)",
+      "notitie": "Enkelvoud: {ar|طَريقٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w12",
+      "ar": "سُفُنٌ",
+      "tr": "sufun",
+      "nl": [
+        "schepen"
+      ],
+      "soort": "meervoud (فُعُل)",
+      "notitie": "Enkelvoud: {ar|سَفينَةٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w14",
+      "ar": "ثَعْلَبٌ",
+      "tr": "ṯaʿlab",
+      "nl": [
+        "vos"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|ثَعالِبُ}."
+    },
+    {
+      "id": "j2-p6-l66-w15",
+      "ar": "طَبيعَةٌ",
+      "tr": "ṭabīʿa",
+      "nl": [
+        "natuur"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l66-w16",
+      "ar": "وادٍ",
+      "tr": "wādin",
+      "nl": [
+        "dal",
+        "rivierbedding"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Met lidwoord: {ar|الوادي}. Meervoud: {ar|وِدْيانٌ}."
+    },
+    {
+      "id": "j2-p6-l66-w17",
+      "ar": "عُشْبٌ",
+      "tr": "ʿušb",
+      "nl": [
+        "gras",
+        "kruid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَعْشابٌ} (أَفْعال)."
+    },
+    {
+      "id": "j2-p6-l66-w18",
+      "ar": "بَرِّيٌّ",
+      "tr": "barriyy",
+      "nl": [
+        "wild (dier)",
+        "land-"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Gebroken meervouden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Bij een **gebroken meervoud** wordt het woord zelf omgebouwd: de wortel blijft, het patroon verandert. {ar|جَبَلٌ} → {ar|جِبالٌ}. Er zijn tientallen patronen; deze vier komen het meest voor bij korte woorden.",
+            "Gebroken meervouden van **dingen en dieren** zijn grammaticaal **vrouwelijk enkelvoud**: {ar|الجِبالُ عالِيَةٌ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Patroon",
+            "Enkelvoud",
+            "Meervoud",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            0,
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "أَفْعال",
+              "شَجَرَةٌ / نَهْرٌ",
+              "أَشْجارٌ / أَنْهارٌ",
+              "bomen / rivieren"
+            ],
+            [
+              "فُعول",
+              "طَيْرٌ / أَسَدٌ",
+              "طُيورٌ / أُسودٌ",
+              "vogels / leeuwen"
+            ],
+            [
+              "فِعال",
+              "جَبَلٌ / كَلْبٌ",
+              "جِبالٌ / كِلابٌ",
+              "bergen / honden"
+            ],
+            [
+              "فُعُل",
+              "طَريقٌ / مَدينَةٌ",
+              "طُرُقٌ / مُدُنٌ",
+              "wegen / steden"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zo onregelmatig? Gebroken meervouden zijn heel oud; ze werkten oorspronkelijk als verzamelnamen. Er zijn wel tendensen: **فُعُل** hoort vaak bij een enkelvoud met een lange klinker tussen de 2e en 3e letter ({ar|طَريقٌ}، {ar|سَفينَةٌ}); **أَفْعال** en **فُعول** vaak bij korte woorden ({ar|نَهْرٌ}، {ar|حَقْلٌ}). Toch: **leer elk meervoud samen met het enkelvoud**."
+        },
+        {
+          "type": "letop",
+          "md": "Deze vier patronen zijn **geen** diptoten: ze krijgen gewoon tanwīn ({ar|في جِبالٍ}). De diptote patronen (مَفاعِلُ، فُعَلاءُ …) komen in les 67."
+        }
+      ]
+    },
+    {
+      "titel": "In de natuur",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في المَغْرِبِ جِبالٌ عالِيَةٌ وَأَنْهارٌ طَويلَةٌ.",
+              "tr": "fi l-Maġribi jibālun ʿāliyatun wa-anhārun ṭawīla.",
+              "nl": "In Marokko zijn hoge bergen en lange rivieren."
+            },
+            {
+              "ar": "تَعيشُ في الغابَةِ حَيَواناتٌ بَرِّيَّةٌ كَثيرَةٌ.",
+              "tr": "taʿīšu fi l-ġābati ḥayawānātun barriyyatun kaṯīra.",
+              "nl": "In het bos leven veel wilde dieren."
+            },
+            {
+              "ar": "تَعيشُ الطُّيورُ في الأَشْجارِ.",
+              "tr": "taʿīšu ṭ-ṭuyūru fi l-ašjār.",
+              "nl": "De vogels leven in de bomen."
+            },
+            {
+              "ar": "أُحِبُّ الطَّبيعَةَ أَكْثَرَ مِنَ المُدُنِ.",
+              "tr": "uḥibbu ṭ-ṭabīʿata akṯara mina l-mudun.",
+              "nl": "Ik houd meer van de natuur dan van steden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "gebroken-mv",
+          "paren": [
+            {
+              "ar": "أَشْجارٌ",
+              "nl": "bomen",
+              "woord": "j2-p6-l66-w01"
+            },
+            {
+              "ar": "طُيورٌ",
+              "nl": "vogels",
+              "woord": "j2-p6-l66-w04"
+            },
+            {
+              "ar": "جِبالٌ",
+              "nl": "bergen",
+              "woord": "j2-p6-l66-w07"
+            },
+            {
+              "ar": "بِحارٌ",
+              "nl": "zeeën",
+              "woord": "j2-p6-l66-w08"
+            },
+            {
+              "ar": "طُرُقٌ",
+              "nl": "wegen",
+              "woord": "j2-p6-l66-w11"
+            },
+            {
+              "ar": "سُفُنٌ",
+              "nl": "schepen",
+              "woord": "j2-p6-l66-w12"
+            }
+          ],
+          "uitleg": "Meervouden."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَيَوانٌ",
+              "nl": "dier"
+            },
+            {
+              "ar": "ثَعْلَبٌ",
+              "nl": "vos",
+              "woord": "j2-p6-l66-w14"
+            },
+            {
+              "ar": "طَبيعَةٌ",
+              "nl": "natuur",
+              "woord": "j2-p6-l66-w15"
+            },
+            {
+              "ar": "عُشْبٌ",
+              "nl": "gras",
+              "woord": "j2-p6-l66-w17"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "gebroken-mv",
+          "tekst": "رَأَيْتُ أُسودًا في الحَديقَةِ",
+          "vraag": "Wat zag de spreker?",
+          "opties": [
+            "leeuwen",
+            "honden",
+            "vogels"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أُسودٌ} = leeuwen."
+        }
+      ]
+    },
+    {
+      "titel": "Patronen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "gebroken-mv",
+          "instructie": "Geef het meervoud.",
+          "rijen": [
+            {
+              "label": "نَهْرٌ (أَفْعال)",
+              "antwoord": "أَنْهارٌ",
+              "tr": "anhār"
+            },
+            {
+              "label": "حَقْلٌ (فُعول)",
+              "antwoord": "حُقولٌ",
+              "tr": "ḥuqūl"
+            },
+            {
+              "label": "جَمَلٌ (فِعال)",
+              "antwoord": "جِمالٌ",
+              "tr": "jimāl"
+            },
+            {
+              "label": "سَفينَةٌ (فُعُل)",
+              "antwoord": "سُفُنٌ",
+              "tr": "sufun"
+            }
+          ],
+          "uitleg": "Wortel blijft, patroon verandert."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebroken-mv",
+          "vraag": "Volgens welk patroon is {ar|بِحارٌ} gevormd?",
+          "opties": [
+            "فِعال",
+            "فُعول",
+            "أَفْعال"
+          ],
+          "juist": 0,
+          "uitleg": "ب-ح-ر in فِعال."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "gebroken-mv",
+          "vraag": "Wat is het enkelvoud van {ar|أَزْهارٌ}?",
+          "opties": [
+            "زَهْرَةٌ",
+            "أَزْهَرُ",
+            "زُهورٌ"
+          ],
+          "juist": 0,
+          "uitleg": "أَفْعال van ز-ه-ر."
+        },
+        {
+          "type": "invullen",
+          "tag": "meervoud-dingen",
+          "zin": "الجِبالُ هُنا ___.",
+          "nl": "De bergen zijn hier hoog.",
+          "woordbank": [
+            "عالِيَةٌ",
+            "عالونَ",
+            "عالٍ"
+          ],
+          "antwoord": [
+            "عالِيَةٌ"
+          ],
+          "uitleg": "Niet-menselijk meervoud → vrouwelijk enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "Natuur",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "gebroken-mv",
+          "nl": "In Marokko zijn hoge bergen en lange rivieren.",
+          "woorden": [
+            "في",
+            "المَغْرِبِ",
+            "جِبالٌ",
+            "عالِيَةٌ",
+            "وَأَنْهارٌ",
+            "طَويلَةٌ."
+          ],
+          "uitleg": "Meervoud dingen + vrouwelijk enkelvoud."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "تَعيشُ في الغابَةِ حَيَواناتٌ بَرِّيَّةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "In het bos leven wilde dieren.",
+            "In de zee leven vissen.",
+            "In het bos staan bomen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بَرِّيٌّ} = wild."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "gebroken-mv",
+          "bron": "de honden",
+          "antwoorden": [
+            "الكِلابُ"
+          ],
+          "uitleg": "فِعال"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "gebroken-mv",
+          "bron": "الطُّرُقُ في الجِبالِ ضَيِّقَةٌ.",
+          "antwoorden": [
+            "de wegen in de bergen zijn smal"
+          ],
+          "uitleg": "Twee gebroken meervouden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "gebroken-mv",
+        "paren": [
+          {
+            "ar": "أَنْهارٌ",
+            "nl": "rivieren"
+          },
+          {
+            "ar": "أُسودٌ",
+            "nl": "leeuwen"
+          },
+          {
+            "ar": "كِلابٌ",
+            "nl": "honden"
+          },
+          {
+            "ar": "حُقولٌ",
+            "nl": "velden"
+          },
+          {
+            "ar": "جِمالٌ",
+            "nl": "kamelen"
+          }
+        ],
+        "uitleg": "Meervouden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|شَجَرَةٌ} is ...",
+        "opties": [
+          "أَشْجارٌ",
+          "شُجورٌ",
+          "شِجارٌ"
+        ],
+        "juist": 0,
+        "uitleg": "أَفْعال"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|طَريقٌ} is ...",
+        "opties": [
+          "طُرُقٌ",
+          "أَطْراقٌ",
+          "طِراقٌ"
+        ],
+        "juist": 0,
+        "uitleg": "فُعُل"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Welk patroon is {ar|طُيورٌ}?",
+        "opties": [
+          "فُعول",
+          "فُعُل",
+          "فِعال"
+        ],
+        "juist": 0,
+        "uitleg": "ط-ي-ر in فُعول."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "meervoud-dingen",
+        "vraag": "'De rivieren zijn lang' is ...",
+        "opties": [
+          "الأَنْهارُ طَويلَةٌ.",
+          "الأَنْهارُ طَويلونَ.",
+          "الأَنْهارُ طَويلٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "gebroken-mv",
+        "tekst": "في البَحْرِ سُفُنٌ كَثيرَةٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Er zijn veel schepen op zee.",
+          "Er zijn veel vissen in zee.",
+          "Er zijn veel zeeën."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سُفُنٌ} = schepen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أُحِبُّ الطَّبيعَةَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik houd van de natuur.",
+          "Ik houd van dieren.",
+          "Ik houd van de stad."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الطَّبيعَةُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "gebroken-mv",
+        "zin": "نَسْكُنُ بَيْنَ ___ عالِيَةٍ.",
+        "nl": "We wonen tussen hoge bergen.",
+        "woordbank": [
+          "جِبالٍ",
+          "جَبَلٍ",
+          "جُبولٍ"
+        ],
+        "antwoord": [
+          "جِبالٍ"
+        ],
+        "uitleg": "فِعال, genitief."
+      },
+      {
+        "type": "invullen",
+        "tag": "gebroken-mv",
+        "zin": "في الحَديقَةِ ___ جَميلَةٌ.",
+        "nl": "In de tuin staan mooie bloemen.",
+        "woordbank": [
+          "أَزْهارٌ",
+          "زَهْرَةٌ",
+          "زُهورَةٌ"
+        ],
+        "antwoord": [
+          "أَزْهارٌ"
+        ],
+        "uitleg": "أَفْعال"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "gebroken-mv",
+        "instructie": "Geef het meervoud.",
+        "rijen": [
+          {
+            "label": "كَلْبٌ",
+            "antwoord": "كِلابٌ",
+            "tr": "kilāb"
+          },
+          {
+            "label": "مَدينَةٌ",
+            "antwoord": "مُدُنٌ",
+            "tr": "mudun"
+          }
+        ],
+        "uitleg": "فِعال · فُعُل"
+      },
+      {
+        "type": "ordenen",
+        "tag": "gebroken-mv",
+        "nl": "De wegen in de bergen zijn smal.",
+        "woorden": [
+          "الطُّرُقُ",
+          "في",
+          "الجِبالِ",
+          "ضَيِّقَةٌ."
+        ],
+        "uitleg": "Meervoud dingen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "gebroken-mv",
+        "bron": "de bergen",
+        "antwoorden": [
+          "الجِبالُ"
+        ],
+        "uitleg": "فِعال"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het dier",
+        "antwoorden": [
+          "الحَيَوانُ"
+        ],
+        "uitleg": "{ar|الحَيَوانُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "gebroken-mv",
+        "bron": "رَأَيْنا جِمالًا في الصَّحْراءِ.",
+        "antwoorden": [
+          "we zagen kamelen in de woestijn",
+          "we hebben kamelen gezien in de woestijn",
+          "wij zagen kamelen in de woestijn"
+        ],
+        "uitleg": "{ar|جِمالٌ} = kamelen."
+      }
+    ]
+  }
+}

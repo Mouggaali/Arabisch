@@ -1,0 +1,610 @@
+{
+  "id": "j3-p12-l138",
+  "code": "L138",
+  "type": "les",
+  "titel": "Luisteren",
+  "thema": "Omroepen, spraakberichten en radio; luisterstrategieën",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "omroepen op een vliegveld en station verstaan.",
+    "spraakberichten en het begin van een radioprogramma begrijpen.",
+    "luisterstrategieën gebruiken: voorspellen, kernwoorden, getallen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l138-w01",
+      "ar": "رُكّابٌ",
+      "tr": "rukkāb",
+      "nl": [
+        "passagiers"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|راكِبٌ}."
+    },
+    {
+      "id": "j3-p12-l138-w02",
+      "ar": "صُعودٌ",
+      "tr": "ṣuʿūd",
+      "nl": [
+        "instappen, boarding"
+      ],
+      "soort": "maṣdar"
+    },
+    {
+      "id": "j3-p12-l138-w03",
+      "ar": "تَوَجَّهَ إِلى",
+      "tr": "tawajjaha ilā",
+      "nl": [
+        "zich begeven naar"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p12-l138-w04",
+      "ar": "نَرْجو الاِنْتِباهَ",
+      "tr": "narjū l-intibāh",
+      "nl": [
+        "mag ik even uw aandacht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w05",
+      "ar": "رِسالَةٌ صَوْتِيَّةٌ",
+      "tr": "risālatun ṣawtiyya",
+      "nl": [
+        "spraakbericht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w06",
+      "ar": "بَرْنامَجٌ إِذاعِيٌّ",
+      "tr": "barnāmajun iḏāʿiyy",
+      "nl": [
+        "radioprogramma"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w07",
+      "ar": "حَلْقَةٌ",
+      "tr": "ḥalqa",
+      "nl": [
+        "aflevering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l138-w08",
+      "ar": "مُسْتَمِعونَ",
+      "tr": "mustamiʿūn",
+      "nl": [
+        "luisteraars"
+      ],
+      "soort": "deelwoord (mv)"
+    },
+    {
+      "id": "j3-p12-l138-w09",
+      "ar": "أُلْغِيَ",
+      "tr": "ulġiya",
+      "nl": [
+        "werd geannuleerd"
+      ],
+      "soort": "werkwoord (lijdend IV)"
+    },
+    {
+      "id": "j3-p12-l138-w10",
+      "ar": "مُتَوَجِّهٌ إِلى",
+      "tr": "mutawajjihun ilā",
+      "nl": [
+        "met bestemming"
+      ],
+      "soort": "deelwoord (V)"
+    },
+    {
+      "id": "j3-p12-l138-w11",
+      "ar": "في أَقْرَبِ وَقْتٍ",
+      "tr": "fī aqrabi waqt",
+      "nl": [
+        "zo snel mogelijk"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w12",
+      "ar": "عاوَدَ الاِتِّصالَ",
+      "tr": "ʿāwada l-ittiṣāl",
+      "nl": [
+        "terugbellen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w13",
+      "ar": "نُذَكِّرُكُمْ بِـ",
+      "tr": "nuḏakkirukum bi-",
+      "nl": [
+        "wij herinneren u aan"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w14",
+      "ar": "مَوْعِدُ الإِقْلاعِ",
+      "tr": "mawʿidu l-iqlāʿ",
+      "nl": [
+        "vertrektijd (vliegtuig)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l138-w16",
+      "ar": "فَقَدَ",
+      "tr": "faqada",
+      "nl": [
+        "verliezen, kwijtraken"
+      ],
+      "soort": "werkwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Luisterstrategieën",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Strategie",
+            "Wat je doet",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "voorspellen",
+              "bedenk vooraf wat je kunt verwachten",
+              "omroep op het vliegveld: vlucht, gate, tijd"
+            ],
+            [
+              "kernwoorden",
+              "let op zelfstandige naamwoorden en werkwoorden",
+              "أُلْغِيَتِ الرِّحْلَةُ"
+            ],
+            [
+              "getallen",
+              "schrijf getallen meteen op",
+              "رَقْمُ البَوّابَةِ سَبْعَةٌ"
+            ],
+            [
+              "signaalwoorden",
+              "let op wending en reden",
+              "لٰكِنْ، بِسَبَبِ، لِذٰلِكَ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij luisteren kun je niet terugspoelen. Daarom moet je **actief voorspellen**: een omroep op een vliegveld gaat bijna altijd over een vlucht, een bestemming, een gate en een tijd. Als je dat weet, hoef je alleen die vier gaten in te vullen."
+        },
+        {
+          "type": "letop",
+          "md": "Omroepen gebruiken vaste beleefdheidsformules: {ar|نَرْجو مِنَ السّادَةِ الرُّكّابِ …} (wij verzoeken de passagiers …), {ar|نُذَكِّرُكُمْ بِـ …} (wij herinneren u aan …)."
+        }
+      ]
+    },
+    {
+      "titel": "Fragmenten",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "نَرْجو مِنَ السّادَةِ الرُّكّابِ المُتَوَجِّهينَ إِلى أَمْسْتِرْدامَ التَّوَجُّهَ إِلى البَوّابَةِ رَقْمَ سَبْعَةٍ.",
+              "tr": "narjū mina s-sādati r-rukkābi l-mutawajjihīna ilā amstirdāma t-tawajjuha ila l-bawwābati raqma sabʿa.",
+              "nl": "Passagiers met bestemming Amsterdam worden verzocht zich naar gate zeven te begeven."
+            },
+            {
+              "ar": "نَأْسَفُ لِإِعْلامِكُمْ أَنَّ الرِّحْلَةَ أُلْغِيَتْ بِسَبَبِ سوءِ الأَحْوالِ الجَوِّيَّةِ.",
+              "tr": "naʾsafu li-iʿlāmikum anna r-riḥlata ulġiyat bi-sababi sūʾi l-aḥwāli l-jawwiyya.",
+              "nl": "Helaas moeten wij u meedelen dat de vlucht geannuleerd is wegens slecht weer."
+            },
+            {
+              "ar": "مَرْحَبًا، هٰذِهِ رِسالَةٌ صَوْتِيَّةٌ مِنْ عِيادَةِ الدُّكْتورِ سَعيدٍ. يُرْجى مُعاوَدَةُ الاِتِّصالِ في أَقْرَبِ وَقْتٍ.",
+              "tr": "marḥaban, hāḏihi risālatun ṣawtiyyatun min ʿiyādati d-duktūri saʿīd. yurjā muʿāwadatu l-ittiṣāli fī aqrabi waqt.",
+              "nl": "Hallo, dit is een spraakbericht van de praktijk van dokter Said. Wilt u zo snel mogelijk terugbellen?"
+            },
+            {
+              "ar": "أَهْلًا بِكُمْ أَعِزّائي المُسْتَمِعينَ في حَلْقَةٍ جَديدَةٍ مِنْ بَرْنامَجِنا.",
+              "tr": "ahlan bikum aʿizzāʾī l-mustamiʿīna fī ḥalqatin jadīdatin min barnāmajinā.",
+              "nl": "Welkom, beste luisteraars, bij een nieuwe aflevering van ons programma."
+            },
+            {
+              "ar": "نُذَكِّرُكُمْ بِأَنَّ الأَمْتِعَةَ يَجِبُ أَلّا تَتْرُكوها بِدونِ مُراقَبَةٍ.",
+              "tr": "nuḏakkirukum bi-anna l-amtiʿata yajibu allā tatrukūhā bi-dūni murāqaba.",
+              "nl": "Wij herinneren u eraan uw bagage niet onbeheerd achter te laten.",
+              "review": {
+                "status": "onzeker",
+                "note": "Formulering van deze omroep laten controleren."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رُكّابٌ",
+              "nl": "passagiers",
+              "woord": "j3-p12-l138-w01"
+            },
+            {
+              "ar": "صُعودٌ",
+              "nl": "instappen",
+              "woord": "j3-p12-l138-w02"
+            },
+            {
+              "ar": "حَلْقَةٌ",
+              "nl": "aflevering",
+              "woord": "j3-p12-l138-w07"
+            },
+            {
+              "ar": "أُلْغِيَ",
+              "nl": "werd geannuleerd",
+              "woord": "j3-p12-l138-w09"
+            },
+            {
+              "ar": "أَمْتِعَةٌ",
+              "nl": "bagage"
+            },
+            {
+              "ar": "فَقَدَ",
+              "nl": "kwijtraken",
+              "woord": "j3-p12-l138-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "أُلْغِيَتِ الرِّحْلَةُ بِسَبَبِ الطَّقْسِ",
+          "vraag": "Wat is er met de vlucht?",
+          "opties": [
+            "Hij is geannuleerd vanwege het weer.",
+            "Hij heeft vertraging.",
+            "Hij vertrekt eerder."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أُلْغِيَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Omroepen en berichten",
+      "items": [
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "نَرْجو مِنَ الرُّكّابِ التَّوَجُّهَ إِلى البَوّابَةِ رَقْمَ سَبْعَةٍ",
+          "vraag": "Naar welke gate moeten de passagiers?",
+          "opties": [
+            "7",
+            "17",
+            "70"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَبْعَةٍ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "يُرْجى مُعاوَدَةُ الاِتِّصالِ في أَقْرَبِ وَقْتٍ",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "zo snel mogelijk terugbellen",
+            "een mail sturen",
+            "langskomen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عاوَدَ الاِتِّصالَ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "luistervaardigheid",
+          "tekst": "أَهْلًا بِكُمْ في حَلْقَةٍ جَديدَةٍ مِنْ بَرْنامَجِنا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "het begin van een radioprogramma",
+            "een omroep op het station",
+            "een spraakbericht van de dokter"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|حَلْقَةٌ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "luistervaardigheid",
+          "vraag": "Wat doe je **vóór** het luisteren naar een omroep?",
+          "opties": [
+            "voorspellen welke informatie komt",
+            "alle woorden vertalen",
+            "de ogen sluiten"
+          ],
+          "juist": 0,
+          "uitleg": "Voorspellen."
+        },
+        {
+          "type": "invullen",
+          "tag": "luistervaardigheid",
+          "zin": "___ مِنَ السّادَةِ الرُّكّابِ الاِنْتِباهَ.",
+          "nl": "Wij vragen de passagiers om aandacht.",
+          "antwoord": [
+            "نَرْجو"
+          ],
+          "uitleg": "Omroepformule.",
+          "woordbank": [
+            "نَرْجو",
+            "نُذَكِّرُ",
+            "نَأْسَفُ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "luistervaardigheid",
+          "nl": "De vlucht is geannuleerd wegens slecht weer.",
+          "woorden": [
+            "أُلْغِيَتِ",
+            "الرِّحْلَةُ",
+            "بِسَبَبِ",
+            "سوءِ",
+            "الطَّقْسِ."
+          ],
+          "uitleg": "Lijdend."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de bagage",
+          "antwoorden": [
+            "الأَمْتِعَةُ",
+            "الأمتعة"
+          ],
+          "uitleg": "{ar|الأَمْتِعَةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "luistervaardigheid",
+          "bron": "هٰذِهِ رِسالَةٌ صَوْتِيَّةٌ مِنَ العِيادَةِ.",
+          "antwoorden": [
+            "dit is een spraakbericht van de praktijk",
+            "dit is een voicemail van de kliniek"
+          ],
+          "uitleg": "{ar|رِسالَةٌ صَوْتِيَّةٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَوَجَّهَ إِلى",
+            "nl": "zich begeven naar"
+          },
+          {
+            "ar": "بَرْنامَجٌ إِذاعِيٌّ",
+            "nl": "radioprogramma"
+          },
+          {
+            "ar": "مُسْتَمِعونَ",
+            "nl": "luisteraars"
+          },
+          {
+            "ar": "مَوْعِدُ الإِقْلاعِ",
+            "nl": "vertrektijd"
+          },
+          {
+            "ar": "في أَقْرَبِ وَقْتٍ",
+            "nl": "zo snel mogelijk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|نَأْسَفُ لِإِعْلامِكُمْ} kondigt aan ...",
+        "opties": [
+          "slecht nieuws",
+          "een felicitatie",
+          "een uitnodiging"
+        ],
+        "juist": 0,
+        "uitleg": "Helaas moeten wij u meedelen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "Waarop let je bij getallen in een omroep?",
+        "opties": [
+          "meteen opschrijven",
+          "negeren",
+          "pas aan het eind nadenken"
+        ],
+        "juist": 0,
+        "uitleg": "Getallen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "luistervaardigheid",
+        "vraag": "{ar|نُذَكِّرُكُمْ بِـ} betekent ...",
+        "opties": [
+          "wij herinneren u aan",
+          "wij vragen u",
+          "wij danken u"
+        ],
+        "juist": 0,
+        "uitleg": "Omroepformule."
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "مَوْعِدُ الإِقْلاعِ السّاعَةُ الثّالِثَةُ وَالنِّصْفُ",
+        "vraag": "Hoe laat vertrekt het vliegtuig?",
+        "opties": [
+          "om half vier",
+          "om drie uur",
+          "om half drie"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الثّالِثَةُ وَالنِّصْفُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "فَقَدْتُ حَقيبَتي في المَطارِ",
+        "vraag": "Wat is er gebeurd?",
+        "opties": [
+          "De spreker is zijn tas kwijtgeraakt op het vliegveld.",
+          "De spreker heeft een tas gekocht.",
+          "De tas is te zwaar."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَقَدَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "يَبْدَأُ الصُّعودُ إِلى الطّائِرَةِ بَعْدَ عَشْرِ دَقائِقَ",
+        "vraag": "Wanneer begint het instappen?",
+        "opties": [
+          "over tien minuten",
+          "over een uur",
+          "nu meteen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عَشْرِ دَقائِقَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "luistervaardigheid",
+        "tekst": "أَعِزّائي المُسْتَمِعينَ، ضَيْفُنا اليَوْمَ طَبيبٌ",
+        "vraag": "Wie is de gast?",
+        "opties": [
+          "een arts",
+          "een zanger",
+          "een leraar"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|طَبيبٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "luistervaardigheid",
+        "zin": "___ الرِّحْلَةُ بِسَبَبِ العاصِفَةِ.",
+        "nl": "De vlucht werd geannuleerd door de storm.",
+        "antwoord": [
+          "أُلْغِيَتِ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "أُلْغِيَتِ",
+          "أَلْغَتِ",
+          "تُلْغي"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "لا تَتْرُكوا ___ بِدونِ مُراقَبَةٍ.",
+        "nl": "Laat uw bagage niet onbeheerd achter.",
+        "antwoord": [
+          "أَمْتِعَتَكُمْ"
+        ],
+        "uitleg": "{ar|أَمْتِعَةٌ}",
+        "woordbank": [
+          "أَمْتِعَتَكُمْ",
+          "رُكّابَكُمْ",
+          "حَلْقَتَكُمْ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "luistervaardigheid",
+        "instructie": "Vul de omroepformule aan.",
+        "rijen": [
+          {
+            "label": "___ الاِنْتِباهَ (wij vragen)",
+            "antwoord": "نَرْجو",
+            "tr": "narjū"
+          },
+          {
+            "label": "___ لِإِعْلامِكُمْ (helaas)",
+            "antwoord": "نَأْسَفُ",
+            "tr": "naʾsafu"
+          }
+        ],
+        "uitleg": "Formules."
+      },
+      {
+        "type": "ordenen",
+        "tag": "luistervaardigheid",
+        "nl": "Welkom, beste luisteraars.",
+        "woorden": [
+          "أَهْلًا",
+          "بِكُمْ",
+          "أَعِزّائي",
+          "المُسْتَمِعينَ."
+        ],
+        "uitleg": "Radio."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het spraakbericht",
+        "antwoorden": [
+          "الرِّسالَةُ الصَّوْتِيَّةُ",
+          "الرسالة الصوتية",
+          "رِسالَةٌ صَوْتِيَّةٌ"
+        ],
+        "uitleg": "{ar|رِسالَةٌ صَوْتِيَّةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "luistervaardigheid",
+        "bron": "يُرْجى مُعاوَدَةُ الاِتِّصالِ.",
+        "antwoorden": [
+          "gelieve terug te bellen",
+          "wilt u terugbellen",
+          "graag terugbellen"
+        ],
+        "uitleg": "Spraakbericht."
+      }
+    ]
+  }
+}

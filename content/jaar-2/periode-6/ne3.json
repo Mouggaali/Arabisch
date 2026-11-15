@@ -1,0 +1,574 @@
+{
+  "id": "j2-p6-ne3",
+  "code": "NE3",
+  "type": "evaluatie",
+  "titel": "Niveau-evaluatie A2−",
+  "thema": "Ben je klaar voor periode 7? Lezen, luisteren, grammatica en woordenschat van jaar 2, periode 5 en 6",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Lezen:** korte teksten over werk en het dagelijks leven, met zwakke werkwoorden en naamvallen.",
+    "**Luisteren:** zinnen met afgeleide vormen, wijzen en partikels verstaan.",
+    "**Grammatica:** vormen I–X, manṣūb en majzūm, naamvallen, kāna/inna, meervouden.",
+    "**Woordenschat:** de thema's van periode 5 en 6.",
+    "Advies: ga door naar periode 7 als je in totaal 70% haalt én geen onderdeel onder 60% scoort."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de tekst. Wat was Youssef vroeger?",
+        "ar": "كانَ يوسُفُ صَحَفِيًّا في جَريدَةٍ كَبيرَةٍ في الدّارِ البَيْضاءِ. في الماضي كانَ يَكْتُبُ عَنِ الرِّياضَةِ، لٰكِنَّهُ صارَ الآنَ مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ. يُسافِرُ كَثيرًا إِلى عَواصِمَ عَرَبِيَّةٍ وَأوروبِّيَّةٍ. في الشَّهْرِ الماضي زارَ القاهِرَةَ وَقابَلَ وُزَراءَ وَسُفَراءَ. يَقولُ يوسُفُ إِنَّ عَمَلَهُ مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ جِدًّا.",
+        "opties": [
+          "sportjournalist",
+          "minister",
+          "ambassadeur"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كانَ يَكْتُبُ عَنِ الرِّياضَةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waarvoor is hij nu verantwoordelijk?",
+        "ar": "كانَ يوسُفُ صَحَفِيًّا في جَريدَةٍ كَبيرَةٍ في الدّارِ البَيْضاءِ. في الماضي كانَ يَكْتُبُ عَنِ الرِّياضَةِ، لٰكِنَّهُ صارَ الآنَ مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ. يُسافِرُ كَثيرًا إِلى عَواصِمَ عَرَبِيَّةٍ وَأوروبِّيَّةٍ. في الشَّهْرِ الماضي زارَ القاهِرَةَ وَقابَلَ وُزَراءَ وَسُفَراءَ. يَقولُ يوسُفُ إِنَّ عَمَلَهُ مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ جِدًّا.",
+        "opties": [
+          "het internationale nieuws",
+          "de sportpagina",
+          "de krant zelf"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waar was hij vorige maand?",
+        "ar": "كانَ يوسُفُ صَحَفِيًّا في جَريدَةٍ كَبيرَةٍ في الدّارِ البَيْضاءِ. في الماضي كانَ يَكْتُبُ عَنِ الرِّياضَةِ، لٰكِنَّهُ صارَ الآنَ مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ. يُسافِرُ كَثيرًا إِلى عَواصِمَ عَرَبِيَّةٍ وَأوروبِّيَّةٍ. في الشَّهْرِ الماضي زارَ القاهِرَةَ وَقابَلَ وُزَراءَ وَسُفَراءَ. يَقولُ يوسُفُ إِنَّ عَمَلَهُ مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ جِدًّا.",
+        "opties": [
+          "in Caïro",
+          "in Casablanca",
+          "in Europa"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|زارَ القاهِرَةَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Wie heeft hij daar ontmoet?",
+        "ar": "كانَ يوسُفُ صَحَفِيًّا في جَريدَةٍ كَبيرَةٍ في الدّارِ البَيْضاءِ. في الماضي كانَ يَكْتُبُ عَنِ الرِّياضَةِ، لٰكِنَّهُ صارَ الآنَ مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ. يُسافِرُ كَثيرًا إِلى عَواصِمَ عَرَبِيَّةٍ وَأوروبِّيَّةٍ. في الشَّهْرِ الماضي زارَ القاهِرَةَ وَقابَلَ وُزَراءَ وَسُفَراءَ. يَقولُ يوسُفُ إِنَّ عَمَلَهُ مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ جِدًّا.",
+        "opties": [
+          "ministers en ambassadeurs",
+          "sporters",
+          "journalisten"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وُزَراءَ وَسُفَراءَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Wat vindt Youssef van zijn werk?",
+        "ar": "كانَ يوسُفُ صَحَفِيًّا في جَريدَةٍ كَبيرَةٍ في الدّارِ البَيْضاءِ. في الماضي كانَ يَكْتُبُ عَنِ الرِّياضَةِ، لٰكِنَّهُ صارَ الآنَ مَسْؤولًا عَنِ الأَخْبارِ الدَّوْلِيَّةِ. يُسافِرُ كَثيرًا إِلى عَواصِمَ عَرَبِيَّةٍ وَأوروبِّيَّةٍ. في الشَّهْرِ الماضي زارَ القاهِرَةَ وَقابَلَ وُزَراءَ وَسُفَراءَ. يَقولُ يوسُفُ إِنَّ عَمَلَهُ مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ جِدًّا.",
+        "opties": [
+          "vermoeiend maar erg leuk",
+          "saai",
+          "makkelijk"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُتْعِبٌ، لٰكِنَّهُ مُمْتِعٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de tekst. Wat was de schrijver vergeten?",
+        "ar": "نَسيتُ مِفْتاحَ البَيْتِ في المَكْتَبِ، فَانْتَظَرْتُ أُخْتي أَمامَ البابِ ساعَةً. عِنْدَما وَصَلَتْ قالَتْ: لِماذا لَمْ تَتَّصِلْ بي؟ قُلْتُ لَها إِنَّ هاتِفي ضاعَ أَيْضًا! ضَحِكْنا كَثيرًا.",
+        "opties": [
+          "de huissleutel",
+          "de telefoon",
+          "de tas"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَسيتُ مِفْتاحَ البَيْتِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Hoe lang wachtte hij?",
+        "ar": "نَسيتُ مِفْتاحَ البَيْتِ في المَكْتَبِ، فَانْتَظَرْتُ أُخْتي أَمامَ البابِ ساعَةً. عِنْدَما وَصَلَتْ قالَتْ: لِماذا لَمْ تَتَّصِلْ بي؟ قُلْتُ لَها إِنَّ هاتِفي ضاعَ أَيْضًا! ضَحِكْنا كَثيرًا.",
+        "opties": [
+          "een uur",
+          "een minuut",
+          "een dag"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ساعَةً}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waarom belde hij zijn zus niet?",
+        "ar": "نَسيتُ مِفْتاحَ البَيْتِ في المَكْتَبِ، فَانْتَظَرْتُ أُخْتي أَمامَ البابِ ساعَةً. عِنْدَما وَصَلَتْ قالَتْ: لِماذا لَمْ تَتَّصِلْ بي؟ قُلْتُ لَها إِنَّ هاتِفي ضاعَ أَيْضًا! ضَحِكْنا كَثيرًا.",
+        "opties": [
+          "Zijn telefoon was ook kwijt.",
+          "Hij had geen tijd.",
+          "Zij nam niet op."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|هاتِفي ضاعَ أَيْضًا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Hoe eindigt het verhaal?",
+        "ar": "نَسيتُ مِفْتاحَ البَيْتِ في المَكْتَبِ، فَانْتَظَرْتُ أُخْتي أَمامَ البابِ ساعَةً. عِنْدَما وَصَلَتْ قالَتْ: لِماذا لَمْ تَتَّصِلْ بي؟ قُلْتُ لَها إِنَّ هاتِفي ضاعَ أَيْضًا! ضَحِكْنا كَثيرًا.",
+        "opties": [
+          "Ze lachten veel.",
+          "Ze kregen ruzie.",
+          "Hij ging naar huis."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضَحِكْنا كَثيرًا}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Op wie wachtte hij?",
+        "ar": "نَسيتُ مِفْتاحَ البَيْتِ في المَكْتَبِ، فَانْتَظَرْتُ أُخْتي أَمامَ البابِ ساعَةً. عِنْدَما وَصَلَتْ قالَتْ: لِماذا لَمْ تَتَّصِلْ بي؟ قُلْتُ لَها إِنَّ هاتِفي ضاعَ أَيْضًا! ضَحِكْنا كَثيرًا.",
+        "opties": [
+          "zijn zus",
+          "zijn moeder",
+          "zijn collega"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِنْتَظَرْتُ أُخْتي}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "يَعيشُ الأَغْنِياءُ في هٰذا الحَيِّ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De rijken wonen in deze wijk.",
+          "De armen wonen in deze wijk.",
+          "Deze wijk is nieuw."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الأَغْنِياءُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لَمْ أَجِدْ حَقيبَتي في المَطارِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik vond mijn koffer niet op het vliegveld.",
+          "Ik vond mijn koffer.",
+          "Ik vergat mijn koffer thuis."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ أَجِدْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أَصْبَحَ الجَوُّ بارِدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het werd koud.",
+          "Het was warm.",
+          "Het blijft koud."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَصْبَحَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "تَقابَلْنا صُدْفَةً في السّوقِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We kwamen elkaar toevallig op de markt tegen.",
+          "We spraken af op de markt.",
+          "We gingen samen naar de markt."
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VI."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "اِسْتَغْرَقَتِ الرِّحْلَةُ خَمْسَ ساعاتٍ",
+        "vraag": "Hoe lang duurde de reis?",
+        "opties": [
+          "vijf uur",
+          "vijftien uur",
+          "vijftig minuten"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَمْسَ ساعاتٍ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لا تَنْسَ أَنْ تُغْلِقَ البابَ",
+        "vraag": "Wat moet je doen?",
+        "opties": [
+          "niet vergeten de deur te sluiten",
+          "de deur openlaten",
+          "de sleutel meenemen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا تَنْسَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "قالَ المُذيعُ إِنَّ الطَّريقَ مُزْدَحِمٌ",
+        "vraag": "Wat zei de presentator?",
+        "opties": [
+          "dat de weg druk is",
+          "dat de weg dicht is",
+          "dat er geen verkeer is"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُزْدَحِمٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "نُريدُ أَنْ نُشارِكَ في المُباراةِ",
+        "vraag": "Wat willen ze?",
+        "opties": [
+          "meedoen aan de wedstrijd",
+          "naar de wedstrijd kijken",
+          "de wedstrijd winnen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نُشارِكَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "إِنَّ الصِّحَّةَ أَهَمُّ مِنَ المالِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Gezondheid is belangrijker dan geld.",
+          "Geld is belangrijker dan gezondheid.",
+          "Gezondheid kost geld."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَهَمُّ مِنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "هَلْ تَسْتَخْدِمُ هٰذا التَّطْبيقَ؟",
+        "vraag": "Wat wordt er gevraagd?",
+        "opties": [
+          "Gebruik je deze app?",
+          "Heb je deze app gemaakt?",
+          "Waar is deze app?"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Ze willen reizen' is ...",
+        "opties": [
+          "يُريدونَ أَنْ يُسافِروا.",
+          "يُريدونَ أَنْ يُسافِرونَ.",
+          "يُريدونَ يُسافِروا."
+        ],
+        "juist": 0,
+        "uitleg": "Manṣūb na {ar|أَنْ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Ik heb niet gegeten' (formeel) is ...",
+        "opties": [
+          "لَمْ آكُلْ.",
+          "لَمْ آكُلُ.",
+          "لَنْ آكُلَ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَمْ} + majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Welke vorm is {ar|اِجْتَمَعَ}?",
+        "opties": [
+          "VIII",
+          "VII",
+          "X"
+        ],
+        "juist": 0,
+        "uitleg": "ت na de eerste wortelletter."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'In veel scholen' is ...",
+        "opties": [
+          "في مَدارِسَ كَثيرَةٍ",
+          "في مَدارِسٍ كَثيرَةٍ",
+          "في مَدارِسِ كَثيرَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Diptoot."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "إِنَّ الطَّقْسَ جَميلٌ.",
+          "إِنَّ الطَّقْسُ جَميلًا.",
+          "كانَ الطَّقْسَ جَميلٌ."
+        ],
+        "juist": 0,
+        "uitleg": "Inna: onderwerp -a."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "المَتاجِرُ ___ يَوْمَ الأَحَدِ.",
+        "nl": "De winkels zijn op zondag gesloten.",
+        "woordbank": [
+          "مُغْلَقَةٌ",
+          "مُغْلَقونَ",
+          "مُغْلَقاتٌ"
+        ],
+        "antwoord": [
+          "مُغْلَقَةٌ"
+        ],
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "رَأَيْتُ ___كَ في السّوقِ.",
+        "nl": "Ik zag je vader op de markt.",
+        "woordbank": [
+          "أَبا",
+          "أَبو",
+          "أَبي"
+        ],
+        "antwoord": [
+          "أَبا"
+        ],
+        "uitleg": "Accusatief → ا."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "ne-grammatica",
+        "instructie": "Geef de vorm 'ik' in de māḍī.",
+        "rijen": [
+          {
+            "label": "قالَ",
+            "antwoord": "قُلْتُ",
+            "tr": "qultu"
+          },
+          {
+            "label": "مَشى",
+            "antwoord": "مَشَيْتُ",
+            "tr": "mašaytu"
+          },
+          {
+            "label": "تَعَلَّمَ",
+            "antwoord": "تَعَلَّمْتُ",
+            "tr": "taʿallamtu"
+          }
+        ],
+        "uitleg": "Hol · defectief · vorm V"
+      },
+      {
+        "type": "ordenen",
+        "tag": "ne-grammatica",
+        "nl": "Vroeger was ons dorp arm.",
+        "woorden": [
+          "في",
+          "الماضي",
+          "كانَتْ",
+          "قَرْيَتُنا",
+          "فَقيرَةً."
+        ],
+        "uitleg": "{ar|كانَ} + -a."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-grammatica",
+        "bron": "Ik zal niet roken.",
+        "antwoorden": [
+          "لَنْ أُدَخِّنَ"
+        ],
+        "uitleg": "{ar|لَنْ} + manṣūb."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "مَوْعِدٌ",
+            "nl": "afspraak"
+          },
+          {
+            "ar": "شاحِنَةٌ",
+            "nl": "vrachtwagen"
+          },
+          {
+            "ar": "فُرْصَةٌ",
+            "nl": "kans"
+          },
+          {
+            "ar": "وَصْفَةٌ",
+            "nl": "recept"
+          },
+          {
+            "ar": "لَهْجَةٌ",
+            "nl": "dialect"
+          }
+        ],
+        "uitleg": "Woordenschat jaar 2."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "مُباراةٌ",
+            "nl": "wedstrijd"
+          },
+          {
+            "ar": "شَبَكَةٌ",
+            "nl": "netwerk"
+          },
+          {
+            "ar": "قانونٌ",
+            "nl": "wet"
+          },
+          {
+            "ar": "خِلافٌ",
+            "nl": "ruzie"
+          },
+          {
+            "ar": "تَأْشيرَةٌ",
+            "nl": "visum"
+          }
+        ],
+        "uitleg": "Woordenschat jaar 2."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Wat is het tegenovergestelde van {ar|غَنِيٌّ}?",
+        "opties": [
+          "فَقيرٌ",
+          "سَعيدٌ",
+          "قَديمٌ"
+        ],
+        "juist": 0,
+        "uitleg": "rijk ↔ arm"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Waar betaal je in een winkel?",
+        "opties": [
+          "في صُنْدوقِ الدَّفْعِ",
+          "في المَطْبَخِ",
+          "في الجَمارِكِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صُنْدوقُ الدَّفْعِ} = kassa"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Welk woord hoort niet in het rijtje?",
+        "opties": [
+          "مَجَلَّةٌ",
+          "أَسَدٌ",
+          "ثَعْلَبٌ",
+          "جَمَلٌ"
+        ],
+        "juist": 0,
+        "uitleg": "De rest zijn dieren."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|مُتَرْجِمٌ} is iemand die ...",
+        "opties": [
+          "vertaalt",
+          "lesgeeft",
+          "verkoopt"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَرْجَمَ} = vertalen."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "اِرْبِطْ ___ الأَمانِ.",
+        "nl": "Doe je veiligheidsgordel om.",
+        "woordbank": [
+          "حِزامَ",
+          "مَقْعَدَ",
+          "مَمَرَّ"
+        ],
+        "antwoord": [
+          "حِزامَ"
+        ],
+        "uitleg": "{ar|حِزامُ الأَمانِ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "عِنْدي ___ مَعَ الطَّبيبِ غَدًا.",
+        "nl": "Ik heb morgen een afspraak met de dokter.",
+        "woordbank": [
+          "مَوْعِدٌ",
+          "مَقالٌ",
+          "مَحَلٌّ"
+        ],
+        "antwoord": [
+          "مَوْعِدٌ"
+        ],
+        "uitleg": "{ar|مَوْعِدٌ} = afspraak."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-woordenschat",
+        "bron": "اِسْتِعْلاماتٌ",
+        "antwoorden": [
+          "inlichtingen",
+          "informatiebalie",
+          "inlichtingenbalie"
+        ],
+        "uitleg": "{ar|اِسْتِعْلاماتٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-woordenschat",
+        "bron": "de bezienswaardigheid",
+        "antwoorden": [
+          "المَعْلَمُ"
+        ],
+        "uitleg": "{ar|المَعْلَمُ}"
+      }
+    ]
+  }
+}

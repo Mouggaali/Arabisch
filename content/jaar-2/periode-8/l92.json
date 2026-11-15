@@ -1,0 +1,619 @@
+{
+  "id": "j2-p8-l92",
+  "code": "L92",
+  "type": "les",
+  "titel": "Uitnodigingen",
+  "thema": "Uitnodigen, aannemen en afzeggen; uitroepen en jawel",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bewondering uitdrukken met ما أَفْعَلَ …! en يا لَهُ مِنْ …!",
+    "het verschil tussen نَعَمْ en بَلى gebruiken.",
+    "een uitnodiging doen, aannemen en beleefd afzeggen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l92-w01",
+      "ar": "ما أَجْمَلَ …!",
+      "tr": "mā ajmala …!",
+      "nl": [
+        "wat mooi …!"
+      ],
+      "soort": "uitroep",
+      "notitie": "+ accusatief: {ar|ما أَجْمَلَ البَحْرَ!}"
+    },
+    {
+      "id": "j2-p8-l92-w02",
+      "ar": "بَلى",
+      "tr": "balā",
+      "nl": [
+        "jawel, toch wel"
+      ],
+      "soort": "antwoord",
+      "notitie": "Na een ontkennende vraag."
+    },
+    {
+      "id": "j2-p8-l92-w03",
+      "ar": "دَعا إِلى",
+      "tr": "daʿā ilā",
+      "nl": [
+        "uitnodigen voor"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j2-p8-l92-w04",
+      "ar": "لَبّى الدَّعْوَةَ",
+      "tr": "labbā d-daʿwa",
+      "nl": [
+        "een uitnodiging aannemen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l92-w05",
+      "ar": "اِعْتَذَرَ عَنْ",
+      "tr": "iʿtaḏara ʿan",
+      "nl": [
+        "afzeggen, zich excuseren voor"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p8-l92-w06",
+      "ar": "حَفْلُ زِفافٍ",
+      "tr": "ḥaflu zifāf",
+      "nl": [
+        "huwelijksfeest"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l92-w07",
+      "ar": "عيدُ ميلادٍ سَعيدٌ",
+      "tr": "ʿīdu mīlādin saʿīd",
+      "nl": [
+        "gefeliciteerd met je verjaardag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l92-w08",
+      "ar": "بِكُلِّ سُرورٍ",
+      "tr": "bi-kulli surūr",
+      "nl": [
+        "met alle plezier"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l92-w09",
+      "ar": "لِلْأَسَفِ",
+      "tr": "li-l-asaf",
+      "nl": [
+        "helaas"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p8-l92-w10",
+      "ar": "مَدْعُوٌّ",
+      "tr": "madʿuww",
+      "nl": [
+        "uitgenodigd"
+      ],
+      "soort": "passief deelwoord",
+      "notitie": "Van {ar|دَعا}."
+    },
+    {
+      "id": "j2-p8-l92-w11",
+      "ar": "مُضيفٌ",
+      "tr": "muḍīf",
+      "nl": [
+        "gastheer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l92-w12",
+      "ar": "كَرَمٌ",
+      "tr": "karam",
+      "nl": [
+        "gastvrijheid, vrijgevigheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l92-w13",
+      "ar": "مُفاجَأَةٌ",
+      "tr": "mufājaʾa",
+      "nl": [
+        "verrassing"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l92-w15",
+      "ar": "يا لَهُ مِنْ …!",
+      "tr": "yā lahu min …!",
+      "nl": [
+        "wat een …!"
+      ],
+      "soort": "uitroep",
+      "notitie": "{ar|يا لَهُ مِنْ يَوْمٍ!} = wat een dag!"
+    },
+    {
+      "id": "j2-p8-l92-w16",
+      "ar": "أَهْلًا وَسَهْلًا بِكُمْ",
+      "tr": "ahlan wa-sahlan bikum",
+      "nl": [
+        "welkom (groep)"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Uitroepen: ما أَفْعَلَ …!",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Bewondering of verbazing uit je met {ar|ما} + **أَفْعَلَ** (met -a) + een naamwoord in de **accusatief**: {ar|ما أَجْمَلَ الحَفْلَةَ!} (wat een mooi feest!), {ar|ما أَطْيَبَ الطَّعامَ!} (wat is het eten lekker!).",
+            "Een andere vaste uitroep: {ar|يا لَهُ مِنْ …!} + genitief: {ar|يا لَها مِنْ مُفاجَأَةٍ!} (wat een verrassing!)."
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|أَفْعَلَ} met -a en een accusatief erna? Het is oorspronkelijk een **werkwoord** van vorm IV: *wat heeft het feest mooi gemaakt!* Het woord na {ar|ما أَفْعَلَ} is dus een lijdend voorwerp. Het verschilt van de vergrotende trap {ar|أَجْمَلُ} (met -u)."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|ما أَجْمَلَ} (uitroep) ≠ {ar|ما أَجْمَلُ؟} (vraag: wat is het mooiste?). Let op de eindklinker en de toon."
+        }
+      ]
+    },
+    {
+      "titel": "Ja en jawel: نَعَمْ en بَلى",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Vraag",
+            "Antwoord",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "هَلْ سَتَأْتي؟ (kom je?)",
+              "نَعَمْ",
+              "ja, ik kom"
+            ],
+            [
+              "أَلا تَأْتي؟ (kom je niet?)",
+              "بَلى",
+              "jawel, ik kom wél"
+            ],
+            [
+              "أَلا تَأْتي؟",
+              "نَعَمْ",
+              "nee inderdaad, ik kom niet"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|بَلى} spreekt een **ontkennende** vraag tegen, zoals het Nederlandse *jawel* of het Franse *si*. Met {ar|نَعَمْ} bevestig je juist de ontkenning."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "نَدْعوكُمْ إِلى حَفْلِ زِفافِ ابْنَتِنا.",
+              "tr": "nadʿūkum ilā ḥafli zifāfi bnatinā.",
+              "nl": "We nodigen jullie uit voor het huwelijksfeest van onze dochter."
+            },
+            {
+              "ar": "بِكُلِّ سُرورٍ، سَنَأْتي!",
+              "tr": "bi-kulli surūrin, sa-naʾtī!",
+              "nl": "Met alle plezier, we komen!"
+            },
+            {
+              "ar": "لِلْأَسَفِ، أَعْتَذِرُ عَنِ الحُضورِ.",
+              "tr": "li-l-asaf, aʿtaḏiru ʿani l-ḥuḍūr.",
+              "nl": "Helaas moet ik afzeggen."
+            },
+            {
+              "ar": "ما أَطْيَبَ هٰذِهِ الكَعْكَةَ!",
+              "tr": "mā aṭyaba hāḏihi l-kaʿka!",
+              "nl": "Wat is deze taart lekker!"
+            },
+            {
+              "ar": "أَلَمْ تَقْرَأِ الدَّعْوَةَ؟ — بَلى، قَرَأْتُها!",
+              "tr": "a-lam taqraʾi d-daʿwa? — balā, qaraʾtuhā!",
+              "nl": "Heb je de uitnodiging niet gelezen? — Jawel, ik heb hem gelezen!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بَلى",
+              "nl": "jawel",
+              "woord": "j2-p8-l92-w02"
+            },
+            {
+              "ar": "لِلْأَسَفِ",
+              "nl": "helaas",
+              "woord": "j2-p8-l92-w09"
+            },
+            {
+              "ar": "بِكُلِّ سُرورٍ",
+              "nl": "met alle plezier",
+              "woord": "j2-p8-l92-w08"
+            },
+            {
+              "ar": "مُضيفٌ",
+              "nl": "gastheer",
+              "woord": "j2-p8-l92-w11"
+            },
+            {
+              "ar": "مُفاجَأَةٌ",
+              "nl": "verrassing",
+              "woord": "j2-p8-l92-w13"
+            },
+            {
+              "ar": "مَدْعُوٌّ",
+              "nl": "uitgenodigd",
+              "woord": "j2-p8-l92-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "uitroep",
+          "tekst": "ما أَجْمَلَ البَحْرَ!",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Wat is de zee mooi!",
+            "Wat is het mooiste?",
+            "De zee is niet mooi."
+          ],
+          "juist": 0,
+          "uitleg": "Uitroep."
+        }
+      ]
+    },
+    {
+      "titel": "Uitroepen en antwoorden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "uitroep",
+          "zin": "ما أَجْمَلَ ___!",
+          "nl": "Wat een mooi feest!",
+          "antwoord": [
+            "الحَفْلَةَ"
+          ],
+          "uitleg": "Na {ar|ما أَفْعَلَ}: accusatief.",
+          "woordbank": [
+            "الحَفْلَةَ",
+            "الحَفْلَةُ",
+            "الحَفْلَةِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitroep",
+          "vraag": "'Kom je niet?' — 'Jawel!' Welk woord?",
+          "opties": [
+            "بَلى",
+            "نَعَمْ",
+            "لا"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بَلى} spreekt een ontkenning tegen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "uitroep",
+          "vraag": "Wat betekent {ar|يا لَهُ مِنْ يَوْمٍ!}?",
+          "opties": [
+            "Wat een dag!",
+            "Welke dag is het?",
+            "Op een dag."
+          ],
+          "juist": 0,
+          "uitleg": "Uitroep."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "uitroep",
+          "instructie": "Maak de uitroep (ما أَفْعَلَ).",
+          "rijen": [
+            {
+              "label": "lekker (طَيِّبٌ)",
+              "antwoord": "ما أَطْيَبَ",
+              "tr": "mā aṭyaba",
+              "eind": true
+            },
+            {
+              "label": "groot (كَبيرٌ)",
+              "antwoord": "ما أَكْبَرَ",
+              "tr": "mā akbara",
+              "eind": true
+            }
+          ],
+          "uitleg": "أَفْعَلَ met -a."
+        },
+        {
+          "type": "invullen",
+          "tag": "woordenschat",
+          "zin": "___، لا أَسْتَطيعُ الحُضورَ.",
+          "nl": "Helaas kan ik niet komen.",
+          "antwoord": [
+            "لِلْأَسَفِ"
+          ],
+          "uitleg": "{ar|لِلْأَسَفِ}",
+          "woordbank": [
+            "لِلْأَسَفِ",
+            "بِكُلِّ سُرورٍ",
+            "بَلى"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Uitnodigingen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "uitroep",
+          "nl": "We nodigen jullie uit voor het huwelijksfeest.",
+          "woorden": [
+            "نَدْعوكُمْ",
+            "إِلى",
+            "حَفْلِ",
+            "الزِّفافِ."
+          ],
+          "uitleg": "{ar|دَعا إِلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "met alle plezier",
+          "antwoorden": [
+            "بِكُلِّ سُرورٍ"
+          ],
+          "uitleg": "{ar|بِكُلِّ سُرورٍ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "uitroep",
+          "bron": "ما أَطْيَبَ هٰذِهِ الكَعْكَةَ!",
+          "antwoorden": [
+            "wat is deze taart lekker",
+            "wat een lekkere taart",
+            "deze taart is heerlijk"
+          ],
+          "uitleg": "Uitroep."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حَفْلُ زِفافٍ",
+            "nl": "huwelijksfeest"
+          },
+          {
+            "ar": "كَرَمٌ",
+            "nl": "gastvrijheid"
+          },
+          {
+            "ar": "كَعْكَةٌ",
+            "nl": "taart"
+          },
+          {
+            "ar": "اِعْتَذَرَ عَنْ",
+            "nl": "afzeggen"
+          },
+          {
+            "ar": "لَبّى الدَّعْوَةَ",
+            "nl": "uitnodiging aannemen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "Welke zin is een uitroep?",
+        "opties": [
+          "ما أَجْمَلَ الطَّقْسَ!",
+          "ما أَجْمَلُ مَكانٍ؟",
+          "الطَّقْسُ جَميلٌ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما أَفْعَلَ} + accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "Na {ar|ما أَفْعَلَ} staat het naamwoord in de ...",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend voorwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "uitroep",
+        "vraag": "'Heb je het niet gehoord?' — 'Ja (ik heb het niet gehoord).' Welk woord?",
+        "opties": [
+          "نَعَمْ",
+          "بَلى",
+          "أَجَلْ, nee"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَعَمْ} bevestigt de ontkenning."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Hoe zeg je 'helaas'?",
+        "opties": [
+          "لِلْأَسَفِ",
+          "بِكُلِّ سُرورٍ",
+          "مَبْروكٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لِلْأَسَفِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "uitroep",
+        "tekst": "يا لَها مِنْ مُفاجَأَةٍ!",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Wat een verrassing!",
+          "Geen verrassing.",
+          "Is het een verrassing?"
+        ],
+        "juist": 0,
+        "uitleg": "Uitroep."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أَهْلًا وَسَهْلًا بِكُمْ في بَيْتِنا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Welkom in ons huis.",
+          "Tot ziens.",
+          "Kom niet binnen."
+        ],
+        "juist": 0,
+        "uitleg": "Welkom."
+      },
+      {
+        "type": "invullen",
+        "tag": "uitroep",
+        "zin": "ما ___ هٰذا المَكانَ!",
+        "nl": "Wat is deze plek mooi!",
+        "antwoord": [
+          "أَجْمَلَ"
+        ],
+        "uitleg": "أَفْعَلَ met -a.",
+        "woordbank": [
+          "أَجْمَلَ",
+          "أَجْمَلُ",
+          "جَميلٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "uitroep",
+        "zin": "أَلا تُحِبُّ القَهْوَةَ؟ — ___، أُحِبُّها كَثيرًا!",
+        "nl": "Houd je niet van koffie? — Jawel, heel erg!",
+        "antwoord": [
+          "بَلى"
+        ],
+        "uitleg": "Ontkenning tegenspreken.",
+        "woordbank": [
+          "بَلى",
+          "نَعَمْ",
+          "لا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "أَنا ___ إِلى الحَفْلَةِ.",
+        "nl": "Ik ben uitgenodigd voor het feest.",
+        "antwoord": [
+          "مَدْعُوٌّ"
+        ],
+        "uitleg": "Passief deelwoord.",
+        "woordbank": [
+          "مَدْعُوٌّ",
+          "مُضيفٌ",
+          "كَرَمٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "uitroep",
+        "instructie": "Maak de uitroep.",
+        "rijen": [
+          {
+            "label": "mooi (جَميلٌ)",
+            "antwoord": "ما أَجْمَلَ",
+            "tr": "mā ajmala",
+            "eind": true
+          }
+        ],
+        "uitleg": "أَفْعَلَ."
+      },
+      {
+        "type": "ordenen",
+        "tag": "uitroep",
+        "nl": "Wat is de zee mooi!",
+        "woorden": [
+          "ما",
+          "أَجْمَلَ",
+          "البَحْرَ!"
+        ],
+        "uitleg": "Uitroep."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "helaas",
+        "antwoorden": [
+          "لِلْأَسَفِ",
+          "مَعَ الأَسَفِ"
+        ],
+        "uitleg": "{ar|لِلْأَسَفِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "نَدْعوكَ إِلى عيدِ ميلادِ ابْنِنا.",
+        "antwoorden": [
+          "we nodigen je uit voor de verjaardag van onze zoon",
+          "wij nodigen je uit voor de verjaardag van onze zoon"
+        ],
+        "uitleg": "{ar|دَعا إِلى}"
+      }
+    ]
+  }
+}

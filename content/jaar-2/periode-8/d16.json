@@ -1,0 +1,630 @@
+{
+  "id": "j2-p8-d16",
+  "code": "D16",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: Franse en Spaanse leenwoorden",
+  "thema": "Alledaagse woorden uit het Frans en het Spaans",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "veelgebruikte Franse en Spaanse leenwoorden in het Darija herkennen.",
+    "het bijbehorende Fusha-woord noemen.",
+    "uitleggen waarom het Darija zoveel leenwoorden heeft."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-d16-w01",
+      "ar": "الطوبيس",
+      "tr": "ṭṭōbīs",
+      "nl": [
+        "de bus"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *autobus*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w03",
+      "ar": "الكار",
+      "tr": "lkār",
+      "nl": [
+        "de touringcar"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *car*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w04",
+      "ar": "البيرو",
+      "tr": "lbīro",
+      "nl": [
+        "het kantoor"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *bureau*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w05",
+      "ar": "الفرملي",
+      "tr": "lfərmli",
+      "nl": [
+        "de verpleger"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *infirmier*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w06",
+      "ar": "السبيطار",
+      "tr": "ssbīṭār",
+      "nl": [
+        "het ziekenhuis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Spaans *hospital*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w08",
+      "ar": "السيمانة",
+      "tr": "ssīmāna",
+      "nl": [
+        "de week"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Spaans *semana*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w09",
+      "ar": "الفيشطة",
+      "tr": "lfīšṭa",
+      "nl": [
+        "het feest"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Spaans *fiesta*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w10",
+      "ar": "الروبيني",
+      "tr": "rrūbīni",
+      "nl": [
+        "de kraan"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *robinet*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w11",
+      "ar": "البورطابل",
+      "tr": "lbōrṭābl",
+      "nl": [
+        "de mobiele telefoon"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *portable*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w12",
+      "ar": "الفاكانس",
+      "tr": "lfākāns",
+      "nl": [
+        "de vakantie"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *vacances*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w13",
+      "ar": "نورمال",
+      "tr": "nōrmāl",
+      "nl": [
+        "normaal, prima"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w14",
+      "ar": "الكارطة",
+      "tr": "lkāṛṭa",
+      "nl": [
+        "de kaart (pas)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w15",
+      "ar": "الطابلة",
+      "tr": "ṭṭābla",
+      "nl": [
+        "de tafel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *table* / Spaans *tabla*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w16",
+      "ar": "الشانطي",
+      "tr": "ššānṭi",
+      "nl": [
+        "de bouwplaats"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *chantier*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d16-w17",
+      "ar": "الكاميو",
+      "tr": "lkāmyu",
+      "nl": [
+        "de vrachtwagen"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Frans *camion*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Frans en Spaans in het Darija",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Darija",
+            "Herkomst",
+            "Fusha"
+          ],
+          "rijen": [
+            [
+              "الطوبيس|ṭṭōbīs",
+              "Frans autobus",
+              "الحافِلَةُ"
+            ],
+            [
+              "السبيطار|ssbīṭār",
+              "Spaans hospital",
+              "المُسْتَشْفى"
+            ],
+            [
+              "البيرو|lbīro",
+              "Frans bureau",
+              "المَكْتَبُ"
+            ],
+            [
+              "السيمانة|ssīmāna",
+              "Spaans semana",
+              "الأُسْبوعُ"
+            ],
+            [
+              "الفاكانس|lfākāns",
+              "Frans vacances",
+              "العُطْلَةُ"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom zoveel Europese woorden? Noord-Marokko was een Spaans protectoraat, de rest een Frans protectoraat (1912–1956). Bovendien leven er al eeuwen contacten met Spanje. Leenwoorden krijgen het Arabische lidwoord en vaak Arabische meervouden: {ar|طوبيس} → {ar|طوبيسات}."
+        },
+        {
+          "type": "letop",
+          "md": "In formele situaties (nieuws, documenten) gebruiken Marokkanen het Fusha-woord. In het dagelijks leven klinkt het leenwoord natuurlijker."
+        }
+      ]
+    },
+    {
+      "titel": "In zinnen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "خديت الطوبيس للبيرو.",
+              "tr": "xdīt ṭṭōbīs l-lbīro.",
+              "nl": "Ik nam de bus naar kantoor.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "خويا خدام فرملي ف السبيطار.",
+              "tr": "xūya xddām fərmli f-ssbīṭār.",
+              "nl": "Mijn broer werkt als verpleger in het ziekenhuis.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ف الفاكانس غادي نمشيو للبحر.",
+              "tr": "f-lfākāns ġādi nmšīw l-lbḥəṛ.",
+              "nl": "In de vakantie gaan we naar zee.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الروبيني خاسر.",
+              "tr": "rrūbīni xāsəṛ.",
+              "nl": "De kraan is kapot.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-leenwoorden",
+          "paren": [
+            {
+              "ar": "الطوبيس",
+              "nl": "bus",
+              "woord": "j2-p8-d16-w01"
+            },
+            {
+              "ar": "السبيطار",
+              "nl": "ziekenhuis",
+              "woord": "j2-p8-d16-w06"
+            },
+            {
+              "ar": "البيرو",
+              "nl": "kantoor",
+              "woord": "j2-p8-d16-w04"
+            },
+            {
+              "ar": "الفيشطة",
+              "nl": "feest",
+              "woord": "j2-p8-d16-w09"
+            },
+            {
+              "ar": "البورطابل",
+              "nl": "mobiel",
+              "woord": "j2-p8-d16-w11"
+            },
+            {
+              "ar": "الروبيني",
+              "nl": "kraan",
+              "woord": "j2-p8-d16-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-leenwoorden",
+          "tekst": "الفاكانس",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "de vakantie",
+            "het kantoor",
+            "de bus"
+          ],
+          "juist": 0,
+          "uitleg": "Frans *vacances* (de computerstem spreekt dit mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Herkomst",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-leenwoorden",
+          "vraag": "{ar|السبيطار} komt uit het ...",
+          "opties": [
+            "Spaans",
+            "Frans",
+            "Fusha"
+          ],
+          "juist": 0,
+          "uitleg": "*hospital*"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-leenwoorden",
+          "vraag": "{ar|البيرو} komt uit het ...",
+          "opties": [
+            "Frans",
+            "Spaans",
+            "Engels"
+          ],
+          "juist": 0,
+          "uitleg": "*bureau*"
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-leenwoorden",
+          "zin": "خديت ___ للخدمة.",
+          "nl": "Ik nam de bus naar het werk.",
+          "antwoord": [
+            "الطوبيس"
+          ],
+          "uitleg": "{ar|الطوبيس}",
+          "woordbank": [
+            "الطوبيس",
+            "الروبيني",
+            "الكوزينة"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-leenwoorden",
+          "nl": "In de vakantie gaan we naar zee.",
+          "woorden": [
+            "ف",
+            "الفاكانس",
+            "غادي",
+            "نمشيو",
+            "للبحر."
+          ],
+          "uitleg": "Leenwoord + غادي."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-leenwoorden",
+          "bron": "het ziekenhuis (Darija)",
+          "antwoorden": [
+            "السبيطار"
+          ],
+          "uitleg": "{ar|السبيطار}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-leenwoorden",
+          "bron": "البورطابل ديالي ضاع",
+          "antwoorden": [
+            "mijn mobiel is kwijt",
+            "mijn telefoon is kwijt",
+            "mijn gsm is kwijt"
+          ],
+          "uitleg": "Leenwoord + ديال.",
+          "tr": "lbōrṭābl dyāli ḍāʿ"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-leenwoorden",
+        "paren": [
+          {
+            "ar": "السيمانة",
+            "nl": "week"
+          },
+          {
+            "ar": "الطابلة",
+            "nl": "tafel"
+          },
+          {
+            "ar": "الكار",
+            "nl": "touringcar"
+          },
+          {
+            "ar": "نورمال",
+            "nl": "prima"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|البيرو} is in het Fusha ...",
+        "opties": [
+          "المَكْتَبُ",
+          "المُسْتَشْفى",
+          "الحافِلَةُ"
+        ],
+        "juist": 0,
+        "uitleg": "kantoor."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|الفاكانس} is in het Fusha ...",
+        "opties": [
+          "العُطْلَةُ",
+          "الأُسْبوعُ",
+          "الحَفْلَةُ"
+        ],
+        "juist": 0,
+        "uitleg": "vakantie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-leenwoorden",
+        "vraag": "Waarom heeft het Darija veel Spaanse woorden?",
+        "opties": [
+          "contact met Spanje en het Spaanse protectoraat",
+          "omdat Darija van het Spaans afstamt",
+          "door het internet"
+        ],
+        "juist": 0,
+        "uitleg": "Geschiedenis."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-leenwoorden",
+        "tekst": "السبيطار بعيد",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het ziekenhuis is ver.",
+          "Het kantoor is dichtbij.",
+          "De bus is te laat."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|السبيطار}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-leenwoorden",
+        "tekst": "الروبيني خاسر",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De kraan is kapot.",
+          "De auto is kapot.",
+          "De tafel is nieuw."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الروبيني}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-leenwoorden",
+        "zin": "خويا خدام ف ___.",
+        "nl": "Mijn broer werkt in het ziekenhuis.",
+        "antwoord": [
+          "السبيطار"
+        ],
+        "uitleg": "Spaans *hospital*.",
+        "woordbank": [
+          "السبيطار",
+          "الفيشطة",
+          "الكار"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-leenwoorden",
+        "zin": "شحال ديال الأيام ف ___؟",
+        "nl": "Hoeveel dagen zitten er in een week?",
+        "antwoord": [
+          "السيمانة"
+        ],
+        "uitleg": "Spaans *semana*.",
+        "woordbank": [
+          "السيمانة",
+          "الفاكانس",
+          "البيرو"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-leenwoorden",
+        "nl": "Ik nam de bus naar kantoor.",
+        "woorden": [
+          "خديت",
+          "الطوبيس",
+          "للبيرو."
+        ],
+        "uitleg": "Twee leenwoorden."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-leenwoorden",
+        "bron": "de bus (Darija)",
+        "antwoorden": [
+          "الطوبيس"
+        ],
+        "uitleg": "{ar|الطوبيس}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-leenwoorden",
+        "bron": "het feest (Darija)",
+        "antwoorden": [
+          "الفيشطة"
+        ],
+        "uitleg": "{ar|الفيشطة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-leenwoorden",
+        "bron": "كلشي نورمال",
+        "antwoorden": [
+          "alles is prima",
+          "alles is normaal",
+          "alles is in orde"
+        ],
+        "uitleg": "Frans *normal*.",
+        "tr": "kulši nōrmāl"
+      }
+    ]
+  }
+}

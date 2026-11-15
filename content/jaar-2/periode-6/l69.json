@@ -1,0 +1,751 @@
+{
+  "id": "j2-p6-l69",
+  "code": "L69",
+  "type": "les",
+  "titel": "Winkel en markt",
+  "thema": "Kopen, verkopen, ruilen; holle werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "holle werkwoorden (middelste wortelletter و of ي) herkennen.",
+    "de lange en de korte stam gebruiken: قالَ / قُلْتُ، باعَ / بِعْتُ، نامَ / نِمْتُ.",
+    "holle werkwoorden vervoegen in māḍī, muḍāriʿ, majzūm en gebiedende wijs.",
+    "in een winkel kopen, ruilen en betalen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l69-w02",
+      "ar": "قالَ",
+      "tr": "qāla",
+      "nl": [
+        "zeggen"
+      ],
+      "soort": "werkwoord (hol, و)",
+      "notitie": "{ar|قُلْتُ} · {ar|يَقولُ} · {ar|قُلْ!}"
+    },
+    {
+      "id": "j2-p6-l69-w03",
+      "ar": "نامَ",
+      "tr": "nāma",
+      "nl": [
+        "slapen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|نِمْتُ} · {ar|يَنامُ} · {ar|نَمْ!}"
+    },
+    {
+      "id": "j2-p6-l69-w05",
+      "ar": "ضاعَ",
+      "tr": "ḍāʿa",
+      "nl": [
+        "kwijtraken (verloren gaan)"
+      ],
+      "soort": "werkwoord (hol, ي)",
+      "notitie": "{ar|ضاعَ هاتِفي} = mijn telefoon is kwijt."
+    },
+    {
+      "id": "j2-p6-l69-w06",
+      "ar": "تاجِرٌ",
+      "tr": "tājir",
+      "nl": [
+        "handelaar",
+        "koopman"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|تُجّارٌ}."
+    },
+    {
+      "id": "j2-p6-l69-w07",
+      "ar": "بِضاعَةٌ",
+      "tr": "biḍāʿa",
+      "nl": [
+        "koopwaar",
+        "goederen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l69-w09",
+      "ar": "صُنْدوقُ الدَّفْعِ",
+      "tr": "ṣundūqu d-dafʿ",
+      "nl": [
+        "kassa"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l69-w10",
+      "ar": "إيصالٌ",
+      "tr": "īṣāl",
+      "nl": [
+        "bonnetje",
+        "kassabon"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l69-w12",
+      "ar": "جَرَّبَ",
+      "tr": "jarraba",
+      "nl": [
+        "passen",
+        "uitproberen"
+      ],
+      "soort": "werkwoord (II)"
+    },
+    {
+      "id": "j2-p6-l69-w13",
+      "ar": "اِسْتَبْدَلَ",
+      "tr": "istabdala",
+      "nl": [
+        "ruilen",
+        "omwisselen"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j2-p6-l69-w14",
+      "ar": "نَقْدًا",
+      "tr": "naqdan",
+      "nl": [
+        "contant"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p6-l69-w15",
+      "ar": "بِالبِطاقَةِ",
+      "tr": "bi-l-biṭāqa",
+      "nl": [
+        "met de pinpas",
+        "met de kaart"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l69-w16",
+      "ar": "مَحَلٌّ",
+      "tr": "maḥall",
+      "nl": [
+        "winkel",
+        "zaak"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَحَلّاتٌ}."
+    },
+    {
+      "id": "j2-p6-l69-w17",
+      "ar": "خافَ مِنْ",
+      "tr": "ḫāfa min",
+      "nl": [
+        "bang zijn voor"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|خِفْتُ} · {ar|يَخافُ} · {ar|لا تَخَفْ!}"
+    },
+    {
+      "id": "j2-p6-l69-w19",
+      "ar": "طارَ",
+      "tr": "ṭāra",
+      "nl": [
+        "vliegen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|طِرْتُ} · {ar|يَطيرُ}"
+    },
+    {
+      "id": "j2-p6-l69-w20",
+      "ar": "قامَ بِـ",
+      "tr": "qāma bi-",
+      "nl": [
+        "uitvoeren",
+        "doen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|قُمْتُ} · {ar|يَقومُ}"
+    },
+    {
+      "id": "j2-p6-l69-w21",
+      "ar": "سارَ",
+      "tr": "sāra",
+      "nl": [
+        "gaan",
+        "rijden",
+        "lopen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|سِرْتُ} · {ar|يَسيرُ}"
+    },
+    {
+      "id": "j2-p6-l69-w22",
+      "ar": "فازَ",
+      "tr": "fāza",
+      "nl": [
+        "winnen"
+      ],
+      "soort": "werkwoord (hol)",
+      "notitie": "{ar|فُزْتُ} · {ar|يَفوزُ}"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Holle werkwoorden: lange en korte stam",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Bij een **hol** werkwoord is de middelste wortelletter een **و** of **ي**. In {ar|قالَ} (wortel ق-و-ل) is die letter een lange **ā** geworden.",
+            "In de māḍī wisselen twee stammen: de **lange** (قالَ) als de uitgang met een klinker begint (hij, zij, zij twee, zij m mv), de **korte** (قُلْ-) als de uitgang met een medeklinker begint (ik, jij, wij, jullie, zij v mv)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "قالَ (و → u)",
+            "باعَ (ي → i)",
+            "نامَ (ā → i)"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "hij",
+              "قالَ",
+              "باعَ",
+              "نامَ"
+            ],
+            [
+              "zij (ev)",
+              "قالَتْ",
+              "باعَتْ",
+              "نامَتْ"
+            ],
+            [
+              "zij (m mv)",
+              "قالوا",
+              "باعوا",
+              "ناموا"
+            ],
+            [
+              "ik",
+              "قُلْتُ",
+              "بِعْتُ",
+              "نِمْتُ"
+            ],
+            [
+              "wij",
+              "قُلْنا",
+              "بِعْنا",
+              "نِمْنا"
+            ],
+            [
+              "zij (v mv)",
+              "قُلْنَ",
+              "بِعْنَ",
+              "نِمْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom kort? Een lange ā vóór een medeklinkercluster (*qāl-tu*) is in het Arabisch niet toegestaan: een lange klinker in een gesloten lettergreep wordt kort. De korte klinker verraadt de wortel: **u** bij و ({ar|قُلْتُ}), **i** bij ي ({ar|بِعْتُ}). Werkwoorden met een a in de muḍāriʿ ({ar|يَنامُ}، {ar|يَخافُ}) krijgen **i**."
+        }
+      ]
+    },
+    {
+      "titel": "Muḍāriʿ, majzūm en gebiedende wijs",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "قالَ",
+            "باعَ",
+            "نامَ"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "muḍāriʿ (hij)",
+              "يَقولُ",
+              "يَبيعُ",
+              "يَنامُ"
+            ],
+            [
+              "muḍāriʿ (zij v mv)",
+              "يَقُلْنَ",
+              "يَبِعْنَ",
+              "يَنَمْنَ"
+            ],
+            [
+              "majzūm (hij)",
+              "لَمْ يَقُلْ",
+              "لَمْ يَبِعْ",
+              "لَمْ يَنَمْ"
+            ],
+            [
+              "gebiedende wijs (m)",
+              "قُلْ",
+              "بِعْ",
+              "نَمْ"
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "In de muḍāriʿ is de stam **lang** ({ar|يَقولُ}), behalve waar een sukūn volgt: majzūm, gebiedende wijs en de vrouwelijke meervoudsvormen. Dan verkort de klinker: {ar|لَمْ يَقُلْ}، {ar|قُلْ}. Vergelijk: {ar|لا تَخَفْ} (wees niet bang)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "باعَ التّاجِرُ كُلَّ البِضاعَةِ.",
+              "tr": "bāʿa t-tājiru kulla l-biḍāʿa.",
+              "nl": "De handelaar verkocht alle koopwaar."
+            },
+            {
+              "ar": "قُلْتُ لِلْبائِعِ: هَلْ عِنْدَكَ مَقاسٌ أَكْبَرُ؟",
+              "tr": "qultu li-l-bāʾiʿ: hal ʿindaka maqāsun akbar?",
+              "nl": "Ik zei tegen de verkoper: hebt u een grotere maat?"
+            },
+            {
+              "ar": "عُدْتُ إِلى المَحَلِّ لِأَسْتَبْدِلَ القَميصَ.",
+              "tr": "ʿudtu ila l-maḥalli li-astabdila l-qamīṣ.",
+              "nl": "Ik ging terug naar de winkel om het overhemd te ruilen."
+            },
+            {
+              "ar": "لَمْ أَنَمْ جَيِّدًا، لِأَنَّ إيصالي ضاعَ!",
+              "tr": "lam anam jayyidan, li-anna īṣālī ḍāʿ!",
+              "nl": "Ik heb slecht geslapen, omdat mijn bonnetje kwijt was!"
+            },
+            {
+              "ar": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالبِطاقَةِ؟",
+              "tr": "hal adfaʿu naqdan am bi-l-biṭāqa?",
+              "nl": "Betaal ik contant of met de pinpas?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تاجِرٌ",
+              "nl": "handelaar",
+              "woord": "j2-p6-l69-w06"
+            },
+            {
+              "ar": "تَخْفيضٌ",
+              "nl": "korting"
+            },
+            {
+              "ar": "إيصالٌ",
+              "nl": "bonnetje",
+              "woord": "j2-p6-l69-w10"
+            },
+            {
+              "ar": "مَقاسٌ",
+              "nl": "maat"
+            },
+            {
+              "ar": "نَقْدًا",
+              "nl": "contant",
+              "woord": "j2-p6-l69-w14"
+            },
+            {
+              "ar": "مَحَلٌّ",
+              "nl": "winkel",
+              "woord": "j2-p6-l69-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "holle-ww",
+          "tekst": "بِعْتُ سَيّارَتي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik heb mijn auto verkocht.",
+            "Ik heb een auto gekocht.",
+            "Ik verkoop mijn auto."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بِعْتُ}: korte stam van {ar|باعَ}."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "holle-ww",
+          "instructie": "Vervoeg قالَ in de māḍī.",
+          "rijen": [
+            {
+              "label": "ik",
+              "antwoord": "قُلْتُ",
+              "tr": "qultu"
+            },
+            {
+              "label": "zij (ev)",
+              "antwoord": "قالَتْ",
+              "tr": "qālat"
+            },
+            {
+              "label": "wij",
+              "antwoord": "قُلْنا",
+              "tr": "qulnā"
+            },
+            {
+              "label": "zij (m mv)",
+              "antwoord": "قالوا",
+              "tr": "qālū"
+            }
+          ],
+          "uitleg": "Korte stam voor een medeklinker-uitgang."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "holle-ww",
+          "instructie": "Vervoeg باعَ.",
+          "rijen": [
+            {
+              "label": "jij (m), māḍī",
+              "antwoord": "بِعْتَ",
+              "tr": "biʿta",
+              "eind": true
+            },
+            {
+              "label": "hij, muḍāriʿ",
+              "antwoord": "يَبيعُ",
+              "tr": "yabīʿu"
+            },
+            {
+              "label": "hij, na لَمْ",
+              "antwoord": "يَبِعْ",
+              "tr": "yabiʿ"
+            }
+          ],
+          "uitleg": "Lang in de muḍāriʿ, kort in de majzūm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "holle-ww",
+          "vraag": "'Ik sliep' is ...",
+          "opties": [
+            "نِمْتُ",
+            "نُمْتُ",
+            "نامْتُ"
+          ],
+          "juist": 0,
+          "uitleg": "a-type ({ar|يَنامُ}) → i."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "holle-ww",
+          "vraag": "'Zeg!' (tegen een man) is ...",
+          "opties": [
+            "قُلْ",
+            "قولْ",
+            "اُقْوُلْ"
+          ],
+          "juist": 0,
+          "uitleg": "Gebiedende wijs: korte stam, geen hulpalif."
+        },
+        {
+          "type": "invullen",
+          "tag": "holle-ww",
+          "zin": "لا ___، كُلُّ شَيْءٍ بِخَيْرٍ.",
+          "nl": "Wees niet bang, alles is in orde. (m)",
+          "woordbank": [
+            "تَخَفْ",
+            "تَخافُ",
+            "خِفْتَ"
+          ],
+          "antwoord": [
+            "تَخَفْ"
+          ],
+          "uitleg": "Verbod: majzūm met korte stam."
+        }
+      ]
+    },
+    {
+      "titel": "In de winkel",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "holle-ww",
+          "nl": "Ik ging terug naar de winkel om het overhemd te ruilen.",
+          "woorden": [
+            "عُدْتُ",
+            "إِلى",
+            "المَحَلِّ",
+            "لِأَسْتَبْدِلَ",
+            "القَميصَ."
+          ],
+          "uitleg": "{ar|عُدْتُ}: korte stam."
+        },
+        {
+          "type": "invullen",
+          "tag": "holle-ww",
+          "zin": "ماذا ___ لَكَ البائِعُ؟",
+          "nl": "Wat zei de verkoper tegen je?",
+          "woordbank": [
+            "قالَ",
+            "قُلْتُ",
+            "يَقُلْ"
+          ],
+          "antwoord": [
+            "قالَ"
+          ],
+          "uitleg": "hij → lange stam."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "holle-ww",
+          "bron": "Ik heb het gezegd.",
+          "antwoorden": [
+            "قُلْتُهُ",
+            "قُلْتُ ذٰلِكَ"
+          ],
+          "uitleg": "{ar|قُلْتُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالبِطاقَةِ؟",
+          "antwoorden": [
+            "betaal ik contant of met de pinpas",
+            "betaal ik contant of met de kaart",
+            "moet ik contant of met de pinpas betalen"
+          ],
+          "uitleg": "{ar|أَمْ} = of (in een vraag)."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "بِضاعَةٌ",
+            "nl": "koopwaar"
+          },
+          {
+            "ar": "صُنْدوقُ الدَّفْعِ",
+            "nl": "kassa"
+          },
+          {
+            "ar": "جَرَّبَ",
+            "nl": "passen"
+          },
+          {
+            "ar": "اِسْتَبْدَلَ",
+            "nl": "ruilen"
+          },
+          {
+            "ar": "ضاعَ",
+            "nl": "kwijtraken"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "holle-ww",
+        "vraag": "Wat is de wortel van {ar|قالَ}?",
+        "opties": [
+          "ق و ل",
+          "ق ا ل",
+          "ق ي ل"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَقولُ} verraadt de و."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "holle-ww",
+        "vraag": "'Wij bezochten' is ...",
+        "opties": [
+          "زُرْنا",
+          "زارْنا",
+          "زِرْنا"
+        ],
+        "juist": 0,
+        "uitleg": "و-type → u."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "holle-ww",
+        "vraag": "'Zij (m mv) verkochten' is ...",
+        "opties": [
+          "باعوا",
+          "بِعوا",
+          "بِعْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Klinker-uitgang → lange stam."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "holle-ww",
+        "vraag": "'Hij heeft niet geslapen' (formeel) is ...",
+        "opties": [
+          "لَمْ يَنَمْ",
+          "لَمْ يَنامُ",
+          "لَمْ نامَ"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm → korte stam."
+      },
+      {
+        "type": "luisteren",
+        "tag": "holle-ww",
+        "tekst": "عُدْنا مِنَ السّوقِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We kwamen terug van de markt.",
+          "We gaan naar de markt.",
+          "Ze kwamen terug van de markt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عُدْنا} = wij keerden terug."
+      },
+      {
+        "type": "luisteren",
+        "tag": "holle-ww",
+        "tekst": "ضاعَ إيصالي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn bonnetje is kwijt.",
+          "Ik heb mijn bonnetje.",
+          "Ik verkocht mijn bonnetje."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ضاعَ} = verloren gaan."
+      },
+      {
+        "type": "invullen",
+        "tag": "holle-ww",
+        "zin": "أَيْنَ ___ أَمْسِ؟",
+        "nl": "Waar sliep jij (m) gisteren?",
+        "woordbank": [
+          "نِمْتَ",
+          "نامْتَ",
+          "تَنامُ"
+        ],
+        "antwoord": [
+          "نِمْتَ"
+        ],
+        "uitleg": "Korte stam met i.",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "holle-ww",
+        "zin": "التّاجِرُ ___ الفَواكِهَ في السّوقِ.",
+        "nl": "De handelaar verkoopt fruit op de markt.",
+        "woordbank": [
+          "يَبيعُ",
+          "يَبِعْ",
+          "باعَ"
+        ],
+        "antwoord": [
+          "يَبيعُ"
+        ],
+        "uitleg": "Muḍāriʿ: lange stam."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "holle-ww",
+        "instructie": "Vervoeg زارَ.",
+        "rijen": [
+          {
+            "label": "ik, māḍī",
+            "antwoord": "زُرْتُ",
+            "tr": "zurtu"
+          },
+          {
+            "label": "zij (ev), māḍī",
+            "antwoord": "زارَتْ",
+            "tr": "zārat"
+          },
+          {
+            "label": "wij, muḍāriʿ",
+            "antwoord": "نَزورُ",
+            "tr": "nazūru"
+          }
+        ],
+        "uitleg": "Kort · lang · lang."
+      },
+      {
+        "type": "ordenen",
+        "tag": "holle-ww",
+        "nl": "De handelaar verkocht alle koopwaar.",
+        "woorden": [
+          "باعَ",
+          "التّاجِرُ",
+          "كُلَّ",
+          "البِضاعَةِ."
+        ],
+        "uitleg": "{ar|باعَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "holle-ww",
+        "bron": "Ik ben teruggekomen.",
+        "antwoorden": [
+          "عُدْتُ",
+          "رَجَعْتُ"
+        ],
+        "uitleg": "{ar|عُدْتُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "holle-ww",
+        "bron": "Zeg niet! (m) (verbod)",
+        "antwoorden": [
+          "لا تَقُلْ"
+        ],
+        "uitleg": "{ar|لا} + majzūm: korte stam."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "holle-ww",
+        "bron": "قالَتْ إِنَّ الأَسْعارَ غالِيَةٌ.",
+        "antwoorden": [
+          "ze zei dat de prijzen hoog zijn",
+          "zij zei dat de prijzen duur zijn",
+          "ze zei dat de prijzen duur zijn",
+          "zij zei dat de prijzen hoog zijn"
+        ],
+        "uitleg": "{ar|قالَ إِنَّ} = zeggen dat."
+      }
+    ]
+  }
+}

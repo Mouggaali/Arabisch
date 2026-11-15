@@ -1,0 +1,194 @@
+{
+  "id": "j1-p1-l08",
+  "code": "L08",
+  "type": "les",
+  "titel": "Wat is dit?",
+  "thema": "Naar dingen wijzen en vragen wat of wie iets is",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de aanwijzende voornaamwoorden هٰذا، هٰذِهِ، ذٰلِكَ en تِلْكَ gebruiken.",
+    "het verschil maken tussen 'dit is een boek' en 'dit boek'.",
+    "vragen stellen met ما (wat) en مَنْ (wie).",
+    "ja/nee-vragen stellen met هَلْ of أَ en erop antwoorden."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l08-w01", "ar": "هٰذا", "tr": "hāḏā", "nl": ["dit", "deze (m)"], "soort": "aanwijzend voornaamwoord",
+      "notitie": "De lange ā na de h wordt geschreven met een klein alifje (ٰ). Je mag het typen als هذا." },
+    { "id": "j1-p1-l08-w02", "ar": "هٰذِهِ", "tr": "hāḏihi", "nl": ["dit", "deze (v)"], "soort": "aanwijzend voornaamwoord" },
+    { "id": "j1-p1-l08-w03", "ar": "ذٰلِكَ", "tr": "ḏālika", "nl": ["dat", "die (m)"], "soort": "aanwijzend voornaamwoord" },
+    { "id": "j1-p1-l08-w04", "ar": "تِلْكَ", "tr": "tilka", "nl": ["dat", "die (v)"], "soort": "aanwijzend voornaamwoord" },
+    { "id": "j1-p1-l08-w05", "ar": "ما", "tr": "mā", "nl": ["wat"], "soort": "vraagwoord" },
+    { "id": "j1-p1-l08-w06", "ar": "هَلْ", "tr": "hal", "nl": ["(vraagwoord voor ja/nee-vragen)"], "soort": "vraagpartikel",
+      "notitie": "Maakt van een zin een ja/nee-vraag. Vertaal je niet." },
+    { "id": "j1-p1-l08-w07", "ar": "أَ", "tr": "a-", "nl": ["(vraagwoord voor ja/nee-vragen, kort)"], "soort": "vraagpartikel",
+      "notitie": "Wordt aan het volgende woord vastgeschreven: {ar|أَهٰذا}." },
+    { "id": "j1-p1-l08-w08", "ar": "كَلْبٌ", "tr": "kalb", "nl": ["hond"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w09", "ar": "قِطَّةٌ", "tr": "qiṭṭa", "nl": ["kat"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w10", "ar": "شَجَرَةٌ", "tr": "šajara", "nl": ["boom"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w11", "ar": "زَهْرَةٌ", "tr": "zahra", "nl": ["bloem"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w12", "ar": "مِفْتاحٌ", "tr": "miftāḥ", "nl": ["sleutel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w13", "ar": "نَظّارَةٌ", "tr": "naẓẓāra", "nl": ["bril"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w14", "ar": "مِظَلَّةٌ", "tr": "miẓalla", "nl": ["paraplu"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w15", "ar": "دَرّاجَةٌ", "tr": "darrāja", "nl": ["fiets"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w16", "ar": "مَحْفَظَةٌ", "tr": "maḥfaẓa", "nl": ["portemonnee"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w17", "ar": "كوبٌ", "tr": "kūb", "nl": ["beker", "glas", "kopje"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w18", "ar": "هَدِيَّةٌ", "tr": "hadiyya", "nl": ["cadeau"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w19", "ar": "شَيْءٌ", "tr": "šayʾ", "nl": ["ding", "iets"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l08-w20", "ar": "طَبْعًا", "tr": "ṭabʿan", "nl": ["natuurlijk"], "soort": "bijwoord" },
+    { "id": "j1-p1-l08-w21", "ar": "رُبَّما", "tr": "rubbamā", "nl": ["misschien"], "soort": "bijwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Dit en dat: aanwijzende voornaamwoorden",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch heeft vier aanwijzende voornaamwoorden: twee voor *dichtbij* (dit/deze) en twee voor *veraf* (dat/die), elk in een mannelijke en een vrouwelijke vorm.",
+          "Welke vorm je kiest, hangt af van het geslacht van het woord waar je naar wijst: {ar|هٰذا كَلْبٌ} (mannelijk) tegenover {ar|هٰذِهِ قِطَّةٌ} (vrouwelijk)."
+        ] },
+        { "type": "tabel", "kop": ["", "Dichtbij (dit / deze)", "Veraf (dat / die)"], "arKolommen": [1, 2], "rijen": [
+          ["mannelijk", "هٰذا|hāḏā", "ذٰلِكَ|ḏālika"],
+          ["vrouwelijk", "هٰذِهِ|hāḏihi", "تِلْكَ|tilka"]
+        ] },
+        { "type": "letop", "md": "In {ar|هٰذا}, {ar|هٰذِهِ} en {ar|ذٰلِكَ} wordt een lange ā geschreven met een klein alifje boven de letter (ٰ), niet met een gewone alif. In gewone teksten zie je het vaak helemaal niet: هذا. Bij het typen mag je het weglaten." }
+      ]
+    },
+    {
+      "titel": "\"Dit is een boek\" of \"dit boek\"?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Hier werkt dezelfde regel als in les 4 en 7: bepaaldheid bepaalt of je een zin hebt of een woordgroep.",
+          "**{ar|هٰذا} + onbepaald woord** = een zin: {ar|هٰذا كِتابٌ} = *dit is een boek*.",
+          "**{ar|هٰذا} + woord met ال** = een woordgroep: {ar|هٰذا الكِتابُ} = *dit boek*. Daar kun je een gezegde achter zetten: {ar|هٰذا الكِتابُ جَديدٌ} = *dit boek is nieuw*."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "هٰذا مِفْتاحٌ.", "tr": "hāḏā miftāḥ.", "nl": "Dit is een sleutel." },
+          { "ar": "هٰذا المِفْتاحُ", "tr": "hāḏā l-miftāḥ", "nl": "deze sleutel" },
+          { "ar": "هٰذا المِفْتاحُ قَديمٌ.", "tr": "hāḏā l-miftāḥu qadīm.", "nl": "Deze sleutel is oud." },
+          { "ar": "تِلْكَ شَجَرَةٌ كَبيرَةٌ.", "tr": "tilka šajaratun kabīra.", "nl": "Dat is een grote boom." },
+          { "ar": "هٰذا هُوَ المِفْتاحُ.", "tr": "hāḏā huwa l-miftāḥ.", "nl": "Dit is de sleutel." }
+        ] },
+        { "type": "waarom", "md": "Wil je zeggen *dit is **de** sleutel* (met lidwoord), dan zet je er {ar|هُوَ} (of {ar|هِيَ}) tussen: {ar|هٰذا هُوَ المِفْتاحُ}. Zonder dat tussenwoord leest het als *deze sleutel*. Het voornaamwoord markeert de grens tussen onderwerp en gezegde." }
+      ]
+    },
+    {
+      "titel": "Vragen stellen: wat, wie, en ja/nee",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Met {ar|ما} vraag je naar een ding: {ar|ما هٰذا؟} (*wat is dit?*). Met {ar|مَنْ} vraag je naar een persoon: {ar|مَنْ هٰذِهِ؟} (*wie is dit?*).",
+          "Een **ja/nee-vraag** maak je door {ar|هَلْ} of het korte {ar|أَ} vóór een gewone zin te zetten. De woordvolgorde blijft hetzelfde. Antwoord met {ar|نَعَمْ} (ja) of {ar|لا} (nee)."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "ما هٰذا؟ — هٰذا كوبٌ.", "tr": "mā hāḏā? — hāḏā kūb.", "nl": "Wat is dit? — Dit is een beker." },
+          { "ar": "مَنْ هٰذِهِ؟ — هٰذِهِ سارَةُ.", "tr": "man hāḏihi? — hāḏihi Sāra.", "nl": "Wie is dit? — Dit is Sara." },
+          { "ar": "هَلْ هٰذِهِ دَرّاجَةٌ جَديدَةٌ؟ — نَعَمْ، هِيَ جَديدَةٌ.", "tr": "hal hāḏihi darrājatun jadīda? — naʿam, hiya jadīda.", "nl": "Is dit een nieuwe fiets? — Ja, hij is nieuw." },
+          { "ar": "أَذٰلِكَ كَلْبٌ؟ — لا، تِلْكَ قِطَّةٌ.", "tr": "a-ḏālika kalb? — lā, tilka qiṭṭa.", "nl": "Is dat een hond? — Nee, dat is een kat." },
+          { "ar": "هَلْ هٰذِهِ هَدِيَّةٌ؟ — طَبْعًا!", "tr": "hal hāḏihi hadiyya? — ṭabʿan!", "nl": "Is dit een cadeau? — Natuurlijk!" }
+        ] },
+        { "type": "waarom", "md": "Het Nederlands maakt een vraag door de woordvolgorde om te draaien (*dit is* → *is dit*). Het Arabisch verandert de volgorde niet en zet in plaats daarvan een vraagwoordje vooraan. {ar|هَلْ} komt het meest voor; {ar|أَ} is korter en wat formeler." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Dit, deze, dat, die",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مِفْتاحٌ", "nl": "sleutel", "woord": "j1-p1-l08-w12" },
+          { "ar": "نَظّارَةٌ", "nl": "bril", "woord": "j1-p1-l08-w13" },
+          { "ar": "مِظَلَّةٌ", "nl": "paraplu", "woord": "j1-p1-l08-w14" },
+          { "ar": "دَرّاجَةٌ", "nl": "fiets", "woord": "j1-p1-l08-w15" },
+          { "ar": "مَحْفَظَةٌ", "nl": "portemonnee", "woord": "j1-p1-l08-w16" },
+          { "ar": "شَجَرَةٌ", "nl": "boom", "woord": "j1-p1-l08-w10" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Je wijst naar een kat ({ar|قِطَّةٌ}) vlak bij je. Wat zeg je?",
+          "opties": ["هٰذِهِ قِطَّةٌ.", "هٰذا قِطَّةٌ.", "تِلْكَ قِطَّةٌ.", "ذٰلِكَ قِطَّةٌ."], "juist": 0,
+          "uitleg": "Dichtbij + vrouwelijk: {ar|هٰذِهِ}." },
+        { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Je wijst naar een hond ver weg. Wat zeg je?",
+          "opties": ["ذٰلِكَ كَلْبٌ.", "هٰذا كَلْبٌ.", "تِلْكَ كَلْبٌ."], "juist": 0,
+          "uitleg": "Veraf + mannelijk: {ar|ذٰلِكَ}." },
+        { "type": "vervoegen", "tag": "aanwijzend", "instructie": "Vul het juiste aanwijzende voornaamwoord in.",
+          "rijen": [
+            { "label": "dit (m), dichtbij", "antwoord": "هٰذا", "tr": "hāḏā" },
+            { "label": "deze (v), dichtbij", "antwoord": "هٰذِهِ", "tr": "hāḏihi" },
+            { "label": "dat (m), veraf", "antwoord": "ذٰلِكَ", "tr": "ḏālika" },
+            { "label": "die (v), veraf", "antwoord": "تِلْكَ", "tr": "tilka" }
+          ],
+          "uitleg": "Je mag het kleine alifje weglaten: هذا، هذه، ذلك." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "تِلْكَ زَهْرَةٌ جَميلَةٌ", "vraag": "Wat hoor je?",
+          "opties": ["Dat is een mooie bloem.", "Deze bloem is mooi.", "Dit is een mooie boom."], "juist": 0, "uitleg": "{ar|تِلْكَ} = dat (v), {ar|زَهْرَةٌ} = bloem." }
+      ]
+    },
+    {
+      "titel": "Zin of woordgroep?",
+      "items": [
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Wat betekent {ar|هٰذا الكوبُ}?", "opties": ["deze beker", "dit is een beker", "dit is de beker"], "juist": 0,
+          "uitleg": "{ar|هٰذا} + woord met ال = woordgroep." },
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Hoe zeg je 'Dit is een cadeau'?", "opties": ["هٰذِهِ هَدِيَّةٌ.", "هٰذِهِ الهَدِيَّةُ", "هٰذا هَدِيَّةٌ."], "juist": 0,
+          "uitleg": "{ar|هَدِيَّةٌ} is vrouwelijk → {ar|هٰذِهِ}; onbepaald → een zin." },
+        { "type": "invullen", "tag": "aanwijzend", "zin": "___ المِظَلَّةُ جَديدَةٌ.", "nl": "Deze paraplu is nieuw.",
+          "woordbank": ["هٰذِهِ", "هٰذا", "ذٰلِكَ"], "antwoord": ["هٰذِهِ"], "uitleg": "{ar|مِظَلَّةٌ} is vrouwelijk." },
+        { "type": "invullen", "tag": "aanwijzend", "zin": "هٰذا ___ المِفْتاحُ.", "nl": "Dit is de sleutel.",
+          "woordbank": ["هُوَ", "هِيَ", "ما"], "antwoord": ["هُوَ"], "uitleg": "Met {ar|هُوَ} ertussen wordt het *dit is de sleutel*." },
+        { "type": "ordenen", "tag": "aanwijzend", "nl": "Deze sleutel is oud.", "woorden": ["هٰذا", "المِفْتاحُ", "قَديمٌ."], "uitleg": "Woordgroep + gezegde." },
+        { "type": "ordenen", "tag": "aanwijzend", "nl": "Dat is een grote boom.", "woorden": ["تِلْكَ", "شَجَرَةٌ", "كَبيرَةٌ."], "uitleg": "{ar|تِلْكَ} + onbepaald = zin." }
+      ]
+    },
+    {
+      "titel": "Vragen en antwoorden",
+      "items": [
+        { "type": "ordenen", "tag": "vragen", "nl": "Is dit een nieuwe fiets?", "woorden": ["هَلْ", "هٰذِهِ", "دَرّاجَةٌ", "جَديدَةٌ؟"], "uitleg": "{ar|هَلْ} vooraan, de rest blijft hetzelfde." },
+        { "type": "ordenen", "tag": "vragen", "nl": "Wat is dat? (m)", "woorden": ["ما", "ذٰلِكَ؟"], "uitleg": "{ar|ما} = wat." },
+        { "type": "meerkeuze", "tag": "vragen", "vraag": "Je wilt weten wie een vrouw op een foto is. Wat vraag je?", "opties": ["مَنْ هٰذِهِ؟", "ما هٰذِهِ؟", "مَنْ هٰذا؟", "هَلْ هٰذِهِ؟"], "juist": 0,
+          "uitleg": "Persoon → {ar|مَنْ}; vrouw → {ar|هٰذِهِ}." },
+        { "type": "meerkeuze", "tag": "vragen", "vraag": "Wat is een passend antwoord op {ar|أَهٰذا كَلْبٌ؟}", "opties": ["لا، هٰذِهِ قِطَّةٌ.", "هٰذا الكَلْبُ.", "مَنْ هٰذا؟"], "juist": 0,
+          "uitleg": "Een ja/nee-vraag beantwoord je met {ar|نَعَمْ} of {ar|لا}." },
+        { "type": "luisteren", "tag": "vragen", "tekst": "هَلْ هٰذِهِ مَحْفَظَتُكَ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Is dit jouw portemonnee?", "Waar is je portemonnee?", "Dit is een portemonnee."], "juist": 0,
+          "uitleg": "{ar|هَلْ} = ja/nee-vraag; {ar|مَحْفَظَتُكَ} = jouw portemonnee (les 11)." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "vragen", "bron": "Wat is dit? (m)", "antwoorden": ["ما هٰذا؟"], "uitleg": "{ar|ما هٰذا؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "Dit is een hond.", "antwoorden": ["هٰذا كَلْبٌ"], "uitleg": "{ar|هٰذا كَلْبٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "deze bloem", "antwoorden": ["هٰذِهِ الزَّهْرَةُ"], "uitleg": "{ar|هٰذِهِ الزَّهْرَةُ}: woordgroep met ال." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vragen", "bron": "مَنْ ذٰلِكَ؟", "tr": "man ḏālika?", "antwoorden": ["wie is dat", "wie is die"], "uitleg": "{ar|مَنْ} = wie, {ar|ذٰلِكَ} = dat (m)." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "aanwijzend", "bron": "هٰذِهِ النَّظّارَةُ جَميلَةٌ.", "tr": "hāḏihi n-naẓẓāratu jamīla.", "antwoorden": ["deze bril is mooi"], "uitleg": "Woordgroep + gezegde." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vragen", "bron": "هَلْ هٰذا شَيْءٌ جَديدٌ؟", "tr": "hal hāḏā šayʾun jadīd?", "antwoorden": ["is dit iets nieuws", "is dit een nieuw ding", "is dat iets nieuws"], "uitleg": "{ar|شَيْءٌ} = ding, iets." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "كَلْبٌ", "nl": "hond" },
+        { "ar": "قِطَّةٌ", "nl": "kat" },
+        { "ar": "رُبَّما", "nl": "misschien" },
+        { "ar": "طَبْعًا", "nl": "natuurlijk" },
+        { "ar": "كوبٌ", "nl": "beker" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "'Die (v), veraf' is ...", "opties": ["تِلْكَ", "ذٰلِكَ", "هٰذِهِ", "هٰذا"], "juist": 0, "uitleg": "{ar|تِلْكَ}" },
+      { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Wat betekent {ar|هٰذِهِ دَرّاجَةٌ}?", "opties": ["Dit is een fiets.", "deze fiets", "Is dit een fiets?"], "juist": 0, "uitleg": "Onbepaald woord → zin." },
+      { "type": "meerkeuze", "tag": "vragen", "vraag": "Welk vraagwoord gebruik je voor een persoon?", "opties": ["مَنْ", "ما", "هَلْ"], "juist": 0, "uitleg": "{ar|مَنْ} = wie." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "ما هٰذا؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Wat is dit?", "Wie is dit?", "Is dit het?"], "juist": 0, "uitleg": "{ar|ما} = wat." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "ذٰلِكَ البَيْتُ كَبيرٌ", "vraag": "Wat hoor je?", "opties": ["Dat huis is groot.", "Dat is een groot huis.", "Dit huis is groot."], "juist": 0, "uitleg": "{ar|ذٰلِكَ البَيْتُ} = dat huis." },
+      { "type": "invullen", "tag": "aanwijzend", "zin": "___ شَجَرَةٌ.", "nl": "Dit is een boom.", "woordbank": ["هٰذِهِ", "هٰذا"], "antwoord": ["هٰذِهِ"], "uitleg": "{ar|شَجَرَةٌ} is vrouwelijk." },
+      { "type": "invullen", "tag": "vragen", "zin": "___ هٰذا كِتابٌ؟", "nl": "Is dit een boek?", "woordbank": ["هَلْ", "ما", "مَنْ"], "antwoord": ["هَلْ"], "uitleg": "Ja/nee-vraag: {ar|هَلْ}." },
+      { "type": "vervoegen", "tag": "aanwijzend", "instructie": "Vul het aanwijzende voornaamwoord in.",
+        "rijen": [
+          { "label": "deze (v), dichtbij", "antwoord": "هٰذِهِ", "tr": "hāḏihi" },
+          { "label": "dat (m), veraf", "antwoord": "ذٰلِكَ", "tr": "ḏālika" }
+        ], "uitleg": "{ar|هٰذِهِ} · {ar|ذٰلِكَ}" },
+      { "type": "ordenen", "tag": "vragen", "nl": "Is dat een hond?", "woorden": ["هَلْ", "ذٰلِكَ", "كَلْبٌ؟"], "uitleg": "{ar|هَلْ} vooraan." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "vragen", "bron": "Wie is dit? (v)", "antwoorden": ["مَنْ هٰذِهِ؟"], "uitleg": "{ar|مَنْ هٰذِهِ؟}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "Dit is een cadeau.", "antwoorden": ["هٰذِهِ هَدِيَّةٌ"], "uitleg": "{ar|هٰذِهِ هَدِيَّةٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "aanwijzend", "bron": "تِلْكَ السَّيّارَةُ قَديمَةٌ.", "tr": "tilka s-sayyāratu qadīma.", "antwoorden": ["die auto is oud"], "uitleg": "{ar|تِلْكَ السَّيّارَةُ} = die auto." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "vragen", "bron": "أَهٰذا قَلَمٌ؟", "tr": "a-hāḏā qalam?", "antwoorden": ["is dit een pen", "is dat een pen"], "uitleg": "{ar|أَ} = ja/nee-vraag." }
+    ]
+  }
+}

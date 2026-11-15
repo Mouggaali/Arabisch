@@ -1,0 +1,163 @@
+{
+  "id": "j1-p3-l26",
+  "code": "L26",
+  "type": "les",
+  "titel": "Het weekend",
+  "thema": "Vertellen wat wij, jullie en zij deden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de māḍī vervoegen in het meervoud: wij, jullie (m/v), zij (m/v).",
+    "de stille alif in كَتَبُوا verklaren en schrijven.",
+    "de volledige māḍī-tabel (10 personen) toepassen.",
+    "vertellen over een uitje of weekend."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l26-w01", "ar": "وَصَلَ", "tr": "waṣala", "nl": ["aankomen (hij kwam aan)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَصِلُ} (zonder و, les 71)." },
+    { "id": "j1-p3-l26-w02", "ar": "نَزَلَ", "tr": "nazala", "nl": ["naar beneden gaan", "uitstappen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَنْزِلُ}." },
+    { "id": "j1-p3-l26-w03", "ar": "رَكِبَ", "tr": "rakiba", "nl": ["rijden in/op", "nemen (bus, trein)"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَرْكَبُ}." },
+    { "id": "j1-p3-l26-w04", "ar": "لَبِسَ", "tr": "labisa", "nl": ["aantrekken"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَلْبَسُ}." },
+    { "id": "j1-p3-l26-w05", "ar": "حَمَلَ", "tr": "ḥamala", "nl": ["dragen", "meenemen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَحْمِلُ}." },
+    { "id": "j1-p3-l26-w06", "ar": "غَسَلَ", "tr": "ġasala", "nl": ["wassen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَغْسِلُ}." },
+    { "id": "j1-p3-l26-w07", "ar": "رَسَمَ", "tr": "rasama", "nl": ["tekenen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَرْسُمُ}." },
+    { "id": "j1-p3-l26-w08", "ar": "شَكَرَ", "tr": "šakara", "nl": ["bedanken"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَشْكُرُ}." },
+    { "id": "j1-p3-l26-w09", "ar": "نَظَرَ", "tr": "naẓara", "nl": ["kijken (naar: إِلى)"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَنْظُرُ}." },
+    { "id": "j1-p3-l26-w10", "ar": "دَفَعَ", "tr": "dafaʿa", "nl": ["betalen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَدْفَعُ}." },
+    { "id": "j1-p3-l26-w11", "ar": "حَفِظَ", "tr": "ḥafiẓa", "nl": ["uit het hoofd leren", "bewaren"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَحْفَظُ}." },
+    { "id": "j1-p3-l26-w12", "ar": "رِحْلَةٌ", "tr": "riḥla", "nl": ["uitstapje", "reis"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l26-w13", "ar": "شاطِئٌ", "tr": "šāṭiʾ", "nl": ["strand"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l26-w14", "ar": "مُتْحَفٌ", "tr": "mutḥaf", "nl": ["museum"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l26-w15", "ar": "سينَما", "tr": "sīnamā", "nl": ["bioscoop"], "soort": "zelfstandig naamwoord", "notitie": "Verandert niet." },
+    { "id": "j1-p3-l26-w16", "ar": "حَفْلَةٌ", "tr": "ḥafla", "nl": ["feest", "concert"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l26-w17", "ar": "جَبَلٌ", "tr": "jabal", "nl": ["berg"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l26-w18", "ar": "جَميعًا", "tr": "jamīʿan", "nl": ["allemaal", "samen"], "soort": "bijwoord" },
+    { "id": "j1-p3-l26-w19", "ar": "مُمْتِعٌ", "tr": "mumtiʿ", "nl": ["leuk", "plezierig"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l26-w20", "ar": "مَساءَ السَّبْتِ", "tr": "masāʾa s-sabt", "nl": ["zaterdagavond"], "soort": "uitdrukking" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De māḍī in het meervoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In het meervoud komen er vijf nieuwe uitgangen bij. Net als in het enkelvoud lijken ze op de voornaamwoorden: ـْنا (wij, vgl. {ar|نَحْنُ}), ـْتُمْ (jullie m, vgl. {ar|أَنْتُمْ}), ـْتُنَّ (jullie v, vgl. {ar|أَنْتُنَّ}), ـُوا (zij m), ـْنَ (zij v)."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Enkelvoud", "Meervoud"], "arKolommen": [1, 2], "rijen": [
+          ["1e", "كَتَبْتُ|katabtu · ik", "كَتَبْنا|katabnā · wij"],
+          ["2e m", "كَتَبْتَ|katabta · jij", "كَتَبْتُمْ|katabtum · jullie"],
+          ["2e v", "كَتَبْتِ|katabti · jij", "كَتَبْتُنَّ|katabtunna · jullie"],
+          ["3e m", "كَتَبَ|kataba · hij", "كَتَبُوا|katabū · zij"],
+          ["3e v", "كَتَبَتْ|katabat · zij", "كَتَبْنَ|katabna · zij"]
+        ] },
+        { "type": "letop", "md": "In {ar|كَتَبُوا} staat na de و een **alif die je niet uitspreekt**: *katabū*. Je schrijft hem wel altijd." },
+        { "type": "waarom", "md": "Die stille alif (*alif al-fāriqa*, de onderscheidende alif) is een oude schrijfafspraak: hij laat zien dat de و hier de meervoudsuitgang is en niet bij de stam hoort. Hij heeft geen klank en geen grammaticale functie, maar zonder alif is het een spelfout." }
+      ]
+    },
+    {
+      "titel": "Vertellen over het weekend",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "يَوْمَ السَّبْتِ رَكِبْنا القِطارَ وَذَهَبْنا إِلى البَحْرِ.", "tr": "yawma s-sabti rakibnā l-qiṭāra wa-ḏahabnā ila l-baḥr.", "nl": "Op zaterdag namen we de trein en gingen we naar zee." },
+          { "ar": "لَعِبَ الأَطْفالُ عَلى الشّاطِئِ.", "tr": "laʿiba l-aṭfālu ʿala š-šāṭiʾ.", "nl": "De kinderen speelden op het strand." },
+          { "ar": "هَلْ ذَهَبْتُمْ إِلى المُتْحَفِ؟ — لا، ذَهَبْنا إِلى السّينَما.", "tr": "hal ḏahabtum ila l-mutḥaf? — lā, ḏahabnā ila s-sīnamā.", "nl": "Zijn jullie naar het museum gegaan? — Nee, we gingen naar de bioscoop." },
+          { "ar": "هُمْ وَصَلُوا مُتَأَخِّرينَ.", "tr": "hum waṣalū mutaʾaḫḫirīn.", "nl": "Zij kwamen te laat aan." },
+          { "ar": "البَناتُ رَسَمْنَ صُوَرًا جَميلَةً.", "tr": "al-banātu rasamna ṣuwaran jamīla.", "nl": "De meisjes tekenden mooie plaatjes.",
+            "review": { "status": "onzeker", "note": "Onderwerp vóór het werkwoord (volledige congruentie رَسَمْنَ). Controleer; verbale zin met werkwoord eerst wordt in les 27 behandeld." } },
+          { "ar": "كانَتِ الرِّحْلَةُ مُمْتِعَةً جِدًّا.", "tr": "kānati r-riḥlatu mumtiʿatan jiddan.", "nl": "Het uitstapje was heel leuk." }
+        ] },
+        { "type": "letop", "md": "In {ar|لَعِبَ الأَطْفالُ} staat het werkwoord vóór het onderwerp en blijft het **enkelvoud**, hoewel er meerdere kinderen zijn. Dat is de verbale zin, die je in les 27 leert." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "شاطِئٌ", "nl": "strand", "woord": "j1-p3-l26-w13" },
+          { "ar": "مُتْحَفٌ", "nl": "museum", "woord": "j1-p3-l26-w14" },
+          { "ar": "رِحْلَةٌ", "nl": "uitstapje", "woord": "j1-p3-l26-w12" },
+          { "ar": "حَفْلَةٌ", "nl": "feest", "woord": "j1-p3-l26-w16" },
+          { "ar": "جَبَلٌ", "nl": "berg", "woord": "j1-p3-l26-w17" },
+          { "ar": "وَصَلَ", "nl": "kwam aan", "woord": "j1-p3-l26-w01" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "madi-meervoud", "tekst": "ذَهَبْنا إِلى الشّاطِئِ", "vraag": "Wat hoor je?", "opties": ["We gingen naar het strand.", "Ze gingen naar het strand.", "We gaan naar het strand."], "juist": 0, "uitleg": "ـْنا = wij." },
+        { "type": "luisteren", "tag": "madi-meervoud", "tekst": "شَكَرُوا المُعَلِّمَ", "vraag": "Wat hoor je?", "opties": ["Zij bedankten de leraar.", "Wij bedankten de leraar.", "Hij bedankte de leraar."], "juist": 0, "uitleg": "ـُوا = zij (m)." },
+        { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "Waarom staat er een alif in {ar|ذَهَبُوا}?", "opties": ["Het is een stille schrijfafspraak na de meervouds-و.", "Om een lange ā aan te geven.", "Omdat het een vraag is."], "juist": 0, "uitleg": "De alif wordt niet uitgesproken." }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg ذَهَبَ (gaan) in het meervoud.",
+          "rijen": [
+            { "label": "wij", "ar": "نَحْنُ", "antwoord": "ذَهَبْنا", "tr": "ḏahabnā" },
+            { "label": "jullie (m)", "ar": "أَنْتُمْ", "antwoord": "ذَهَبْتُمْ", "tr": "ḏahabtum" },
+            { "label": "jullie (v)", "ar": "أَنْتُنَّ", "antwoord": "ذَهَبْتُنَّ", "tr": "ḏahabtunna" },
+            { "label": "zij (m)", "ar": "هُمْ", "antwoord": "ذَهَبُوا", "tr": "ḏahabū" },
+            { "label": "zij (v)", "ar": "هُنَّ", "antwoord": "ذَهَبْنَ", "tr": "ḏahabna" }
+          ], "uitleg": "-nā / -tum / -tunna / -ū / -na" },
+        { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg رَكِبَ (nemen, rijden). Enkelvoud en meervoud door elkaar.",
+          "rijen": [
+            { "label": "ik", "antwoord": "رَكِبْتُ", "tr": "rakibtu" },
+            { "label": "zij (ev)", "antwoord": "رَكِبَتْ", "tr": "rakibat" },
+            { "label": "wij", "antwoord": "رَكِبْنا", "tr": "rakibnā" },
+            { "label": "zij (m mv)", "antwoord": "رَكِبُوا", "tr": "rakibū" }
+          ], "uitleg": "Klinker i blijft." },
+        { "type": "invullen", "tag": "madi-meervoud", "zin": "أَمْسِ ___ إِلى المُتْحَفِ.", "nl": "Gisteren gingen wij naar het museum.", "woordbank": ["ذَهَبْنا", "ذَهَبُوا", "نَذْهَبُ"], "antwoord": ["ذَهَبْنا"], "uitleg": "Wij: ـْنا." },
+        { "type": "invullen", "tag": "madi-meervoud", "zin": "هَلْ ___ الحِسابَ؟", "nl": "Hebben jullie (m) de rekening betaald?", "woordbank": ["دَفَعْتُمْ", "دَفَعْتُنَّ", "دَفَعُوا"], "antwoord": ["دَفَعْتُمْ"], "uitleg": "Jullie (m): ـْتُمْ." },
+        { "type": "invullen", "tag": "madi-meervoud", "zin": "هُمْ ___ مُتَأَخِّرينَ.", "nl": "Zij kwamen te laat aan.", "antwoord": ["وَصَلُوا"], "uitleg": "Vergeet de stille alif niet." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "madi-meervoud", "nl": "Op zaterdag namen we de trein en gingen naar zee.", "woorden": ["يَوْمَ", "السَّبْتِ", "رَكِبْنا", "القِطارَ", "وَذَهَبْنا", "إِلى", "البَحْرِ."], "uitleg": "Twee werkwoorden in de wij-vorm." },
+        { "type": "ordenen", "tag": "madi-meervoud", "nl": "Zijn jullie naar de bioscoop gegaan?", "woorden": ["هَلْ", "ذَهَبْتُمْ", "إِلى", "السّينَما؟"], "uitleg": "{ar|هَلْ} + māḍī." },
+        { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "'Zij (v mv) tekenden' is ...", "opties": ["رَسَمْنَ", "رَسَمُوا", "رَسَمْنا"], "juist": 0, "uitleg": "ـْنَ" }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "wij aten", "antwoorden": ["أَكَلْنا"], "uitleg": "{ar|أَكَلْنا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "zij (m mv) speelden", "antwoorden": ["لَعِبُوا"], "uitleg": "{ar|لَعِبُوا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "jullie (m) begrepen", "antwoorden": ["فَهِمْتُمْ"], "uitleg": "{ar|فَهِمْتُمْ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "غَسَلْنا الصُّحونَ.", "antwoorden": ["wij wasten de borden", "we wasten de borden", "wij hebben de afwas gedaan", "we hebben de afwas gedaan", "wij hebben de borden gewassen"], "uitleg": "{ar|الصُّحونُ} = de borden." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "نَظَرْتُنَّ إِلى الجَبَلِ.", "antwoorden": ["jullie keken naar de berg"], "uitleg": "Jullie (v)." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "سينَما", "nl": "bioscoop" },
+        { "ar": "مُمْتِعٌ", "nl": "leuk" },
+        { "ar": "جَميعًا", "nl": "allemaal" },
+        { "ar": "دَفَعَ", "nl": "betaalde" },
+        { "ar": "شَكَرَ", "nl": "bedankte" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "'Wij schreven' is ...", "opties": ["كَتَبْنا", "كَتَبُوا", "نَكْتُبُ"], "juist": 0, "uitleg": "ـْنا" },
+      { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "Welke vorm is goed gespeld?", "opties": ["ذَهَبُوا", "ذَهَبُو", "ذَهَبوْ"], "juist": 0, "uitleg": "Met stille alif." },
+      { "type": "meerkeuze", "tag": "madi-meervoud", "vraag": "{ar|حَمَلْتُمْ} betekent ...", "opties": ["jullie (m) droegen", "wij droegen", "zij droegen"], "juist": 0, "uitleg": "ـْتُمْ" },
+      { "type": "luisteren", "tag": "madi-meervoud", "tekst": "وَصَلْنا في السّاعَةِ الثّامِنَةِ", "vraag": "Wat hoor je?", "opties": ["We kwamen om acht uur aan.", "Ze kwamen om acht uur aan.", "We komen om acht uur aan."], "juist": 0, "uitleg": "ـْنا = wij." },
+      { "type": "luisteren", "tag": "madi-meervoud", "tekst": "لَبِسْنَ مَلابِسَ جَميلَةً", "vraag": "Wie trokken mooie kleren aan?", "opties": ["zij (vrouwen)", "wij", "zij (mannen)"], "juist": 0, "uitleg": "ـْنَ = zij (v mv)." },
+      { "type": "invullen", "tag": "madi-meervoud", "zin": "أَنْتُنَّ ___ الدَّرْسَ.", "nl": "Jullie (v) leerden de les uit je hoofd.", "woordbank": ["حَفِظْتُنَّ", "حَفِظْتُمْ", "حَفِظْنَ"], "antwoord": ["حَفِظْتُنَّ"], "uitleg": "ـْتُنَّ" },
+      { "type": "invullen", "tag": "madi-meervoud", "zin": "الطُّلّابُ ___ إِلى البَيْتِ.", "nl": "De studenten zijn naar huis teruggekeerd.", "woordbank": ["رَجَعُوا", "رَجَعْنا", "رَجَعَ"], "antwoord": ["رَجَعُوا"], "uitleg": "Onderwerp vooraan → volledige congruentie: {ar|رَجَعُوا}." },
+      { "type": "vervoegen", "tag": "madi-meervoud", "instructie": "Vervoeg شَرِبَ (drinken).",
+        "rijen": [
+          { "label": "wij", "antwoord": "شَرِبْنا", "tr": "šaribnā" },
+          { "label": "zij (m mv)", "antwoord": "شَرِبُوا", "tr": "šaribū" },
+          { "label": "zij (v mv)", "antwoord": "شَرِبْنَ", "tr": "šaribna" }
+        ], "uitleg": "{ar|شَرِبْنا} · {ar|شَرِبُوا} · {ar|شَرِبْنَ}" },
+      { "type": "ordenen", "tag": "madi-meervoud", "nl": "We gingen allemaal samen naar het feest.", "woorden": ["ذَهَبْنا", "جَميعًا", "إِلى", "الحَفْلَةِ."], "uitleg": "{ar|جَميعًا} = allemaal." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "wij kwamen aan", "antwoorden": ["وَصَلْنا"], "uitleg": "{ar|وَصَلْنا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-meervoud", "bron": "zij (m mv) betaalden", "antwoorden": ["دَفَعُوا"], "uitleg": "{ar|دَفَعُوا}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "هَلْ رَكِبْتُمُ الحافِلَةَ؟", "antwoorden": ["hebben jullie de bus genomen", "namen jullie de bus"], "uitleg": "{ar|رَكِبْتُمُ} krijgt een hulpklinker u voor ال." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-meervoud", "bron": "خَرَجْنا مِنَ السّينَما مُتَأَخِّرينَ.", "antwoorden": ["we kwamen laat uit de bioscoop", "wij kwamen laat uit de bioscoop", "we gingen laat de bioscoop uit", "we verlieten de bioscoop laat"], "uitleg": "{ar|خَرَجَ مِنْ} = weggaan uit." }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "j1-p1-l10",
+  "code": "L10",
+  "type": "les",
+  "titel": "Hebben",
+  "thema": "Zeggen wat je hebt, wat je bij je hebt en wat van wie is",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "uitleggen dat het Arabisch geen werkwoord 'hebben' heeft.",
+    "bezit uitdrukken met عِنْدَ + aangehecht voornaamwoord, voor alle personen.",
+    "het verschil tussen عِنْدَ، لِـ en مَعَ toepassen.",
+    "begrijpen waarom in عِنْدي كِتابٌ het onderwerp achteraan staat."
+  ],
+
+  "woorden": [
+    { "id": "j1-p1-l10-w01", "ar": "عِنْدَ", "tr": "ʿinda", "nl": ["bij", "(hebben)"], "soort": "voorzetsel", "notitie": "{ar|عِنْدي} = bij mij = ik heb." },
+    { "id": "j1-p1-l10-w02", "ar": "لِـ", "tr": "li-", "nl": ["voor", "van", "aan"], "soort": "voorzetsel", "notitie": "Wordt vastgeschreven: {ar|لي} (voor mij), {ar|لَكَ} (voor jou)." },
+    { "id": "j1-p1-l10-w03", "ar": "مَعَ", "tr": "maʿa", "nl": ["met", "bij (bij je dragen)"], "soort": "voorzetsel" },
+    { "id": "j1-p1-l10-w04", "ar": "عِنْدي", "tr": "ʿindī", "nl": ["ik heb"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l10-w05", "ar": "مَعي", "tr": "maʿī", "nl": ["ik heb (bij me)", "met mij"], "soort": "uitdrukking" },
+    { "id": "j1-p1-l10-w06", "ar": "وَقْتٌ", "tr": "waqt", "nl": ["tijd"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w07", "ar": "مالٌ", "tr": "māl", "nl": ["geld", "vermogen"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w08", "ar": "نُقودٌ", "tr": "nuqūd", "nl": ["geld (contant)"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p1-l10-w09", "ar": "فِكْرَةٌ", "tr": "fikra", "nl": ["idee"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w10", "ar": "مَوْعِدٌ", "tr": "mawʿid", "nl": ["afspraak"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w11", "ar": "مُشْكِلَةٌ", "tr": "muškila", "nl": ["probleem"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w12", "ar": "عَمَلٌ", "tr": "ʿamal", "nl": ["werk"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w13", "ar": "اِمْتِحانٌ", "tr": "imtiḥān", "nl": ["examen", "toets"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w14", "ar": "حَيَوانٌ", "tr": "ḥayawān", "nl": ["dier", "huisdier"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w15", "ar": "صُداعٌ", "tr": "ṣudāʿ", "nl": ["hoofdpijn"], "soort": "zelfstandig naamwoord", "notitie": "{ar|عِنْدي صُداعٌ} = ik heb hoofdpijn." },
+    { "id": "j1-p1-l10-w16", "ar": "جَوازُ سَفَرٍ", "tr": "jawāzu safar", "nl": ["paspoort"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w17", "ar": "بِطاقَةٌ", "tr": "biṭāqa", "nl": ["kaart", "pasje"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w18", "ar": "تَذْكِرَةٌ", "tr": "taḏkira", "nl": ["kaartje", "ticket"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w19", "ar": "عُطْلَةٌ", "tr": "ʿuṭla", "nl": ["vakantie", "vrije dag"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p1-l10-w20", "ar": "كَثيرٌ", "tr": "kaṯīr", "nl": ["veel"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p1-l10-w21", "ar": "قَليلٌ", "tr": "qalīl", "nl": ["weinig"], "soort": "bijvoeglijk naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Geen werkwoord 'hebben'",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Het Arabisch heeft **geen werkwoord voor hebben**. In plaats daarvan zeg je *bij mij (is) een boek*: {ar|عِنْدي كِتابٌ}.",
+          "{ar|عِنْدَ} betekent *bij*. Je plakt er een **aangehecht voornaamwoord** achter: ـي (mij), ـكَ (jou, m), ـكِ (jou, v) enzovoort. Samen betekent het *ik heb, jij hebt...*"
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Arabisch", "Nederlands"], "arKolommen": [1], "rijen": [
+          ["أَنا", "عِنْدي|ʿindī", "ik heb"],
+          ["أَنْتَ", "عِنْدَكَ|ʿindaka", "jij (m) hebt"],
+          ["أَنْتِ", "عِنْدَكِ|ʿindaki", "jij (v) hebt"],
+          ["هُوَ", "عِنْدَهُ|ʿindahu", "hij heeft"],
+          ["هِيَ", "عِنْدَها|ʿindahā", "zij heeft"],
+          ["نَحْنُ", "عِنْدَنا|ʿindanā", "wij hebben"],
+          ["أَنْتُمْ", "عِنْدَكُمْ|ʿindakum", "jullie (m) hebben"],
+          ["أَنْتُنَّ", "عِنْدَكُنَّ|ʿindakunna", "jullie (v) hebben"],
+          ["هُمْ", "عِنْدَهُمْ|ʿindahum", "zij (m mv) hebben"],
+          ["هُنَّ", "عِنْدَهُنَّ|ʿindahunna", "zij (v mv) hebben"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "عِنْدي سُؤالٌ.", "tr": "ʿindī suʾāl.", "nl": "Ik heb een vraag." },
+          { "ar": "عِنْدَها سَيّارَةٌ جَديدَةٌ.", "tr": "ʿindahā sayyāratun jadīda.", "nl": "Zij heeft een nieuwe auto." },
+          { "ar": "هَلْ عِنْدَكَ وَقْتٌ؟", "tr": "hal ʿindaka waqt?", "nl": "Heb je tijd? (tegen een man)" },
+          { "ar": "عِنْدَنا اِمْتِحانٌ اليَوْمَ.", "tr": "ʿindanā mtiḥānun al-yawm.", "nl": "We hebben vandaag een examen.",
+            "review": { "status": "onzeker", "note": "Transliteratie bij verbindingsalif na -nā: ʿindanā mtiḥān (de i van اِمْتِحان valt weg). Controleer de uitspraak en de woordvolgorde met اليَوْمَ." } }
+        ] },
+        { "type": "waarom", "md": "De aangehechte voornaamwoorden zijn dezelfde die je al kent uit {ar|حالُكَ} en {ar|اِسْمي}. Ze komen overal terug: achter zelfstandige naamwoorden (*mijn huis*, les 11), achter voorzetsels (*bij mij*, nu) en achter werkwoorden (*hij ziet mij*, les 37). Wie ze één keer goed leert, gebruikt ze overal." }
+      ]
+    },
+    {
+      "titel": "Waarom staat het 'onderwerp' achteraan?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In {ar|عِنْدي كِتابٌ} is {ar|كِتابٌ} grammaticaal het onderwerp (*een boek is bij mij*), en dat staat achteraan.",
+          "In les 4 zag je dat een nominale zin meestal met een **bepaald** onderwerp begint. *Een boek* is onbepaald. Daarom zet het Arabisch eerst het gezegde ({ar|عِنْدي}, *bij mij*) en dan het onbepaalde onderwerp."
+        ] },
+        { "type": "waarom", "md": "Een zin die begint met een onbepaald woord ({ar|كِتابٌ عِنْدي}) klinkt in het Arabisch onaf, ongeveer zoals *een boek is bij mij* in het Nederlands. Met het bekende deel vooraan ({ar|عِنْدي}) loopt de zin natuurlijk. Hetzelfde zie je bij {ar|هُناكَ} (*er is*)." },
+        { "type": "letop", "md": "Wil je zeggen dat je iets **niet** hebt? Dat leer je in les 12: {ar|لَيْسَ عِنْدي وَقْتٌ} (ik heb geen tijd)." }
+      ]
+    },
+    {
+      "titel": "عِنْدَ, لِـ of مَعَ?",
+      "blokken": [
+        { "type": "tabel", "kop": ["Woord", "Gebruik", "Voorbeeld"], "arKolommen": [0, 2], "rijen": [
+          ["عِنْدَ|ʿinda", "bezit in het algemeen, ook een afspraak, probleem of ziekte", "عِنْدي سَيّارَةٌ. عِنْدي صُداعٌ.|ʿindī sayyāra. ʿindī ṣudāʿ."],
+          ["مَعَ|maʿa", "iets wat je nu bij je hebt", "مَعي جَوازُ السَّفَرِ.|maʿī jawāzu s-safar."],
+          ["لِـ|li-", "iets wat aan iemand toebehoort of voor iemand is", "هٰذِهِ التَّذْكِرَةُ لَكَ.|hāḏihi t-taḏkiratu lak."]
+        ] },
+        { "type": "tekst", "md": [
+          "Ook met {ar|لِـ} en {ar|مَعَ} gebruik je de aangehechte voornaamwoorden: {ar|لي، لَكَ، لَكِ، لَهُ، لَها، لَنا} en {ar|مَعي، مَعَكَ، مَعَكِ، مَعَهُ، مَعَها، مَعَنا}."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "هَلْ مَعَكَ نُقودٌ؟", "tr": "hal maʿaka nuqūd?", "nl": "Heb je geld bij je?" },
+          { "ar": "هٰذا الكِتابُ لي.", "tr": "hāḏā l-kitābu lī.", "nl": "Dit boek is van mij." },
+          { "ar": "عِنْدَهُ عَمَلٌ كَثيرٌ.", "tr": "ʿindahu ʿamalun kaṯīr.", "nl": "Hij heeft veel werk." }
+        ] },
+        { "type": "waarom", "md": "Het Nederlands gebruikt één werkwoord voor heel verschillende situaties. Het Arabisch kiest het voorzetsel dat de situatie het best beschrijft: *bij* iemand (algemeen bezit), *met* iemand (bij je dragen), *voor/van* iemand (toebehoren)." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Ik heb, jij hebt",
+      "items": [
+        { "type": "vervoegen", "tag": "hebben-inda", "instructie": "Vul de juiste vorm van عِنْدَ in.",
+          "rijen": [
+            { "label": "ik heb", "ar": "أَنا", "antwoord": "عِنْدي", "tr": "ʿindī" },
+            { "label": "jij (m) hebt", "ar": "أَنْتَ", "antwoord": "عِنْدَكَ", "tr": "ʿindaka", "eind": true },
+            { "label": "jij (v) hebt", "ar": "أَنْتِ", "antwoord": "عِنْدَكِ", "tr": "ʿindaki", "eind": true },
+            { "label": "hij heeft", "ar": "هُوَ", "antwoord": "عِنْدَهُ", "tr": "ʿindahu" },
+            { "label": "zij heeft", "ar": "هِيَ", "antwoord": "عِنْدَها", "tr": "ʿindahā" }
+          ],
+          "uitleg": "Let bij jij (m/v) op de laatste klinker." },
+        { "type": "vervoegen", "tag": "hebben-inda", "instructie": "Vul de juiste vorm van عِنْدَ in (meervoud).",
+          "rijen": [
+            { "label": "wij hebben", "ar": "نَحْنُ", "antwoord": "عِنْدَنا", "tr": "ʿindanā" },
+            { "label": "jullie (m) hebben", "ar": "أَنْتُمْ", "antwoord": "عِنْدَكُمْ", "tr": "ʿindakum" },
+            { "label": "zij (m mv) hebben", "ar": "هُمْ", "antwoord": "عِنْدَهُمْ", "tr": "ʿindahum" },
+            { "label": "zij (v mv) hebben", "ar": "هُنَّ", "antwoord": "عِنْدَهُنَّ", "tr": "ʿindahunna" }
+          ],
+          "uitleg": "De uitgangen lijken op de voornaamwoorden: نَحْنُ → ـنا, هُمْ → ـهُمْ." },
+        { "type": "meerkeuze", "tag": "hebben-inda", "vraag": "Hoe zeg je 'wij hebben een idee'?", "opties": ["عِنْدَنا فِكْرَةٌ.", "نَحْنُ فِكْرَةٌ.", "عِنْدي فِكْرَةٌ.", "فِكْرَةٌ نَحْنُ."], "juist": 0,
+          "uitleg": "Geen werkwoord *hebben*: {ar|عِنْدَنا} + het onbepaalde zelfstandig naamwoord." },
+        { "type": "luisteren", "tag": "hebben-inda", "tekst": "عِنْدَها حَيَوانٌ", "vraag": "Wat hoor je?", "opties": ["Zij heeft een huisdier.", "Hij heeft een huisdier.", "Ik heb een huisdier.", "Wij hebben een huisdier."], "juist": 0,
+          "uitleg": "ـها = haar: {ar|عِنْدَها} = zij heeft." }
+      ]
+    },
+    {
+      "titel": "Woorden en situaties",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "وَقْتٌ", "nl": "tijd", "woord": "j1-p1-l10-w06" },
+          { "ar": "مَوْعِدٌ", "nl": "afspraak", "woord": "j1-p1-l10-w10" },
+          { "ar": "مُشْكِلَةٌ", "nl": "probleem", "woord": "j1-p1-l10-w11" },
+          { "ar": "تَذْكِرَةٌ", "nl": "kaartje", "woord": "j1-p1-l10-w18" },
+          { "ar": "عُطْلَةٌ", "nl": "vakantie", "woord": "j1-p1-l10-w19" },
+          { "ar": "صُداعٌ", "nl": "hoofdpijn", "woord": "j1-p1-l10-w15" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "meerkeuze", "tag": "hebben-keuze", "vraag": "Je staat bij de grens en zegt dat je je paspoort bij je hebt. Welk voorzetsel past het best?",
+          "opties": ["مَعي جَوازُ السَّفَرِ.", "لي جَوازُ السَّفَرِ.", "أَنا جَوازُ السَّفَرِ."], "juist": 0,
+          "uitleg": "Iets wat je nú bij je hebt: {ar|مَعَ}." },
+        { "type": "meerkeuze", "tag": "hebben-keuze", "vraag": "Je geeft iemand een kaartje en zegt: 'Dit kaartje is voor jou.' Welke zin?",
+          "opties": ["هٰذِهِ التَّذْكِرَةُ لَكَ.", "عِنْدَكَ هٰذِهِ التَّذْكِرَةُ.", "هٰذِهِ التَّذْكِرَةُ مَعَكَ."], "juist": 0,
+          "uitleg": "*Voor jou / van jou*: {ar|لَكَ}." },
+        { "type": "invullen", "tag": "hebben-inda", "zin": "___ صُداعٌ.", "nl": "Ik heb hoofdpijn.", "woordbank": ["عِنْدي", "مَعي", "لي"], "antwoord": ["عِنْدي"], "uitleg": "Ziekte of klacht: {ar|عِنْدي}." },
+        { "type": "invullen", "tag": "hebben-inda", "zin": "هَلْ ___ وَقْتٌ؟", "nl": "Heb je tijd? (tegen een vrouw)", "antwoord": ["عِنْدَكِ"], "eind": true, "uitleg": "Tegen een vrouw: {ar|عِنْدَكِ}, met kasra." }
+      ]
+    },
+    {
+      "titel": "Zinnen bouwen",
+      "items": [
+        { "type": "ordenen", "tag": "hebben-inda", "nl": "Hij heeft veel werk.", "woorden": ["عِنْدَهُ", "عَمَلٌ", "كَثيرٌ."], "uitleg": "{ar|عِنْدَهُ} vooraan, dan het onbepaalde onderwerp met bijvoeglijk naamwoord." },
+        { "type": "ordenen", "tag": "hebben-inda", "nl": "Zij heeft een nieuwe auto.", "woorden": ["عِنْدَها", "سَيّارَةٌ", "جَديدَةٌ."], "uitleg": "{ar|سَيّارَةٌ} is vrouwelijk: {ar|جَديدَةٌ}." },
+        { "type": "ordenen", "tag": "hebben-keuze", "nl": "Heb je geld bij je? (tegen een man)", "woorden": ["هَلْ", "مَعَكَ", "نُقودٌ؟"], "uitleg": "Bij je dragen: {ar|مَعَ}." },
+        { "type": "ordenen", "tag": "hebben-keuze", "nl": "Dit boek is van mij.", "woorden": ["هٰذا", "الكِتابُ", "لي."], "uitleg": "*Van mij*: {ar|لي}." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "hebben-inda", "bron": "Ik heb een vraag.", "antwoorden": ["عِنْدي سُؤالٌ"], "uitleg": "{ar|عِنْدي سُؤالٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "hebben-inda", "bron": "Wij hebben een afspraak.", "antwoorden": ["عِنْدَنا مَوْعِدٌ"], "uitleg": "{ar|عِنْدَنا مَوْعِدٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "hebben-inda", "bron": "Heb je een probleem? (tegen een man)", "antwoorden": ["هَلْ عِنْدَكَ مُشْكِلَةٌ؟", "عِنْدَكَ مُشْكِلَةٌ؟"], "uitleg": "{ar|هَلْ عِنْدَكَ مُشْكِلَةٌ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-inda", "bron": "عِنْدَهُمْ عُطْلَةٌ.", "tr": "ʿindahum ʿuṭla.", "antwoorden": ["zij hebben vakantie", "ze hebben vakantie", "zij hebben een vrije dag"], "uitleg": "{ar|عِنْدَهُمْ} = zij (mv) hebben." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-inda", "bron": "عِنْدي وَقْتٌ قَليلٌ.", "tr": "ʿindī waqtun qalīl.", "antwoorden": ["ik heb weinig tijd"], "uitleg": "{ar|قَليلٌ} = weinig." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-keuze", "bron": "هٰذِهِ البِطاقَةُ لَها.", "tr": "hāḏihi l-biṭāqatu lahā.", "antwoorden": ["deze kaart is van haar", "dit pasje is van haar", "deze kaart is voor haar", "dit pasje is voor haar"], "uitleg": "{ar|لَها} = van/voor haar." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "مالٌ", "nl": "geld" },
+        { "ar": "فِكْرَةٌ", "nl": "idee" },
+        { "ar": "اِمْتِحانٌ", "nl": "examen" },
+        { "ar": "كَثيرٌ", "nl": "veel" },
+        { "ar": "قَليلٌ", "nl": "weinig" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "hebben-inda", "vraag": "'Hij heeft' is ...", "opties": ["عِنْدَهُ", "عِنْدَها", "عِنْدَكَ", "عِنْدي"], "juist": 0, "uitleg": "ـهُ = hem/zijn." },
+      { "type": "meerkeuze", "tag": "hebben-inda", "vraag": "Waarom staat in {ar|عِنْدي كِتابٌ} het woord {ar|كِتابٌ} achteraan?", "opties": ["Omdat het onbepaald is; het bekende deel komt eerst.", "Omdat عِنْدَ een werkwoord is.", "Omdat het een vraag is."], "juist": 0, "uitleg": "Onbepaald onderwerp → het gezegde komt vooraan." },
+      { "type": "meerkeuze", "tag": "hebben-keuze", "vraag": "Welk voorzetsel voor 'Ik heb mijn telefoon bij me'?", "opties": ["مَعَ", "لِـ", "عِنْدَ"], "juist": 0, "uitleg": "Bij je dragen: {ar|مَعَ}." },
+      { "type": "luisteren", "tag": "hebben-inda", "tekst": "عِنْدَنا اِمْتِحانٌ", "vraag": "Wat hoor je?", "opties": ["Wij hebben een examen.", "Zij hebben een examen.", "Ik heb een examen."], "juist": 0, "uitleg": "ـنا = wij/ons." },
+      { "type": "luisteren", "tag": "hebben-keuze", "tekst": "هٰذا لَكِ", "vraag": "Wat hoor je?", "opties": ["Dit is voor jou (v).", "Dit is voor jou (m).", "Dit is voor mij."], "juist": 0, "uitleg": "*laki*, met -i: tegen een vrouw." },
+      { "type": "invullen", "tag": "hebben-inda", "zin": "___ مَوْعِدٌ.", "nl": "Zij heeft een afspraak.", "woordbank": ["عِنْدَها", "عِنْدَهُ", "عِنْدَهُنَّ"], "antwoord": ["عِنْدَها"], "uitleg": "ـها = haar." },
+      { "type": "invullen", "tag": "hebben-inda", "zin": "___ وَقْتٌ كَثيرٌ.", "nl": "Wij hebben veel tijd.", "antwoord": ["عِنْدَنا"], "uitleg": "{ar|عِنْدَنا}" },
+      { "type": "vervoegen", "tag": "hebben-inda", "instructie": "Vul de juiste vorm van عِنْدَ in.",
+        "rijen": [
+          { "label": "jullie (m) hebben", "antwoord": "عِنْدَكُمْ", "tr": "ʿindakum" },
+          { "label": "jij (v) hebt", "antwoord": "عِنْدَكِ", "tr": "ʿindaki", "eind": true },
+          { "label": "zij (m mv) hebben", "antwoord": "عِنْدَهُمْ", "tr": "ʿindahum" }
+        ], "uitleg": "{ar|عِنْدَكُمْ} · {ar|عِنْدَكِ} · {ar|عِنْدَهُمْ}" },
+      { "type": "ordenen", "tag": "hebben-inda", "nl": "Ik heb een leuk idee.", "woorden": ["عِنْدي", "فِكْرَةٌ", "جَميلَةٌ."], "uitleg": "{ar|فِكْرَةٌ جَميلَةٌ}: letterlijk een mooi idee." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "hebben-inda", "bron": "Ik heb hoofdpijn.", "antwoorden": ["عِنْدي صُداعٌ"], "uitleg": "{ar|عِنْدي صُداعٌ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "hebben-keuze", "bron": "Dit is voor jou. (m)", "antwoorden": ["هٰذا لَكَ"], "eind": true, "uitleg": "{ar|هٰذا لَكَ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-inda", "bron": "عِنْدَكَ تَذْكِرَةٌ؟", "tr": "ʿindaka taḏkira?", "antwoorden": ["heb je een kaartje", "heb jij een kaartje", "heb je een ticket", "heb jij een ticket"], "uitleg": "{ar|عِنْدَكَ} = jij hebt." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "hebben-keuze", "bron": "مَعَها نُقودٌ.", "tr": "maʿahā nuqūd.", "antwoorden": ["zij heeft geld bij zich", "ze heeft geld bij zich", "zij heeft geld bij haar", "zij heeft geld"], "uitleg": "{ar|مَعَها} = zij heeft (bij zich)." }
+    ]
+  }
+}

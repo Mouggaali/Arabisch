@@ -1,0 +1,661 @@
+{
+  "id": "j3-p12-l144",
+  "code": "L144",
+  "type": "les",
+  "titel": "Examentraining: spreken",
+  "thema": "Het spreekexamen B1: voorstellen, monoloog, rollenspel en discussie",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de vier onderdelen van het spreekexamen kennen en voorbereiden.",
+    "een monoloog van twee minuten houden met vaste formules.",
+    "zenuwen en woordnood opvangen met strategieën."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l144-w01",
+      "ar": "تَقْديمُ النَّفْسِ",
+      "tr": "taqdīmu n-nafs",
+      "nl": [
+        "jezelf voorstellen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w02",
+      "ar": "عَرْضٌ شَفَوِيٌّ",
+      "tr": "ʿarḍun šafawiyy",
+      "nl": [
+        "monoloog, mondelinge presentatie"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w03",
+      "ar": "لَعِبُ الأَدْوارِ",
+      "tr": "laʿibu l-adwār",
+      "nl": [
+        "rollenspel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w04",
+      "ar": "طَلاقَةٌ",
+      "tr": "ṭalāqa",
+      "nl": [
+        "vloeiendheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p12-l144-w05",
+      "ar": "تَواصُلٌ بَصَرِيٌّ",
+      "tr": "tawāṣulun baṣariyy",
+      "nl": [
+        "oogcontact"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w06",
+      "ar": "اِرْتِباكٌ",
+      "tr": "irtibāk",
+      "nl": [
+        "zenuwachtigheid"
+      ],
+      "soort": "maṣdar (VIII)"
+    },
+    {
+      "id": "j3-p12-l144-w07",
+      "ar": "تَنَفَّسَ",
+      "tr": "tanaffasa",
+      "nl": [
+        "ademen"
+      ],
+      "soort": "werkwoord (V)"
+    },
+    {
+      "id": "j3-p12-l144-w08",
+      "ar": "بِهُدوءٍ",
+      "tr": "bi-hudūʾ",
+      "nl": [
+        "rustig, kalm"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p12-l144-w09",
+      "ar": "حَظًّا سَعيدًا",
+      "tr": "ḥaẓẓan saʿīdan",
+      "nl": [
+        "veel succes"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w10",
+      "ar": "مُدَّةُ دَقيقَتَيْنِ",
+      "tr": "muddatu daqīqatayn",
+      "nl": [
+        "twee minuten lang"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w11",
+      "ar": "بِطاقَةُ المَوْضوعِ",
+      "tr": "biṭāqatu l-mawḍūʿ",
+      "nl": [
+        "onderwerpkaartje"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w12",
+      "ar": "اِسْتَعَدَّ لِـ",
+      "tr": "istaʿadda li-",
+      "nl": [
+        "zich voorbereiden op"
+      ],
+      "soort": "werkwoord (X)"
+    },
+    {
+      "id": "j3-p12-l144-w13",
+      "ar": "أَوَدُّ أَنْ أُشيرَ إِلى",
+      "tr": "awaddu an ušīra ilā",
+      "nl": [
+        "ik wil graag wijzen op"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w14",
+      "ar": "بِالنِّسْبَةِ إِلَيَّ",
+      "tr": "bi-n-nisbati ilayya",
+      "nl": [
+        "voor mij, wat mij betreft"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l144-w15",
+      "ar": "لا أَتَذَكَّرُ الكَلِمَةَ",
+      "tr": "lā atadakkaru l-kalima",
+      "nl": [
+        "ik kan even niet op het woord komen"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De vier onderdelen van het spreekexamen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderdeel",
+            "Duur",
+            "Wat je doet",
+            "Handige formules"
+          ],
+          "rijen": [
+            [
+              "تَقْديمُ النَّفْسِ",
+              "1 min",
+              "naam, herkomst, studie of werk, hobby's",
+              "اِسْمي … · أَدْرُسُ … · في وَقْتِ فَراغي …"
+            ],
+            [
+              "عَرْضٌ شَفَوِيٌّ",
+              "2 min",
+              "over een onderwerp op een kaartje",
+              "سَأَتَحَدَّثُ عَنْ … · أَوَّلًا … · خُلاصَةُ القَوْلِ …"
+            ],
+            [
+              "لَعِبُ الأَدْوارِ",
+              "3 min",
+              "een situatie naspelen (winkel, loket, dokter)",
+              "لَوْ سَمَحْتَ … · هَلْ يُمْكِنُ …؟"
+            ],
+            [
+              "نِقاشٌ",
+              "3 min",
+              "je mening geven en verdedigen",
+              "بِالنِّسْبَةِ إِلَيَّ … · صَحيحٌ أَنَّ … إِلّا أَنَّ …"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Het spreekexamen beoordeelt **vloeiendheid** ({ar|طَلاقَةٌ}), **juistheid** en **interactie**. Een kleine fout is minder erg dan stilvallen. Daarom oefen je de vaste formules zo vaak dat ze automatisch komen: dan heb je je denkkracht vrij voor de inhoud."
+        },
+        {
+          "type": "letop",
+          "md": "Zenuwachtig ({ar|اِرْتِباكٌ})? Adem rustig ({ar|تَنَفَّسْ بِهُدوءٍ}), maak oogcontact en gebruik een strategie uit les 140: {ar|سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ}."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeld: monoloog over je stad",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَأَتَحَدَّثُ عَنْ مَدينَتي، أَمْسْتِرْدامَ.",
+              "tr": "sa-ataḥaddaṯu ʿan madīnatī, amstirdām.",
+              "nl": "Ik ga het hebben over mijn stad, Amsterdam."
+            },
+            {
+              "ar": "أَوَّلًا، هِيَ مَدينَةٌ مُتَعَدِّدَةُ الثَّقافاتِ.",
+              "tr": "awwalan, hiya madīnatun mutaʿaddidatu ṯ-ṯaqāfāt.",
+              "nl": "Ten eerste is het een multiculturele stad."
+            },
+            {
+              "ar": "أَوَدُّ أَنْ أُشيرَ إِلى أَنَّ الدَّرّاجَةَ أَهَمُّ وَسيلَةِ نَقْلٍ فيها.",
+              "tr": "awaddu an ušīra ilā anna d-darrājata ahammu wasīlati naqlin fīhā.",
+              "nl": "Ik wil erop wijzen dat de fiets er het belangrijkste vervoermiddel is."
+            },
+            {
+              "ar": "بِالنِّسْبَةِ إِلَيَّ، أَجْمَلُ شَيْءٍ فيها القَنَواتُ.",
+              "tr": "bi-n-nisbati ilayya, ajmalu šayʾin fīha l-qanawāt.",
+              "nl": "Voor mij zijn de grachten het mooiste."
+            },
+            {
+              "ar": "كَيْفَ أَقولُ… لا أَتَذَكَّرُ الكَلِمَةَ… يَعْني المَكانُ الَّذي نَرى فيهِ اللَّوْحاتِ: المُتْحَفُ!",
+              "tr": "kayfa aqūl… lā atadakkaru l-kalima… yaʿni l-makānu llaḏī narā fīhi l-lawḥāt: al-matḥaf!",
+              "nl": "Hoe zeg je… ik kan even niet op het woord komen… de plek waar je schilderijen ziet: het museum!"
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، إِنَّها مَدينَةٌ تَسْتَحِقُّ الزِّيارَةَ.",
+              "tr": "ḫulāṣatu l-qawl, innahā madīnatun tastaḥiqqu z-ziyāra.",
+              "nl": "Kortom, het is een stad die een bezoek waard is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "spreken",
+          "paren": [
+            {
+              "ar": "تَقْديمُ النَّفْسِ",
+              "nl": "jezelf voorstellen",
+              "woord": "j3-p12-l144-w01"
+            },
+            {
+              "ar": "لَعِبُ الأَدْوارِ",
+              "nl": "rollenspel",
+              "woord": "j3-p12-l144-w03"
+            },
+            {
+              "ar": "طَلاقَةٌ",
+              "nl": "vloeiendheid",
+              "woord": "j3-p12-l144-w04"
+            },
+            {
+              "ar": "اِرْتِباكٌ",
+              "nl": "zenuwachtigheid",
+              "woord": "j3-p12-l144-w06"
+            },
+            {
+              "ar": "بِهُدوءٍ",
+              "nl": "rustig",
+              "woord": "j3-p12-l144-w08"
+            },
+            {
+              "ar": "اِسْتَعَدَّ لِـ",
+              "nl": "zich voorbereiden",
+              "woord": "j3-p12-l144-w12"
+            }
+          ],
+          "uitleg": "Spreekexamen."
+        },
+        {
+          "type": "luisteren",
+          "tag": "spreken",
+          "tekst": "تَنَفَّسْ بِهُدوءٍ وَابْتَسِمْ",
+          "vraag": "Wat is het advies?",
+          "opties": [
+            "rustig ademen en glimlachen",
+            "snel praten",
+            "niet naar de examinator kijken"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بِهُدوءٍ}"
+        }
+      ]
+    },
+    {
+      "titel": "Het examen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "spreken",
+          "vraag": "Wat is erger in het spreekexamen?",
+          "opties": [
+            "stilvallen",
+            "een kleine fout",
+            "een opvulwoord"
+          ],
+          "juist": 0,
+          "uitleg": "Vloeiendheid."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "spreken",
+          "vraag": "Welk onderdeel duurt ongeveer twee minuten en gaat over een kaartje?",
+          "opties": [
+            "عَرْضٌ شَفَوِيٌّ",
+            "تَقْديمُ النَّفْسِ",
+            "لَعِبُ الأَدْوارِ"
+          ],
+          "juist": 0,
+          "uitleg": "Monoloog."
+        },
+        {
+          "type": "invullen",
+          "tag": "spreken",
+          "zin": "___ إِلَيَّ، أَجْمَلُ شَيْءٍ هُوَ البَحْرُ.",
+          "nl": "Voor mij is de zee het mooiste.",
+          "antwoord": [
+            "بِالنِّسْبَةِ"
+          ],
+          "uitleg": "{ar|بِالنِّسْبَةِ إِلَيَّ}",
+          "woordbank": [
+            "بِالنِّسْبَةِ",
+            "بِسَبَبِ",
+            "بِشَرْطِ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "spreken",
+          "zin": "أَوَدُّ أَنْ ___ إِلى نُقْطَةٍ مُهِمَّةٍ.",
+          "nl": "Ik wil graag op een belangrijk punt wijzen.",
+          "antwoord": [
+            "أُشيرَ"
+          ],
+          "uitleg": "Manṣūb.",
+          "woordbank": [
+            "أُشيرَ",
+            "أُشيرُ",
+            "أَشارَ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "spreken",
+          "nl": "Ik kan even niet op het woord komen.",
+          "woorden": [
+            "لا",
+            "أَتَذَكَّرُ",
+            "الكَلِمَةَ."
+          ],
+          "uitleg": "Strategie."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "spreken",
+          "bron": "veel succes",
+          "antwoorden": [
+            "حَظًّا سَعيدًا",
+            "حظا سعيدا",
+            "بِالتَّوْفيقِ"
+          ],
+          "uitleg": "{ar|حَظًّا سَعيدًا}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "spreken",
+          "bron": "سَأَتَحَدَّثُ عَنْ مَدينَتي.",
+          "antwoorden": [
+            "ik ga het hebben over mijn stad",
+            "ik ga over mijn stad spreken"
+          ],
+          "uitleg": "Monoloog."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf spreken",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "spreken",
+          "tag": "spreken",
+          "opdracht": "Oefen het examenonderdeel monoloog: spreek twee minuten over \"mijn stad\" (of een ander onderwerp van een kaartje).",
+          "model": [
+            {
+              "ar": "سَأَتَحَدَّثُ عَنْ مَدينَتي، أَمْسْتِرْدامَ.",
+              "tr": "sa-ataḥaddaṯu ʿan madīnatī, amstirdām.",
+              "nl": "Ik ga het hebben over mijn stad, Amsterdam."
+            },
+            {
+              "ar": "أَوَّلًا، هِيَ مَدينَةٌ مُتَعَدِّدَةُ الثَّقافاتِ.",
+              "tr": "awwalan, hiya madīnatun mutaʿaddidatu ṯ-ṯaqāfāt.",
+              "nl": "Ten eerste is het een multiculturele stad."
+            },
+            {
+              "ar": "أَوَدُّ أَنْ أُشيرَ إِلى أَنَّ الدَّرّاجَةَ أَهَمُّ وَسيلَةِ نَقْلٍ فيها.",
+              "tr": "awaddu an ušīra ilā anna d-darrājata ahammu wasīlati naqlin fīhā.",
+              "nl": "Ik wil erop wijzen dat de fiets er het belangrijkste vervoermiddel is."
+            },
+            {
+              "ar": "بِالنِّسْبَةِ إِلَيَّ، أَجْمَلُ شَيْءٍ فيها القَنَواتُ.",
+              "tr": "bi-n-nisbati ilayya, ajmalu šayʾin fīha l-qanawāt.",
+              "nl": "Voor mij zijn de grachten het mooiste."
+            },
+            {
+              "ar": "كَيْفَ أَقولُ… لا أَتَذَكَّرُ الكَلِمَةَ… يَعْني المَكانُ الَّذي نَرى فيهِ اللَّوْحاتِ: المُتْحَفُ!",
+              "tr": "kayfa aqūl… lā atadakkaru l-kalima… yaʿni l-makānu llaḏī narā fīhi l-lawḥāt: al-matḥaf!",
+              "nl": "Hoe zeg je… ik kan even niet op het woord komen… de plek waar je schilderijen ziet: het museum!"
+            },
+            {
+              "ar": "خُلاصَةُ القَوْلِ، إِنَّها مَدينَةٌ تَسْتَحِقُّ الزِّيارَةَ.",
+              "tr": "ḫulāṣatu l-qawl, innahā madīnatun tastaḥiqqu z-ziyāra.",
+              "nl": "Kortom, het is een stad die een bezoek waard is."
+            }
+          ],
+          "checklist": [
+            "Een duidelijke opening.",
+            "Minstens twee punten met {ar|أَوَّلًا}، {ar|ثانِيًا}.",
+            "Je mening ({ar|بِالنِّسْبَةِ إِلَيَّ}).",
+            "Bij woordnood omschreef je het woord.",
+            "Een conclusie ({ar|خُلاصَةُ القَوْلِ}).",
+            "Je sprak ongeveer twee minuten zonder lange stiltes."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk wat je zei met het modelantwoord. Spreek het model daarna een keer hardop na, en probeer het dan opnieuw zonder te kijken.",
+          "woorden": [
+            "سَأَتَحَدَّثُ عَنْ",
+            "أَوَّلًا",
+            "أَوَدُّ أَنْ أُشيرَ إِلى",
+            "بِالنِّسْبَةِ إِلَيَّ",
+            "خُلاصَةُ القَوْلِ"
+          ]
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "spreken",
+        "paren": [
+          {
+            "ar": "عَرْضٌ شَفَوِيٌّ",
+            "nl": "monoloog"
+          },
+          {
+            "ar": "تَواصُلٌ بَصَرِيٌّ",
+            "nl": "oogcontact"
+          },
+          {
+            "ar": "تَنَفَّسَ",
+            "nl": "ademen"
+          },
+          {
+            "ar": "بِطاقَةُ المَوْضوعِ",
+            "nl": "onderwerpkaartje"
+          },
+          {
+            "ar": "مُدَّةُ دَقيقَتَيْنِ",
+            "nl": "twee minuten lang"
+          }
+        ],
+        "uitleg": "Spreekexamen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "Wat beoordeelt de examinator **niet**?",
+        "opties": [
+          "je handschrift",
+          "vloeiendheid",
+          "interactie"
+        ],
+        "juist": 0,
+        "uitleg": "Spreken."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "In welk onderdeel speel je een situatie na?",
+        "opties": [
+          "لَعِبُ الأَدْوارِ",
+          "تَقْديمُ النَّفْسِ",
+          "عَرْضٌ شَفَوِيٌّ"
+        ],
+        "juist": 0,
+        "uitleg": "Rollenspel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "Je weet een woord niet. Je zegt ...",
+        "opties": [
+          "لا أَتَذَكَّرُ الكَلِمَةَ… يَعْني …",
+          "مَعَ السَّلامَةِ",
+          "أَنا مَريضٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Omschrijven."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "{ar|اِسْتَعَدَّ لِلِامْتِحانِ} betekent ...",
+        "opties": [
+          "hij bereidde zich voor op het examen",
+          "hij zakte voor het examen",
+          "hij gaf het examen af"
+        ],
+        "juist": 0,
+        "uitleg": "Vorm X."
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "سَأَتَحَدَّثُ عَنْ هِوايَتي المُفَضَّلَةِ",
+        "vraag": "Waarover gaat de monoloog?",
+        "opties": [
+          "over de favoriete hobby",
+          "over de stad",
+          "over het werk"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|هِوايَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "حَظًّا سَعيدًا في الاِمْتِحانِ!",
+        "vraag": "Wat wenst de spreker?",
+        "opties": [
+          "veel succes met het examen",
+          "gefeliciteerd met het examen",
+          "beterschap"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|حَظًّا سَعيدًا}"
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "تَنَفَّسْ ___ قَبْلَ أَنْ تَبْدَأَ.",
+        "nl": "Adem rustig voordat je begint.",
+        "antwoord": [
+          "بِهُدوءٍ"
+        ],
+        "uitleg": "{ar|بِهُدوءٍ}",
+        "woordbank": [
+          "بِهُدوءٍ",
+          "بِسُرْعَةٍ",
+          "بِصَوْتٍ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "اِسْتَعْدَدْتُ ___ الاِمْتِحانِ جَيِّدًا.",
+        "nl": "Ik heb me goed voorbereid op het examen.",
+        "antwoord": [
+          "لِـ"
+        ],
+        "uitleg": "{ar|اِسْتَعَدَّ لِـ}",
+        "woordbank": [
+          "لِـ",
+          "عَنْ",
+          "مِنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "أَهَمُّ مِعْيارٍ هُوَ ___.",
+        "nl": "Het belangrijkste criterium is vloeiendheid.",
+        "antwoord": [
+          "الطَّلاقَةُ"
+        ],
+        "uitleg": "{ar|طَلاقَةٌ}",
+        "woordbank": [
+          "الطَّلاقَةُ",
+          "الاِرْتِباكُ",
+          "البِطاقَةُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "spreken",
+        "instructie": "Vul de formule aan.",
+        "rijen": [
+          {
+            "label": "___ إِلَيَّ (wat mij betreft)",
+            "antwoord": "بِالنِّسْبَة",
+            "tr": "bi-n-nisba"
+          },
+          {
+            "label": "أَوَدُّ أَنْ ___ إِلى (wijzen op)",
+            "antwoord": "أُشير",
+            "tr": "ušīra"
+          }
+        ],
+        "uitleg": "Formules."
+      },
+      {
+        "type": "ordenen",
+        "tag": "spreken",
+        "nl": "Ik ga het hebben over mijn stad.",
+        "woorden": [
+          "سَأَتَحَدَّثُ",
+          "عَنْ",
+          "مَدينَتي."
+        ],
+        "uitleg": "Monoloog."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "spreken",
+        "bron": "het rollenspel",
+        "antwoorden": [
+          "لَعِبُ الأَدْوارِ",
+          "لعب الأدوار"
+        ],
+        "uitleg": "{ar|لَعِبُ الأَدْوارِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "spreken",
+        "bron": "بِالنِّسْبَةِ إِلَيَّ، أَجْمَلُ شَيْءٍ فيها القَنَواتُ.",
+        "antwoorden": [
+          "voor mij zijn de grachten het mooiste",
+          "wat mij betreft zijn de grachten het mooiste eraan"
+        ],
+        "uitleg": "{ar|بِالنِّسْبَةِ إِلَيَّ}"
+      }
+    ]
+  }
+}

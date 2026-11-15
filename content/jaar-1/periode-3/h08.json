@@ -1,0 +1,108 @@
+{
+  "id": "j1-p3-h08",
+  "code": "H08",
+  "type": "herhaling",
+  "titel": "Herhaling 3B + 3A",
+  "thema": "Lichaam, kleding, gezondheid en mensen: enkelvoud, dualis en meervoud",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "enkelvoud, dualis en meervoud van zelfstandige naamwoorden correct gebruiken.",
+    "de juiste congruentie kiezen bij meervouden van mensen en van dingen.",
+    "het verschil tussen ـونَ/ـينَ en ـاتٌ/ـاتٍ toepassen.",
+    "de stof van 3A (māḍī, verbale zin, كانَ) combineren met 3B."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 29 tot en met 32, en let bij elk zelfstandig naamwoord op het meervoud.",
+
+  "grammatica": [
+    {
+      "titel": "Eén, twee, veel",
+      "blokken": [
+        { "type": "tabel", "kop": ["Enkelvoud", "Dualis", "Meervoud", "Soort meervoud"], "arKolommen": [0, 1, 2], "rijen": [
+          ["طالِبٌ", "طالِبانِ", "طُلّابٌ", "gebroken"],
+          ["طالِبَةٌ", "طالِبَتانِ", "طالِباتٌ", "klank (v)"],
+          ["مُعَلِّمٌ", "مُعَلِّمانِ", "مُعَلِّمونَ", "klank (m)"],
+          ["كِتابٌ", "كِتابانِ", "كُتُبٌ", "gebroken"],
+          ["يَدٌ", "يَدانِ", "أَيْدٍ", "gebroken (bijzondere vorm)"]
+        ] },
+        { "type": "waarom", "md": "Bij mensen in het meervoud congrueert alles in het meervoud ({ar|الطُّلّابُ مُجْتَهِدونَ}). Bij dingen in het meervoud congrueert alles als vrouwelijk enkelvoud ({ar|الكُتُبُ جَديدَةٌ}). Een dualis congrueert altijd in de dualis ({ar|كِتابانِ جَديدانِ}). In les 68 komt dit nog eens volledig terug." },
+        { "type": "letop", "md": "{ar|أَيْدٍ} (handen) is een bijzondere vorm; je hoeft hem nu alleen te herkennen." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "رَأْسٌ", "nl": "hoofd", "woord": "j1-p3-l29-w02" },
+          { "ar": "فُسْتانٌ", "nl": "jurk", "woord": "j1-p3-l30-w04" },
+          { "ar": "دَواءٌ", "nl": "medicijn", "woord": "j1-p3-l31-w05" },
+          { "ar": "خَبّازٌ", "nl": "bakker", "woord": "j1-p3-l32-w04" },
+          { "ar": "مَقاسٌ", "nl": "maat", "woord": "j1-p3-l30-w18" },
+          { "ar": "ظَهْرٌ", "nl": "rug", "woord": "j1-p3-l29-w17" }
+        ], "uitleg": "Woorden uit les 29 tot en met 32." },
+        { "type": "vervoegen", "tag": "dualis-naamwoord", "instructie": "Maak de dualis (onderwerpsvorm).",
+          "rijen": [
+            { "label": "طالِبٌ", "antwoord": "طالِبانِ", "tr": "ṭālibāni" },
+            { "label": "مُمَرِّضَةٌ", "antwoord": "مُمَرِّضَتانِ", "tr": "mumarriḍatāni" },
+            { "label": "قَميصٌ", "antwoord": "قَميصانِ", "tr": "qamīṣāni" }
+          ], "uitleg": "+ ـانِ; ة → ت." },
+        { "type": "invullen", "tag": "meervoud-dingen", "zin": "المَلابِسُ ___.", "nl": "De kleren zijn nieuw.", "woordbank": ["جَديدَةٌ", "جَديدونَ", "جُدُدٌ"], "antwoord": ["جَديدَةٌ"], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+        { "type": "invullen", "tag": "klankmeervoud", "zin": "الطَّبيباتُ ___.", "nl": "De artsen (v) zijn bezig.", "woordbank": ["مَشْغولاتٌ", "مَشْغولَةٌ", "مَشْغولونَ"], "antwoord": ["مَشْغولاتٌ"], "uitleg": "Mensen (v): ـاتٌ." },
+        { "type": "luisteren", "tag": "meervoud-dingen", "tekst": "هٰذِهِ الأَحْذِيَةُ ضَيِّقَةٌ", "vraag": "Wat hoor je?", "opties": ["Deze schoenen zijn te krap.", "Deze schoen is te wijd.", "Deze kleren zijn te krap."], "juist": 0,
+          "uitleg": "{ar|الأَحْذِيَةُ} = de schoenen (meervoud van {ar|حِذاءٌ})." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "pijn", "nl": "Gisteren deed mijn hoofd pijn en ik ging naar de dokter.", "woorden": ["أَمْسِ", "كانَ", "رَأْسي", "يُؤْلِمُني", "وَذَهَبْتُ", "إِلى", "الطَّبيبِ."],
+          "uitleg": "{ar|كانَ} + muḍāriʿ beschrijft iets wat in het verleden voortduurde (les 78).",
+          "review": { "status": "onzeker", "note": "كانَ ... يُؤْلِمُني (verleden duur) komt pas in les 78; controleren of dit hier gepast is." } },
+        { "type": "ordenen", "tag": "verbale-zin", "nl": "De verpleegsters werkten in het ziekenhuis.", "woorden": ["عَمِلَتِ", "المُمَرِّضاتُ", "في", "المُسْتَشْفى."], "uitleg": "Verbale zin: vrouwelijk enkelvoud vooraan." },
+        { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Welke zin is juist?", "opties": ["الرِّجالُ طَيِّبونَ.", "الرِّجالُ طَيِّبَةٌ.", "الرِّجالُ طَيِّبٌ."], "juist": 0, "uitleg": "Mensen → meervoud. ({ar|طَيِّبٌ} = goed, aardig.)" }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "dualis-naamwoord", "bron": "twee handen", "antwoorden": ["يَدانِ"], "uitleg": "{ar|يَدانِ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-dingen", "bron": "De boeken zijn duur.", "antwoorden": ["الكُتُبُ غالِيَةٌ"], "uitleg": "{ar|الكُتُبُ غالِيَةٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "klankmeervoud", "bron": "المُهَنْدِسونَ في المَصْنَعِ.", "antwoorden": ["de ingenieurs zijn in de fabriek"], "uitleg": "Klankmeervoud." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "pijn", "bron": "رِجْلي تُؤْلِمُني.", "antwoorden": ["mijn been doet pijn", "mijn voet doet pijn"], "uitleg": "{ar|رِجْلٌ} is vrouwelijk." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "dualis-naamwoord", "vraag": "'Twee ogen' (onderwerp) is ...", "opties": ["عَيْنانِ", "عَيْنَيْنِ", "عُيونٌ"], "juist": 0, "uitleg": "ـانِ" },
+      { "type": "meerkeuze", "tag": "meervoud-dingen", "vraag": "'Deze auto's' is ...", "opties": ["هٰذِهِ السَّيّاراتُ", "هٰؤُلاءِ السَّيّاراتُ", "هٰذا السَّيّاراتُ"], "juist": 0, "uitleg": "Dingen → {ar|هٰذِهِ}." },
+      { "type": "meerkeuze", "tag": "klankmeervoud", "vraag": "'Ik ken de leraren' is ...", "opties": ["أَعْرِفُ المُعَلِّمينَ.", "أَعْرِفُ المُعَلِّمونَ.", "أَعْرِفُ المُعَلِّمَ."], "juist": 0, "uitleg": "Lijdend voorwerp: ـينَ." },
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Wat betekent {ar|هٰذا المِعْطَفُ غالٍ}?", "opties": ["Deze jas is duur.", "Dit is een dure jas.", "Dit is de jas."], "juist": 0, "uitleg": "Woordgroep + gezegde." },
+      { "type": "luisteren", "tag": "pijn", "tekst": "أُذُني تُؤْلِمُني", "vraag": "Wat doet pijn?", "opties": ["het oor", "het oog", "de neus"], "juist": 0, "uitleg": "{ar|أُذُنٌ} = oor (v)." },
+      { "type": "luisteren", "tag": "meervoud-paar", "tekst": "النِّساءُ في السّوقِ", "vraag": "Wat hoor je?", "opties": ["De vrouwen zijn op de markt.", "De mannen zijn op de markt.", "De vrouw is op de markt."], "juist": 0, "uitleg": "{ar|النِّساءُ} = de vrouwen." },
+      { "type": "invullen", "tag": "dualis-naamwoord", "zin": "عِنْدي ___.", "nl": "Ik heb twee zussen.", "woordbank": ["أُخْتانِ", "أُخْتَيْنِ", "أَخَواتٌ"], "antwoord": ["أُخْتانِ"], "uitleg": "Onderwerp na {ar|عِنْدي}: ـانِ." },
+      { "type": "invullen", "tag": "meervoud-dingen", "zin": "الحُبوبُ ___.", "nl": "De pillen zijn klein.", "antwoord": ["صَغيرَةٌ"], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+      { "type": "vervoegen", "tag": "klankmeervoud", "instructie": "Maak het meervoud (onderwerpsvorm, zonder tanwīn).",
+        "rijen": [
+          { "label": "مُوَظَّفٌ", "antwoord": "مُوَظَّفونَ", "tr": "muwaẓẓafūn" },
+          { "label": "طالِبَةٌ", "antwoord": "طالِبات", "tr": "ṭālibāt" }
+        ], "uitleg": "ـونَ / ـات" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "صَيْدَلِيَّةٌ", "nl": "apotheek" },
+        { "ar": "رُكْبَةٌ", "nl": "knie" },
+        { "ar": "حِزامٌ", "nl": "riem" },
+        { "ar": "شُرْطِيٌّ", "nl": "politieagent" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "meervoud-dingen", "nl": "Deze medicijnen zijn duur.", "woorden": ["هٰذِهِ", "الأَدْوِيَةُ", "غالِيَةٌ."], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "meervoud-paar", "bron": "de mannen", "antwoorden": ["الرِّجالُ"], "uitleg": "{ar|الرِّجالُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "Zij ging naar de apotheek.", "antwoorden": ["ذَهَبَتْ إِلى الصَّيْدَلِيَّةِ", "هِيَ ذَهَبَتْ إِلى الصَّيْدَلِيَّةِ"], "uitleg": "{ar|ذَهَبَتْ إِلى الصَّيْدَلِيَّةِ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "meervoud-dingen", "bron": "البُيوتُ في القَرْيَةِ صَغيرَةٌ.", "antwoorden": ["de huizen in het dorp zijn klein"], "uitleg": "Dingen → vrouwelijk enkelvoud." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "kana-accusatief", "bron": "كانَ الطَّبيبُ لَطيفًا.", "antwoorden": ["de dokter was aardig", "de arts was aardig", "de dokter was vriendelijk"], "uitleg": "{ar|كانَ} + accusatief." }
+    ]
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "id": "j2-p8-l90",
+  "code": "L90",
+  "type": "les",
+  "titel": "Geld en boodschappen",
+  "thema": "Bank, budget en belastingen; kwantoren en procenten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "kwantoren gebruiken: كُلّ، بَعْض، جَميع، مُعْظَم، كِلا / كِلْتا.",
+    "percentages noemen.",
+    "over geld, bankzaken en uitgaven praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l90-w02",
+      "ar": "كِلا",
+      "tr": "kilā",
+      "nl": [
+        "beide (m)"
+      ],
+      "soort": "kwantor",
+      "notitie": "{ar|كِلا الوَلَدَيْنِ}; vrouwelijk {ar|كِلْتا}."
+    },
+    {
+      "id": "j2-p8-l90-w03",
+      "ar": "مُعْظَمُ",
+      "tr": "muʿẓamu",
+      "nl": [
+        "het grootste deel van"
+      ],
+      "soort": "kwantor"
+    },
+    {
+      "id": "j2-p8-l90-w04",
+      "ar": "حِسابٌ بَنْكِيٌّ",
+      "tr": "ḥisābun bankiyy",
+      "nl": [
+        "bankrekening"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l90-w05",
+      "ar": "سَحَبَ",
+      "tr": "saḥaba",
+      "nl": [
+        "opnemen (geld)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَسْحَبُ}"
+    },
+    {
+      "id": "j2-p8-l90-w06",
+      "ar": "أَوْدَعَ",
+      "tr": "awdaʿa",
+      "nl": [
+        "storten"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j2-p8-l90-w07",
+      "ar": "صَرّافٌ آلِيٌّ",
+      "tr": "ṣarrāfun āliyy",
+      "nl": [
+        "geldautomaat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l90-w08",
+      "ar": "عُمْلَةٌ",
+      "tr": "ʿumla",
+      "nl": [
+        "valuta, munt"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l90-w09",
+      "ar": "سِعْرُ الصَّرْفِ",
+      "tr": "siʿru ṣ-ṣarf",
+      "nl": [
+        "wisselkoers"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l90-w10",
+      "ar": "دَيْنٌ",
+      "tr": "dayn",
+      "nl": [
+        "schuld"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|دُيونٌ}."
+    },
+    {
+      "id": "j2-p8-l90-w11",
+      "ar": "قَرْضٌ",
+      "tr": "qarḍ",
+      "nl": [
+        "lening"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l90-w12",
+      "ar": "ميزانِيَّةٌ",
+      "tr": "mīzāniyya",
+      "nl": [
+        "budget"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l90-w13",
+      "ar": "مَصاريفُ",
+      "tr": "maṣārīf",
+      "nl": [
+        "uitgaven"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p8-l90-w14",
+      "ar": "رِبْحٌ",
+      "tr": "ribḥ",
+      "nl": [
+        "winst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l90-w15",
+      "ar": "خَسارَةٌ",
+      "tr": "ḫasāra",
+      "nl": [
+        "verlies"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l90-w16",
+      "ar": "ضَريبَةٌ",
+      "tr": "ḍarība",
+      "nl": [
+        "belasting"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|ضَرائِبُ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Kwantoren: كُلّ، بَعْض، جَميع، مُعْظَم، كِلا",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Constructie",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "كُلُّ",
+              "+ onbepaald ev / bepaald mv",
+              "كُلُّ شَخْصٍ / كُلُّ النّاسِ",
+              "ieder / alle"
+            ],
+            [
+              "بَعْضُ",
+              "+ bepaald mv",
+              "بَعْضُ الطُّلّابِ",
+              "sommige"
+            ],
+            [
+              "جَميعُ",
+              "+ bepaald mv",
+              "جَميعُ الطُّلّابِ",
+              "alle (allemaal)"
+            ],
+            [
+              "مُعْظَمُ",
+              "+ bepaald mv / ev",
+              "مُعْظَمُ النّاسِ",
+              "de meeste"
+            ],
+            [
+              "كِلا / كِلْتا",
+              "+ bepaalde dualis (genitief)",
+              "كِلا الحِسابَيْنِ",
+              "beide"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Al deze woorden zijn het **eerste lid van een iḍāfa**: het woord erna staat in de genitief. Ze krijgen zelf de naamval van hun plaats in de zin ({ar|دَفَعْتُ كُلَّ الدُّيونِ}: lijdend voorwerp → {ar|كُلَّ})."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|كِلا} / {ar|كِلْتا} worden gevolgd door een **dualis in de genitief** ({ar|كِلا الحِسابَيْنِ}). Het werkwoord of gezegde erbij staat in het **enkelvoud**: {ar|كِلا الحِسابَيْنِ مَفْتوحٌ}."
+        }
+      ]
+    },
+    {
+      "titel": "Procenten en geld",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Procenten: {ar|عَشَرَةٌ في المِئَةِ} (10%), {ar|بِنِسْبَةِ خَمْسَةٍ في المِئَةِ} (met 5%)."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَحَبْتُ مِئَتَيْ دِرْهَمٍ مِنَ الصَّرّافِ الآلِيِّ.",
+              "tr": "saḥabtu miʾatay dirhamin mina ṣ-ṣarrāfi l-āliyy.",
+              "nl": "Ik nam tweehonderd dirham op bij de geldautomaat."
+            },
+            {
+              "ar": "يُنْفِقُ مُعْظَمُ النّاسِ ثُلُثَ دَخْلِهِمْ عَلى السَّكَنِ.",
+              "tr": "yunfiqu muʿẓamu n-nāsi ṯuluṯa daḫlihim ʿala s-sakan.",
+              "nl": "De meeste mensen geven een derde van hun inkomen uit aan wonen."
+            },
+            {
+              "ar": "دَفَعْتُ جَميعَ الفَواتيرِ.",
+              "tr": "dafaʿtu jamīʿa l-fawātīr.",
+              "nl": "Ik heb alle rekeningen betaald."
+            },
+            {
+              "ar": "كِلا البَنْكَيْنِ مُغْلَقٌ يَوْمَ الأَحَدِ.",
+              "tr": "kila l-bankayni muġlaqun yawma l-aḥad.",
+              "nl": "Beide banken zijn op zondag gesloten."
+            },
+            {
+              "ar": "اِرْتَفَعَتِ الضَّرائِبُ بِنِسْبَةِ ثَلاثَةٍ في المِئَةِ.",
+              "tr": "irtafaʿati ḍ-ḍarāʾibu bi-nisbati ṯalāṯatin fi l-miʾa.",
+              "nl": "De belastingen zijn met drie procent gestegen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "سَحَبَ",
+              "nl": "opnemen",
+              "woord": "j2-p8-l90-w05"
+            },
+            {
+              "ar": "أَوْدَعَ",
+              "nl": "storten",
+              "woord": "j2-p8-l90-w06"
+            },
+            {
+              "ar": "عُمْلَةٌ",
+              "nl": "valuta",
+              "woord": "j2-p8-l90-w08"
+            },
+            {
+              "ar": "دَيْنٌ",
+              "nl": "schuld",
+              "woord": "j2-p8-l90-w10"
+            },
+            {
+              "ar": "قَرْضٌ",
+              "nl": "lening",
+              "woord": "j2-p8-l90-w11"
+            },
+            {
+              "ar": "ضَريبَةٌ",
+              "nl": "belasting",
+              "woord": "j2-p8-l90-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "kwantoren",
+          "tekst": "كِلا البَنْكَيْنِ مُغْلَقٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Beide banken zijn gesloten.",
+            "Eén bank is gesloten.",
+            "Alle banken zijn open."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كِلا} + dualis."
+        }
+      ]
+    },
+    {
+      "titel": "Kwantoren",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kwantoren",
+          "zin": "دَفَعْتُ ___ الفَواتيرِ.",
+          "nl": "Ik heb alle rekeningen betaald.",
+          "antwoord": [
+            "جَميعَ"
+          ],
+          "uitleg": "Lijdend voorwerp → جَميعَ.",
+          "woordbank": [
+            "جَميعَ",
+            "بَعْضُ",
+            "كِلا"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "kwantoren",
+          "zin": "___ النّاسِ يَدْفَعونَ بِالبِطاقَةِ.",
+          "nl": "De meeste mensen betalen met de pinpas.",
+          "antwoord": [
+            "مُعْظَمُ"
+          ],
+          "uitleg": "{ar|مُعْظَمُ} = de meeste.",
+          "woordbank": [
+            "مُعْظَمُ",
+            "كُلُّ",
+            "كِلا"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kwantoren",
+          "vraag": "'Beide meisjes' is ...",
+          "opties": [
+            "كِلْتا البِنْتَيْنِ",
+            "كِلا البِنْتَيْنِ",
+            "كِلْتا البِنْتانِ"
+          ],
+          "juist": 0,
+          "uitleg": "Vrouwelijk, dualis genitief."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kwantoren",
+          "vraag": "Wat betekent {ar|كُلُّ شَخْصٍ}?",
+          "opties": [
+            "ieder persoon",
+            "alle personen",
+            "sommige personen"
+          ],
+          "juist": 0,
+          "uitleg": "Onbepaald enkelvoud → ieder."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "kwantoren",
+          "instructie": "Vertaal met de juiste kwantor.",
+          "rijen": [
+            {
+              "label": "sommige klanten",
+              "antwoord": "بَعْضُ الزَّبائِنِ",
+              "tr": "baʿḍu z-zabāʾin"
+            },
+            {
+              "label": "de meeste klanten",
+              "antwoord": "مُعْظَمُ الزَّبائِنِ",
+              "tr": "muʿẓamu z-zabāʾin"
+            }
+          ],
+          "uitleg": "Kwantor + bepaald meervoud (genitief)."
+        }
+      ]
+    },
+    {
+      "titel": "Geld",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "kwantoren",
+          "nl": "Ik heb alle rekeningen betaald.",
+          "woorden": [
+            "دَفَعْتُ",
+            "جَميعَ",
+            "الفَواتيرِ."
+          ],
+          "uitleg": "{ar|جَميعَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de wisselkoers",
+          "antwoorden": [
+            "سِعْرُ الصَّرْفِ"
+          ],
+          "uitleg": "{ar|سِعْرُ الصَّرْفِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "اِرْتَفَعَتِ الضَّرائِبُ بِنِسْبَةِ ثَلاثَةٍ في المِئَةِ.",
+          "antwoorden": [
+            "de belastingen zijn met drie procent gestegen",
+            "de belastingen stegen met drie procent",
+            "de belastingen stegen met 3 procent"
+          ],
+          "uitleg": "Procenten."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "حِسابٌ بَنْكِيٌّ",
+            "nl": "bankrekening"
+          },
+          {
+            "ar": "صَرّافٌ آلِيٌّ",
+            "nl": "geldautomaat"
+          },
+          {
+            "ar": "ميزانِيَّةٌ",
+            "nl": "budget"
+          },
+          {
+            "ar": "رِبْحٌ",
+            "nl": "winst"
+          },
+          {
+            "ar": "خَسارَةٌ",
+            "nl": "verlies"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kwantoren",
+        "vraag": "{ar|جَميعُ} wordt gevolgd door ...",
+        "opties": [
+          "een bepaald meervoud in de genitief",
+          "een onbepaald enkelvoud in de accusatief",
+          "een werkwoord"
+        ],
+        "juist": 0,
+        "uitleg": "iḍāfa."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kwantoren",
+        "vraag": "'De meeste studenten' is ...",
+        "opties": [
+          "مُعْظَمُ الطُّلّابِ",
+          "أَكْثَرُ طُلّابٍ",
+          "مُعْظَمُ طُلّابٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُعْظَمُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kwantoren",
+        "vraag": "'Beide rekeningen zijn betaald' is ...",
+        "opties": [
+          "كِلْتا الفاتورَتَيْنِ مَدْفوعَةٌ",
+          "كِلا الفاتورَتانِ مَدْفوعٌ",
+          "كِلْتا فاتورَتانِ مَدْفوعَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كِلْتا} + bepaalde dualis in de genitief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Wat doe je bij een {ar|صَرّافٌ آلِيٌّ}?",
+        "opties": [
+          "geld opnemen",
+          "eten kopen",
+          "een vlucht boeken"
+        ],
+        "juist": 0,
+        "uitleg": "Geldautomaat."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kwantoren",
+        "tekst": "بَعْضُ الزَّبائِنِ يَدْفَعونَ نَقْدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Sommige klanten betalen contant.",
+          "Alle klanten betalen contant.",
+          "Niemand betaalt contant."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَعْضُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "أَوْدَعْتُ أَلْفَ دِرْهَمٍ في حِسابي",
+        "vraag": "Wat deed de spreker?",
+        "opties": [
+          "Hij stortte duizend dirham op zijn rekening.",
+          "Hij nam duizend dirham op.",
+          "Hij leende duizend dirham."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَوْدَعَ} = storten."
+      },
+      {
+        "type": "invullen",
+        "tag": "kwantoren",
+        "zin": "يَعْرِفُ ___ الطُّلّابِ الجَوابَ.",
+        "nl": "Alle studenten kennen het antwoord.",
+        "antwoord": [
+          "جَميعُ"
+        ],
+        "uitleg": "Onderwerp → جَميعُ.",
+        "woordbank": [
+          "جَميعُ",
+          "جَميعَ",
+          "كِلا"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "kwantoren",
+        "zin": "زُرْتُ ___ المَدينَتَيْنِ.",
+        "nl": "Ik heb beide steden bezocht.",
+        "antwoord": [
+          "كِلْتا"
+        ],
+        "uitleg": "Vrouwelijk dualis.",
+        "woordbank": [
+          "كِلْتا",
+          "كِلا",
+          "كُلَّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "سَحَبْتُ المالَ مِنَ ___ الآلِيِّ.",
+        "nl": "Ik nam het geld op bij de geldautomaat.",
+        "antwoord": [
+          "الصَّرّافِ"
+        ],
+        "uitleg": "{ar|الصَّرّافُ الآلِيُّ}",
+        "woordbank": [
+          "الصَّرّافِ",
+          "القَرْضِ",
+          "الدَّيْنِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "kwantoren",
+        "instructie": "Vul de kwantor in.",
+        "rijen": [
+          {
+            "label": "ieder land: ___ بَلَدٍ",
+            "antwoord": "كُلُّ",
+            "tr": "kullu"
+          },
+          {
+            "label": "beide jongens: ___ الوَلَدَيْنِ",
+            "antwoord": "كِلا",
+            "tr": "kilā"
+          }
+        ],
+        "uitleg": "كُلّ · كِلا"
+      },
+      {
+        "type": "ordenen",
+        "tag": "kwantoren",
+        "nl": "Beide banken zijn op zondag gesloten.",
+        "woorden": [
+          "كِلا",
+          "البَنْكَيْنِ",
+          "مُغْلَقٌ",
+          "يَوْمَ",
+          "الأَحَدِ."
+        ],
+        "uitleg": "{ar|كِلا} + dualis + ev gezegde."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de lening",
+        "antwoorden": [
+          "القَرْضُ"
+        ],
+        "uitleg": "{ar|القَرْضُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kwantoren",
+        "bron": "يُنْفِقُ مُعْظَمُ النّاسِ كَثيرًا عَلى السَّكَنِ.",
+        "antwoorden": [
+          "de meeste mensen geven veel uit aan wonen",
+          "de meeste mensen besteden veel aan huisvesting",
+          "de meeste mensen geven veel uit aan huisvesting"
+        ],
+        "uitleg": "{ar|مُعْظَمُ}"
+      }
+    ]
+  }
+}

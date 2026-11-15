@@ -1,0 +1,528 @@
+{
+  "id": "j2-p6-h18",
+  "code": "H18",
+  "type": "herhaling",
+  "titel": "Herhaling periode 6",
+  "thema": "Naamvallen, meervouden en zwakke werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de vier soorten zwakke werkwoorden herkennen: hol, defectief, assimilerend, verdubbeld (en hamza).",
+    "ze vervoegen in māḍī, muḍāriʿ, majzūm en gebiedende wijs.",
+    "de naamval- en meervoudsregels van deze periode combineren."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 6 (les 61–72 en D10–D12) voordat je de periodetoets maakt.",
+  "grammatica": [
+    {
+      "titel": "Zwakke werkwoorden in één tabel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Soort",
+            "Māḍī (hij / ik)",
+            "Muḍāriʿ",
+            "Majzūm",
+            "Gebiedende wijs"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "rijen": [
+            [
+              "hol (و)",
+              "قالَ / قُلْتُ",
+              "يَقولُ",
+              "لَمْ يَقُلْ",
+              "قُلْ"
+            ],
+            [
+              "hol (ي)",
+              "باعَ / بِعْتُ",
+              "يَبيعُ",
+              "لَمْ يَبِعْ",
+              "بِعْ"
+            ],
+            [
+              "defectief (ي)",
+              "مَشى / مَشَيْتُ",
+              "يَمْشي",
+              "لَمْ يَمْشِ",
+              "اِمْشِ"
+            ],
+            [
+              "defectief (و)",
+              "دَعا / دَعَوْتُ",
+              "يَدْعو",
+              "لَمْ يَدْعُ",
+              "اُدْعُ"
+            ],
+            [
+              "defectief (ā)",
+              "نَسِيَ / نَسيتُ",
+              "يَنْسى",
+              "لَمْ يَنْسَ",
+              "اِنْسَ"
+            ],
+            [
+              "assimilerend",
+              "وَصَلَ / وَصَلْتُ",
+              "يَصِلُ",
+              "لَمْ يَصِلْ",
+              "صِلْ"
+            ],
+            [
+              "verdubbeld",
+              "مَرَّ / مَرَرْتُ",
+              "يَمُرُّ",
+              "لَمْ يَمُرَّ",
+              "مُرَّ"
+            ],
+            [
+              "hamza",
+              "أَخَذَ / أَخَذْتُ",
+              "يَأْخُذُ",
+              "لَمْ يَأْخُذْ",
+              "خُذْ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Eén principe verklaart bijna alles: **een lange klinker wordt kort zodra er een sukūn achter komt**. Daarom {ar|قُلْتُ} (niet *qāltu*), {ar|لَمْ يَقُلْ}, {ar|لَمْ يَمْشِ}. Bij verdubbelde werkwoorden gaat de shadda 'open' voor een medeklinker: {ar|مَرَرْتُ}. (In klassiek Arabisch hoor je in de majzūm ook {ar|لَمْ يَمْرُرْ}; {ar|لَمْ يَمُرَّ} is gangbaarder.)"
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "zwakke-ww",
+          "vraag": "Welk soort werkwoord is {ar|يَبيعُ}?",
+          "opties": [
+            "hol",
+            "defectief",
+            "assimilerend"
+          ],
+          "juist": 0,
+          "uitleg": "Middelste wortelletter ي (ب-ي-ع)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "zwakke-ww",
+          "vraag": "Welk soort werkwoord is {ar|يَجِدُ}?",
+          "opties": [
+            "assimilerend",
+            "hol",
+            "verdubbeld"
+          ],
+          "juist": 0,
+          "uitleg": "و-ج-د: de و valt weg."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "zwakke-ww",
+          "vraag": "Welk soort werkwoord is {ar|يَبْكي}?",
+          "opties": [
+            "defectief",
+            "hol",
+            "hamza"
+          ],
+          "juist": 0,
+          "uitleg": "Laatste wortelletter ي."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "zwakke-ww",
+          "instructie": "Geef de vorm 'ik' in de māḍī.",
+          "rijen": [
+            {
+              "label": "نامَ",
+              "antwoord": "نِمْتُ",
+              "tr": "nimtu"
+            },
+            {
+              "label": "دَعا",
+              "antwoord": "دَعَوْتُ",
+              "tr": "daʿawtu"
+            },
+            {
+              "label": "حَلَّ",
+              "antwoord": "حَلَلْتُ",
+              "tr": "ḥalaltu"
+            },
+            {
+              "label": "وَجَدَ",
+              "antwoord": "وَجَدْتُ",
+              "tr": "wajadtu"
+            }
+          ],
+          "uitleg": "Kort · و verschijnt · letters los · regelmatig."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "تاجِرٌ",
+              "nl": "handelaar",
+              "woord": "j2-p6-l69-w06"
+            },
+            {
+              "ar": "حُزْنٌ",
+              "nl": "verdriet",
+              "woord": "j2-p6-l70-w08"
+            },
+            {
+              "ar": "أَمْتِعَةٌ",
+              "nl": "bagage",
+              "woord": "j2-p6-l71-w10"
+            },
+            {
+              "ar": "صَحَفِيٌّ",
+              "nl": "journalist"
+            },
+            {
+              "ar": "علاش",
+              "nl": "waarom (Darija)",
+              "woord": "j2-p6-d12-w03"
+            },
+            {
+              "ar": "مَجَلَّةٌ",
+              "nl": "tijdschrift",
+              "woord": "j2-p6-l72-w04"
+            }
+          ],
+          "uitleg": "Woorden uit blok 6C."
+        }
+      ]
+    },
+    {
+      "titel": "Majzūm en gebiedende wijs",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "zwakke-ww",
+          "instructie": "Zet na لَمْ (hij).",
+          "rijen": [
+            {
+              "label": "يَقولُ",
+              "antwoord": "يَقُلْ",
+              "tr": "yaqul"
+            },
+            {
+              "label": "يَنْسى",
+              "antwoord": "يَنْسَ",
+              "tr": "yansa"
+            },
+            {
+              "label": "يَمْشي",
+              "antwoord": "يَمْشِ",
+              "tr": "yamši"
+            }
+          ],
+          "uitleg": "Lange klinker wordt kort."
+        },
+        {
+          "type": "invullen",
+          "tag": "zwakke-ww",
+          "zin": "___ أَمْتِعَتَكَ هُنا.",
+          "nl": "Zet je bagage hier.",
+          "woordbank": [
+            "ضَعْ",
+            "اِوْضَعْ",
+            "تَضَعُ"
+          ],
+          "antwoord": [
+            "ضَعْ"
+          ],
+          "uitleg": "Assimilerend: {ar|ضَعْ}."
+        },
+        {
+          "type": "invullen",
+          "tag": "zwakke-ww",
+          "zin": "لا ___ مَوْعِدَنا!",
+          "nl": "Vergeet onze afspraak niet!",
+          "woordbank": [
+            "تَنْسَ",
+            "تَنْسى",
+            "نَسيتَ"
+          ],
+          "antwoord": [
+            "تَنْسَ"
+          ],
+          "uitleg": "Verbod: korte a."
+        },
+        {
+          "type": "ordenen",
+          "tag": "zwakke-ww",
+          "nl": "Ik ging terug naar de winkel om het overhemd te ruilen.",
+          "woorden": [
+            "عُدْتُ",
+            "إِلى",
+            "المَحَلِّ",
+            "لِأَسْتَبْدِلَ",
+            "القَميصَ."
+          ],
+          "uitleg": "Hol werkwoord, korte stam."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "zwakke-ww",
+          "bron": "Ik zei.",
+          "antwoorden": [
+            "قُلْتُ"
+          ],
+          "uitleg": "Korte stam."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "zwakke-ww",
+          "bron": "Neem! (m)",
+          "antwoorden": [
+            "خُذْ"
+          ],
+          "uitleg": "{ar|خُذْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "zwakke-ww",
+          "bron": "مَشَيْنا إِلى الشّاطِئِ.",
+          "antwoorden": [
+            "we liepen naar het strand",
+            "we wandelden naar het strand"
+          ],
+          "uitleg": "Defectief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-vragen",
+          "bron": "فين ساكن؟",
+          "tr": "fīn sākən?",
+          "antwoorden": [
+            "waar woon je",
+            "waar woont u"
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Wij verkochten' is ...",
+        "opties": [
+          "بِعْنا",
+          "باعْنا",
+          "بَيَعْنا"
+        ],
+        "juist": 0,
+        "uitleg": "Korte stam met i."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Ik heb hem uitgenodigd' is ...",
+        "opties": [
+          "دَعَوْتُهُ",
+          "دَعَيْتُهُ",
+          "دَعْتُهُ"
+        ],
+        "juist": 0,
+        "uitleg": "و-type: و verschijnt."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Zij (ev) passeerde' is ...",
+        "opties": [
+          "مَرَّتْ",
+          "مَرَرَتْ",
+          "مَرْرَتْ"
+        ],
+        "juist": 0,
+        "uitleg": "Klinker-uitgang: shadda."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "zwakke-ww",
+        "vraag": "'Ik neem' is ...",
+        "opties": [
+          "آخُذُ",
+          "أَأْخُذُ",
+          "أُخُذُ"
+        ],
+        "juist": 0,
+        "uitleg": "آ = twee hamza's."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "gebroken-mv",
+        "vraag": "Het meervoud van {ar|سُؤالٌ} is ...",
+        "opties": [
+          "أَسْئِلَةٌ",
+          "سُؤالاتٌ",
+          "أَسْؤالٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَسْئِلَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "zwakke-ww",
+        "tekst": "لَمْ أَنَمْ جَيِّدًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb niet goed geslapen.",
+          "Ik slaap goed.",
+          "Ik ga goed slapen."
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm, korte stam."
+      },
+      {
+        "type": "luisteren",
+        "tag": "zwakke-ww",
+        "tekst": "وَصَلْنا إِلى المَطارِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We kwamen aan op het vliegveld.",
+          "We vertrokken van het vliegveld.",
+          "We gaan naar het vliegveld."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|وَصَلْنا}"
+      },
+      {
+        "type": "invullen",
+        "tag": "zwakke-ww",
+        "zin": "التّاجِرُ ___ الفَواكِهَ.",
+        "nl": "De handelaar verkoopt fruit.",
+        "woordbank": [
+          "يَبيعُ",
+          "يَبِعْ",
+          "بِعْتُ"
+        ],
+        "antwoord": [
+          "يَبيعُ"
+        ],
+        "uitleg": "Muḍāriʿ: lang."
+      },
+      {
+        "type": "invullen",
+        "tag": "zwakke-ww",
+        "zin": "إِلى أَيْنَ ___؟",
+        "nl": "Waar loop jij (v) naartoe?",
+        "woordbank": [
+          "تَمْشينَ",
+          "تَمْشي",
+          "مَشَيْتِ"
+        ],
+        "antwoord": [
+          "تَمْشينَ"
+        ],
+        "uitleg": "jij (v): ـينَ."
+      },
+      {
+        "type": "invullen",
+        "tag": "zwakke-ww",
+        "zin": "مَتى ___ الطّائِرَةُ؟",
+        "nl": "Wanneer komt het vliegtuig aan?",
+        "woordbank": [
+          "تَصِلُ",
+          "تَوْصِلُ",
+          "وَصَلَتْ"
+        ],
+        "antwoord": [
+          "تَصِلُ"
+        ],
+        "uitleg": "و valt weg."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إيصالٌ",
+            "nl": "bonnetje"
+          },
+          {
+            "ar": "شُعورٌ",
+            "nl": "gevoel"
+          },
+          {
+            "ar": "تَأْشيرَةٌ",
+            "nl": "visum"
+          },
+          {
+            "ar": "قَناةٌ",
+            "nl": "zender"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "zwakke-ww",
+        "nl": "We kwamen snel door de douane.",
+        "woorden": [
+          "مَرَرْنا",
+          "بِالجَمارِكِ",
+          "بِسُرْعَةٍ."
+        ],
+        "uitleg": "Verdubbeld."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "zwakke-ww",
+        "bron": "Hij zegt.",
+        "antwoorden": [
+          "يَقولُ"
+        ],
+        "uitleg": "Lange stam."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "zwakke-ww",
+        "bron": "لا تَخَفْ!",
+        "antwoorden": [
+          "wees niet bang",
+          "niet bang zijn"
+        ],
+        "uitleg": "Hol werkwoord, verbod."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-vragen",
+        "bron": "علاش؟",
+        "tr": "ʿlāš?",
+        "antwoorden": [
+          "waarom"
+        ],
+        "uitleg": "Darija."
+      }
+    ]
+  }
+}

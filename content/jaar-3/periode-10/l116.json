@@ -1,0 +1,644 @@
+{
+  "id": "j3-p10-l116",
+  "code": "L116",
+  "type": "les",
+  "titel": "Wetenschap",
+  "thema": "Onderzoek, uitvindingen en ruimte; deelwoorden van de afgeleide vormen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over wetenschap en onderzoek praten.",
+    "actieve en passieve deelwoorden van vorm II–X vormen en onderscheiden.",
+    "begrijpen waarom passieve deelwoorden ook plaatsen aanduiden."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l116-w01",
+      "ar": "باحِثٌ",
+      "tr": "bāḥiṯ",
+      "nl": [
+        "onderzoeker"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l116-w02",
+      "ar": "بَحْثٌ عِلْمِيٌّ",
+      "tr": "baḥṯun ʿilmiyy",
+      "nl": [
+        "wetenschappelijk onderzoek"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p10-l116-w03",
+      "ar": "مُخْتَبَرٌ",
+      "tr": "muḫtabar",
+      "nl": [
+        "laboratorium"
+      ],
+      "soort": "zelfstandig naamwoord (deelwoord VIII)"
+    },
+    {
+      "id": "j3-p10-l116-w04",
+      "ar": "اِخْتِراعٌ",
+      "tr": "iḫtirāʿ",
+      "nl": [
+        "uitvinding"
+      ],
+      "soort": "maṣdar (VIII)"
+    },
+    {
+      "id": "j3-p10-l116-w05",
+      "ar": "مُخْتَرِعٌ",
+      "tr": "muḫtariʿ",
+      "nl": [
+        "uitvinder"
+      ],
+      "soort": "zelfstandig naamwoord (deelwoord VIII)"
+    },
+    {
+      "id": "j3-p10-l116-w06",
+      "ar": "نَظَرِيَّةٌ",
+      "tr": "naẓariyya",
+      "nl": [
+        "theorie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l116-w07",
+      "ar": "مُؤْتَمَرٌ",
+      "tr": "muʾtamar",
+      "nl": [
+        "congres, conferentie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l116-w08",
+      "ar": "فَضاءٌ",
+      "tr": "faḍāʾ",
+      "nl": [
+        "ruimte (heelal)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l116-w09",
+      "ar": "كَوْكَبٌ",
+      "tr": "kawkab",
+      "nl": [
+        "planeet"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|كَواكِبُ}."
+    },
+    {
+      "id": "j3-p10-l116-w10",
+      "ar": "مِجْهَرٌ",
+      "tr": "mijhar",
+      "nl": [
+        "microscoop"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l116-w11",
+      "ar": "مُتَخَصِّصٌ في",
+      "tr": "mutaḫaṣṣiṣun fī",
+      "nl": [
+        "gespecialiseerd in"
+      ],
+      "soort": "deelwoord (V)"
+    },
+    {
+      "id": "j3-p10-l116-w12",
+      "ar": "مُسْتَخْدَمٌ",
+      "tr": "mustaḫdam",
+      "nl": [
+        "gebruikt"
+      ],
+      "soort": "deelwoord (X, passief)"
+    },
+    {
+      "id": "j3-p10-l116-w14",
+      "ar": "مُعَقَّدٌ",
+      "tr": "muʿaqqad",
+      "nl": [
+        "ingewikkeld"
+      ],
+      "soort": "deelwoord (II, passief)"
+    },
+    {
+      "id": "j3-p10-l116-w16",
+      "ar": "ظاهِرَةٌ",
+      "tr": "ẓāhira",
+      "nl": [
+        "verschijnsel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|ظَواهِرُ}."
+    },
+    {
+      "id": "j3-p10-l116-w17",
+      "ar": "خَلِيَّةٌ",
+      "tr": "ḫaliyya",
+      "nl": [
+        "cel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|خَلايا}."
+    },
+    {
+      "id": "j3-p10-l116-w18",
+      "ar": "عِلْمُ الفَلَكِ",
+      "tr": "ʿilmu l-falak",
+      "nl": [
+        "sterrenkunde"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Deelwoorden van de afgeleide vormen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Alle deelwoorden van vorm II–X beginnen met **مُـ**. Het verschil tussen actief en passief zit in de klinker vóór de laatste wortelletter: **i** = actief (wie het doet), **a** = passief (wat ondergaan wordt)."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Vorm",
+            "Actief (-i-)",
+            "Passief (-a-)"
+          ],
+          "rijen": [
+            [
+              "II",
+              "مُدَرِّسٌ|mudarris (leraar)",
+              "مُدَرَّسٌ|mudarras (onderwezen)"
+            ],
+            [
+              "III",
+              "مُشاهِدٌ|mušāhid (kijker)",
+              "مُشاهَدٌ|mušāhad (bekeken)"
+            ],
+            [
+              "IV",
+              "مُرْسِلٌ|mursil (afzender)",
+              "مُرْسَلٌ|mursal (verzonden)"
+            ],
+            [
+              "V",
+              "مُتَخَصِّصٌ|mutaḫaṣṣiṣ (specialist)",
+              "–"
+            ],
+            [
+              "VIII",
+              "مُخْتَرِعٌ|muḫtariʿ (uitvinder)",
+              "مُخْتَبَرٌ|muḫtabar (laboratorium)"
+            ],
+            [
+              "X",
+              "مُسْتَخْدِمٌ|mustaḫdim (gebruiker)",
+              "مُسْتَخْدَمٌ|mustaḫdam (gebruikt)"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Eén klinker maakt het verschil tussen *gebruiker* en *gebruikt*. Daarom zijn harakat hier belangrijk, ook in teksten die verder zonder klinkers zijn. Het passieve deelwoord dient vaak ook als **plaats**: {ar|مُخْتَبَرٌ} (waar getest wordt), {ar|مُؤْتَمَرٌ} (waar overlegd wordt), {ar|مُجْتَمَعٌ} (waar men samenkomt: samenleving)."
+        },
+        {
+          "type": "letop",
+          "md": "Vorm V, VI en VII hebben meestal geen passief deelwoord, omdat ze geen lijdend voorwerp nemen."
+        }
+      ]
+    },
+    {
+      "titel": "Wetenschap",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَعْمَلُ الباحِثونَ في المُخْتَبَرِ لَيْلًا وَنَهارًا.",
+              "tr": "yaʿmalu l-bāḥiṯūna fi l-muḫtabari laylan wa-nahāran.",
+              "nl": "De onderzoekers werken dag en nacht in het laboratorium."
+            },
+            {
+              "ar": "نَشَرَتِ الباحِثَةُ نَتائِجَ بَحْثِها في مُؤْتَمَرٍ دَوْلِيٍّ.",
+              "tr": "našarati l-bāḥiṯatu natāʾija baḥṯihā fī muʾtamarin dawliyy.",
+              "nl": "De onderzoekster publiceerde de resultaten van haar onderzoek op een internationaal congres."
+            },
+            {
+              "ar": "هٰذا الجِهازُ مُسْتَخْدَمٌ في المُسْتَشْفَياتِ.",
+              "tr": "hāḏa l-jihāzu mustaḫdamun fi l-mustašfayāt.",
+              "nl": "Dit apparaat wordt in ziekenhuizen gebruikt."
+            },
+            {
+              "ar": "يَشْتَكي المُسْتَخْدِمونَ مِنْ أَنَّ البَرْنامَجَ مُعَقَّدٌ.",
+              "tr": "yaštakī l-mustaḫdimūna min anna l-barnāmaja muʿaqqad.",
+              "nl": "De gebruikers klagen dat het programma ingewikkeld is."
+            },
+            {
+              "ar": "هَلْ هُناكَ حَياةٌ عَلى كَواكِبَ أُخْرى؟",
+              "tr": "hal hunāka ḥayātun ʿalā kawākiba uḫrā?",
+              "nl": "Is er leven op andere planeten?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "باحِثٌ",
+              "nl": "onderzoeker",
+              "woord": "j3-p10-l116-w01"
+            },
+            {
+              "ar": "مُخْتَبَرٌ",
+              "nl": "laboratorium",
+              "woord": "j3-p10-l116-w03"
+            },
+            {
+              "ar": "اِخْتِراعٌ",
+              "nl": "uitvinding",
+              "woord": "j3-p10-l116-w04"
+            },
+            {
+              "ar": "نَظَرِيَّةٌ",
+              "nl": "theorie",
+              "woord": "j3-p10-l116-w06"
+            },
+            {
+              "ar": "كَوْكَبٌ",
+              "nl": "planeet",
+              "woord": "j3-p10-l116-w09"
+            },
+            {
+              "ar": "مِجْهَرٌ",
+              "nl": "microscoop",
+              "woord": "j3-p10-l116-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "deelwoord-afgeleid",
+          "tekst": "المُسْتَخْدِمونَ راضونَ",
+          "vraag": "Wie zijn tevreden?",
+          "opties": [
+            "de gebruikers",
+            "de uitvinders",
+            "de onderzoekers"
+          ],
+          "juist": 0,
+          "uitleg": "Actief deelwoord X."
+        }
+      ]
+    },
+    {
+      "titel": "Actief of passief",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "deelwoord-afgeleid",
+          "vraag": "{ar|مُرْسَلٌ} betekent ...",
+          "opties": [
+            "verzonden",
+            "afzender",
+            "verzending"
+          ],
+          "juist": 0,
+          "uitleg": "Passief: -a-."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "deelwoord-afgeleid",
+          "vraag": "Wat is het verschil tussen {ar|مُسْتَخْدِمٌ} en {ar|مُسْتَخْدَمٌ}?",
+          "opties": [
+            "gebruiker tegenover gebruikt",
+            "er is geen verschil",
+            "enkelvoud tegenover meervoud"
+          ],
+          "juist": 0,
+          "uitleg": "i = actief, a = passief."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "deelwoord-afgeleid",
+          "instructie": "Vorm het deelwoord.",
+          "rijen": [
+            {
+              "label": "اِخْتَرَعَ (actief)",
+              "antwoord": "مُخْتَرِع",
+              "tr": "muḫtariʿ"
+            },
+            {
+              "label": "عَقَّدَ (passief)",
+              "antwoord": "مُعَقَّد",
+              "tr": "muʿaqqad"
+            },
+            {
+              "label": "شاهَدَ (actief)",
+              "antwoord": "مُشاهِد",
+              "tr": "mušāhid"
+            }
+          ],
+          "uitleg": "{ar|مُـ} + klinker."
+        },
+        {
+          "type": "invullen",
+          "tag": "deelwoord-afgeleid",
+          "zin": "هِيَ طَبيبَةٌ ___ في أَمْراضِ القَلْبِ.",
+          "nl": "Zij is een arts gespecialiseerd in hartziekten.",
+          "antwoord": [
+            "مُتَخَصِّصَةٌ"
+          ],
+          "uitleg": "Congruentie: vrouwelijk.",
+          "woordbank": [
+            "مُتَخَصِّصَةٌ",
+            "مُتَخَصِّصٌ",
+            "تَخَصُّصٌ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "deelwoord-afgeleid",
+          "vraag": "Waarom betekent {ar|مُؤْتَمَرٌ} 'congres'?",
+          "opties": [
+            "passief deelwoord als plaats waar overlegd wordt",
+            "het is een leenwoord",
+            "het is een maṣdar"
+          ],
+          "juist": 0,
+          "uitleg": "Plaats."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "deelwoord-afgeleid",
+          "nl": "Dit apparaat wordt in ziekenhuizen gebruikt.",
+          "woorden": [
+            "هٰذا",
+            "الجِهازُ",
+            "مُسْتَخْدَمٌ",
+            "في",
+            "المُسْتَشْفَياتِ."
+          ],
+          "uitleg": "Passief deelwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het wetenschappelijk onderzoek",
+          "antwoorden": [
+            "البَحْثُ العِلْمِيُّ",
+            "البحث العلمي"
+          ],
+          "uitleg": "{ar|البَحْثُ العِلْمِيُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "deelwoord-afgeleid",
+          "bron": "يَعْمَلُ الباحِثونَ في المُخْتَبَرِ.",
+          "antwoorden": [
+            "de onderzoekers werken in het laboratorium",
+            "de onderzoekers werken in het lab"
+          ],
+          "uitleg": "{ar|مُخْتَبَرٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُؤْتَمَرٌ",
+            "nl": "congres"
+          },
+          {
+            "ar": "فَضاءٌ",
+            "nl": "ruimte"
+          },
+          {
+            "ar": "ظاهِرَةٌ",
+            "nl": "verschijnsel"
+          },
+          {
+            "ar": "نَشَرَ",
+            "nl": "publiceren"
+          },
+          {
+            "ar": "مُخْتَرِعٌ",
+            "nl": "uitvinder"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "Deelwoorden van vorm II–X beginnen met ...",
+        "opties": [
+          "مُـ",
+          "مَـ",
+          "تَـ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُـ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "Welke klinker vóór de laatste letter geeft het **actieve** deelwoord?",
+        "opties": [
+          "i (kasra)",
+          "a (fatḥa)",
+          "u (ḍamma)"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُدَرِّسٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "{ar|مُدَرَّسٌ} betekent ...",
+        "opties": [
+          "onderwezen",
+          "leraar",
+          "school"
+        ],
+        "juist": 0,
+        "uitleg": "Passief II."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "deelwoord-afgeleid",
+        "vraag": "Welk woord is een actief deelwoord van vorm IV?",
+        "opties": [
+          "مُرْسِلٌ",
+          "مُرْسَلٌ",
+          "إِرْسالٌ"
+        ],
+        "juist": 0,
+        "uitleg": "-i-."
+      },
+      {
+        "type": "luisteren",
+        "tag": "deelwoord-afgeleid",
+        "tekst": "البَرْنامَجُ مُعَقَّدٌ جِدًّا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het programma is erg ingewikkeld.",
+          "Het programma is heel eenvoudig.",
+          "Het programma is nieuw."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُعَقَّدٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "نَشَرَتِ الباحِثَةُ نَتائِجَ بَحْثِها",
+        "vraag": "Wat deed de onderzoekster?",
+        "opties": [
+          "Ze publiceerde haar resultaten.",
+          "Ze begon een onderzoek.",
+          "Ze verloor haar resultaten."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَشَرَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "deelwoord-afgeleid",
+        "zin": "هٰذا الدَّواءُ ___ مُنْذُ سَنَواتٍ.",
+        "nl": "Dit medicijn wordt al jaren gebruikt.",
+        "antwoord": [
+          "مُسْتَخْدَمٌ"
+        ],
+        "uitleg": "Passief.",
+        "woordbank": [
+          "مُسْتَخْدَمٌ",
+          "مُسْتَخْدِمٌ",
+          "اِسْتِخْدامٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "deelwoord-afgeleid",
+        "zin": "شارَكَ ___ مِنْ عِشْرينَ دَوْلَةً في المُؤْتَمَرِ.",
+        "nl": "Deelnemers uit twintig landen namen deel aan het congres.",
+        "antwoord": [
+          "مُشارِكونَ"
+        ],
+        "uitleg": "Actief III.",
+        "woordbank": [
+          "مُشارِكونَ",
+          "مُشارَكونَ",
+          "مُشارَكَةٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "رَأَيْنا الخَلايا تَحْتَ ___.",
+        "nl": "We zagen de cellen onder de microscoop.",
+        "antwoord": [
+          "المِجْهَرِ"
+        ],
+        "uitleg": "{ar|مِجْهَرٌ}",
+        "woordbank": [
+          "المِجْهَرِ",
+          "المُخْتَبَرِ",
+          "الكَوْكَبِ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "deelwoord-afgeleid",
+        "instructie": "Actief of passief deelwoord van اِسْتَقْبَلَ (ontvangen).",
+        "rijen": [
+          {
+            "label": "ontvanger (actief)",
+            "antwoord": "مُسْتَقْبِل",
+            "tr": "mustaqbil"
+          },
+          {
+            "label": "toekomst / ontvangen (passief)",
+            "antwoord": "مُسْتَقْبَل",
+            "tr": "mustaqbal"
+          }
+        ],
+        "uitleg": "Let op de klinker.",
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "deelwoord-afgeleid",
+        "nl": "De gebruikers klagen dat het programma ingewikkeld is.",
+        "woorden": [
+          "يَشْتَكي",
+          "المُسْتَخْدِمونَ",
+          "مِنْ",
+          "أَنَّ",
+          "البَرْنامَجَ",
+          "مُعَقَّدٌ."
+        ],
+        "uitleg": "Deelwoorden."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het laboratorium",
+        "antwoorden": [
+          "المُخْتَبَرُ",
+          "المختبر"
+        ],
+        "uitleg": "{ar|المُخْتَبَرُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "هَلْ هُناكَ حَياةٌ عَلى كَواكِبَ أُخْرى؟",
+        "antwoorden": [
+          "is er leven op andere planeten",
+          "bestaat er leven op andere planeten"
+        ],
+        "uitleg": "{ar|كَواكِبُ} is een diptoot."
+      }
+    ]
+  }
+}

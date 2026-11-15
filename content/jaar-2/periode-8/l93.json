@@ -1,0 +1,603 @@
+{
+  "id": "j2-p8-l93",
+  "code": "L93",
+  "type": "les",
+  "titel": "Lezen: aangepaste krantenartikelen",
+  "thema": "Een nieuwsbericht lezen en analyseren",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een aangepast krantenbericht lezen en begrijpen.",
+    "naamvallen in context gebruiken om de zin te ontleden.",
+    "typische krantenwoorden herkennen (حَسَبَ، أَضافَ، خِلالَ)."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l93-w01",
+      "ar": "مَعْرِضٌ",
+      "tr": "maʿriḍ",
+      "nl": [
+        "tentoonstelling, beurs"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَعارِضُ}."
+    },
+    {
+      "id": "j2-p8-l93-w02",
+      "ar": "دارُ نَشْرٍ",
+      "tr": "dāru našr",
+      "nl": [
+        "uitgeverij"
+      ],
+      "soort": "iḍāfa",
+      "notitie": "Meervoud: {ar|دورُ نَشْرٍ}."
+    },
+    {
+      "id": "j2-p8-l93-w03",
+      "ar": "اِسْتَمَرَّ",
+      "tr": "istamarra",
+      "nl": [
+        "doorgaan, duren"
+      ],
+      "soort": "werkwoord (X, verdubbeld)"
+    },
+    {
+      "id": "j2-p8-l93-w04",
+      "ar": "أَساسٌ",
+      "tr": "asās",
+      "nl": [
+        "basis, fundament"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l93-w05",
+      "ar": "تَقَدُّمٌ",
+      "tr": "taqaddum",
+      "nl": [
+        "vooruitgang"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l93-w06",
+      "ar": "وَفْدٌ",
+      "tr": "wafd",
+      "nl": [
+        "delegatie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l93-w07",
+      "ar": "زائِرٌ",
+      "tr": "zāʾir",
+      "nl": [
+        "bezoeker"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|زُوّارٌ}."
+    },
+    {
+      "id": "j2-p8-l93-w08",
+      "ar": "أَعْلَنَتِ الحُكومَةُ",
+      "tr": "aʿlanati l-ḥukūma",
+      "nl": [
+        "de regering maakte bekend"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l93-w09",
+      "ar": "حَسَبَ",
+      "tr": "ḥasaba",
+      "nl": [
+        "volgens"
+      ],
+      "soort": "voorzetsel",
+      "notitie": "{ar|حَسَبَ المَصادِرِ} = volgens de bronnen."
+    },
+    {
+      "id": "j2-p8-l93-w10",
+      "ar": "مِنْ جِهَتِهِ",
+      "tr": "min jihatih",
+      "nl": [
+        "van zijn kant"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l93-w11",
+      "ar": "أَضافَ",
+      "tr": "aḍāfa",
+      "nl": [
+        "toevoegen"
+      ],
+      "soort": "werkwoord (IV, hol)",
+      "notitie": "{ar|وَأَضافَ أَنَّ …} = hij voegde eraan toe dat …"
+    },
+    {
+      "id": "j2-p8-l93-w13",
+      "ar": "بِمُناسَبَةِ",
+      "tr": "bi-munāsabati",
+      "nl": [
+        "ter gelegenheid van"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l93-w14",
+      "ar": "حادِثَةٌ",
+      "tr": "ḥādiṯa",
+      "nl": [
+        "incident"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l93-w15",
+      "ar": "مَسْؤولٌ",
+      "tr": "masʾūl",
+      "nl": [
+        "functionaris"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l93-w16",
+      "ar": "صَحيفَةٌ يَوْمِيَّةٌ",
+      "tr": "ṣaḥīfatun yawmiyya",
+      "nl": [
+        "dagblad"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een krantenbericht lezen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Lees eerst het hele bericht. Let dan op de **naamvalsuitgangen**: ze vertellen je wie wat doet, ook als de woordvolgorde ongewoon is."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ.",
+              "tr": "iftataḥa wazīru ṯ-ṯaqāfati amsi maʿriḍan jadīdan li-l-kitābi fī madīnati r-Ribāṭ.",
+              "nl": "De minister van Cultuur opende gisteren een nieuwe boekenbeurs in Rabat."
+            },
+            {
+              "ar": "وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً.",
+              "tr": "wa-yušāriku fi l-maʿriḍi akṯaru min ṯalāṯimiʾati dāri našrin min ʿišrīna dawla.",
+              "nl": "Meer dan driehonderd uitgeverijen uit twintig landen nemen deel aan de beurs."
+            },
+            {
+              "ar": "وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ.",
+              "tr": "wa-qāla l-wazīru inna l-qirāʾata asāsu t-taqaddum.",
+              "nl": "De minister zei dat lezen de basis van vooruitgang is."
+            },
+            {
+              "ar": "وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ.",
+              "tr": "wa-yastamirru l-maʿriḍu ʿašarata ayyām.",
+              "nl": "De beurs duurt tien dagen."
+            }
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Naamval",
+            "Waarom"
+          ],
+          "rijen": [
+            [
+              "وَزيرُ",
+              "marfūʿ",
+              "onderwerp (fāʿil)"
+            ],
+            [
+              "مَعْرِضًا",
+              "manṣūb",
+              "lijdend voorwerp"
+            ],
+            [
+              "أَمْسِ",
+              "(onveranderlijk)",
+              "tijdsbepaling, vaste vorm"
+            ],
+            [
+              "أَكْثَرُ",
+              "marfūʿ",
+              "onderwerp van يُشارِكُ (staat achteraan!)"
+            ],
+            [
+              "عَشَرَةَ",
+              "manṣūb",
+              "tijdsduur"
+            ]
+          ],
+          "arKolommen": [
+            0
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Krantenzinnen beginnen vaak met {ar|وَ} + werkwoord: dat is de typische **verbale zin** van geschreven Arabisch. Het onderwerp volgt pas later. Door de naamval te herkennen ({ar|أَكْثَرُ} met -u) vind je het onderwerp terug."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَعْرِضٌ",
+              "nl": "beurs",
+              "woord": "j2-p8-l93-w01"
+            },
+            {
+              "ar": "دارُ نَشْرٍ",
+              "nl": "uitgeverij",
+              "woord": "j2-p8-l93-w02"
+            },
+            {
+              "ar": "زائِرٌ",
+              "nl": "bezoeker",
+              "woord": "j2-p8-l93-w07"
+            },
+            {
+              "ar": "حَسَبَ",
+              "nl": "volgens",
+              "woord": "j2-p8-l93-w09"
+            },
+            {
+              "ar": "خِلالَ",
+              "nl": "tijdens"
+            },
+            {
+              "ar": "أَضافَ",
+              "nl": "toevoegen",
+              "woord": "j2-p8-l93-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Lees het bericht. Wie opende de beurs?",
+          "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+          "opties": [
+            "de minister van Cultuur",
+            "de koning",
+            "een uitgever"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِفْتَتَحَ وَزيرُ الثَّقافَةِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Begrijpen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hetzelfde bericht. Hoeveel uitgeverijen doen mee?",
+          "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+          "opties": [
+            "meer dan 300",
+            "precies 20",
+            "minder dan 100"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَكْثَرُ مِنْ ثَلاثِمِئَةِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hetzelfde bericht. Hoe lang duurt de beurs?",
+          "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+          "opties": [
+            "tien dagen",
+            "twintig dagen",
+            "drie dagen"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|عَشَرَةَ أَيّامٍ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Hetzelfde bericht. Voor wie is de toegang gratis?",
+          "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+          "opties": [
+            "voor studenten",
+            "voor iedereen",
+            "voor uitgevers"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مَجّانِيٌّ لِلطُّلّابِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Waarom eindigt {ar|مَعْرِضًا} op -an?",
+          "opties": [
+            "Het is het lijdend voorwerp.",
+            "Het is het onderwerp.",
+            "Het staat na een voorzetsel."
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend voorwerp."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "irab",
+          "vraag": "Wat is het onderwerp van {ar|يُشارِكُ} in zin 2?",
+          "opties": [
+            "أَكْثَرُ (meer dan …)",
+            "المَعْرِضِ",
+            "دَوْلَةً"
+          ],
+          "juist": 0,
+          "uitleg": "-u = onderwerp."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "leesvaardigheid",
+          "nl": "De minister zei dat lezen de basis van vooruitgang is.",
+          "woorden": [
+            "قالَ",
+            "الوَزيرُ",
+            "إِنَّ",
+            "القِراءَةَ",
+            "أَساسُ",
+            "التَّقَدُّمِ."
+          ],
+          "uitleg": "{ar|قالَ إِنَّ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "woordenschat",
+          "zin": "___ المَصادِرِ، وَصَلَ الوَفْدُ أَمْسِ.",
+          "nl": "Volgens de bronnen kwam de delegatie gisteren aan.",
+          "antwoord": [
+            "حَسَبَ"
+          ],
+          "uitleg": "{ar|حَسَبَ} = volgens.",
+          "woordbank": [
+            "حَسَبَ",
+            "خِلالَ",
+            "أَساسَ"
+          ]
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "leesvaardigheid",
+          "bron": "وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ.",
+          "antwoorden": [
+            "de beurs duurt tien dagen",
+            "de tentoonstelling duurt tien dagen"
+          ],
+          "uitleg": "{ar|اِسْتَمَرَّ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَساسٌ",
+            "nl": "basis"
+          },
+          {
+            "ar": "تَقَدُّمٌ",
+            "nl": "vooruitgang"
+          },
+          {
+            "ar": "وَفْدٌ",
+            "nl": "delegatie"
+          },
+          {
+            "ar": "حادِثَةٌ",
+            "nl": "incident"
+          },
+          {
+            "ar": "بِمُناسَبَةِ",
+            "nl": "ter gelegenheid van"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Lees het bericht. Waar vindt de beurs plaats?",
+        "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+        "opties": [
+          "in Rabat",
+          "in Casablanca",
+          "in twintig landen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|في مَدينَةِ الرِّباطِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Hetzelfde bericht. Wat vroeg de minister aan jongeren?",
+        "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+        "opties": [
+          "de beurs te bezoeken",
+          "meer boeken te schrijven",
+          "te studeren"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|دَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Hetzelfde bericht. Wat is volgens de minister de basis van vooruitgang?",
+        "ar": "اِفْتَتَحَ وَزيرُ الثَّقافَةِ أَمْسِ مَعْرِضًا جَديدًا لِلْكِتابِ في مَدينَةِ الرِّباطِ. وَيُشارِكُ في المَعْرِضِ أَكْثَرُ مِنْ ثَلاثِمِئَةِ دارِ نَشْرٍ مِنْ عِشْرينَ دَوْلَةً. وَقالَ الوَزيرُ إِنَّ القِراءَةَ أَساسُ التَّقَدُّمِ، وَدَعا الشَّبابَ إِلى زِيارَةِ المَعْرِضِ. وَيَسْتَمِرُّ المَعْرِضُ عَشَرَةَ أَيّامٍ، وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+        "opties": [
+          "lezen",
+          "economie",
+          "reizen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|القِراءَةَ أَساسُ التَّقَدُّمِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Welke naamval heeft {ar|الشَّبابَ} in {ar|دَعا الشَّبابَ}?",
+        "opties": [
+          "manṣūb",
+          "marfūʿ",
+          "majrūr"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend voorwerp."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "irab",
+        "vraag": "Waarom staat {ar|القِراءَةَ} in de accusatief?",
+        "opties": [
+          "na إِنَّ",
+          "na قالَ",
+          "het is lijdend voorwerp van قالَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِنَّ} + accusatief."
+      },
+      {
+        "type": "luisteren",
+        "tag": "leesvaardigheid",
+        "tekst": "يَسْتَمِرُّ المَعْرِضُ أُسْبوعًا",
+        "vraag": "Hoe lang duurt de beurs?",
+        "opties": [
+          "een week",
+          "een maand",
+          "een dag"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أُسْبوعًا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَسَبَ وَكالَةِ الأَنْباءِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "volgens het persbureau",
+          "tijdens het persbureau",
+          "voor het persbureau"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|حَسَبَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "زارَ المَعْرِضَ آلافُ ___.",
+        "nl": "Duizenden bezoekers bezochten de beurs.",
+        "antwoord": [
+          "الزُّوّارِ"
+        ],
+        "uitleg": "{ar|زُوّارٌ} = bezoekers.",
+        "woordbank": [
+          "الزُّوّارِ",
+          "الزّائِرِ",
+          "الزِّيارَةِ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "وَ___ الوَزيرُ أَنَّ المَعْرِضَ ناجِحٌ.",
+        "nl": "En de minister voegde eraan toe dat de beurs een succes is.",
+        "antwoord": [
+          "أَضافَ"
+        ],
+        "uitleg": "{ar|أَضافَ أَنَّ}",
+        "woordbank": [
+          "أَضافَ",
+          "اِسْتَمَرَّ",
+          "اِفْتَتَحَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "irab",
+        "zin": "اِفْتَتَحَ ___ المَعْرِضَ.",
+        "nl": "De minister opende de beurs.",
+        "antwoord": [
+          "الوَزيرُ"
+        ],
+        "uitleg": "Onderwerp → -u.",
+        "woordbank": [
+          "الوَزيرُ",
+          "الوَزيرَ",
+          "الوَزيرِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "ordenen",
+        "tag": "leesvaardigheid",
+        "nl": "De minister opende gisteren een nieuwe beurs.",
+        "woorden": [
+          "اِفْتَتَحَ",
+          "الوَزيرُ",
+          "أَمْسِ",
+          "مَعْرِضًا",
+          "جَديدًا."
+        ],
+        "uitleg": "Verbale zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de uitgeverij",
+        "antwoorden": [
+          "دارُ النَّشْرِ"
+        ],
+        "uitleg": "{ar|دارُ النَّشْرِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "leesvaardigheid",
+        "bron": "وَالدُّخولُ مَجّانِيٌّ لِلطُّلّابِ.",
+        "antwoorden": [
+          "en de toegang is gratis voor studenten",
+          "de toegang is gratis voor studenten"
+        ],
+        "uitleg": "Nominale zin."
+      }
+    ]
+  }
+}

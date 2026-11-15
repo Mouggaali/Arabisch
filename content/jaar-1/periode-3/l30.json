@@ -1,0 +1,161 @@
+{
+  "id": "j1-p3-l30",
+  "code": "L30",
+  "type": "les",
+  "titel": "Kleding en winkelen",
+  "thema": "Kleding kopen, naar maat en prijs vragen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "kledingstukken benoemen.",
+    "het verschil maken tussen هٰذا القَميصُ (dit overhemd) en هٰذا قَميصٌ (dit is een overhemd).",
+    "naar de prijs vragen met كَمْ ثَمَنُ ...؟",
+    "in een winkel om een andere maat of kleur vragen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l30-w01", "ar": "مَلابِسُ", "tr": "malābis", "nl": ["kleding", "kleren"], "soort": "zelfstandig naamwoord (mv)", "notitie": "Geen tanwīn (diptoot)." },
+    { "id": "j1-p3-l30-w02", "ar": "قَميصٌ", "tr": "qamīṣ", "nl": ["overhemd", "shirt"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w03", "ar": "بِنْطالٌ", "tr": "binṭāl", "nl": ["broek"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w04", "ar": "فُسْتانٌ", "tr": "fustān", "nl": ["jurk"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w05", "ar": "تَنّورَةٌ", "tr": "tannūra", "nl": ["rok"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w06", "ar": "مِعْطَفٌ", "tr": "miʿṭaf", "nl": ["jas"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w07", "ar": "سُتْرَةٌ", "tr": "sutra", "nl": ["jasje", "colbert"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w08", "ar": "حِذاءٌ", "tr": "ḥiḏāʾ", "nl": ["schoen", "schoenen"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w09", "ar": "جَوارِبُ", "tr": "jawārib", "nl": ["sokken"], "soort": "zelfstandig naamwoord (mv)" },
+    { "id": "j1-p3-l30-w10", "ar": "قُبَّعَةٌ", "tr": "qubbaʿa", "nl": ["hoed", "pet"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w11", "ar": "حِزامٌ", "tr": "ḥizām", "nl": ["riem"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w12", "ar": "وِشاحٌ", "tr": "wišāḥ", "nl": ["sjaal"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w13", "ar": "جَلّابِيَّةٌ", "tr": "jallābiyya", "nl": ["djellaba (lang gewaad)"], "soort": "zelfstandig naamwoord", "review": { "status": "onzeker", "note": "In Marokko vooral جلابة (jəllāba). Bevestigen welke vorm voor MSA-context." } },
+    { "id": "j1-p3-l30-w14", "ar": "دُكّانٌ", "tr": "dukkān", "nl": ["winkel (klein)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w15", "ar": "مَتْجَرٌ", "tr": "matjar", "nl": ["winkel"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w16", "ar": "بائِعٌ", "tr": "bāʾiʿ", "nl": ["verkoper"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w17", "ar": "ثَمَنٌ", "tr": "ṯaman", "nl": ["prijs"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w18", "ar": "مَقاسٌ", "tr": "maqās", "nl": ["maat"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l30-w19", "ar": "واسِعٌ", "tr": "wāsiʿ", "nl": ["wijd", "ruim"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l30-w20", "ar": "ضَيِّقٌ", "tr": "ḍayyiq", "nl": ["nauw", "krap"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l30-w21", "ar": "يَشْتَري", "tr": "yaštarī", "nl": ["kopen (hij koopt)"], "soort": "werkwoord", "notitie": "Ik koop: {ar|أَشْتَري}. Verleden tijd: {ar|اِشْتَرى}. Een zwak werkwoord van vorm VIII; leer het nu als vaste vorm." },
+    { "id": "j1-p3-l30-w22", "ar": "آخَرُ", "tr": "āḫar", "nl": ["ander", "een andere"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|أُخْرى}." },
+    { "id": "j1-p3-l30-w23", "ar": "أَكْبَرُ", "tr": "akbar", "nl": ["groter"], "soort": "bijvoeglijk naamwoord", "notitie": "Vergrotende trap van {ar|كَبيرٌ} (les 45)." },
+    { "id": "j1-p3-l30-w24", "ar": "أَصْغَرُ", "tr": "aṣġar", "nl": ["kleiner"], "soort": "bijvoeglijk naamwoord" },
+    { "id": "j1-p3-l30-w25", "ar": "تَخْفيضٌ", "tr": "taḫfīḍ", "nl": ["korting"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "\"Dit overhemd\" of \"dit is een overhemd\"?",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Je kent dit al uit les 8; in de winkel is het verschil belangrijk. {ar|هٰذا} + **woord met ال** = een woordgroep: {ar|هٰذا القَميصُ} = *dit overhemd*. {ar|هٰذا} + **onbepaald woord** = een zin: {ar|هٰذا قَميصٌ} = *dit is een overhemd*.",
+          "Met een woordgroep als onderwerp kun je dan iets over het overhemd zeggen: {ar|هٰذا القَميصُ جَميلٌ} = *dit overhemd is mooi*."
+        ] },
+        { "type": "tabel", "kop": ["Arabisch", "Soort", "Nederlands"], "arKolommen": [0], "rijen": [
+          ["هٰذا قَميصٌ.|hāḏā qamīṣ", "zin", "Dit is een overhemd."],
+          ["هٰذا القَميصُ|hāḏa l-qamīṣ", "woordgroep", "dit overhemd"],
+          ["هٰذا القَميصُ ضَيِّقٌ.|hāḏa l-qamīṣu ḍayyiq", "zin", "Dit overhemd is te krap."],
+          ["هٰذِهِ التَّنّورَةُ واسِعَةٌ.|hāḏihi t-tannūratu wāsiʿa", "zin", "Deze rok is te wijd."],
+          ["هٰذا هُوَ المِعْطَفُ.|hāḏā huwa l-miʿṭaf", "zin", "Dit is de jas."]
+        ] },
+        { "type": "waarom", "md": "Het Arabisch heeft in de tegenwoordige tijd geen *is*. Daarom moet het op een andere manier duidelijk zijn waar het onderwerp eindigt en het gezegde begint. Bepaaldheid ({ar|ال} tegenover tanwīn) en het tussenvoegsel {ar|هُوَ} / {ar|هِيَ} doen dat werk." }
+      ]
+    },
+    {
+      "titel": "In de winkel",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Naar de prijs vraag je met {ar|كَمْ ثَمَنُ ...؟} (*hoeveel is de prijs van ...?*) of {ar|بِكَمْ ...؟}. Om een andere maat of kleur vraag je met {ar|آخَرُ} / {ar|أُخْرى}: {ar|هَلْ عِنْدَكُمْ مَقاسٌ آخَرُ؟}."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "كَمْ ثَمَنُ هٰذا الفُسْتانِ؟ — مِئَتا دِرْهَمٍ.", "tr": "kam ṯamanu hāḏa l-fustān? — miʾatā dirham.", "nl": "Hoeveel kost deze jurk? — Tweehonderd dirham.",
+            "review": { "status": "onzeker", "note": "مِئَتا دِرْهَمٍ (dualis van مِئَة in iḍāfa) controleren; komt pas in les 41." } },
+          { "ar": "هٰذا البِنْطالُ ضَيِّقٌ. هَلْ عِنْدَكُمْ مَقاسٌ أَكْبَرُ؟", "tr": "hāḏa l-binṭālu ḍayyiq. hal ʿindakum maqāsun akbar?", "nl": "Deze broek zit te krap. Hebben jullie een grotere maat?" },
+          { "ar": "أُريدُ أَنْ أَشْتَرِيَ حِذاءً أَسْوَدَ.", "tr": "urīdu an aštariya ḥiḏāʾan aswad.", "nl": "Ik wil zwarte schoenen kopen." },
+          { "ar": "هَلْ هُناكَ تَخْفيضٌ؟", "tr": "hal hunāka taḫfīḍ?", "nl": "Is er korting?" },
+          { "ar": "هٰذِهِ القُبَّعَةُ جَميلَةٌ، لٰكِنْ أُريدُ لَوْنًا آخَرَ.", "tr": "hāḏihi l-qubbaʿatu jamīla, lākin urīdu lawnan āḫar.", "nl": "Deze pet is mooi, maar ik wil een andere kleur." }
+        ] },
+        { "type": "letop", "md": "{ar|آخَرُ} en {ar|أَكْبَرُ} zijn diptoten (geen tanwīn), net als de kleuren: {ar|مَقاسٌ أَكْبَرُ}, {ar|لَوْنًا آخَرَ}." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Kleding",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "قَميصٌ", "nl": "overhemd", "woord": "j1-p3-l30-w02" },
+          { "ar": "بِنْطالٌ", "nl": "broek", "woord": "j1-p3-l30-w03" },
+          { "ar": "فُسْتانٌ", "nl": "jurk", "woord": "j1-p3-l30-w04" },
+          { "ar": "مِعْطَفٌ", "nl": "jas", "woord": "j1-p3-l30-w06" },
+          { "ar": "حِذاءٌ", "nl": "schoenen", "woord": "j1-p3-l30-w08" },
+          { "ar": "جَوارِبُ", "nl": "sokken", "woord": "j1-p3-l30-w09" }
+        ], "uitleg": "Herhaal de woordenlijst." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "هٰذا المِعْطَفُ واسِعٌ", "vraag": "Wat hoor je?", "opties": ["Deze jas is te wijd.", "Dit is een wijde jas.", "Deze jas is te krap."], "juist": 0, "uitleg": "{ar|واسِعٌ} = wijd." },
+        { "type": "meerkeuze", "tag": "woordenschat", "woord": "j1-p3-l30-w18", "vraag": "Wat betekent {ar|مَقاسٌ}?", "opties": ["maat", "prijs", "korting", "winkel"], "juist": 0, "uitleg": "{ar|مَقاسٌ} = maat." }
+      ]
+    },
+    {
+      "titel": "Woordgroep of zin?",
+      "items": [
+        { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Wat betekent {ar|هٰذا القَميصُ}?", "opties": ["dit overhemd", "dit is een overhemd", "dit is het overhemd"], "juist": 0, "uitleg": "Woordgroep." },
+        { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "Hoe zeg je 'Dit is een jurk'?", "opties": ["هٰذا فُسْتانٌ.", "هٰذا الفُسْتانُ", "هٰذا هُوَ فُسْتانٌ."], "juist": 0, "uitleg": "{ar|هٰذا} + onbepaald." },
+        { "type": "invullen", "tag": "aanwijzend", "zin": "هٰذِهِ ___ ضَيِّقَةٌ.", "nl": "Deze rok is te krap.", "woordbank": ["التَّنّورَةُ", "تَنّورَةٌ"], "antwoord": ["التَّنّورَةُ"], "uitleg": "Woordgroep met ال + gezegde." },
+        { "type": "invullen", "tag": "winkelen", "zin": "كَمْ ___ هٰذا الحِذاءِ؟", "nl": "Hoeveel kosten deze schoenen?", "woordbank": ["ثَمَنُ", "الثَّمَنُ", "ثَمَنٌ"], "antwoord": ["ثَمَنُ"], "uitleg": "Iḍāfa: {ar|ثَمَنُ} zonder ال." },
+        { "type": "invullen", "tag": "winkelen", "zin": "أُريدُ لَوْنًا ___.", "nl": "Ik wil een andere kleur.", "woordbank": ["آخَرَ", "أُخْرى", "آخَرٌ"], "antwoord": ["آخَرَ"], "uitleg": "{ar|لَوْنٌ} is mannelijk; diptoot, accusatief -a." }
+      ]
+    },
+    {
+      "titel": "Gesprek in de winkel",
+      "items": [
+        { "type": "ordenen", "tag": "winkelen", "nl": "Hebben jullie een grotere maat?", "woorden": ["هَلْ", "عِنْدَكُمْ", "مَقاسٌ", "أَكْبَرُ؟"], "uitleg": "{ar|عِنْدَكُمْ} + onbepaald." },
+        { "type": "ordenen", "tag": "aanwijzend", "nl": "Deze broek is te krap.", "woorden": ["هٰذا", "البِنْطالُ", "ضَيِّقٌ."], "uitleg": "Woordgroep + gezegde." },
+        { "type": "vervoegen", "tag": "winkelen", "instructie": "Vul de juiste vorm van 'kopen' in (tegenwoordige tijd).",
+          "rijen": [
+            { "label": "ik koop", "antwoord": "أَشْتَري", "tr": "aštarī" },
+            { "label": "hij koopt", "antwoord": "يَشْتَري", "tr": "yaštarī" },
+            { "label": "wij kopen", "antwoord": "نَشْتَري", "tr": "naštarī" }
+          ], "uitleg": "Vaste vormen; de regels volgen in jaar 2." },
+        { "type": "luisteren", "tag": "winkelen", "tekst": "هَلْ هُناكَ تَخْفيضٌ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Is er korting?", "Is er een andere maat?", "Waar is de verkoper?"], "juist": 0, "uitleg": "{ar|تَخْفيضٌ} = korting." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "deze jas", "antwoorden": ["هٰذا المِعْطَفُ"], "uitleg": "{ar|هٰذا المِعْطَفُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "Deze jurk is mooi.", "antwoorden": ["هٰذا الفُسْتانُ جَميلٌ"], "uitleg": "{ar|هٰذا الفُسْتانُ جَميلٌ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "winkelen", "bron": "البائِعُ لَطيفٌ.", "antwoorden": ["de verkoper is aardig", "de verkoper is vriendelijk"], "uitleg": "Nominale zin." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "winkelen", "bron": "أُريدُ مَقاسًا أَصْغَرَ.", "antwoorden": ["ik wil een kleinere maat"], "uitleg": "{ar|أَصْغَرَ} = kleiner." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "aanwijzend", "bron": "هٰذا وِشاحٌ.", "antwoorden": ["dit is een sjaal"], "uitleg": "{ar|هٰذا} + onbepaald = zin." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "تَنّورَةٌ", "nl": "rok" },
+        { "ar": "حِزامٌ", "nl": "riem" },
+        { "ar": "قُبَّعَةٌ", "nl": "pet" },
+        { "ar": "مَتْجَرٌ", "nl": "winkel" },
+        { "ar": "تَخْفيضٌ", "nl": "korting" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "'Dit overhemd is duur' is ...", "opties": ["هٰذا القَميصُ غالٍ.", "هٰذا قَميصٌ غالٍ.", "هٰذا القَميصُ الغالي"], "juist": 0, "uitleg": "Woordgroep + gezegde." },
+      { "type": "meerkeuze", "tag": "winkelen", "vraag": "Hoe vraag je naar de prijs van de jas?", "opties": ["كَمْ ثَمَنُ المِعْطَفِ؟", "كَمْ المِعْطَفُ ثَمَنٌ؟", "ما المِعْطَفُ؟"], "juist": 0, "uitleg": "{ar|كَمْ ثَمَنُ} + iḍāfa." },
+      { "type": "meerkeuze", "tag": "winkelen", "vraag": "'Een andere maat' is ...", "opties": ["مَقاسٌ آخَرُ", "مَقاسٌ أُخْرى", "مَقاسٌ آخَرٌ"], "juist": 0, "uitleg": "Mannelijk, diptoot." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "أُريدُ أَنْ أَشْتَرِيَ قَميصًا أَبْيَضَ", "vraag": "Wat wil de klant kopen?", "opties": ["een wit overhemd", "een witte jurk", "zwarte schoenen"], "juist": 0, "uitleg": "{ar|قَميصًا أَبْيَضَ}" },
+      { "type": "luisteren", "tag": "aanwijzend", "tekst": "هٰذا هُوَ الحِذاءُ", "vraag": "Wat hoor je?", "opties": ["Dit zijn de schoenen.", "Deze schoenen.", "Dit zijn schoenen."], "juist": 0, "uitleg": "{ar|هُوَ} ertussen: *dit is de/het ...*." },
+      { "type": "invullen", "tag": "aanwijzend", "zin": "هٰذا ___ واسِعٌ.", "nl": "Deze broek is te wijd.", "woordbank": ["البِنْطالُ", "بِنْطالٌ"], "antwoord": ["البِنْطالُ"], "uitleg": "Woordgroep met ال." },
+      { "type": "invullen", "tag": "winkelen", "zin": "أَنا ___ مَلابِسَ جَديدَةً.", "nl": "Ik koop nieuwe kleren.", "antwoord": ["أَشْتَري"], "uitleg": "{ar|أَشْتَري}" },
+      { "type": "vervoegen", "tag": "aanwijzend", "instructie": "Vul het juiste aanwijzende voornaamwoord in.",
+        "rijen": [
+          { "label": "... الفُسْتانُ (deze jurk)", "antwoord": "هٰذا", "tr": "hāḏā" },
+          { "label": "... التَّنّورَةُ (deze rok)", "antwoord": "هٰذِهِ", "tr": "hāḏihi" }
+        ], "uitleg": "{ar|فُسْتانٌ} mannelijk, {ar|تَنّورَةٌ} vrouwelijk." },
+      { "type": "ordenen", "tag": "winkelen", "nl": "Deze pet is mooi, maar ik wil een andere kleur.", "woorden": ["هٰذِهِ", "القُبَّعَةُ", "جَميلَةٌ،", "لٰكِنْ", "أُريدُ", "لَوْنًا", "آخَرَ."], "uitleg": "{ar|لٰكِنْ} = maar." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "winkelen", "bron": "Is er korting?", "antwoorden": ["هَلْ هُناكَ تَخْفيضٌ؟"], "uitleg": "{ar|هَلْ هُناكَ تَخْفيضٌ؟}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "Dit is een broek.", "antwoorden": ["هٰذا بِنْطالٌ"], "uitleg": "{ar|هٰذا بِنْطالٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "aanwijzend", "bron": "هٰذِهِ السُّتْرَةُ ضَيِّقَةٌ.", "antwoorden": ["dit jasje is te krap", "dit jasje is krap", "dit colbert is te krap"], "uitleg": "Woordgroep + gezegde." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "winkelen", "bron": "كَمْ ثَمَنُ الجَوارِبِ؟", "antwoorden": ["hoeveel kosten de sokken", "wat kosten de sokken", "wat is de prijs van de sokken"], "uitleg": "{ar|كَمْ ثَمَنُ} + iḍāfa." }
+    ]
+  }
+}

@@ -1,0 +1,764 @@
+{
+  "id": "j1-p4-l37",
+  "code": "L37",
+  "type": "les",
+  "titel": "Werk",
+  "thema": "Over je werk en collega's vertellen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "woorden over werk en kantoor gebruiken.",
+    "een voornaamwoord als lijdend voorwerp aan een werkwoord plakken: شَكَرْتُهُ، يَسْأَلُني.",
+    "uitleggen waarom het bij werkwoorden ـني (mij) is en niet ـي.",
+    "vertellen wat ik op mijn werk doe."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l37-w01",
+      "ar": "وَظيفَةٌ",
+      "tr": "waẓīfa",
+      "nl": [
+        "baan",
+        "functie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w02",
+      "ar": "اِجْتِماعٌ",
+      "tr": "ijtimāʿ",
+      "nl": [
+        "vergadering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w03",
+      "ar": "راتِبٌ",
+      "tr": "rātib",
+      "nl": [
+        "salaris"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w04",
+      "ar": "عَقْدٌ",
+      "tr": "ʿaqd",
+      "nl": [
+        "contract"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w05",
+      "ar": "مَشْروعٌ",
+      "tr": "mašrūʿ",
+      "nl": [
+        "project"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w06",
+      "ar": "زَبونٌ",
+      "tr": "zabūn",
+      "nl": [
+        "klant"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|زَبائِنُ}."
+    },
+    {
+      "id": "j1-p4-l37-w07",
+      "ar": "إِدارَةٌ",
+      "tr": "idāra",
+      "nl": [
+        "directie",
+        "administratie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w08",
+      "ar": "تَقْريرٌ",
+      "tr": "taqrīr",
+      "nl": [
+        "rapport",
+        "verslag"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w09",
+      "ar": "مُكالَمَةٌ",
+      "tr": "mukālama",
+      "nl": [
+        "telefoongesprek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w10",
+      "ar": "دَوامٌ",
+      "tr": "dawām",
+      "nl": [
+        "werktijd",
+        "dienst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w11",
+      "ar": "إِجازَةٌ",
+      "tr": "ijāza",
+      "nl": [
+        "verlof",
+        "vrije dagen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w12",
+      "ar": "صاحِبُ العَمَلِ",
+      "tr": "ṣāḥibu l-ʿamal",
+      "nl": [
+        "werkgever"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l37-w13",
+      "ar": "ناجِحٌ",
+      "tr": "nājiḥ",
+      "nl": [
+        "succesvol",
+        "geslaagd"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p4-l37-w14",
+      "ar": "يَبْدَأُ",
+      "tr": "yabdaʾu",
+      "nl": [
+        "beginnen (hij begint)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Verleden tijd: {ar|بَدَأَ}."
+    },
+    {
+      "id": "j1-p4-l37-w15",
+      "ar": "يَنْتَهي",
+      "tr": "yantahī",
+      "nl": [
+        "eindigen (het eindigt)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vaste vorm (vorm VIII, zwak)."
+    },
+    {
+      "id": "j1-p4-l37-w16",
+      "ar": "يُساعِدُ",
+      "tr": "yusāʿidu",
+      "nl": [
+        "helpen (hij helpt)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vorm III (les 54). Ik help: {ar|أُساعِدُ}."
+    },
+    {
+      "id": "j1-p4-l37-w17",
+      "ar": "يَتَّصِلُ بِـ",
+      "tr": "yattaṣilu bi-",
+      "nl": [
+        "bellen",
+        "contact opnemen met"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vorm VIII (les 58). Ik bel je: {ar|أَتَّصِلُ بِكَ}."
+    },
+    {
+      "id": "j1-p4-l37-w18",
+      "ar": "يَنْتَظِرُ",
+      "tr": "yantaẓiru",
+      "nl": [
+        "wachten (op)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vorm VIII. Ik wacht op jou: {ar|أَنْتَظِرُكَ}."
+    },
+    {
+      "id": "j1-p4-l37-w19",
+      "ar": "رِسالَةٌ إِلِكْتْرونِيَّةٌ",
+      "tr": "risāla iliktrūniyya",
+      "nl": [
+        "e-mailbericht"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l37-w20",
+      "ar": "مُهِمَّةٌ",
+      "tr": "muhimma",
+      "nl": [
+        "taak",
+        "opdracht"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Let op: ook vrouwelijk van {ar|مُهِمٌّ} (belangrijk)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Voornaamwoorden als lijdend voorwerp",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "*Ik heb hem bedankt* zeg je met een achtervoegsel aan het werkwoord: {ar|شَكَرْتُهُ} (*šakartu-hu*). Het zijn dezelfde achtervoegsels als bij bezit ({ar|بَيْتُهُ}) en bij {ar|عِنْدَهُ}.",
+            "Eén verschil: *mij* is bij een werkwoord **ـني** (niet ـي): {ar|يَسْأَلُني} (*hij vraagt mij*), {ar|شَكَرَني} (*hij bedankte mij*)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Lijdend voorwerp",
+            "Achtervoegsel",
+            "Voorbeeld",
+            "Nederlands"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "mij",
+              "ـني|-nī",
+              "يَسْأَلُني|yasʾalunī",
+              "hij vraagt mij"
+            ],
+            [
+              "jou (m)",
+              "ـكَ|-ka",
+              "أَنْتَظِرُكَ|antaẓiruka",
+              "ik wacht op jou"
+            ],
+            [
+              "jou (v)",
+              "ـكِ|-ki",
+              "أَعْرِفُكِ|aʿrifuki",
+              "ik ken jou"
+            ],
+            [
+              "hem / het",
+              "ـهُ|-hu",
+              "شَكَرْتُهُ|šakartuhu",
+              "ik bedankte hem"
+            ],
+            [
+              "haar",
+              "ـها|-hā",
+              "أُساعِدُها|usāʿiduhā",
+              "ik help haar"
+            ],
+            [
+              "ons",
+              "ـنا|-nā",
+              "يَفْهَمُنا|yafhamunā",
+              "hij begrijpt ons"
+            ],
+            [
+              "jullie",
+              "ـكُمْ|-kum",
+              "سَأَنْتَظِرُكُمْ|sa-antaẓirukum",
+              "ik zal op jullie wachten"
+            ],
+            [
+              "hen",
+              "ـهُمْ|-hum",
+              "سَمِعْناهُمْ|samiʿnāhum",
+              "wij hoorden hen"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom ـني in plaats van ـي? Een werkwoord eindigt meestal op een klinker ({ar|يَسْأَلُ}, *yasʾalu*). Met ـي direct erachter zou die klinker verdwijnen en de vorm onherkenbaar worden. De extra **n** (*nūn al-wiqāya*, de beschermende n) houdt de vorm van het werkwoord intact."
+        },
+        {
+          "type": "letop",
+          "md": "Het voornaamwoord *het* verwijst naar een ding: {ar|قَرَأْتُ التَّقْريرَ} → {ar|قَرَأْتُهُ} (*ik heb het gelezen*). Bij een vrouwelijk ding of een meervoud van dingen gebruik je ـها: {ar|كَتَبْتُ الرِّسالَةَ} → {ar|كَتَبْتُها}."
+        }
+      ]
+    },
+    {
+      "titel": "Op het werk",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَبْدَأُ دَوامي في السّاعَةِ الثّامِنَةِ.",
+              "tr": "yabdaʾu dawāmī fi s-sāʿati ṯ-ṯāmina.",
+              "nl": "Mijn werkdag begint om acht uur."
+            },
+            {
+              "ar": "سَأَلَني المُديرُ عَنِ التَّقْريرِ، فَأَرْسَلْتُهُ.",
+              "tr": "saʾalanī l-mudīru ʿani t-taqrīri, fa-arsaltuh.",
+              "nl": "De directeur vroeg me naar het rapport, dus ik heb het gestuurd.",
+              "review": {
+                "status": "onzeker",
+                "note": "أَرْسَلَ (vorm IV) en فَـ (dus) zijn nieuw; controleren of dit voorbeeld niet te vroeg komt."
+              }
+            },
+            {
+              "ar": "زَميلَتي تُساعِدُني دائِمًا.",
+              "tr": "zamīlatī tusāʿidunī dāʾiman.",
+              "nl": "Mijn collega helpt mij altijd."
+            },
+            {
+              "ar": "عِنْدي اِجْتِماعٌ مَعَ زَبونٍ مُهِمٍّ.",
+              "tr": "ʿindī jtimāʿun maʿa zabūnin muhimm.",
+              "nl": "Ik heb een vergadering met een belangrijke klant."
+            },
+            {
+              "ar": "سَأَتَّصِلُ بِكَ بَعْدَ الاِجْتِماعِ.",
+              "tr": "sa-attaṣilu bika baʿda l-ijtimāʿ.",
+              "nl": "Ik bel je na de vergadering."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Werk",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "وَظيفَةٌ",
+              "nl": "baan",
+              "woord": "j1-p4-l37-w01"
+            },
+            {
+              "ar": "اِجْتِماعٌ",
+              "nl": "vergadering",
+              "woord": "j1-p4-l37-w02"
+            },
+            {
+              "ar": "راتِبٌ",
+              "nl": "salaris",
+              "woord": "j1-p4-l37-w03"
+            },
+            {
+              "ar": "زَبونٌ",
+              "nl": "klant",
+              "woord": "j1-p4-l37-w06"
+            },
+            {
+              "ar": "تَقْريرٌ",
+              "nl": "rapport",
+              "woord": "j1-p4-l37-w08"
+            },
+            {
+              "ar": "إِجازَةٌ",
+              "nl": "verlof",
+              "woord": "j1-p4-l37-w11"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "object-suffix",
+          "tekst": "المُديرُ يَسْأَلُني",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De directeur vraagt mij.",
+            "Ik vraag de directeur.",
+            "De directeur vraagt hem."
+          ],
+          "juist": 0,
+          "uitleg": "ـني = mij."
+        }
+      ]
+    },
+    {
+      "titel": "Achtervoegsels",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "object-suffix",
+          "instructie": "Plak het juiste achtervoegsel aan شَكَرْتُ (ik bedankte).",
+          "rijen": [
+            {
+              "label": "ik bedankte hem",
+              "antwoord": "شَكَرْتُهُ",
+              "tr": "šakartuhu"
+            },
+            {
+              "label": "ik bedankte haar",
+              "antwoord": "شَكَرْتُها",
+              "tr": "šakartuhā"
+            },
+            {
+              "label": "ik bedankte jou (m)",
+              "antwoord": "شَكَرْتُكَ",
+              "tr": "šakartuka",
+              "eind": true
+            },
+            {
+              "label": "ik bedankte hen",
+              "antwoord": "شَكَرْتُهُمْ",
+              "tr": "šakartuhum"
+            }
+          ],
+          "uitleg": "Dezelfde achtervoegsels als bij bezit."
+        },
+        {
+          "type": "invullen",
+          "tag": "object-suffix",
+          "zin": "زَميلي يُساعِدُ___.",
+          "nl": "Mijn collega helpt mij.",
+          "woordbank": [
+            "ـني",
+            "ـي",
+            "ـنا"
+          ],
+          "antwoord": [
+            "ـني"
+          ],
+          "uitleg": "Bij een werkwoord: ـني."
+        },
+        {
+          "type": "invullen",
+          "tag": "object-suffix",
+          "zin": "هَلْ قَرَأْتَ التَّقْريرَ؟ نَعَمْ، ___.",
+          "nl": "Heb je het rapport gelezen? Ja, ik heb het gelezen.",
+          "woordbank": [
+            "قَرَأْتُهُ",
+            "قَرَأْتُها",
+            "قَرَأْتُ"
+          ],
+          "antwoord": [
+            "قَرَأْتُهُ"
+          ],
+          "uitleg": "{ar|تَقْريرٌ} is mannelijk: ـهُ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "object-suffix",
+          "vraag": "Wat betekent {ar|أَنْتَظِرُكِ}?",
+          "opties": [
+            "ik wacht op jou (v)",
+            "jij wacht op mij",
+            "ik wacht op haar"
+          ],
+          "juist": 0,
+          "uitleg": "أَ = ik; ـكِ = jou (v)."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "object-suffix",
+          "vraag": "Waarom is het {ar|يَفْهَمُني} en niet {ar|يَفْهَمي}?",
+          "opties": [
+            "Bij werkwoorden beschermt een extra n de vorm.",
+            "Omdat het een vraag is.",
+            "Omdat het vrouwelijk is."
+          ],
+          "juist": 0,
+          "uitleg": "*Nūn al-wiqāya*."
+        }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "object-suffix",
+          "nl": "Mijn collega helpt mij altijd.",
+          "woorden": [
+            "زَميلَتي",
+            "تُساعِدُني",
+            "دائِمًا."
+          ],
+          "uitleg": "Werkwoord + ـني."
+        },
+        {
+          "type": "ordenen",
+          "tag": "object-suffix",
+          "nl": "Ik bel je na de vergadering.",
+          "woorden": [
+            "سَأَتَّصِلُ",
+            "بِكَ",
+            "بَعْدَ",
+            "الاِجْتِماعِ."
+          ],
+          "uitleg": "{ar|بِكَ}: voorzetsel + achtervoegsel."
+        },
+        {
+          "type": "luisteren",
+          "tag": "object-suffix",
+          "tekst": "رَأَيْناهُمْ في المَكْتَبِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "We zagen hen op kantoor.",
+            "Ze zagen ons op kantoor.",
+            "We zagen hem op kantoor."
+          ],
+          "juist": 0,
+          "uitleg": "ـنا = wij (onderwerp), ـهُمْ = hen.",
+          "review": {
+            "status": "onzeker",
+            "note": "رَأَيْنا (zien, onregelmatig) is nieuw; controleren."
+          }
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "object-suffix",
+          "bron": "Ik ken hem.",
+          "antwoorden": [
+            "أَعْرِفُهُ"
+          ],
+          "uitleg": "{ar|أَعْرِفُهُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "object-suffix",
+          "bron": "Hij begrijpt mij.",
+          "antwoorden": [
+            "يَفْهَمُني"
+          ],
+          "uitleg": "{ar|يَفْهَمُني}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "object-suffix",
+          "bron": "سَأَنْتَظِرُكُمْ.",
+          "antwoorden": [
+            "ik zal op jullie wachten",
+            "ik wacht op jullie"
+          ],
+          "uitleg": "ـكُمْ = jullie."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "يَنْتَهي الدَّوامُ في السّاعَةِ الخامِسَةِ.",
+          "antwoorden": [
+            "de werkdag eindigt om vijf uur",
+            "het werk eindigt om vijf uur",
+            "de dienst eindigt om vijf uur"
+          ],
+          "uitleg": "{ar|يَنْتَهي} = eindigt."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "عَقْدٌ",
+            "nl": "contract"
+          },
+          {
+            "ar": "مَشْروعٌ",
+            "nl": "project"
+          },
+          {
+            "ar": "مُكالَمَةٌ",
+            "nl": "telefoongesprek"
+          },
+          {
+            "ar": "ناجِحٌ",
+            "nl": "succesvol"
+          },
+          {
+            "ar": "مُهِمَّةٌ",
+            "nl": "taak"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "'Hij vraagt mij' is ...",
+        "opties": [
+          "يَسْأَلُني",
+          "يَسْأَلُي",
+          "أَسْأَلُهُ"
+        ],
+        "juist": 0,
+        "uitleg": "ـني"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "'Ik heb haar geholpen' (verleden tijd: سَاعَدْتُ) is ...",
+        "opties": [
+          "ساعَدْتُها",
+          "ساعَدَتْني",
+          "ساعَدْتُهُ"
+        ],
+        "juist": 0,
+        "uitleg": "ـها = haar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "Wat betekent {ar|شَكَرَنا}?",
+        "opties": [
+          "hij bedankte ons",
+          "wij bedankten hem",
+          "wij bedankten"
+        ],
+        "juist": 0,
+        "uitleg": "ـنا na een hij-vorm = ons."
+      },
+      {
+        "type": "luisteren",
+        "tag": "object-suffix",
+        "tekst": "أَعْرِفُها",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik ken haar.",
+          "Ik ken hem.",
+          "Zij kent mij."
+        ],
+        "juist": 0,
+        "uitleg": "ـها = haar."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "عِنْدي اِجْتِماعٌ الآنَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb nu een vergadering.",
+          "Ik heb nu vrij.",
+          "Ik heb een rapport."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِجْتِماعٌ} = vergadering."
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "كَتَبْتُ الرِّسالَةَ وَأَرْسَلْتُ___.",
+        "nl": "Ik schreef de brief en verstuurde hem.",
+        "woordbank": [
+          "ـها",
+          "ـهُ",
+          "ـني"
+        ],
+        "antwoord": [
+          "ـها"
+        ],
+        "uitleg": "{ar|رِسالَةٌ} is vrouwelijk: ـها."
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "أَنا ___ في المَكْتَبِ.",
+        "nl": "Ik wacht op je (m) op kantoor.",
+        "antwoord": [
+          "أَنْتَظِرُكَ"
+        ],
+        "eind": true,
+        "uitleg": "{ar|أَنْتَظِرُكَ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "object-suffix",
+        "instructie": "Plak het achtervoegsel aan يَفْهَمُ (hij begrijpt).",
+        "rijen": [
+          {
+            "label": "hij begrijpt mij",
+            "antwoord": "يَفْهَمُني",
+            "tr": "yafhamunī"
+          },
+          {
+            "label": "hij begrijpt ons",
+            "antwoord": "يَفْهَمُنا",
+            "tr": "yafhamunā"
+          }
+        ],
+        "uitleg": "ـني / ـنا"
+      },
+      {
+        "type": "ordenen",
+        "tag": "object-suffix",
+        "nl": "De directeur bedankte mij.",
+        "woorden": [
+          "شَكَرَني",
+          "المُديرُ."
+        ],
+        "uitleg": "Werkwoord + ـني, dan het onderwerp."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "object-suffix",
+        "bron": "Ik help je (v).",
+        "antwoorden": [
+          "أُساعِدُكِ"
+        ],
+        "eind": true,
+        "uitleg": "{ar|أُساعِدُكِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "Ik heb een nieuwe baan.",
+        "antwoorden": [
+          "عِنْدي وَظيفَةٌ جَديدَةٌ"
+        ],
+        "uitleg": "{ar|عِنْدي وَظيفَةٌ جَديدَةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "object-suffix",
+        "bron": "سَمِعْتُكَ.",
+        "antwoorden": [
+          "ik heb je gehoord",
+          "ik hoorde je",
+          "ik hoorde jou"
+        ],
+        "uitleg": "ـكَ = jou."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "الرّاتِبُ جَيِّدٌ.",
+        "antwoorden": [
+          "het salaris is goed"
+        ],
+        "uitleg": "{ar|جَيِّدٌ} = goed."
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "id": "j3-p9-h25",
+  "code": "H25",
+  "type": "herhaling",
+  "titel": "Herhaling blok 9A",
+  "thema": "Lijdende vorm en de drie soorten voorwaarde",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de lijdende vorm in nieuws en geschiedenis gebruiken.",
+    "إِذا، إِنْ en لَوْ / لَوْلا correct kiezen.",
+    "een kort Darija-verhaal begrijpen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 97–100 en D19.",
+  "grammatica": [
+    {
+      "titel": "Lijdende vorm en voorwaarden",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "lijdend vorm I",
+              "u – i / yu – a",
+              "كُتِبَ · يُكْتَبُ"
+            ],
+            [
+              "lijdend afgeleid / zwak",
+              "أُسِّسَ · قيلَ · يُقالُ",
+              "يُقالُ إِنَّ …"
+            ],
+            [
+              "تَمَّ + maṣdar",
+              "modern alternatief",
+              "تَمَّ بِناءُ الجِسْرِ"
+            ],
+            [
+              "إِذا",
+              "reëel, + māḍī",
+              "إِذا جِئْتَ"
+            ],
+            [
+              "إِنْ",
+              "mogelijk, + majzūm",
+              "إِنْ تَدْرُسْ تَنْجَحْ"
+            ],
+            [
+              "لَوْ / لَوْلا",
+              "irreëel, لَـ + māḍī",
+              "لَوْ دَرَسْتَ لَنَجَحْتَ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Met de lijdende vorm en de drie voorwaardewoorden kun je nieuws lezen én hypothetisch denken: twee kernvaardigheden op B1-niveau."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "lijdende-vorm",
+          "vraag": "'Het werd ontdekt' is ...",
+          "opties": [
+            "اُكْتُشِفَ",
+            "اِكْتَشَفَ",
+            "يَكْتَشِفُ"
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend VIII."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "in-majzum",
+          "vraag": "'Wie zoekt, vindt' (formeel) is ...",
+          "opties": [
+            "مَنْ يَبْحَثْ يَجِدْ",
+            "مَنْ يَبْحَثُ وَجَدَ",
+            "لَوْ بَحَثَ لَوَجَدَ"
+          ],
+          "juist": 0,
+          "uitleg": "Majzūm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "law",
+          "vraag": "'Als ik vleugels had, zou ik vliegen' begint met ...",
+          "opties": [
+            "لَوْ",
+            "إِذا",
+            "إِنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Irreëel."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَريقٌ",
+              "nl": "brand",
+              "woord": "j3-p9-l97-w11"
+            },
+            {
+              "ar": "حَضارَةٌ",
+              "nl": "beschaving",
+              "woord": "j3-p9-l98-w06"
+            },
+            {
+              "ar": "نَصيحَةٌ",
+              "nl": "advies"
+            },
+            {
+              "ar": "خَيالٌ",
+              "nl": "fantasie",
+              "woord": "j3-p9-l100-w11"
+            },
+            {
+              "ar": "ملي",
+              "nl": "toen (Darija)",
+              "woord": "j3-p9-d19-w05"
+            },
+            {
+              "ar": "اِسْتِقْلالٌ",
+              "nl": "onafhankelijkheid",
+              "woord": "j3-p9-l98-w12"
+            }
+          ],
+          "uitleg": "Woorden uit blok 9A."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "lijdende-vorm",
+          "zin": "___ المَتْحَفُ يَوْمَ الإِثْنَيْنِ.",
+          "nl": "Het museum is (wordt) op maandag gesloten.",
+          "antwoord": [
+            "يُغْلَقُ"
+          ],
+          "uitleg": "Lijdend IV.",
+          "woordbank": [
+            "يُغْلَقُ",
+            "يُغْلِقُ",
+            "أَغْلَقَ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "law",
+          "zin": "لَوْ سَمِعْتُ الخَبَرَ ___.",
+          "nl": "Als ik het nieuws had gehoord, was ik gekomen.",
+          "antwoord": [
+            "لَجِئْتُ"
+          ],
+          "uitleg": "{ar|لَـ} + māḍī.",
+          "woordbank": [
+            "لَجِئْتُ",
+            "أَجيءُ",
+            "سَأَجيءُ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "lijdende-vorm",
+          "nl": "Men zegt dat de stad heel oud is.",
+          "woorden": [
+            "يُقالُ",
+            "إِنَّ",
+            "المَدينَةَ",
+            "قَديمَةٌ",
+            "جِدًّا."
+          ],
+          "uitleg": "{ar|يُقالُ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-verhaal",
+          "tekst": "واحد النهار لقيت فلوس ف الزنقة",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Op een dag vond ik geld op straat.",
+            "Ik verloor geld op straat.",
+            "Elke dag vind ik geld."
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "lijdende-vorm",
+          "bron": "Er werd gezegd …",
+          "antwoorden": [
+            "قيلَ"
+          ],
+          "uitleg": "Lijdend hol."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "in-majzum",
+          "bron": "إِنْ تَزْرَعْ تَحْصُدْ.",
+          "antwoorden": [
+            "wie zaait zal oogsten",
+            "als je zaait oogst je",
+            "als je zaait zul je oogsten"
+          ],
+          "uitleg": "Spreekwoord."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "law",
+          "bron": "لَوْلا مُساعَدَتُكَ لَفَشِلْتُ.",
+          "antwoorden": [
+            "zonder jouw hulp was ik mislukt",
+            "zonder je hulp had ik gefaald",
+            "als jij me niet had geholpen was ik mislukt"
+          ],
+          "uitleg": "{ar|لَوْلا}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "De lijdende māḍī van {ar|سَرَقَ} is ...",
+        "opties": [
+          "سُرِقَ",
+          "سَرِقَ",
+          "يُسْرَقُ"
+        ],
+        "juist": 0,
+        "uitleg": "u – i."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "'Er wordt gezegd' is ...",
+        "opties": [
+          "يُقالُ",
+          "يَقولُ",
+          "قيلَ"
+        ],
+        "juist": 0,
+        "uitleg": "Muḍāriʿ lijdend."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lijdende-vorm",
+        "vraag": "{ar|تَمَّ إِصْلاحُ الطَّريقِ} betekent ...",
+        "opties": [
+          "De weg werd gerepareerd.",
+          "Hij repareerde de weg.",
+          "De weg is kapot."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَمَّ} + maṣdar."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "in-majzum",
+        "vraag": "Na {ar|إِنْ} staan de werkwoorden in de ...",
+        "opties": [
+          "majzūm",
+          "manṣūb",
+          "marfūʿ"
+        ],
+        "juist": 0,
+        "uitleg": "Beide delen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "law",
+        "vraag": "Welk woord drukt een onwerkelijke voorwaarde uit?",
+        "opties": [
+          "لَوْ",
+          "إِذا",
+          "إِنْ"
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "luisteren",
+        "tag": "lijdende-vorm",
+        "tekst": "نُقِلَ الجَريحُ إِلى المُسْتَشْفى",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De gewonde werd naar het ziekenhuis gebracht.",
+          "De gewonde bracht iemand naar het ziekenhuis.",
+          "Het ziekenhuis is dicht."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "law",
+        "tekst": "لَوْ كُنْتُ مَكانَكَ لَقَبِلْتُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Als ik jou was, zou ik accepteren.",
+          "Ik heb geaccepteerd.",
+          "Jij accepteerde niet."
+        ],
+        "juist": 0,
+        "uitleg": "Irreëel."
+      },
+      {
+        "type": "invullen",
+        "tag": "lijdende-vorm",
+        "zin": "___ الرِّسالَةُ أَمْسِ.",
+        "nl": "De brief werd gisteren verstuurd.",
+        "antwoord": [
+          "أُرْسِلَتِ",
+          "أُرْسِلَتْ"
+        ],
+        "uitleg": "Lijdend IV, vrouwelijk.",
+        "woordbank": [
+          "أُرْسِلَتِ",
+          "أَرْسَلَتِ",
+          "تُرْسِلُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "in-majzum",
+        "zin": "إِنْ ___ تَنْجَحْ.",
+        "nl": "Als je je inspant, slaag je.",
+        "antwoord": [
+          "تَجْتَهِدْ"
+        ],
+        "uitleg": "Majzūm.",
+        "woordbank": [
+          "تَجْتَهِدْ",
+          "تَجْتَهِدُ",
+          "اِجْتَهِدْ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "law",
+        "zin": "لَوْلا ___ لَخَرَجْنا.",
+        "nl": "Zonder de storm waren we naar buiten gegaan.",
+        "antwoord": [
+          "العاصِفَةُ"
+        ],
+        "uitleg": "{ar|لَوْلا} + nominatief.",
+        "woordbank": [
+          "العاصِفَةُ",
+          "العاصِفَةَ",
+          "العاصِفَةِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ضَحِيَّةٌ",
+            "nl": "slachtoffer"
+          },
+          {
+            "ar": "مَمْلَكَةٌ",
+            "nl": "koninkrijk"
+          },
+          {
+            "ar": "اِسْتَشارَ",
+            "nl": "raadplegen"
+          },
+          {
+            "ar": "واقِعٌ",
+            "nl": "werkelijkheid"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "in-majzum",
+        "nl": "Waar je ook gaat, je vindt vrienden.",
+        "woorden": [
+          "أَيْنَما",
+          "تَذْهَبْ",
+          "تَجِدْ",
+          "أَصْدِقاءَ."
+        ],
+        "uitleg": "Voorwaardelijk woord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "law",
+        "bron": "Was ik maar …!",
+        "antwoorden": [
+          "يا لَيْتَني",
+          "لَيْتَني"
+        ],
+        "uitleg": "{ar|يا لَيْتَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "lijdende-vorm",
+        "bron": "أُسِّسَتِ الجامِعَةُ قَبْلَ قُرونٍ.",
+        "antwoorden": [
+          "de universiteit werd eeuwen geleden gesticht",
+          "de universiteit is eeuwen geleden opgericht"
+        ],
+        "uitleg": "Lijdend II."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-verhaal",
+        "bron": "الحاصول، رجع لدارو",
+        "antwoorden": [
+          "kortom hij ging terug naar huis",
+          "uiteindelijk ging hij terug naar zijn huis",
+          "kortom hij keerde terug naar zijn huis"
+        ],
+        "uitleg": "Darija.",
+        "tr": "lḥāṣūl, ṛjəʿ l-dāṛu"
+      }
+    ]
+  }
+}

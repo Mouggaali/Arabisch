@@ -1,0 +1,654 @@
+{
+  "id": "j2-p6-l64",
+  "code": "L64",
+  "type": "les",
+  "titel": "Vroeger en nu",
+  "thema": "Veranderingen in je leven en je stad",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de 'zusters van kāna' gebruiken: كانَ، أَصْبَحَ، صارَ، لَيْسَ، ما زالَ، ظَلَّ.",
+    "het gezegde na deze werkwoorden in de accusatief zetten.",
+    "vertellen wat veranderd is en wat hetzelfde bleef."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l64-w01",
+      "ar": "صارَ",
+      "tr": "ṣāra",
+      "nl": [
+        "worden"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Hol werkwoord: {ar|صِرْتُ} (ik werd), muḍāriʿ {ar|يَصيرُ}."
+    },
+    {
+      "id": "j2-p6-l64-w02",
+      "ar": "ظَلَّ",
+      "tr": "ẓalla",
+      "nl": [
+        "blijven (de hele tijd)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Verdubbeld: {ar|ظَلِلْتُ} (ik bleef), muḍāriʿ {ar|يَظَلُّ}."
+    },
+    {
+      "id": "j2-p6-l64-w03",
+      "ar": "ما زالَ",
+      "tr": "mā zāla",
+      "nl": [
+        "nog steeds (zijn)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|ما زِلْتُ} = ik ben nog steeds; muḍāriʿ {ar|لا يَزالُ}."
+    },
+    {
+      "id": "j2-p6-l64-w05",
+      "ar": "حالِيًّا",
+      "tr": "ḥāliyyan",
+      "nl": [
+        "tegenwoordig",
+        "momenteel"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p6-l64-w06",
+      "ar": "سابِقًا",
+      "tr": "sābiqan",
+      "nl": [
+        "voorheen",
+        "vroeger"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j2-p6-l64-w07",
+      "ar": "تَغَيَّرَ",
+      "tr": "taġayyara",
+      "nl": [
+        "veranderen (zelf)"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Maṣdar: {ar|تَغَيُّرٌ}. Vorm II {ar|غَيَّرَ} = iets veranderen."
+    },
+    {
+      "id": "j2-p6-l64-w08",
+      "ar": "تَطَوَّرَ",
+      "tr": "taṭawwara",
+      "nl": [
+        "zich ontwikkelen"
+      ],
+      "soort": "werkwoord (V)",
+      "notitie": "Maṣdar: {ar|تَطَوُّرٌ}."
+    },
+    {
+      "id": "j2-p6-l64-w09",
+      "ar": "مُخْتَلِفٌ",
+      "tr": "muḫtalif",
+      "nl": [
+        "anders",
+        "verschillend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l64-w10",
+      "ar": "بَسيطٌ",
+      "tr": "basīṭ",
+      "nl": [
+        "eenvoudig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l64-w11",
+      "ar": "ريفٌ",
+      "tr": "rīf",
+      "nl": [
+        "platteland"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l64-w12",
+      "ar": "مُزْدَهِرٌ",
+      "tr": "muzdahir",
+      "nl": [
+        "bloeiend",
+        "welvarend"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Vorm VIII met assimilatie (ز-ه-ر)."
+    },
+    {
+      "id": "j2-p6-l64-w15",
+      "ar": "عَصْرِيٌّ",
+      "tr": "ʿaṣriyy",
+      "nl": [
+        "modern"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l64-w16",
+      "ar": "تَقْليدِيٌّ",
+      "tr": "taqlīdiyy",
+      "nl": [
+        "traditioneel"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l64-w17",
+      "ar": "ذِكْرَياتٌ",
+      "tr": "ḏikrayāt",
+      "nl": [
+        "herinneringen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j2-p6-l64-w18",
+      "ar": "حَنينٌ",
+      "tr": "ḥanīn",
+      "nl": [
+        "heimwee",
+        "verlangen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Kāna en zusters",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een groep werkwoorden gedraagt zich als {ar|كانَ}: het onderwerp blijft **marfūʿ** (-u), het gezegde wordt **manṣūb** (-a). Ze voegen een tijd, verandering of duur toe aan een nominale zin."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Werkwoord",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "كانَ",
+              "was",
+              "كانَ الجَوُّ بارِدًا.|kāna l-jawwu bāridan."
+            ],
+            [
+              "أَصْبَحَ",
+              "werd (vooral: 's ochtends, of plots)",
+              "أَصْبَحَ الطَّريقُ مُزْدَحِمًا.|aṣbaḥa ṭ-ṭarīqu muzdaḥiman."
+            ],
+            [
+              "صارَ",
+              "werd (geleidelijk)",
+              "صارَتِ المَدينَةُ كَبيرَةً.|ṣārati l-madīnatu kabīra."
+            ],
+            [
+              "لَيْسَ",
+              "is niet",
+              "لَيْسَ البَيْتُ قَديمًا.|laysa l-baytu qadīman."
+            ],
+            [
+              "ما زالَ",
+              "is nog steeds",
+              "ما زالَ جَدّي نَشيطًا.|mā zāla jaddī našīṭan."
+            ],
+            [
+              "ظَلَّ",
+              "bleef (de hele tijd)",
+              "ظَلَّ الجَوُّ حارًّا طولَ اليَوْمِ.|ẓalla l-jawwu ḥārran ṭūla l-yawm."
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom accusatief? Je kent het al van {ar|كانَ} (les 28): deze werkwoorden zijn 'onvolledig' (*nāqiṣ*); ze hebben een gezegde nodig om de zin af te maken, en dat gezegde staat in de accusatief, net als een lijdend voorwerp. Zo zie je meteen welk woord het gezegde is."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|ما زالَ} is een ontkenning (*ما*) + *ophouden*: letterlijk *hij hield niet op*. Daarom betekent het **nog steeds**. In de muḍāriʿ: {ar|لا يَزالُ}."
+        }
+      ]
+    },
+    {
+      "titel": "Vroeger en nu",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في الماضي كانَتْ قَرْيَتُنا فَقيرَةً.",
+              "tr": "fi l-māḍī kānat qaryatunā faqīra.",
+              "nl": "Vroeger was ons dorp arm."
+            },
+            {
+              "ar": "حالِيًّا صارَتْ مُزْدَهِرَةً.",
+              "tr": "ḥāliyyan ṣārat muzdahira.",
+              "nl": "Nu is het welvarend geworden."
+            },
+            {
+              "ar": "تَغَيَّرَ كُلُّ شَيْءٍ، لٰكِنَّ السّوقَ ما زالَ تَقْليدِيًّا.",
+              "tr": "taġayyara kullu šayʾ, lākinna s-sūqa mā zāla taqlīdiyyan.",
+              "nl": "Alles is veranderd, maar de markt is nog steeds traditioneel."
+            },
+            {
+              "ar": "ظَلَّ جَدّي في الرّيفِ طولَ حَياتِهِ.",
+              "tr": "ẓalla jaddī fi r-rīfi ṭūla ḥayātih.",
+              "nl": "Mijn opa bleef zijn hele leven op het platteland."
+            },
+            {
+              "ar": "عِنْدي حَنينٌ إِلى أَيّامِ الطُّفولَةِ.",
+              "tr": "ʿindī ḥanīnun ilā ayyāmi ṭ-ṭufūla.",
+              "nl": "Ik verlang terug naar mijn kindertijd."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حالِيًّا",
+              "nl": "tegenwoordig",
+              "woord": "j2-p6-l64-w05"
+            },
+            {
+              "ar": "مُخْتَلِفٌ",
+              "nl": "anders",
+              "woord": "j2-p6-l64-w09"
+            },
+            {
+              "ar": "بَسيطٌ",
+              "nl": "eenvoudig",
+              "woord": "j2-p6-l64-w10"
+            },
+            {
+              "ar": "ريفٌ",
+              "nl": "platteland",
+              "woord": "j2-p6-l64-w11"
+            },
+            {
+              "ar": "فَقيرٌ",
+              "nl": "arm"
+            },
+            {
+              "ar": "غَنِيٌّ",
+              "nl": "rijk"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "kana-zusters",
+          "tekst": "ما زالَ جَدّي نَشيطًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Mijn opa is nog steeds actief.",
+            "Mijn opa was vroeger actief.",
+            "Mijn opa is niet meer actief."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ما زالَ} = nog steeds."
+        }
+      ]
+    },
+    {
+      "titel": "Kāna en zusters",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "kana-zusters",
+          "zin": "أَصْبَحَ الجَوُّ ___.",
+          "nl": "Het weer werd koud.",
+          "woordbank": [
+            "بارِدًا",
+            "بارِدٌ",
+            "بارِدٍ"
+          ],
+          "antwoord": [
+            "بارِدًا"
+          ],
+          "uitleg": "Gezegde na {ar|أَصْبَحَ}: accusatief."
+        },
+        {
+          "type": "invullen",
+          "tag": "kana-zusters",
+          "zin": "صارَتِ ___ عَصْرِيَّةً.",
+          "nl": "De stad werd modern.",
+          "woordbank": [
+            "المَدينَةُ",
+            "المَدينَةَ",
+            "المَدينَةِ"
+          ],
+          "antwoord": [
+            "المَدينَةُ"
+          ],
+          "uitleg": "Onderwerp blijft marfūʿ.",
+          "streng": true
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-zusters",
+          "vraag": "Wat betekent {ar|ظَلَّ الطِّفْلُ يَلْعَبُ طولَ اليَوْمِ}?",
+          "opties": [
+            "Het kind bleef de hele dag spelen.",
+            "Het kind begon te spelen.",
+            "Het kind speelde niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ظَلَّ} = de hele tijd blijven."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "kana-zusters",
+          "vraag": "Welke zin is juist? (Het huis is niet oud.)",
+          "opties": [
+            "لَيْسَ البَيْتُ قَديمًا.",
+            "لَيْسَ البَيْتَ قَديمٌ.",
+            "لَيْسَ البَيْتُ قَديمٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Onderwerp -u, gezegde -a."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "kana-zusters",
+          "instructie": "Vul het gezegde in de juiste vorm in.",
+          "rijen": [
+            {
+              "label": "كانَ الطَّعامُ ___ (lekker: لَذيذٌ)",
+              "antwoord": "لَذيذًا",
+              "tr": "laḏīḏan"
+            },
+            {
+              "label": "ما زالَتْ أُمّي ___ (jong: شابَّةٌ)",
+              "antwoord": "شابَّةً",
+              "tr": "šābbatan"
+            },
+            {
+              "label": "صارَ أَخي ___ (arts: طَبيبٌ)",
+              "antwoord": "طَبيبًا",
+              "tr": "ṭabīban"
+            }
+          ],
+          "uitleg": "Gezegde → accusatief."
+        }
+      ]
+    },
+    {
+      "titel": "Veranderingen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "kana-zusters",
+          "nl": "Vroeger was ons dorp arm.",
+          "woorden": [
+            "في",
+            "الماضي",
+            "كانَتْ",
+            "قَرْيَتُنا",
+            "فَقيرَةً."
+          ],
+          "uitleg": "{ar|كانَتْ} (vrouwelijk) + accusatief."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "تَغَيَّرَتِ المَدينَةُ كَثيرًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De stad is erg veranderd.",
+            "De stad is nog hetzelfde.",
+            "De stad is groot."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|تَغَيَّرَ} = veranderen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "kana-zusters",
+          "bron": "Ik ben nog steeds student. (m)",
+          "antwoorden": [
+            "ما زِلْتُ طالِبًا",
+            "لا أَزالُ طالِبًا"
+          ],
+          "uitleg": "{ar|ما زِلْتُ} + accusatief."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "kana-zusters",
+          "bron": "أَصْبَحَتِ الحَياةُ أَصْعَبَ.",
+          "antwoorden": [
+            "het leven is moeilijker geworden",
+            "het leven werd moeilijker"
+          ],
+          "uitleg": "{ar|أَصْعَبَ}: diptoot, accusatief."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "سابِقًا",
+            "nl": "voorheen"
+          },
+          {
+            "ar": "عَصْرِيٌّ",
+            "nl": "modern"
+          },
+          {
+            "ar": "تَقْليدِيٌّ",
+            "nl": "traditioneel"
+          },
+          {
+            "ar": "حَنينٌ",
+            "nl": "heimwee"
+          },
+          {
+            "ar": "تَطَوَّرَ",
+            "nl": "zich ontwikkelen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "Welke naamval krijgt het gezegde na {ar|صارَ}?",
+        "opties": [
+          "manṣūb (-a)",
+          "marfūʿ (-u)",
+          "majrūr (-i)"
+        ],
+        "juist": 0,
+        "uitleg": "Zoals na {ar|كانَ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "Wat betekent {ar|لا يَزالُ}?",
+        "opties": [
+          "nog steeds",
+          "niet meer",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "Muḍāriʿ van {ar|ما زالَ}."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "'Hij werd beroemd' is ...",
+        "opties": [
+          "أَصْبَحَ مَشْهورًا.",
+          "أَصْبَحَ مَشْهورٌ.",
+          "أَصْبَحَ مَشْهورٍ."
+        ],
+        "juist": 0,
+        "uitleg": "Accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "Welk werkwoord betekent *de hele tijd blijven*?",
+        "opties": [
+          "ظَلَّ",
+          "صارَ",
+          "لَيْسَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ظَلَّ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-zusters",
+        "tekst": "صارَ أَخي مُهَنْدِسًا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Mijn broer is ingenieur geworden.",
+          "Mijn broer was ingenieur.",
+          "Mijn broer is geen ingenieur."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صارَ} = worden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "kana-zusters",
+        "tekst": "لَيْسَتِ الحَياةُ سَهْلَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het leven is niet makkelijk.",
+          "Het leven was makkelijk.",
+          "Het leven wordt makkelijk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَيْسَ} + accusatief."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-zusters",
+        "zin": "ما زالَ الشّارِعُ ___.",
+        "nl": "De straat is nog steeds smal.",
+        "woordbank": [
+          "ضَيِّقًا",
+          "ضَيِّقٌ",
+          "ضَيِّقٍ"
+        ],
+        "antwoord": [
+          "ضَيِّقًا"
+        ],
+        "uitleg": "Gezegde na {ar|ما زالَ}: accusatief."
+      },
+      {
+        "type": "invullen",
+        "tag": "kana-zusters",
+        "zin": "كانَتْ ___ مُخْتَلِفَةً في الماضي.",
+        "nl": "Het leven was vroeger anders.",
+        "woordbank": [
+          "الحَياةُ",
+          "الحَياةَ",
+          "الحَياةِ"
+        ],
+        "antwoord": [
+          "الحَياةُ"
+        ],
+        "uitleg": "Onderwerp → marfūʿ.",
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "kana-zusters",
+        "instructie": "Vul het gezegde in.",
+        "rijen": [
+          {
+            "label": "أَصْبَحَ المَطْعَمُ ___ (duur: غالٍ → غالِيًا)",
+            "antwoord": "غالِيًا",
+            "tr": "ġāliyan"
+          },
+          {
+            "label": "لَيْسَ الاِمْتِحانُ ___ (moeilijk: صَعْبٌ)",
+            "antwoord": "صَعْبًا",
+            "tr": "ṣaʿban"
+          }
+        ],
+        "uitleg": "Accusatief."
+      },
+      {
+        "type": "ordenen",
+        "tag": "kana-zusters",
+        "nl": "Alles is veranderd, maar de markt is nog steeds traditioneel.",
+        "woorden": [
+          "تَغَيَّرَ",
+          "كُلُّ",
+          "شَيْءٍ،",
+          "لٰكِنَّ",
+          "السّوقَ",
+          "ما",
+          "زالَ",
+          "تَقْليدِيًّا."
+        ],
+        "uitleg": "{ar|ما زالَ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het platteland",
+        "antwoorden": [
+          "الرّيفُ"
+        ],
+        "uitleg": "{ar|الرّيفُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-zusters",
+        "bron": "ظَلَّ الجَوُّ حارًّا طولَ اليَوْمِ.",
+        "antwoorden": [
+          "het bleef de hele dag warm",
+          "het weer bleef de hele dag heet",
+          "het bleef de hele dag heet"
+        ],
+        "uitleg": "{ar|ظَلَّ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "kana-zusters",
+        "bron": "ما زِلْتُ أَتَذَكَّرُ ذٰلِكَ اليَوْمَ.",
+        "antwoorden": [
+          "ik herinner me die dag nog steeds",
+          "ik herinner mij die dag nog steeds"
+        ],
+        "uitleg": "{ar|ما زِلْتُ} + muḍāriʿ = nog steeds iets doen."
+      }
+    ]
+  }
+}

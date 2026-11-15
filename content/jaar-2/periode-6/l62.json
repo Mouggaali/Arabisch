@@ -1,0 +1,707 @@
+{
+  "id": "j2-p6-l62",
+  "code": "L62",
+  "type": "les",
+  "titel": "Steden en landen",
+  "thema": "Aardrijkskunde en namen; woorden zonder tanwīn",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "diptoten (mamnūʿ min aṣ-ṣarf) herkennen.",
+    "weten dat diptoten geen tanwīn krijgen en in de genitief op -a eindigen.",
+    "de belangrijkste groepen diptoten noemen: namen, أَفْعَلُ, gebroken meervouden als مَدارِسُ.",
+    "landen en steden beschrijven met windrichtingen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l62-w01",
+      "ar": "دَوْلَةٌ",
+      "tr": "dawla",
+      "nl": [
+        "staat",
+        "land"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|دُوَلٌ}."
+    },
+    {
+      "id": "j2-p6-l62-w02",
+      "ar": "مُحافَظَةٌ",
+      "tr": "muḥāfaẓa",
+      "nl": [
+        "provincie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w03",
+      "ar": "جَزيرَةٌ",
+      "tr": "jazīra",
+      "nl": [
+        "eiland"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|جُزُرٌ}."
+    },
+    {
+      "id": "j2-p6-l62-w04",
+      "ar": "حُدودٌ",
+      "tr": "ḥudūd",
+      "nl": [
+        "grenzen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|حَدٌّ}."
+    },
+    {
+      "id": "j2-p6-l62-w05",
+      "ar": "الشَّمالُ",
+      "tr": "aš-šamāl",
+      "nl": [
+        "het noorden"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w06",
+      "ar": "الجَنوبُ",
+      "tr": "al-janūb",
+      "nl": [
+        "het zuiden"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w07",
+      "ar": "الشَّرْقُ",
+      "tr": "aš-šarq",
+      "nl": [
+        "het oosten"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w08",
+      "ar": "الغَرْبُ",
+      "tr": "al-ġarb",
+      "nl": [
+        "het westen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w09",
+      "ar": "يَقَعُ",
+      "tr": "yaqaʿu",
+      "nl": [
+        "ligt (gelegen zijn)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|تَقَعُ هولَنْدا في غَرْبِ أوروبّا} = Nederland ligt in West-Europa."
+    },
+    {
+      "id": "j2-p6-l62-w10",
+      "ar": "قارَّةٌ",
+      "tr": "qārra",
+      "nl": [
+        "continent",
+        "werelddeel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w11",
+      "ar": "مُحيطٌ",
+      "tr": "muḥīṭ",
+      "nl": [
+        "oceaan"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w12",
+      "ar": "صَحارى",
+      "tr": "ṣaḥārā",
+      "nl": [
+        "woestijnen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|صَحْراءُ} (diptoot)."
+    },
+    {
+      "id": "j2-p6-l62-w13",
+      "ar": "مَساجِدُ",
+      "tr": "masājid",
+      "nl": [
+        "moskeeën"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Patroon مَفاعِلُ: diptoot."
+    },
+    {
+      "id": "j2-p6-l62-w14",
+      "ar": "مَنْطِقَةٌ",
+      "tr": "manṭiqa",
+      "nl": [
+        "gebied",
+        "regio"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَناطِقُ} (diptoot)."
+    },
+    {
+      "id": "j2-p6-l62-w15",
+      "ar": "أوروبّا",
+      "tr": "ūrubbā",
+      "nl": [
+        "Europa"
+      ],
+      "soort": "eigennaam"
+    },
+    {
+      "id": "j2-p6-l62-w16",
+      "ar": "إِفْريقيا",
+      "tr": "ifrīqiyā",
+      "nl": [
+        "Afrika"
+      ],
+      "soort": "eigennaam"
+    },
+    {
+      "id": "j2-p6-l62-w17",
+      "ar": "تاريخِيٌّ",
+      "tr": "tārīḫiyy",
+      "nl": [
+        "historisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l62-w18",
+      "ar": "سِياحِيٌّ",
+      "tr": "siyāḥiyy",
+      "nl": [
+        "toeristisch"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Diptoten: twee uitgangen in plaats van drie",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Sommige woorden krijgen **geen tanwīn**, en in de genitief eindigen ze (zonder ال of iḍāfa) op **-a** in plaats van -i. Ze hebben dus maar twee uitgangen: -u en -a. Dat heet **mamnūʿ min aṣ-ṣarf** (*verhinderd van volledige verbuiging*).",
+            "{ar|في مَدْرَسَةٍ} (triptoot: -in) maar {ar|في مَدارِسَ} (diptoot: -a!). Met lidwoord of als eerste iḍāfa-lid worden ze weer normaal: {ar|في المَدارِسِ}."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Groep",
+            "Voorbeelden"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "vrouwennamen en namen op ة",
+              "فاطِمَةُ، مَكَّةُ، حَمْزَةُ"
+            ],
+            [
+              "buitenlandse namen",
+              "إِبْراهيمُ، باريسُ، لَنْدَنُ"
+            ],
+            [
+              "patroon أَفْعَلُ (kleur, vergrotende trap)",
+              "أَحْمَرُ، أَكْبَرُ"
+            ],
+            [
+              "meervoud مَفاعِلُ / مَفاعيلُ",
+              "مَدارِسُ، مَساجِدُ، مَفاتيحُ"
+            ],
+            [
+              "uitgang ـاءُ (فَعْلاءُ، فُعَلاءُ)",
+              "صَحْراءُ، حَمْراءُ، عُلَماءُ"
+            ],
+            [
+              "namen op ـانُ",
+              "عُثْمانُ، رَمَضانُ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom bestaan diptoten? Taalkundigen leggen het uit als 'zwaarte': woorden die al iets 'extra' hebben (vrouwelijk, buitenlands, een zwaar patroon) krijgen de tanwīn niet. Voor jou is het praktisch: leer de **zes groepen** hierboven en kijk bij gebroken meervouden met **drie of meer lettergrepen na de eerste** (مَدارِسُ) extra goed."
+        }
+      ]
+    },
+    {
+      "titel": "Landen en steden",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَقَعُ هولَنْدا في غَرْبِ أوروبّا.",
+              "tr": "taqaʿu Hōlandā fī ġarbi Ūrubbā.",
+              "nl": "Nederland ligt in West-Europa."
+            },
+            {
+              "ar": "يَقَعُ المَغْرِبُ في شَمالِ إِفْريقيا.",
+              "tr": "yaqaʿu l-Maġribu fī šamāli Ifrīqiyā.",
+              "nl": "Marokko ligt in Noord-Afrika."
+            },
+            {
+              "ar": "سافَرْتُ إِلى باريسَ وَلَنْدَنَ.",
+              "tr": "sāfartu ilā Bārīsa wa-Landana.",
+              "nl": "Ik ben naar Parijs en Londen gereisd."
+            },
+            {
+              "ar": "في المَغْرِبِ مَساجِدُ تاريخِيَّةٌ كَثيرَةٌ.",
+              "tr": "fi l-Maġribi masājidu tārīḫiyyatun kaṯīra.",
+              "nl": "In Marokko zijn veel historische moskeeën."
+            },
+            {
+              "ar": "زُرْنا مُدُنًا كَثيرَةً وَمَناطِقَ جَميلَةً.",
+              "tr": "zurnā mudunan kaṯīratan wa-manāṭiqa jamīla.",
+              "nl": "We bezochten veel steden en mooie gebieden."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Het bijvoeglijk naamwoord bij een diptoot is meestal **gewoon**: {ar|مَناطِقَ جَميلَةٍ} (diptoot -a, maar bijvoeglijk -in). Elk woord volgt zijn eigen soort."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "دَوْلَةٌ",
+              "nl": "staat",
+              "woord": "j2-p6-l62-w01"
+            },
+            {
+              "ar": "جَزيرَةٌ",
+              "nl": "eiland",
+              "woord": "j2-p6-l62-w03"
+            },
+            {
+              "ar": "حُدودٌ",
+              "nl": "grenzen",
+              "woord": "j2-p6-l62-w04"
+            },
+            {
+              "ar": "قارَّةٌ",
+              "nl": "continent",
+              "woord": "j2-p6-l62-w10"
+            },
+            {
+              "ar": "مُحيطٌ",
+              "nl": "oceaan",
+              "woord": "j2-p6-l62-w11"
+            },
+            {
+              "ar": "مَنْطِقَةٌ",
+              "nl": "gebied",
+              "woord": "j2-p6-l62-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "الشَّمالُ",
+              "nl": "noorden",
+              "woord": "j2-p6-l62-w05"
+            },
+            {
+              "ar": "الجَنوبُ",
+              "nl": "zuiden",
+              "woord": "j2-p6-l62-w06"
+            },
+            {
+              "ar": "الشَّرْقُ",
+              "nl": "oosten",
+              "woord": "j2-p6-l62-w07"
+            },
+            {
+              "ar": "الغَرْبُ",
+              "nl": "westen",
+              "woord": "j2-p6-l62-w08"
+            }
+          ],
+          "uitleg": "Windrichtingen."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "يَقَعُ المَغْرِبُ في شَمالِ إِفْريقيا",
+          "vraag": "Waar ligt Marokko?",
+          "opties": [
+            "in Noord-Afrika",
+            "in Zuid-Europa",
+            "in West-Azië"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|شَمالُ إِفْريقيا}"
+        }
+      ]
+    },
+    {
+      "titel": "Diptoten",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "diptoten",
+          "vraag": "Welk woord is een diptoot?",
+          "opties": [
+            "مَساجِدُ",
+            "مَسْجِدٌ",
+            "مُدُنٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Patroon مَفاعِلُ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "diptoten",
+          "vraag": "'In scholen' (onbepaald) is ...",
+          "opties": [
+            "في مَدارِسَ",
+            "في مَدارِسٍ",
+            "في مَدارِسِ"
+          ],
+          "juist": 0,
+          "uitleg": "Diptoot: genitief -a zonder tanwīn."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "diptoten",
+          "vraag": "'In de scholen' (bepaald) is ...",
+          "opties": [
+            "في المَدارِسِ",
+            "في المَدارِسَ",
+            "في المَدارِسٍ"
+          ],
+          "juist": 0,
+          "uitleg": "Met ال: weer normaal -i."
+        },
+        {
+          "type": "invullen",
+          "tag": "diptoten",
+          "zin": "سافَرْتُ إِلى ___.",
+          "nl": "Ik reisde naar Londen.",
+          "woordbank": [
+            "لَنْدَنَ",
+            "لَنْدَنٍ",
+            "لَنْدَنِ"
+          ],
+          "antwoord": [
+            "لَنْدَنَ"
+          ],
+          "uitleg": "Buitenlandse naam: diptoot, genitief -a.",
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "diptoten",
+          "zin": "تَكَلَّمْتُ مَعَ ___.",
+          "nl": "Ik sprak met Fatima.",
+          "woordbank": [
+            "فاطِمَةَ",
+            "فاطِمَةٍ",
+            "فاطِمَةِ"
+          ],
+          "antwoord": [
+            "فاطِمَةَ"
+          ],
+          "uitleg": "Vrouwennaam: diptoot.",
+          "streng": true
+        }
+      ]
+    },
+    {
+      "titel": "Aardrijkskunde",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "woordenschat",
+          "nl": "Nederland ligt in West-Europa.",
+          "woorden": [
+            "تَقَعُ",
+            "هولَنْدا",
+            "في",
+            "غَرْبِ",
+            "أوروبّا."
+          ],
+          "uitleg": "{ar|تَقَعُ} (vrouwelijk land)."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "diptoten",
+          "instructie": "Zet het woord in de genitief na في (onbepaald, zonder ال).",
+          "rijen": [
+            {
+              "label": "مَنْطِقَةٌ (ev)",
+              "antwoord": "مَنْطِقَةٍ",
+              "tr": "manṭiqatin",
+              "eind": true
+            },
+            {
+              "label": "مَناطِقُ (mv)",
+              "antwoord": "مَناطِقَ",
+              "tr": "manāṭiqa",
+              "eind": true
+            },
+            {
+              "label": "أَحْمَرُ (rood)",
+              "antwoord": "أَحْمَرَ",
+              "tr": "aḥmara",
+              "eind": true
+            }
+          ],
+          "uitleg": "Triptoot -in; diptoot -a."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het zuiden",
+          "antwoorden": [
+            "الجَنوبُ"
+          ],
+          "uitleg": "{ar|الجَنوبُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "diptoten",
+          "bron": "في المَغْرِبِ مَساجِدُ تاريخِيَّةٌ كَثيرَةٌ.",
+          "antwoorden": [
+            "in marokko zijn veel historische moskeeën",
+            "marokko heeft veel historische moskeeën",
+            "er zijn veel historische moskeeën in marokko"
+          ],
+          "uitleg": "{ar|مَساجِدُ}: diptoot."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُحافَظَةٌ",
+            "nl": "provincie"
+          },
+          {
+            "ar": "صَحارى",
+            "nl": "woestijnen"
+          },
+          {
+            "ar": "تاريخِيٌّ",
+            "nl": "historisch"
+          },
+          {
+            "ar": "سِياحِيٌّ",
+            "nl": "toeristisch"
+          },
+          {
+            "ar": "يَقَعُ",
+            "nl": "ligt"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Wat is kenmerkend voor een diptoot?",
+        "opties": [
+          "geen tanwīn, genitief op -a",
+          "altijd met ال",
+          "geen meervoud"
+        ],
+        "juist": 0,
+        "uitleg": "Twee uitgangen: -u en -a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Welk woord is GEEN diptoot?",
+        "opties": [
+          "كِتابٌ",
+          "أَكْبَرُ",
+          "صَحْراءُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كِتابٌ} heeft tanwīn."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "Welke vorm is juist? ('van Ibrahim')",
+        "opties": [
+          "مِنْ إِبْراهيمَ",
+          "مِنْ إِبْراهيمٍ",
+          "مِنْ إِبْراهيمِ"
+        ],
+        "juist": 0,
+        "uitleg": "Buitenlandse naam: genitief -a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "'Rode auto's' ... Wat klopt voor {ar|أَحْمَرُ}?",
+        "opties": [
+          "Het is een diptoot (patroon أَفْعَلُ).",
+          "Het krijgt altijd tanwīn.",
+          "Het heeft geen vrouwelijke vorm."
+        ],
+        "juist": 0,
+        "uitleg": "Kleuren op أَفْعَلُ zijn diptoten."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "تَقَعُ هولَنْدا في غَرْبِ أوروبّا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Nederland ligt in West-Europa.",
+          "Nederland ligt in Oost-Europa.",
+          "Nederland is een eiland."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غَرْبُ} = westen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "diptoten",
+        "tekst": "زُرْنا مَساجِدَ كَثيرَةً",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We bezochten veel moskeeën.",
+          "We bezochten één moskee.",
+          "We zagen geen moskeeën."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَساجِدَ}: diptoot, accusatief."
+      },
+      {
+        "type": "invullen",
+        "tag": "diptoten",
+        "zin": "دَرَسْتُ في ___ مُخْتَلِفَةٍ.",
+        "nl": "Ik heb op verschillende scholen gezeten.",
+        "woordbank": [
+          "مَدارِسَ",
+          "مَدارِسٍ",
+          "مَدْرَسَةٍ"
+        ],
+        "antwoord": [
+          "مَدارِسَ"
+        ],
+        "uitleg": "Diptoot na voorzetsel: -a.",
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تونِسُ في ___ إِفْريقيا.",
+        "nl": "Tunesië ligt in het noorden van Afrika.",
+        "woordbank": [
+          "شَمالِ",
+          "جَنوبِ",
+          "شَرْقِ"
+        ],
+        "antwoord": [
+          "شَمالِ"
+        ],
+        "uitleg": "{ar|شَمالُ} = noorden."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "diptoten",
+        "instructie": "Genitief onbepaald (na مِنْ).",
+        "rijen": [
+          {
+            "label": "صَحْراءُ",
+            "antwoord": "صَحْراءَ",
+            "tr": "ṣaḥrāʾa",
+            "eind": true
+          },
+          {
+            "label": "مَدينَةٌ",
+            "antwoord": "مَدينَةٍ",
+            "tr": "madīnatin",
+            "eind": true
+          }
+        ],
+        "uitleg": "Diptoot -a · triptoot -in."
+      },
+      {
+        "type": "ordenen",
+        "tag": "woordenschat",
+        "nl": "Marokko ligt in Noord-Afrika.",
+        "woorden": [
+          "يَقَعُ",
+          "المَغْرِبُ",
+          "في",
+          "شَمالِ",
+          "إِفْريقيا."
+        ],
+        "uitleg": "{ar|يَقَعُ} + plaats."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het eiland",
+        "antwoorden": [
+          "الجَزيرَةُ"
+        ],
+        "uitleg": "{ar|الجَزيرَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "diptoten",
+        "bron": "في مَناطِقَ كَثيرَةٍ",
+        "antwoorden": [
+          "in veel gebieden",
+          "in veel regio's"
+        ],
+        "uitleg": "{ar|مَناطِقَ}: diptoot."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "مِصْرُ دَوْلَةٌ في شَمالِ إِفْريقيا.",
+        "antwoorden": [
+          "egypte is een land in noord-afrika",
+          "egypte is een staat in noord-afrika",
+          "egypte is een land in noord afrika"
+        ],
+        "uitleg": "Nominale zin."
+      }
+    ]
+  }
+}

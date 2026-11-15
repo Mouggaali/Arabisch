@@ -1,0 +1,157 @@
+{
+  "id": "j1-p3-l35",
+  "code": "L35",
+  "type": "les",
+  "titel": "Kalender en verjaardag",
+  "thema": "Volgordes, data en verjaardagen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de rangtelwoorden van 1 tot en met 10 noemen, mannelijk en vrouwelijk.",
+    "het patroon فاعِل herkennen waarmee rangtelwoorden gevormd worden.",
+    "een datum noemen: في الخامِسِ مِنْ مايو.",
+    "iemand feliciteren met zijn of haar verjaardag."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l35-w01", "ar": "الأَوَّلُ", "tr": "al-awwal", "nl": ["de eerste (m)"], "soort": "rangtelwoord", "notitie": "Vrouwelijk: {ar|الأولى} (*al-ūlā*)." },
+    { "id": "j1-p3-l35-w02", "ar": "الأولى", "tr": "al-ūlā", "nl": ["de eerste (v)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w03", "ar": "الثّاني", "tr": "aṯ-ṯānī", "nl": ["de tweede (m)"], "soort": "rangtelwoord", "notitie": "Vrouwelijk: {ar|الثّانِيَةُ}." },
+    { "id": "j1-p3-l35-w04", "ar": "الثّالِثُ", "tr": "aṯ-ṯāliṯ", "nl": ["de derde (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w05", "ar": "الرّابِعُ", "tr": "ar-rābiʿ", "nl": ["de vierde (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w06", "ar": "الخامِسُ", "tr": "al-ḫāmis", "nl": ["de vijfde (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w07", "ar": "السّادِسُ", "tr": "as-sādis", "nl": ["de zesde (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w08", "ar": "السّابِعُ", "tr": "as-sābiʿ", "nl": ["de zevende (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w09", "ar": "الثّامِنُ", "tr": "aṯ-ṯāmin", "nl": ["de achtste (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w10", "ar": "التّاسِعُ", "tr": "at-tāsiʿ", "nl": ["de negende (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w11", "ar": "العاشِرُ", "tr": "al-ʿāšir", "nl": ["de tiende (m)"], "soort": "rangtelwoord" },
+    { "id": "j1-p3-l35-w12", "ar": "الأَخيرُ", "tr": "al-aḫīr", "nl": ["de laatste"], "soort": "bijvoeglijk naamwoord", "notitie": "Vrouwelijk: {ar|الأَخيرَةُ}." },
+    { "id": "j1-p3-l35-w13", "ar": "مَرَّةٌ", "tr": "marra", "nl": ["keer", "maal"], "soort": "zelfstandig naamwoord", "notitie": "{ar|المَرَّةُ الأولى} = de eerste keer." },
+    { "id": "j1-p3-l35-w14", "ar": "عيدُ ميلادٍ", "tr": "ʿīdu mīlād", "nl": ["verjaardag"], "soort": "iḍāfa", "notitie": "Letterlijk: feest van een geboorte." },
+    { "id": "j1-p3-l35-w15", "ar": "عيدُ ميلادٍ سَعيدٌ!", "tr": "ʿīdu mīlādin saʿīd!", "nl": ["gefeliciteerd met je verjaardag!"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l35-w16", "ar": "كَعْكَةٌ", "tr": "kaʿka", "nl": ["taart", "cake"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l35-w17", "ar": "شَمْعَةٌ", "tr": "šamʿa", "nl": ["kaars"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p3-l35-w18", "ar": "يَحْتَفِلُ بِـ", "tr": "yaḥtafilu bi-", "nl": ["vieren"], "soort": "werkwoord", "notitie": "Vaste vorm (vorm VIII). Wij vieren: {ar|نَحْتَفِلُ}." },
+    { "id": "j1-p3-l35-w19", "ar": "وُلِدَ", "tr": "wulida", "nl": ["hij werd geboren"], "soort": "werkwoord", "notitie": "Ik werd geboren: {ar|وُلِدْتُ}. Een lijdende vorm (les 97)." },
+    { "id": "j1-p3-l35-w20", "ar": "مُناسَبَةٌ", "tr": "munāsaba", "nl": ["gelegenheid", "feestelijke gebeurtenis"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "Rangtelwoorden 1–10",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Rangtelwoorden (*eerste, tweede ...*) maak je van 3 tot en met 10 met het patroon **فاعِل** (*fāʿil*): de drie medeklinkers van het getal in de mal *fā-i*. {ar|ثَلاثَة} (ṯ-l-ṯ) → {ar|ثالِث}, {ar|خَمْسَة} (ḫ-m-s) → {ar|خامِس}.",
+          "*Eerste* en *tweede* zijn onregelmatig: {ar|أَوَّل} / {ar|أولى}, {ar|ثانٍ} / {ar|ثانِيَة}. Vrouwelijk krijgt ة."
+        ] },
+        { "type": "tabel", "kop": ["Getal", "Mannelijk", "Vrouwelijk"], "arKolommen": [1, 2], "rijen": [
+          ["1", "الأَوَّلُ|al-awwal", "الأولى|al-ūlā"],
+          ["2", "الثّاني|aṯ-ṯānī", "الثّانِيَةُ|aṯ-ṯāniya"],
+          ["3", "الثّالِثُ|aṯ-ṯāliṯ", "الثّالِثَةُ|aṯ-ṯāliṯa"],
+          ["4", "الرّابِعُ|ar-rābiʿ", "الرّابِعَةُ|ar-rābiʿa"],
+          ["5", "الخامِسُ|al-ḫāmis", "الخامِسَةُ|al-ḫāmisa"],
+          ["6", "السّادِسُ|as-sādis", "السّادِسَةُ|as-sādisa"],
+          ["7", "السّابِعُ|as-sābiʿ", "السّابِعَةُ|as-sābiʿa"],
+          ["8", "الثّامِنُ|aṯ-ṯāmin", "الثّامِنَةُ|aṯ-ṯāmina"],
+          ["9", "التّاسِعُ|at-tāsiʿ", "التّاسِعَةُ|at-tāsiʿa"],
+          ["10", "العاشِرُ|al-ʿāšir", "العاشِرَةُ|al-ʿāšira"]
+        ] },
+        { "type": "waarom", "md": "Je kent de vrouwelijke vormen al van de klok (les 23): {ar|السّاعَةُ الثّالِثَةُ} = *het derde uur*. Rangtelwoorden zijn bijvoeglijke naamwoorden: ze staan achter het zelfstandig naamwoord en congrueren ermee: {ar|الدَّرْسُ الثّالِثُ}, {ar|الصَّفْحَةُ الخامِسَةُ}. Bij 6 komt {ar|سادِس} niet van {ar|سِتَّة} maar van een oudere vorm met d." },
+        { "type": "letop", "md": "{ar|الثّاني} eindigt op een lange ī en krijgt geen naamvalsklinker zichtbaar: {ar|في الطّابِقِ الثّاني} (op de tweede verdieping)." }
+      ]
+    },
+    {
+      "titel": "Data en verjaardagen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een datum zeg je met het **rangtelwoord** van de dag + {ar|مِنْ} + maand: {ar|الخامِسُ مِنْ مايو} (*5 mei*, letterlijk: de vijfde van mei). *Op 5 mei* is {ar|في الخامِسِ مِنْ مايو}. In geschreven tekst zie je vaak gewoon cijfers: ٥ مايو."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "وُلِدْتُ في العاشِرِ مِنْ أُكْتوبَرَ.", "tr": "wulidtu fi l-ʿāširi min uktūbar.", "nl": "Ik ben geboren op 10 oktober.", "review": { "status": "onzeker", "note": "Naamval van de maandnaam na مِنْ (أُكْتوبَرَ als diptoot) bevestigen." } },
+          { "ar": "هٰذِهِ المَرَّةُ الأولى في المَغْرِبِ.", "tr": "hāḏihi l-marratu l-ūlā fi l-Maġrib.", "nl": "Dit is de eerste keer in Marokko." },
+          { "ar": "عيدُ ميلادٍ سَعيدٌ يا سارَةُ!", "tr": "ʿīdu mīlādin saʿīdun yā Sāra!", "nl": "Gefeliciteerd met je verjaardag, Sara!" },
+          { "ar": "نَحْتَفِلُ بِعيدِ ميلادِ أُمّي يَوْمَ السَّبْتِ.", "tr": "naḥtafilu bi-ʿīdi mīlādi ummī yawma s-sabt.", "nl": "We vieren zaterdag de verjaardag van mijn moeder." },
+          { "ar": "أَسْكُنُ في الشَّقَّةِ الرّابِعَةِ.", "tr": "askunu fi š-šaqqati r-rābiʿa.", "nl": "Ik woon in het vierde appartement." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Rangtelwoorden",
+      "items": [
+        { "type": "koppelen", "tag": "rangtelwoorden", "paren": [
+          { "ar": "الأَوَّلُ", "nl": "de eerste", "woord": "j1-p3-l35-w01" },
+          { "ar": "الثّالِثُ", "nl": "de derde", "woord": "j1-p3-l35-w04" },
+          { "ar": "الخامِسُ", "nl": "de vijfde", "woord": "j1-p3-l35-w06" },
+          { "ar": "السّابِعُ", "nl": "de zevende", "woord": "j1-p3-l35-w08" },
+          { "ar": "التّاسِعُ", "nl": "de negende", "woord": "j1-p3-l35-w10" },
+          { "ar": "العاشِرُ", "nl": "de tiende", "woord": "j1-p3-l35-w11" }
+        ], "uitleg": "Patroon فاعِل." },
+        { "type": "luisteren", "tag": "rangtelwoorden", "tekst": "الدَّرْسُ الرّابِعُ", "vraag": "Welke les?", "opties": ["de vierde les", "de veertiende les", "vier lessen"], "juist": 0, "uitleg": "{ar|الرّابِعُ} = de vierde." },
+        { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "Wat is 'de eerste' (v)?", "opties": ["الأولى", "الأَوَّلَةُ", "الواحِدَةُ"], "juist": 0, "uitleg": "Onregelmatig: {ar|الأولى}." }
+      ]
+    },
+    {
+      "titel": "Mannelijk of vrouwelijk",
+      "items": [
+        { "type": "vervoegen", "tag": "rangtelwoorden", "instructie": "Maak het rangtelwoord (met ال).",
+          "rijen": [
+            { "label": "الصَّفْحَةُ ... (de 5e pagina)", "antwoord": "الخامِسَةُ", "tr": "al-ḫāmisa" },
+            { "label": "الدَّرْسُ ... (de 6e les)", "antwoord": "السّادِسُ", "tr": "as-sādis" },
+            { "label": "الغُرْفَةُ ... (de 2e kamer)", "antwoord": "الثّانِيَةُ", "tr": "aṯ-ṯāniya" },
+            { "label": "اليَوْمُ ... (de 1e dag)", "antwoord": "الأَوَّلُ", "tr": "al-awwal" }
+          ], "uitleg": "Het rangtelwoord volgt het geslacht van het zelfstandig naamwoord." },
+        { "type": "invullen", "tag": "rangtelwoorden", "zin": "هٰذِهِ المَرَّةُ ___.", "nl": "Dit is de eerste keer.", "woordbank": ["الأولى", "الأَوَّلُ", "واحِدَةٌ"], "antwoord": ["الأولى"], "uitleg": "{ar|مَرَّةٌ} is vrouwelijk." },
+        { "type": "invullen", "tag": "datum", "zin": "وُلِدْتُ في ___ مِنْ يَنايِرَ.", "nl": "Ik ben geboren op 8 januari.", "woordbank": ["الثّامِنِ", "الثّامِنُ", "ثَمانِيَةٍ"], "antwoord": ["الثّامِنِ"], "uitleg": "Na {ar|في}: genitief." },
+        { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "Van welk woord komt {ar|سادِس}?", "opties": ["een oude vorm van zes (met d)", "zeven", "zestig"], "juist": 0, "uitleg": "Zie de grammatica." }
+      ]
+    },
+    {
+      "titel": "Verjaardag",
+      "items": [
+        { "type": "ordenen", "tag": "datum", "nl": "Ik ben geboren op 10 oktober.", "woorden": ["وُلِدْتُ", "في", "العاشِرِ", "مِنْ", "أُكْتوبَرَ."], "uitleg": "{ar|في} + rangtelwoord + {ar|مِنْ} + maand." },
+        { "type": "ordenen", "tag": "datum", "nl": "Gefeliciteerd met je verjaardag, Sara!", "woorden": ["عيدُ", "ميلادٍ", "سَعيدٌ", "يا", "سارَةُ!"], "uitleg": "Vaste wens." },
+        { "type": "luisteren", "tag": "datum", "tekst": "عيدُ ميلادي في الثّالِثِ مِنْ مارِسَ", "vraag": "Wanneer is de verjaardag?", "opties": ["3 maart", "13 maart", "3 mei"], "juist": 0, "uitleg": "{ar|الثّالِثِ مِنْ مارِسَ}" }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "rangtelwoorden", "bron": "de derde dag", "antwoorden": ["اليَوْمُ الثّالِثُ"], "uitleg": "{ar|اليَوْمُ الثّالِثُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "rangtelwoorden", "bron": "de laatste les", "antwoorden": ["الدَّرْسُ الأَخيرُ"], "uitleg": "{ar|الدَّرْسُ الأَخيرُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "rangtelwoorden", "bron": "الطّابِقُ السّابِعُ", "antwoorden": ["de zevende verdieping"], "uitleg": "Rangtelwoord achter het zelfstandig naamwoord." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "datum", "bron": "نَحْتَفِلُ بِعيدِ ميلادِهِ.", "antwoorden": ["we vieren zijn verjaardag", "wij vieren zijn verjaardag"], "uitleg": "{ar|ميلادِهِ} = zijn geboorte." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "rangtelwoorden", "paren": [
+        { "ar": "الثّاني", "nl": "de tweede" },
+        { "ar": "الرّابِعُ", "nl": "de vierde" },
+        { "ar": "الثّامِنُ", "nl": "de achtste" },
+        { "ar": "الأَخيرُ", "nl": "de laatste" }
+      ], "uitleg": "Herhaal de rangtelwoorden." },
+      { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "'De vijfde les' is ...", "opties": ["الدَّرْسُ الخامِسُ", "الدَّرْسُ الخامِسَةُ", "خَمْسَةُ الدُّروسِ"], "juist": 0, "uitleg": "Mannelijk." },
+      { "type": "meerkeuze", "tag": "rangtelwoorden", "vraag": "'De tweede verdieping' is ...", "opties": ["الطّابِقُ الثّاني", "الطّابِقُ الثّانِيَةُ", "الطّابِقُ الاِثْنانِ"], "juist": 0, "uitleg": "{ar|الثّاني}" },
+      { "type": "meerkeuze", "tag": "datum", "vraag": "Hoe zeg je '7 juli'?", "opties": ["السّابِعُ مِنْ يوليو", "سَبْعَةُ يوليو", "يوليو السّابِعُ"], "juist": 0, "uitleg": "Rangtelwoord + {ar|مِنْ} + maand." },
+      { "type": "luisteren", "tag": "rangtelwoorden", "tekst": "الصَّفْحَةُ التّاسِعَةُ", "vraag": "Welke pagina?", "opties": ["de negende pagina", "negen pagina's", "de negentiende pagina"], "juist": 0, "uitleg": "Vrouwelijk rangtelwoord." },
+      { "type": "luisteren", "tag": "datum", "tekst": "عيدُ ميلادٍ سَعيدٌ", "vraag": "Wat hoor je?", "opties": ["Gefeliciteerd met je verjaardag!", "Fijne feestdagen!", "Aangenaam!"], "juist": 0, "uitleg": "De verjaardagswens." },
+      { "type": "invullen", "tag": "rangtelwoorden", "zin": "السّاعَةُ ___.", "nl": "Het is drie uur.", "woordbank": ["الثّالِثَةُ", "الثّالِثُ"], "antwoord": ["الثّالِثَةُ"], "uitleg": "{ar|ساعَةٌ} is vrouwelijk." },
+      { "type": "invullen", "tag": "rangtelwoorden", "zin": "الدَّرْسُ ___ سَهْلٌ.", "nl": "De eerste les is makkelijk.", "antwoord": ["الأَوَّلُ"], "uitleg": "{ar|الأَوَّلُ}" },
+      { "type": "vervoegen", "tag": "rangtelwoorden", "instructie": "Vrouwelijke vorm van het rangtelwoord.",
+        "rijen": [
+          { "label": "الأَوَّلُ", "antwoord": "الأولى", "tr": "al-ūlā" },
+          { "label": "العاشِرُ", "antwoord": "العاشِرَةُ", "tr": "al-ʿāšira" }
+        ], "uitleg": "{ar|الأولى} · {ar|العاشِرَةُ}" },
+      { "type": "ordenen", "tag": "rangtelwoorden", "nl": "Dit is de eerste keer in Marokko.", "woorden": ["هٰذِهِ", "المَرَّةُ", "الأولى", "في", "المَغْرِبِ."], "uitleg": "Vrouwelijk vanwege {ar|مَرَّةٌ}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "rangtelwoorden", "bron": "de tiende", "antwoorden": ["العاشِرُ", "العاشِرَةُ"], "uitleg": "{ar|العاشِرُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "datum", "bron": "verjaardag", "antwoorden": ["عيدُ ميلادٍ", "عيدُ المِيلادِ"], "uitleg": "{ar|عيدُ ميلادٍ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "rangtelwoorden", "bron": "الغُرْفَةُ الأَخيرَةُ", "antwoorden": ["de laatste kamer"], "uitleg": "{ar|الأَخيرَةُ}: vrouwelijk." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "datum", "bron": "وُلِدَتْ في الخامِسِ مِنْ مايو.", "antwoorden": ["zij is op 5 mei geboren", "zij werd geboren op 5 mei", "ze is op 5 mei geboren", "zij is geboren op vijf mei"], "uitleg": "{ar|وُلِدَتْ} = zij werd geboren." }
+    ]
+  }
+}

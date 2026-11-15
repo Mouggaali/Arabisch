@@ -1,0 +1,711 @@
+{
+  "id": "j1-p4-l43",
+  "code": "L43",
+  "type": "les",
+  "titel": "Hotel en reisplannen",
+  "thema": "Een kamer reserveren en vertellen wat je op reis gaat doen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een hotelkamer reserveren en vragen stellen bij de receptie.",
+    "wensen uitdrukken met أُريدُ أَنْ en het beleefdere أَوَدُّ أَنْ.",
+    "reisplannen vertellen in de toekomende tijd (سَـ / سَوْفَ)."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l43-w01",
+      "ar": "فُنْدُقٌ",
+      "tr": "funduq",
+      "nl": [
+        "hotel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فَنادِقُ}."
+    },
+    {
+      "id": "j1-p4-l43-w02",
+      "ar": "حَجْزٌ",
+      "tr": "ḥajz",
+      "nl": [
+        "reservering"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w03",
+      "ar": "حَجَزَ",
+      "tr": "ḥajaza",
+      "nl": [
+        "reserveren (hij reserveerde)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَحْجِزُ}."
+    },
+    {
+      "id": "j1-p4-l43-w04",
+      "ar": "اِسْتِقْبالٌ",
+      "tr": "istiqbāl",
+      "nl": [
+        "receptie",
+        "ontvangst"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w05",
+      "ar": "جَوازُ السَّفَرِ",
+      "tr": "jawāzu s-safar",
+      "nl": [
+        "paspoort"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l43-w07",
+      "ar": "غُرْفَةٌ مُزْدَوِجَةٌ",
+      "tr": "ġurfatun muzdawija",
+      "nl": [
+        "tweepersoonskamer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l43-w08",
+      "ar": "غُرْفَةٌ فَرْدِيَّةٌ",
+      "tr": "ġurfatun fardiyya",
+      "nl": [
+        "eenpersoonskamer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l43-w09",
+      "ar": "مُتاحٌ",
+      "tr": "mutāḥ",
+      "nl": [
+        "beschikbaar",
+        "vrij"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w10",
+      "ar": "مُريحٌ",
+      "tr": "murīḥ",
+      "nl": [
+        "comfortabel"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w11",
+      "ar": "إِطْلالَةٌ عَلى البَحْرِ",
+      "tr": "iṭlālatun ʿala l-baḥr",
+      "nl": [
+        "uitzicht op zee"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l43-w12",
+      "ar": "خُطَّةٌ",
+      "tr": "ḫuṭṭa",
+      "nl": [
+        "plan"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w13",
+      "ar": "زارَ",
+      "tr": "zāra",
+      "nl": [
+        "bezoeken (hij bezocht)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَزورُ}."
+    },
+    {
+      "id": "j1-p4-l43-w15",
+      "ar": "سائِحٌ",
+      "tr": "sāʾiḥ",
+      "nl": [
+        "toerist"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|سُيّاحٌ}."
+    },
+    {
+      "id": "j1-p4-l43-w16",
+      "ar": "جَوْلَةٌ",
+      "tr": "jawla",
+      "nl": [
+        "rondleiding",
+        "tour"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w17",
+      "ar": "أَوَدُّ أَنْ",
+      "tr": "awaddu an",
+      "nl": [
+        "ik zou graag willen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l43-w18",
+      "ar": "إِقامَةٌ",
+      "tr": "iqāma",
+      "nl": [
+        "verblijf"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l43-w19",
+      "ar": "الأُسْبوعُ القادِمُ",
+      "tr": "al-usbūʿu l-qādim",
+      "nl": [
+        "volgende week"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j1-p4-l43-w20",
+      "ar": "مَفْتوحٌ",
+      "tr": "maftūḥ",
+      "nl": [
+        "open",
+        "geopend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Wensen: أُريدُ أَنْ en أَوَدُّ أَنْ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Na {ar|أُريدُ أَنْ} (*ik wil*) en {ar|أَوَدُّ أَنْ} (*ik zou graag willen*) volgt een muḍāriʿ. Die eindigt dan op **-a** in plaats van op -u: {ar|أَحْجِزُ} → {ar|أَنْ أَحْجِزَ}.",
+            "{ar|أَوَدُّ} is beleefder en past goed bij een receptie of een telefoongesprek. Waarom die -a? Dat is de aanvoegende wijs (*manṣūb*); in les 50 leer je alle regels. Onthoud nu: **na أَنْ eindigt het werkwoord op -a**."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Ik wil …",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أُريدُ أَنْ أَحْجِزَ غُرْفَةً.|urīdu an aḥjiza ġurfa.",
+              "Ik wil een kamer reserveren."
+            ],
+            [
+              "jij (m)",
+              "هَلْ تُريدُ أَنْ تَزورَ المُتْحَفَ؟|hal turīdu an tazūra l-mutḥaf?",
+              "Wil je het museum bezoeken?"
+            ],
+            [
+              "wij",
+              "نُريدُ أَنْ نُسافِرَ غَدًا.|nurīdu an nusāfira ġadan.",
+              "We willen morgen vertrekken."
+            ],
+            [
+              "ik (beleefd)",
+              "أَوَدُّ أَنْ أَسْأَلَ عَنِ السِّعْرِ.|awaddu an asʾala ʿani s-siʿr.",
+              "Ik zou graag naar de prijs vragen."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Plannen in de toekomende tijd",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "سَنُسافِرُ إِلى فاسَ الأُسْبوعَ القادِمَ.",
+              "tr": "sa-nusāfiru ilā Fāsa l-usbūʿa l-qādim.",
+              "nl": "Volgende week reizen we naar Fez."
+            },
+            {
+              "ar": "سَنَبْقى في الفُنْدُقِ ثَلاثَ لَيالٍ.",
+              "tr": "sa-nabqā fi l-funduqi ṯalāṯa layāl.",
+              "nl": "We blijven drie nachten in het hotel.",
+              "review": {
+                "status": "onzeker",
+                "note": "لَيالٍ (gebroken meervoud, defectief) en بَقِيَ zijn nieuw; controleren."
+              }
+            },
+            {
+              "ar": "في اليَوْمِ الثّاني سَنَزورُ المُتْحَفَ.",
+              "tr": "fi l-yawmi ṯ-ṯānī sa-nazūru l-mutḥaf.",
+              "nl": "Op de tweede dag bezoeken we het museum."
+            },
+            {
+              "ar": "أَوَدُّ أَنْ أَحْجِزَ غُرْفَةً مُزْدَوِجَةً بِإِطْلالَةٍ عَلى البَحْرِ.",
+              "tr": "awaddu an aḥjiza ġurfatan muzdawijatan bi-iṭlālatin ʿala l-baḥr.",
+              "nl": "Ik zou graag een tweepersoonskamer met uitzicht op zee reserveren."
+            },
+            {
+              "ar": "هَلْ عِنْدَكُمْ غُرْفَةٌ مُتاحَةٌ لِشَخْصَيْنِ؟",
+              "tr": "hal ʿindakum ġurfatun mutāḥatun li-šaḫṣayn?",
+              "nl": "Hebben jullie een kamer vrij voor twee personen?"
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "Toekomst met plan: {ar|سَـ} vast aan het werkwoord, of {ar|سَوْفَ} los ervoor. Na {ar|أُريدُ أَنْ} gebruik je **geen** {ar|سَـ}."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "فُنْدُقٌ",
+              "nl": "hotel",
+              "woord": "j1-p4-l43-w01"
+            },
+            {
+              "ar": "حَجْزٌ",
+              "nl": "reservering",
+              "woord": "j1-p4-l43-w02"
+            },
+            {
+              "ar": "جَوازُ السَّفَرِ",
+              "nl": "paspoort",
+              "woord": "j1-p4-l43-w05"
+            },
+            {
+              "ar": "مُتْحَفٌ",
+              "nl": "museum"
+            },
+            {
+              "ar": "سائِحٌ",
+              "nl": "toerist",
+              "woord": "j1-p4-l43-w15"
+            },
+            {
+              "ar": "خُطَّةٌ",
+              "nl": "plan",
+              "woord": "j1-p4-l43-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "hotel",
+          "tekst": "هَلْ عِنْدَكُمْ غُرْفَةٌ مُتاحَةٌ؟",
+          "vraag": "Wat vraagt de gast?",
+          "opties": [
+            "Of er een kamer vrij is.",
+            "Hoe laat het ontbijt is.",
+            "Waar de lift is."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُتاحَةٌ} = beschikbaar."
+        }
+      ]
+    },
+    {
+      "titel": "Wensen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "an-mudari",
+          "zin": "أُريدُ أَنْ ___ غُرْفَةً.",
+          "nl": "Ik wil een kamer reserveren.",
+          "woordbank": [
+            "أَحْجِزَ",
+            "أَحْجِزُ",
+            "حَجَزْتُ"
+          ],
+          "antwoord": [
+            "أَحْجِزَ"
+          ],
+          "uitleg": "Na {ar|أَنْ} eindigt het werkwoord op -a.",
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "an-mudari",
+          "zin": "نُريدُ أَنْ ___ المُتْحَفَ.",
+          "nl": "We willen het museum bezoeken.",
+          "woordbank": [
+            "نَزورَ",
+            "سَنَزورُ",
+            "زُرْنا"
+          ],
+          "antwoord": [
+            "نَزورَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: geen سَـ, eind op -a."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "an-mudari",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "أَوَدُّ أَنْ أَسْأَلَ سُؤالًا.",
+            "أَوَدُّ أَنْ سَأَسْأَلُ سُؤالًا.",
+            "أَوَدُّ أَسْأَلْتُ سُؤالًا."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَوَدُّ أَنْ} + muḍāriʿ op -a."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "an-mudari",
+          "instructie": "Maak de zin af: ... أُريدُ أَنْ (ik wil ...)",
+          "rijen": [
+            {
+              "label": "reizen",
+              "antwoord": "أُسافِرَ",
+              "tr": "usāfira"
+            },
+            {
+              "label": "schrijven",
+              "antwoord": "أَكْتُبَ",
+              "tr": "aktuba"
+            },
+            {
+              "label": "bezoeken",
+              "antwoord": "أَزورَ",
+              "tr": "azūra"
+            }
+          ],
+          "uitleg": "Ik-vorm van de muḍāriʿ, eindigend op -a."
+        },
+        {
+          "type": "ordenen",
+          "tag": "hotel",
+          "nl": "Hebben jullie een kamer vrij voor twee personen?",
+          "woorden": [
+            "هَلْ",
+            "عِنْدَكُمْ",
+            "غُرْفَةٌ",
+            "مُتاحَةٌ",
+            "لِشَخْصَيْنِ؟"
+          ],
+          "uitleg": "{ar|لِشَخْصَيْنِ} = voor twee personen."
+        }
+      ]
+    },
+    {
+      "titel": "Reisplannen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "toekomst",
+          "zin": "___ إِلى فاسَ الأُسْبوعَ القادِمَ.",
+          "nl": "Volgende week reizen we naar Fez.",
+          "woordbank": [
+            "سَنُسافِرُ",
+            "سافَرْنا",
+            "نُسافِرَ"
+          ],
+          "antwoord": [
+            "سَنُسافِرُ"
+          ],
+          "uitleg": "Toekomst: سَـ + muḍāriʿ."
+        },
+        {
+          "type": "ordenen",
+          "tag": "toekomst",
+          "nl": "Op de tweede dag bezoeken we het museum.",
+          "woorden": [
+            "في",
+            "اليَوْمِ",
+            "الثّاني",
+            "سَنَزورُ",
+            "المُتْحَفَ."
+          ],
+          "uitleg": "Tijdsbepaling vooraan."
+        },
+        {
+          "type": "luisteren",
+          "tag": "toekomst",
+          "tekst": "سَوْفَ نَحْجِزُ الفُنْدُقَ غَدًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "We zullen morgen het hotel reserveren.",
+            "We hebben gisteren het hotel gereserveerd.",
+            "We willen niet in het hotel slapen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَوْفَ} = toekomst."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "an-mudari",
+          "bron": "Ik wil reizen.",
+          "antwoorden": [
+            "أُريدُ أَنْ أُسافِرَ"
+          ],
+          "uitleg": "{ar|أُريدُ أَنْ أُسافِرَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het hotel",
+          "antwoorden": [
+            "الفُنْدُقُ"
+          ],
+          "uitleg": "{ar|الفُنْدُقُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hotel",
+          "bron": "الغُرْفَةُ مُريحَةٌ.",
+          "antwoorden": [
+            "de kamer is comfortabel",
+            "de kamer is gerieflijk"
+          ],
+          "uitleg": "Nominale zin."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "toekomst",
+          "bron": "سَأَزورُ صَديقي في القاهِرَةِ.",
+          "antwoorden": [
+            "ik zal mijn vriend in caïro bezoeken",
+            "ik ga mijn vriend in caïro bezoeken",
+            "ik zal mijn vriend in cairo bezoeken",
+            "ik ga mijn vriend in cairo bezoeken"
+          ],
+          "uitleg": "سَـ + muḍāriʿ."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "اِسْتِقْبالٌ",
+            "nl": "receptie"
+          },
+          {
+            "ar": "شَخْصٌ",
+            "nl": "persoon"
+          },
+          {
+            "ar": "جَوْلَةٌ",
+            "nl": "rondleiding"
+          },
+          {
+            "ar": "إِقامَةٌ",
+            "nl": "verblijf"
+          },
+          {
+            "ar": "مَفْتوحٌ",
+            "nl": "open"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-mudari",
+        "vraag": "'Ik wil slapen' is ...",
+        "opties": [
+          "أُريدُ أَنْ أَنامَ.",
+          "أُريدُ أَنْ أَنامُ.",
+          "أُريدُ سَأَنامُ."
+        ],
+        "juist": 0,
+        "uitleg": "Na {ar|أَنْ}: -a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "an-mudari",
+        "vraag": "Welke uitdrukking is het beleefdst?",
+        "opties": [
+          "أَوَدُّ أَنْ ...",
+          "أُريدُ ...",
+          "أَعْطِني ..."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَوَدُّ أَنْ} = ik zou graag willen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hotel",
+        "vraag": "Een kamer voor één persoon heet ...",
+        "opties": [
+          "غُرْفَةٌ فَرْدِيَّةٌ",
+          "غُرْفَةٌ مُزْدَوِجَةٌ",
+          "غُرْفَةُ الاِسْتِقْبالِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَرْدِيَّةٌ} = eenpersoons."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hotel",
+        "tekst": "أَوَدُّ أَنْ أَحْجِزَ غُرْفَةً",
+        "vraag": "Wat wil de gast?",
+        "opties": [
+          "een kamer reserveren",
+          "een kamer bekijken",
+          "de kamer betalen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَحْجِزَ} = reserveren."
+      },
+      {
+        "type": "luisteren",
+        "tag": "toekomst",
+        "tekst": "سَنَزورُ المُتْحَفَ غَدًا",
+        "vraag": "Wanneer gaan ze naar het museum?",
+        "opties": [
+          "morgen",
+          "gisteren",
+          "vandaag"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غَدًا} = morgen."
+      },
+      {
+        "type": "invullen",
+        "tag": "an-mudari",
+        "zin": "هَلْ تُريدُ أَنْ ___ مَعَنا؟",
+        "nl": "Wil je met ons meegaan?",
+        "woordbank": [
+          "تَذْهَبَ",
+          "تَذْهَبُ",
+          "ذَهَبْتَ"
+        ],
+        "antwoord": [
+          "تَذْهَبَ"
+        ],
+        "uitleg": "Na {ar|أَنْ}: -a.",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "مِنْ فَضْلِكَ، أَعْطِني ___.",
+        "nl": "Geef me alstublieft het paspoort.",
+        "woordbank": [
+          "جَوازَ السَّفَرِ",
+          "المُتْحَفَ",
+          "الجَوْلَةَ"
+        ],
+        "antwoord": [
+          "جَوازَ السَّفَرِ"
+        ],
+        "uitleg": "{ar|جَوازُ السَّفَرِ} = paspoort."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "an-mudari",
+        "instructie": "Maak de zin af: ... نُريدُ أَنْ (wij willen ...)",
+        "rijen": [
+          {
+            "label": "reizen",
+            "antwoord": "نُسافِرَ",
+            "tr": "nusāfira"
+          },
+          {
+            "label": "bezoeken",
+            "antwoord": "نَزورَ",
+            "tr": "nazūra"
+          }
+        ],
+        "uitleg": "Wij-vorm op -a."
+      },
+      {
+        "type": "ordenen",
+        "tag": "toekomst",
+        "nl": "Volgende week reizen we naar Fez.",
+        "woorden": [
+          "سَنُسافِرُ",
+          "إِلى",
+          "فاسَ",
+          "الأُسْبوعَ",
+          "القادِمَ."
+        ],
+        "uitleg": "Toekomst + tijdsbepaling."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "hotel",
+        "bron": "een tweepersoonskamer",
+        "antwoorden": [
+          "غُرْفَةٌ مُزْدَوِجَةٌ"
+        ],
+        "uitleg": "{ar|غُرْفَةٌ مُزْدَوِجَةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "toekomst",
+        "bron": "We zullen het museum bezoeken.",
+        "antwoorden": [
+          "سَنَزورُ المُتْحَفَ",
+          "سَوْفَ نَزورُ المُتْحَفَ"
+        ],
+        "uitleg": "{ar|سَنَزورُ المُتْحَفَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "an-mudari",
+        "bron": "أَوَدُّ أَنْ أَحْجِزَ غُرْفَةً لِلَيْلَتَيْنِ.",
+        "antwoorden": [
+          "ik zou graag een kamer voor twee nachten reserveren",
+          "ik wil graag een kamer voor twee nachten reserveren",
+          "ik wil een kamer voor twee nachten reserveren"
+        ],
+        "uitleg": "{ar|لِلَيْلَتَيْنِ} = voor twee nachten."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hotel",
+        "bron": "المُتْحَفُ مَفْتوحٌ كُلَّ يَوْمٍ.",
+        "antwoorden": [
+          "het museum is elke dag open",
+          "het museum is iedere dag open",
+          "het museum is dagelijks open"
+        ],
+        "uitleg": "{ar|مَفْتوحٌ} = open."
+      }
+    ]
+  }
+}

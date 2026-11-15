@@ -1,0 +1,665 @@
+{
+  "id": "j2-p6-l68",
+  "code": "L68",
+  "type": "les",
+  "titel": "Stad en voorzieningen",
+  "thema": "Wat een stad te bieden heeft; congruentie volledig",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "bijvoeglijke naamwoorden laten congrueren met mensen en met dingen in het meervoud.",
+    "het werkwoord laten congrueren vóór en ná het onderwerp.",
+    "de voorzieningen van een stad beschrijven."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l68-w01",
+      "ar": "مَرافِقُ",
+      "tr": "marāfiq",
+      "nl": [
+        "voorzieningen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Diptoot. {ar|المَرافِقُ العامَّةُ} = openbare voorzieningen."
+    },
+    {
+      "id": "j2-p6-l68-w02",
+      "ar": "خَدَماتٌ",
+      "tr": "ḫadamāt",
+      "nl": [
+        "diensten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|خِدْمَةٌ}."
+    },
+    {
+      "id": "j2-p6-l68-w03",
+      "ar": "حَدائِقُ",
+      "tr": "ḥadāʾiq",
+      "nl": [
+        "parken",
+        "tuinen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Diptoot. Enkelvoud: {ar|حَديقَةٌ}."
+    },
+    {
+      "id": "j2-p6-l68-w04",
+      "ar": "مَتاجِرُ",
+      "tr": "matājir",
+      "nl": [
+        "winkels"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Diptoot. Enkelvoud: {ar|مَتْجَرٌ}."
+    },
+    {
+      "id": "j2-p6-l68-w05",
+      "ar": "مَوْقِفُ السَّيّاراتِ",
+      "tr": "mawqifu s-sayyārāt",
+      "nl": [
+        "parkeerplaats"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l68-w06",
+      "ar": "النَّقْلُ العامُّ",
+      "tr": "an-naqlu l-ʿāmm",
+      "nl": [
+        "het openbaar vervoer"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l68-w07",
+      "ar": "عامٌّ",
+      "tr": "ʿāmm",
+      "nl": [
+        "openbaar",
+        "algemeen"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l68-w08",
+      "ar": "خاصٌّ",
+      "tr": "ḫāṣṣ",
+      "nl": [
+        "privé",
+        "speciaal"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l68-w10",
+      "ar": "مُتَوَفِّرٌ",
+      "tr": "mutawaffir",
+      "nl": [
+        "beschikbaar",
+        "aanwezig"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p6-l68-w11",
+      "ar": "مَلْعَبُ كُرَةِ القَدَمِ",
+      "tr": "malʿabu kurati l-qadam",
+      "nl": [
+        "voetbalveld"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l68-w13",
+      "ar": "مَرْكَزٌ ثَقافِيٌّ",
+      "tr": "markazun ṯaqāfiyy",
+      "nl": [
+        "cultureel centrum"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l68-w14",
+      "ar": "سُكّانُ المَدينَةِ",
+      "tr": "sukkānu l-madīna",
+      "nl": [
+        "de inwoners van de stad"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l68-w15",
+      "ar": "راضٍ عَنْ",
+      "tr": "rāḍin ʿan",
+      "nl": [
+        "tevreden over"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Met lidwoord: {ar|الرّاضي}; meervoud {ar|راضونَ}."
+    },
+    {
+      "id": "j2-p6-l68-w16",
+      "ar": "شَكا مِنْ",
+      "tr": "šakā min",
+      "nl": [
+        "klagen over"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Defectief: {ar|يَشْكو}. Zie les 70."
+    },
+    {
+      "id": "j2-p6-l68-w17",
+      "ar": "نَظافَةٌ",
+      "tr": "naẓāfa",
+      "nl": [
+        "schoonheid (netheid)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l68-w18",
+      "ar": "بِنْيَةٌ تَحْتِيَّةٌ",
+      "tr": "binyatun taḥtiyya",
+      "nl": [
+        "infrastructuur"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Congruentie: mensen of dingen?",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Mensen",
+            "Dingen / dieren"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "mannelijk mv",
+              "الطُّلّابُ المُجْتَهِدونَ",
+              "الكُتُبُ الجَديدَةُ"
+            ],
+            [
+              "vrouwelijk mv",
+              "الطّالِباتُ المُجْتَهِداتُ",
+              "السَّيّاراتُ الجَديدَةُ"
+            ],
+            [
+              "gezegde",
+              "المُعَلِّمونَ راضونَ",
+              "الحَدائِقُ نَظيفَةٌ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij **mensen** congrueert alles in getal en geslacht. Bij **dingen en dieren** in het meervoud gebruik je altijd het **vrouwelijk enkelvoud**: het Arabisch behandelt een groep dingen als één verzameling. (Bij menselijke gebroken meervouden mag ook een gebroken meervoud als bijvoeglijk naamwoord: {ar|رِجالٌ كِبارٌ}.)"
+        }
+      ]
+    },
+    {
+      "titel": "Het werkwoord vóór of ná het onderwerp",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Werkwoord vóór",
+            "Werkwoord ná"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "mannen",
+              "وَصَلَ الضُّيوفُ",
+              "الضُّيوفُ وَصَلوا"
+            ],
+            [
+              "vrouwen",
+              "وَصَلَتِ الطّالِباتُ",
+              "الطّالِباتُ وَصَلْنَ"
+            ],
+            [
+              "dingen",
+              "وَصَلَتِ الرَّسائِلُ",
+              "الرَّسائِلُ وَصَلَتْ"
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "**Vóór** het onderwerp: het werkwoord is altijd **enkelvoud**, maar volgt het **geslacht** ({ar|وَصَلَتِ الطّالِباتُ}). **Ná** het onderwerp: volledige congruentie bij mensen, vrouwelijk enkelvoud bij dingen."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في مَدينَتِنا حَدائِقُ كَبيرَةٌ وَمَتاجِرُ حَديثَةٌ.",
+              "tr": "fī madīnatinā ḥadāʾiqu kabīratun wa-matājiru ḥadīṯa.",
+              "nl": "In onze stad zijn grote parken en moderne winkels."
+            },
+            {
+              "ar": "سُكّانُ المَدينَةِ راضونَ عَنِ النَّقْلِ العامِّ.",
+              "tr": "sukkānu l-madīnati rāḍūna ʿani n-naqli l-ʿāmm.",
+              "nl": "De inwoners van de stad zijn tevreden over het openbaar vervoer."
+            },
+            {
+              "ar": "فَتَحَتِ البَلَدِيَّةُ مَسابِحَ جَديدَةً هٰذا العامَ.",
+              "tr": "fataḥati l-baladiyyatu masābiḥa jadīdatan hāḏa l-ʿām.",
+              "nl": "De gemeente heeft dit jaar nieuwe zwembaden geopend."
+            },
+            {
+              "ar": "الطّالِباتُ المُجْتَهِداتُ نَجَحْنَ في الاِمْتِحانِ.",
+              "tr": "aṭ-ṭālibātu l-mujtahidātu najaḥna fi l-imtiḥān.",
+              "nl": "De ijverige studentes zijn geslaagd voor het examen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَرافِقُ",
+              "nl": "voorzieningen",
+              "woord": "j2-p6-l68-w01"
+            },
+            {
+              "ar": "حَدائِقُ",
+              "nl": "parken",
+              "woord": "j2-p6-l68-w03"
+            },
+            {
+              "ar": "مَتاجِرُ",
+              "nl": "winkels",
+              "woord": "j2-p6-l68-w04"
+            },
+            {
+              "ar": "مَسْبَحٌ",
+              "nl": "zwembad"
+            },
+            {
+              "ar": "عامٌّ",
+              "nl": "openbaar",
+              "woord": "j2-p6-l68-w07"
+            },
+            {
+              "ar": "خاصٌّ",
+              "nl": "privé",
+              "woord": "j2-p6-l68-w08"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "congruentie",
+          "tekst": "الطّالِباتُ نَجَحْنَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De studentes zijn geslaagd.",
+            "De studenten (m) zijn geslaagd.",
+            "De studente is geslaagd."
+          ],
+          "juist": 0,
+          "uitleg": "ـْنَ = zij (v mv), na het onderwerp."
+        }
+      ]
+    },
+    {
+      "titel": "Congruentie",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "congruentie",
+          "zin": "المُهَنْدِسونَ ___.",
+          "nl": "De ingenieurs zijn tevreden.",
+          "woordbank": [
+            "راضونَ",
+            "راضِيَةٌ",
+            "راضٍ"
+          ],
+          "antwoord": [
+            "راضونَ"
+          ],
+          "uitleg": "Mensen → meervoud."
+        },
+        {
+          "type": "invullen",
+          "tag": "congruentie",
+          "zin": "المَتاجِرُ ___ حَتّى العاشِرَةِ.",
+          "nl": "De winkels zijn open tot tien uur.",
+          "woordbank": [
+            "مَفْتوحَةٌ",
+            "مَفْتوحونَ",
+            "مَفْتوحاتٌ"
+          ],
+          "antwoord": [
+            "مَفْتوحَةٌ"
+          ],
+          "uitleg": "Dingen → vrouwelijk enkelvoud."
+        },
+        {
+          "type": "invullen",
+          "tag": "congruentie",
+          "zin": "___ الطّالِباتُ مُبَكِّرًا.",
+          "nl": "De studentes kwamen vroeg aan.",
+          "woordbank": [
+            "وَصَلَتِ",
+            "وَصَلْنَ",
+            "وَصَلَ"
+          ],
+          "antwoord": [
+            "وَصَلَتِ",
+            "وَصَلَتْ"
+          ],
+          "uitleg": "Werkwoord vóór → enkelvoud, vrouwelijk."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "congruentie",
+          "vraag": "Welke zin is juist? (De gasten zijn aangekomen.)",
+          "opties": [
+            "الضُّيوفُ وَصَلوا.",
+            "الضُّيوفُ وَصَلَ.",
+            "الضُّيوفُ وَصَلَتْ."
+          ],
+          "juist": 0,
+          "uitleg": "Onderwerp vooraan, mensen → volledige congruentie."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "congruentie",
+          "instructie": "Maak het bijvoeglijk naamwoord passend (met lidwoord).",
+          "rijen": [
+            {
+              "label": "المُهَنْدِسونَ ___ (مُجْتَهِدٌ)",
+              "antwoord": "المُجْتَهِدونَ",
+              "tr": "al-mujtahidūn"
+            },
+            {
+              "label": "المُعَلِّماتُ ___ (جَديدٌ)",
+              "antwoord": "الجَديداتُ",
+              "tr": "al-jadīdāt"
+            },
+            {
+              "label": "الحَدائِقُ ___ (جَديدٌ)",
+              "antwoord": "الجَديدَةُ",
+              "tr": "al-jadīda"
+            }
+          ],
+          "uitleg": "Mensen: meervoud; dingen: vrouwelijk enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "Mijn stad",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "congruentie",
+          "nl": "In onze stad zijn grote parken en moderne winkels.",
+          "woorden": [
+            "في",
+            "مَدينَتِنا",
+            "حَدائِقُ",
+            "كَبيرَةٌ",
+            "وَمَتاجِرُ",
+            "حَديثَةٌ."
+          ],
+          "uitleg": "Dingen → vrouwelijk enkelvoud."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "النَّقْلُ العامُّ مُمْتازٌ هُنا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Het openbaar vervoer is hier uitstekend.",
+            "Er is hier geen openbaar vervoer.",
+            "Het openbaar vervoer is duur."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|النَّقْلُ العامُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "congruentie",
+          "bron": "De straten zijn schoon.",
+          "antwoorden": [
+            "الشَّوارِعُ نَظيفَةٌ"
+          ],
+          "uitleg": "Dingen → vrouwelijk enkelvoud."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "congruentie",
+          "bron": "سُكّانُ المَدينَةِ راضونَ عَنِ الخَدَماتِ.",
+          "antwoorden": [
+            "de inwoners van de stad zijn tevreden over de diensten",
+            "de stadsbewoners zijn tevreden over de diensten",
+            "de bewoners van de stad zijn tevreden over de diensten"
+          ],
+          "uitleg": "Mensen → {ar|راضونَ}."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "خَدَماتٌ",
+            "nl": "diensten"
+          },
+          {
+            "ar": "مُجْتَهِدٌ",
+            "nl": "ijverig"
+          },
+          {
+            "ar": "مُتَوَفِّرٌ",
+            "nl": "beschikbaar"
+          },
+          {
+            "ar": "نَظافَةٌ",
+            "nl": "netheid"
+          },
+          {
+            "ar": "بِنْيَةٌ تَحْتِيَّةٌ",
+            "nl": "infrastructuur"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "'De nieuwe auto's' is ...",
+        "opties": [
+          "السَّيّاراتُ الجَديدَةُ",
+          "السَّيّاراتُ الجَديداتُ",
+          "السَّيّاراتُ الجُدُدُ"
+        ],
+        "juist": 0,
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "'De ijverige studenten (m)' is ...",
+        "opties": [
+          "الطُّلّابُ المُجْتَهِدونَ",
+          "الطُّلّابُ المُجْتَهِدَةُ",
+          "الطُّلّابُ المُجْتَهِدُ"
+        ],
+        "juist": 0,
+        "uitleg": "Mensen → meervoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "حَضَرَتِ المُعَلِّماتُ.",
+          "حَضَرْنَ المُعَلِّماتُ.",
+          "حَضَرَ المُعَلِّماتُ."
+        ],
+        "juist": 0,
+        "uitleg": "Werkwoord vóór: enkelvoud, maar vrouwelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "congruentie",
+        "vraag": "'De brieven zijn aangekomen' (onderwerp vooraan) is ...",
+        "opties": [
+          "الرَّسائِلُ وَصَلَتْ.",
+          "الرَّسائِلُ وَصَلوا.",
+          "الرَّسائِلُ وَصَلْنَ."
+        ],
+        "juist": 0,
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "congruentie",
+        "tekst": "اللّاعِبونَ مُتْعَبونَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De spelers zijn moe.",
+          "De speler is moe.",
+          "De spelers zijn klaar."
+        ],
+        "juist": 0,
+        "uitleg": "Mensen → meervoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "في الحَيِّ مَسْبَحٌ وَمَرْكَزٌ ثَقافِيٌّ",
+        "vraag": "Wat is er in de wijk?",
+        "opties": [
+          "een zwembad en een cultureel centrum",
+          "een park en een winkel",
+          "een ziekenhuis en een school"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَسْبَحٌ} · {ar|مَرْكَزٌ ثَقافِيٌّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "congruentie",
+        "zin": "الحَدائِقُ في مَدينَتِنا ___.",
+        "nl": "De parken in onze stad zijn mooi.",
+        "woordbank": [
+          "جَميلَةٌ",
+          "جَميلونَ",
+          "جَميلاتٌ"
+        ],
+        "antwoord": [
+          "جَميلَةٌ"
+        ],
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "invullen",
+        "tag": "congruentie",
+        "zin": "المُمَرِّضاتُ ___ في المُسْتَشْفى.",
+        "nl": "De verpleegsters werken in het ziekenhuis.",
+        "woordbank": [
+          "يَعْمَلْنَ",
+          "تَعْمَلُ",
+          "يَعْمَلونَ"
+        ],
+        "antwoord": [
+          "يَعْمَلْنَ"
+        ],
+        "uitleg": "Mensen (v), werkwoord na het onderwerp → يَعْمَلْنَ."
+      },
+      {
+        "type": "invullen",
+        "tag": "congruentie",
+        "zin": "___ الوُزَراءُ أَمْسِ.",
+        "nl": "De ministers kwamen gisteren bijeen.",
+        "woordbank": [
+          "اِجْتَمَعَ",
+          "اِجْتَمَعوا",
+          "اِجْتَمَعَتْ"
+        ],
+        "antwoord": [
+          "اِجْتَمَعَ"
+        ],
+        "uitleg": "Werkwoord vóór → enkelvoud (m)."
+      },
+      {
+        "type": "ordenen",
+        "tag": "congruentie",
+        "nl": "De ijverige studentes zijn geslaagd voor het examen.",
+        "woorden": [
+          "الطّالِباتُ",
+          "المُجْتَهِداتُ",
+          "نَجَحْنَ",
+          "في",
+          "الاِمْتِحانِ."
+        ],
+        "uitleg": "Volledige congruentie na het onderwerp."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "congruentie",
+        "bron": "De winkels zijn duur.",
+        "antwoorden": [
+          "المَتاجِرُ غالِيَةٌ"
+        ],
+        "uitleg": "Dingen → vrouwelijk enkelvoud."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het openbaar vervoer",
+        "antwoorden": [
+          "النَّقْلُ العامُّ"
+        ],
+        "uitleg": "{ar|النَّقْلُ العامُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "congruentie",
+        "bron": "الأَطِبّاءُ مَشْغولونَ اليَوْمَ.",
+        "antwoorden": [
+          "de artsen zijn vandaag druk",
+          "de dokters hebben het vandaag druk",
+          "de artsen hebben het vandaag druk",
+          "de dokters zijn vandaag druk"
+        ],
+        "uitleg": "Mensen → meervoud."
+      }
+    ]
+  }
+}

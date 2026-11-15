@@ -1,0 +1,589 @@
+{
+  "id": "j1-p4-ne2",
+  "code": "NE2",
+  "type": "evaluatie",
+  "titel": "Niveau-evaluatie A1 (eindtoets jaar 1)",
+  "thema": "Ben je klaar voor jaar 2? Lezen, luisteren, grammatica en woordenschat van heel jaar 1",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Lezen:** een kort bericht en een korte tekst over werk en reizen begrijpen.",
+    "**Luisteren:** zinnen met getallen, tijden, wensen en plannen verstaan.",
+    "**Grammatica:** de grammatica van jaar 1: zinsbouw, vervoeging, getallen, vergelijken.",
+    "**Woordenschat:** de thema's van jaar 1.",
+    "Advies: ga door naar jaar 2 als je in totaal 70% haalt én geen onderdeel onder 60% scoort. Zie de uitslag per onderdeel. Transliteratie staat hier standaard uit."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees het bericht. Waar is Laila nu?",
+        "ar": "عَزيزَتي مَرْيَمُ، أَتَمَنّى أَنْ تَكوني بِخَيْرٍ. أَنا الآنَ في فاسَ مَعَ أُخْتي. وَصَلْنا أَمْسِ بِالقِطارِ مِنَ الرِّباطِ. الفُنْدُقُ صَغيرٌ لٰكِنَّهُ مُريحٌ، وَهُوَ قَريبٌ مِنَ المَدينَةِ القَديمَةِ. اليَوْمَ زُرْنا المُتْحَفَ وَالسّوقَ، وَاشْتَرَيْتُ ثَلاثَةَ كُتُبٍ. غَدًا سَنُسافِرُ إِلى مَرّاكُشَ لِأَنَّ أُخْتي تُريدُ أَنْ تَرى ساحَةَ جامِعِ الفَنا. مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ. سَلِّمي عَلى عائِلَتِكِ. مَعَ تَحِيّاتي، لَيْلى",
+        "opties": [
+          "in Fez",
+          "in Rabat",
+          "in Marrakesh"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنا الآنَ في فاسَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Hoe zijn ze gereisd?",
+        "ar": "عَزيزَتي مَرْيَمُ، أَتَمَنّى أَنْ تَكوني بِخَيْرٍ. أَنا الآنَ في فاسَ مَعَ أُخْتي. وَصَلْنا أَمْسِ بِالقِطارِ مِنَ الرِّباطِ. الفُنْدُقُ صَغيرٌ لٰكِنَّهُ مُريحٌ، وَهُوَ قَريبٌ مِنَ المَدينَةِ القَديمَةِ. اليَوْمَ زُرْنا المُتْحَفَ وَالسّوقَ، وَاشْتَرَيْتُ ثَلاثَةَ كُتُبٍ. غَدًا سَنُسافِرُ إِلى مَرّاكُشَ لِأَنَّ أُخْتي تُريدُ أَنْ تَرى ساحَةَ جامِعِ الفَنا. مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ. سَلِّمي عَلى عائِلَتِكِ. مَعَ تَحِيّاتي، لَيْلى",
+        "opties": [
+          "met de trein",
+          "met het vliegtuig",
+          "met de bus"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بِالقِطارِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Wat vindt Laila van het hotel?",
+        "ar": "عَزيزَتي مَرْيَمُ، أَتَمَنّى أَنْ تَكوني بِخَيْرٍ. أَنا الآنَ في فاسَ مَعَ أُخْتي. وَصَلْنا أَمْسِ بِالقِطارِ مِنَ الرِّباطِ. الفُنْدُقُ صَغيرٌ لٰكِنَّهُ مُريحٌ، وَهُوَ قَريبٌ مِنَ المَدينَةِ القَديمَةِ. اليَوْمَ زُرْنا المُتْحَفَ وَالسّوقَ، وَاشْتَرَيْتُ ثَلاثَةَ كُتُبٍ. غَدًا سَنُسافِرُ إِلى مَرّاكُشَ لِأَنَّ أُخْتي تُريدُ أَنْ تَرى ساحَةَ جامِعِ الفَنا. مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ. سَلِّمي عَلى عائِلَتِكِ. مَعَ تَحِيّاتي، لَيْلى",
+        "opties": [
+          "klein maar comfortabel",
+          "groot en duur",
+          "ver van het centrum"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صَغيرٌ لٰكِنَّهُ مُريحٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Waarom gaan ze naar Marrakesh?",
+        "ar": "عَزيزَتي مَرْيَمُ، أَتَمَنّى أَنْ تَكوني بِخَيْرٍ. أَنا الآنَ في فاسَ مَعَ أُخْتي. وَصَلْنا أَمْسِ بِالقِطارِ مِنَ الرِّباطِ. الفُنْدُقُ صَغيرٌ لٰكِنَّهُ مُريحٌ، وَهُوَ قَريبٌ مِنَ المَدينَةِ القَديمَةِ. اليَوْمَ زُرْنا المُتْحَفَ وَالسّوقَ، وَاشْتَرَيْتُ ثَلاثَةَ كُتُبٍ. غَدًا سَنُسافِرُ إِلى مَرّاكُشَ لِأَنَّ أُخْتي تُريدُ أَنْ تَرى ساحَةَ جامِعِ الفَنا. مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ. سَلِّمي عَلى عائِلَتِكِ. مَعَ تَحِيّاتي، لَيْلى",
+        "opties": [
+          "Haar zus wil het plein Jemaa el-Fna zien.",
+          "Het hotel is daar goedkoper.",
+          "Hun familie woont daar."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لِأَنَّ أُخْتي تُريدُ أَنْ تَرى …}",
+        "review": {
+          "status": "onzeker",
+          "note": "تَرى (defectief) en de naam ساحَةُ جامِعِ الفَنا controleren."
+        }
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Welke uitspraak klopt?",
+        "ar": "عَزيزَتي مَرْيَمُ، أَتَمَنّى أَنْ تَكوني بِخَيْرٍ. أَنا الآنَ في فاسَ مَعَ أُخْتي. وَصَلْنا أَمْسِ بِالقِطارِ مِنَ الرِّباطِ. الفُنْدُقُ صَغيرٌ لٰكِنَّهُ مُريحٌ، وَهُوَ قَريبٌ مِنَ المَدينَةِ القَديمَةِ. اليَوْمَ زُرْنا المُتْحَفَ وَالسّوقَ، وَاشْتَرَيْتُ ثَلاثَةَ كُتُبٍ. غَدًا سَنُسافِرُ إِلى مَرّاكُشَ لِأَنَّ أُخْتي تُريدُ أَنْ تَرى ساحَةَ جامِعِ الفَنا. مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ. سَلِّمي عَلى عائِلَتِكِ. مَعَ تَحِيّاتي، لَيْلى",
+        "opties": [
+          "Marrakesh is groter en warmer dan Fez.",
+          "Fez is groter dan Marrakesh.",
+          "Laila kocht drie cadeaus."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَرّاكُشُ أَكْبَرُ مِنْ فاسَ وَأَحَرُّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de tekst. Hoe laat begint Karim met werken?",
+        "ar": "يَعْمَلُ كَريمٌ في شَرِكَةٍ في أَمْسْتِرْدامَ. يَبْدَأُ عَمَلُهُ في السّاعَةِ التّاسِعَةِ وَيَنْتَهي في السّاعَةِ الخامِسَةِ. زَميلاهُ في المَكْتَبِ مِنْ مِصْرَ، وَهُما يَتَكَلَّمانِ العَرَبِيَّةَ مَعَهُ كُلَّ يَوْمٍ. في الشَّهْرِ الماضي ما أَخَذَ إِجازَةً لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ. في الصَّيْفِ القادِمِ سَيُسافِرُ إِلى المَغْرِبِ لِيَحْتَفِلَ بِالعيدِ مَعَ أُسْرَتِهِ.",
+        "opties": [
+          "om negen uur",
+          "om vijf uur",
+          "om acht uur"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|في السّاعَةِ التّاسِعَةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waar komen zijn collega's vandaan?",
+        "ar": "يَعْمَلُ كَريمٌ في شَرِكَةٍ في أَمْسْتِرْدامَ. يَبْدَأُ عَمَلُهُ في السّاعَةِ التّاسِعَةِ وَيَنْتَهي في السّاعَةِ الخامِسَةِ. زَميلاهُ في المَكْتَبِ مِنْ مِصْرَ، وَهُما يَتَكَلَّمانِ العَرَبِيَّةَ مَعَهُ كُلَّ يَوْمٍ. في الشَّهْرِ الماضي ما أَخَذَ إِجازَةً لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ. في الصَّيْفِ القادِمِ سَيُسافِرُ إِلى المَغْرِبِ لِيَحْتَفِلَ بِالعيدِ مَعَ أُسْرَتِهِ.",
+        "opties": [
+          "uit Egypte",
+          "uit Marokko",
+          "uit Nederland"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|زَميلاهُ … مِنْ مِصْرَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Hoeveel collega's heeft hij op kantoor?",
+        "ar": "يَعْمَلُ كَريمٌ في شَرِكَةٍ في أَمْسْتِرْدامَ. يَبْدَأُ عَمَلُهُ في السّاعَةِ التّاسِعَةِ وَيَنْتَهي في السّاعَةِ الخامِسَةِ. زَميلاهُ في المَكْتَبِ مِنْ مِصْرَ، وَهُما يَتَكَلَّمانِ العَرَبِيَّةَ مَعَهُ كُلَّ يَوْمٍ. في الشَّهْرِ الماضي ما أَخَذَ إِجازَةً لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ. في الصَّيْفِ القادِمِ سَيُسافِرُ إِلى المَغْرِبِ لِيَحْتَفِلَ بِالعيدِ مَعَ أُسْرَتِهِ.",
+        "opties": [
+          "twee",
+          "drie",
+          "één"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|زَميلاهُ} is een dualis (+ suffix): zijn twee collega's.",
+        "review": {
+          "status": "onzeker",
+          "note": "زَميلاهُ (dualis + suffix, ن valt weg) is pittig voor A1; controleren."
+        }
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Waarom nam hij vorige maand geen vrij?",
+        "ar": "يَعْمَلُ كَريمٌ في شَرِكَةٍ في أَمْسْتِرْدامَ. يَبْدَأُ عَمَلُهُ في السّاعَةِ التّاسِعَةِ وَيَنْتَهي في السّاعَةِ الخامِسَةِ. زَميلاهُ في المَكْتَبِ مِنْ مِصْرَ، وَهُما يَتَكَلَّمانِ العَرَبِيَّةَ مَعَهُ كُلَّ يَوْمٍ. في الشَّهْرِ الماضي ما أَخَذَ إِجازَةً لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ. في الصَّيْفِ القادِمِ سَيُسافِرُ إِلى المَغْرِبِ لِيَحْتَفِلَ بِالعيدِ مَعَ أُسْرَتِهِ.",
+        "opties": [
+          "Hij had een groot project.",
+          "Hij was ziek.",
+          "Hij had geen geld."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde tekst. Wat gaat hij volgende zomer doen?",
+        "ar": "يَعْمَلُ كَريمٌ في شَرِكَةٍ في أَمْسْتِرْدامَ. يَبْدَأُ عَمَلُهُ في السّاعَةِ التّاسِعَةِ وَيَنْتَهي في السّاعَةِ الخامِسَةِ. زَميلاهُ في المَكْتَبِ مِنْ مِصْرَ، وَهُما يَتَكَلَّمانِ العَرَبِيَّةَ مَعَهُ كُلَّ يَوْمٍ. في الشَّهْرِ الماضي ما أَخَذَ إِجازَةً لِأَنَّهُ كانَ عِنْدَهُ مَشْروعٌ كَبيرٌ. في الصَّيْفِ القادِمِ سَيُسافِرُ إِلى المَغْرِبِ لِيَحْتَفِلَ بِالعيدِ مَعَ أُسْرَتِهِ.",
+        "opties": [
+          "naar Marokko reizen om het feest te vieren",
+          "in Amsterdam blijven werken",
+          "naar Egypte verhuizen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَيُسافِرُ إِلى المَغْرِبِ}",
+        "review": {
+          "status": "onzeker",
+          "note": "لِيَحْتَفِلَ (لِـ + manṣūb) is nog niet behandeld; vraag is ook zonder dat te beantwoorden."
+        }
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "سَنُسافِرُ إِلى القاهِرَةِ بِالطّائِرَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We gaan met het vliegtuig naar Caïro.",
+          "We gingen met de trein naar Caïro.",
+          "We willen niet naar Caïro."
+        ],
+        "juist": 0,
+        "uitleg": "سَـ = toekomst; {ar|بِالطّائِرَةِ}."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "الغُرْفَةُ بِخَمْسِمِئَةِ دِرْهَمٍ",
+        "vraag": "Wat kost de kamer?",
+        "opties": [
+          "500 dirham",
+          "50 dirham",
+          "5000 dirham"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَمْسُمِئَةٍ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أَيْنَ يوجَدُ مَكْتَبُ البَريدِ؟",
+        "vraag": "Wat vraagt iemand?",
+        "opties": [
+          "Waar is het postkantoor?",
+          "Hoe laat gaat het postkantoor open?",
+          "Is het postkantoor ver?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَيْنَ يوجَدُ …؟}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "هُما يَدْرُسانِ في الجامِعَةِ",
+        "vraag": "Wie studeren aan de universiteit?",
+        "opties": [
+          "zij twee",
+          "wij",
+          "zij (een groep)"
+        ],
+        "juist": 0,
+        "uitleg": "يَـ … ـانِ = zij twee."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "وُلِدْتُ في سَنَةِ أَلْفَيْنِ",
+        "vraag": "In welk jaar is de spreker geboren?",
+        "opties": [
+          "2000",
+          "1000",
+          "2020"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلْفَيْنِ} = 2000 (genitief)."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لا أُحِبُّ الضَّجيجَ، لِذٰلِكَ أَسْكُنُ في قَرْيَةٍ",
+        "vraag": "Waarom woont de spreker in een dorp?",
+        "opties": [
+          "Hij houdt niet van lawaai.",
+          "Het is goedkoper.",
+          "Zijn familie woont daar."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا أُحِبُّ الضَّجيجَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ",
+        "vraag": "Wanneer zeg je dit?",
+        "opties": [
+          "bij een (jaarlijks) feest",
+          "bij een sollicitatie",
+          "bij het afscheid"
+        ],
+        "juist": 0,
+        "uitleg": "Feestwens."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "ما فَهِمْتُ، مِنْ فَضْلِكَ أَعِدْ",
+        "vraag": "Wat bedoelt de spreker?",
+        "opties": [
+          "Ik heb het niet begrepen, herhaal het alstublieft.",
+          "Ik begrijp het, dank je.",
+          "Ik weet het niet meer."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما فَهِمْتُ} = ik heb het niet begrepen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أُريدُ أَنْ أَحْجِزَ تَذْكِرَتَيْنِ",
+        "vraag": "Wat wil de spreker?",
+        "opties": [
+          "twee kaartjes reserveren",
+          "één kaartje kopen",
+          "twee kamers reserveren"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَذْكِرَتَيْنِ} = twee kaartjes."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "عِنْدي ثَلاثَةُ إِخْوَةٍ وَأُخْتانِ",
+        "vraag": "Hoeveel broers en zussen heeft de spreker?",
+        "opties": [
+          "3 broers en 2 zussen",
+          "2 broers en 3 zussen",
+          "3 broers en 1 zus"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ثَلاثَةُ إِخْوَةٍ} · {ar|أُخْتانِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Welke zin is juist?",
+        "opties": [
+          "سافَرَ الطُّلّابُ إِلى مِصْرَ.",
+          "سافَرُوا الطُّلّابُ إِلى مِصْرَ.",
+          "الطُّلّابُ سافَرَ إِلى مِصْرَ."
+        ],
+        "juist": 0,
+        "uitleg": "Werkwoord vooraan → enkelvoud."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Ik was moe' is ...",
+        "opties": [
+          "كُنْتُ مُتْعَبًا.",
+          "كُنْتُ مُتْعَبٌ.",
+          "كانَ مُتْعَبًا أَنا."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُنْتُ} + accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Zes meisjes' is ...",
+        "opties": [
+          "سِتُّ بَناتٍ",
+          "سِتَّةُ بَناتٍ",
+          "سِتُّ بِنْتًا"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk → getal zonder ة."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Wat betekent {ar|المَدينَةُ الكَبيرَةُ}?",
+        "opties": [
+          "de grote stad",
+          "de stad is groot",
+          "de grootste stad"
+        ],
+        "juist": 0,
+        "uitleg": "Beide bepaald → bijvoeglijk."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "نَحْنُ ___ في الجامِعَةِ.",
+        "nl": "Wij studeren aan de universiteit.",
+        "woordbank": [
+          "نَدْرُسُ",
+          "يَدْرُسونَ",
+          "دَرَسْنا"
+        ],
+        "antwoord": [
+          "نَدْرُسُ"
+        ],
+        "uitleg": "نَـ = wij, heden."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "هٰذِهِ سَيّارَةُ ___.",
+        "nl": "Dit is de auto van de leraar.",
+        "woordbank": [
+          "المُعَلِّمِ",
+          "المُعَلِّمُ",
+          "مُعَلِّمٌ"
+        ],
+        "antwoord": [
+          "المُعَلِّمِ"
+        ],
+        "uitleg": "Iḍāfa: tweede lid in de genitief.",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "أُريدُ أَنْ ___ إِلى البَيْتِ.",
+        "nl": "Ik wil naar huis gaan.",
+        "woordbank": [
+          "أَرْجِعَ",
+          "سَأَرْجِعُ",
+          "رَجَعْتُ"
+        ],
+        "antwoord": [
+          "أَرْجِعَ"
+        ],
+        "uitleg": "Na {ar|أَنْ}: muḍāriʿ op -a.",
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "ne-grammatica",
+        "instructie": "Vervoeg ذَهَبَ / يَذْهَبُ.",
+        "rijen": [
+          {
+            "label": "jij (v), verleden",
+            "antwoord": "ذَهَبْتِ",
+            "tr": "ḏahabti",
+            "eind": true
+          },
+          {
+            "label": "zij (m mv), heden",
+            "antwoord": "يَذْهَبونَ",
+            "tr": "yaḏhabūna"
+          },
+          {
+            "label": "wij, toekomst",
+            "antwoord": "سَنَذْهَبُ",
+            "tr": "sa-naḏhabu"
+          }
+        ],
+        "uitleg": "{ar|ذَهَبْتِ} · {ar|يَذْهَبونَ} · {ar|سَنَذْهَبُ}"
+      },
+      {
+        "type": "ordenen",
+        "tag": "ne-grammatica",
+        "nl": "Mijn broer is ouder dan ik.",
+        "woorden": [
+          "أَخي",
+          "أَكْبَرُ",
+          "مِنّي."
+        ],
+        "uitleg": "{ar|أَفْعَلُ مِنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-grammatica",
+        "bron": "Ik ken hem niet.",
+        "antwoorden": [
+          "لا أَعْرِفُهُ"
+        ],
+        "uitleg": "{ar|لا} + muḍāriʿ + ـهُ."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "مَطارٌ",
+            "nl": "vliegveld"
+          },
+          {
+            "ar": "راتِبٌ",
+            "nl": "salaris"
+          },
+          {
+            "ar": "جِسْرٌ",
+            "nl": "brug"
+          },
+          {
+            "ar": "خَيْمَةٌ",
+            "nl": "tent"
+          },
+          {
+            "ar": "إيجارٌ",
+            "nl": "huur"
+          }
+        ],
+        "uitleg": "Woordenschat periode 4."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "أَحْمَرُ",
+            "nl": "rood"
+          },
+          {
+            "ar": "الشِّتاءُ",
+            "nl": "de winter"
+          },
+          {
+            "ar": "مَطْبَخٌ",
+            "nl": "keuken"
+          },
+          {
+            "ar": "طَبيبٌ",
+            "nl": "arts"
+          },
+          {
+            "ar": "الأَرْبِعاءُ",
+            "nl": "woensdag"
+          }
+        ],
+        "uitleg": "Woordenschat jaar 1."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Wat is het tegenovergestelde van {ar|بَعيدٌ}?",
+        "opties": [
+          "قَريبٌ",
+          "كَبيرٌ",
+          "سَريعٌ"
+        ],
+        "juist": 0,
+        "uitleg": "ver ↔ dichtbij"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Waar boek je een kamer?",
+        "opties": [
+          "في الفُنْدُقِ",
+          "في المَكْتَبَةِ",
+          "في المَطْبَخِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الفُنْدُقُ} = het hotel."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "Welk woord hoort niet in het rijtje?",
+        "opties": [
+          "مُهَنْدِسٌ",
+          "قِطارٌ",
+          "طائِرَةٌ",
+          "سَفينَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "De rest zijn vervoermiddelen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|عيدُ الفِطْرِ} is ...",
+        "opties": [
+          "het Suikerfeest",
+          "het Offerfeest",
+          "nieuwjaar"
+        ],
+        "juist": 0,
+        "uitleg": "Aan het eind van de ramadan."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "أَشْرَبُ ___ مِنَ الماءِ كُلَّ يَوْمٍ.",
+        "nl": "Ik drink elke dag een fles water.",
+        "woordbank": [
+          "زُجاجَةً",
+          "كيسًا",
+          "رَغيفًا"
+        ],
+        "antwoord": [
+          "زُجاجَةً"
+        ],
+        "uitleg": "{ar|زُجاجَةٌ} = fles."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "اِمْشِ ___ ثُمَّ إِلى اليَمينِ.",
+        "nl": "Loop rechtdoor en dan naar rechts.",
+        "woordbank": [
+          "مُسْتَقيمًا",
+          "بَعيدًا",
+          "قَريبًا"
+        ],
+        "antwoord": [
+          "مُسْتَقيمًا"
+        ],
+        "uitleg": "{ar|مُسْتَقيمًا} = rechtdoor."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-woordenschat",
+        "bron": "مُغامَرَةٌ",
+        "antwoorden": [
+          "avontuur",
+          "een avontuur"
+        ],
+        "uitleg": "{ar|مُغامَرَةٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-woordenschat",
+        "bron": "het museum",
+        "antwoorden": [
+          "المُتْحَفُ"
+        ],
+        "uitleg": "{ar|المُتْحَفُ}"
+      }
+    ]
+  }
+}

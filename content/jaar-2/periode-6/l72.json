@@ -1,0 +1,696 @@
+{
+  "id": "j2-p6-l72",
+  "code": "L72",
+  "type": "les",
+  "titel": "Media en lezen",
+  "thema": "Kranten, journaal en tijdschriften; hamza-werkwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "hamza-werkwoorden vervoegen (أَخَذَ، أَكَلَ، سَأَلَ، قَرَأَ، بَدَأَ).",
+    "de bijzondere gebiedende wijzen kennen: خُذْ، كُلْ.",
+    "de spellingregels voor de drager van de hamza toepassen (أ، إ، ؤ، ئ، ء).",
+    "over nieuws en media praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l72-w01",
+      "ar": "أَخَذَ",
+      "tr": "aḫaḏa",
+      "nl": [
+        "nemen",
+        "pakken"
+      ],
+      "soort": "werkwoord (hamza)",
+      "notitie": "{ar|يَأْخُذُ}; gebiedende wijs {ar|خُذْ}."
+    },
+    {
+      "id": "j2-p6-l72-w04",
+      "ar": "مَجَلَّةٌ",
+      "tr": "majalla",
+      "nl": [
+        "tijdschrift"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l72-w05",
+      "ar": "مَقالٌ",
+      "tr": "maqāl",
+      "nl": [
+        "artikel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَقالاتٌ}."
+    },
+    {
+      "id": "j2-p6-l72-w07",
+      "ar": "نَشَرَ",
+      "tr": "našara",
+      "nl": [
+        "publiceren"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَنْشُرُ}"
+    },
+    {
+      "id": "j2-p6-l72-w08",
+      "ar": "نَشْرَةُ الأَخْبارِ",
+      "tr": "našratu l-aḫbār",
+      "nl": [
+        "het journaal"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p6-l72-w09",
+      "ar": "إِذاعَةٌ",
+      "tr": "iḏāʿa",
+      "nl": [
+        "radio(zender)",
+        "uitzending"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l72-w10",
+      "ar": "قَناةٌ",
+      "tr": "qanāh",
+      "nl": [
+        "(tv-)kanaal",
+        "zender"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قَنَواتٌ}."
+    },
+    {
+      "id": "j2-p6-l72-w11",
+      "ar": "مُذيعٌ",
+      "tr": "muḏīʿ",
+      "nl": [
+        "presentator",
+        "nieuwslezer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l72-w12",
+      "ar": "أَسْئِلَةٌ",
+      "tr": "asʾila",
+      "nl": [
+        "vragen"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|سُؤالٌ}."
+    },
+    {
+      "id": "j2-p6-l72-w13",
+      "ar": "مَسْؤولٌ عَنْ",
+      "tr": "masʾūlun ʿan",
+      "nl": [
+        "verantwoordelijk voor"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Passief deelwoord van {ar|سَأَلَ}."
+    },
+    {
+      "id": "j2-p6-l72-w14",
+      "ar": "رَئيسٌ",
+      "tr": "raʾīs",
+      "nl": [
+        "president",
+        "voorzitter",
+        "chef"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|رُؤَساءُ}."
+    },
+    {
+      "id": "j2-p6-l72-w15",
+      "ar": "حَدَثٌ",
+      "tr": "ḥadaṯ",
+      "nl": [
+        "gebeurtenis"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|أَحْداثٌ}."
+    },
+    {
+      "id": "j2-p6-l72-w16",
+      "ar": "عُنْوانٌ رَئيسِيٌّ",
+      "tr": "ʿunwānun raʾīsiyy",
+      "nl": [
+        "krantenkop"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p6-l72-w17",
+      "ar": "مُشاهِدٌ",
+      "tr": "mušāhid",
+      "nl": [
+        "kijker"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l72-w18",
+      "ar": "تَقْريرٌ صَحَفِيٌّ",
+      "tr": "taqrīrun ṣaḥafiyy",
+      "nl": [
+        "reportage",
+        "persbericht"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Hamza-werkwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Een hamza in de wortel gedraagt zich als een gewone medeklinker; de vervoeging is dus grotendeels regelmatig: {ar|سَأَلْتُ}، {ar|يَسْأَلُ}، {ar|قَرَأْنا}.",
+            "Wat verandert, is de **spelling**: de hamza staat op een andere 'drager' afhankelijk van de klinkers eromheen. En twee werkwoorden hebben een korte gebiedende wijs: {ar|خُذْ} (neem!) en {ar|كُلْ} (eet!)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "أَخَذَ",
+            "سَأَلَ",
+            "قَرَأَ"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "ik (māḍī)",
+              "أَخَذْتُ",
+              "سَأَلْتُ",
+              "قَرَأْتُ"
+            ],
+            [
+              "ik (muḍāriʿ)",
+              "آخُذُ",
+              "أَسْأَلُ",
+              "أَقْرَأُ"
+            ],
+            [
+              "hij (muḍāriʿ)",
+              "يَأْخُذُ",
+              "يَسْأَلُ",
+              "يَقْرَأُ"
+            ],
+            [
+              "zij (m mv) (muḍāriʿ)",
+              "يَأْخُذونَ",
+              "يَسْأَلونَ",
+              "يَقْرَؤونَ"
+            ],
+            [
+              "gebiedende wijs (m)",
+              "خُذْ",
+              "اِسْأَلْ",
+              "اِقْرَأْ"
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|آخُذُ}: twee hamza's na elkaar (*aʾḫuḏu*) worden geschreven als **آ** (alif madda). Zo ook {ar|آكُلُ} (ik eet)."
+        }
+      ]
+    },
+    {
+      "titel": "Spelling van de hamza",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Regel",
+            "Drager",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            2
+          ],
+          "rijen": [
+            [
+              "aan het begin van een woord",
+              "ا (أ / إ)",
+              "أَخَذَ، إِذاعَةٌ"
+            ],
+            [
+              "i of ī ervoor of erop (sterkste klinker)",
+              "ئ",
+              "أَسْئِلَةٌ، رَئيسٌ"
+            ],
+            [
+              "u of ū ervoor of erop",
+              "ؤ",
+              "سُؤالٌ، مَسْؤولٌ"
+            ],
+            [
+              "a ervoor of erop",
+              "أ",
+              "سَأَلَ، يَقْرَأُ"
+            ],
+            [
+              "na een lange ā of sukūn, aan het eind",
+              "ء (los)",
+              "سَماءٌ، شَيْءٌ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "De hamza 'zoekt' een drager die past bij de sterkste klinker eromheen: **i > u > a**. Een *i* trekt het hardst: {ar|سُئِلَ} (hij werd gevraagd) heeft daarom ئ ondanks de *u* ervoor. Bij twijfel kijk je dus naar beide klinkers en kies je de sterkste."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَقْرَأُ الجَريدَةَ كُلَّ صَباحٍ.",
+              "tr": "aqraʾu l-jarīdata kulla ṣabāḥ.",
+              "nl": "Ik lees elke ochtend de krant."
+            },
+            {
+              "ar": "سَأَلَ الصَّحَفِيُّ الرَّئيسَ أَسْئِلَةً صَعْبَةً.",
+              "tr": "saʾala ṣ-ṣaḥafiyyu r-raʾīsa asʾilatan ṣaʿba.",
+              "nl": "De journalist stelde de president moeilijke vragen."
+            },
+            {
+              "ar": "تَبْدَأُ نَشْرَةُ الأَخْبارِ في السّاعَةِ الثّامِنَةِ.",
+              "tr": "tabdaʾu našratu l-aḫbāri fi s-sāʿati ṯ-ṯāmina.",
+              "nl": "Het journaal begint om acht uur."
+            },
+            {
+              "ar": "خُذْ هٰذِهِ المَجَلَّةَ، فيها مَقالٌ مُمْتِعٌ.",
+              "tr": "ḫuḏ hāḏihi l-majalla, fīhā maqālun mumtiʿ.",
+              "nl": "Neem dit tijdschrift, er staat een leuk artikel in."
+            },
+            {
+              "ar": "مَنِ المَسْؤولُ عَنْ هٰذا التَّقْريرِ؟",
+              "tr": "mani l-masʾūlu ʿan hāḏa t-taqrīr?",
+              "nl": "Wie is verantwoordelijk voor dit verslag?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "مَجَلَّةٌ",
+              "nl": "tijdschrift",
+              "woord": "j2-p6-l72-w04"
+            },
+            {
+              "ar": "مَقالٌ",
+              "nl": "artikel",
+              "woord": "j2-p6-l72-w05"
+            },
+            {
+              "ar": "صَحَفِيٌّ",
+              "nl": "journalist"
+            },
+            {
+              "ar": "قَناةٌ",
+              "nl": "zender",
+              "woord": "j2-p6-l72-w10"
+            },
+            {
+              "ar": "مُذيعٌ",
+              "nl": "presentator",
+              "woord": "j2-p6-l72-w11"
+            },
+            {
+              "ar": "حَدَثٌ",
+              "nl": "gebeurtenis",
+              "woord": "j2-p6-l72-w15"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "hamza-ww",
+          "tekst": "خُذْ هٰذا الكِتابَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Neem dit boek.",
+            "Lees dit boek.",
+            "Eet dit niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|خُذْ} = neem!"
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen en spelling",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "hamza-ww",
+          "instructie": "Vervoeg سَأَلَ / يَسْأَلُ.",
+          "rijen": [
+            {
+              "label": "ik, māḍī",
+              "antwoord": "سَأَلْتُ",
+              "tr": "saʾaltu"
+            },
+            {
+              "label": "zij (ev), muḍāriʿ",
+              "antwoord": "تَسْأَلُ",
+              "tr": "tasʾalu"
+            },
+            {
+              "label": "gebiedende wijs (m)",
+              "antwoord": "اِسْأَلْ",
+              "tr": "isʾal"
+            }
+          ],
+          "uitleg": "Regelmatig; let op de hamza op alif."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hamza-ww",
+          "vraag": "'Ik neem' is ...",
+          "opties": [
+            "آخُذُ",
+            "أَأْخُذُ",
+            "أَخُذُ"
+          ],
+          "juist": 0,
+          "uitleg": "Twee hamza's → آ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hamza-spelling",
+          "vraag": "Hoe schrijf je *suʾāl* (vraag)?",
+          "opties": [
+            "سُؤالٌ",
+            "سُأالٌ",
+            "سُئالٌ"
+          ],
+          "juist": 0,
+          "uitleg": "u ervoor → ؤ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "hamza-spelling",
+          "vraag": "Hoe schrijf je *raʾīs* (president)?",
+          "opties": [
+            "رَئيسٌ",
+            "رَأيسٌ",
+            "رَؤيسٌ"
+          ],
+          "juist": 0,
+          "uitleg": "ī erna → ئ (i wint)."
+        },
+        {
+          "type": "invullen",
+          "tag": "hamza-ww",
+          "zin": "___ الجَريدَةَ كُلَّ صَباحٍ.",
+          "nl": "Ik lees elke ochtend de krant.",
+          "woordbank": [
+            "أَقْرَأُ",
+            "أَقْرَؤُ",
+            "قَرَأْتُ"
+          ],
+          "antwoord": [
+            "أَقْرَأُ"
+          ],
+          "uitleg": "a ervoor → أ."
+        }
+      ]
+    },
+    {
+      "titel": "Nieuws",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "hamza-ww",
+          "nl": "Het journaal begint om acht uur.",
+          "woorden": [
+            "تَبْدَأُ",
+            "نَشْرَةُ",
+            "الأَخْبارِ",
+            "في",
+            "السّاعَةِ",
+            "الثّامِنَةِ."
+          ],
+          "uitleg": "{ar|تَبْدَأُ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "نَشَرَتِ الجَريدَةُ مَقالًا عَنِ البيئَةِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De krant publiceerde een artikel over het milieu.",
+            "De krant las een artikel.",
+            "De journalist schreef een boek."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نَشَرَ} = publiceren."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "hamza-ww",
+          "bron": "Neem! (tegen een man)",
+          "antwoorden": [
+            "خُذْ"
+          ],
+          "uitleg": "{ar|خُذْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hamza-ww",
+          "bron": "سَأَلَني المُذيعُ سُؤالًا.",
+          "antwoorden": [
+            "de presentator stelde mij een vraag",
+            "de presentator stelde me een vraag",
+            "de nieuwslezer stelde mij een vraag"
+          ],
+          "uitleg": "{ar|سَأَلَ} + twee voorwerpen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِذاعَةٌ",
+            "nl": "radio"
+          },
+          {
+            "ar": "رَئيسٌ",
+            "nl": "president"
+          },
+          {
+            "ar": "مُشاهِدٌ",
+            "nl": "kijker"
+          },
+          {
+            "ar": "نَشَرَ",
+            "nl": "publiceren"
+          },
+          {
+            "ar": "بَدَأَ",
+            "nl": "beginnen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-ww",
+        "vraag": "'Eet!' (tegen een man) is ...",
+        "opties": [
+          "كُلْ",
+          "اُؤْكُلْ",
+          "أَكُلْ"
+        ],
+        "juist": 0,
+        "uitleg": "Korte gebiedende wijs."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-ww",
+        "vraag": "'Wij lezen' is ...",
+        "opties": [
+          "نَقْرَأُ",
+          "نَقْرَؤُ",
+          "نَقْرَئُ"
+        ],
+        "juist": 0,
+        "uitleg": "a ervoor → أ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-spelling",
+        "vraag": "Hoe schrijf je *asʾila* (vragen)?",
+        "opties": [
+          "أَسْئِلَةٌ",
+          "أَسْأَلَةٌ",
+          "أَسْؤِلَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "i op de hamza → ئ."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "hamza-spelling",
+        "vraag": "Welke drager heeft de hamza in {ar|مَسْؤولٌ}?",
+        "opties": [
+          "و (ؤ)",
+          "ي (ئ)",
+          "ا (أ)"
+        ],
+        "juist": 0,
+        "uitleg": "ū erna → ؤ."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hamza-ww",
+        "tekst": "أَخَذْتُ الحافِلَةَ إِلى العَمَلِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik nam de bus naar mijn werk.",
+          "Ik liep naar mijn werk.",
+          "Ik las in de bus."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَخَذَ} = nemen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "hamza-ww",
+        "tekst": "اِسْأَلِ المُعَلِّمَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Vraag het de leraar.",
+          "Antwoord de leraar.",
+          "De leraar vraagt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِسْأَلْ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "hamza-ww",
+        "zin": "مَتى ___ الدَّرْسُ؟",
+        "nl": "Wanneer begint de les?",
+        "woordbank": [
+          "يَبْدَأُ",
+          "بَدَأَ",
+          "يَبْدُو"
+        ],
+        "antwoord": [
+          "يَبْدَأُ"
+        ],
+        "uitleg": "Muḍāriʿ van {ar|بَدَأَ}."
+      },
+      {
+        "type": "invullen",
+        "tag": "hamza-ww",
+        "zin": "___ مِفْتاحَكَ، لا تَنْسَهُ!",
+        "nl": "Neem je sleutel, vergeet hem niet!",
+        "woordbank": [
+          "خُذْ",
+          "اُؤْخُذْ",
+          "أَخَذْتَ"
+        ],
+        "antwoord": [
+          "خُذْ"
+        ],
+        "uitleg": "{ar|خُذْ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "hamza-ww",
+        "instructie": "Vervoeg قَرَأَ.",
+        "rijen": [
+          {
+            "label": "wij, māḍī",
+            "antwoord": "قَرَأْنا",
+            "tr": "qaraʾnā"
+          },
+          {
+            "label": "hij, muḍāriʿ",
+            "antwoord": "يَقْرَأُ",
+            "tr": "yaqraʾu"
+          }
+        ],
+        "uitleg": "Regelmatig."
+      },
+      {
+        "type": "ordenen",
+        "tag": "hamza-ww",
+        "nl": "De journalist stelde de president moeilijke vragen.",
+        "woorden": [
+          "سَأَلَ",
+          "الصَّحَفِيُّ",
+          "الرَّئيسَ",
+          "أَسْئِلَةً",
+          "صَعْبَةً."
+        ],
+        "uitleg": "{ar|سَأَلَ} + twee voorwerpen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het journaal",
+        "antwoorden": [
+          "نَشْرَةُ الأَخْبارِ"
+        ],
+        "uitleg": "{ar|نَشْرَةُ الأَخْبارِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "مَنِ المَسْؤولُ عَنْ هٰذا؟",
+        "antwoorden": [
+          "wie is hiervoor verantwoordelijk",
+          "wie is hier verantwoordelijk voor",
+          "wie is daarvoor verantwoordelijk"
+        ],
+        "uitleg": "{ar|مَسْؤولٌ عَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "hamza-ww",
+        "bron": "قَرَأْتُ المَقالَ في المَجَلَّةِ.",
+        "antwoorden": [
+          "ik heb het artikel in het tijdschrift gelezen",
+          "ik las het artikel in het tijdschrift"
+        ],
+        "uitleg": "{ar|قَرَأْتُ}"
+      }
+    ]
+  }
+}

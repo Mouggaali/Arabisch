@@ -1,0 +1,607 @@
+{
+  "id": "j2-p8-d17",
+  "code": "D17",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: feesten en uitnodigingen",
+  "thema": "Een Marokkaanse bruiloft",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "over een Marokkaanse bruiloft praten in het Darija.",
+    "feliciteren en uitnodigen.",
+    "typische feestwoorden herkennen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-d17-w01",
+      "ar": "العرس",
+      "tr": "lʿəṛs",
+      "nl": [
+        "de bruiloft"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w02",
+      "ar": "العروسة",
+      "tr": "lʿṛūsa",
+      "nl": [
+        "de bruid"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w03",
+      "ar": "العريس",
+      "tr": "lʿrīs",
+      "nl": [
+        "de bruidegom"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w04",
+      "ar": "الحنة",
+      "tr": "lḥənna",
+      "nl": [
+        "de henna(avond)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w05",
+      "ar": "النكافة",
+      "tr": "nnəggāfa",
+      "nl": [
+        "de bruidsbegeleidster"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Uitgesproken met g.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w06",
+      "ar": "الطبالة",
+      "tr": "ṭṭbbāla",
+      "nl": [
+        "de trommelaars"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w07",
+      "ar": "الزغاريت",
+      "tr": "zzġārīt",
+      "nl": [
+        "de joejoe-kreten"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w08",
+      "ar": "مبروك عليك",
+      "tr": "mbrūk ʿlīk",
+      "nl": [
+        "gefeliciteerd (met jou)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Antwoord: {ar|الله يبارك فيك}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w09",
+      "ar": "عيد مبروك",
+      "tr": "ʿīd mbārk",
+      "nl": [
+        "fijn feest"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w10",
+      "ar": "عراضة",
+      "tr": "ʿṛāḍa",
+      "nl": [
+        "uitnodiging"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w11",
+      "ar": "عرض على",
+      "tr": "ʿəṛṛəḍ ʿla",
+      "nl": [
+        "uitnodigen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w12",
+      "ar": "الحلوى",
+      "tr": "lḥalwa",
+      "nl": [
+        "de zoetigheden"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w13",
+      "ar": "القفطان",
+      "tr": "lqəfṭān",
+      "nl": [
+        "de kaftan"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w14",
+      "ar": "الجلابة",
+      "tr": "ljəllāba",
+      "nl": [
+        "de djellaba"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j2-p8-d17-w15",
+      "ar": "نشطو",
+      "tr": "nəšṭu",
+      "nl": [
+        "laten we feesten / dansen"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een Marokkaanse bruiloft",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "bruiloft",
+              "عُرْسٌ",
+              "العرس|lʿəṛs"
+            ],
+            [
+              "uitnodiging",
+              "دَعْوَةٌ",
+              "عراضة|ʿṛāḍa"
+            ],
+            [
+              "uitnodigen",
+              "دَعا",
+              "عرض على|ʿəṛṛəḍ ʿla"
+            ],
+            [
+              "gefeliciteerd",
+              "مَبْروكٌ",
+              "مبروك عليك|mbrūk ʿlīk"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Veel feestwoorden zijn in Fusha en Darija bijna gelijk ({ar|العرس}، {ar|العروسة}). Typisch Marokkaans zijn {ar|النكافة} (de vrouw die de bruid kleedt en begeleidt) en de {ar|الحنة}-avond vóór de bruiloft. Op de controlelijst staan ze ter controle, omdat gebruiken per regio verschillen."
+        }
+      ]
+    },
+    {
+      "titel": "Op het feest",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عرضو علينا للعرس ديال ختهم.",
+              "tr": "ʿəṛṛḍu ʿlīna l-lʿəṛs dyāl xthum.",
+              "nl": "Ze hebben ons uitgenodigd voor de bruiloft van hun zus.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "لبسات العروسة قفطان زوين.",
+              "tr": "lbsāt lʿṛūsa qəfṭān zwīn.",
+              "nl": "De bruid droeg een mooie kaftan.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "مبروك عليك! — الله يبارك فيك.",
+              "tr": "mbrūk ʿlīk! — aḷḷāh ybārək fīk.",
+              "nl": "Gefeliciteerd! — Dank je (God zegene je).",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الطبالة كيضربو والناس كيشطحو.",
+              "tr": "ṭṭbbāla kayḍəṛbu w-nnās kayšəṭḥu.",
+              "nl": "De trommelaars spelen en de mensen dansen.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-feest",
+          "paren": [
+            {
+              "ar": "العرس",
+              "nl": "bruiloft",
+              "woord": "j2-p8-d17-w01"
+            },
+            {
+              "ar": "العروسة",
+              "nl": "bruid",
+              "woord": "j2-p8-d17-w02"
+            },
+            {
+              "ar": "الحنة",
+              "nl": "hennaavond",
+              "woord": "j2-p8-d17-w04"
+            },
+            {
+              "ar": "القفطان",
+              "nl": "kaftan",
+              "woord": "j2-p8-d17-w13"
+            },
+            {
+              "ar": "عراضة",
+              "nl": "uitnodiging",
+              "woord": "j2-p8-d17-w10"
+            },
+            {
+              "ar": "الجلابة",
+              "nl": "djellaba",
+              "woord": "j2-p8-d17-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-feest",
+          "tekst": "مبروك عليك",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Gefeliciteerd.",
+            "Tot ziens.",
+            "Fijne vakantie."
+          ],
+          "juist": 0,
+          "uitleg": "Antwoord: {ar|الله يبارك فيك}."
+        }
+      ]
+    },
+    {
+      "titel": "Op het feest",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "darija-feest",
+          "zin": "عرضو علينا ___ ديال ختهم.",
+          "nl": "Ze nodigden ons uit voor de bruiloft van hun zus.",
+          "antwoord": [
+            "للعرس"
+          ],
+          "uitleg": "{ar|العرس}",
+          "woordbank": [
+            "للعرس",
+            "للحنة",
+            "للطبالة"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|عراضة} is in het Fusha ...",
+          "opties": [
+            "دَعْوَةٌ",
+            "عُرْسٌ",
+            "حَفْلَةٌ"
+          ],
+          "juist": 0,
+          "uitleg": "uitnodiging."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-feest",
+          "vraag": "Wat antwoord je op {ar|مبروك عليك}?",
+          "opties": [
+            "الله يبارك فيك",
+            "بسلامة",
+            "واخا"
+          ],
+          "juist": 0,
+          "uitleg": "Vaste wederwens."
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-feest",
+          "nl": "De bruid droeg een mooie kaftan.",
+          "woorden": [
+            "لبسات",
+            "العروسة",
+            "قفطان",
+            "زوين."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-feest",
+          "bron": "de bruidegom (Darija)",
+          "antwoorden": [
+            "العريس"
+          ],
+          "uitleg": "{ar|العريس}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-feest",
+          "bron": "عيد مبروك",
+          "antwoorden": [
+            "fijn feest",
+            "gezegend feest",
+            "prettig feest"
+          ],
+          "uitleg": "Feestwens.",
+          "tr": "ʿīd mbārk"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-feest",
+        "paren": [
+          {
+            "ar": "النكافة",
+            "nl": "bruidsbegeleidster"
+          },
+          {
+            "ar": "الطبالة",
+            "nl": "trommelaars"
+          },
+          {
+            "ar": "الزغاريت",
+            "nl": "joejoe-kreten"
+          },
+          {
+            "ar": "الحلوى",
+            "nl": "zoetigheden"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "Wat is {ar|الحنة}-avond?",
+        "opties": [
+          "het henna-feest voor de bruiloft",
+          "de dag na de bruiloft",
+          "een religieus feest"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الحنة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-feest",
+        "vraag": "Wat doet een {ar|النكافة}?",
+        "opties": [
+          "ze kleedt en begeleidt de bruid",
+          "ze kookt het eten",
+          "ze speelt trommel"
+        ],
+        "juist": 0,
+        "uitleg": "Bruidsbegeleidster."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|عرض على} betekent ...",
+        "opties": [
+          "uitnodigen",
+          "afzeggen",
+          "dansen"
+        ],
+        "juist": 0,
+        "uitleg": "uitnodigen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-feest",
+        "tekst": "العروسة زوينة بزاف",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De bruid is heel mooi.",
+          "De bruidegom is moe.",
+          "Het feest is afgelopen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|العروسة}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-feest",
+        "tekst": "عيد مبروك",
+        "vraag": "Wanneer zeg je dit?",
+        "opties": [
+          "bij een feest",
+          "bij een begrafenis",
+          "op het werk"
+        ],
+        "juist": 0,
+        "uitleg": "Feestwens."
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-feest",
+        "zin": "لبس ___ للعيد.",
+        "nl": "Hij droeg een djellaba voor het feest.",
+        "antwoord": [
+          "الجلابة"
+        ],
+        "uitleg": "{ar|الجلابة}",
+        "woordbank": [
+          "الجلابة",
+          "القفطان",
+          "الحنة"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-feest",
+        "zin": "___ عليك! — الله يبارك فيك.",
+        "nl": "Gefeliciteerd! — Dank je.",
+        "antwoord": [
+          "مبروك"
+        ],
+        "uitleg": "{ar|مبروك عليك}",
+        "woordbank": [
+          "مبروك",
+          "بسلامة",
+          "صافي"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-feest",
+        "nl": "Gefeliciteerd!",
+        "woorden": [
+          "مبروك",
+          "عليك!"
+        ],
+        "uitleg": "Felicitatie."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-feest",
+        "bron": "de bruiloft (Darija)",
+        "antwoorden": [
+          "العرس"
+        ],
+        "uitleg": "{ar|العرس}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-feest",
+        "bron": "de bruid (Darija)",
+        "antwoorden": [
+          "العروسة"
+        ],
+        "uitleg": "{ar|العروسة}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-feest",
+        "bron": "عرضو علينا للعرس",
+        "antwoorden": [
+          "ze hebben ons uitgenodigd voor de bruiloft",
+          "ze nodigden ons uit voor de bruiloft"
+        ],
+        "uitleg": "{ar|عرض على}",
+        "tr": "ʿəṛṛḍu ʿlīna l-lʿəṛs"
+      }
+    ]
+  }
+}

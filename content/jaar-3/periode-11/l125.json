@@ -1,0 +1,635 @@
+{
+  "id": "j3-p11-l125",
+  "code": "L125",
+  "type": "les",
+  "titel": "Nadruk",
+  "thema": "Zelfvertrouwen en doorzetten; nadruk met لَـ، قَدْ، نَفْس، ذات",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "nadruk leggen met لَقَدْ en إِنَّ … لَـ.",
+    "قَدْ + māḍī en قَدْ + muḍāriʿ onderscheiden.",
+    "نَفْس en ذات gebruiken voor 'zelf' en 'dezelfde'."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l125-w01",
+      "ar": "تَأْكيدٌ",
+      "tr": "taʾkīd",
+      "nl": [
+        "nadruk, bevestiging"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p11-l125-w02",
+      "ar": "لَقَدْ",
+      "tr": "laqad",
+      "nl": [
+        "(nadruk) echt, al"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j3-p11-l125-w03",
+      "ar": "حَقًّا",
+      "tr": "ḥaqqan",
+      "nl": [
+        "werkelijk, echt"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p11-l125-w04",
+      "ar": "فِعْلًا",
+      "tr": "fiʿlan",
+      "nl": [
+        "inderdaad, daadwerkelijk"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p11-l125-w05",
+      "ar": "نَفْسُهُ",
+      "tr": "nafsuhu",
+      "nl": [
+        "hijzelf; hetzelfde"
+      ],
+      "soort": "voornaamwoord"
+    },
+    {
+      "id": "j3-p11-l125-w06",
+      "ar": "بِحَدِّ ذاتِهِ",
+      "tr": "bi-ḥaddi ḏātih",
+      "nl": [
+        "op zich, op zichzelf"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l125-w07",
+      "ar": "في الوَقْتِ ذاتِهِ",
+      "tr": "fi l-waqti ḏātih",
+      "nl": [
+        "tegelijkertijd"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l125-w08",
+      "ar": "ثِقَةٌ بِالنَّفْسِ",
+      "tr": "ṯiqatun bi-n-nafs",
+      "nl": [
+        "zelfvertrouwen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l125-w09",
+      "ar": "اِعْتِمادٌ عَلى النَّفْسِ",
+      "tr": "iʿtimādun ʿala n-nafs",
+      "nl": [
+        "zelfstandigheid"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l125-w10",
+      "ar": "لامَ يَلومُ",
+      "tr": "lāma yalūmu",
+      "nl": [
+        "verwijten"
+      ],
+      "soort": "werkwoord (hol)"
+    },
+    {
+      "id": "j3-p11-l125-w11",
+      "ar": "إِطْلاقًا",
+      "tr": "iṭlāqan",
+      "nl": [
+        "helemaal (niet)"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p11-l125-w12",
+      "ar": "قَطُّ",
+      "tr": "qaṭṭu",
+      "nl": [
+        "nooit (in het verleden)"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p11-l125-w13",
+      "ar": "عَزيمَةٌ",
+      "tr": "ʿazīma",
+      "nl": [
+        "vastberadenheid"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l125-w14",
+      "ar": "إِصْرارٌ",
+      "tr": "iṣrār",
+      "nl": [
+        "volharding, aandringen"
+      ],
+      "soort": "maṣdar (IV)"
+    },
+    {
+      "id": "j3-p11-l125-w15",
+      "ar": "شَكَّ في",
+      "tr": "šakka fī",
+      "nl": [
+        "twijfelen aan"
+      ],
+      "soort": "werkwoord (verdubbeld)"
+    },
+    {
+      "id": "j3-p11-l125-w16",
+      "ar": "بِعَيْنِهِ",
+      "tr": "bi-ʿaynih",
+      "nl": [
+        "precies dat, juist dat"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Manieren om nadruk te leggen",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Middel",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "لَقَدْ + māḍī",
+              "لَقَدْ نَجَحْتُ!",
+              "ik ben echt geslaagd!"
+            ],
+            [
+              "إِنَّ … لَـ",
+              "إِنَّكَ لَطالِبٌ مُجْتَهِدٌ",
+              "jij bent werkelijk een ijverige student"
+            ],
+            [
+              "قَدْ + muḍāriʿ",
+              "قَدْ يَتَأَخَّرُ",
+              "hij komt misschien te laat"
+            ],
+            [
+              "naamwoord + نَفْسُ + suffix",
+              "جاءَ المُديرُ نَفْسُهُ",
+              "de directeur kwam zelf"
+            ],
+            [
+              "نَفْسُ / ذاتُ + naamwoord",
+              "في نَفْسِ اليَوْمِ",
+              "op dezelfde dag"
+            ],
+            [
+              "كُلُّ + suffix",
+              "جاءَ الطُّلّابُ كُلُّهُمْ",
+              "alle studenten kwamen"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Het Arabisch heeft geen klemtoon-nadruk zoals het Nederlandse *hij kwam ZELF*. Nadruk zit in **woorden**: {ar|لَـ} en {ar|قَدْ} versterken de bewering, {ar|نَفْس} en {ar|ذات} benadrukken de persoon of zaak. Achter het naamwoord neemt {ar|نَفْسُ} dezelfde naamval: {ar|رَأَيْتُ المُديرَ نَفْسَهُ}."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|قَدْ} betekent iets anders naargelang het werkwoord: + māḍī = **al, echt** ({ar|قَدْ وَصَلَ}), + muḍāriʿ = **soms, misschien** ({ar|قَدْ يَصِلُ})."
+        }
+      ]
+    },
+    {
+      "titel": "Zelfvertrouwen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لَقَدْ نَجَحْتِ بِفَضْلِ عَزيمَتِكِ.",
+              "tr": "laqad najaḥti bi-faḍli ʿazīmatik.",
+              "nl": "Je bent echt geslaagd dankzij je vastberadenheid."
+            },
+            {
+              "ar": "إِنَّ الثِّقَةَ بِالنَّفْسِ لَمُهِمَّةٌ جِدًّا.",
+              "tr": "inna ṯ-ṯiqata bi-n-nafsi la-muhimmatun jiddan.",
+              "nl": "Zelfvertrouwen is werkelijk heel belangrijk."
+            },
+            {
+              "ar": "لا تَلُمْ نَفْسَكَ، فَالخَطَأُ بِحَدِّ ذاتِهِ لَيْسَ مُشْكِلَةً.",
+              "tr": "lā talum nafsaka, fa-l-ḫaṭaʾu bi-ḥaddi ḏātihi laysa muškila.",
+              "nl": "Verwijt het jezelf niet; een fout op zich is geen probleem."
+            },
+            {
+              "ar": "قابَلْتُ الكاتِبَ نَفْسَهُ في المَعْرِضِ.",
+              "tr": "qābaltu l-kātiba nafsahu fi l-maʿriḍ.",
+              "nl": "Ik heb de schrijver zelf op de beurs ontmoet."
+            },
+            {
+              "ar": "ما شَكَكْتُ في قُدْرَتِكَ قَطُّ.",
+              "tr": "mā šakaktu fī qudratika qaṭṭu.",
+              "nl": "Ik heb nooit aan je kunnen getwijfeld."
+            },
+            {
+              "ar": "كانَ سَعيدًا وَحَزينًا في الوَقْتِ ذاتِهِ.",
+              "tr": "kāna saʿīdan wa-ḥazīnan fi l-waqti ḏātih.",
+              "nl": "Hij was blij en verdrietig tegelijk."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حَقًّا",
+              "nl": "werkelijk",
+              "woord": "j3-p11-l125-w03"
+            },
+            {
+              "ar": "فِعْلًا",
+              "nl": "inderdaad",
+              "woord": "j3-p11-l125-w04"
+            },
+            {
+              "ar": "ثِقَةٌ بِالنَّفْسِ",
+              "nl": "zelfvertrouwen",
+              "woord": "j3-p11-l125-w08"
+            },
+            {
+              "ar": "عَزيمَةٌ",
+              "nl": "vastberadenheid",
+              "woord": "j3-p11-l125-w13"
+            },
+            {
+              "ar": "إِصْرارٌ",
+              "nl": "volharding",
+              "woord": "j3-p11-l125-w14"
+            },
+            {
+              "ar": "لامَ يَلومُ",
+              "nl": "verwijten",
+              "woord": "j3-p11-l125-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "nadruk",
+          "tekst": "لَقَدْ نَجَحْتُ!",
+          "vraag": "Wat drukt de spreker uit?",
+          "opties": [
+            "Ik ben echt geslaagd!",
+            "Misschien slaag ik.",
+            "Ik ben niet geslaagd."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَقَدْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Nadruk leggen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "nadruk",
+          "vraag": "{ar|قَدْ يَتَأَخَّرُ القِطارُ} betekent ...",
+          "opties": [
+            "De trein heeft misschien vertraging.",
+            "De trein had al vertraging.",
+            "De trein heeft nooit vertraging."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَدْ} + muḍāriʿ."
+        },
+        {
+          "type": "invullen",
+          "tag": "nadruk",
+          "zin": "جاءَ الوَزيرُ ___.",
+          "nl": "De minister kwam zelf.",
+          "antwoord": [
+            "نَفْسُهُ"
+          ],
+          "uitleg": "Zelfde naamval als {ar|الوَزيرُ}.",
+          "woordbank": [
+            "نَفْسُهُ",
+            "نَفْسَهُ",
+            "نَفْسِهِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "nadruk",
+          "zin": "رَأَيْتُ المُديرَ ___.",
+          "nl": "Ik zag de directeur zelf.",
+          "antwoord": [
+            "نَفْسَهُ"
+          ],
+          "uitleg": "Accusatief.",
+          "woordbank": [
+            "نَفْسَهُ",
+            "نَفْسُهُ",
+            "نَفْسِهِ"
+          ],
+          "streng": true
+        },
+        {
+          "type": "invullen",
+          "tag": "nadruk",
+          "zin": "إِنَّ هٰذا الكِتابَ ___ رائِعٌ.",
+          "nl": "Dit boek is werkelijk prachtig.",
+          "antwoord": [
+            "لَـ"
+          ],
+          "uitleg": "{ar|إِنَّ … لَـ}",
+          "woordbank": [
+            "لَـ",
+            "قَدْ",
+            "فَـ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "nadruk",
+          "vraag": "{ar|في نَفْسِ اليَوْمِ} betekent ...",
+          "opties": [
+            "op dezelfde dag",
+            "op de dag zelf",
+            "elke dag"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نَفْسُ} + naamwoord = dezelfde."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "nadruk",
+          "nl": "Ik heb de schrijver zelf ontmoet.",
+          "woorden": [
+            "قابَلْتُ",
+            "الكاتِبَ",
+            "نَفْسَهُ."
+          ],
+          "uitleg": "{ar|نَفْسَهُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "nadruk",
+          "bron": "tegelijkertijd",
+          "antwoorden": [
+            "في الوَقْتِ ذاتِهِ",
+            "في الوقت ذاته",
+            "في نَفْسِ الوَقْتِ"
+          ],
+          "uitleg": "{ar|في الوَقْتِ ذاتِهِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "nadruk",
+          "bron": "لا تَلُمْ نَفْسَكَ.",
+          "antwoorden": [
+            "verwijt het jezelf niet",
+            "geef jezelf niet de schuld"
+          ],
+          "uitleg": "{ar|لامَ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "إِطْلاقًا",
+            "nl": "helemaal niet"
+          },
+          {
+            "ar": "قَطُّ",
+            "nl": "nooit"
+          },
+          {
+            "ar": "بِحَدِّ ذاتِهِ",
+            "nl": "op zich"
+          },
+          {
+            "ar": "اِعْتِمادٌ عَلى النَّفْسِ",
+            "nl": "zelfstandigheid"
+          },
+          {
+            "ar": "بِعَيْنِهِ",
+            "nl": "precies dat"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "{ar|لَقَدْ وَصَلَ} betekent ...",
+        "opties": [
+          "Hij is echt / al aangekomen.",
+          "Hij komt misschien.",
+          "Hij is niet aangekomen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَقَدْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "'Alle studenten kwamen' is ...",
+        "opties": [
+          "جاءَ الطُّلّابُ كُلُّهُمْ",
+          "جاءَ كُلُّ الطّالِبُ",
+          "جاءَ الطُّلّابُ كُلَّهُمْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُلُّهُمْ} in de nominatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "{ar|قَطُّ} gebruik je bij ...",
+        "opties": [
+          "een ontkende verleden tijd",
+          "de toekomst",
+          "een gebod"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما … قَطُّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "Na {ar|إِنَّ} staat {ar|لَـ} vóór ...",
+        "opties": [
+          "het gezegde (ḫabar)",
+          "het onderwerp",
+          "het werkwoord in de māḍī"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِنَّكَ لَمُجْتَهِدٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "nadruk",
+        "tekst": "قابَلْتُ الكاتِبَ نَفْسَهُ",
+        "vraag": "Wie ontmoette de spreker?",
+        "opties": [
+          "de schrijver zelf",
+          "een andere schrijver",
+          "de vriend van de schrijver"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَفْسَهُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "nadruk",
+        "tekst": "قَدْ أُسافِرُ الصَّيْفَ القادِمَ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Misschien reis ik volgende zomer.",
+          "Ik ben al gereisd.",
+          "Ik reis nooit."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَدْ} + muḍāriʿ."
+      },
+      {
+        "type": "invullen",
+        "tag": "nadruk",
+        "zin": "ما رَأَيْتُ مِثْلَهُ ___.",
+        "nl": "Ik heb nog nooit zoiets gezien.",
+        "antwoord": [
+          "قَطُّ"
+        ],
+        "uitleg": "Verleden: {ar|قَطُّ}.",
+        "woordbank": [
+          "قَطُّ",
+          "أَبَدًا",
+          "إِطْلاقًا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "nadruk",
+        "zin": "لا أُوافِقُ ___.",
+        "nl": "Ik ben het er helemaal niet mee eens.",
+        "antwoord": [
+          "إِطْلاقًا"
+        ],
+        "uitleg": "Helemaal niet.",
+        "woordbank": [
+          "إِطْلاقًا",
+          "قَطُّ",
+          "حَقًّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "تَحْتاجُ إِلى ___ بِالنَّفْسِ.",
+        "nl": "Je hebt zelfvertrouwen nodig.",
+        "antwoord": [
+          "ثِقَةٍ"
+        ],
+        "uitleg": "{ar|ثِقَةٌ بِالنَّفْسِ}",
+        "woordbank": [
+          "ثِقَةٍ",
+          "عَزيمَةٍ",
+          "تَأْكيدٍ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "nadruk",
+        "instructie": "Zet نَفْس in de juiste vorm.",
+        "rijen": [
+          {
+            "label": "جاءَتِ المُديرَةُ ___ (zelf)",
+            "antwoord": "نَفْسُها",
+            "tr": "nafsuhā",
+            "eind": true
+          },
+          {
+            "label": "كَلَّمْتُ الطُّلّابَ ___ (zelf)",
+            "antwoord": "أَنْفُسَهُمْ",
+            "tr": "anfusahum",
+            "eind": true
+          }
+        ],
+        "uitleg": "Naamval en voornaamwoord volgen het naamwoord."
+      },
+      {
+        "type": "ordenen",
+        "tag": "nadruk",
+        "nl": "Zelfvertrouwen is werkelijk belangrijk.",
+        "woorden": [
+          "إِنَّ",
+          "الثِّقَةَ",
+          "بِالنَّفْسِ",
+          "لَمُهِمَّةٌ."
+        ],
+        "uitleg": "{ar|إِنَّ … لَـ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "nadruk",
+        "bron": "Ik ben echt geslaagd!",
+        "antwoorden": [
+          "لَقَدْ نَجَحْتُ!",
+          "لقد نجحت",
+          "لَقَدْ نَجَحْتُ"
+        ],
+        "uitleg": "{ar|لَقَدْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "nadruk",
+        "bron": "الخَطَأُ بِحَدِّ ذاتِهِ لَيْسَ مُشْكِلَةً.",
+        "antwoorden": [
+          "een fout op zich is geen probleem",
+          "de fout op zichzelf is geen probleem"
+        ],
+        "uitleg": "{ar|بِحَدِّ ذاتِهِ}"
+      }
+    ]
+  }
+}

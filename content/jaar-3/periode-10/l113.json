@@ -1,0 +1,635 @@
+{
+  "id": "j3-p10-l113",
+  "code": "L113",
+  "type": "les",
+  "titel": "Geschiedenis II",
+  "thema": "De geschiedenis van Marokko; het voltooid verleden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over historische gebeurtenissen vertellen.",
+    "het voltooid verleden vormen met كانَ قَدْ + māḍī.",
+    "het voltooid toekomende herkennen (سَيَكونُ قَدْ)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p10-l113-w01",
+      "ar": "اِسْتِعْمارٌ",
+      "tr": "istiʿmār",
+      "nl": [
+        "kolonialisme"
+      ],
+      "soort": "maṣdar (X)"
+    },
+    {
+      "id": "j3-p10-l113-w02",
+      "ar": "الحِمايَةُ",
+      "tr": "al-ḥimāya",
+      "nl": [
+        "het protectoraat"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l113-w03",
+      "ar": "مُقاوَمَةٌ",
+      "tr": "muqāwama",
+      "nl": [
+        "verzet"
+      ],
+      "soort": "maṣdar (III)"
+    },
+    {
+      "id": "j3-p10-l113-w04",
+      "ar": "ثَوْرَةٌ",
+      "tr": "ṯawra",
+      "nl": [
+        "revolutie, opstand"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l113-w05",
+      "ar": "مَعْرَكَةٌ",
+      "tr": "maʿraka",
+      "nl": [
+        "veldslag"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَعارِكُ}."
+    },
+    {
+      "id": "j3-p10-l113-w06",
+      "ar": "مُعاهَدَةٌ",
+      "tr": "muʿāhada",
+      "nl": [
+        "verdrag"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l113-w07",
+      "ar": "سُلْطانٌ",
+      "tr": "sulṭān",
+      "nl": [
+        "sultan"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l113-w08",
+      "ar": "وَثيقَةٌ",
+      "tr": "waṯīqa",
+      "nl": [
+        "document"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|وَثائِقُ}."
+    },
+    {
+      "id": "j3-p10-l113-w10",
+      "ar": "اِنْتَصَرَ عَلى",
+      "tr": "intaṣara ʿalā",
+      "nl": [
+        "overwinnen"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j3-p10-l113-w11",
+      "ar": "هُزِمَ",
+      "tr": "huzima",
+      "nl": [
+        "verslagen worden"
+      ],
+      "soort": "werkwoord (lijdend)"
+    },
+    {
+      "id": "j3-p10-l113-w12",
+      "ar": "خَضَعَ لِـ",
+      "tr": "ḫaḍaʿa li-",
+      "nl": [
+        "zich onderwerpen aan, vallen onder"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p10-l113-w13",
+      "ar": "رَحّالَةٌ",
+      "tr": "raḥḥāla",
+      "nl": [
+        "(grote) reiziger"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p10-l113-w14",
+      "ar": "كانَ قَدْ",
+      "tr": "kāna qad",
+      "nl": [
+        "had (voltooid verleden)"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l113-w15",
+      "ar": "سَيَكونُ قَدْ",
+      "tr": "sa-yakūnu qad",
+      "nl": [
+        "zal hebben (voltooid toekomend)"
+      ],
+      "soort": "constructie"
+    },
+    {
+      "id": "j3-p10-l113-w16",
+      "ar": "آنَذاكَ",
+      "tr": "ānaḏāka",
+      "nl": [
+        "toen, in die tijd"
+      ],
+      "soort": "bijwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het voltooid verleden: كانَ قَدْ + māḍī",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Om te zeggen dat iets **vóór** een ander moment in het verleden al gebeurd was, gebruik je {ar|كانَ} (vervoegd) + {ar|قَدْ} + māḍī: {ar|كانَ القِطارُ قَدْ غادَرَ} = de trein was al vertrokken.",
+            "Beide werkwoorden worden vervoegd: {ar|كُنْتُ قَدْ أَكَلْتُ} (ik had gegeten), {ar|كانَتْ قَدْ نامَتْ} (zij was gaan slapen), {ar|كُنّا قَدْ وَصَلْنا} (wij waren aangekomen)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Tijd",
+            "Constructie",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "verleden",
+              "māḍī",
+              "غادَرَ القِطارُ",
+              "de trein vertrok"
+            ],
+            [
+              "voltooid verleden",
+              "كانَ (قَدْ) + māḍī",
+              "كانَ القِطارُ قَدْ غادَرَ",
+              "de trein was vertrokken"
+            ],
+            [
+              "voltooid toekomend",
+              "سَيَكونُ قَدْ + māḍī",
+              "سَيَكونُ القِطارُ قَدْ غادَرَ",
+              "de trein zal vertrokken zijn"
+            ],
+            [
+              "duur in het verleden",
+              "كانَ + muḍāriʿ",
+              "كانَ يُغادِرُ",
+              "hij vertrok (altijd)"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|قَدْ}? Na een māḍī benadrukt {ar|قَدْ} dat de handeling **afgerond** is (les 78). Met {ar|كانَ} ervoor schuif je dat afgeronde moment naar het verleden. {ar|قَدْ} mag soms wegvallen ({ar|كانَ غادَرَ}), maar in nette teksten staat het er bijna altijd."
+        },
+        {
+          "type": "letop",
+          "md": "Verwar het niet met {ar|كانَ} + muḍāriʿ (gewoonte in het verleden): {ar|كانَ يَقْرَأُ} = hij las (altijd), {ar|كانَ قَدْ قَرَأَ} = hij had gelezen."
+        }
+      ]
+    },
+    {
+      "titel": "Uit de geschiedenis van Marokko",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عِنْدَما وَصَلْنا إِلى المَحَطَّةِ، كانَ القِطارُ قَدْ غادَرَ.",
+              "tr": "ʿindamā waṣalnā ila l-maḥaṭṭati, kāna l-qiṭāru qad ġādar.",
+              "nl": "Toen we bij het station aankwamen, was de trein al vertrokken."
+            },
+            {
+              "ar": "حَصَلَ المَغْرِبُ عَلى اِسْتِقْلالِهِ سَنَةَ ١٩٥٦، بَعْدَ أَنْ كانَ قَدْ خَضَعَ لِلْحِمايَةِ مُنْذُ ١٩١٢.",
+              "tr": "ḥaṣala l-maġribu ʿalā stiqlālihi sanata 1956, baʿda an kāna qad ḫaḍaʿa li-l-ḥimāyati munḏu 1912.",
+              "nl": "Marokko werd in 1956 onafhankelijk, nadat het sinds 1912 onder het protectoraat had gestaan."
+            },
+            {
+              "ar": "كانَ اِبْنُ بَطّوطَةَ قَدْ زارَ بُلْدانًا كَثيرَةً قَبْلَ أَنْ يَرْجِعَ إِلى المَغْرِبِ.",
+              "tr": "kāna bnu baṭṭūṭata qad zāra buldānan kaṯīratan qabla an yarjiʿa ila l-maġrib.",
+              "nl": "Ibn Battuta had veel landen bezocht voordat hij naar Marokko terugkeerde."
+            },
+            {
+              "ar": "كُنْتُ قَدْ قَرَأْتُ الكِتابَ قَبْلَ أَنْ أُشاهِدَ الفيلْمَ.",
+              "tr": "kuntu qad qaraʾtu l-kitāba qabla an ušāhida l-film.",
+              "nl": "Ik had het boek gelezen voordat ik de film zag."
+            },
+            {
+              "ar": "سَيَكونُ العُمّالُ قَدْ أَنْهَوُا البِناءَ قَبْلَ الصَّيْفِ.",
+              "tr": "sa-yakūnu l-ʿummālu qad anhawu l-bināʾa qabla ṣ-ṣayf.",
+              "nl": "De arbeiders zullen de bouw vóór de zomer hebben afgerond."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "اِسْتِعْمارٌ",
+              "nl": "kolonialisme",
+              "woord": "j3-p10-l113-w01"
+            },
+            {
+              "ar": "مُقاوَمَةٌ",
+              "nl": "verzet",
+              "woord": "j3-p10-l113-w03"
+            },
+            {
+              "ar": "ثَوْرَةٌ",
+              "nl": "revolutie",
+              "woord": "j3-p10-l113-w04"
+            },
+            {
+              "ar": "مَعْرَكَةٌ",
+              "nl": "veldslag",
+              "woord": "j3-p10-l113-w05"
+            },
+            {
+              "ar": "مُعاهَدَةٌ",
+              "nl": "verdrag",
+              "woord": "j3-p10-l113-w06"
+            },
+            {
+              "ar": "وَثيقَةٌ",
+              "nl": "document",
+              "woord": "j3-p10-l113-w08"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "voltooid-verleden",
+          "tekst": "كانَ القِطارُ قَدْ غادَرَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De trein was al vertrokken.",
+            "De trein vertrekt zo.",
+            "De trein vertrok altijd."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كانَ قَدْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Voltooid verleden",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "voltooid-verleden",
+          "instructie": "Maak het voltooid verleden van أَكَلَ.",
+          "rijen": [
+            {
+              "label": "ik had gegeten",
+              "antwoord": "كُنْتُ قَدْ أَكَلْتُ",
+              "tr": "kuntu qad akaltu"
+            },
+            {
+              "label": "zij (v) had gegeten",
+              "antwoord": "كانَتْ قَدْ أَكَلَتْ",
+              "tr": "kānat qad akalat"
+            },
+            {
+              "label": "wij hadden gegeten",
+              "antwoord": "كُنّا قَدْ أَكَلْنا",
+              "tr": "kunnā qad akalnā"
+            }
+          ],
+          "uitleg": "Beide werkwoorden vervoegen."
+        },
+        {
+          "type": "invullen",
+          "tag": "voltooid-verleden",
+          "zin": "عِنْدَما وَصَلْتُ، كانَ الدَّرْسُ قَدْ ___.",
+          "nl": "Toen ik aankwam, was de les al begonnen.",
+          "antwoord": [
+            "بَدَأَ"
+          ],
+          "uitleg": "Māḍī na {ar|كانَ قَدْ}.",
+          "woordbank": [
+            "بَدَأَ",
+            "يَبْدَأُ",
+            "سَيَبْدَأُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "voltooid-verleden",
+          "zin": "___ قَدْ نامَتْ عِنْدَما اتَّصَلْتُ.",
+          "nl": "Ze was al gaan slapen toen ik belde.",
+          "antwoord": [
+            "كانَتْ"
+          ],
+          "uitleg": "{ar|كانَ} vervoegen.",
+          "woordbank": [
+            "كانَتْ",
+            "كانَ",
+            "كُنْتُ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voltooid-verleden",
+          "vraag": "Wat is het verschil tussen {ar|كانَ يَقْرَأُ} en {ar|كانَ قَدْ قَرَأَ}?",
+          "opties": [
+            "las (altijd) tegenover had gelezen",
+            "er is geen verschil",
+            "zal lezen tegenover heeft gelezen"
+          ],
+          "juist": 0,
+          "uitleg": "Gewoonte tegenover voltooid."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "voltooid-verleden",
+          "vraag": "'De arbeiders zullen het af hebben' is ...",
+          "opties": [
+            "سَيَكونُ العُمّالُ قَدْ أَنْهَوُا العَمَلَ",
+            "كانَ العُمّالُ قَدْ أَنْهَوُا العَمَلَ",
+            "يُنْهي العُمّالُ العَمَلَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|سَيَكونُ قَدْ}"
+        }
+      ]
+    },
+    {
+      "titel": "Geschiedenis",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "voltooid-verleden",
+          "nl": "Ik had het boek gelezen voordat ik de film zag.",
+          "woorden": [
+            "كُنْتُ",
+            "قَدْ",
+            "قَرَأْتُ",
+            "الكِتابَ",
+            "قَبْلَ",
+            "أَنْ",
+            "أُشاهِدَ",
+            "الفيلْمَ."
+          ],
+          "uitleg": "Voltooid verleden."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "het kolonialisme",
+          "antwoorden": [
+            "الاِسْتِعْمارُ",
+            "الاستعمار"
+          ],
+          "uitleg": "{ar|الاِسْتِعْمارُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "voltooid-verleden",
+          "bron": "كانَ اِبْنُ بَطّوطَةَ قَدْ زارَ بُلْدانًا كَثيرَةً.",
+          "antwoorden": [
+            "ibn battuta had veel landen bezocht",
+            "ibn battuta had al veel landen bezocht"
+          ],
+          "uitleg": "Voltooid verleden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "سُلْطانٌ",
+            "nl": "sultan"
+          },
+          {
+            "ar": "حَدَثٌ",
+            "nl": "gebeurtenis"
+          },
+          {
+            "ar": "اِنْتَصَرَ عَلى",
+            "nl": "overwinnen"
+          },
+          {
+            "ar": "رَحّالَةٌ",
+            "nl": "grote reiziger"
+          },
+          {
+            "ar": "آنَذاكَ",
+            "nl": "in die tijd"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "Het voltooid verleden vorm je met ...",
+        "opties": [
+          "كانَ + قَدْ + māḍī",
+          "كانَ + muḍāriʿ",
+          "سَـ + muḍāriʿ"
+        ],
+        "juist": 0,
+        "uitleg": "Definitie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "'Jij (m) had geschreven' is ...",
+        "opties": [
+          "كُنْتَ قَدْ كَتَبْتَ",
+          "كانَ قَدْ كَتَبْتَ",
+          "كُنْتَ قَدْ كَتَبَ"
+        ],
+        "juist": 0,
+        "uitleg": "Beide vervoegen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "voltooid-verleden",
+        "vraag": "{ar|كانَ يَعيشُ في فاسَ} betekent ...",
+        "opties": [
+          "Hij woonde (toen) in Fès.",
+          "Hij had in Fès gewoond.",
+          "Hij zal in Fès wonen."
+        ],
+        "juist": 0,
+        "uitleg": "Duur in het verleden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "{ar|هُزِمَ الجَيْشُ} betekent ...",
+        "opties": [
+          "Het leger werd verslagen.",
+          "Het leger won.",
+          "Het leger vluchtte."
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "voltooid-verleden",
+        "tekst": "كُنّا قَدْ وَصَلْنا قَبْلَ المَطَرِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We waren vóór de regen aangekomen.",
+          "We komen na de regen.",
+          "We kwamen in de regen aan."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كُنّا قَدْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "حَصَلَ المَغْرِبُ عَلى الاِسْتِقْلالِ سَنَةَ ١٩٥٦",
+        "vraag": "Wat gebeurde er in 1956?",
+        "opties": [
+          "Marokko werd onafhankelijk.",
+          "Het protectoraat begon.",
+          "Er was een grote veldslag."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الاِسْتِقْلالُ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "voltooid-verleden",
+        "zin": "عِنْدَما وَصَلَتِ الشُّرْطَةُ، كانَ اللِّصُّ قَدْ ___.",
+        "nl": "Toen de politie aankwam, was de dief al gevlucht.",
+        "antwoord": [
+          "هَرَبَ"
+        ],
+        "uitleg": "Māḍī.",
+        "woordbank": [
+          "هَرَبَ",
+          "يَهْرُبُ",
+          "هارِبٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "voltooid-verleden",
+        "zin": "___ قَدْ نَسيتُ اسْمَهُ.",
+        "nl": "Ik was zijn naam vergeten.",
+        "antwoord": [
+          "كُنْتُ"
+        ],
+        "uitleg": "1e persoon.",
+        "woordbank": [
+          "كُنْتُ",
+          "كانَ",
+          "كُنّا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "خَضَعَتِ البِلادُ ___ لِلاِسْتِعْمارِ.",
+        "nl": "Het land viel toen onder het kolonialisme.",
+        "antwoord": [
+          "آنَذاكَ"
+        ],
+        "uitleg": "{ar|آنَذاكَ}",
+        "woordbank": [
+          "آنَذاكَ",
+          "غَدًا",
+          "قَريبًا"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "voltooid-verleden",
+        "instructie": "Voltooid verleden van ذَهَبَ.",
+        "rijen": [
+          {
+            "label": "hij was gegaan",
+            "antwoord": "كانَ قَدْ ذَهَبَ",
+            "tr": "kāna qad ḏahaba"
+          },
+          {
+            "label": "zij (mv, m) waren gegaan",
+            "antwoord": "كانوا قَدْ ذَهَبوا",
+            "tr": "kānū qad ḏahabū"
+          }
+        ],
+        "uitleg": "Beide vervoegen."
+      },
+      {
+        "type": "ordenen",
+        "tag": "voltooid-verleden",
+        "nl": "Toen we aankwamen, was de trein al vertrokken.",
+        "woorden": [
+          "عِنْدَما",
+          "وَصَلْنا",
+          "كانَ",
+          "القِطارُ",
+          "قَدْ",
+          "غادَرَ."
+        ],
+        "uitleg": "Voltooid verleden."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de revolutie",
+        "antwoorden": [
+          "الثَّوْرَةُ",
+          "الثورة"
+        ],
+        "uitleg": "{ar|الثَّوْرَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "voltooid-verleden",
+        "bron": "كانَتْ قَدْ خَرَجَتْ عِنْدَما اتَّصَلْتُ.",
+        "antwoorden": [
+          "ze was al weg toen ik belde",
+          "zij was al vertrokken toen ik belde",
+          "ze was al naar buiten gegaan toen ik belde"
+        ],
+        "uitleg": "{ar|كانَتْ قَدْ}"
+      }
+    ]
+  }
+}

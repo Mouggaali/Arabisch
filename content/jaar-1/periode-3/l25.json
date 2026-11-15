@@ -1,0 +1,186 @@
+{
+  "id": "j1-p3-l25",
+  "code": "L25",
+  "type": "les",
+  "titel": "Gisteren",
+  "thema": "Vertellen wat je gisteren of vorige week deed",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de verleden tijd (māḍī) vervoegen in het enkelvoud: ik, jij (m/v), hij, zij.",
+    "de uitgangen ـْتُ، ـْتَ، ـْتِ، ـَ، ـَتْ herkennen en gebruiken.",
+    "de verleden tijd ontkennen met ما.",
+    "vertellen wat ik gisteren deed, met ثُمَّ (daarna)."
+  ],
+
+  "woorden": [
+    { "id": "j1-p3-l25-w01", "ar": "كَتَبَ", "tr": "kataba", "nl": ["schreef (hij)", "schrijven"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَكْتُبُ}." },
+    { "id": "j1-p3-l25-w02", "ar": "دَرَسَ", "tr": "darasa", "nl": ["studeerde (hij)", "studeren"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَدْرُسُ}." },
+    { "id": "j1-p3-l25-w03", "ar": "ذَهَبَ", "tr": "ḏahaba", "nl": ["ging (hij)", "gaan"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَذْهَبُ}." },
+    { "id": "j1-p3-l25-w04", "ar": "شَرِبَ", "tr": "šariba", "nl": ["dronk (hij)", "drinken"], "soort": "werkwoord", "notitie": "Klinker i in de verleden tijd. Muḍāriʿ: {ar|يَشْرَبُ}." },
+    { "id": "j1-p3-l25-w05", "ar": "أَكَلَ", "tr": "akala", "nl": ["at (hij)", "eten"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَأْكُلُ}." },
+    { "id": "j1-p3-l25-w06", "ar": "عَمِلَ", "tr": "ʿamila", "nl": ["werkte (hij)", "werken"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَعْمَلُ}." },
+    { "id": "j1-p3-l25-w07", "ar": "لَعِبَ", "tr": "laʿiba", "nl": ["speelde (hij)", "spelen"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَلْعَبُ}." },
+    { "id": "j1-p3-l25-w08", "ar": "رَجَعَ", "tr": "rajaʿa", "nl": ["kwam terug (hij)", "terugkomen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَرْجِعُ}." },
+    { "id": "j1-p3-l25-w09", "ar": "خَرَجَ", "tr": "ḫaraja", "nl": ["ging naar buiten (hij)", "weggaan"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَخْرُجُ}." },
+    { "id": "j1-p3-l25-w10", "ar": "دَخَلَ", "tr": "daḫala", "nl": ["ging binnen (hij)", "binnengaan"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَدْخُلُ}." },
+    { "id": "j1-p3-l25-w11", "ar": "جَلَسَ", "tr": "jalasa", "nl": ["zat (hij)", "gaan zitten"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَجْلِسُ}." },
+    { "id": "j1-p3-l25-w12", "ar": "فَتَحَ", "tr": "fataḥa", "nl": ["opende (hij)", "openen"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَفْتَحُ}." },
+    { "id": "j1-p3-l25-w13", "ar": "سَمِعَ", "tr": "samiʿa", "nl": ["hoorde (hij)", "horen"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَسْمَعُ}." },
+    { "id": "j1-p3-l25-w14", "ar": "فَهِمَ", "tr": "fahima", "nl": ["begreep (hij)", "begrijpen"], "soort": "werkwoord", "notitie": "Klinker i. Muḍāriʿ: {ar|يَفْهَمُ}." },
+    { "id": "j1-p3-l25-w15", "ar": "طَبَخَ", "tr": "ṭabaḫa", "nl": ["kookte (hij)", "koken"], "soort": "werkwoord", "notitie": "Muḍāriʿ: {ar|يَطْبُخُ}." },
+    { "id": "j1-p3-l25-w16", "ar": "البارِحَةَ", "tr": "al-bāriḥa", "nl": ["gisteravond", "gisteren"], "soort": "bijwoord" },
+    { "id": "j1-p3-l25-w17", "ar": "الأُسْبوعَ الماضِيَ", "tr": "al-usbūʿa l-māḍī", "nl": ["vorige week"], "soort": "uitdrukking", "notitie": "{ar|الماضي} = het voorbije; vandaar ook de naam *māḍī*." },
+    { "id": "j1-p3-l25-w18", "ar": "السَّنَةَ الماضِيَةَ", "tr": "as-sanata l-māḍiya", "nl": ["vorig jaar"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l25-w19", "ar": "قَبْلَ", "tr": "qabla", "nl": ["voor (tijd)", "geleden"], "soort": "voorzetsel", "notitie": "{ar|قَبْلَ أُسْبوعٍ} = een week geleden." },
+    { "id": "j1-p3-l25-w20", "ar": "ثُمَّ", "tr": "ṯumma", "nl": ["daarna", "toen", "vervolgens"], "soort": "voegwoord" },
+    { "id": "j1-p3-l25-w21", "ar": "بَعْدَ ذٰلِكَ", "tr": "baʿda ḏālik", "nl": ["daarna", "na dat"], "soort": "uitdrukking" },
+    { "id": "j1-p3-l25-w22", "ar": "سوقٌ", "tr": "sūq", "nl": ["markt"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De verleden tijd (māḍī): enkelvoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "In de verleden tijd werkt het Arabisch met **achtervoegsels** in plaats van voorvoegsels. De basisvorm is *hij*: {ar|كَتَبَ} (*hij schreef*). Woordenboeken geven werkwoorden ook in deze vorm.",
+          "Voor de andere personen plak je een uitgang aan de stam {ar|كَتَبْـ}: ـْتُ (ik), ـْتَ (jij, m), ـْتِ (jij, v), ـَتْ (zij)."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Vorm", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["أَنا", "كَتَبْتُ|katabtu", "ik schreef"],
+          ["أَنْتَ", "كَتَبْتَ|katabta", "jij (m) schreef"],
+          ["أَنْتِ", "كَتَبْتِ|katabti", "jij (v) schreef"],
+          ["هُوَ", "كَتَبَ|kataba", "hij schreef"],
+          ["هِيَ", "كَتَبَتْ|katabat", "zij schreef"]
+        ] },
+        { "type": "letop", "md": "Zonder harakat zien *ik*, *jij (m)*, *jij (v)* en *zij* er allemaal hetzelfde uit: كتبت. Alleen de klinkers onderscheiden ze: *katabtu*, *katabta*, *katabti*, *katabat*. Lees ze daarom altijd met harakat, of let op de context." },
+        { "type": "waarom", "md": "Je ziet hier waarom het Arabisch twee tijden zo verschillend bouwt: in de muḍāriʿ zit de persoon vooraan ({ar|أَكْتُبُ}), in de māḍī achteraan ({ar|كَتَبْتُ}). Zo zie je aan de vorm van het woord meteen welke tijd het is." }
+      ]
+    },
+    {
+      "titel": "Twee klinkerpatronen: faʿala en faʿila",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De meeste werkwoorden hebben een a op de tweede letter: {ar|كَتَبَ}, {ar|ذَهَبَ}. Sommige hebben een **i**: {ar|شَرِبَ}، {ar|فَهِمَ}، {ar|عَمِلَ}، {ar|سَمِعَ}، {ar|لَعِبَ}. Die hebben in de muḍāriʿ meestal een a: {ar|يَشْرَبُ}، {ar|يَفْهَمُ}.",
+          "Leer daarom elk werkwoord als paar: **māḍī – muḍāriʿ**: {ar|كَتَبَ – يَكْتُبُ}، {ar|شَرِبَ – يَشْرَبُ}، {ar|جَلَسَ – يَجْلِسُ}."
+        ] },
+        { "type": "tabel", "kop": ["hij (māḍī)", "ik (māḍī)", "hij (muḍāriʿ)", "Betekenis"], "arKolommen": [0, 1, 2], "rijen": [
+          ["ذَهَبَ|ḏahaba", "ذَهَبْتُ|ḏahabtu", "يَذْهَبُ|yaḏhabu", "gaan"],
+          ["شَرِبَ|šariba", "شَرِبْتُ|šaribtu", "يَشْرَبُ|yašrabu", "drinken"],
+          ["أَكَلَ|akala", "أَكَلْتُ|akaltu", "يَأْكُلُ|yaʾkulu", "eten"],
+          ["فَهِمَ|fahima", "فَهِمْتُ|fahimtu", "يَفْهَمُ|yafhamu", "begrijpen"],
+          ["رَجَعَ|rajaʿa", "رَجَعْتُ|rajaʿtu", "يَرْجِعُ|yarjiʿu", "terugkomen"]
+        ] }
+      ]
+    },
+    {
+      "titel": "Ontkennen en vertellen",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De verleden tijd ontken je met **{ar|ما}** vóór het werkwoord: {ar|ما ذَهَبْتُ} (*ik ging niet*). In formele teksten zie je ook {ar|لَمْ} + muḍāriʿ; dat leer je in les 51.",
+          "Een reeks gebeurtenissen verbind je met {ar|ثُمَّ} (*daarna*) of {ar|بَعْدَ ذٰلِكَ}."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "أَمْسِ ذَهَبْتُ إِلى السّوقِ، ثُمَّ رَجَعْتُ إِلى البَيْتِ.", "tr": "amsi ḏahabtu ila s-sūqi, ṯumma rajaʿtu ila l-bayt.", "nl": "Gisteren ging ik naar de markt, daarna ging ik terug naar huis." },
+          { "ar": "هَلْ فَهِمْتِ الدَّرْسَ؟ — نَعَمْ، فَهِمْتُهُ.", "tr": "hal fahimti d-dars? — naʿam, fahimtuh.", "nl": "Heb je (v) de les begrepen? — Ja, ik heb hem begrepen." },
+          { "ar": "طَبَخَتْ أُمّي البارِحَةَ وَأَكَلْنا مَعًا.", "tr": "ṭabaḫat ummī l-bāriḥata wa-akalnā maʿan.", "nl": "Mijn moeder kookte gisteravond en we aten samen.",
+            "review": { "status": "onzeker", "note": "Bevat al أَكَلْنا (meervoud, les 26). Controleer of dit voorbeeld hier te vroeg komt." } },
+          { "ar": "ما شَرِبْتُ القَهْوَةَ اليَوْمَ.", "tr": "mā šaribtu l-qahwata l-yawm.", "nl": "Ik heb vandaag geen koffie gedronken." },
+          { "ar": "عَمِلَ أَبي في مَصْنَعٍ السَّنَةَ الماضِيَةَ.", "tr": "ʿamila abī fī maṣnaʿin as-sanata l-māḍiya.", "nl": "Mijn vader werkte vorig jaar in een fabriek." }
+        ] },
+        { "type": "waarom", "md": "De Arabische māḍī dekt zowel de Nederlandse onvoltooid verleden tijd (*ik schreef*) als de voltooid tegenwoordige tijd (*ik heb geschreven*): het gaat om een afgeronde handeling." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden in de verleden tijd",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "ذَهَبَ", "nl": "ging", "woord": "j1-p3-l25-w03" },
+          { "ar": "شَرِبَ", "nl": "dronk", "woord": "j1-p3-l25-w04" },
+          { "ar": "أَكَلَ", "nl": "at", "woord": "j1-p3-l25-w05" },
+          { "ar": "رَجَعَ", "nl": "kwam terug", "woord": "j1-p3-l25-w08" },
+          { "ar": "فَتَحَ", "nl": "opende", "woord": "j1-p3-l25-w12" },
+          { "ar": "سَمِعَ", "nl": "hoorde", "woord": "j1-p3-l25-w13" }
+        ], "uitleg": "De hij-vorm van de māḍī." },
+        { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "ذَهَبْتُ إِلى السّوقِ", "vraag": "Wat hoor je?", "opties": ["Ik ging naar de markt.", "Hij ging naar de markt.", "Ik ga naar de markt."], "juist": 0, "uitleg": "ـْتُ = ik, verleden tijd." },
+        { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "كَتَبَتْ رِسالَةً", "vraag": "Wie schreef een brief?", "opties": ["zij", "ik", "jij (m)"], "juist": 0, "uitleg": "ـَتْ = zij." },
+        { "type": "meerkeuze", "tag": "madi-enkelvoud", "vraag": "Welke tijd is {ar|يَشْرَبُ}, en welke {ar|شَرِبَ}?", "opties": ["tegenwoordig – verleden", "verleden – tegenwoordig", "beide verleden"], "juist": 0, "uitleg": "Voorvoegsel = muḍāriʿ; uitgang = māḍī." }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "madi-enkelvoud", "instructie": "Vervoeg دَرَسَ (studeren) in de verleden tijd. Let op de eindklinker.", "eind": true,
+          "rijen": [
+            { "label": "ik", "ar": "أَنا", "antwoord": "دَرَسْتُ", "tr": "darastu" },
+            { "label": "jij (m)", "ar": "أَنْتَ", "antwoord": "دَرَسْتَ", "tr": "darasta" },
+            { "label": "jij (v)", "ar": "أَنْتِ", "antwoord": "دَرَسْتِ", "tr": "darasti" },
+            { "label": "hij", "ar": "هُوَ", "antwoord": "دَرَسَ", "tr": "darasa" },
+            { "label": "zij", "ar": "هِيَ", "antwoord": "دَرَسَتْ", "tr": "darasat" }
+          ], "uitleg": "-tu / -ta / -ti / -a / -at" },
+        { "type": "vervoegen", "tag": "madi-enkelvoud", "instructie": "Vervoeg شَرِبَ (drinken). Let op de i!", "eind": true,
+          "rijen": [
+            { "label": "ik", "antwoord": "شَرِبْتُ", "tr": "šaribtu" },
+            { "label": "jij (v)", "antwoord": "شَرِبْتِ", "tr": "šaribti" },
+            { "label": "zij", "antwoord": "شَرِبَتْ", "tr": "šaribat" }
+          ], "uitleg": "De i op de tweede letter blijft." },
+        { "type": "invullen", "tag": "madi-enkelvoud", "zin": "أَمْسِ ___ إِلى العَمَلِ.", "nl": "Gisteren ging ik naar het werk.", "woordbank": ["ذَهَبْتُ", "أَذْهَبُ", "ذَهَبَتْ"], "antwoord": ["ذَهَبْتُ"], "uitleg": "Verleden tijd, ik: ـْتُ." },
+        { "type": "invullen", "tag": "madi-enkelvoud", "zin": "أُمّي ___ الدَّجاجَ.", "nl": "Mijn moeder kookte de kip.", "woordbank": ["طَبَخَتْ", "طَبَخَ", "تَطْبُخُ"], "antwoord": ["طَبَخَتْ"], "uitleg": "Zij: ـَتْ." },
+        { "type": "invullen", "tag": "madi-ontkenning", "zin": "___ فَهِمْتُ السُّؤالَ.", "nl": "Ik begreep de vraag niet.", "woordbank": ["ما", "لا", "لَيْسَ"], "antwoord": ["ما"], "uitleg": "Verleden tijd: {ar|ما}." }
+      ]
+    },
+    {
+      "titel": "Vertellen",
+      "items": [
+        { "type": "ordenen", "tag": "madi-enkelvoud", "nl": "Gisteren ging ik naar de markt, daarna ging ik terug naar huis.", "woorden": ["أَمْسِ", "ذَهَبْتُ", "إِلى", "السّوقِ،", "ثُمَّ", "رَجَعْتُ", "إِلى", "البَيْتِ."], "uitleg": "{ar|ثُمَّ} = daarna." },
+        { "type": "ordenen", "tag": "madi-ontkenning", "nl": "Ik heb vandaag geen koffie gedronken.", "woorden": ["ما", "شَرِبْتُ", "القَهْوَةَ", "اليَوْمَ."], "uitleg": "{ar|ما} + māḍī." },
+        { "type": "meerkeuze", "tag": "madi-ontkenning", "vraag": "Welke ontkenning hoort bij de verleden tijd?", "opties": ["ما ذَهَبَ", "لا ذَهَبَ", "لَيْسَ ذَهَبَ"], "juist": 0, "uitleg": "{ar|ما} + māḍī." },
+        { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "هَلْ أَكَلْتِ؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Heb jij (v) gegeten?", "Eet jij (v)?", "Heeft zij gegeten?"], "juist": 0, "uitleg": "ـْتِ = jij (v)." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "ik schreef", "antwoorden": ["كَتَبْتُ"], "eind": true, "uitleg": "{ar|كَتَبْتُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "zij ging", "antwoorden": ["ذَهَبَتْ"], "uitleg": "{ar|ذَهَبَتْ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "madi-ontkenning", "bron": "hij werkte niet", "antwoorden": ["ما عَمِلَ"], "uitleg": "{ar|ما عَمِلَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-enkelvoud", "bron": "جَلَسْتُ في الحَديقَةِ.", "antwoorden": ["ik zat in de tuin", "ik ben in de tuin gaan zitten"], "uitleg": "ـْتُ = ik." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-enkelvoud", "bron": "فَتَحَ البابَ ثُمَّ دَخَلَ.", "antwoorden": ["hij opende de deur en ging toen naar binnen", "hij opende de deur daarna ging hij naar binnen", "hij deed de deur open en ging daarna naar binnen", "hij opende de deur en ging daarna naar binnen"], "uitleg": "{ar|ثُمَّ} = daarna." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "madi-enkelvoud", "bron": "سَمِعْتَ الأَخْبارَ؟", "antwoorden": ["heb je het nieuws gehoord", "hoorde je het nieuws", "heb jij het nieuws gehoord"], "uitleg": "ـْتَ = jij (m)." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "البارِحَةَ", "nl": "gisteravond" },
+        { "ar": "ثُمَّ", "nl": "daarna" },
+        { "ar": "سوقٌ", "nl": "markt" },
+        { "ar": "قَبْلَ", "nl": "geleden" },
+        { "ar": "طَبَخَ", "nl": "kookte" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "madi-enkelvoud", "vraag": "'Jij (v) studeerde' is ...", "opties": ["دَرَسْتِ", "دَرَسْتَ", "دَرَسَتْ", "تَدْرُسِينَ"], "juist": 0, "uitleg": "-ti" },
+      { "type": "meerkeuze", "tag": "madi-enkelvoud", "vraag": "Wat betekent {ar|خَرَجَتْ}?", "opties": ["zij ging weg", "ik ging weg", "hij gaat weg"], "juist": 0, "uitleg": "ـَتْ = zij." },
+      { "type": "meerkeuze", "tag": "madi-ontkenning", "vraag": "'Ik heb niet gegeten' is ...", "opties": ["ما أَكَلْتُ.", "لا أَكَلْتُ.", "لَسْتُ أَكَلْتُ."], "juist": 0, "uitleg": "{ar|ما} + māḍī." },
+      { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "رَجَعْتُ مِنَ العَمَلِ مَساءً", "vraag": "Wat hoor je?", "opties": ["Ik kwam 's avonds terug van het werk.", "Ik kom 's avonds terug van het werk.", "Zij kwam 's avonds terug."], "juist": 0, "uitleg": "Verleden tijd, ik." },
+      { "type": "luisteren", "tag": "madi-enkelvoud", "tekst": "لَعِبَ في الحَديقَةِ", "vraag": "Wat hoor je?", "opties": ["Hij speelde in de tuin.", "Hij speelt in de tuin.", "Zij speelde in de tuin."], "juist": 0, "uitleg": "{ar|لَعِبَ} = hij speelde." },
+      { "type": "invullen", "tag": "madi-enkelvoud", "zin": "أَنْتَ ___ رِسالَةً.", "nl": "Jij (m) schreef een brief.", "woordbank": ["كَتَبْتَ", "كَتَبْتِ", "تَكْتُبُ"], "antwoord": ["كَتَبْتَ"], "uitleg": "-ta" },
+      { "type": "invullen", "tag": "madi-enkelvoud", "zin": "هِيَ ___ الشّايَ.", "nl": "Zij dronk de thee.", "antwoord": ["شَرِبَتْ"], "uitleg": "{ar|شَرِبَتْ}" },
+      { "type": "vervoegen", "tag": "madi-enkelvoud", "instructie": "Vervoeg فَتَحَ (openen) in de verleden tijd.", "eind": true,
+        "rijen": [
+          { "label": "ik", "antwoord": "فَتَحْتُ", "tr": "fataḥtu" },
+          { "label": "jij (m)", "antwoord": "فَتَحْتَ", "tr": "fataḥta" },
+          { "label": "zij", "antwoord": "فَتَحَتْ", "tr": "fataḥat" }
+        ], "uitleg": "-tu / -ta / -at" },
+      { "type": "ordenen", "tag": "madi-enkelvoud", "nl": "Vorige week werkte ik in Amsterdam.", "woorden": ["الأُسْبوعَ", "الماضِيَ", "عَمِلْتُ", "في", "أَمْسْتِرْدام."], "uitleg": "Tijdsbepaling vooraan." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "hij begreep", "antwoorden": ["فَهِمَ"], "uitleg": "{ar|فَهِمَ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "madi-enkelvoud", "bron": "ik at", "antwoorden": ["أَكَلْتُ"], "eind": true, "uitleg": "{ar|أَكَلْتُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-ontkenning", "bron": "ما دَخَلَتْ.", "antwoorden": ["zij ging niet naar binnen", "ze ging niet naar binnen", "zij kwam niet binnen", "ze kwam niet binnen"], "uitleg": "{ar|ما} + zij." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "madi-enkelvoud", "bron": "دَرَسْتُ العَرَبِيَّةَ السَّنَةَ الماضِيَةَ.", "antwoorden": ["ik studeerde vorig jaar arabisch", "vorig jaar studeerde ik arabisch", "ik heb vorig jaar arabisch gestudeerd"], "uitleg": "{ar|السَّنَةَ الماضِيَةَ} = vorig jaar." }
+    ]
+  }
+}

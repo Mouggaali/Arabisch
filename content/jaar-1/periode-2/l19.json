@@ -1,0 +1,186 @@
+{
+  "id": "j1-p2-l19",
+  "code": "L19",
+  "type": "les",
+  "titel": "Muḍāriʿ I: wat ik doe",
+  "thema": "Dagelijkse activiteiten in de tegenwoordige tijd",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de tegenwoordige tijd (muḍāriʿ) vervoegen in het enkelvoud: ik, jij (m/v), hij, zij.",
+    "de voorvoegsels أَ، تَـ، يَـ en de uitgang ـينَ herkennen.",
+    "weten dat de klinker in de stam (u, a of i) per werkwoord geleerd moet worden.",
+    "vertellen wat ik en anderen doen."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l19-w01", "ar": "يَدْرُسُ", "tr": "yadrusu", "nl": ["studeren", "leren (hij studeert)"], "soort": "werkwoord", "notitie": "Stamklinker u. Verleden tijd: {ar|دَرَسَ}." },
+    { "id": "j1-p2-l19-w02", "ar": "يَكْتُبُ", "tr": "yaktubu", "nl": ["schrijven (hij schrijft)"], "soort": "werkwoord", "notitie": "Stamklinker u. Verleden tijd: {ar|كَتَبَ}." },
+    { "id": "j1-p2-l19-w03", "ar": "يَسْكُنُ", "tr": "yaskunu", "nl": ["wonen (hij woont)"], "soort": "werkwoord", "notitie": "Stamklinker u. {ar|يَسْكُنُ في} = wonen in." },
+    { "id": "j1-p2-l19-w04", "ar": "يَشْرَبُ", "tr": "yašrabu", "nl": ["drinken (hij drinkt)"], "soort": "werkwoord", "notitie": "Stamklinker a. Verleden tijd: {ar|شَرِبَ}." },
+    { "id": "j1-p2-l19-w05", "ar": "يَعْمَلُ", "tr": "yaʿmalu", "nl": ["werken (hij werkt)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l19-w06", "ar": "يَذْهَبُ", "tr": "yaḏhabu", "nl": ["gaan (hij gaat)"], "soort": "werkwoord", "notitie": "Stamklinker a. {ar|يَذْهَبُ إِلى} = gaan naar." },
+    { "id": "j1-p2-l19-w07", "ar": "يَلْعَبُ", "tr": "yalʿabu", "nl": ["spelen (hij speelt)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l19-w08", "ar": "يَفْهَمُ", "tr": "yafhamu", "nl": ["begrijpen (hij begrijpt)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l19-w09", "ar": "يَعْرِفُ", "tr": "yaʿrifu", "nl": ["weten", "kennen (hij weet)"], "soort": "werkwoord", "notitie": "Stamklinker i." },
+    { "id": "j1-p2-l19-w10", "ar": "يَجْلِسُ", "tr": "yajlisu", "nl": ["zitten", "gaan zitten (hij zit)"], "soort": "werkwoord", "notitie": "Stamklinker i." },
+    { "id": "j1-p2-l19-w11", "ar": "يَسْمَعُ", "tr": "yasmaʿu", "nl": ["horen (hij hoort)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l19-w12", "ar": "يَفْتَحُ", "tr": "yaftaḥu", "nl": ["openen (hij opent)"], "soort": "werkwoord", "notitie": "Stamklinker a." },
+    { "id": "j1-p2-l19-w13", "ar": "يَرْجِعُ", "tr": "yarjiʿu", "nl": ["terugkomen (hij komt terug)"], "soort": "werkwoord", "notitie": "Stamklinker i. {ar|يَرْجِعُ إِلى} = terugkeren naar." },
+    { "id": "j1-p2-l19-w14", "ar": "يَخْرُجُ", "tr": "yaḫruju", "nl": ["naar buiten gaan", "vertrekken"], "soort": "werkwoord", "notitie": "Stamklinker u. {ar|يَخْرُجُ مِنْ} = weggaan uit." },
+    { "id": "j1-p2-l19-w15", "ar": "يَدْخُلُ", "tr": "yadḫulu", "nl": ["binnengaan (hij gaat binnen)"], "soort": "werkwoord", "notitie": "Stamklinker u." },
+    { "id": "j1-p2-l19-w16", "ar": "إِلى", "tr": "ilā", "nl": ["naar"], "soort": "voorzetsel" },
+    { "id": "j1-p2-l19-w17", "ar": "دائِمًا", "tr": "dāʾiman", "nl": ["altijd"], "soort": "bijwoord" },
+    { "id": "j1-p2-l19-w18", "ar": "أَحْيانًا", "tr": "aḥyānan", "nl": ["soms"], "soort": "bijwoord" },
+    { "id": "j1-p2-l19-w19", "ar": "عادَةً", "tr": "ʿādatan", "nl": ["meestal", "gewoonlijk"], "soort": "bijwoord" },
+    { "id": "j1-p2-l19-w20", "ar": "كَثيرًا", "tr": "kaṯīran", "nl": ["veel", "vaak"], "soort": "bijwoord" },
+    { "id": "j1-p2-l19-w21", "ar": "رِسالَةٌ", "tr": "risāla", "nl": ["brief", "bericht"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l19-w22", "ar": "قِصَّةٌ", "tr": "qiṣṣa", "nl": ["verhaal"], "soort": "zelfstandig naamwoord" }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De tegenwoordige tijd: enkelvoud",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een Arabisch werkwoord in de tegenwoordige tijd (de **muḍāriʿ**) krijgt een **voorvoegsel** dat de persoon aangeeft: أَ (ik), تَـ (jij), يَـ (hij), تَـ (zij). Bij *jij* tegen een vrouw komt er ook een **achtervoegsel** bij: ـينَ.",
+          "Daartussen staat de **stam**: drie medeklinkers met een vaste klinker. Bij {ar|يَدْرُسُ} is dat *-drus-*."
+        ] },
+        { "type": "tabel", "kop": ["Persoon", "Vorm", "Nederlands"], "arKolommen": [0, 1], "rijen": [
+          ["أَنا", "أَدْرُسُ|adrusu", "ik studeer"],
+          ["أَنْتَ", "تَدْرُسُ|tadrusu", "jij (m) studeert"],
+          ["أَنْتِ", "تَدْرُسِينَ|tadrusīna", "jij (v) studeert"],
+          ["هُوَ", "يَدْرُسُ|yadrusu", "hij studeert"],
+          ["هِيَ", "تَدْرُسُ|tadrusu", "zij studeert"]
+        ] },
+        { "type": "letop", "md": "*jij (m)* en *zij* hebben dezelfde vorm: {ar|تَدْرُسُ}. Uit de zin blijkt wie bedoeld wordt, of je zet het voornaamwoord erbij: {ar|أَنْتَ تَدْرُسُ} / {ar|هِيَ تَدْرُسُ}." },
+        { "type": "waarom", "md": "Omdat het voorvoegsel al aangeeft wie iets doet, is het voornaamwoord niet nodig: {ar|أَدْرُسُ} alleen betekent al *ik studeer*. Je gebruikt {ar|أَنا} alleen voor nadruk of contrast: {ar|أَنا أَدْرُسُ وَهُوَ يَعْمَلُ} (*ík studeer en hij werkt*)." }
+      ]
+    },
+    {
+      "titel": "De stamklinker: u, a of i",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De klinker op de tweede medeklinker van de stam verschilt per werkwoord: {ar|يَكْتُبُ} (u), {ar|يَذْهَبُ} (a), {ar|يَجْلِسُ} (i). Er is geen eenvoudige regel; leer daarom elk werkwoord met zijn muḍāriʿ-vorm.",
+          "Een geheugensteun: werkwoorden waarvan de tweede of derde medeklinker een keelklank is (ع، ح، ه، خ، غ، ء) hebben vaak een a: {ar|يَذْهَبُ}، {ar|يَفْتَحُ}، {ar|يَسْمَعُ}. Maar niet altijd: {ar|يَرْجِعُ} heeft een i."
+        ] },
+        { "type": "tabel", "kop": ["Stamklinker", "Hij ...", "Ik ...", "Betekenis"], "arKolommen": [1, 2], "rijen": [
+          ["u", "يَكْتُبُ|yaktubu", "أَكْتُبُ|aktubu", "schrijven"],
+          ["u", "يَسْكُنُ|yaskunu", "أَسْكُنُ|askunu", "wonen"],
+          ["a", "يَذْهَبُ|yaḏhabu", "أَذْهَبُ|aḏhabu", "gaan"],
+          ["a", "يَشْرَبُ|yašrabu", "أَشْرَبُ|ašrabu", "drinken"],
+          ["i", "يَجْلِسُ|yajlisu", "أَجْلِسُ|ajlisu", "zitten"],
+          ["i", "يَعْرِفُ|yaʿrifu", "أَعْرِفُ|aʿrifu", "weten"]
+        ] }
+      ]
+    },
+    {
+      "titel": "Wat doe je? In zinnen",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "أَسْكُنُ في أَمْسْتِرْدام.", "tr": "askunu fī Amstirdām.", "nl": "Ik woon in Amsterdam.",
+            "review": { "status": "onzeker", "note": "Spelling van Amsterdam in het Arabisch: أَمْسْتِرْدام of أَمْسْتَرْدام. Bevestigen." } },
+          { "ar": "هِيَ تَعْمَلُ في مَدْرَسَةٍ.", "tr": "hiya taʿmalu fī madrasa.", "nl": "Zij werkt op een school." },
+          { "ar": "هَلْ تَفْهَمُ العَرَبِيَّةَ؟", "tr": "hal tafhamu l-ʿarabiyya?", "nl": "Begrijp jij Arabisch?" },
+          { "ar": "أَنْتِ تَكْتُبِينَ رِسالَةً.", "tr": "anti taktubīna risāla.", "nl": "Jij (v) schrijft een brief." },
+          { "ar": "يَذْهَبُ إِلى العَمَلِ صَباحًا.", "tr": "yaḏhabu ila l-ʿamali ṣabāḥan.", "nl": "Hij gaat 's ochtends naar het werk." },
+          { "ar": "أَشْرَبُ القَهْوَةَ دائِمًا.", "tr": "ašrabu l-qahwata dāʾiman.", "nl": "Ik drink altijd koffie." }
+        ] },
+        { "type": "waarom", "md": "De Arabische muḍāriʿ dekt meerdere Nederlandse betekenissen: {ar|أَكْتُبُ} kan *ik schrijf*, *ik ben aan het schrijven* en *ik schrijf (gewoonlijk)* zijn. De context maakt duidelijk welke bedoeld is." },
+        { "type": "letop", "md": "Het lijdend voorwerp ({ar|رِسالَةً}, {ar|القَهْوَةَ}) staat in de accusatief. Daarover meer in les 21." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "يَكْتُبُ", "nl": "schrijven", "woord": "j1-p2-l19-w02" },
+          { "ar": "يَشْرَبُ", "nl": "drinken", "woord": "j1-p2-l19-w04" },
+          { "ar": "يَذْهَبُ", "nl": "gaan", "woord": "j1-p2-l19-w06" },
+          { "ar": "يَفْهَمُ", "nl": "begrijpen", "woord": "j1-p2-l19-w08" },
+          { "ar": "يَجْلِسُ", "nl": "zitten", "woord": "j1-p2-l19-w10" },
+          { "ar": "يَسْكُنُ", "nl": "wonen", "woord": "j1-p2-l19-w03" }
+        ], "uitleg": "Herhaal de werkwoorden met hun stamklinker." },
+        { "type": "luisteren", "tag": "mudari-enkelvoud", "tekst": "أَعْمَلُ في مَكْتَبٍ", "vraag": "Wat hoor je?", "opties": ["Ik werk op een kantoor.", "Hij werkt op een kantoor.", "Zij werkt op een kantoor."], "juist": 0, "uitleg": "أَ = ik." },
+        { "type": "luisteren", "tag": "mudari-enkelvoud", "tekst": "تَدْرُسِينَ", "vraag": "Wie doet het?", "opties": ["jij (v)", "jij (m)", "zij", "ik"], "juist": 0, "uitleg": "تَـ ... ـينَ = jij (v)." },
+        { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "Welk voorvoegsel hoort bij 'hij'?", "opties": ["يَـ", "تَـ", "أَ"], "juist": 0, "uitleg": "{ar|يَدْرُسُ} = hij studeert." }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vervoeg يَكْتُبُ (schrijven) in de tegenwoordige tijd.",
+          "rijen": [
+            { "label": "ik", "ar": "أَنا", "antwoord": "أَكْتُبُ", "tr": "aktubu" },
+            { "label": "jij (m)", "ar": "أَنْتَ", "antwoord": "تَكْتُبُ", "tr": "taktubu" },
+            { "label": "jij (v)", "ar": "أَنْتِ", "antwoord": "تَكْتُبِينَ", "tr": "taktubīna" },
+            { "label": "hij", "ar": "هُوَ", "antwoord": "يَكْتُبُ", "tr": "yaktubu" },
+            { "label": "zij", "ar": "هِيَ", "antwoord": "تَكْتُبُ", "tr": "taktubu" }
+          ], "uitleg": "أَ / تَـ / تَـ...ـينَ / يَـ / تَـ" },
+        { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vervoeg يَذْهَبُ (gaan) in de tegenwoordige tijd.",
+          "rijen": [
+            { "label": "ik", "ar": "أَنا", "antwoord": "أَذْهَبُ", "tr": "aḏhabu" },
+            { "label": "jij (v)", "ar": "أَنْتِ", "antwoord": "تَذْهَبِينَ", "tr": "taḏhabīna" },
+            { "label": "hij", "ar": "هُوَ", "antwoord": "يَذْهَبُ", "tr": "yaḏhabu" },
+            { "label": "zij", "ar": "هِيَ", "antwoord": "تَذْهَبُ", "tr": "taḏhabu" }
+          ], "uitleg": "Stamklinker a: *-ḏhab-*." },
+        { "type": "invullen", "tag": "mudari-enkelvoud", "zin": "هِيَ ___ في مَدْرَسَةٍ.", "nl": "Zij werkt op een school.", "woordbank": ["تَعْمَلُ", "يَعْمَلُ", "أَعْمَلُ"], "antwoord": ["تَعْمَلُ"], "uitleg": "*zij*: تَـ" },
+        { "type": "invullen", "tag": "mudari-enkelvoud", "zin": "أَنْتِ ___ رِسالَةً.", "nl": "Jij (v) schrijft een brief.", "woordbank": ["تَكْتُبِينَ", "تَكْتُبُ", "يَكْتُبُ"], "antwoord": ["تَكْتُبِينَ"], "uitleg": "Jij (v): تَـ ... ـينَ." },
+        { "type": "invullen", "tag": "mudari-enkelvoud", "zin": "___ في أَمْسْتِرْدام.", "nl": "Ik woon in Amsterdam.", "antwoord": ["أَسْكُنُ"], "uitleg": "{ar|أَسْكُنُ} = ik woon." }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "mudari-enkelvoud", "nl": "Hij gaat 's ochtends naar het werk.", "woorden": ["يَذْهَبُ", "إِلى", "العَمَلِ", "صَباحًا."], "uitleg": "Werkwoord + {ar|إِلى} + bestemming + tijd." },
+        { "type": "ordenen", "tag": "mudari-enkelvoud", "nl": "Begrijp jij Arabisch? (tegen een man)", "woorden": ["هَلْ", "تَفْهَمُ", "العَرَبِيَّةَ؟"], "uitleg": "{ar|هَلْ} + werkwoord + lijdend voorwerp." },
+        { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "Wat betekent {ar|أَعْرِفُ}?", "opties": ["ik weet", "hij weet", "jij weet"], "juist": 0, "uitleg": "أَ = ik." },
+        { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "Waarom kan {ar|أَنا} in {ar|أَنا أَدْرُسُ} weg?", "opties": ["Het voorvoegsel أَ zegt al dat het 'ik' is.", "Omdat أَنا altijd weg moet.", "Omdat de zin een vraag is."], "juist": 0, "uitleg": "Het voorvoegsel draagt de persoon." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-enkelvoud", "bron": "ik studeer", "antwoorden": ["أَدْرُسُ", "أَنا أَدْرُسُ"], "uitleg": "{ar|أَدْرُسُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-enkelvoud", "bron": "Zij drinkt thee.", "antwoorden": ["تَشْرَبُ الشّايَ", "هِيَ تَشْرَبُ الشّايَ", "تَشْرَبُ شايًا", "هِيَ تَشْرَبُ شايًا"], "uitleg": "{ar|تَشْرَبُ الشّايَ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-enkelvoud", "bron": "Hij speelt.", "antwoorden": ["يَلْعَبُ", "هُوَ يَلْعَبُ"], "uitleg": "{ar|يَلْعَبُ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "تَجْلِسِينَ هُنا.", "tr": "tajlisīna hunā.", "antwoorden": ["jij zit hier", "je zit hier", "jij gaat hier zitten", "je gaat hier zitten"], "uitleg": "Jij (v): تَـ ... ـينَ." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "يَرْجِعُ إِلى البَيْتِ مَساءً.", "tr": "yarjiʿu ila l-bayti masāʾan.", "antwoorden": ["hij komt 's avonds terug naar huis", "hij gaat 's avonds terug naar huis", "hij komt 's avonds thuis", "hij keert 's avonds terug naar huis"], "uitleg": "{ar|يَرْجِعُ إِلى} = terugkomen naar." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "أَسْمَعُ أَحْيانًا قِصَّةً.", "tr": "asmaʿu aḥyānan qiṣṣa.", "antwoorden": ["ik hoor soms een verhaal", "soms hoor ik een verhaal", "ik luister soms naar een verhaal"], "uitleg": "{ar|أَحْيانًا} = soms." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "يَعْرِفُ", "nl": "weten" },
+        { "ar": "يَفْتَحُ", "nl": "openen" },
+        { "ar": "يَخْرُجُ", "nl": "naar buiten gaan" },
+        { "ar": "دائِمًا", "nl": "altijd" },
+        { "ar": "عادَةً", "nl": "meestal" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "'Jij (v) begrijpt' is ...", "opties": ["تَفْهَمِينَ", "تَفْهَمُ", "يَفْهَمُ", "أَفْهَمُ"], "juist": 0, "uitleg": "تَـ ... ـينَ" },
+      { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "Welke vorm hoort bij 'ik'?", "opties": ["أَلْعَبُ", "يَلْعَبُ", "تَلْعَبُ"], "juist": 0, "uitleg": "أَ = ik." },
+      { "type": "meerkeuze", "tag": "mudari-enkelvoud", "vraag": "{ar|تَعْمَلُ} kan betekenen ...", "opties": ["jij (m) werkt of zij werkt", "alleen jij (v) werkt", "ik werk"], "juist": 0, "uitleg": "Jij (m) en zij hebben dezelfde vorm." },
+      { "type": "luisteren", "tag": "mudari-enkelvoud", "tekst": "يَسْكُنُ في المَغْرِبِ", "vraag": "Wat hoor je?", "opties": ["Hij woont in Marokko.", "Ik woon in Marokko.", "Zij woont in Marokko."], "juist": 0, "uitleg": "يَـ = hij." },
+      { "type": "luisteren", "tag": "mudari-enkelvoud", "tekst": "تَشْرَبِينَ القَهْوَةَ", "vraag": "Wie drinkt koffie?", "opties": ["jij (v)", "jij (m)", "hij"], "juist": 0, "uitleg": "ـينَ = jij (v)." },
+      { "type": "invullen", "tag": "mudari-enkelvoud", "zin": "هُوَ ___ إِلى المَدْرَسَةِ.", "nl": "Hij gaat naar school.", "woordbank": ["يَذْهَبُ", "تَذْهَبُ", "أَذْهَبُ"], "antwoord": ["يَذْهَبُ"], "uitleg": "يَـ = hij." },
+      { "type": "invullen", "tag": "mudari-enkelvoud", "zin": "أَنا ___ العَرَبِيَّةَ.", "nl": "Ik studeer Arabisch.", "antwoord": ["أَدْرُسُ"], "uitleg": "{ar|أَدْرُسُ}" },
+      { "type": "vervoegen", "tag": "mudari-enkelvoud", "instructie": "Vervoeg يَجْلِسُ (zitten).",
+        "rijen": [
+          { "label": "ik", "antwoord": "أَجْلِسُ", "tr": "ajlisu" },
+          { "label": "jij (v)", "antwoord": "تَجْلِسِينَ", "tr": "tajlisīna" },
+          { "label": "hij", "antwoord": "يَجْلِسُ", "tr": "yajlisu" }
+        ], "uitleg": "Stamklinker i." },
+      { "type": "ordenen", "tag": "mudari-enkelvoud", "nl": "Ik drink altijd koffie.", "woorden": ["أَشْرَبُ", "القَهْوَةَ", "دائِمًا."], "uitleg": "Werkwoord + lijdend voorwerp + bijwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-enkelvoud", "bron": "Zij schrijft.", "antwoorden": ["تَكْتُبُ", "هِيَ تَكْتُبُ"], "uitleg": "{ar|تَكْتُبُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "mudari-enkelvoud", "bron": "ik weet", "antwoorden": ["أَعْرِفُ", "أَنا أَعْرِفُ"], "uitleg": "{ar|أَعْرِفُ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "تَفْتَحُ البابَ.", "tr": "taftaḥu l-bāb.", "antwoorden": ["zij opent de deur", "jij opent de deur", "ze opent de deur", "je opent de deur", "zij doet de deur open", "jij doet de deur open"], "uitleg": "Jij (m) of zij." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "mudari-enkelvoud", "bron": "يَدْخُلُ الصَّفَّ.", "tr": "yadḫulu ṣ-ṣaff.", "antwoorden": ["hij gaat de klas binnen", "hij komt de klas binnen", "hij gaat het klaslokaal binnen"], "uitleg": "{ar|يَدْخُلُ} = binnengaan." }
+    ]
+  }
+}

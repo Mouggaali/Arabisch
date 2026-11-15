@@ -1,0 +1,656 @@
+{
+  "id": "j2-p7-l84",
+  "code": "L84",
+  "type": "les",
+  "titel": "Een kort verhaal",
+  "thema": "Een verhaal vertellen; verbindingswoorden van tijd",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een verhaal opbouwen met عِنْدَما، بَيْنَما، بَعْدَ أَنْ en قَبْلَ أَنْ.",
+    "de juiste werkwoordsvorm na deze voegwoorden kiezen.",
+    "een kort verhaal lezen en navertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l84-w02",
+      "ar": "بَيْنَما",
+      "tr": "baynamā",
+      "nl": [
+        "terwijl"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j2-p7-l84-w03",
+      "ar": "بَعْدَ أَنْ",
+      "tr": "baʿda an",
+      "nl": [
+        "nadat"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ māḍī."
+    },
+    {
+      "id": "j2-p7-l84-w04",
+      "ar": "قَبْلَ أَنْ",
+      "tr": "qabla an",
+      "nl": [
+        "voordat"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ muḍāriʿ (manṣūb)."
+    },
+    {
+      "id": "j2-p7-l84-w06",
+      "ar": "في النِّهايَةِ",
+      "tr": "fi n-nihāya",
+      "nl": [
+        "uiteindelijk, aan het eind"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l84-w08",
+      "ar": "ذاتَ يَوْمٍ",
+      "tr": "ḏāta yawm",
+      "nl": [
+        "op een dag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l84-w09",
+      "ar": "مُسافِرَةٌ",
+      "tr": "musāfira",
+      "nl": [
+        "reizigster"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l84-w10",
+      "ar": "حَقيبَةُ يَدٍ",
+      "tr": "ḥaqībatu yad",
+      "nl": [
+        "handtas"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l84-w11",
+      "ar": "صَرَخَ",
+      "tr": "ṣaraḫa",
+      "nl": [
+        "schreeuwen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَصْرُخُ}"
+    },
+    {
+      "id": "j2-p7-l84-w12",
+      "ar": "لِصٌّ",
+      "tr": "liṣṣ",
+      "nl": [
+        "dief"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|لُصوصٌ}."
+    },
+    {
+      "id": "j2-p7-l84-w13",
+      "ar": "سَرَقَ",
+      "tr": "saraqa",
+      "nl": [
+        "stelen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَسْرِقُ}"
+    },
+    {
+      "id": "j2-p7-l84-w15",
+      "ar": "رَكَضَ وَراءَ",
+      "tr": "rakaḍa warāʾa",
+      "nl": [
+        "achternarennen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j2-p7-l84-w16",
+      "ar": "أَمْسَكَ بِـ",
+      "tr": "amsaka bi-",
+      "nl": [
+        "vastpakken, vangen"
+      ],
+      "soort": "werkwoord (IV)"
+    },
+    {
+      "id": "j2-p7-l84-w17",
+      "ar": "لَحْظَةٌ",
+      "tr": "laḥẓa",
+      "nl": [
+        "moment, ogenblik"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l84-w18",
+      "ar": "حادِثٌ",
+      "tr": "ḥādiṯ",
+      "nl": [
+        "ongeluk, voorval"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l84-w19",
+      "ar": "شاهِدٌ",
+      "tr": "šāhid",
+      "nl": [
+        "getuige"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p7-l84-w20",
+      "ar": "هَرَبَ",
+      "tr": "haraba",
+      "nl": [
+        "vluchten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|يَهْرُبُ}"
+    },
+    {
+      "id": "j2-p7-l84-w21",
+      "ar": "مَحَطَّةُ الحافِلَةِ",
+      "tr": "maḥaṭṭatu l-ḥāfila",
+      "nl": [
+        "bushalte"
+      ],
+      "soort": "iḍāfa"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Verbindingswoorden van tijd",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Woord",
+            "Betekenis",
+            "Werkwoord erna",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "عِنْدَما",
+              "toen / wanneer",
+              "māḍī of muḍāriʿ",
+              "عِنْدَما وَصَلْتُ، …"
+            ],
+            [
+              "بَيْنَما",
+              "terwijl",
+              "meestal muḍāriʿ of nominale zin",
+              "بَيْنَما كُنْتُ أَنْتَظِرُ، …"
+            ],
+            [
+              "بَعْدَ أَنْ",
+              "nadat",
+              "māḍī",
+              "بَعْدَ أَنْ أَكَلْنا، …"
+            ],
+            [
+              "قَبْلَ أَنْ",
+              "voordat",
+              "muḍāriʿ (manṣūb)",
+              "قَبْلَ أَنْ أَنامَ، …"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            3
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|قَبْلَ أَنْ} + muḍāriʿ maar {ar|بَعْدَ أَنْ} + māḍī? *Voordat* verwijst naar iets wat **nog niet** gebeurd was (dus muḍāriʿ, zoals na {ar|أَنْ}); *nadat* naar iets wat **al** gebeurd is (māḍī). De logica van de tijd bepaalt de vorm, niet de tijd van het verhaal."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|قَبْلَ} en {ar|بَعْدَ} kunnen ook gewoon met een maṣdar: {ar|قَبْلَ النَّوْمِ} (voor het slapen), {ar|بَعْدَ الأَكْلِ} (na het eten)."
+        }
+      ]
+    },
+    {
+      "titel": "Het verhaal: de handtas",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "ذاتَ يَوْمٍ، بَيْنَما كانَتْ سارَةُ تَنْتَظِرُ الحافِلَةَ، اِقْتَرَبَ مِنْها رَجُلٌ.",
+              "tr": "ḏāta yawmin, baynamā kānat Sāratu tantaẓiru l-ḥāfila, iqtaraba minhā rajul.",
+              "nl": "Op een dag, terwijl Sara op de bus wachtte, kwam er een man naar haar toe."
+            },
+            {
+              "ar": "فَجْأَةً سَرَقَ حَقيبَةَ يَدِها وَرَكَضَ.",
+              "tr": "fajʾatan saraqa ḥaqībata yadihā wa-rakaḍ.",
+              "nl": "Plotseling stal hij haar handtas en rende weg."
+            },
+            {
+              "ar": "صَرَخَتْ سارَةُ: «لِصٌّ! لِصٌّ!»",
+              "tr": "ṣaraḫat Sāratu: liṣṣ! liṣṣ!",
+              "nl": "Sara schreeuwde: 'Een dief! Een dief!'"
+            },
+            {
+              "ar": "رَكَضَ شُرْطِيٌّ وَراءَهُ وَأَمْسَكَ بِهِ بَعْدَ أَنْ عَبَرَ الشّارِعَ.",
+              "tr": "rakaḍa šurṭiyyun warāʾahu wa-amsaka bihi baʿda an ʿabara š-šāriʿ.",
+              "nl": "Een agent rende hem achterna en greep hem nadat hij de straat was overgestoken."
+            },
+            {
+              "ar": "في النِّهايَةِ شَكَرَتْ سارَةُ الشُّرْطِيَّ قَبْلَ أَنْ تَرْكَبَ الحافِلَةَ.",
+              "tr": "fi n-nihāyati šakarat Sāratu š-šurṭiyya qabla an tarkaba l-ḥāfila.",
+              "nl": "Uiteindelijk bedankte Sara de agent voordat ze in de bus stapte."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "لِصٌّ",
+              "nl": "dief",
+              "woord": "j2-p7-l84-w12"
+            },
+            {
+              "ar": "سَرَقَ",
+              "nl": "stelen",
+              "woord": "j2-p7-l84-w13"
+            },
+            {
+              "ar": "شُرْطِيٌّ",
+              "nl": "politieagent"
+            },
+            {
+              "ar": "صَرَخَ",
+              "nl": "schreeuwen",
+              "woord": "j2-p7-l84-w11"
+            },
+            {
+              "ar": "شَكَرَ",
+              "nl": "bedanken"
+            },
+            {
+              "ar": "حَقيبَةُ يَدٍ",
+              "nl": "handtas",
+              "woord": "j2-p7-l84-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "koppelen",
+          "tag": "tijdsvoegwoorden",
+          "paren": [
+            {
+              "ar": "عِنْدَما",
+              "nl": "toen"
+            },
+            {
+              "ar": "بَيْنَما",
+              "nl": "terwijl",
+              "woord": "j2-p7-l84-w02"
+            },
+            {
+              "ar": "بَعْدَ أَنْ",
+              "nl": "nadat",
+              "woord": "j2-p7-l84-w03"
+            },
+            {
+              "ar": "قَبْلَ أَنْ",
+              "nl": "voordat",
+              "woord": "j2-p7-l84-w04"
+            }
+          ],
+          "uitleg": "Verbindingswoorden van tijd."
+        }
+      ]
+    },
+    {
+      "titel": "Het verhaal",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Wat deed Sara toen de man kwam?",
+          "opties": [
+            "Ze wachtte op de bus.",
+            "Ze winkelde.",
+            "Ze sliep."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|بَيْنَما كانَتْ تَنْتَظِرُ الحافِلَةَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Wie ving de dief?",
+          "opties": [
+            "een politieagent",
+            "Sara",
+            "de buschauffeur"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|رَكَضَ شُرْطِيٌّ وَراءَهُ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "leesvaardigheid",
+          "vraag": "Wat deed Sara aan het eind?",
+          "opties": [
+            "Ze bedankte de agent.",
+            "Ze ging naar huis.",
+            "Ze rende weg."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|شَكَرَتِ الشُّرْطِيَّ}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "tijdsvoegwoorden",
+          "tekst": "قَبْلَ أَنْ أَنامَ أَقْرَأُ قَليلًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Voordat ik ga slapen, lees ik wat.",
+            "Nadat ik geslapen heb, lees ik.",
+            "Ik lees niet voor het slapen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|قَبْلَ أَنْ} + manṣūb."
+        }
+      ]
+    },
+    {
+      "titel": "Voegwoorden",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "tijdsvoegwoorden",
+          "zin": "___ أَكَلْنا، خَرَجْنا.",
+          "nl": "Nadat we gegeten hadden, gingen we naar buiten.",
+          "antwoord": [
+            "بَعْدَ أَنْ"
+          ],
+          "uitleg": "+ māḍī.",
+          "woordbank": [
+            "بَعْدَ أَنْ",
+            "قَبْلَ أَنْ",
+            "بَيْنَما"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "tijdsvoegwoorden",
+          "zin": "اِغْسِلْ يَدَيْكَ قَبْلَ أَنْ ___.",
+          "nl": "Was je handen voordat je eet.",
+          "antwoord": [
+            "تَأْكُلَ"
+          ],
+          "uitleg": "+ manṣūb.",
+          "woordbank": [
+            "تَأْكُلَ",
+            "أَكَلْتَ",
+            "تَأْكُلُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "tijdsvoegwoorden",
+          "nl": "Plotseling stal hij haar handtas en rende weg.",
+          "woorden": [
+            "فَجْأَةً",
+            "سَرَقَ",
+            "حَقيبَةَ",
+            "يَدِها",
+            "وَرَكَضَ."
+          ],
+          "uitleg": "{ar|فَجْأَةً}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "tijdsvoegwoorden",
+          "bron": "عِنْدَما وَصَلْتُ إِلى البَيْتِ، كانَ الجَميعُ نائِمينَ.",
+          "antwoorden": [
+            "toen ik thuiskwam sliep iedereen",
+            "toen ik thuis aankwam sliep iedereen",
+            "toen ik thuiskwam was iedereen aan het slapen"
+          ],
+          "uitleg": "{ar|عِنْدَما}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ذاتَ يَوْمٍ",
+            "nl": "op een dag"
+          },
+          {
+            "ar": "في النِّهايَةِ",
+            "nl": "uiteindelijk"
+          },
+          {
+            "ar": "أَمْسَكَ بِـ",
+            "nl": "vastpakken"
+          },
+          {
+            "ar": "رَكَضَ وَراءَ",
+            "nl": "achternarennen"
+          },
+          {
+            "ar": "مُسافِرَةٌ",
+            "nl": "reizigster"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "Welke vorm volgt op {ar|قَبْلَ أَنْ}?",
+        "opties": [
+          "muḍāriʿ (manṣūb)",
+          "māḍī",
+          "gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "Nog niet gebeurd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "Welke vorm volgt op {ar|بَعْدَ أَنْ}?",
+        "opties": [
+          "meestal māḍī",
+          "alleen majzūm",
+          "gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "Al gebeurd."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "'Terwijl ik las, belde mijn moeder' begint met ...",
+        "opties": [
+          "بَيْنَما",
+          "بَعْدَ أَنْ",
+          "قَبْلَ أَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَيْنَما} = terwijl."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "leesvaardigheid",
+        "vraag": "Wat stal de dief?",
+        "opties": [
+          "een handtas",
+          "een telefoon",
+          "een fiets"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|حَقيبَةُ يَدٍ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "tijdsvoegwoorden",
+        "tekst": "بَيْنَما كُنْتُ أَطْبُخُ، رَنَّ الهاتِفُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Terwijl ik kookte, ging de telefoon.",
+          "Nadat ik kookte, belde ik.",
+          "Ik kookte niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَيْنَما}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "سَرَقَ اللِّصُّ السَّيّارَةَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De dief stal de auto.",
+          "De agent ving de dief.",
+          "De auto is kapot."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَرَقَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "___ كُنْتُ صَغيرًا، كُنْتُ أَخافُ مِنَ الكِلابِ.",
+        "nl": "Toen ik klein was, was ik bang voor honden.",
+        "antwoord": [
+          "عِنْدَما"
+        ],
+        "uitleg": "{ar|عِنْدَما} = toen.",
+        "woordbank": [
+          "عِنْدَما",
+          "قَبْلَ أَنْ",
+          "بَعْدَ أَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "قَبْلَ أَنْ ___ البَيْتَ، أَغْلِقِ النَّوافِذَ.",
+        "nl": "Sluit de ramen voordat je het huis verlaat.",
+        "antwoord": [
+          "تُغادِرَ"
+        ],
+        "uitleg": "+ manṣūb.",
+        "woordbank": [
+          "تُغادِرَ",
+          "غادَرْتَ",
+          "تُغادِرُ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "صَرَخَتِ المَرْأَةُ: «___!»",
+        "nl": "De vrouw schreeuwde: 'Een dief!'",
+        "antwoord": [
+          "لِصٌّ"
+        ],
+        "uitleg": "{ar|لِصٌّ}",
+        "woordbank": [
+          "لِصٌّ",
+          "شُرْطِيٌّ",
+          "مُسافِرٌ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "tijdsvoegwoorden",
+        "instructie": "Kies het juiste voegwoord.",
+        "rijen": [
+          {
+            "label": "voordat",
+            "antwoord": "قَبْلَ أَنْ",
+            "tr": "qabla an"
+          },
+          {
+            "label": "nadat",
+            "antwoord": "بَعْدَ أَنْ",
+            "tr": "baʿda an"
+          },
+          {
+            "label": "terwijl",
+            "antwoord": "بَيْنَما",
+            "tr": "baynamā"
+          }
+        ],
+        "uitleg": "Tijdsvoegwoorden."
+      },
+      {
+        "type": "ordenen",
+        "tag": "tijdsvoegwoorden",
+        "nl": "Uiteindelijk bedankte Sara de agent.",
+        "woorden": [
+          "في",
+          "النِّهايَةِ",
+          "شَكَرَتْ",
+          "سارَةُ",
+          "الشُّرْطِيَّ."
+        ],
+        "uitleg": "{ar|في النِّهايَةِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "plotseling",
+        "antwoorden": [
+          "فَجْأَةً"
+        ],
+        "uitleg": "{ar|فَجْأَةً}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "tijdsvoegwoorden",
+        "bron": "بَعْدَ أَنْ نَجَحَ في الاِمْتِحانِ، سافَرَ إِلى المَغْرِبِ.",
+        "antwoorden": [
+          "nadat hij voor het examen was geslaagd reisde hij naar marokko",
+          "nadat hij geslaagd was voor het examen reisde hij naar marokko",
+          "nadat hij het examen had gehaald reisde hij naar marokko"
+        ],
+        "uitleg": "{ar|بَعْدَ أَنْ} + māḍī."
+      }
+    ]
+  }
+}

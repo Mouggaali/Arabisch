@@ -1,0 +1,447 @@
+{
+  "id": "j2-p7-h21",
+  "code": "H21",
+  "type": "herhaling",
+  "titel": "Herhaling periode 7",
+  "thema": "Tamyīz, modaliteit, telwoorden en tijdsvoegwoorden",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "tamyīz, modaliteit, telwoorden en tijdsvoegwoorden combineren.",
+    "de stof van periode 7 herhalen voor de periodetoets."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 7 (les 73–84 en D13–D15) voordat je de periodetoets maakt.",
+  "grammatica": [
+    {
+      "titel": "Blok 7C in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "tamyīz",
+              "specificatie, accusatief",
+              "أَكْثَرُ تَلَوُّثًا · كَمْ لِتْرًا؟"
+            ],
+            [
+              "modaliteit",
+              "يَجِبُ / يُمْكِنُ / يَنْبَغي + أَنْ",
+              "يَجِبُ أَنْ تَنامَ"
+            ],
+            [
+              "13–19",
+              "eenheid omgekeerd, tiental congrueert",
+              "ثَلاثَ عَشْرَةَ طالِبَةً"
+            ],
+            [
+              "tijdsvoegwoorden",
+              "قَبْلَ أَنْ + manṣūb · بَعْدَ أَنْ + māḍī",
+              "قَبْلَ أَنْ أَنامَ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Drie van de vier onderwerpen draaien om de **accusatief** of de **manṣūb**: tamyīz, het werkwoord na {ar|أَنْ}, het telwoord 11–99. Herken je de 'a-uitgang', dan begrijp je waarom: het is steeds een bepaling of aanvulling."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "tamyiz",
+          "vraag": "'Hoeveel uur?' is ...",
+          "opties": [
+            "كَمْ ساعَةً؟",
+            "كَمْ ساعاتٍ؟",
+            "كَمِ السّاعَةُ؟"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|كَمْ} + accusatief. ({ar|كَمِ السّاعَةُ؟} = hoe laat?)"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "modaliteit",
+          "vraag": "'We moeten gaan' is ...",
+          "opties": [
+            "يَجِبُ أَنْ نَذْهَبَ",
+            "نَجِبُ نَذْهَبُ",
+            "يَجِبُ نَذْهَبَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يَجِبُ أَنْ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "telwoorden-volledig",
+          "vraag": "'Zestien jongens' is ...",
+          "opties": [
+            "سِتَّةَ عَشَرَ وَلَدًا",
+            "سِتَّ عَشْرَةَ وَلَدًا",
+            "سِتَّةَ عَشْرَةَ أَوْلادٍ"
+          ],
+          "juist": 0,
+          "uitleg": "Mannelijk."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "بيئَةٌ",
+              "nl": "milieu",
+              "woord": "j2-p7-l81-w01"
+            },
+            {
+              "ar": "عَضَلَةٌ",
+              "nl": "spier",
+              "woord": "j2-p7-l82-w14"
+            },
+            {
+              "ar": "نِسْبَةٌ",
+              "nl": "percentage",
+              "woord": "j2-p7-l83-w02"
+            },
+            {
+              "ar": "لِصٌّ",
+              "nl": "dief",
+              "woord": "j2-p7-l84-w12"
+            },
+            {
+              "ar": "سير",
+              "nl": "ga! (Darija)",
+              "woord": "j2-p7-d15-w02"
+            },
+            {
+              "ar": "جَفافٌ",
+              "nl": "droogte",
+              "woord": "j2-p7-l81-w08"
+            }
+          ],
+          "uitleg": "Woorden uit blok 7C."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "tijdsvoegwoorden",
+          "zin": "بَعْدَ أَنْ ___ الفيلْمَ، نِمْنا.",
+          "nl": "Nadat we de film hadden gezien, gingen we slapen.",
+          "antwoord": [
+            "شاهَدْنا"
+          ],
+          "uitleg": "+ māḍī.",
+          "woordbank": [
+            "شاهَدْنا",
+            "نُشاهِدَ",
+            "شاهِدْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "modaliteit",
+          "zin": "لا يُمْكِنُ أَنْ ___ الآنَ.",
+          "nl": "We kunnen nu niet vertrekken.",
+          "antwoord": [
+            "نُسافِرَ"
+          ],
+          "uitleg": "+ manṣūb.",
+          "woordbank": [
+            "نُسافِرَ",
+            "سافَرْنا",
+            "نُسافِرُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "ordenen",
+          "tag": "tamyiz",
+          "nl": "Grote steden zijn meer vervuild dan dorpen.",
+          "woorden": [
+            "المُدُنُ",
+            "الكَبيرَةُ",
+            "أَكْثَرُ",
+            "تَلَوُّثًا",
+            "مِنَ",
+            "القُرى."
+          ],
+          "uitleg": "Tamyīz."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-gebod",
+          "tekst": "ما تمشيش",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ga niet.",
+            "Ga!",
+            "Ik ga niet."
+          ],
+          "juist": 0,
+          "uitleg": "Darija verbod."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "modaliteit",
+          "bron": "Je moet water drinken. (m)",
+          "antwoorden": [
+            "يَجِبُ أَنْ تَشْرَبَ ماءً",
+            "يَجِبُ عَلَيْكَ أَنْ تَشْرَبَ ماءً",
+            "يَجِبُ أَنْ تَشْرَبَ الماءَ"
+          ],
+          "uitleg": "{ar|يَجِبُ أَنْ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "telwoorden-volledig",
+          "bron": "نِصْفُ السُّكّانِ شَبابٌ.",
+          "antwoorden": [
+            "de helft van de bevolking is jong",
+            "de helft van de inwoners is jong",
+            "de helft van de bevolking bestaat uit jongeren"
+          ],
+          "uitleg": "{ar|نِصْفُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "tijdsvoegwoorden",
+          "bron": "قَبْلَ أَنْ تَخْرُجَ، أَغْلِقِ البابَ.",
+          "antwoorden": [
+            "voordat je weggaat doe de deur dicht",
+            "sluit de deur voordat je weggaat",
+            "voordat je naar buiten gaat sluit de deur"
+          ],
+          "uitleg": "{ar|قَبْلَ أَنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "Wat is de naamval van een tamyīz?",
+        "opties": [
+          "accusatief",
+          "nominatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Manṣūb."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Meer mensen' (qua aantal) na {ar|أَكْثَرُ} is ...",
+        "opties": [
+          "أَكْثَرُ عَدَدًا",
+          "أَكْثَرُ عَدَدٌ",
+          "أَكْثَرُ عَدَدٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Tamyīz."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "modaliteit",
+        "vraag": "'Je zou moeten rusten' is ...",
+        "opties": [
+          "يَنْبَغي أَنْ تَرْتاحَ",
+          "يَنْبَغي تَرْتاحُ",
+          "تَنْبَغي أَنْ تَرْتاحَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَنْبَغي أَنْ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "telwoorden-volledig",
+        "vraag": "'Negentien studentes' is ...",
+        "opties": [
+          "تِسْعَ عَشْرَةَ طالِبَةً",
+          "تِسْعَةَ عَشَرَ طالِبَةً",
+          "تِسْعَ عَشْرَةَ طالِباتٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tijdsvoegwoorden",
+        "vraag": "Welk voegwoord betekent *terwijl*?",
+        "opties": [
+          "بَيْنَما",
+          "عِنْدَما",
+          "بَعْدَ أَنْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَيْنَما}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "telwoorden-volledig",
+        "tekst": "في الطّابِقِ الحادي عَشَرَ",
+        "vraag": "Op welke verdieping?",
+        "opties": [
+          "de elfde",
+          "de eerste",
+          "de twaalfde"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الحادي عَشَرَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "modaliteit",
+        "tekst": "يَجِبُ أَلّا تَتَأَخَّرَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Je mag niet te laat komen.",
+          "Je moet te laat komen.",
+          "Je bent te laat."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَلّا}"
+      },
+      {
+        "type": "invullen",
+        "tag": "tamyiz",
+        "zin": "كَمْ ___ عِنْدَكَ؟",
+        "nl": "Hoeveel broers heb je?",
+        "antwoord": [
+          "أَخًا"
+        ],
+        "uitleg": "{ar|كَمْ} + accusatief enkelvoud.",
+        "woordbank": [
+          "أَخًا",
+          "إِخْوَةٍ",
+          "أَخٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "telwoorden-volledig",
+        "zin": "في المَدْرَسَةِ ___ عَشَرَ مُعَلِّمًا.",
+        "nl": "Op school zijn zeventien leraren.",
+        "antwoord": [
+          "سَبْعَةَ"
+        ],
+        "uitleg": "Mannelijk woord → eenheid met ة.",
+        "woordbank": [
+          "سَبْعَةَ",
+          "سَبْعَ",
+          "سَبْعونَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tijdsvoegwoorden",
+        "zin": "___ وَصَلْتُ، كانَ الجَميعُ يَنْتَظِرُ.",
+        "nl": "Toen ik aankwam, wachtte iedereen.",
+        "antwoord": [
+          "عِنْدَما"
+        ],
+        "uitleg": "{ar|عِنْدَما}",
+        "woordbank": [
+          "عِنْدَما",
+          "قَبْلَ أَنْ",
+          "بَيْنَما"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "نُفاياتٌ",
+            "nl": "afval"
+          },
+          {
+            "ar": "تَمارينُ",
+            "nl": "oefeningen"
+          },
+          {
+            "ar": "رُبْعٌ",
+            "nl": "kwart"
+          },
+          {
+            "ar": "سَرَقَ",
+            "nl": "stelen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "modaliteit",
+        "nl": "Je kunt in het park hardlopen.",
+        "woorden": [
+          "يُمْكِنُكَ",
+          "أَنْ",
+          "تَرْكُضَ",
+          "في",
+          "الحَديقَةِ."
+        ],
+        "uitleg": "{ar|يُمْكِنُ أَنْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "tamyiz",
+        "bron": "Hoeveel liter? (vraag)",
+        "antwoorden": [
+          "كَمْ لِتْرًا؟",
+          "كَمْ لِتْرًا"
+        ],
+        "uitleg": "{ar|كَمْ} + accusatief."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "اِرْتَفَعَتِ الأَسْعارُ.",
+        "antwoorden": [
+          "de prijzen zijn gestegen",
+          "de prijzen stegen"
+        ],
+        "uitleg": "{ar|اِرْتَفَعَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-gebod",
+        "bron": "أجي هنا",
+        "antwoorden": [
+          "kom hier"
+        ],
+        "uitleg": "Darija.",
+        "tr": "aji hna"
+      }
+    ]
+  }
+}

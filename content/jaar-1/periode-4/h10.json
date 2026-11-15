@@ -1,0 +1,552 @@
+{
+  "id": "j1-p4-h10",
+  "code": "H10",
+  "type": "herhaling",
+  "titel": "Herhaling blok 4A",
+  "thema": "Werk, reizen, de stad en twee vrienden op pad",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "aangehechte voornaamwoorden als lijdend voorwerp gebruiken (ـني، ـهُ، ـها …).",
+    "werkwoorden met hun vaste voorzetsel gebruiken.",
+    "de weg vragen en uitleggen met يوجَدُ / توجَدُ.",
+    "werkwoorden in de dualis vervoegen.",
+    "de Darija-tegenwoordige tijd met كا- herkennen."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 37–40 en D04.",
+  "grammatica": [
+    {
+      "titel": "Voornaamwoorden als lijdend voorwerp",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Bij een zelfstandig naamwoord",
+            "Bij een werkwoord"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "mij / mijn",
+              "بَيْتي",
+              "يَعْرِفُني"
+            ],
+            [
+              "jou / jouw (m)",
+              "بَيْتُكَ",
+              "يَعْرِفُكَ"
+            ],
+            [
+              "hem / zijn",
+              "بَيْتُهُ",
+              "يَعْرِفُهُ"
+            ],
+            [
+              "haar",
+              "بَيْتُها",
+              "يَعْرِفُها"
+            ],
+            [
+              "ons",
+              "بَيْتُنا",
+              "يَعْرِفُنا"
+            ],
+            [
+              "hen / hun",
+              "بَيْتُهُمْ",
+              "يَعْرِفُهُمْ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Alleen bij *ik* verschillen de twee rijen: {ar|ـي} bij een zelfstandig naamwoord, {ar|ـني} bij een werkwoord. De rest is gelijk."
+        }
+      ]
+    },
+    {
+      "titel": "Twee vrienden in de stad",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "وَصَلَ الصَّديقانِ إِلى المَحَطَّةِ بِالقِطارِ.",
+              "tr": "waṣala ṣ-ṣadīqāni ila l-maḥaṭṭati bi-l-qiṭār.",
+              "nl": "De twee vrienden kwamen met de trein aan op het station."
+            },
+            {
+              "ar": "سَأَلا رَجُلًا: أَيْنَ يوجَدُ مَكْتَبُ البَريدِ؟",
+              "tr": "saʾalā rajulan: ayna yūjadu maktabu l-barīd?",
+              "nl": "Ze vroegen een man: waar is het postkantoor?"
+            },
+            {
+              "ar": "قالَ لَهُما: اِمْشِيا مُسْتَقيمًا ثُمَّ إِلى اليَسارِ.",
+              "tr": "qāla lahumā: imšiyā mustaqīman ṯumma ila l-yasār.",
+              "nl": "Hij zei tegen hen: loop rechtdoor en dan naar links.",
+              "review": {
+                "status": "onzeker",
+                "note": "Gebiedende wijs dualis اِمْشِيا is nog niet behandeld; controleren of deze zin hier mag blijven."
+              }
+            },
+            {
+              "ar": "شَكَرَاهُ وَذَهَبا.",
+              "tr": "šakarāhu wa-ḏahabā.",
+              "nl": "Ze bedankten hem en gingen weg."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Lijdend voorwerp en voorzetsels",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "object-suffix",
+          "zin": "هَلْ تَعْرِفُ سَميرًا؟ — نَعَمْ، أَعْرِفُ___.",
+          "nl": "Ken je Samir? — Ja, ik ken hem.",
+          "woordbank": [
+            "ـهُ",
+            "ـها",
+            "ـني"
+          ],
+          "antwoord": [
+            "ـهُ",
+            "هُ",
+            "ه"
+          ],
+          "uitleg": "{ar|أَعْرِفُهُ} = ik ken hem."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "object-suffix",
+          "vraag": "'Zij helpt mij' is ...",
+          "opties": [
+            "تُساعِدُني",
+            "تُساعِدُي",
+            "تُساعِدُها"
+          ],
+          "juist": 0,
+          "uitleg": "ـني bij een werkwoord."
+        },
+        {
+          "type": "invullen",
+          "tag": "vaste-voorzetsels",
+          "zin": "رَجَعْتُ ___ العَمَلِ مُتَأَخِّرًا.",
+          "nl": "Ik kwam laat terug van het werk.",
+          "woordbank": [
+            "مِنَ",
+            "إِلى",
+            "بِـ"
+          ],
+          "antwoord": [
+            "مِنَ",
+            "من"
+          ],
+          "uitleg": "{ar|رَجَعَ مِنْ} = terugkomen van."
+        },
+        {
+          "type": "invullen",
+          "tag": "reizen",
+          "zin": "سافَرْنا ___ الطّائِرَةِ.",
+          "nl": "We reisden met het vliegtuig.",
+          "woordbank": [
+            "بِـ",
+            "في",
+            "عَلى"
+          ],
+          "antwoord": [
+            "بِـ",
+            "ب",
+            "بِ"
+          ],
+          "uitleg": "{ar|بِـ} + vervoermiddel."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "راتِبٌ",
+              "nl": "salaris",
+              "woord": "j1-p4-l37-w03"
+            },
+            {
+              "ar": "مَطارٌ",
+              "nl": "vliegveld",
+              "woord": "j1-p4-l38-w01"
+            },
+            {
+              "ar": "جِسْرٌ",
+              "nl": "brug",
+              "woord": "j1-p4-l39-w02"
+            },
+            {
+              "ar": "خَيْمَةٌ",
+              "nl": "tent",
+              "woord": "j1-p4-l40-w02"
+            },
+            {
+              "ar": "دابا",
+              "nl": "nu (Darija)",
+              "woord": "j1-p4-d04-w17"
+            },
+            {
+              "ar": "إِجازَةٌ",
+              "nl": "verlof",
+              "woord": "j1-p4-l37-w11"
+            }
+          ],
+          "uitleg": "Woorden uit les 37–40 en D04."
+        }
+      ]
+    },
+    {
+      "titel": "De weg en de dualis",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "yujad",
+          "zin": "___ مَسْجِدٌ كَبيرٌ في السّاحَةِ.",
+          "nl": "Er is een grote moskee op het plein.",
+          "woordbank": [
+            "يوجَدُ",
+            "توجَدُ"
+          ],
+          "antwoord": [
+            "يوجَدُ"
+          ],
+          "uitleg": "{ar|مَسْجِدٌ} is mannelijk → {ar|يوجَدُ}."
+        },
+        {
+          "type": "invullen",
+          "tag": "yujad",
+          "zin": "___ كَنيسَةٌ قَديمَةٌ بِجانِبِ الجِسْرِ.",
+          "nl": "Er staat een oude kerk naast de brug.",
+          "woordbank": [
+            "يوجَدُ",
+            "توجَدُ"
+          ],
+          "antwoord": [
+            "توجَدُ"
+          ],
+          "uitleg": "{ar|كَنيسَةٌ} is vrouwelijk → {ar|توجَدُ}."
+        },
+        {
+          "type": "luisteren",
+          "tag": "de-weg",
+          "tekst": "خُذِ الشّارِعَ الثّانِيَ عَلى اليَمينِ",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "De tweede straat rechts nemen.",
+            "De eerste straat links nemen.",
+            "Rechtdoor lopen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|الثّاني} = de tweede, {ar|اليَمين} = rechts."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "dualis-werkwoord",
+          "instructie": "Vervoeg رَجَعَ in de dualis.",
+          "rijen": [
+            {
+              "label": "zij twee (m), verleden",
+              "antwoord": "رَجَعا",
+              "tr": "rajaʿā"
+            },
+            {
+              "label": "zij twee (v), verleden",
+              "antwoord": "رَجَعَتا",
+              "tr": "rajaʿatā"
+            },
+            {
+              "label": "jullie twee, heden",
+              "antwoord": "تَرْجِعانِ",
+              "tr": "tarjiʿāni"
+            }
+          ],
+          "uitleg": "ـا · ـَتا · تَـ … ـانِ"
+        },
+        {
+          "type": "ordenen",
+          "tag": "dualis-werkwoord",
+          "nl": "Ze bedankten hem en gingen weg.",
+          "woorden": [
+            "شَكَرَاهُ",
+            "وَذَهَبا."
+          ],
+          "uitleg": "Dualis + object-suffix."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "object-suffix",
+          "bron": "Ik zag haar.",
+          "antwoorden": [
+            "رَأَيْتُها"
+          ],
+          "uitleg": "{ar|رَأَيْتُها}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "dualis-werkwoord",
+          "bron": "zij twee (m) wonen",
+          "antwoorden": [
+            "يَسْكُنانِ"
+          ],
+          "uitleg": "{ar|يَسْكُنانِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vaste-voorzetsels",
+          "bron": "وَصَلَتِ الطّائِرَةُ إِلى المَطارِ.",
+          "antwoorden": [
+            "het vliegtuig kwam aan op het vliegveld",
+            "het vliegtuig is aangekomen op het vliegveld",
+            "het vliegtuig kwam aan op de luchthaven"
+          ],
+          "uitleg": "{ar|وَصَلَ إِلى} = aankomen in/op."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-presens",
+          "bron": "كانخدم دابا.",
+          "tr": "kanxdəm dāba.",
+          "antwoorden": [
+            "ik werk nu",
+            "ik ben nu aan het werk"
+          ],
+          "uitleg": "Darija: كا + ن = ik."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "'Hij belt mij' — welk achtervoegsel hoort bij *mij*?",
+        "opties": [
+          "ـني",
+          "ـي",
+          "ـنا"
+        ],
+        "juist": 0,
+        "uitleg": "ـني bij een werkwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "object-suffix",
+        "vraag": "Wat betekent {ar|يَنْتَظِرُنا}?",
+        "opties": [
+          "Hij wacht op ons.",
+          "Wij wachten op hem.",
+          "Hij wacht op mij."
+        ],
+        "juist": 0,
+        "uitleg": "ـنا = ons."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vaste-voorzetsels",
+        "vraag": "'Ik vertrek uit Amsterdam' is ...",
+        "opties": [
+          "أُغادِرُ أَمْسْتِرْدامَ.",
+          "أُغادِرُ إِلى أَمْسْتِرْدامَ.",
+          "أُغادِرُ في أَمْسْتِرْدامَ."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|غادَرَ} heeft geen voorzetsel nodig.",
+        "review": {
+          "status": "onzeker",
+          "note": "Spelling أَمْسْتِرْدام controleren."
+        }
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dualis-werkwoord",
+        "vraag": "'Jullie twee schreven' is ...",
+        "opties": [
+          "كَتَبْتُما",
+          "كَتَبْتُمْ",
+          "كَتَبا"
+        ],
+        "juist": 0,
+        "uitleg": "ـْتُما"
+      },
+      {
+        "type": "luisteren",
+        "tag": "yujad",
+        "tekst": "توجَدُ صَيْدَلِيَّةٌ قَريبَةٌ مِنْ هُنا",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Er is een apotheek hier dichtbij.",
+          "De apotheek is ver hiervandaan.",
+          "Er is geen apotheek."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|توجَدُ} + vrouwelijk woord."
+      },
+      {
+        "type": "luisteren",
+        "tag": "dualis-werkwoord",
+        "tekst": "سافَرَتا إِلى الصَّحْراءِ",
+        "vraag": "Wie reisden?",
+        "opties": [
+          "zij twee (v)",
+          "zij (mv)",
+          "wij"
+        ],
+        "juist": 0,
+        "uitleg": "ـَتا"
+      },
+      {
+        "type": "invullen",
+        "tag": "object-suffix",
+        "zin": "هٰذِهِ رِسالَتي. هَلْ قَرَأْتَ___؟",
+        "nl": "Dit is mijn brief. Heb je hem gelezen?",
+        "woordbank": [
+          "ـها",
+          "ـهُ",
+          "ـني"
+        ],
+        "antwoord": [
+          "ـها",
+          "ها"
+        ],
+        "uitleg": "{ar|رِسالَةٌ} is vrouwelijk → ـها."
+      },
+      {
+        "type": "invullen",
+        "tag": "de-weg",
+        "zin": "اِمْشِ ___ ثُمَّ خُذِ الشّارِعَ الأَوَّلَ.",
+        "nl": "Loop rechtdoor en neem dan de eerste straat.",
+        "woordbank": [
+          "مُسْتَقيمًا",
+          "يَسارٌ",
+          "زاوِيَةٌ"
+        ],
+        "antwoord": [
+          "مُسْتَقيمًا"
+        ],
+        "uitleg": "{ar|مُسْتَقيمًا} = rechtdoor."
+      },
+      {
+        "type": "invullen",
+        "tag": "dualis-werkwoord",
+        "zin": "الأُخْتانِ ___ في الجامِعَةِ.",
+        "nl": "De twee zussen studeren aan de universiteit.",
+        "woordbank": [
+          "تَدْرُسانِ",
+          "يَدْرُسانِ",
+          "يَدْرُسْنَ"
+        ],
+        "antwoord": [
+          "تَدْرُسانِ"
+        ],
+        "uitleg": "Zij twee (v): تَـ … ـانِ."
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مُسافِرٌ",
+            "nl": "reiziger"
+          },
+          {
+            "ar": "زَبونٌ",
+            "nl": "klant"
+          },
+          {
+            "ar": "يَسارٌ",
+            "nl": "links"
+          },
+          {
+            "ar": "رَمْلٌ",
+            "nl": "zand"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "yujad",
+        "nl": "Waar is het postkantoor?",
+        "woorden": [
+          "أَيْنَ",
+          "يوجَدُ",
+          "مَكْتَبُ",
+          "البَريدِ؟"
+        ],
+        "uitleg": "{ar|أَيْنَ يوجَدُ …؟}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "object-suffix",
+        "bron": "Hij kent mij.",
+        "antwoorden": [
+          "يَعْرِفُني",
+          "هُوَ يَعْرِفُني"
+        ],
+        "uitleg": "{ar|يَعْرِفُني}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "dualis-werkwoord",
+        "bron": "zij twee (v) gingen",
+        "antwoorden": [
+          "ذَهَبَتا"
+        ],
+        "uitleg": "{ar|ذَهَبَتا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "reizen",
+        "bron": "ذَهَبْتُ إِلى المَطارِ بِسَيّارَةِ أُجْرَةٍ.",
+        "antwoorden": [
+          "ik ging met een taxi naar het vliegveld",
+          "ik ging met de taxi naar het vliegveld",
+          "ik ben met een taxi naar het vliegveld gegaan",
+          "ik ging per taxi naar het vliegveld"
+        ],
+        "uitleg": "{ar|بِـ} + vervoermiddel."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-presens",
+        "bron": "كاتفهم؟",
+        "tr": "katfhəm?",
+        "antwoorden": [
+          "begrijp je",
+          "begrijp jij het",
+          "begrijp je het",
+          "snap je"
+        ],
+        "uitleg": "Darija: ka-t = jij."
+      }
+    ]
+  }
+}

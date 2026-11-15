@@ -1,0 +1,633 @@
+{
+  "id": "j2-p8-l91",
+  "code": "L91",
+  "type": "les",
+  "titel": "Afspraken in huis",
+  "thema": "Huisregels en taakverdeling; de voorwaarde met إِذا",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een reële voorwaarde maken met إِذا + māḍī.",
+    "فَـ correct gebruiken in de hoofdzin.",
+    "huisregels en taakverdeling afspreken."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p8-l91-w01",
+      "ar": "إِذا",
+      "tr": "iḏā",
+      "nl": [
+        "als, wanneer (voorwaarde)"
+      ],
+      "soort": "voegwoord",
+      "notitie": "+ māḍī: {ar|إِذا جِئْتَ …} = als je komt …"
+    },
+    {
+      "id": "j2-p8-l91-w02",
+      "ar": "قاعِدَةٌ",
+      "tr": "qāʿida",
+      "nl": [
+        "regel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قَواعِدُ}."
+    },
+    {
+      "id": "j2-p8-l91-w03",
+      "ar": "اِتِّفاقٌ",
+      "tr": "ittifāq",
+      "nl": [
+        "afspraak, akkoord"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w04",
+      "ar": "تَنْظيفٌ",
+      "tr": "tanẓīf",
+      "nl": [
+        "schoonmaak"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w05",
+      "ar": "غَسيلٌ",
+      "tr": "ġasīl",
+      "nl": [
+        "was(goed)"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w06",
+      "ar": "القُمامَةُ",
+      "tr": "al-qumāma",
+      "nl": [
+        "het afval, de vuilnis"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w07",
+      "ar": "رَمى",
+      "tr": "ramā",
+      "nl": [
+        "weggooien"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|يَرْمي}"
+    },
+    {
+      "id": "j2-p8-l91-w09",
+      "ar": "ضَجَّةٌ",
+      "tr": "ḍajja",
+      "nl": [
+        "herrie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w10",
+      "ar": "مُتَأَخِّرًا لَيْلًا",
+      "tr": "mutaʾaḫḫiran laylan",
+      "nl": [
+        "laat 's avonds"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l91-w11",
+      "ar": "شارَكَ في السَّكَنِ",
+      "tr": "šāraka fi s-sakan",
+      "nl": [
+        "een woning delen"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p8-l91-w12",
+      "ar": "زَميلُ السَّكَنِ",
+      "tr": "zamīlu s-sakan",
+      "nl": [
+        "huisgenoot"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p8-l91-w13",
+      "ar": "تَناوَبَ",
+      "tr": "tanāwaba",
+      "nl": [
+        "om de beurt doen"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j2-p8-l91-w14",
+      "ar": "دَوْرٌ",
+      "tr": "dawr",
+      "nl": [
+        "beurt, rol"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|دَوْرُكَ} = jij bent aan de beurt."
+    },
+    {
+      "id": "j2-p8-l91-w16",
+      "ar": "وَإِلّا",
+      "tr": "wa-illā",
+      "nl": [
+        "anders"
+      ],
+      "soort": "voegwoord"
+    },
+    {
+      "id": "j2-p8-l91-w17",
+      "ar": "وَسِخٌ",
+      "tr": "wasiḫ",
+      "nl": [
+        "vies"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p8-l91-w18",
+      "ar": "مِكْنَسَةٌ",
+      "tr": "miknasa",
+      "nl": [
+        "bezem"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Voorwaarde met إِذا",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "{ar|إِذا} + **māḍī** drukt een reële voorwaarde uit (*als … dan*). De vorm is māḍī, maar de betekenis is vaak **heden of toekomst**: {ar|إِذا تَأَخَّرْتَ، اِتَّصِلْ بي} (als je te laat bent, bel me).",
+            "De hoofdzin kan elke vorm hebben: muḍāriʿ, toekomst, gebiedende wijs. Begint de hoofdzin niet met een werkwoord (bijv. gebiedende wijs, nominale zin, سَـ), dan zet je er vaak {ar|فَـ} voor."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Bijzin (إِذا + māḍī)",
+            "Hoofdzin",
+            "Betekenis"
+          ],
+          "rijen": [
+            [
+              "إِذا نَظَّفْتَ المَطْبَخَ",
+              "أُنَظِّفُ الحَمّامَ",
+              "als jij de keuken schoonmaakt, maak ik de badkamer schoon"
+            ],
+            [
+              "إِذا جاءَ الضُّيوفُ",
+              "فَسَأَطْبُخُ العَشاءَ",
+              "als de gasten komen, kook ik"
+            ],
+            [
+              "إِذا كُنْتَ مُتْعَبًا",
+              "فَنَمْ",
+              "als je moe bent, ga dan slapen"
+            ]
+          ],
+          "arKolommen": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom een māḍī voor iets in de toekomst? In de voorwaarde stel je je de situatie voor **alsof ze al gebeurd is**: *als je (eenmaal) gekomen bent*. Het Nederlands doet iets vergelijkbaars met *als je klaar bent*."
+        },
+        {
+          "type": "letop",
+          "md": "Ontkennen in de bijzin: {ar|إِذا لَمْ} + majzūm: {ar|إِذا لَمْ تَأْتِ، سَأَذْهَبُ وَحْدي} (als je niet komt, ga ik alleen)."
+        }
+      ]
+    },
+    {
+      "titel": "Huisregels",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "إِذا طَبَخْتَ أَنْتَ، أَغْسِلُ أَنا الصُّحونَ.",
+              "tr": "iḏā ṭabaḫta anta, aġsilu ana ṣ-ṣuḥūn.",
+              "nl": "Als jij kookt, doe ik de afwas."
+            },
+            {
+              "ar": "إِذا رَجَعْتَ مُتَأَخِّرًا لَيْلًا، فَلا تُحْدِثْ ضَجَّةً.",
+              "tr": "iḏā rajaʿta mutaʾaḫḫiran laylan, fa-lā tuḥdiṯ ḍajja.",
+              "nl": "Als je 's avonds laat thuiskomt, maak dan geen herrie."
+            },
+            {
+              "ar": "نَتَناوَبُ عَلى التَّنْظيفِ كُلَّ أُسْبوعٍ.",
+              "tr": "natanāwabu ʿala t-tanẓīfi kulla usbūʿ.",
+              "nl": "We maken elke week om de beurt schoon."
+            },
+            {
+              "ar": "اِرْمِ القُمامَةَ، وَإِلّا سَتَصيرُ الشَّقَّةُ وَسِخَةً!",
+              "tr": "irmi l-qumāmata, wa-illā sa-taṣīru š-šaqqatu wasiḫa!",
+              "nl": "Gooi het afval weg, anders wordt het appartement vies!"
+            },
+            {
+              "ar": "إِذا لَمْ تُرَتِّبْ غُرْفَتَكَ، فَلَنْ تَخْرُجَ.",
+              "tr": "iḏā lam turattib ġurfataka, fa-lan taḫruj.",
+              "nl": "Als je je kamer niet opruimt, ga je niet naar buiten."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "قاعِدَةٌ",
+              "nl": "regel",
+              "woord": "j2-p8-l91-w02"
+            },
+            {
+              "ar": "اِتِّفاقٌ",
+              "nl": "afspraak",
+              "woord": "j2-p8-l91-w03"
+            },
+            {
+              "ar": "غَسيلٌ",
+              "nl": "was",
+              "woord": "j2-p8-l91-w05"
+            },
+            {
+              "ar": "القُمامَةُ",
+              "nl": "afval",
+              "woord": "j2-p8-l91-w06"
+            },
+            {
+              "ar": "ضَجَّةٌ",
+              "nl": "herrie",
+              "woord": "j2-p8-l91-w09"
+            },
+            {
+              "ar": "دَوْرٌ",
+              "nl": "beurt",
+              "woord": "j2-p8-l91-w14"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "idha",
+          "tekst": "إِذا جِئْتَ مُبَكِّرًا، نَخْرُجُ مَعًا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Als je vroeg komt, gaan we samen uit.",
+            "Je kwam vroeg en we gingen uit.",
+            "Kom niet vroeg."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِذا} + māḍī."
+        }
+      ]
+    },
+    {
+      "titel": "إِذا",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "idha",
+          "zin": "إِذا ___ الضُّيوفُ، فَسَأَطْبُخُ.",
+          "nl": "Als de gasten komen, kook ik.",
+          "antwoord": [
+            "جاءَ"
+          ],
+          "uitleg": "{ar|إِذا} + māḍī.",
+          "woordbank": [
+            "جاءَ",
+            "يَجيءُ",
+            "سَيَجيءُ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "idha",
+          "zin": "إِذا كُنْتَ مُتْعَبًا ___ نَمْ.",
+          "nl": "Als je moe bent, ga dan slapen.",
+          "antwoord": [
+            "فَـ",
+            "ف",
+            "فَ"
+          ],
+          "uitleg": "Gebiedende wijs in de hoofdzin → فَـ.",
+          "woordbank": [
+            "فَـ",
+            "ثُمَّ",
+            "لٰكِنْ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "idha",
+          "vraag": "'Als je niet komt' is ...",
+          "opties": [
+            "إِذا لَمْ تَأْتِ",
+            "إِذا لا تَأْتي",
+            "إِذا لَنْ تَأْتِيَ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|إِذا لَمْ} + majzūm."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "idha",
+          "vraag": "Welke tijd heeft het werkwoord na {ar|إِذا}?",
+          "opties": [
+            "meestal māḍī",
+            "altijd muḍāriʿ",
+            "gebiedende wijs"
+          ],
+          "juist": 0,
+          "uitleg": "Māḍī met toekomstige betekenis."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "idha",
+          "instructie": "Vul de māḍī in na إِذا.",
+          "rijen": [
+            {
+              "label": "als je kookt (m): إِذا ___",
+              "antwoord": "طَبَخْتَ",
+              "tr": "ṭabaḫta",
+              "eind": true
+            },
+            {
+              "label": "als we laat zijn: إِذا ___",
+              "antwoord": "تَأَخَّرْنا",
+              "tr": "taʾaḫḫarnā"
+            }
+          ],
+          "uitleg": "Māḍī."
+        }
+      ]
+    },
+    {
+      "titel": "Huisregels",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "idha",
+          "nl": "Als jij kookt, doe ik de afwas.",
+          "woorden": [
+            "إِذا",
+            "طَبَخْتَ",
+            "أَنْتَ،",
+            "أَغْسِلُ",
+            "أَنا",
+            "الصُّحونَ."
+          ],
+          "uitleg": "Voorwaarde + hoofdzin."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "idha",
+          "bron": "Als je tijd hebt, bel me. (m)",
+          "antwoorden": [
+            "إِذا كانَ عِنْدَكَ وَقْتٌ فَاتَّصِلْ بي",
+            "إِذا كانَ عِنْدَكَ وَقْتٌ، اِتَّصِلْ بي"
+          ],
+          "uitleg": "{ar|إِذا} + {ar|كانَ}."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "idha",
+          "bron": "إِذا لَمْ تُرَتِّبْ غُرْفَتَكَ، فَلَنْ تَخْرُجَ.",
+          "antwoorden": [
+            "als je je kamer niet opruimt ga je niet naar buiten",
+            "als je je kamer niet opruimt mag je niet naar buiten"
+          ],
+          "uitleg": "{ar|إِذا لَمْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "زَميلُ السَّكَنِ",
+            "nl": "huisgenoot"
+          },
+          {
+            "ar": "تَناوَبَ",
+            "nl": "om de beurt doen"
+          },
+          {
+            "ar": "تَنْظيفٌ",
+            "nl": "schoonmaak"
+          },
+          {
+            "ar": "وَإِلّا",
+            "nl": "anders"
+          },
+          {
+            "ar": "ضَيْفٌ",
+            "nl": "gast"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "{ar|إِذا} drukt uit ...",
+        "opties": [
+          "een reële voorwaarde (als)",
+          "een onmogelijke wens",
+          "een reden (omdat)"
+        ],
+        "juist": 0,
+        "uitleg": "Reële voorwaarde."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "'Als het regent, blijven we thuis' is ...",
+        "opties": [
+          "إِذا نَزَلَ المَطَرُ، نَبْقى في البَيْتِ",
+          "إِذا يَنْزِلُ المَطَرُ، بَقينا في البَيْتِ",
+          "إِذا سَيَنْزِلُ المَطَرُ، نَبْقى"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا} + māḍī."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "Wanneer zet je {ar|فَـ} voor de hoofdzin?",
+        "opties": [
+          "als die met een gebiedende wijs, nominale zin of سَـ begint",
+          "altijd",
+          "nooit"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَـ} = dan."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "idha",
+        "vraag": "'Als je niet studeert, zak je' begint met ...",
+        "opties": [
+          "إِذا لَمْ تَدْرُسْ",
+          "إِذا لا دَرَسْتَ",
+          "إِذا لَنْ تَدْرُسَ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا لَمْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "idha",
+        "tekst": "إِذا تَأَخَّرْتَ، اِتَّصِلْ بي",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Als je te laat bent, bel me.",
+          "Je was te laat en belde.",
+          "Bel me niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِذا} + gebiedende wijs."
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "اليَوْمَ دَوْرُكَ في التَّنْظيفِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Vandaag ben jij aan de beurt om schoon te maken.",
+          "Vandaag maak ik schoon.",
+          "Niemand maakt vandaag schoon."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|دَوْرُكَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "idha",
+        "zin": "إِذا ___ التَّمْرينَ، تَنْجَحُ.",
+        "nl": "Als je oefent, slaag je.",
+        "antwoord": [
+          "تَدَرَّبْتَ"
+        ],
+        "uitleg": "{ar|إِذا} + māḍī.",
+        "woordbank": [
+          "تَدَرَّبْتَ",
+          "تَتَدَرَّبُ",
+          "سَتَتَدَرَّبُ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "idha",
+        "zin": "إِذا لَمْ ___، فَسَأَذْهَبُ وَحْدي.",
+        "nl": "Als je niet komt, ga ik alleen.",
+        "antwoord": [
+          "تَأْتِ"
+        ],
+        "uitleg": "{ar|لَمْ} + majzūm.",
+        "woordbank": [
+          "تَأْتِ",
+          "تَأْتي",
+          "أَتَيْتَ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "اِرْمِ ___ في الصُّنْدوقِ.",
+        "nl": "Gooi het afval in de bak.",
+        "antwoord": [
+          "القُمامَةَ"
+        ],
+        "uitleg": "{ar|القُمامَةُ}",
+        "woordbank": [
+          "القُمامَةَ",
+          "الغَسيلَ",
+          "الضَّيْفَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "idha",
+        "instructie": "Maak de voorwaarde.",
+        "rijen": [
+          {
+            "label": "als je wilt (m): إِذا ___",
+            "antwoord": "أَرَدْتَ",
+            "tr": "aradta",
+            "eind": true
+          },
+          {
+            "label": "als ze (v) komt: إِذا ___",
+            "antwoord": "جاءَتْ",
+            "tr": "jāʾat"
+          }
+        ],
+        "uitleg": "Māḍī."
+      },
+      {
+        "type": "ordenen",
+        "tag": "idha",
+        "nl": "Als je moe bent, ga dan slapen.",
+        "woorden": [
+          "إِذا",
+          "كُنْتَ",
+          "مُتْعَبًا",
+          "فَنَمْ."
+        ],
+        "uitleg": "{ar|فَـ} + gebiedende wijs."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de regel",
+        "antwoorden": [
+          "القاعِدَةُ"
+        ],
+        "uitleg": "{ar|القاعِدَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "idha",
+        "bron": "إِذا جاءَ أَبي، سَنَأْكُلُ مَعًا.",
+        "antwoorden": [
+          "als mijn vader komt gaan we samen eten",
+          "als mijn vader komt eten we samen",
+          "als papa komt gaan we samen eten"
+        ],
+        "uitleg": "{ar|إِذا} + māḍī."
+      }
+    ]
+  }
+}

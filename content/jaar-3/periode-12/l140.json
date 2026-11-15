@@ -1,0 +1,692 @@
+{
+  "id": "j3-p12-l140",
+  "code": "L140",
+  "type": "les",
+  "titel": "Spreken",
+  "thema": "Een mondeling examen: strategieën en een foto beschrijven",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "gespreksstrategieën gebruiken: tijd winnen, omschrijven, om herhaling vragen.",
+    "een foto beschrijven (voorgrond, achtergrond, indruk).",
+    "vloeiend je mening geven in een gesprek."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l140-w01",
+      "ar": "دَعْني أُفَكِّرُ",
+      "tr": "daʿnī ufakkiru",
+      "nl": [
+        "laat me even nadenken"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w02",
+      "ar": "كَيْفَ أَقولُ …",
+      "tr": "kayfa aqūlu …",
+      "nl": [
+        "hoe zal ik het zeggen …"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w03",
+      "ar": "يَعْني",
+      "tr": "yaʿnī",
+      "nl": [
+        "dat wil zeggen, ik bedoel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w04",
+      "ar": "هَلْ يُمْكِنُ أَنْ تُعيدَ؟",
+      "tr": "hal yumkinu an tuʿīda?",
+      "nl": [
+        "kunt u dat herhalen?"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w05",
+      "ar": "بِبُطْءٍ",
+      "tr": "bi-buṭʾ",
+      "nl": [
+        "langzaam"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p12-l140-w06",
+      "ar": "مِنْ جِهَتي",
+      "tr": "min jihatī",
+      "nl": [
+        "wat mij betreft"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w07",
+      "ar": "سُؤالٌ وَجيهٌ",
+      "tr": "suʾālun wajīh",
+      "nl": [
+        "een goede vraag"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w08",
+      "ar": "في الخَلْفِيَّةِ",
+      "tr": "fi l-ḫalfiyya",
+      "nl": [
+        "op de achtergrond"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w09",
+      "ar": "في المُقَدِّمَةِ",
+      "tr": "fi l-muqaddima",
+      "nl": [
+        "op de voorgrond"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w10",
+      "ar": "يَبْدو أَنَّ",
+      "tr": "yabdū anna",
+      "nl": [
+        "het lijkt erop dat"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w11",
+      "ar": "وَصَفَ يَصِفُ",
+      "tr": "waṣafa yaṣifu",
+      "nl": [
+        "beschrijven"
+      ],
+      "soort": "werkwoord (assimilerend)"
+    },
+    {
+      "id": "j3-p12-l140-w12",
+      "ar": "بِعِبارَةٍ بَسيطَةٍ",
+      "tr": "bi-ʿibāratin basīṭa",
+      "nl": [
+        "eenvoudig gezegd"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w13",
+      "ar": "كَما قُلْتُ",
+      "tr": "kamā qultu",
+      "nl": [
+        "zoals ik al zei"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w14",
+      "ar": "لَحْظَةً مِنْ فَضْلِكَ",
+      "tr": "laḥẓatan min faḍlik",
+      "nl": [
+        "een ogenblikje alstublieft"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l140-w15",
+      "ar": "مُمْتَحِنٌ",
+      "tr": "mumtaḥin",
+      "nl": [
+        "examinator"
+      ],
+      "soort": "deelwoord (VIII)"
+    },
+    {
+      "id": "j3-p12-l140-w16",
+      "ar": "اِمْتِحانٌ شَفَوِيٌّ",
+      "tr": "imtiḥānun šafawiyy",
+      "nl": [
+        "mondeling examen"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Gespreksstrategieën",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Probleem",
+            "Oplossing",
+            "Formule"
+          ],
+          "rijen": [
+            [
+              "je hebt tijd nodig",
+              "tijd winnen",
+              "دَعْني أُفَكِّرُ · سُؤالٌ وَجيهٌ · لَحْظَةً مِنْ فَضْلِكَ"
+            ],
+            [
+              "je mist een woord",
+              "omschrijven",
+              "كَيْفَ أَقولُ … · يَعْني … · بِعِبارَةٍ بَسيطَةٍ"
+            ],
+            [
+              "je verstaat het niet",
+              "om herhaling vragen",
+              "هَلْ يُمْكِنُ أَنْ تُعيدَ؟ · بِبُطْءٍ مِنْ فَضْلِكَ"
+            ],
+            [
+              "je wilt je mening geven",
+              "jezelf positioneren",
+              "مِنْ جِهَتي … · أَرى أَنَّ …"
+            ],
+            [
+              "je herhaalt een punt",
+              "terugverwijzen",
+              "كَما قُلْتُ …"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Bij een mondeling examen tellen **vloeiendheid** en **strategie** mee. Een stilte van tien seconden is slechter dan {ar|سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ}. En als je een woord niet weet, omschrijf je het: *het ding waarmee je …* ({ar|الشَّيْءُ الَّذي …})."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|يَعْني} is in gesproken Arabisch (ook in het Darija) een heel gewoon opvulwoord, zoals *dus* of *ik bedoel*. Gebruik het, maar niet in elke zin."
+        }
+      ]
+    },
+    {
+      "titel": "Een foto beschrijven",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Plaats",
+            "Formule"
+          ],
+          "rijen": [
+            [
+              "voorgrond",
+              "في المُقَدِّمَةِ أَرى …"
+            ],
+            [
+              "achtergrond",
+              "في الخَلْفِيَّةِ يوجَدُ …"
+            ],
+            [
+              "rechts / links",
+              "عَلى اليَمينِ … / عَلى اليَسارِ …"
+            ],
+            [
+              "indruk",
+              "يَبْدو أَنَّ … · رُبَّما …"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "في المُقَدِّمَةِ أَرى عائِلَةً تَجْلِسُ حَوْلَ مائِدَةٍ.",
+              "tr": "fi l-muqaddimati arā ʿāʾilatan tajlisu ḥawla māʾida.",
+              "nl": "Op de voorgrond zie ik een gezin rond een tafel zitten."
+            },
+            {
+              "ar": "في الخَلْفِيَّةِ توجَدُ نافِذَةٌ كَبيرَةٌ.",
+              "tr": "fi l-ḫalfiyyati tūjadu nāfiḏatun kabīra.",
+              "nl": "Op de achtergrond is een groot raam."
+            },
+            {
+              "ar": "يَبْدو أَنَّهُمْ يَحْتَفِلونَ بِعيدٍ.",
+              "tr": "yabdū annahum yaḥtafilūna bi-ʿīd.",
+              "nl": "Het lijkt erop dat ze een feest vieren."
+            },
+            {
+              "ar": "سُؤالٌ وَجيهٌ... دَعْني أُفَكِّرُ. مِنْ جِهَتي، أُفَضِّلُ الأَعْيادَ العائِلِيَّةَ.",
+              "tr": "suʾālun wajīh... daʿnī ufakkir. min jihatī, ufaḍḍilu l-aʿyāda l-ʿāʾiliyya.",
+              "nl": "Goede vraag... laat me nadenken. Wat mij betreft heb ik liever familiefeesten."
+            },
+            {
+              "ar": "عَفْوًا، هَلْ يُمْكِنُ أَنْ تُعيدَ السُّؤالَ بِبُطْءٍ؟",
+              "tr": "ʿafwan, hal yumkinu an tuʿīda s-suʾāla bi-buṭʾ?",
+              "nl": "Pardon, kunt u de vraag langzaam herhalen?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "spreken",
+          "paren": [
+            {
+              "ar": "دَعْني أُفَكِّرُ",
+              "nl": "laat me nadenken",
+              "woord": "j3-p12-l140-w01"
+            },
+            {
+              "ar": "يَعْني",
+              "nl": "ik bedoel",
+              "woord": "j3-p12-l140-w03"
+            },
+            {
+              "ar": "بِبُطْءٍ",
+              "nl": "langzaam",
+              "woord": "j3-p12-l140-w05"
+            },
+            {
+              "ar": "مِنْ جِهَتي",
+              "nl": "wat mij betreft",
+              "woord": "j3-p12-l140-w06"
+            },
+            {
+              "ar": "في الخَلْفِيَّةِ",
+              "nl": "op de achtergrond",
+              "woord": "j3-p12-l140-w08"
+            },
+            {
+              "ar": "مُمْتَحِنٌ",
+              "nl": "examinator",
+              "woord": "j3-p12-l140-w15"
+            }
+          ],
+          "uitleg": "Spreekformules."
+        },
+        {
+          "type": "luisteren",
+          "tag": "spreken",
+          "tekst": "هَلْ يُمْكِنُ أَنْ تُعيدَ السُّؤالَ؟",
+          "vraag": "Wat vraagt de spreker?",
+          "opties": [
+            "of de vraag herhaald kan worden",
+            "of hij mag gaan",
+            "wat het antwoord is"
+          ],
+          "juist": 0,
+          "uitleg": "Om herhaling vragen."
+        }
+      ]
+    },
+    {
+      "titel": "Strategieën",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "spreken",
+          "vraag": "Je weet het antwoord niet meteen. Je zegt ...",
+          "opties": [
+            "سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ",
+            "لا أَعْرِفُ",
+            "اُسْكُتْ"
+          ],
+          "juist": 0,
+          "uitleg": "Tijd winnen."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "spreken",
+          "vraag": "Je kent het woord 'schaar' niet. Wat doe je?",
+          "opties": [
+            "omschrijven: الشَّيْءُ الَّذي نَقُصُّ بِهِ",
+            "zwijgen",
+            "een ander onderwerp kiezen"
+          ],
+          "juist": 0,
+          "uitleg": "Omschrijven."
+        },
+        {
+          "type": "invullen",
+          "tag": "spreken",
+          "zin": "في ___ أَرى أَطْفالًا يَلْعَبونَ.",
+          "nl": "Op de voorgrond zie ik kinderen spelen.",
+          "antwoord": [
+            "المُقَدِّمَةِ"
+          ],
+          "uitleg": "Voorgrond.",
+          "woordbank": [
+            "المُقَدِّمَةِ",
+            "الخَلْفِيَّةِ",
+            "الخاتِمَةِ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "spreken",
+          "zin": "___ أَنَّ الجَوَّ حارٌّ.",
+          "nl": "Het lijkt erop dat het warm is.",
+          "antwoord": [
+            "يَبْدو"
+          ],
+          "uitleg": "{ar|يَبْدو أَنَّ}",
+          "woordbank": [
+            "يَبْدو",
+            "يَعْني",
+            "كَما"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "spreken",
+          "nl": "Kunt u de vraag langzaam herhalen?",
+          "woorden": [
+            "هَلْ",
+            "يُمْكِنُ",
+            "أَنْ",
+            "تُعيدَ",
+            "السُّؤالَ",
+            "بِبُطْءٍ؟"
+          ],
+          "uitleg": "Om herhaling vragen."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "spreken",
+          "bron": "wat mij betreft",
+          "antwoorden": [
+            "مِنْ جِهَتي",
+            "من جهتي",
+            "بِالنِّسْبَةِ لي"
+          ],
+          "uitleg": "{ar|مِنْ جِهَتي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "spreken",
+          "bron": "في الخَلْفِيَّةِ توجَدُ جِبالٌ.",
+          "antwoorden": [
+            "op de achtergrond zijn bergen",
+            "op de achtergrond zie je bergen"
+          ],
+          "uitleg": "Foto beschrijven."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf spreken",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "spreken",
+          "tag": "spreken",
+          "opdracht": "Kies een foto uit je eigen telefoon (bijvoorbeeld een markt, een feest of een landschap) en beschrijf hem ongeveer één minuut.",
+          "model": [
+            {
+              "ar": "في المُقَدِّمَةِ أَرى عائِلَةً تَجْلِسُ حَوْلَ مائِدَةٍ.",
+              "tr": "fi l-muqaddimati arā ʿāʾilatan tajlisu ḥawla māʾida.",
+              "nl": "Op de voorgrond zie ik een gezin rond een tafel zitten."
+            },
+            {
+              "ar": "في الخَلْفِيَّةِ توجَدُ نافِذَةٌ كَبيرَةٌ.",
+              "tr": "fi l-ḫalfiyyati tūjadu nāfiḏatun kabīra.",
+              "nl": "Op de achtergrond is een groot raam."
+            },
+            {
+              "ar": "يَبْدو أَنَّهُمْ يَحْتَفِلونَ بِعيدٍ.",
+              "tr": "yabdū annahum yaḥtafilūna bi-ʿīd.",
+              "nl": "Het lijkt erop dat ze een feest vieren."
+            },
+            {
+              "ar": "سُؤالٌ وَجيهٌ... دَعْني أُفَكِّرُ. مِنْ جِهَتي، أُفَضِّلُ الأَعْيادَ العائِلِيَّةَ.",
+              "tr": "suʾālun wajīh... daʿnī ufakkir. min jihatī, ufaḍḍilu l-aʿyāda l-ʿāʾiliyya.",
+              "nl": "Goede vraag... laat me nadenken. Wat mij betreft heb ik liever familiefeesten."
+            },
+            {
+              "ar": "عَفْوًا، هَلْ يُمْكِنُ أَنْ تُعيدَ السُّؤالَ بِبُطْءٍ؟",
+              "tr": "ʿafwan, hal yumkinu an tuʿīda s-suʾāla bi-buṭʾ?",
+              "nl": "Pardon, kunt u de vraag langzaam herhalen?"
+            }
+          ],
+          "checklist": [
+            "Je beschreef voorgrond en achtergrond.",
+            "Je gebruikte links en rechts.",
+            "Je gaf een indruk ({ar|يَبْدو أَنَّ …}).",
+            "Je gaf je mening ({ar|مِنْ جِهَتي …}).",
+            "Bij woordnood gebruikte je een strategie in plaats van te stoppen.",
+            "Je sprak in een rustig, vloeiend tempo."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk wat je zei met het modelantwoord. Spreek het model daarna een keer hardop na, en probeer het dan opnieuw zonder te kijken.",
+          "woorden": [
+            "في المُقَدِّمَةِ",
+            "في الخَلْفِيَّةِ",
+            "عَلى اليَمينِ",
+            "يَبْدو أَنَّ",
+            "مِنْ جِهَتي"
+          ]
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "spreken",
+        "paren": [
+          {
+            "ar": "كَيْفَ أَقولُ …",
+            "nl": "hoe zal ik het zeggen"
+          },
+          {
+            "ar": "سُؤالٌ وَجيهٌ",
+            "nl": "goede vraag"
+          },
+          {
+            "ar": "كَما قُلْتُ",
+            "nl": "zoals ik al zei"
+          },
+          {
+            "ar": "لَحْظَةً مِنْ فَضْلِكَ",
+            "nl": "een ogenblikje"
+          },
+          {
+            "ar": "اِمْتِحانٌ شَفَوِيٌّ",
+            "nl": "mondeling examen"
+          }
+        ],
+        "uitleg": "Spreekformules."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "Wat is erger bij een mondeling examen?",
+        "opties": [
+          "een lange stilte",
+          "een opvulwoord als يَعْني",
+          "om herhaling vragen"
+        ],
+        "juist": 0,
+        "uitleg": "Vloeiendheid."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "{ar|بِعِبارَةٍ بَسيطَةٍ} gebruik je om ...",
+        "opties": [
+          "iets eenvoudiger te zeggen",
+          "af te sluiten",
+          "een vraag te stellen"
+        ],
+        "juist": 0,
+        "uitleg": "Omschrijven."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "'Rechts' bij een fotobeschrijving is ...",
+        "opties": [
+          "عَلى اليَمينِ",
+          "عَلى اليَسارِ",
+          "في الخَلْفِيَّةِ"
+        ],
+        "juist": 0,
+        "uitleg": "Plaats."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "spreken",
+        "vraag": "{ar|يَعْني} is ...",
+        "opties": [
+          "een opvulwoord: ik bedoel",
+          "een gebod",
+          "een vraagwoord"
+        ],
+        "juist": 0,
+        "uitleg": "Gesproken taal."
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "دَعْني أُفَكِّرُ قَليلًا",
+        "vraag": "Wat doet de spreker?",
+        "opties": [
+          "Hij wint tijd om na te denken.",
+          "Hij weigert te antwoorden.",
+          "Hij stelt een vraag."
+        ],
+        "juist": 0,
+        "uitleg": "Tijd winnen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "spreken",
+        "tekst": "يَبْدو أَنَّهُمْ في حَفْلَةٍ",
+        "vraag": "Wat denkt de spreker over de foto?",
+        "opties": [
+          "Ze zijn waarschijnlijk op een feest.",
+          "Ze zijn op school.",
+          "Ze zijn ziek."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَبْدو أَنَّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "هَلْ يُمْكِنُ أَنْ ___ مِنْ فَضْلِكَ؟",
+        "nl": "Kunt u dat herhalen, alstublieft?",
+        "antwoord": [
+          "تُعيدَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تُعيدَ",
+          "تُعيدُ",
+          "أَعادَ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "كَما ___، أُفَضِّلُ السَّفَرَ بِالقِطارِ.",
+        "nl": "Zoals ik al zei, reis ik liever met de trein.",
+        "antwoord": [
+          "قُلْتُ"
+        ],
+        "uitleg": "{ar|كَما قُلْتُ}",
+        "woordbank": [
+          "قُلْتُ",
+          "قالَ",
+          "أَقولُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "spreken",
+        "zin": "تَكَلَّمْ ___ مِنْ فَضْلِكَ.",
+        "nl": "Spreek langzaam, alstublieft.",
+        "antwoord": [
+          "بِبُطْءٍ"
+        ],
+        "uitleg": "{ar|بِبُطْءٍ}",
+        "woordbank": [
+          "بِبُطْءٍ",
+          "بِسُرْعَةٍ",
+          "بِصَراحَةٍ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "spreken",
+        "instructie": "Vervoeg وَصَفَ (beschrijven).",
+        "rijen": [
+          {
+            "label": "ik beschrijf",
+            "antwoord": "أَصِفُ",
+            "tr": "aṣifu"
+          },
+          {
+            "label": "beschrijf! (m)",
+            "antwoord": "صِفْ",
+            "tr": "ṣif"
+          }
+        ],
+        "uitleg": "Assimilerend: و valt weg."
+      },
+      {
+        "type": "ordenen",
+        "tag": "spreken",
+        "nl": "Op de achtergrond is een groot raam.",
+        "woorden": [
+          "في",
+          "الخَلْفِيَّةِ",
+          "توجَدُ",
+          "نافِذَةٌ",
+          "كَبيرَةٌ."
+        ],
+        "uitleg": "Foto."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "spreken",
+        "bron": "laat me even nadenken",
+        "antwoorden": [
+          "دَعْني أُفَكِّرُ",
+          "دعني أفكر"
+        ],
+        "uitleg": "{ar|دَعْني أُفَكِّرُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "spreken",
+        "bron": "سُؤالٌ وَجيهٌ، دَعْني أُفَكِّرُ.",
+        "antwoorden": [
+          "goede vraag laat me nadenken",
+          "een goede vraag laat me even nadenken"
+        ],
+        "uitleg": "Tijd winnen."
+      }
+    ]
+  }
+}

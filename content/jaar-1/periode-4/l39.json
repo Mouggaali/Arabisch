@@ -1,0 +1,720 @@
+{
+  "id": "j1-p4-l39",
+  "code": "L39",
+  "type": "les",
+  "titel": "De stad",
+  "thema": "De weg vragen en uitleggen",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "gebouwen en plaatsen in de stad noemen.",
+    "zeggen dat iets er is met يوجَدُ / توجَدُ en هُناكَ.",
+    "de weg vragen en eenvoudig uitleggen: rechtdoor, links, rechts.",
+    "rangtelwoorden in een routebeschrijving gebruiken: الشّارِعُ الثّاني."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l39-w01",
+      "ar": "ساحَةٌ",
+      "tr": "sāḥa",
+      "nl": [
+        "plein"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w02",
+      "ar": "جِسْرٌ",
+      "tr": "jisr",
+      "nl": [
+        "brug"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w03",
+      "ar": "إِشارَةُ المُرورِ",
+      "tr": "išāratu l-murūr",
+      "nl": [
+        "verkeerslicht"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l39-w04",
+      "ar": "مَسْجِدٌ",
+      "tr": "masjid",
+      "nl": [
+        "moskee"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w05",
+      "ar": "كَنيسَةٌ",
+      "tr": "kanīsa",
+      "nl": [
+        "kerk"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w06",
+      "ar": "بَنْكٌ",
+      "tr": "bank",
+      "nl": [
+        "bank (geld)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Ook {ar|مَصْرِفٌ}."
+    },
+    {
+      "id": "j1-p4-l39-w07",
+      "ar": "مَكْتَبُ البَريدِ",
+      "tr": "maktabu l-barīd",
+      "nl": [
+        "postkantoor"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l39-w08",
+      "ar": "وَسَطُ المَدينَةِ",
+      "tr": "wasaṭu l-madīna",
+      "nl": [
+        "het centrum"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j1-p4-l39-w09",
+      "ar": "يَمينٌ",
+      "tr": "yamīn",
+      "nl": [
+        "rechts"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|عَلى اليَمينِ} = aan de rechterkant."
+    },
+    {
+      "id": "j1-p4-l39-w10",
+      "ar": "يَسارٌ",
+      "tr": "yasār",
+      "nl": [
+        "links"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "{ar|عَلى اليَسارِ} = aan de linkerkant."
+    },
+    {
+      "id": "j1-p4-l39-w11",
+      "ar": "مُسْتَقيمًا",
+      "tr": "mustaqīman",
+      "nl": [
+        "rechtdoor"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l39-w12",
+      "ar": "زاوِيَةٌ",
+      "tr": "zāwiya",
+      "nl": [
+        "hoek"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w13",
+      "ar": "يوجَدُ",
+      "tr": "yūjadu",
+      "nl": [
+        "er is (m)"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Bij een vrouwelijk woord: {ar|توجَدُ}."
+    },
+    {
+      "id": "j1-p4-l39-w14",
+      "ar": "تَمْشي",
+      "tr": "tamšī",
+      "nl": [
+        "je loopt"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vaste vorm (zwak werkwoord, les 70)."
+    },
+    {
+      "id": "j1-p4-l39-w15",
+      "ar": "تَجِدُ",
+      "tr": "tajidu",
+      "nl": [
+        "je vindt"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Vaste vorm (les 71). {ar|سَتَجِدُ} = je zult vinden."
+    },
+    {
+      "id": "j1-p4-l39-w16",
+      "ar": "مِتْرٌ",
+      "tr": "mitr",
+      "nl": [
+        "meter"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l39-w17",
+      "ar": "حَوالَيْ",
+      "tr": "ḥawālay",
+      "nl": [
+        "ongeveer",
+        "rond"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l39-w18",
+      "ar": "مُقابِلَ",
+      "tr": "muqābila",
+      "nl": [
+        "tegenover"
+      ],
+      "soort": "voorzetsel"
+    },
+    {
+      "id": "j1-p4-l39-w20",
+      "ar": "مُسْتَشْفى المَدينَةِ",
+      "tr": "mustašfa l-madīna",
+      "nl": [
+        "het stadsziekenhuis"
+      ],
+      "soort": "iḍāfa"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Er is: يوجَدُ en هُناكَ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "*Er is / er zijn* zeg je met {ar|هُناكَ} (les 15) of met **{ar|يوجَدُ}** (letterlijk: *wordt gevonden*). {ar|يوجَدُ} past zich aan het geslacht aan: {ar|يوجَدُ بَنْكٌ} maar {ar|توجَدُ صَيْدَلِيَّةٌ}.",
+            "Bij een meervoud van dingen gebruik je {ar|توجَدُ} (vrouwelijk enkelvoud, les 31): {ar|توجَدُ مَطاعِمُ كَثيرَةٌ}."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "هَلْ يوجَدُ بَنْكٌ قَريبٌ مِنْ هُنا؟",
+              "tr": "hal yūjadu bankun qarībun min hunā?",
+              "nl": "Is er een bank hier in de buurt?"
+            },
+            {
+              "ar": "توجَدُ صَيْدَلِيَّةٌ عِنْدَ السّاحَةِ.",
+              "tr": "tūjadu ṣaydaliyyatun ʿinda s-sāḥa.",
+              "nl": "Er is een apotheek bij het plein."
+            },
+            {
+              "ar": "في وَسَطِ المَدينَةِ مَطاعِمُ وَمَقاهٍ كَثيرَةٌ.",
+              "tr": "fī wasaṭi l-madīnati maṭāʿimu wa-maqāhin kaṯīra.",
+              "nl": "In het centrum zijn veel restaurants en cafés.",
+              "review": {
+                "status": "onzeker",
+                "note": "مَقاهٍ (meervoud van مَقْهًى, defectief) controleren."
+              }
+            }
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "{ar|يوجَدُ} is eigenlijk een lijdende vorm (*het wordt gevonden*, les 97). Daarom staat het ding dat er is in de **nominatief**: het is het onderwerp. Je hoeft de vorm nu alleen als vaste uitdrukking te gebruiken."
+        }
+      ]
+    },
+    {
+      "titel": "De weg uitleggen",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Een routebeschrijving geef je vaak in de **muḍāriʿ** (*je loopt ..., je gaat ...*). Met rangtelwoorden zeg je welke straat: {ar|الشّارِعُ الثّاني عَلى اليَمينِ} (*de tweede straat rechts*)."
+          ]
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "لَوْ سَمَحْتَ، أَيْنَ مَكْتَبُ البَريدِ؟",
+              "tr": "law samaḥt, ayna maktabu l-barīd?",
+              "nl": "Pardon, waar is het postkantoor?"
+            },
+            {
+              "ar": "تَمْشي مُسْتَقيمًا حَتّى إِشارَةِ المُرورِ.",
+              "tr": "tamšī mustaqīman ḥattā išārati l-murūr.",
+              "nl": "Je loopt rechtdoor tot het verkeerslicht."
+            },
+            {
+              "ar": "ثُمَّ تَدْخُلُ الشّارِعَ الثّاني عَلى اليَسارِ.",
+              "tr": "ṯumma tadḫulu š-šāriʿa ṯ-ṯānī ʿala l-yasār.",
+              "nl": "Daarna ga je de tweede straat links in."
+            },
+            {
+              "ar": "سَتَجِدُ مَكْتَبَ البَريدِ مُقابِلَ المَسْجِدِ.",
+              "tr": "sa-tajidu maktaba l-barīdi muqābila l-masjid.",
+              "nl": "Je vindt het postkantoor tegenover de moskee."
+            },
+            {
+              "ar": "هَلْ هُوَ بَعيدٌ؟ — لا، حَوالَيْ خَمْسِ دَقائِقَ مَشْيًا.",
+              "tr": "hal huwa baʿīd? — lā, ḥawālay ḫamsi daqāʾiqa mašyan.",
+              "nl": "Is het ver? — Nee, ongeveer vijf minuten lopen."
+            }
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "In les 52 leer je de **gebiedende wijs** ({ar|اِمْشِ}، {ar|اُدْخُلْ}), die in routebeschrijvingen ook veel voorkomt. De muḍāriʿ-vorm is beleefd en altijd correct."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "In de stad",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "ساحَةٌ",
+              "nl": "plein",
+              "woord": "j1-p4-l39-w01"
+            },
+            {
+              "ar": "جِسْرٌ",
+              "nl": "brug",
+              "woord": "j1-p4-l39-w02"
+            },
+            {
+              "ar": "مَسْجِدٌ",
+              "nl": "moskee",
+              "woord": "j1-p4-l39-w04"
+            },
+            {
+              "ar": "كَنيسَةٌ",
+              "nl": "kerk",
+              "woord": "j1-p4-l39-w05"
+            },
+            {
+              "ar": "بَنْكٌ",
+              "nl": "bank",
+              "woord": "j1-p4-l39-w06"
+            },
+            {
+              "ar": "زاوِيَةٌ",
+              "nl": "hoek",
+              "woord": "j1-p4-l39-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "de-weg",
+          "tekst": "عَلى اليَمينِ",
+          "vraag": "Welke kant?",
+          "opties": [
+            "rechts",
+            "links",
+            "rechtdoor"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اليَمينُ} = rechts."
+        },
+        {
+          "type": "luisteren",
+          "tag": "de-weg",
+          "tekst": "تَمْشي مُسْتَقيمًا",
+          "vraag": "Wat moet je doen?",
+          "opties": [
+            "rechtdoor lopen",
+            "linksaf gaan",
+            "terugkeren"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُسْتَقيمًا} = rechtdoor."
+        }
+      ]
+    },
+    {
+      "titel": "Er is",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "yujad",
+          "zin": "___ صَيْدَلِيَّةٌ هُنا؟",
+          "nl": "Is er hier een apotheek?",
+          "woordbank": [
+            "هَلْ توجَدُ",
+            "هَلْ يوجَدُ",
+            "أَيْنَ"
+          ],
+          "antwoord": [
+            "هَلْ توجَدُ"
+          ],
+          "uitleg": "{ar|صَيْدَلِيَّةٌ} is vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "yujad",
+          "zin": "___ بَنْكٌ في الشّارِعِ.",
+          "nl": "Er is een bank in de straat.",
+          "woordbank": [
+            "يوجَدُ",
+            "توجَدُ"
+          ],
+          "antwoord": [
+            "يوجَدُ"
+          ],
+          "uitleg": "{ar|بَنْكٌ} is mannelijk."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "yujad",
+          "vraag": "'Er zijn veel restaurants' is ...",
+          "opties": [
+            "توجَدُ مَطاعِمُ كَثيرَةٌ.",
+            "يوجَدونَ مَطاعِمُ كَثيرونَ.",
+            "يوجَدُ مَطاعِمُ كَثيرٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Meervoud van dingen → vrouwelijk enkelvoud."
+        }
+      ]
+    },
+    {
+      "titel": "De weg",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "de-weg",
+          "zin": "تَدْخُلُ الشّارِعَ ___ عَلى اليَسارِ.",
+          "nl": "Je gaat de tweede straat links in.",
+          "woordbank": [
+            "الثّاني",
+            "الثّانِيَةَ",
+            "اِثْنَيْنِ"
+          ],
+          "antwoord": [
+            "الثّاني"
+          ],
+          "uitleg": "{ar|شارِعٌ} is mannelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "de-weg",
+          "zin": "البَنْكُ ___ المَسْجِدِ.",
+          "nl": "De bank is tegenover de moskee.",
+          "woordbank": [
+            "مُقابِلَ",
+            "بَيْنَ",
+            "تَحْتَ"
+          ],
+          "antwoord": [
+            "مُقابِلَ"
+          ],
+          "uitleg": "{ar|مُقابِلَ} = tegenover."
+        },
+        {
+          "type": "ordenen",
+          "tag": "de-weg",
+          "nl": "Pardon, waar is het postkantoor?",
+          "woorden": [
+            "لَوْ",
+            "سَمَحْتَ،",
+            "أَيْنَ",
+            "مَكْتَبُ",
+            "البَريدِ؟"
+          ],
+          "uitleg": "Beleefde vraag."
+        },
+        {
+          "type": "ordenen",
+          "tag": "de-weg",
+          "nl": "Je loopt rechtdoor tot het verkeerslicht.",
+          "woorden": [
+            "تَمْشي",
+            "مُسْتَقيمًا",
+            "حَتّى",
+            "إِشارَةِ",
+            "المُرورِ."
+          ],
+          "uitleg": "{ar|حَتّى} = tot."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "de-weg",
+          "instructie": "Schrijf de richting (met عَلى).",
+          "rijen": [
+            {
+              "label": "rechts",
+              "antwoord": "عَلى اليَمينِ",
+              "tr": "ʿala l-yamīn"
+            },
+            {
+              "label": "links",
+              "antwoord": "عَلى اليَسارِ",
+              "tr": "ʿala l-yasār"
+            }
+          ],
+          "uitleg": "{ar|عَلى} + genitief."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "de-weg",
+          "bron": "Waar is de moskee?",
+          "antwoorden": [
+            "أَيْنَ المَسْجِدُ؟"
+          ],
+          "uitleg": "{ar|أَيْنَ المَسْجِدُ؟}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "yujad",
+          "bron": "Is er een bank in de buurt?",
+          "antwoorden": [
+            "هَلْ يوجَدُ بَنْكٌ قَريبٌ؟",
+            "هَلْ يوجَدُ بَنْكٌ قَريبٌ مِنْ هُنا؟",
+            "هَلْ هُناكَ بَنْكٌ قَريبٌ؟"
+          ],
+          "uitleg": "{ar|هَلْ يوجَدُ بَنْكٌ قَريبٌ؟}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "de-weg",
+          "bron": "الفُنْدُقُ في وَسَطِ المَدينَةِ.",
+          "antwoorden": [
+            "het hotel is in het centrum",
+            "het hotel ligt in het centrum",
+            "het hotel is in het centrum van de stad"
+          ],
+          "uitleg": "{ar|الفُنْدُقُ} = het hotel (les 43)."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "de-weg",
+          "bron": "سَتَجِدُ البَنْكَ عَلى اليَمينِ.",
+          "antwoorden": [
+            "je vindt de bank aan de rechterkant",
+            "je vindt de bank rechts",
+            "je zult de bank rechts vinden"
+          ],
+          "uitleg": "{ar|سَتَجِدُ} = je zult vinden."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "يَمينٌ",
+            "nl": "rechts"
+          },
+          {
+            "ar": "يَسارٌ",
+            "nl": "links"
+          },
+          {
+            "ar": "مُسْتَقيمًا",
+            "nl": "rechtdoor"
+          },
+          {
+            "ar": "مُقابِلَ",
+            "nl": "tegenover"
+          },
+          {
+            "ar": "حَوالَيْ",
+            "nl": "ongeveer"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "yujad",
+        "vraag": "'Er is een kerk' is ...",
+        "opties": [
+          "توجَدُ كَنيسَةٌ.",
+          "يوجَدُ كَنيسَةٌ.",
+          "توجَدُ كَنيسَةً."
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk, nominatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "de-weg",
+        "vraag": "'De derde straat' is ...",
+        "opties": [
+          "الشّارِعُ الثّالِثُ",
+          "الشّارِعُ الثّالِثَةُ",
+          "ثَلاثَةُ شَوارِعَ"
+        ],
+        "juist": 0,
+        "uitleg": "Mannelijk rangtelwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "de-weg",
+        "vraag": "Wat betekent {ar|إِشارَةُ المُرورِ}?",
+        "opties": [
+          "verkeerslicht",
+          "verkeersbord",
+          "kruispunt"
+        ],
+        "juist": 0,
+        "uitleg": "Letterlijk: het teken van het verkeer."
+      },
+      {
+        "type": "luisteren",
+        "tag": "de-weg",
+        "tekst": "المَكْتَبُ عِنْدَ الجِسْرِ",
+        "vraag": "Waar is het kantoor?",
+        "opties": [
+          "bij de brug",
+          "op het plein",
+          "tegenover de moskee"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|عِنْدَ الجِسْرِ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "yujad",
+        "tekst": "يوجَدُ بَنْكٌ في وَسَطِ المَدينَةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Er is een bank in het centrum.",
+          "De bank is ver van het centrum.",
+          "Er zijn veel banken."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يوجَدُ} = er is."
+      },
+      {
+        "type": "invullen",
+        "tag": "de-weg",
+        "zin": "المَسْجِدُ عَلى ___.",
+        "nl": "De moskee is aan de linkerkant.",
+        "woordbank": [
+          "اليَسارِ",
+          "اليَسارُ",
+          "يَسارٌ"
+        ],
+        "antwoord": [
+          "اليَسارِ"
+        ],
+        "uitleg": "Genitief na {ar|عَلى}."
+      },
+      {
+        "type": "invullen",
+        "tag": "yujad",
+        "zin": "هَلْ ___ مَطْعَمٌ هُنا؟",
+        "nl": "Is er hier een restaurant?",
+        "antwoord": [
+          "يوجَدُ"
+        ],
+        "uitleg": "{ar|يوجَدُ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "yujad",
+        "instructie": "يوجَدُ of توجَدُ?",
+        "rijen": [
+          {
+            "label": "... ساحَةٌ (plein)",
+            "antwoord": "توجَدُ",
+            "tr": "tūjadu"
+          },
+          {
+            "label": "... جِسْرٌ (brug)",
+            "antwoord": "يوجَدُ",
+            "tr": "yūjadu"
+          }
+        ],
+        "uitleg": "Het geslacht van het woord bepaalt de vorm."
+      },
+      {
+        "type": "ordenen",
+        "tag": "de-weg",
+        "nl": "Je vindt het postkantoor tegenover de moskee.",
+        "woorden": [
+          "سَتَجِدُ",
+          "مَكْتَبَ",
+          "البَريدِ",
+          "مُقابِلَ",
+          "المَسْجِدِ."
+        ],
+        "uitleg": "Lijdend voorwerp + plaatsbepaling."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "de-weg",
+        "bron": "rechtdoor",
+        "antwoorden": [
+          "مُسْتَقيمًا"
+        ],
+        "uitleg": "{ar|مُسْتَقيمًا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "de-weg",
+        "bron": "de tweede straat rechts",
+        "antwoorden": [
+          "الشّارِعُ الثّاني عَلى اليَمينِ"
+        ],
+        "uitleg": "{ar|الشّارِعُ الثّاني عَلى اليَمينِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "de-weg",
+        "bron": "هَلْ هُوَ بَعيدٌ؟",
+        "antwoorden": [
+          "is het ver",
+          "is hij ver"
+        ],
+        "uitleg": "{ar|بَعيدٌ} = ver."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "yujad",
+        "bron": "توجَدُ مَحَطَّةٌ قَريبَةٌ.",
+        "antwoorden": [
+          "er is een station in de buurt",
+          "er is een station dichtbij",
+          "er is een halte dichtbij"
+        ],
+        "uitleg": "{ar|توجَدُ} + vrouwelijk woord."
+      }
+    ]
+  }
+}

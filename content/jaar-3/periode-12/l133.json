@@ -1,0 +1,613 @@
+{
+  "id": "j3-p12-l133",
+  "code": "L133",
+  "type": "les",
+  "titel": "Reizen in de Arabische wereld",
+  "thema": "Petra, de piramides en Oman; reisadvies geven",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "over reisbestemmingen in de Arabische wereld vertellen.",
+    "advies geven met يُنْصَحُ بِـ، مِنَ الأَفْضَلِ أَنْ، لا بُدَّ مِنْ.",
+    "voorwaarde en advies combineren (إِذا … فَـ)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-l133-w01",
+      "ar": "مَعالِمُ سِياحِيَّةٌ",
+      "tr": "maʿālimu siyāḥiyya",
+      "nl": [
+        "bezienswaardigheden"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w02",
+      "ar": "مَكْتَبُ الصَّرْفِ",
+      "tr": "maktabu ṣ-ṣarf",
+      "nl": [
+        "wisselkantoor"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w03",
+      "ar": "دَليلٌ سِياحِيٌّ",
+      "tr": "dalīlun siyāḥiyy",
+      "nl": [
+        "reisgids (persoon of boek)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w04",
+      "ar": "آثارٌ",
+      "tr": "āṯār",
+      "nl": [
+        "oudheden, ruïnes"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p12-l133-w05",
+      "ar": "قَلْعَةٌ",
+      "tr": "qalʿa",
+      "nl": [
+        "fort, burcht"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|قِلاعٌ}."
+    },
+    {
+      "id": "j3-p12-l133-w06",
+      "ar": "الأَهْراماتُ",
+      "tr": "al-ahrāmāt",
+      "nl": [
+        "de piramides"
+      ],
+      "soort": "zelfstandig naamwoord (mv)"
+    },
+    {
+      "id": "j3-p12-l133-w07",
+      "ar": "يُنْصَحُ بِـ",
+      "tr": "yunṣaḥu bi-",
+      "nl": [
+        "het is aan te raden"
+      ],
+      "soort": "uitdrukking (lijdend)"
+    },
+    {
+      "id": "j3-p12-l133-w08",
+      "ar": "لا بُدَّ مِنْ",
+      "tr": "lā budda min",
+      "nl": [
+        "het is onvermijdelijk, je moet"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w09",
+      "ar": "مِنَ الأَفْضَلِ أَنْ",
+      "tr": "mina l-afḍali an",
+      "nl": [
+        "het is beter om"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w10",
+      "ar": "عاداتٌ وَتَقاليدُ",
+      "tr": "ʿādātun wa-taqālīd",
+      "nl": [
+        "gewoonten en tradities"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w11",
+      "ar": "لِباسٌ مُحْتَشِمٌ",
+      "tr": "libāsun muḥtašim",
+      "nl": [
+        "bedekkende, ingetogen kleding"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w12",
+      "ar": "مُرْشِدٌ",
+      "tr": "muršid",
+      "nl": [
+        "gids (persoon)"
+      ],
+      "soort": "deelwoord (IV)"
+    },
+    {
+      "id": "j3-p12-l133-w13",
+      "ar": "رِحْلَةٌ مُنَظَّمَةٌ",
+      "tr": "riḥlatun munaẓẓama",
+      "nl": [
+        "georganiseerde reis"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p12-l133-w15",
+      "ar": "خَلّابٌ",
+      "tr": "ḫallāb",
+      "nl": [
+        "betoverend, adembenemend"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p12-l133-w16",
+      "ar": "يَسْتَحِقُّ الزِّيارَةَ",
+      "tr": "yastaḥiqqu z-ziyāra",
+      "nl": [
+        "is een bezoek waard"
+      ],
+      "soort": "uitdrukking"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Reisadvies geven",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Formule",
+            "Wat volgt",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "يُنْصَحُ بِـ",
+              "maṣdar (gen.)",
+              "يُنْصَحُ بِزِيارَةِ البَتْراءِ"
+            ],
+            [
+              "مِنَ الأَفْضَلِ أَنْ",
+              "manṣūb",
+              "مِنَ الأَفْضَلِ أَنْ تَحْجِزَ مُبَكِّرًا"
+            ],
+            [
+              "لا بُدَّ مِنْ / لا بُدَّ أَنْ",
+              "maṣdar / manṣūb",
+              "لا بُدَّ مِنْ تَأْشيرَةٍ"
+            ],
+            [
+              "إِذا كُنْتَ تَنْوي …، فَـ…",
+              "voorwaarde + advies",
+              "إِذا كُنْتَ تَنْوي زِيارَةَ مِصْرَ، فَابْدَأْ بِالقاهِرَةِ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom {ar|يُنْصَحُ} (lijdend)? Een reisgids spreekt **onpersoonlijk**: niet *ik raad aan* maar *het wordt aangeraden*. Dat klinkt objectiever. {ar|لا بُدَّ} (letterlijk: *er is geen ontkomen aan*) is sterker dan {ar|يَجِبُ}."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|إِذا} + voorwaarde begint het advies met {ar|فَـ} als het een **gebiedende wijs** is: {ar|إِذا زُرْتَ عَمّانَ فَلا تَنْسَ البَتْراءَ}."
+        }
+      ]
+    },
+    {
+      "titel": "Bestemmingen",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "تَسْتَحِقُّ البَتْراءُ في الأُرْدُنِّ الزِّيارَةَ.",
+              "tr": "tastaḥiqqu l-batrāʾu fi l-urdunni z-ziyāra.",
+              "nl": "Petra in Jordanië is een bezoek waard."
+            },
+            {
+              "ar": "يُنْصَحُ بِزِيارَةِ الأَهْراماتِ في الصَّباحِ الباكِرِ.",
+              "tr": "yunṣaḥu bi-ziyārati l-ahrāmāti fi ṣ-ṣabāḥi l-bākir.",
+              "nl": "Het is aan te raden de piramides 's ochtends vroeg te bezoeken."
+            },
+            {
+              "ar": "مِنَ الأَفْضَلِ أَنْ تَصْرِفَ العُمْلَةَ في مَكْتَبِ الصَّرْفِ.",
+              "tr": "mina l-afḍali an taṣrifa l-ʿumlata fī maktabi ṣ-ṣarf.",
+              "nl": "Je kunt beter geld wisselen bij een wisselkantoor."
+            },
+            {
+              "ar": "لا بُدَّ مِنِ احْتِرامِ العاداتِ وَالتَّقاليدِ المَحَلِّيَّةِ.",
+              "tr": "lā budda mini ḥtirāmi l-ʿādāti wa-t-taqālīdi l-maḥalliyya.",
+              "nl": "Je moet de lokale gewoonten en tradities respecteren."
+            },
+            {
+              "ar": "مَنْظَرُ وادي رَمٍّ خَلّابٌ.",
+              "tr": "manẓaru wādī rammin ḫallāb.",
+              "nl": "Het uitzicht over Wadi Rum is adembenemend."
+            },
+            {
+              "ar": "إِذا زُرْتَ عُمانَ فَلا تَنْسَ قِلاعَها القَديمَةَ.",
+              "tr": "iḏā zurta ʿumāna fa-lā tansa qilāʿahā l-qadīma.",
+              "nl": "Als je Oman bezoekt, vergeet dan de oude forten niet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "آثارٌ",
+              "nl": "oudheden",
+              "woord": "j3-p12-l133-w04"
+            },
+            {
+              "ar": "قَلْعَةٌ",
+              "nl": "fort",
+              "woord": "j3-p12-l133-w05"
+            },
+            {
+              "ar": "مُرْشِدٌ",
+              "nl": "gids",
+              "woord": "j3-p12-l133-w12"
+            },
+            {
+              "ar": "خَلّابٌ",
+              "nl": "adembenemend",
+              "woord": "j3-p12-l133-w15"
+            },
+            {
+              "ar": "مَكْتَبُ الصَّرْفِ",
+              "nl": "wisselkantoor",
+              "woord": "j3-p12-l133-w02"
+            },
+            {
+              "ar": "وادٍ",
+              "nl": "dal"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "reisadvies",
+          "tekst": "يُنْصَحُ بِزِيارَةِ المُتْحَفِ",
+          "vraag": "Wat is het advies?",
+          "opties": [
+            "het museum bezoeken",
+            "het museum overslaan",
+            "een gids huren"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُنْصَحُ بِـ}"
+        }
+      ]
+    },
+    {
+      "titel": "Advies geven",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "reisadvies",
+          "zin": "يُنْصَحُ ___ الحَجْزِ مُبَكِّرًا.",
+          "nl": "Het is aan te raden vroeg te boeken.",
+          "antwoord": [
+            "بِـ"
+          ],
+          "uitleg": "{ar|يُنْصَحُ بِـ} + maṣdar.",
+          "woordbank": [
+            "بِـ",
+            "أَنْ",
+            "عَلى"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "reisadvies",
+          "zin": "مِنَ الأَفْضَلِ أَنْ ___ لِباسًا مُحْتَشِمًا.",
+          "nl": "Je kunt beter bedekkende kleding dragen.",
+          "antwoord": [
+            "تَلْبَسَ"
+          ],
+          "uitleg": "Manṣūb.",
+          "woordbank": [
+            "تَلْبَسَ",
+            "تَلْبَسُ",
+            "لَبِسْتَ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "reisadvies",
+          "zin": "إِذا زُرْتَ فاسَ ___ تَنْسَ المَدينَةَ القَديمَةَ.",
+          "nl": "Als je Fès bezoekt, vergeet dan de oude stad niet.",
+          "antwoord": [
+            "فَلا"
+          ],
+          "uitleg": "{ar|فَـ} vóór het advies.",
+          "woordbank": [
+            "فَلا",
+            "لا",
+            "لَمْ"
+          ]
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "reisadvies",
+          "vraag": "Welke formule is het **sterkst**?",
+          "opties": [
+            "لا بُدَّ مِنْ",
+            "مِنَ الأَفْضَلِ أَنْ",
+            "يُمْكِنُ أَنْ"
+          ],
+          "juist": 0,
+          "uitleg": "Er is geen ontkomen aan."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "reisadvies",
+          "vraag": "Waarom {ar|يُنْصَحُ} in een reisgids?",
+          "opties": [
+            "onpersoonlijk en objectief",
+            "het is verleden tijd",
+            "het is een vraag"
+          ],
+          "juist": 0,
+          "uitleg": "Lijdend."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "reisadvies",
+          "nl": "Petra is een bezoek waard.",
+          "woorden": [
+            "تَسْتَحِقُّ",
+            "البَتْراءُ",
+            "الزِّيارَةَ."
+          ],
+          "uitleg": "{ar|يَسْتَحِقُّ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "woordenschat",
+          "bron": "de bezienswaardigheden",
+          "antwoorden": [
+            "المَعالِمُ السِّياحِيَّةُ",
+            "المعالم السياحية"
+          ],
+          "uitleg": "{ar|المَعالِمُ السِّياحِيَّةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "reisadvies",
+          "bron": "لا بُدَّ مِنْ تَأْشيرَةٍ لِدُخولِ البَلَدِ.",
+          "antwoorden": [
+            "je hebt een visum nodig om het land in te komen",
+            "een visum is verplicht om het land binnen te gaan"
+          ],
+          "uitleg": "{ar|لا بُدَّ مِنْ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "الأَهْراماتُ",
+            "nl": "piramides"
+          },
+          {
+            "ar": "دَليلٌ سِياحِيٌّ",
+            "nl": "reisgids"
+          },
+          {
+            "ar": "عاداتٌ وَتَقاليدُ",
+            "nl": "gewoonten en tradities"
+          },
+          {
+            "ar": "رِحْلَةٌ مُنَظَّمَةٌ",
+            "nl": "georganiseerde reis"
+          },
+          {
+            "ar": "لِباسٌ مُحْتَشِمٌ",
+            "nl": "bedekkende kleding"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "Na {ar|يُنْصَحُ بِـ} volgt ...",
+        "opties": [
+          "een maṣdar in de genitief",
+          "een muḍāriʿ",
+          "een gebiedende wijs"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُنْصَحُ بِزِيارَةِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "{ar|مِنَ الأَفْضَلِ أَنْ تَحْجِزَ} betekent ...",
+        "opties": [
+          "je kunt beter reserveren",
+          "je hebt gereserveerd",
+          "reserveer niet"
+        ],
+        "juist": 0,
+        "uitleg": "Advies."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "reisadvies",
+        "vraag": "{ar|لا بُدَّ مِنِ احْتِرامِ التَّقاليدِ} betekent ...",
+        "opties": [
+          "je moet de tradities respecteren",
+          "tradities zijn niet belangrijk",
+          "respecteer tradities als je wilt"
+        ],
+        "juist": 0,
+        "uitleg": "Sterk advies."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "woordenschat",
+        "vraag": "Waar liggen de piramides van Gizeh?",
+        "opties": [
+          "in Egypte",
+          "in Jordanië",
+          "in Oman"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِصْرُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "reisadvies",
+        "tekst": "مِنَ الأَفْضَلِ أَنْ تُسافِرَ في الرَّبيعِ",
+        "vraag": "Wanneer kun je het best reizen?",
+        "opties": [
+          "in de lente",
+          "in de zomer",
+          "in de winter"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|الرَّبيعُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "woordenschat",
+        "tekst": "المَنْظَرُ خَلّابٌ",
+        "vraag": "Hoe is het uitzicht?",
+        "opties": [
+          "adembenemend",
+          "lelijk",
+          "gewoon"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَلّابٌ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "reisadvies",
+        "zin": "لا ___ مِنْ جَوازِ سَفَرٍ صالِحٍ.",
+        "nl": "Een geldig paspoort is verplicht.",
+        "antwoord": [
+          "بُدَّ"
+        ],
+        "uitleg": "{ar|لا بُدَّ مِنْ}",
+        "woordbank": [
+          "بُدَّ",
+          "شَكَّ",
+          "يَجِبُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "reisadvies",
+        "zin": "يُنْصَحُ بِـ___ الماءِ المَعْدِنِيِّ.",
+        "nl": "Het is aan te raden mineraalwater te drinken.",
+        "antwoord": [
+          "شُرْبِ"
+        ],
+        "uitleg": "Maṣdar.",
+        "woordbank": [
+          "شُرْبِ",
+          "يَشْرَبُ",
+          "شَرِبَ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "woordenschat",
+        "zin": "شَرَحَ لَنا ___ تاريخَ القَلْعَةِ.",
+        "nl": "De gids legde ons de geschiedenis van het fort uit.",
+        "antwoord": [
+          "المُرْشِدُ"
+        ],
+        "uitleg": "{ar|مُرْشِدٌ}",
+        "woordbank": [
+          "المُرْشِدُ",
+          "الوادي",
+          "الصَّرْفُ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "reisadvies",
+        "instructie": "Maak er een advies van met يُنْصَحُ بِـ.",
+        "rijen": [
+          {
+            "label": "زارَ (bezoeken)",
+            "antwoord": "يُنْصَحُ بِزِيارَةِ",
+            "tr": "yunṣaḥu bi-ziyārati"
+          },
+          {
+            "label": "حَجَزَ (boeken)",
+            "antwoord": "يُنْصَحُ بِالحَجْزِ",
+            "tr": "yunṣaḥu bi-l-ḥajz"
+          }
+        ],
+        "uitleg": "+ maṣdar."
+      },
+      {
+        "type": "ordenen",
+        "tag": "reisadvies",
+        "nl": "Als je Oman bezoekt, vergeet de forten niet.",
+        "woorden": [
+          "إِذا",
+          "زُرْتَ",
+          "عُمانَ",
+          "فَلا",
+          "تَنْسَ",
+          "القِلاعَ."
+        ],
+        "uitleg": "Voorwaarde + advies."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "het wisselkantoor",
+        "antwoorden": [
+          "مَكْتَبُ الصَّرْفِ",
+          "مكتب الصرف"
+        ],
+        "uitleg": "{ar|مَكْتَبُ الصَّرْفِ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "reisadvies",
+        "bron": "يُنْصَحُ بِزِيارَةِ الأَهْراماتِ في الصَّباحِ.",
+        "antwoorden": [
+          "het is aan te raden de piramides 's ochtends te bezoeken",
+          "het advies is de piramides in de ochtend te bezoeken"
+        ],
+        "uitleg": "{ar|يُنْصَحُ بِـ}"
+      }
+    ]
+  }
+}

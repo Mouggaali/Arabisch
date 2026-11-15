@@ -1,0 +1,663 @@
+{
+  "id": "j3-p11-l132",
+  "code": "L132",
+  "type": "les",
+  "titel": "Project: samenvatting",
+  "thema": "Een tekst over thuiswerken samenvatten",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de hoofdgedachte en de belangrijkste argumenten van een tekst bepalen.",
+    "een samenvatting schrijven met يَتَناوَلُ، يَرى الكاتِبُ أَنَّ، يَخْلُصُ إِلى.",
+    "in eigen woorden weergeven in plaats van te citeren."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l132-w01",
+      "ar": "تَلْخيصٌ",
+      "tr": "talḫīṣ",
+      "nl": [
+        "samenvatting (het samenvatten)"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p11-l132-w02",
+      "ar": "مُلَخَّصٌ",
+      "tr": "mulaḫḫaṣ",
+      "nl": [
+        "samenvatting (de tekst)"
+      ],
+      "soort": "deelwoord (II, passief)"
+    },
+    {
+      "id": "j3-p11-l132-w03",
+      "ar": "تَناوَلَ",
+      "tr": "tanāwala",
+      "nl": [
+        "behandelen (een onderwerp)"
+      ],
+      "soort": "werkwoord (VI)"
+    },
+    {
+      "id": "j3-p11-l132-w04",
+      "ar": "الفِكْرَةُ الرَّئيسِيَّةُ",
+      "tr": "al-fikratu r-raʾīsiyya",
+      "nl": [
+        "de hoofdgedachte"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l132-w05",
+      "ar": "فِكْرَةٌ ثانَوِيَّةٌ",
+      "tr": "fikratun ṯānawiyya",
+      "nl": [
+        "bijgedachte"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l132-w06",
+      "ar": "خَلُصَ إِلى",
+      "tr": "ḫaluṣa ilā",
+      "nl": [
+        "concluderen"
+      ],
+      "soort": "werkwoord"
+    },
+    {
+      "id": "j3-p11-l132-w07",
+      "ar": "اِقْتِباسٌ",
+      "tr": "iqtibās",
+      "nl": [
+        "citaat"
+      ],
+      "soort": "maṣdar (VIII)"
+    },
+    {
+      "id": "j3-p11-l132-w08",
+      "ar": "بِتَصَرُّفٍ",
+      "tr": "bi-taṣarruf",
+      "nl": [
+        "vrij weergegeven (geparafraseerd)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l132-w10",
+      "ar": "العُزْلَةُ",
+      "tr": "al-ʿuzla",
+      "nl": [
+        "isolement"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l132-w11",
+      "ar": "العَمَلُ المُخْتَلَطُ",
+      "tr": "al-ʿamalu l-muḫtalaṭ",
+      "nl": [
+        "hybride werken"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l132-w14",
+      "ar": "خَبيرٌ",
+      "tr": "ḫabīr",
+      "nl": [
+        "deskundige"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|خُبَراءُ}."
+    },
+    {
+      "id": "j3-p11-l132-w15",
+      "ar": "الأَمْثَلُ",
+      "tr": "al-amṯal",
+      "nl": [
+        "het meest ideale, optimale"
+      ],
+      "soort": "overtreffende trap"
+    },
+    {
+      "id": "j3-p11-l132-w16",
+      "ar": "شائِعٌ",
+      "tr": "šāʾiʿ",
+      "nl": [
+        "gebruikelijk, wijdverbreid"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j3-p11-l132-w17",
+      "ar": "الحَياةُ الخاصَّةُ",
+      "tr": "al-ḥayātu l-ḫāṣṣa",
+      "nl": [
+        "het privéleven"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l132-w18",
+      "ar": "مُرونَةٌ",
+      "tr": "murūna",
+      "nl": [
+        "flexibiliteit"
+      ],
+      "soort": "zelfstandig naamwoord"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Een samenvatting schrijven",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Stap",
+            "Formule",
+            "Nederlands"
+          ],
+          "rijen": [
+            [
+              "onderwerp",
+              "يَتَناوَلُ النَّصُّ مَوْضوعَ …",
+              "De tekst behandelt het onderwerp …"
+            ],
+            [
+              "standpunt",
+              "يَرى الكاتِبُ أَنَّ …",
+              "De schrijver vindt dat …"
+            ],
+            [
+              "argumenten",
+              "وَيَذْكُرُ أَنَّ … · كَما يُشيرُ إِلى …",
+              "Hij noemt … · Ook wijst hij op …"
+            ],
+            [
+              "tegenargument",
+              "في المُقابِلِ يَرى آخَرونَ أَنَّ …",
+              "Anderen vinden daarentegen dat …"
+            ],
+            [
+              "conclusie",
+              "وَيَخْلُصُ النَّصُّ إِلى أَنَّ …",
+              "De tekst concludeert dat …"
+            ]
+          ],
+          "arKolommen": [
+            1
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Een samenvatting is **ongeveer een derde** van het origineel en bevat alleen de {ar|الفِكْرَةُ الرَّئيسِيَّةُ} en de belangrijkste argumenten. Je schrijft in de **derde persoon** over de tekst ({ar|يَرى الكاتِبُ}) en gebruikt je eigen woorden ({ar|بِتَصَرُّفٍ}) in plaats van lange citaten."
+        },
+        {
+          "type": "letop",
+          "md": "Na {ar|يَرى، يَذْكُرُ، يُشيرُ إِلى، يَخْلُصُ إِلى} volgt {ar|أَنَّ} (niet {ar|إِنَّ}): {ar|يَرى الكاتِبُ أَنَّ العَمَلَ …}. Alleen na {ar|قالَ} gebruik je {ar|إِنَّ}."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeld",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Lees de tekst bij de oefeningen (over thuiswerken). Een mogelijke samenvatting:"
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يَتَناوَلُ النَّصُّ مَوْضوعَ العَمَلِ عَنْ بُعْدٍ.",
+              "tr": "yatanāwalu n-naṣṣu mawḍūʿa l-ʿamali ʿan buʿd.",
+              "nl": "De tekst behandelt het onderwerp thuiswerken."
+            },
+            {
+              "ar": "يَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ وَيَمْنَحُ حُرِّيَّةً.",
+              "tr": "yarā kaṯīrun mina l-muwaẓẓafīna annahu yuwaffiru l-waqta wa-yamnaḥu ḥurriyya.",
+              "nl": "Veel werknemers vinden dat het tijd bespaart en vrijheid geeft."
+            },
+            {
+              "ar": "في المُقابِلِ يَشْكو آخَرونَ مِنَ العُزْلَةِ.",
+              "tr": "fi l-muqābili yaškū āḫarūna mina l-ʿuzla.",
+              "nl": "Anderen klagen daarentegen over isolement."
+            },
+            {
+              "ar": "وَيَخْلُصُ النَّصُّ إِلى أَنَّ العَمَلَ المُخْتَلَطَ هُوَ الحَلُّ الأَمْثَلُ.",
+              "tr": "wa-yaḫluṣu n-naṣṣu ilā anna l-ʿamala l-muḫtalaṭa huwa l-ḥallu l-amṯal.",
+              "nl": "De tekst concludeert dat hybride werken de beste oplossing is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "samenvatten",
+          "paren": [
+            {
+              "ar": "تَلْخيصٌ",
+              "nl": "samenvatten",
+              "woord": "j3-p11-l132-w01"
+            },
+            {
+              "ar": "تَناوَلَ",
+              "nl": "behandelen",
+              "woord": "j3-p11-l132-w03"
+            },
+            {
+              "ar": "الفِكْرَةُ الرَّئيسِيَّةُ",
+              "nl": "hoofdgedachte",
+              "woord": "j3-p11-l132-w04"
+            },
+            {
+              "ar": "خَلُصَ إِلى",
+              "nl": "concluderen",
+              "woord": "j3-p11-l132-w06"
+            },
+            {
+              "ar": "اِقْتِباسٌ",
+              "nl": "citaat",
+              "woord": "j3-p11-l132-w07"
+            },
+            {
+              "ar": "خَبيرٌ",
+              "nl": "deskundige",
+              "woord": "j3-p11-l132-w14"
+            }
+          ],
+          "uitleg": "Samenvattingswoorden."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "samenvatten",
+          "vraag": "Lees de tekst. Wat is het onderwerp?",
+          "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+          "opties": [
+            "thuiswerken",
+            "werkloosheid",
+            "openbaar vervoer"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|العَمَلُ عَنْ بُعْدٍ}"
+        }
+      ]
+    },
+    {
+      "titel": "De tekst samenvatten",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "samenvatten",
+          "vraag": "Dezelfde tekst. Welke twee voordelen noemen werknemers?",
+          "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+          "opties": [
+            "tijdwinst en meer vrijheid",
+            "hoger loon en minder werk",
+            "meer collega's en een groter kantoor"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُوَفِّرُ الوَقْتَ … حُرِّيَّةً أَكْبَرَ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "samenvatten",
+          "vraag": "Dezelfde tekst. Waarover klagen anderen?",
+          "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+          "opties": [
+            "isolement en het moeilijk scheiden van werk en privé",
+            "te lange reistijd",
+            "te weinig vrijheid"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|العُزْلَةِ وَصُعوبَةِ الفَصْلِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "samenvatten",
+          "vraag": "Dezelfde tekst. Wat vrezen bedrijven?",
+          "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+          "opties": [
+            "slechtere communicatie tussen collega's",
+            "hogere kantoorkosten",
+            "minder klanten"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ضَعْفَ التَّواصُلِ}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "samenvatten",
+          "vraag": "Dezelfde tekst. Wat is de conclusie van de deskundigen?",
+          "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+          "opties": [
+            "hybride werken is de beste oplossing",
+            "iedereen moet thuiswerken",
+            "thuiswerken moet verboden worden"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|العَمَلُ المُخْتَلَطُ}"
+        },
+        {
+          "type": "invullen",
+          "tag": "samenvatten",
+          "zin": "يَرى الكاتِبُ ___ العَمَلَ عَنْ بُعْدٍ مُفيدٌ.",
+          "nl": "De schrijver vindt dat thuiswerken nuttig is.",
+          "antwoord": [
+            "أَنَّ"
+          ],
+          "uitleg": "Na {ar|يَرى}: أَنَّ.",
+          "woordbank": [
+            "أَنَّ",
+            "إِنَّ",
+            "أَنْ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Schrijven",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "samenvatten",
+          "nl": "De tekst behandelt het onderwerp thuiswerken.",
+          "woorden": [
+            "يَتَناوَلُ",
+            "النَّصُّ",
+            "مَوْضوعَ",
+            "العَمَلِ",
+            "عَنْ",
+            "بُعْدٍ."
+          ],
+          "uitleg": "Onderwerp."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "samenvatten",
+          "bron": "de hoofdgedachte",
+          "antwoorden": [
+            "الفِكْرَةُ الرَّئيسِيَّةُ",
+            "الفكرة الرئيسية"
+          ],
+          "uitleg": "{ar|الفِكْرَةُ الرَّئيسِيَّةُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "samenvatten",
+          "bron": "يَخْلُصُ النَّصُّ إِلى أَنَّ الحَلَّ هُوَ التَّوازُنُ.",
+          "antwoorden": [
+            "de tekst concludeert dat evenwicht de oplossing is",
+            "de tekst komt tot de conclusie dat evenwicht de oplossing is"
+          ],
+          "uitleg": "{ar|خَلُصَ إِلى}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "samenvatten",
+          "opdracht": "Vat de tekst over thuiswerken uit deze les samen in ongeveer 60 woorden.",
+          "model": [
+            {
+              "ar": "يَتَناوَلُ النَّصُّ مَوْضوعَ العَمَلِ عَنْ بُعْدٍ.",
+              "tr": "yatanāwalu n-naṣṣu mawḍūʿa l-ʿamali ʿan buʿd.",
+              "nl": "De tekst behandelt het onderwerp thuiswerken."
+            },
+            {
+              "ar": "يَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ وَيَمْنَحُ حُرِّيَّةً.",
+              "tr": "yarā kaṯīrun mina l-muwaẓẓafīna annahu yuwaffiru l-waqta wa-yamnaḥu ḥurriyya.",
+              "nl": "Veel werknemers vinden dat het tijd bespaart en vrijheid geeft."
+            },
+            {
+              "ar": "في المُقابِلِ يَشْكو آخَرونَ مِنَ العُزْلَةِ.",
+              "tr": "fi l-muqābili yaškū āḫarūna mina l-ʿuzla.",
+              "nl": "Anderen klagen daarentegen over isolement."
+            },
+            {
+              "ar": "وَيَخْلُصُ النَّصُّ إِلى أَنَّ العَمَلَ المُخْتَلَطَ هُوَ الحَلُّ الأَمْثَلُ.",
+              "tr": "wa-yaḫluṣu n-naṣṣu ilā anna l-ʿamala l-muḫtalaṭa huwa l-ḥallu l-amṯal.",
+              "nl": "De tekst concludeert dat hybride werken de beste oplossing is."
+            }
+          ],
+          "checklist": [
+            "Je noemt het onderwerp ({ar|يَتَناوَلُ النَّصُّ …}).",
+            "Je geeft het standpunt weer ({ar|يَرى …}).",
+            "Je noemt het tegenargument.",
+            "Je geeft de conclusie ({ar|يَخْلُصُ … إِلى أَنَّ}).",
+            "Je schrijft in de derde persoon en in je eigen woorden.",
+            "De samenvatting is duidelijk korter dan de tekst."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "يَتَناوَلُ النَّصُّ",
+            "يَرى الكاتِبُ أَنَّ",
+            "في المُقابِلِ",
+            "يَخْلُصُ النَّصُّ إِلى أَنَّ"
+          ],
+          "minimum": 40
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "samenvatten",
+        "paren": [
+          {
+            "ar": "مُلَخَّصٌ",
+            "nl": "samenvatting"
+          },
+          {
+            "ar": "فِكْرَةٌ ثانَوِيَّةٌ",
+            "nl": "bijgedachte"
+          },
+          {
+            "ar": "بِتَصَرُّفٍ",
+            "nl": "vrij weergegeven"
+          },
+          {
+            "ar": "العُزْلَةُ",
+            "nl": "isolement"
+          },
+          {
+            "ar": "شائِعٌ",
+            "nl": "gebruikelijk"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Hoe lang is een samenvatting ongeveer?",
+        "opties": [
+          "een derde van het origineel",
+          "even lang",
+          "twee keer zo lang"
+        ],
+        "juist": 0,
+        "uitleg": "Kort."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "In welke persoon schrijf je een samenvatting?",
+        "opties": [
+          "de derde persoon (يَرى الكاتِبُ)",
+          "de eerste persoon (أَرى)",
+          "de tweede persoon (تَرى)"
+        ],
+        "juist": 0,
+        "uitleg": "Over de tekst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Na {ar|يَخْلُصُ إِلى} volgt ...",
+        "opties": [
+          "أَنَّ",
+          "إِنَّ",
+          "لِأَنَّ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِلى أَنَّ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Lees de tekst. Wat besparen bedrijven door thuiswerken?",
+        "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+        "opties": [
+          "kantoorkosten",
+          "lonen",
+          "reiskosten van klanten"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مَصاريفَ المَكاتِبِ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Dezelfde tekst. Hoeveel dagen thuis stellen de deskundigen voor?",
+        "ar": "أَصْبَحَ العَمَلُ عَنْ بُعْدٍ شائِعًا بَعْدَ سَنَةِ ٢٠٢٠. وَيَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ، لِأَنَّهُمْ لا يُضَيِّعونَ ساعاتٍ في الطَّريقِ، كَما يَمْنَحُهُمْ حُرِّيَّةً أَكْبَرَ في تَنْظيمِ يَوْمِهِمْ. وَفي المُقابِلِ، يَشْكو آخَرونَ مِنَ العُزْلَةِ وَصُعوبَةِ الفَصْلِ بَيْنَ العَمَلِ وَالحَياةِ الخاصَّةِ. أَمّا الشَّرِكاتُ فَتُوَفِّرُ مَصاريفَ المَكاتِبِ، لٰكِنَّها تَخْشى ضَعْفَ التَّواصُلِ بَيْنَ الزُّمَلاءِ. وَيَخْلُصُ الخُبَراءُ إِلى أَنَّ الحَلَّ الأَمْثَلَ هُوَ العَمَلُ المُخْتَلَطُ: يَوْمانِ أَوْ ثَلاثَةٌ في البَيْتِ، وَالباقي في المَكْتَبِ.",
+        "opties": [
+          "twee of drie",
+          "vijf",
+          "één"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يَوْمانِ أَوْ ثَلاثَةٌ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "samenvatten",
+        "tekst": "يَتَناوَلُ النَّصُّ مَوْضوعَ الهِجْرَةِ",
+        "vraag": "Waarover gaat de tekst?",
+        "opties": [
+          "over migratie",
+          "over werk",
+          "over het klimaat"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|تَناوَلَ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "samenvatten",
+        "tekst": "يَخْلُصُ الكاتِبُ إِلى أَنَّ التَّعْليمَ هُوَ الحَلُّ",
+        "vraag": "Wat is de conclusie van de schrijver?",
+        "opties": [
+          "Onderwijs is de oplossing.",
+          "Er is geen oplossing.",
+          "Werk is de oplossing."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|خَلُصَ إِلى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "samenvatten",
+        "zin": "___ النَّصُّ مُشْكِلَةَ البَطالَةِ.",
+        "nl": "De tekst behandelt het probleem van werkloosheid.",
+        "antwoord": [
+          "يَتَناوَلُ"
+        ],
+        "uitleg": "{ar|تَناوَلَ}",
+        "woordbank": [
+          "يَتَناوَلُ",
+          "يَخْلُصُ",
+          "يُوَفِّرُ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "samenvatten",
+        "zin": "يُوَفِّرُ العَمَلُ عَنْ بُعْدٍ ___.",
+        "nl": "Thuiswerken bespaart tijd.",
+        "antwoord": [
+          "الوَقْتَ"
+        ],
+        "uitleg": "{ar|وَفَّرَ}",
+        "woordbank": [
+          "الوَقْتَ",
+          "العُزْلَةَ",
+          "المُلَخَّصَ"
+        ]
+      },
+      {
+        "type": "vervoegen",
+        "tag": "samenvatten",
+        "instructie": "Vul de formule aan.",
+        "rijen": [
+          {
+            "label": "___ الكاتِبُ أَنَّ … (vindt)",
+            "antwoord": "يَرى",
+            "tr": "yarā"
+          },
+          {
+            "label": "___ النَّصُّ إِلى أَنَّ … (concludeert)",
+            "antwoord": "يَخْلُصُ",
+            "tr": "yaḫluṣu"
+          }
+        ],
+        "uitleg": "Samenvattingsformules."
+      },
+      {
+        "type": "ordenen",
+        "tag": "samenvatten",
+        "nl": "De schrijver vindt dat thuiswerken tijd bespaart.",
+        "woorden": [
+          "يَرى",
+          "الكاتِبُ",
+          "أَنَّ",
+          "العَمَلَ",
+          "عَنْ",
+          "بُعْدٍ",
+          "يُوَفِّرُ",
+          "الوَقْتَ."
+        ],
+        "uitleg": "Standpunt."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "samenvatten",
+        "bron": "het citaat",
+        "antwoorden": [
+          "الاِقْتِباسُ",
+          "الاقتباس"
+        ],
+        "uitleg": "{ar|الاِقْتِباسُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "samenvatten",
+        "bron": "في المُقابِلِ يَشْكو آخَرونَ مِنَ العُزْلَةِ.",
+        "antwoorden": [
+          "anderen klagen daarentegen over isolement",
+          "daartegenover klagen anderen over eenzaamheid"
+        ],
+        "uitleg": "Tegenargument."
+      }
+    ]
+  }
+}

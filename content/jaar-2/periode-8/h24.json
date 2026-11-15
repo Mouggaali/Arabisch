@@ -1,0 +1,469 @@
+{
+  "id": "j2-p8-h24",
+  "code": "H24",
+  "type": "herhaling",
+  "titel": "Herhaling jaar 2",
+  "thema": "De hoofdlijnen van het tweede jaar",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het werkwoordsysteem (wijzen, vormen, zwakke werkwoorden) toepassen.",
+    "het naamvalsysteem en de zinsbouw van jaar 2 toepassen.",
+    "je voorbereiden op PT8 en NE4."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal je flashcards en de woorden die de app als moeilijk markeert.",
+  "grammatica": [
+    {
+      "titel": "Jaar 2 in één tabel",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Onderwerp",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "wortel en patroon",
+              "3 wortelletters + vast patroon",
+              "كاتِبٌ، مَكْتوبٌ، مَكْتَبٌ"
+            ],
+            [
+              "wijzen",
+              "marfūʿ / manṣūb (أَنْ، لَنْ) / majzūm (لَمْ، لا)",
+              "يَكْتُبُ · أَنْ يَكْتُبَ · لَمْ يَكْتُبْ"
+            ],
+            [
+              "vormen II–X",
+              "vaste patronen voor betekenis",
+              "عَلَّمَ، تَعَلَّمَ، اِسْتَعْلَمَ"
+            ],
+            [
+              "naamvallen",
+              "-u / -a / -i; diptoten -u / -a",
+              "في مَدارِسَ"
+            ],
+            [
+              "kāna / inna",
+              "gezegde -a / onderwerp -a",
+              "كانَ الجَوُّ جَميلًا · إِنَّ الجَوَّ جَميلٌ"
+            ],
+            [
+              "zwakke werkwoorden",
+              "lange klinker wordt kort voor sukūn",
+              "قالَ / قُلْتُ / قُلْ"
+            ],
+            [
+              "deelwoorden en bijzinnen",
+              "مُـ + stam; الَّذي + ʿāʾid",
+              "الكِتابُ الَّذي قَرَأْتُهُ"
+            ],
+            [
+              "voorwaarde",
+              "إِذا + māḍī",
+              "إِذا جِئْتَ فَاتَّصِلْ"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Je hebt in jaar 2 het hele **werkwoordsysteem** en het **naamvalsysteem** van het Arabisch leren kennen. Alles wat in jaar 3 komt (lijdende vorm, voorwaarde met إِنْ en لَوْ, bijzinnen van tijd en oorzaak), bouwt hierop voort."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Werkwoorden",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "afgeleide-vormen",
+          "vraag": "Welke vorm is {ar|اِسْتَقْبَلَ}?",
+          "opties": [
+            "X",
+            "VIII",
+            "VII"
+          ],
+          "juist": 0,
+          "uitleg": "اِسْتَـ."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "mansub",
+          "vraag": "'Ik wil dat je komt' is ...",
+          "opties": [
+            "أُريدُ أَنْ تَأْتِيَ",
+            "أُريدُ أَنَّكَ تَأْتي",
+            "أُريدُ تَأْتي"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|أَنْ} + manṣūb."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "zwakke-ww",
+          "vraag": "'Wij sliepen' is ...",
+          "opties": [
+            "نِمْنا",
+            "نامْنا",
+            "نُمْنا"
+          ],
+          "juist": 0,
+          "uitleg": "Korte stam met i."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vervoeging-overzicht",
+          "instructie": "Vervoeg in de juiste vorm.",
+          "rijen": [
+            {
+              "label": "لَمْ + يَشْرَبونَ",
+              "antwoord": "يَشْرَبوا",
+              "tr": "yašrabū"
+            },
+            {
+              "label": "أَنْ + تَكْتُبينَ",
+              "antwoord": "تَكْتُبي",
+              "tr": "taktubī"
+            },
+            {
+              "label": "قالَ (ik, māḍī)",
+              "antwoord": "قُلْتُ",
+              "tr": "qultu"
+            }
+          ],
+          "uitleg": "Majzūm · manṣūb · hol."
+        }
+      ]
+    },
+    {
+      "titel": "Zinnen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "inna-zusters",
+          "vraag": "Welke zin is juist?",
+          "opties": [
+            "إِنَّ الحَياةَ جَميلَةٌ.",
+            "إِنَّ الحَياةُ جَميلَةً.",
+            "كانَ الحَياةَ جَميلَةٌ."
+          ],
+          "juist": 0,
+          "uitleg": "Inna: -a / -u."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "betrekkelijke-bijzin",
+          "vraag": "'Het boek dat ik las' is ...",
+          "opties": [
+            "الكِتابُ الَّذي قَرَأْتُهُ",
+            "كِتابٌ الَّذي قَرَأْتُهُ",
+            "الكِتابُ قَرَأْتُهُ"
+          ],
+          "juist": 0,
+          "uitleg": "Bepaald + الَّذي + ʿāʾid."
+        },
+        {
+          "type": "invullen",
+          "tag": "idha",
+          "zin": "إِذا ___ إِلى المَغْرِبِ، زُرْ فاسَ.",
+          "nl": "Als je naar Marokko gaat, bezoek dan Fez.",
+          "antwoord": [
+            "سافَرْتَ"
+          ],
+          "uitleg": "{ar|إِذا} + māḍī.",
+          "woordbank": [
+            "سافَرْتَ",
+            "تُسافِرُ",
+            "سَتُسافِرُ"
+          ],
+          "eind": true
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "رِوايَةٌ",
+              "nl": "roman",
+              "woord": "j2-p5-l49-w04"
+            },
+            {
+              "ar": "مُباراةٌ",
+              "nl": "wedstrijd",
+              "woord": "j2-p5-l54-w08"
+            },
+            {
+              "ar": "صَيّادٌ",
+              "nl": "visser",
+              "woord": "j2-p6-l61-w08"
+            },
+            {
+              "ar": "تاجِرٌ",
+              "nl": "handelaar",
+              "woord": "j2-p6-l69-w06"
+            },
+            {
+              "ar": "بُرْجٌ",
+              "nl": "toren",
+              "woord": "j2-p7-l73-w10"
+            },
+            {
+              "ar": "مَعْرِضٌ",
+              "nl": "beurs",
+              "woord": "j2-p8-l93-w01"
+            }
+          ],
+          "uitleg": "Woorden uit jaar 2."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "ontkenning-totaal",
+          "bron": "Ik heb het niet begrepen. (formeel)",
+          "antwoorden": [
+            "لَمْ أَفْهَمْ"
+          ],
+          "uitleg": "{ar|لَمْ} + majzūm."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "hal",
+          "bron": "رَجَعَ الأَطْفالُ مِنَ المَدْرَسَةِ سُعَداءَ.",
+          "antwoorden": [
+            "de kinderen kwamen blij terug van school",
+            "de kinderen kwamen blij thuis van school"
+          ],
+          "uitleg": "ḥāl."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "overtreffende-trap",
+          "bron": "هٰذا أَجْمَلُ يَوْمٍ في حَياتي.",
+          "antwoorden": [
+            "dit is de mooiste dag van mijn leven"
+          ],
+          "uitleg": "Overtreffende trap."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "wortel-patroon",
+        "vraag": "Wat is de wortel van {ar|مُسْتَخْدِمٌ}?",
+        "opties": [
+          "خ د م",
+          "س ت خ",
+          "م س ت"
+        ],
+        "juist": 0,
+        "uitleg": "Deelwoord vorm X van خ-د-م."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "afgeleide-vormen",
+        "vraag": "Welke vorm drukt *elkaar* uit?",
+        "opties": [
+          "VI",
+          "IV",
+          "X"
+        ],
+        "juist": 0,
+        "uitleg": "Wederkerig."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "majzum-lam",
+        "vraag": "'Ze (m mv) zijn niet gekomen' (formeel) is ...",
+        "opties": [
+          "لَمْ يَحْضُروا",
+          "لَمْ يَحْضُرونَ",
+          "لَنْ يَحْضُروا"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "diptoten",
+        "vraag": "'In veel scholen' is ...",
+        "opties": [
+          "في مَدارِسَ كَثيرَةٍ",
+          "في مَدارِسٍ كَثيرَةٍ",
+          "في مَدارِسِ كَثيرَةٍ"
+        ],
+        "juist": 0,
+        "uitleg": "Diptoot: genitief -a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "kana-zusters",
+        "vraag": "'Hij werd arts' is ...",
+        "opties": [
+          "صارَ طَبيبًا",
+          "صارَ طَبيبٌ",
+          "إِنَّهُ طَبيبًا"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صارَ} + accusatief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tamyiz",
+        "vraag": "'Hoeveel boeken?' is ...",
+        "opties": [
+          "كَمْ كِتابًا؟",
+          "كَمْ كُتُبٍ؟",
+          "كَمْ كِتابٌ؟"
+        ],
+        "juist": 0,
+        "uitleg": "Tamyīz."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tijdsvoegwoorden",
+        "tekst": "قَبْلَ أَنْ أَنامَ أَقْرَأُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Voordat ik ga slapen, lees ik.",
+          "Nadat ik geslapen heb, lees ik.",
+          "Ik lees niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَبْلَ أَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "an-anna",
+        "tekst": "أَعْرِفُ أَنَّكَ مَشْغولٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik weet dat je het druk hebt.",
+          "Ik wil dat je bezig bent.",
+          "Je bent niet druk."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَنَّ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "uitzondering",
+        "zin": "لا أَعْرِفُ ___ القَليلَ.",
+        "nl": "Ik ken maar weinig.",
+        "antwoord": [
+          "إِلّا"
+        ],
+        "uitleg": "{ar|لا … إِلّا}",
+        "woordbank": [
+          "إِلّا",
+          "غَيْرُ",
+          "لا"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "passief-deelwoord",
+        "zin": "الباب ___.",
+        "nl": "De deur is gesloten.",
+        "antwoord": [
+          "مُغْلَقٌ"
+        ],
+        "uitleg": "Passief.",
+        "woordbank": [
+          "مُغْلَقٌ",
+          "مُغْلِقٌ",
+          "إِغْلاقٌ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "modaliteit",
+        "zin": "يَجِبُ أَنْ ___ الآنَ.",
+        "nl": "We moeten nu vertrekken.",
+        "antwoord": [
+          "نُغادِرَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "نُغادِرَ",
+          "نُغادِرُ",
+          "غادَرْنا"
+        ],
+        "eind": true
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "تَأْشيرَةٌ",
+            "nl": "visum"
+          },
+          {
+            "ar": "شائِعَةٌ",
+            "nl": "gerucht"
+          },
+          {
+            "ar": "ضَريبَةٌ",
+            "nl": "belasting"
+          },
+          {
+            "ar": "حُجَّةٌ",
+            "nl": "argument"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "gebroken-mv",
+        "nl": "In Marokko zijn hoge bergen.",
+        "woorden": [
+          "في",
+          "المَغْرِبِ",
+          "جِبالٌ",
+          "عالِيَةٌ."
+        ],
+        "uitleg": "Meervoud dingen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vijf-namen",
+        "bron": "je broer (m, onderwerp)",
+        "antwoorden": [
+          "أَخوكَ"
+        ],
+        "uitleg": "Vijf namen."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "idafa-keten",
+        "bron": "مُديرُ المَدْرَسَةِ الجَديدُ لَطيفٌ.",
+        "antwoorden": [
+          "de nieuwe directeur van de school is aardig",
+          "de nieuwe schooldirecteur is aardig"
+        ],
+        "uitleg": "Bijv. nw bij iḍāfa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,713 @@
+{
+  "id": "j2-p6-l70",
+  "code": "L70",
+  "type": "les",
+  "titel": "Gevoelens en relaties",
+  "thema": "Blij, verdrietig, boos; ruzie en verzoening",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "defectieve werkwoorden (laatste wortelletter و of ي) herkennen.",
+    "de drie typen vervoegen: مَشى / يَمْشي، دَعا / يَدْعو، نَسِيَ / يَنْسى.",
+    "de verkorte vorm in majzūm en gebiedende wijs gebruiken (لَمْ يَنْسَ، اِمْشِ).",
+    "over gevoelens en relaties praten."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p6-l70-w01",
+      "ar": "مَشى",
+      "tr": "mašā",
+      "nl": [
+        "lopen",
+        "wandelen"
+      ],
+      "soort": "werkwoord (defectief, ي)",
+      "notitie": "{ar|مَشَيْتُ} · {ar|يَمْشي} · {ar|اِمْشِ!}"
+    },
+    {
+      "id": "j2-p6-l70-w02",
+      "ar": "دَعا",
+      "tr": "daʿā",
+      "nl": [
+        "uitnodigen",
+        "bidden (voor)"
+      ],
+      "soort": "werkwoord (defectief, و)",
+      "notitie": "{ar|دَعَوْتُ} · {ar|يَدْعو} · {ar|اُدْعُ!}"
+    },
+    {
+      "id": "j2-p6-l70-w03",
+      "ar": "نَسِيَ",
+      "tr": "nasiya",
+      "nl": [
+        "vergeten"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|نَسيتُ} · {ar|يَنْسى} · {ar|لا تَنْسَ!}"
+    },
+    {
+      "id": "j2-p6-l70-w04",
+      "ar": "بَكى",
+      "tr": "bakā",
+      "nl": [
+        "huilen"
+      ],
+      "soort": "werkwoord (defectief, ي)",
+      "notitie": "{ar|بَكَيْتُ} · {ar|يَبْكي}"
+    },
+    {
+      "id": "j2-p6-l70-w05",
+      "ar": "رَضِيَ عَنْ",
+      "tr": "raḍiya ʿan",
+      "nl": [
+        "tevreden zijn over"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|يَرْضى}"
+    },
+    {
+      "id": "j2-p6-l70-w06",
+      "ar": "ضَحِكَ",
+      "tr": "ḍaḥika",
+      "nl": [
+        "lachen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَضْحَكُ}."
+    },
+    {
+      "id": "j2-p6-l70-w07",
+      "ar": "غَضِبَ مِنْ",
+      "tr": "ġaḍiba min",
+      "nl": [
+        "boos worden op"
+      ],
+      "soort": "werkwoord",
+      "notitie": "{ar|غاضِبٌ} = boos."
+    },
+    {
+      "id": "j2-p6-l70-w08",
+      "ar": "حُزْنٌ",
+      "tr": "ḥuzn",
+      "nl": [
+        "verdriet"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l70-w09",
+      "ar": "فَرَحٌ",
+      "tr": "faraḥ",
+      "nl": [
+        "vreugde"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l70-w10",
+      "ar": "حُبٌّ",
+      "tr": "ḥubb",
+      "nl": [
+        "liefde"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l70-w11",
+      "ar": "خِلافٌ",
+      "tr": "ḫilāf",
+      "nl": [
+        "onenigheid",
+        "ruzie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p6-l70-w12",
+      "ar": "اِعْتَذَرَ",
+      "tr": "iʿtaḏara",
+      "nl": [
+        "zich verontschuldigen"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "{ar|أَعْتَذِرُ} = het spijt me (formeel)."
+    },
+    {
+      "id": "j2-p6-l70-w13",
+      "ar": "سامَحَ",
+      "tr": "sāmaḥa",
+      "nl": [
+        "vergeven"
+      ],
+      "soort": "werkwoord (III)",
+      "notitie": "{ar|سامِحْني} = vergeef me."
+    },
+    {
+      "id": "j2-p6-l70-w14",
+      "ar": "اِشْتاقَ إِلى",
+      "tr": "ištāqa ilā",
+      "nl": [
+        "verlangen naar",
+        "missen"
+      ],
+      "soort": "werkwoord (VIII, hol)"
+    },
+    {
+      "id": "j2-p6-l70-w15",
+      "ar": "شُعورٌ",
+      "tr": "šuʿūr",
+      "nl": [
+        "gevoel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|مَشاعِرُ}."
+    },
+    {
+      "id": "j2-p6-l70-w17",
+      "ar": "غَيْرانُ",
+      "tr": "ġayrān",
+      "nl": [
+        "jaloers"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Diptoot; vrouwelijk {ar|غَيْرى}.",
+      "review": {
+        "status": "onzeker",
+        "note": "Gangbaarheid غَيْران vs. غَيور controleren."
+      }
+    },
+    {
+      "id": "j2-p6-l70-w18",
+      "ar": "لَقِيَ",
+      "tr": "laqiya",
+      "nl": [
+        "ontmoeten",
+        "tegenkomen"
+      ],
+      "soort": "werkwoord (defectief)",
+      "notitie": "{ar|يَلْقى}"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Drie typen defectieve werkwoorden",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Bij een **defectief** werkwoord is de **laatste** wortelletter een و of ي. Die letter verschijnt als lange klinker (ā, ī, ū) of verdwijnt. Er zijn drie hoofdtypen."
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "مَشى / يَمْشي",
+            "دَعا / يَدْعو",
+            "نَسِيَ / يَنْسى"
+          ],
+          "arKolommen": [
+            1,
+            2,
+            3
+          ],
+          "rijen": [
+            [
+              "hij (māḍī)",
+              "مَشى",
+              "دَعا",
+              "نَسِيَ"
+            ],
+            [
+              "zij (ev)",
+              "مَشَتْ",
+              "دَعَتْ",
+              "نَسِيَتْ"
+            ],
+            [
+              "ik",
+              "مَشَيْتُ",
+              "دَعَوْتُ",
+              "نَسيتُ"
+            ],
+            [
+              "zij (m mv)",
+              "مَشَوْا",
+              "دَعَوْا",
+              "نَسُوا"
+            ],
+            [
+              "hij (muḍāriʿ)",
+              "يَمْشي",
+              "يَدْعو",
+              "يَنْسى"
+            ],
+            [
+              "zij (m mv)",
+              "يَمْشونَ",
+              "يَدْعونَ",
+              "يَنْسَوْنَ"
+            ],
+            [
+              "na لَمْ (hij)",
+              "لَمْ يَمْشِ",
+              "لَمْ يَدْعُ",
+              "لَمْ يَنْسَ"
+            ],
+            [
+              "gebiedende wijs",
+              "اِمْشِ",
+              "اُدْعُ",
+              "اِنْسَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom verdwijnt de laatste letter? De zwakke و/ي versmelt met de klinker ervoor tot een lange klinker ({ar|يَمْشي}). In de majzūm wordt die lange klinker **kort** in plaats van dat er een sukūn komt: {ar|يَمْشي} → {ar|لَمْ يَمْشِ}. Dat is precies de 'verkorting' die je ook bij holle werkwoorden zag."
+        },
+        {
+          "type": "letop",
+          "md": "Herken het type aan de muḍāriʿ: **-ī** ({ar|يَمْشي}), **-ū** ({ar|يَدْعو}) of **-ā** ({ar|يَنْسى}). De māḍī op **-ā** schrijf je met ى als de wortel op ي eindigt ({ar|مَشى}) en met ا als hij op و eindigt ({ar|دَعا})."
+        }
+      ]
+    },
+    {
+      "titel": "Gevoelens",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "بَكَتِ الطِّفْلَةُ ثُمَّ ضَحِكَتْ.",
+              "tr": "bakati ṭ-ṭiflatu ṯumma ḍaḥikat.",
+              "nl": "Het meisje huilde en lachte toen."
+            },
+            {
+              "ar": "دَعَوْنا أَصْدِقاءَنا إِلى العَشاءِ.",
+              "tr": "daʿawnā aṣdiqāʾanā ila l-ʿašāʾ.",
+              "nl": "We hebben onze vrienden uitgenodigd voor het avondeten."
+            },
+            {
+              "ar": "لا تَنْسَ أَنْ تَتَّصِلَ بِأُمِّكَ!",
+              "tr": "lā tansa an tattaṣila bi-ummik!",
+              "nl": "Vergeet niet je moeder te bellen!"
+            },
+            {
+              "ar": "كانَ بَيْنَهُما خِلافٌ، لٰكِنَّهُما تَصالَحا.",
+              "tr": "kāna baynahumā ḫilāfun, lākinnahumā taṣālaḥā.",
+              "nl": "Ze hadden ruzie, maar ze hebben het bijgelegd."
+            },
+            {
+              "ar": "أَشْتاقُ إِلى عائِلَتي في المَغْرِبِ.",
+              "tr": "aštāqu ilā ʿāʾilatī fi l-Maġrib.",
+              "nl": "Ik mis mijn familie in Marokko."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حُزْنٌ",
+              "nl": "verdriet",
+              "woord": "j2-p6-l70-w08"
+            },
+            {
+              "ar": "فَرَحٌ",
+              "nl": "vreugde",
+              "woord": "j2-p6-l70-w09"
+            },
+            {
+              "ar": "حُبٌّ",
+              "nl": "liefde",
+              "woord": "j2-p6-l70-w10"
+            },
+            {
+              "ar": "خِلافٌ",
+              "nl": "ruzie",
+              "woord": "j2-p6-l70-w11"
+            },
+            {
+              "ar": "شُعورٌ",
+              "nl": "gevoel",
+              "woord": "j2-p6-l70-w15"
+            },
+            {
+              "ar": "وَحيدٌ",
+              "nl": "eenzaam"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "defectieve-ww",
+          "tekst": "نَسيتُ مَفاتيحي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik ben mijn sleutels vergeten.",
+            "Ik heb mijn sleutels gevonden.",
+            "Ik verloor mijn sleutels niet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|نَسيتُ} = ik vergat."
+        }
+      ]
+    },
+    {
+      "titel": "Vervoegen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "defectieve-ww",
+          "instructie": "Vervoeg مَشى / يَمْشي.",
+          "rijen": [
+            {
+              "label": "ik, māḍī",
+              "antwoord": "مَشَيْتُ",
+              "tr": "mašaytu"
+            },
+            {
+              "label": "zij (ev), māḍī",
+              "antwoord": "مَشَتْ",
+              "tr": "mašat"
+            },
+            {
+              "label": "wij, muḍāriʿ",
+              "antwoord": "نَمْشي",
+              "tr": "namšī"
+            },
+            {
+              "label": "hij, na لَمْ",
+              "antwoord": "يَمْشِ",
+              "tr": "yamši"
+            }
+          ],
+          "uitleg": "ي-type."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "defectieve-ww",
+          "instructie": "Vervoeg دَعا / يَدْعو.",
+          "rijen": [
+            {
+              "label": "ik, māḍī",
+              "antwoord": "دَعَوْتُ",
+              "tr": "daʿawtu"
+            },
+            {
+              "label": "hij, muḍāriʿ",
+              "antwoord": "يَدْعو",
+              "tr": "yadʿū"
+            },
+            {
+              "label": "zij (m mv), māḍī",
+              "antwoord": "دَعَوْا",
+              "tr": "daʿaw"
+            }
+          ],
+          "uitleg": "و-type."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "defectieve-ww",
+          "vraag": "'Vergeet niet!' (tegen een man) is ...",
+          "opties": [
+            "لا تَنْسَ!",
+            "لا تَنْسى!",
+            "لا نَسِيتَ!"
+          ],
+          "juist": 0,
+          "uitleg": "Majzūm: lange ā wordt kort."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "defectieve-ww",
+          "vraag": "Aan welke vorm zie je dat {ar|يَدْعو} een و-wortel heeft?",
+          "opties": [
+            "de -ū aan het eind",
+            "de يَـ vooraan",
+            "de ع in het midden"
+          ],
+          "juist": 0,
+          "uitleg": "-ū verraadt و."
+        },
+        {
+          "type": "invullen",
+          "tag": "defectieve-ww",
+          "zin": "لِماذا ___ يا سارَةُ؟",
+          "nl": "Waarom huil je, Sara?",
+          "woordbank": [
+            "تَبْكينَ",
+            "تَبْكي",
+            "بَكَيْتِ"
+          ],
+          "antwoord": [
+            "تَبْكينَ"
+          ],
+          "uitleg": "jij (v): ـينَ."
+        }
+      ]
+    },
+    {
+      "titel": "Relaties",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "defectieve-ww",
+          "nl": "We hebben onze vrienden uitgenodigd voor het avondeten.",
+          "woorden": [
+            "دَعَوْنا",
+            "أَصْدِقاءَنا",
+            "إِلى",
+            "العَشاءِ."
+          ],
+          "uitleg": "{ar|دَعَوْنا}"
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "أَشْتاقُ إِلى عائِلَتي",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik mis mijn familie.",
+            "Ik bezoek mijn familie.",
+            "Ik bel mijn familie."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِشْتاقَ إِلى} = missen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "defectieve-ww",
+          "bron": "Ik ben vergeten.",
+          "antwoorden": [
+            "نَسيتُ"
+          ],
+          "uitleg": "{ar|نَسيتُ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "woordenschat",
+          "bron": "سامِحْني، أَنا آسِفٌ.",
+          "antwoorden": [
+            "vergeef me het spijt me",
+            "vergeef me sorry",
+            "vergeef mij het spijt me"
+          ],
+          "uitleg": "{ar|سامِحْني} = vergeef me."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "ضَحِكَ",
+            "nl": "lachen"
+          },
+          {
+            "ar": "بَكى",
+            "nl": "huilen"
+          },
+          {
+            "ar": "غَضِبَ",
+            "nl": "boos worden"
+          },
+          {
+            "ar": "اِعْتَذَرَ",
+            "nl": "zich verontschuldigen"
+          },
+          {
+            "ar": "لَقِيَ",
+            "nl": "tegenkomen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "defectieve-ww",
+        "vraag": "'Wij liepen' is ...",
+        "opties": [
+          "مَشَيْنا",
+          "مَشَنا",
+          "مَشوْنا"
+        ],
+        "juist": 0,
+        "uitleg": "ي verschijnt voor de medeklinker-uitgang."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "defectieve-ww",
+        "vraag": "'Hij nodigt uit' is ...",
+        "opties": [
+          "يَدْعو",
+          "يَدْعي",
+          "يَدْعا"
+        ],
+        "juist": 0,
+        "uitleg": "و-type → -ū."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "defectieve-ww",
+        "vraag": "'Hij is niet vergeten' (formeel) is ...",
+        "opties": [
+          "لَمْ يَنْسَ",
+          "لَمْ يَنْسى",
+          "لَمْ نَسِيَ"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm: ā → a."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "defectieve-ww",
+        "vraag": "'Loop!' (tegen een man) is ...",
+        "opties": [
+          "اِمْشِ",
+          "اِمْشي",
+          "مْشي"
+        ],
+        "juist": 0,
+        "uitleg": "Gebiedende wijs: korte i. ({ar|اِمْشي} is tegen een vrouw!)"
+      },
+      {
+        "type": "luisteren",
+        "tag": "defectieve-ww",
+        "tekst": "بَكَتِ الطِّفْلَةُ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Het meisje huilde.",
+          "Het meisje lachte.",
+          "Het meisje sliep."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|بَكَتْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "defectieve-ww",
+        "tekst": "دَعَوْتُهُمْ إِلى حَفْلَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik heb hen uitgenodigd voor een feest.",
+          "Zij nodigden mij uit.",
+          "Ik ging naar hun feest."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|دَعَوْتُ} + ـهُمْ."
+      },
+      {
+        "type": "invullen",
+        "tag": "defectieve-ww",
+        "zin": "___ إِلى العَمَلِ كُلَّ يَوْمٍ.",
+        "nl": "Ik loop elke dag naar mijn werk.",
+        "woordbank": [
+          "أَمْشي",
+          "مَشَيْتُ",
+          "أَمْشِ"
+        ],
+        "antwoord": [
+          "أَمْشي"
+        ],
+        "uitleg": "Muḍāriʿ: lange ī."
+      },
+      {
+        "type": "invullen",
+        "tag": "defectieve-ww",
+        "zin": "هَلْ ___ مَوْعِدَنا؟",
+        "nl": "Ben je onze afspraak vergeten? (m)",
+        "woordbank": [
+          "نَسيتَ",
+          "تَنْسى",
+          "تَنْسَ"
+        ],
+        "antwoord": [
+          "نَسيتَ"
+        ],
+        "uitleg": "Māḍī, jij (m).",
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "defectieve-ww",
+        "instructie": "Vervoeg نَسِيَ / يَنْسى.",
+        "rijen": [
+          {
+            "label": "wij, māḍī",
+            "antwoord": "نَسينا",
+            "tr": "nasīnā"
+          },
+          {
+            "label": "hij, muḍāriʿ",
+            "antwoord": "يَنْسى",
+            "tr": "yansā"
+          }
+        ],
+        "uitleg": "i-type."
+      },
+      {
+        "type": "ordenen",
+        "tag": "defectieve-ww",
+        "nl": "Vergeet niet je moeder te bellen!",
+        "woorden": [
+          "لا",
+          "تَنْسَ",
+          "أَنْ",
+          "تَتَّصِلَ",
+          "بِأُمِّكَ!"
+        ],
+        "uitleg": "Verbod: korte a."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de liefde",
+        "antwoorden": [
+          "الحُبُّ"
+        ],
+        "uitleg": "{ar|الحُبُّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "defectieve-ww",
+        "bron": "مَشَيْنا في الحَديقَةِ.",
+        "antwoorden": [
+          "we wandelden in het park",
+          "we liepen in het park",
+          "we hebben in het park gewandeld",
+          "we wandelden in de tuin"
+        ],
+        "uitleg": "{ar|مَشَيْنا}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "woordenschat",
+        "bron": "أَنا راضٍ عَنْ عَمَلي.",
+        "antwoorden": [
+          "ik ben tevreden over mijn werk",
+          "ik ben tevreden met mijn werk"
+        ],
+        "uitleg": "{ar|راضٍ} (defectief deelwoord)."
+      }
+    ]
+  }
+}

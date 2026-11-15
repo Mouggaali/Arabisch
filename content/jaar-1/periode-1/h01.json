@@ -1,0 +1,159 @@
+{
+  "id": "j1-p1-h01",
+  "code": "H01",
+  "type": "herhaling",
+  "titel": "Herhaling blok 1A",
+  "thema": "Begroeten, kennismaken, afkomst en de nominale zin in samenhang",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "een kort kennismakingsgesprek voeren: begroeten, naam, afkomst, beroep en afscheid.",
+    "voornaamwoorden, nisba-vormen en gezegdes correct mannelijk of vrouwelijk maken.",
+    "nominale zinnen maken en begrijpen zonder werkwoord 'zijn'."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Een herhalingsles heeft geen nieuwe woorden. Herhaal eerst de woorden van les 1 tot en met 4 in je flashcards; de oefeningen hieronder gebruiken ze allemaal door elkaar.",
+
+  "grammatica": [
+    {
+      "titel": "Overzicht: wat je nu kunt",
+      "blokken": [
+        { "type": "tabel", "kop": ["Onderwerp", "Voorbeeld", "Les"], "arKolommen": [1], "rijen": [
+          ["Begroeten en antwoorden", "صَباحُ الخَيْرِ — صَباحُ النّورِ|ṣabāḥu l-ḫayr — ṣabāḥu n-nūr", "L01"],
+          ["Aanspreken: man / vrouw / groep", "حالُكَ / حالُكِ / حالُكُمْ|ḥāluka / ḥāluki / ḥālukum", "L01"],
+          ["Voornaamwoorden enkelvoud", "أَنا، أَنْتَ، أَنْتِ، هُوَ، هِيَ|ana, anta, anti, huwa, hiya", "L02"],
+          ["Naam vragen", "ما اسْمُكَ؟ / ما اسْمُكِ؟|mā smuka? / mā smuki?", "L02"],
+          ["Afkomst", "مِنْ أَيْنَ أَنْتَ؟ — أَنا مِنَ المَغْرِبِ.|min ayna anta? — ana mina l-Maġrib.", "L03"],
+          ["Nisba (nationaliteit)", "مَغْرِبِيٌّ / مَغْرِبِيَّةٌ|maġribī / maġribiyya", "L03"],
+          ["Nominale zin", "أَنا طَبيبٌ. البَيْتُ كَبيرٌ.|ana ṭabīb. al-baytu kabīr.", "L04"]
+        ] },
+        { "type": "waarom", "md": "Drie dingen komen steeds terug: **1.** het Arabisch heeft geen *zijn* in de tegenwoordige tijd; **2.** bij *jij* en bij het gezegde maak je onderscheid tussen mannelijk en vrouwelijk; **3.** de laatste klinker (ـكَ / ـكِ, أَنْتَ / أَنْتِ) kan de betekenis veranderen. Wie die drie beheerst, heeft de basis van blok 1A." }
+      ]
+    },
+    {
+      "titel": "Een volledig gesprek",
+      "blokken": [
+        { "type": "voorbeelden", "items": [
+          { "ar": "السَّلامُ عَلَيْكُمْ.", "tr": "as-salāmu ʿalaykum.", "nl": "Goedendag. (vrede zij met jullie)" },
+          { "ar": "وَعَلَيْكُمُ السَّلامُ. أَنا يوسُفُ. ما اسْمُكِ؟", "tr": "wa-ʿalaykumu s-salām. ana Yūsuf. mā smuki?", "nl": "Goedendag. Ik ben Youssef. Hoe heet jij?" },
+          { "ar": "اِسْمي سارَةُ. تَشَرَّفْنا.", "tr": "ismī Sāra. tašarrafnā.", "nl": "Ik heet Sara. Aangenaam." },
+          { "ar": "مِنْ أَيْنَ أَنْتِ يا سارَةُ؟", "tr": "min ayna anti yā Sāra?", "nl": "Waar kom je vandaan, Sara?" },
+          { "ar": "أَنا مِنْ هولَنْدا، أَنا هولَنْدِيَّةٌ. وَأَنْتَ؟", "tr": "ana min Hūlandā, ana hūlandiyya. wa-anta?", "nl": "Ik kom uit Nederland, ik ben Nederlandse. En jij?" },
+          { "ar": "أَنا مِنَ المَغْرِبِ. أَنا طالِبٌ.", "tr": "ana mina l-Maġrib. ana ṭālib.", "nl": "Ik kom uit Marokko. Ik ben student." },
+          { "ar": "فُرْصَةٌ سَعيدَةٌ! مَعَ السَّلامَةِ.", "tr": "furṣa saʿīda! maʿa s-salāma.", "nl": "Leuk je te ontmoeten! Tot ziens." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengde woordenschat",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "مَعَ السَّلامَةِ", "nl": "tot ziens", "woord": "j1-p1-l01-w19" },
+          { "ar": "تَشَرَّفْنا", "nl": "aangenaam", "woord": "j1-p1-l02-w12" },
+          { "ar": "مِنْ أَيْنَ؟", "nl": "waarvandaan?", "woord": "j1-p1-l03-w03" },
+          { "ar": "مُتْعَبٌ", "nl": "moe", "woord": "j1-p1-l04-w17" },
+          { "ar": "صَديقَةٌ", "nl": "vriendin", "woord": "j1-p1-l02-w22" },
+          { "ar": "بَلَدٌ", "nl": "land", "woord": "j1-p1-l03-w04" }
+        ], "uitleg": "Woorden uit les 1 tot en met 4." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "مِنْ أَيْنَ أَنْتَ؟", "vraag": "Wat wordt er gevraagd?",
+          "opties": ["Waar kom je vandaan?", "Hoe heet je?", "Hoe gaat het?", "Wie ben jij?"], "juist": 0, "uitleg": "{ar|مِنْ أَيْنَ} = waarvandaan." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "اِسْمي سارَةُ، أَنا طالِبَةٌ", "vraag": "Wat vertelt Sara?",
+          "opties": ["Ze heet Sara en is studente.", "Ze heet Sara en is lerares.", "Ze komt uit Syrië.", "Ze is moe."], "juist": 0,
+          "uitleg": "{ar|طالِبَةٌ} = studente." },
+        { "type": "meerkeuze", "tag": "antwoord-begroeting", "vraag": "Iemand vraagt: {ar|كَيْفَ حالُكِ؟} Wat is een passend antwoord?",
+          "opties": ["بِخَيْرٍ، الحَمْدُ لِلّٰهِ.", "صَباحُ النّورِ.", "أَنا مِنْ هولَنْدا.", "عَفْوًا."], "juist": 0,
+          "uitleg": "Op *hoe gaat het?* antwoord je {ar|بِخَيْرٍ، الحَمْدُ لِلّٰهِ}." }
+      ]
+    },
+    {
+      "titel": "Man, vrouw en de laatste klinker",
+      "items": [
+        { "type": "vervoegen", "tag": "aanspreekvorm", "instructie": "Je praat met Sara (een vrouw). Vul de juiste vorm in.",
+          "rijen": [
+            { "label": "jij", "antwoord": "أَنْتِ", "tr": "anti", "eind": true },
+            { "label": "hoe gaat het met je? (alleen het woord na كَيْفَ)", "antwoord": "حالُكِ", "tr": "ḥāluki", "eind": true },
+            { "label": "hoe heet je? (alleen het woord na ما)", "antwoord": "اسْمُكِ", "tr": "smuki", "eind": true }
+          ],
+          "uitleg": "Tegen een vrouw eindigt alles op -i (kasra)." },
+        { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak het gezegde vrouwelijk (zonder tanwīn).",
+          "rijen": [
+            { "label": "هولَنْدِيّ → zij is Nederlandse", "ar": "هِيَ", "antwoord": "هولَنْدِيَّة", "tr": "hūlandiyya" },
+            { "label": "طالِب → zij is studente", "ar": "هِيَ", "antwoord": "طالِبَة", "tr": "ṭāliba" },
+            { "label": "سَعيد → ik (v) ben blij", "ar": "أَنا", "antwoord": "سَعيدَة", "tr": "saʿīda" }
+          ],
+          "uitleg": "Nisba: ـِيّ → ـِيَّة. Andere woorden: + ة." },
+        { "type": "meerkeuze", "tag": "voornaamwoorden", "vraag": "Welke zin is juist voor 'Hij is Egyptenaar'?",
+          "opties": ["هُوَ مِصْرِيٌّ.", "هِيَ مِصْرِيٌّ.", "هُوَ مِصْرِيَّةٌ.", "هُوَ مِصْرُ."], "juist": 0,
+          "uitleg": "{ar|هُوَ} + mannelijke nisba {ar|مِصْرِيٌّ}." },
+        { "type": "invullen", "tag": "afkomst", "zin": "أَنا ___ الجَزائِرِ.", "nl": "Ik kom uit Algerije.",
+          "woordbank": ["مِنَ", "مِنْ", "في"], "antwoord": ["مِنَ"], "uitleg": "{ar|مِنَ} voor {ar|ال}." }
+      ]
+    },
+    {
+      "titel": "Gesprek in de juiste volgorde",
+      "items": [
+        { "type": "ordenen", "tag": "voorstellen", "nl": "Goedendag. Ik ben Youssef. Hoe heet jij? (tegen een vrouw)",
+          "woorden": ["وَعَلَيْكُمُ", "السَّلامُ.", "أَنا", "يوسُفُ.", "ما", "اسْمُكِ؟"], "uitleg": "Antwoord op de groet, jezelf voorstellen, dan de vraag." },
+        { "type": "ordenen", "tag": "nisba", "nl": "Ik kom uit Nederland, ik ben Nederlandse.",
+          "woorden": ["أَنا", "مِنْ", "هولَنْدا،", "أَنا", "هولَنْدِيَّةٌ."], "uitleg": "Twee nominale zinnen." },
+        { "type": "ordenen", "tag": "nominale-zin", "nl": "Ik kom uit Marokko. Ik ben student.",
+          "woorden": ["أَنا", "مِنَ", "المَغْرِبِ.", "أَنا", "طالِبٌ."], "uitleg": "{ar|مِنَ} voor {ar|ال}; geen werkwoord *ben*." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "begroeting", "bron": "Goedenavond, hoe gaat het met je? (tegen een man)", "antwoorden": ["مَساءُ الخَيْرِ، كَيْفَ حالُكَ؟"], "eind": true,
+          "uitleg": "{ar|مَساءُ الخَيْرِ، كَيْفَ حالُكَ؟}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "nominale-zin", "bron": "Zij is lerares.", "antwoorden": ["هِيَ مُعَلِّمَةٌ"], "uitleg": "{ar|هِيَ مُعَلِّمَةٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "afkomst", "bron": "Hij komt uit Libanon.", "antwoorden": ["هُوَ مِنْ لُبْنانَ", "هُوَ مِنْ لُبْنان"],
+          "uitleg": "{ar|هُوَ مِنْ لُبْنانَ}. Na {ar|مِنْ} krijgt {ar|لُبْنانُ} een fatḥa: het is een diptoot (jaar 2)." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "صَديقي مُهَنْدِسٌ.", "tr": "ṣadīqī muhandis.",
+          "antwoorden": ["mijn vriend is ingenieur", "mijn vriend is een ingenieur"],
+          "uitleg": "{ar|صَديقي} = mijn vriend (ـي = mijn, zoals in {ar|اِسْمي}). Les 11 behandelt deze vormen." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "nisba", "bron": "أَنا عَرَبِيٌّ وَهِيَ هولَنْدِيَّةٌ.", "tr": "ana ʿarabiyyun wa-hiya hūlandiyya.",
+          "antwoorden": ["ik ben arabier en zij is nederlandse", "ik ben een arabier en zij is nederlandse", "ik ben arabisch en zij is nederlands", "ik ben arabier en zij is een nederlandse"],
+          "uitleg": "Twee nominale zinnen met nisba-vormen." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "antwoord-begroeting", "vraag": "Wat antwoord je op {ar|مَساءُ الخَيْرِ}?",
+        "opties": ["مَساءُ النّورِ", "صَباحُ النّورِ", "وَعَلَيْكُمُ السَّلامُ", "تَشَرَّفْنا"], "juist": 0, "uitleg": "{ar|مَساءُ النّورِ}" },
+      { "type": "meerkeuze", "tag": "aanspreekvorm", "vraag": "Je begroet je broer en zus samen. Wat vraag je?",
+        "opties": ["كَيْفَ حالُكُمْ؟", "كَيْفَ حالُكَ؟", "كَيْفَ حالُكِ؟"], "juist": 0, "uitleg": "Een groep: {ar|حالُكُمْ}." },
+      { "type": "meerkeuze", "tag": "nominale-zin", "vraag": "Welke zin betekent 'De auto is mooi'?",
+        "opties": ["السَّيّارَةُ جَميلَةٌ.", "السَّيّارَةُ الجَميلَةُ", "السَّيّارَةُ جَميلٌ."], "juist": 0,
+        "uitleg": "Bepaald onderwerp + onbepaald, vrouwelijk gezegde." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "هِيَ مِنْ تونِسَ", "vraag": "Wat hoor je?",
+        "opties": ["Zij komt uit Tunesië.", "Hij komt uit Tunesië.", "Zij komt uit Turkije.", "Zij is Tunesische."], "juist": 0,
+        "uitleg": "{ar|هِيَ} = zij, {ar|مِنْ تونِسَ} = uit Tunesië." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "ما اسْمُكَ؟", "vraag": "Tegen wie wordt dit gezegd?", "opties": ["een man", "een vrouw", "een groep"], "juist": 0, "uitleg": "*-ka*: tegen een man." },
+      { "type": "invullen", "tag": "congruentie", "zin": "هِيَ ___.", "nl": "Zij is ziek.", "woordbank": ["مَريضَةٌ", "مَريضٌ"], "antwoord": ["مَريضَةٌ"], "uitleg": "+ ة" },
+      { "type": "invullen", "tag": "antwoord-begroeting", "zin": "وَعَلَيْكُمُ ___.", "nl": "(antwoord op de groet)", "antwoord": ["السَّلامُ"], "uitleg": "{ar|وَعَلَيْكُمُ السَّلامُ}" },
+      { "type": "vervoegen", "tag": "nisba", "instructie": "Maak de nationaliteit (zonder tanwīn).",
+        "rijen": [
+          { "label": "Egypte · vrouw", "antwoord": "مِصْرِيَّة", "tr": "miṣriyya" },
+          { "label": "Marokko · man", "antwoord": "مَغْرِبِيّ", "tr": "maġribī" }
+        ], "uitleg": "ـِيّ / ـِيَّة" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "شُكْرًا", "nl": "dank je" },
+        { "ar": "مَنْ", "nl": "wie" },
+        { "ar": "أَيْنَ", "nl": "waar" },
+        { "ar": "كَبيرٌ", "nl": "groot" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "voorstellen", "nl": "Ik heet Sara. Aangenaam.", "woorden": ["اِسْمي", "سارَةُ.", "تَشَرَّفْنا."], "uitleg": "{ar|اِسْمي} + naam." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden", "bron": "jij (tegen een vrouw)", "antwoorden": ["أَنْتِ"], "eind": true, "uitleg": "{ar|أَنْتِ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "afkomst", "bron": "Ik kom uit Marokko.", "antwoorden": ["أَنا مِنَ المَغْرِبِ"], "uitleg": "{ar|أَنا مِنَ المَغْرِبِ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "nominale-zin", "bron": "Het huis is klein.", "antwoorden": ["البَيْتُ صَغيرٌ"], "uitleg": "{ar|البَيْتُ صَغيرٌ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "voorstellen", "bron": "مَنْ هِيَ؟", "tr": "man hiya?", "antwoorden": ["wie is zij", "wie is ze", "wie is dat"], "uitleg": "{ar|مَنْ} = wie." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "nominale-zin", "bron": "أَنا مُتْعَبٌ وَمَشْغولٌ.", "tr": "ana mutʿabun wa-mašġūl.",
+        "antwoorden": ["ik ben moe en bezig", "ik ben moe en druk", "ik ben moe en heb het druk"], "uitleg": "Twee gezegdes met {ar|وَ}." }
+    ]
+  }
+}

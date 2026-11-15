@@ -1,0 +1,622 @@
+{
+  "id": "j3-p12-d28",
+  "code": "D28",
+  "type": "darija",
+  "dialect": "darija",
+  "titel": "Darija: in Marokko op vakantie",
+  "thema": "Strand, dorp en feestdagen: vertellen over je zomer",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "vertellen over een vakantie in Marokko in het Darija.",
+    "vakantiewoorden (الشط، الصهد، الدوار) gebruiken.",
+    "zien hoe Darija van zelfstandige naamwoorden werkwoorden maakt (صيف)."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p12-d28-w01",
+      "ar": "الشط",
+      "tr": "ššəṭṭ",
+      "nl": [
+        "het strand"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w02",
+      "ar": "الأوطيل",
+      "tr": "luṭīl",
+      "nl": [
+        "het hotel"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Van het Frans *hôtel*.",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w03",
+      "ar": "الصهد",
+      "tr": "ṣṣhəḍ",
+      "nl": [
+        "de hitte"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w04",
+      "ar": "الموسم",
+      "tr": "lmūsəm",
+      "nl": [
+        "de moussem (jaarlijks feest)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w05",
+      "ar": "الدوار",
+      "tr": "ddwwāṛ",
+      "nl": [
+        "het dorp (op het platteland)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w06",
+      "ar": "نتسارا",
+      "tr": "ntsāṛa",
+      "nl": [
+        "rondwandelen, een ommetje maken"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w07",
+      "ar": "التصاور",
+      "tr": "ttṣāwəṛ",
+      "nl": [
+        "de foto's"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w08",
+      "ar": "نكري",
+      "tr": "nəkri",
+      "nl": [
+        "huren"
+      ],
+      "soort": "werkwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w10",
+      "ar": "زحام",
+      "tr": "zḥām",
+      "nl": [
+        "druk, file"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w11",
+      "ar": "كاين الما؟",
+      "tr": "kāyn lma?",
+      "nl": [
+        "is er water? (stroomt het water?)"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w12",
+      "ar": "صيفنا ف …",
+      "tr": "ṣyyəfna f-…",
+      "nl": [
+        "we hebben de zomer doorgebracht in …"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w13",
+      "ar": "العواشر",
+      "tr": "lʿwāšəṛ",
+      "nl": [
+        "de feestdagen (rond de ramadan/het offerfeest)"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w14",
+      "ar": "مبروك العواشر",
+      "tr": "mbrūk lʿwāšəṛ",
+      "nl": [
+        "fijne feestdagen"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    },
+    {
+      "id": "j3-p12-d28-w15",
+      "ar": "نرجعو العام الجاي",
+      "tr": "nəṛjʿu lʿām jjāy",
+      "nl": [
+        "we komen volgend jaar terug"
+      ],
+      "soort": "uitdrukking",
+      "review": {
+        "status": "onzeker",
+        "note": "Darija bevestigen."
+      }
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Op vakantie in Marokko",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "",
+            "Fusha",
+            "Darija"
+          ],
+          "rijen": [
+            [
+              "strand",
+              "شاطِئٌ",
+              "الشط|ššəṭṭ"
+            ],
+            [
+              "hitte",
+              "حَرارَةٌ / حَرٌّ",
+              "الصهد|ṣṣhəḍ"
+            ],
+            [
+              "dorp",
+              "قَرْيَةٌ",
+              "الدوار|ddwwāṛ"
+            ],
+            [
+              "rondwandelen",
+              "تَجَوَّلَ",
+              "تسارا|tsāṛa"
+            ],
+            [
+              "de zomer doorbrengen",
+              "قَضى الصَّيْفَ",
+              "صيف|ṣyyəf"
+            ]
+          ],
+          "arKolommen": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Veel Marokkanen in Europa gaan 's zomers 'naar huis' ({ar|العطلة ف البلاد}). Darija maakt van zelfstandige naamwoorden gemakkelijk werkwoorden: {ar|الصيف} (zomer) → {ar|صيف} (de zomer doorbrengen). Het Fusha heeft daar een omschrijving voor nodig ({ar|قَضى الصَّيْفَ})."
+        },
+        {
+          "type": "letop",
+          "md": "{ar|الدوار} betekent oorspronkelijk *kring* (van tenten). Nu is het het woord voor een dorp op het platteland, vaak het dorp waar de familie vandaan komt."
+        }
+      ]
+    },
+    {
+      "titel": "Dialoog: hoe was je zomer?",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "فين صيفتو هاد العام؟",
+              "tr": "fīn ṣyyəftu hād lʿām?",
+              "nl": "Waar hebben jullie dit jaar de zomer doorgebracht?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "صيفنا ف أكادير، كنا كل نهار ف الشط.",
+              "tr": "ṣyyəfna f-agādīr, kunna kull nhāṛ f-ššəṭṭ.",
+              "nl": "We waren in Agadir, we zaten elke dag op het strand.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "والصهد؟",
+              "tr": "w-ṣṣhəḍ?",
+              "nl": "En de hitte?",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "الصهد كان بزاف، ولكن البحر زوين.",
+              "tr": "ṣṣhəḍ kān bəzzāf, walākin lbəḥṛ zwīn.",
+              "nl": "Het was erg heet, maar de zee is mooi.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "ومن بعد مشينا للدوار عند جدي.",
+              "tr": "w-mən bəʿd mšīna l-ddwwāṛ ʿənd jəddi.",
+              "nl": "En daarna gingen we naar het dorp, naar mijn opa.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            },
+            {
+              "ar": "إن شاء الله نرجعو العام الجاي.",
+              "tr": "in šāʾ ļļāh nəṛjʿu lʿām jjāy.",
+              "nl": "Als God het wil komen we volgend jaar terug.",
+              "review": {
+                "status": "onzeker",
+                "note": "Darija-zin laten nakijken."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "darija-vakantie",
+          "paren": [
+            {
+              "ar": "الشط",
+              "nl": "strand",
+              "woord": "j3-p12-d28-w01"
+            },
+            {
+              "ar": "الصهد",
+              "nl": "hitte",
+              "woord": "j3-p12-d28-w03"
+            },
+            {
+              "ar": "الدوار",
+              "nl": "dorp",
+              "woord": "j3-p12-d28-w05"
+            },
+            {
+              "ar": "التصاور",
+              "nl": "foto's",
+              "woord": "j3-p12-d28-w07"
+            },
+            {
+              "ar": "نكري",
+              "nl": "huren",
+              "woord": "j3-p12-d28-w08"
+            },
+            {
+              "ar": "البلاصة",
+              "nl": "plek"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-vakantie",
+          "tekst": "صيفنا ف أكادير",
+          "vraag": "Wat zegt de spreker?",
+          "opties": [
+            "We hebben de zomer in Agadir doorgebracht.",
+            "We gaan naar Agadir.",
+            "Agadir is heet."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|صيف} (de computerstem spreekt Darija mogelijk anders uit)."
+        }
+      ]
+    },
+    {
+      "titel": "Vakantiegesprek",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "darija-vakantie",
+          "vraag": "{ar|الصهد كان بزاف} betekent ...",
+          "opties": [
+            "Het was erg heet.",
+            "Het was erg druk.",
+            "Het water was koud."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|الصهد}"
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "darija-fusha",
+          "vraag": "Darija {ar|الدوار} is in het Fusha ...",
+          "opties": [
+            "قَرْيَةٌ",
+            "مَدينَةٌ",
+            "شاطِئٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Dorp."
+        },
+        {
+          "type": "invullen",
+          "tag": "darija-vakantie",
+          "zin": "كنا كل نهار ف ___.",
+          "nl": "We waren elke dag op het strand.",
+          "antwoord": [
+            "الشط"
+          ],
+          "uitleg": "{ar|الشط}",
+          "woordbank": [
+            "الشط",
+            "الدوار",
+            "الأوطيل"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "darija-vakantie",
+          "nl": "We komen volgend jaar terug.",
+          "woorden": [
+            "نرجعو",
+            "العام",
+            "الجاي."
+          ],
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "darija-vakantie",
+          "bron": "het hotel (Darija)",
+          "antwoorden": [
+            "الأوطيل"
+          ],
+          "uitleg": "{ar|الأوطيل}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "darija-vakantie",
+          "bron": "مشينا للدوار عند جدي",
+          "antwoorden": [
+            "we gingen naar het dorp naar mijn opa",
+            "we gingen naar mijn opa in het dorp"
+          ],
+          "uitleg": "Darija.",
+          "tr": "mšīna l-ddwwāṛ ʿənd jəddi"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "darija-vakantie",
+        "paren": [
+          {
+            "ar": "الموسم",
+            "nl": "jaarlijks feest"
+          },
+          {
+            "ar": "زحام",
+            "nl": "druk"
+          },
+          {
+            "ar": "العواشر",
+            "nl": "feestdagen"
+          },
+          {
+            "ar": "نتسارا",
+            "nl": "rondwandelen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-vakantie",
+        "vraag": "{ar|مبروك العواشر} zeg je ...",
+        "opties": [
+          "rond de feestdagen",
+          "bij een verjaardag",
+          "bij een examen"
+        ],
+        "juist": 0,
+        "uitleg": "Feestdagen."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-fusha",
+        "vraag": "Darija {ar|الشط} is in het Fusha ...",
+        "opties": [
+          "شاطِئٌ",
+          "شَطْرٌ",
+          "بَحْرٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Strand."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "darija-vakantie",
+        "vraag": "{ar|البلاصة} komt uit het ...",
+        "opties": [
+          "Spaans",
+          "Frans",
+          "Fusha"
+        ],
+        "juist": 0,
+        "uitleg": "*plaza*."
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-vakantie",
+        "tekst": "فين صيفتو هاد العام؟",
+        "vraag": "Wat wordt er gevraagd?",
+        "opties": [
+          "Waar hebben jullie de zomer doorgebracht?",
+          "Wanneer gaan jullie op vakantie?",
+          "Hoe warm was het?"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|صيف}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "darija-vakantie",
+        "tekst": "بغينا نكريو طوموبيل",
+        "vraag": "Wat willen ze?",
+        "opties": [
+          "een auto huren",
+          "een auto kopen",
+          "met de bus gaan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نكري}"
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-vakantie",
+        "zin": "خدينا بزاف ديال ___.",
+        "nl": "We hebben veel foto's gemaakt.",
+        "antwoord": [
+          "التصاور"
+        ],
+        "uitleg": "{ar|التصاور}",
+        "woordbank": [
+          "التصاور",
+          "الصهد",
+          "الزحام"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "darija-vakantie",
+        "zin": "الطريق كان فيه ___ كبير.",
+        "nl": "Er was veel file op de weg.",
+        "antwoord": [
+          "زحام"
+        ],
+        "uitleg": "{ar|زحام}",
+        "woordbank": [
+          "زحام",
+          "صهد",
+          "شط"
+        ]
+      },
+      {
+        "type": "ordenen",
+        "tag": "darija-vakantie",
+        "nl": "Het was erg heet, maar de zee is mooi.",
+        "woorden": [
+          "الصهد",
+          "كان",
+          "بزاف،",
+          "ولكن",
+          "البحر",
+          "زوين."
+        ],
+        "uitleg": "Darija."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-vakantie",
+        "bron": "het strand (Darija)",
+        "antwoorden": [
+          "الشط"
+        ],
+        "uitleg": "{ar|الشط}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "darija-vakantie",
+        "bron": "fijne feestdagen (Darija)",
+        "antwoorden": [
+          "مبروك العواشر"
+        ],
+        "uitleg": "{ar|مبروك العواشر}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-vakantie",
+        "bron": "نتسارا ف المدينة القديمة",
+        "antwoorden": [
+          "ik wandel rond in de oude stad",
+          "we wandelen rond in de medina",
+          "ik maak een ommetje in de oude stad"
+        ],
+        "uitleg": "Darija.",
+        "tr": "ntsāṛa f-lmdīna lqdīma"
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "j1-p2-l18",
+  "code": "L18",
+  "type": "les",
+  "titel": "De week",
+  "thema": "Dagen van de week en dagdelen; je weekplanning",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "de zeven dagen van de week noemen.",
+    "dagdelen gebruiken: 's ochtends, 's middags, 's avonds, 's nachts.",
+    "tijdsbepalingen in de accusatief gebruiken (صَباحًا، يَوْمَ الجُمُعَةِ).",
+    "vragen en zeggen wanneer iets is met مَتى."
+  ],
+
+  "woorden": [
+    { "id": "j1-p2-l18-w01", "ar": "يَوْمٌ", "tr": "yawm", "nl": ["dag"], "soort": "zelfstandig naamwoord", "notitie": "Meervoud: {ar|أَيّامٌ}." },
+    { "id": "j1-p2-l18-w02", "ar": "أُسْبوعٌ", "tr": "usbūʿ", "nl": ["week"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l18-w03", "ar": "الأَحَدُ", "tr": "al-aḥad", "nl": ["zondag"], "soort": "dag", "notitie": "Van {ar|أَحَد}: de eerste dag." },
+    { "id": "j1-p2-l18-w04", "ar": "الاِثْنَيْنِ", "tr": "al-iṯnayn", "nl": ["maandag"], "soort": "dag", "notitie": "Van {ar|اِثْنانِ}: de tweede dag. Een dualisvorm die meestal onveranderd blijft.",
+      "review": { "status": "onzeker", "note": "Vocalisatie van de dagnaam als los woord: الاِثْنَيْنِ (onveranderlijk) of الاِثْنانِ. Bevestigen welke vorm we aanleren." } },
+    { "id": "j1-p2-l18-w05", "ar": "الثُّلاثاءُ", "tr": "aṯ-ṯulāṯāʾ", "nl": ["dinsdag"], "soort": "dag", "notitie": "Van {ar|ثَلاثَة}: de derde dag." },
+    { "id": "j1-p2-l18-w06", "ar": "الأَرْبِعاءُ", "tr": "al-arbiʿāʾ", "nl": ["woensdag"], "soort": "dag" },
+    { "id": "j1-p2-l18-w07", "ar": "الخَميسُ", "tr": "al-ḫamīs", "nl": ["donderdag"], "soort": "dag" },
+    { "id": "j1-p2-l18-w08", "ar": "الجُمُعَةُ", "tr": "al-jumuʿa", "nl": ["vrijdag"], "soort": "dag", "notitie": "Van een wortel die *samenkomen* betekent: de dag van het gezamenlijke gebed." },
+    { "id": "j1-p2-l18-w09", "ar": "السَّبْتُ", "tr": "as-sabt", "nl": ["zaterdag"], "soort": "dag" },
+    { "id": "j1-p2-l18-w10", "ar": "صَباحٌ", "tr": "ṣabāḥ", "nl": ["ochtend"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l18-w11", "ar": "ظُهْرٌ", "tr": "ẓuhr", "nl": ["middag (rond 12 uur)"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l18-w12", "ar": "مَساءٌ", "tr": "masāʾ", "nl": ["avond", "namiddag"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l18-w13", "ar": "لَيْلٌ", "tr": "layl", "nl": ["nacht"], "soort": "zelfstandig naamwoord" },
+    { "id": "j1-p2-l18-w14", "ar": "غَدًا", "tr": "ġadan", "nl": ["morgen"], "soort": "bijwoord" },
+    { "id": "j1-p2-l18-w15", "ar": "أَمْسِ", "tr": "amsi", "nl": ["gisteren"], "soort": "bijwoord" },
+    { "id": "j1-p2-l18-w16", "ar": "مَتى", "tr": "matā", "nl": ["wanneer"], "soort": "vraagwoord" },
+    { "id": "j1-p2-l18-w17", "ar": "كُلَّ يَوْمٍ", "tr": "kulla yawm", "nl": ["elke dag"], "soort": "uitdrukking" },
+    { "id": "j1-p2-l18-w18", "ar": "بَعْدَ الظُّهْرِ", "tr": "baʿda ẓ-ẓuhr", "nl": ["'s middags (na twaalven)"], "soort": "uitdrukking" },
+    { "id": "j1-p2-l18-w19", "ar": "نِهايَةُ الأُسْبوعِ", "tr": "nihāyatu l-usbūʿ", "nl": ["weekend"], "soort": "iḍāfa", "notitie": "Letterlijk: het einde van de week." },
+    { "id": "j1-p2-l18-w20", "ar": "عُطْلَةُ نِهايَةِ الأُسْبوعِ", "tr": "ʿuṭlatu nihāyati l-usbūʿ", "nl": ["weekendvrij", "het weekend (als vrije tijd)"], "soort": "iḍāfa",
+      "review": { "status": "onzeker", "note": "Controleer of deze lange iḍāfa gangbaar is, of dat عُطْلَةُ الأُسْبوعِ of نِهايَةُ الأُسْبوعِ volstaat." } }
+  ],
+
+  "grammatica": [
+    {
+      "titel": "De dagen van de week",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "De week begint in de Arabische kalender op **zondag**. De namen van zondag tot en met donderdag komen van de getallen 1 tot en met 5: {ar|الأَحَدُ} (*de eerste*), {ar|الاِثْنَيْنِ} (*de tweede*), {ar|الثُّلاثاءُ} (*de derde*)...",
+          "Je kunt de dag alleen noemen ({ar|الخَميسُ}) of als iḍāfa met {ar|يَوْمُ}: {ar|يَوْمُ الخَميسِ} (*de dag van donderdag*)."
+        ] },
+        { "type": "tabel", "kop": ["Nederlands", "Arabisch", "Herkomst"], "arKolommen": [1], "rijen": [
+          ["zondag", "الأَحَدُ|al-aḥad", "1 (أَحَد)"],
+          ["maandag", "الاِثْنَيْنِ|al-iṯnayn", "2 (اِثْنان)"],
+          ["dinsdag", "الثُّلاثاءُ|aṯ-ṯulāṯāʾ", "3 (ثَلاثَة)"],
+          ["woensdag", "الأَرْبِعاءُ|al-arbiʿāʾ", "4 (أَرْبَعَة)"],
+          ["donderdag", "الخَميسُ|al-ḫamīs", "5 (خَمْسَة)"],
+          ["vrijdag", "الجُمُعَةُ|al-jumuʿa", "samenkomst (vrijdaggebed)"],
+          ["zaterdag", "السَّبْتُ|as-sabt", "sabbat, rustdag"]
+        ] },
+        { "type": "waarom", "md": "In veel Arabische landen is **vrijdag** de belangrijkste vrije dag, vanwege het gezamenlijke middaggebed. Het weekend valt daardoor per land verschillend: in Marokko is dat zaterdag en zondag, in een aantal Golfstaten vrijdag en zaterdag." }
+      ]
+    },
+    {
+      "titel": "Wanneer? Tijdsbepalingen in de accusatief",
+      "blokken": [
+        { "type": "tekst", "md": [
+          "Een woord dat zegt **wanneer** iets gebeurt, krijgt de accusatief (-a / -an), zonder voorzetsel: {ar|صَباحًا} (*'s ochtends*), {ar|مَساءً} (*'s avonds*), {ar|لَيْلًا} (*'s nachts*), {ar|يَوْمَ الجُمُعَةِ} (*op vrijdag*), {ar|غَدًا} (*morgen*).",
+          "Je mag ook {ar|في} gebruiken, met genitief: {ar|في يَوْمِ الجُمُعَةِ}, {ar|في الصَّباحِ}."
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "مَتى الاِمْتِحانُ؟ — الاِمْتِحانُ يَوْمَ الثُّلاثاءِ.", "tr": "matā l-imtiḥān? — al-imtiḥānu yawma ṯ-ṯulāṯāʾ.", "nl": "Wanneer is het examen? — Het examen is op dinsdag." },
+          { "ar": "عِنْدي دَرْسٌ صَباحًا وَعَمَلٌ مَساءً.", "tr": "ʿindī darsun ṣabāḥan wa-ʿamalun masāʾan.", "nl": "Ik heb 's ochtends les en 's avonds werk." },
+          { "ar": "المَوْعِدُ غَدًا بَعْدَ الظُّهْرِ.", "tr": "al-mawʿidu ġadan baʿda ẓ-ẓuhr.", "nl": "De afspraak is morgenmiddag." },
+          { "ar": "أَمْسِ كانَ الأَحَدُ.", "tr": "amsi kāna l-aḥad.", "nl": "Gisteren was het zondag.",
+            "review": { "status": "onzeker", "note": "Gebruikt كانَ (les 28) als vaste uitdrukking. Controleer of اليَوْمُ الاِثْنَيْنِ als voorbeeld zonder werkwoord beter past in deze les." } }
+        ] },
+        { "type": "waarom", "md": "De accusatief is in het Arabisch de naamval voor alles wat de zin *aanvult*: het lijdend voorwerp, het gezegde na {ar|لَيْسَ}, en ook bepalingen van tijd. {ar|صَباحًا} betekent letterlijk *(in de vorm van) ochtend*." },
+        { "type": "letop", "md": "{ar|مَساءً}: na de hamza staat geen extra alif voor de tanwīn. {ar|أَمْسِ} (*gisteren*) eindigt altijd op een kasra en verandert niet." }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Dagen",
+      "items": [
+        { "type": "koppelen", "tag": "dagen", "paren": [
+          { "ar": "الأَحَدُ", "nl": "zondag", "woord": "j1-p2-l18-w03" },
+          { "ar": "الاِثْنَيْنِ", "nl": "maandag", "woord": "j1-p2-l18-w04" },
+          { "ar": "الثُّلاثاءُ", "nl": "dinsdag", "woord": "j1-p2-l18-w05" },
+          { "ar": "الأَرْبِعاءُ", "nl": "woensdag", "woord": "j1-p2-l18-w06" },
+          { "ar": "الخَميسُ", "nl": "donderdag", "woord": "j1-p2-l18-w07" },
+          { "ar": "الجُمُعَةُ", "nl": "vrijdag", "woord": "j1-p2-l18-w08" }
+        ], "uitleg": "Zondag tot en met donderdag komen van de getallen 1–5." },
+        { "type": "luisteren", "tag": "dagen", "tekst": "السَّبْتُ", "vraag": "Welke dag hoor je?", "opties": ["zaterdag", "zondag", "vrijdag", "dinsdag"], "juist": 0, "uitleg": "{ar|السَّبْتُ} = zaterdag." },
+        { "type": "luisteren", "tag": "dagen", "tekst": "يَوْمَ الخَميسِ", "vraag": "Wanneer?", "opties": ["op donderdag", "op dinsdag", "op vrijdag"], "juist": 0, "uitleg": "{ar|الخَميس} komt van {ar|خَمْسَة}: de vijfde dag." },
+        { "type": "meerkeuze", "tag": "dagen", "vraag": "Welke dag komt na {ar|الثُّلاثاءُ}?", "opties": ["الأَرْبِعاءُ", "الاِثْنَيْنِ", "الخَميسُ", "الأَحَدُ"], "juist": 0, "uitleg": "Dinsdag → woensdag." },
+        { "type": "ordenen", "tag": "dagen", "nl": "Zet de dagen in volgorde, te beginnen met zondag (rechts).", "woorden": ["الأَحَدُ", "الاِثْنَيْنِ", "الثُّلاثاءُ", "الأَرْبِعاءُ"], "uitleg": "1, 2, 3, 4." }
+      ]
+    },
+    {
+      "titel": "Wanneer?",
+      "items": [
+        { "type": "invullen", "tag": "tijdsbepaling", "zin": "عِنْدي دَرْسٌ ___.", "nl": "Ik heb 's ochtends les.", "woordbank": ["صَباحًا", "صَباحٌ", "الصَّباحُ"], "antwoord": ["صَباحًا"], "uitleg": "Tijdsbepaling in de accusatief." },
+        { "type": "invullen", "tag": "tijdsbepaling", "zin": "المَوْعِدُ ___ الجُمُعَةِ.", "nl": "De afspraak is op vrijdag.", "woordbank": ["يَوْمَ", "يَوْمُ", "يَوْمٌ"], "antwoord": ["يَوْمَ"], "uitleg": "{ar|يَوْمَ} in de accusatief + iḍāfa." },
+        { "type": "invullen", "tag": "tijdsbepaling", "zin": "___ الاِمْتِحانُ؟", "nl": "Wanneer is het examen?", "antwoord": ["مَتى"], "uitleg": "{ar|مَتى} = wanneer." },
+        { "type": "meerkeuze", "tag": "tijdsbepaling", "vraag": "Wat betekent {ar|لَيْلًا}?", "opties": ["'s nachts", "de nacht", "vannacht is mooi"], "juist": 0, "uitleg": "Accusatief = tijdsbepaling." },
+        { "type": "vervoegen", "tag": "tijdsbepaling", "instructie": "Maak een tijdsbepaling (accusatief, met tanwīn).",
+          "rijen": [
+            { "label": "'s ochtends", "ar": "صَباحٌ", "antwoord": "صَباحًا", "tr": "ṣabāḥan" },
+            { "label": "'s avonds", "ar": "مَساءٌ", "antwoord": "مَساءً", "tr": "masāʾan" },
+            { "label": "'s nachts", "ar": "لَيْلٌ", "antwoord": "لَيْلًا", "tr": "laylan" }
+          ], "uitleg": "-un → -an; na hamza zonder extra alif." }
+      ]
+    },
+    {
+      "titel": "Mijn week",
+      "items": [
+        { "type": "ordenen", "tag": "tijdsbepaling", "nl": "Ik heb 's ochtends les en 's avonds werk.", "woorden": ["عِنْدي", "دَرْسٌ", "صَباحًا", "وَعَمَلٌ", "مَساءً."], "uitleg": "Twee keer {ar|عِنْدي}-constructie met tijdsbepaling." },
+        { "type": "ordenen", "tag": "tijdsbepaling", "nl": "Wanneer is de afspraak?", "woorden": ["مَتى", "المَوْعِدُ؟"], "uitleg": "{ar|مَتى} + bepaald onderwerp." },
+        { "type": "luisteren", "tag": "tijdsbepaling", "tekst": "عِنْدَنا عُطْلَةٌ غَدًا", "vraag": "Wat hoor je?", "opties": ["We hebben morgen vrij.", "We hadden gisteren vrij.", "We hebben elke dag vrij."], "juist": 0, "uitleg": "{ar|غَدًا} = morgen." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "dagen", "bron": "vrijdag", "antwoorden": ["الجُمُعَةُ", "يَوْمُ الجُمُعَةِ"], "uitleg": "{ar|الجُمُعَةُ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "tijdsbepaling", "bron": "morgen", "antwoorden": ["غَدًا"], "uitleg": "{ar|غَدًا}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "tijdsbepaling", "bron": "Wanneer is de les?", "antwoorden": ["مَتى الدَّرْسُ؟"], "uitleg": "{ar|مَتى الدَّرْسُ؟}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "tijdsbepaling", "bron": "الاِمْتِحانُ يَوْمَ الاِثْنَيْنِ.", "tr": "al-imtiḥānu yawma l-iṯnayn.", "antwoorden": ["het examen is op maandag", "het examen is maandag", "de toets is op maandag", "de toets is maandag"], "uitleg": "{ar|يَوْمَ} + dag = op ...dag." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "tijdsbepaling", "bron": "كُلَّ يَوْمٍ", "tr": "kulla yawm", "antwoorden": ["elke dag", "iedere dag", "dagelijks"], "uitleg": "{ar|كُلَّ} in de accusatief: tijdsbepaling." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "koppelen", "tag": "dagen", "paren": [
+        { "ar": "السَّبْتُ", "nl": "zaterdag" },
+        { "ar": "الأَحَدُ", "nl": "zondag" },
+        { "ar": "الأَرْبِعاءُ", "nl": "woensdag" },
+        { "ar": "أُسْبوعٌ", "nl": "week" },
+        { "ar": "أَمْسِ", "nl": "gisteren" }
+      ], "uitleg": "Herhaal de woordenlijst." },
+      { "type": "meerkeuze", "tag": "dagen", "vraag": "Van welk getal komt {ar|الخَميسُ}?", "opties": ["5", "4", "6"], "juist": 0, "uitleg": "{ar|خَمْسَة} = 5." },
+      { "type": "meerkeuze", "tag": "dagen", "vraag": "'Maandag' is ...", "opties": ["الاِثْنَيْنِ", "الثُّلاثاءُ", "الأَحَدُ"], "juist": 0, "uitleg": "{ar|الاِثْنَيْنِ}" },
+      { "type": "meerkeuze", "tag": "tijdsbepaling", "vraag": "Welke vorm is een tijdsbepaling ('s avonds)?", "opties": ["مَساءً", "مَساءٌ", "المَساءُ"], "juist": 0, "uitleg": "Accusatief." },
+      { "type": "luisteren", "tag": "dagen", "tekst": "الجُمُعَةُ", "vraag": "Welke dag hoor je?", "opties": ["vrijdag", "donderdag", "zaterdag"], "juist": 0, "uitleg": "{ar|الجُمُعَةُ} = vrijdag." },
+      { "type": "luisteren", "tag": "tijdsbepaling", "tekst": "المَوْعِدُ غَدًا صَباحًا", "vraag": "Wanneer is de afspraak?", "opties": ["morgenochtend", "gisterenavond", "vanavond"], "juist": 0, "uitleg": "{ar|غَدًا} + {ar|صَباحًا}." },
+      { "type": "invullen", "tag": "tijdsbepaling", "zin": "الدَّرْسُ ___ السَّبْتِ.", "nl": "De les is op zaterdag.", "woordbank": ["يَوْمَ", "يَوْمُ"], "antwoord": ["يَوْمَ"], "uitleg": "Accusatief." },
+      { "type": "invullen", "tag": "tijdsbepaling", "zin": "عِنْدي عَمَلٌ ___.", "nl": "Ik heb 's nachts werk.", "antwoord": ["لَيْلًا"], "uitleg": "{ar|لَيْلًا}" },
+      { "type": "vervoegen", "tag": "tijdsbepaling", "instructie": "Maak een tijdsbepaling.",
+        "rijen": [
+          { "label": "'s ochtends", "antwoord": "صَباحًا", "tr": "ṣabāḥan" },
+          { "label": "op vrijdag", "antwoord": "يَوْمَ الجُمُعَةِ", "tr": "yawma l-jumuʿa" }
+        ], "uitleg": "Accusatief." },
+      { "type": "ordenen", "tag": "tijdsbepaling", "nl": "Het examen is op dinsdag.", "woorden": ["الاِمْتِحانُ", "يَوْمَ", "الثُّلاثاءِ."], "uitleg": "{ar|يَوْمَ} + genitief." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "dagen", "bron": "zondag", "antwoorden": ["الأَحَدُ", "يَوْمُ الأَحَدِ"], "uitleg": "{ar|الأَحَدُ}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "tijdsbepaling", "bron": "elke dag", "antwoorden": ["كُلَّ يَوْمٍ"], "uitleg": "{ar|كُلَّ يَوْمٍ}" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "tijdsbepaling", "bron": "مَتى المَوْعِدُ؟", "tr": "matā l-mawʿid?", "antwoorden": ["wanneer is de afspraak"], "uitleg": "{ar|مَتى} = wanneer." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "dagen", "bron": "نِهايَةُ الأُسْبوعِ", "tr": "nihāyatu l-usbūʿ", "antwoorden": ["het weekend", "weekend", "het einde van de week"], "uitleg": "Letterlijk: het einde van de week." }
+    ]
+  }
+}

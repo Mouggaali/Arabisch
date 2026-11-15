@@ -1,0 +1,724 @@
+{
+  "id": "j2-p5-l58",
+  "code": "L58",
+  "type": "les",
+  "titel": "Verhuizen en de stad",
+  "thema": "Een verhuizing, drukte en het leven in de stad",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "vorm VII (اِنْفَعَلَ) herkennen als lijdende of 'vanzelf'-vorm.",
+    "vorm VIII (اِفْتَعَلَ) herkennen en vervoegen.",
+    "de klankassimilatie in vorm VIII begrijpen (اِتَّصَلَ، اِزْدَحَمَ، اِضْطَرَبَ).",
+    "over een verhuizing vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l58-w01",
+      "ar": "اِنْكَسَرَ",
+      "tr": "inkasara",
+      "nl": [
+        "breken (vanzelf)",
+        "kapotgaan"
+      ],
+      "soort": "werkwoord (VII)",
+      "notitie": "Muḍāriʿ: {ar|يَنْكَسِرُ}. Vorm I {ar|كَسَرَ} = iets breken."
+    },
+    {
+      "id": "j2-p5-l58-w02",
+      "ar": "اِنْقَطَعَ",
+      "tr": "inqaṭaʿa",
+      "nl": [
+        "uitvallen",
+        "afgebroken worden"
+      ],
+      "soort": "werkwoord (VII)",
+      "notitie": "{ar|اِنْقَطَعَتِ الكَهْرَباءُ} = de stroom viel uit."
+    },
+    {
+      "id": "j2-p5-l58-w03",
+      "ar": "اِنْفَتَحَ",
+      "tr": "infataḥa",
+      "nl": [
+        "opengaan"
+      ],
+      "soort": "werkwoord (VII)"
+    },
+    {
+      "id": "j2-p5-l58-w04",
+      "ar": "اِجْتَمَعَ",
+      "tr": "ijtamaʿa",
+      "nl": [
+        "samenkomen",
+        "vergaderen"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Muḍāriʿ: {ar|يَجْتَمِعُ}."
+    },
+    {
+      "id": "j2-p5-l58-w05",
+      "ar": "اِسْتَمَعَ إِلى",
+      "tr": "istamaʿa ilā",
+      "nl": [
+        "luisteren naar"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Vorm I {ar|سَمِعَ} = horen."
+    },
+    {
+      "id": "j2-p5-l58-w06",
+      "ar": "اِقْتَرَبَ مِنْ",
+      "tr": "iqtaraba min",
+      "nl": [
+        "naderen",
+        "dichterbij komen"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p5-l58-w07",
+      "ar": "اِبْتَعَدَ عَنْ",
+      "tr": "ibtaʿada ʿan",
+      "nl": [
+        "zich verwijderen van"
+      ],
+      "soort": "werkwoord (VIII)"
+    },
+    {
+      "id": "j2-p5-l58-w08",
+      "ar": "اِزْدَحَمَ",
+      "tr": "izdaḥama",
+      "nl": [
+        "druk zijn (vol mensen)"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Wortel ز-ح-م: ت wordt د na ز."
+    },
+    {
+      "id": "j2-p5-l58-w09",
+      "ar": "اِزْدِحامٌ",
+      "tr": "izdiḥām",
+      "nl": [
+        "drukte",
+        "file"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l58-w10",
+      "ar": "اِضْطَرَبَ",
+      "tr": "iḍṭaraba",
+      "nl": [
+        "onrustig worden",
+        "verstoord raken"
+      ],
+      "soort": "werkwoord (VIII)",
+      "notitie": "Wortel ض-ر-ب: ت wordt ط na ض."
+    },
+    {
+      "id": "j2-p5-l58-w11",
+      "ar": "اِنْتِقالٌ",
+      "tr": "intiqāl",
+      "nl": [
+        "verhuizing",
+        "overgang"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar van {ar|اِنْتَقَلَ}."
+    },
+    {
+      "id": "j2-p5-l58-w12",
+      "ar": "شاحِنَةٌ",
+      "tr": "šāḥina",
+      "nl": [
+        "vrachtwagen",
+        "verhuiswagen"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l58-w13",
+      "ar": "صُنْدوقٌ",
+      "tr": "ṣundūq",
+      "nl": [
+        "doos",
+        "kist"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|صَناديقُ}."
+    },
+    {
+      "id": "j2-p5-l58-w15",
+      "ar": "كَهْرَباءُ",
+      "tr": "kahrabāʾ",
+      "nl": [
+        "elektriciteit",
+        "stroom"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l58-w16",
+      "ar": "مُنْكَسِرٌ",
+      "tr": "munkasir",
+      "nl": [
+        "gebroken",
+        "kapot"
+      ],
+      "soort": "bijvoeglijk naamwoord",
+      "notitie": "Actief deelwoord vorm VII."
+    },
+    {
+      "id": "j2-p5-l58-w17",
+      "ar": "عُنْوانٌ جَديدٌ",
+      "tr": "ʿunwānun jadīd",
+      "nl": [
+        "nieuw adres"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p5-l58-w18",
+      "ar": "ضَوْضاءُ",
+      "tr": "ḍawḍāʾ",
+      "nl": [
+        "herrie",
+        "lawaai"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l58-w19",
+      "ar": "مُجْتَمَعٌ",
+      "tr": "mujtamaʿ",
+      "nl": [
+        "samenleving",
+        "gemeenschap"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Passief deelwoord vorm VIII van ج-م-ع."
+    },
+    {
+      "id": "j2-p5-l58-w20",
+      "ar": "اِحْتِرامٌ",
+      "tr": "iḥtirām",
+      "nl": [
+        "respect"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Maṣdar vorm VIII van ح-ر-م."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Vorm VII: اِنْفَعَلَ / يَنْفَعِلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm VII zet **اِنْـ** voor de wortel: {ar|كَسَرَ} → {ar|اِنْكَسَرَ}. Muḍāriʿ: {ar|يَنْكَسِرُ}.",
+            "Betekenis: de handeling **overkomt** het onderwerp, zonder dat er een dader genoemd wordt. {ar|كَسَرْتُ الكَأْسَ} (ik brak het glas) ↔ {ar|اِنْكَسَرَتِ الكَأْسُ} (het glas brak)."
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Vorm VII is een soort **lijdende vorm zonder dader**, zoals het Nederlandse *het glas brak* tegenover *ik brak het glas*. Daarom heeft vorm VII nooit een lijdend voorwerp."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm VIII: اِفْتَعَلَ / يَفْتَعِلُ",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm VIII zet **اِ** voor de wortel en een **ت** ná de eerste wortelletter: {ar|جَمَعَ} → {ar|اِجْتَمَعَ}; {ar|سَمِعَ} → {ar|اِسْتَمَعَ}. Muḍāriʿ: {ar|يَجْتَمِعُ}.",
+            "De betekenis is vaak **wederkerend of 'voor jezelf'**: {ar|جَمَعَ} (verzamelen) → {ar|اِجْتَمَعَ} (zich verzamelen, samenkomen)."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Māḍī",
+            "Muḍāriʿ"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "اِجْتَمَعْتُ",
+              "أَجْتَمِعُ"
+            ],
+            [
+              "hij",
+              "اِجْتَمَعَ",
+              "يَجْتَمِعُ"
+            ],
+            [
+              "wij",
+              "اِجْتَمَعْنا",
+              "نَجْتَمِعُ"
+            ],
+            [
+              "zij (m mv)",
+              "اِجْتَمَعوا",
+              "يَجْتَمِعونَ"
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "**Assimilatie**: de ت past zich aan de eerste wortelletter aan. Na **ص ض ط ظ** wordt ت een **ط** ({ar|اِضْطَرَبَ}); na **د ذ ز** wordt het een **د** ({ar|اِزْدَحَمَ}); is de eerste letter **و** of **ت**, dan smelten ze samen tot **تّ** ({ar|اِتَّصَلَ} van و-ص-ل)."
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom die assimilatie? Probeer *iztaḥama* uit te spreken: de stemhebbende z en de stemloze t botsen. Het Arabisch maakt de ت dan stemhebbend (د). Zo vergemakkelijkt de taal de uitspraak. Ken je de regel, dan vind je de wortel toch terug."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "اِنْتَقَلْنا إِلى شَقَّةٍ جَديدَةٍ الشَّهْرَ الماضِيَ.",
+              "tr": "intaqalnā ilā šaqqatin jadīdatin aš-šahra l-māḍī.",
+              "nl": "Vorige maand zijn we naar een nieuw appartement verhuisd."
+            },
+            {
+              "ar": "اِنْكَسَرَتْ مِرْآةٌ أَثْناءَ الاِنْتِقالِ.",
+              "tr": "inkasarat mirʾātun aṯnāʾa l-intiqāl.",
+              "nl": "Er is een spiegel gebroken tijdens de verhuizing."
+            },
+            {
+              "ar": "الشَّوارِعُ مُزْدَحِمَةٌ في المَساءِ.",
+              "tr": "aš-šawāriʿu muzdaḥimatun fi l-masāʾ.",
+              "nl": "De straten zijn 's avonds druk."
+            },
+            {
+              "ar": "اِنْقَطَعَتِ الكَهْرَباءُ في الحَيِّ كُلِّهِ.",
+              "tr": "inqaṭaʿati l-kahrabāʾu fi l-ḥayyi kullih.",
+              "nl": "De stroom viel uit in de hele wijk."
+            },
+            {
+              "ar": "يَجْتَمِعُ الجيرانُ مَرَّةً في الشَّهْرِ.",
+              "tr": "yajtamiʿu l-jīrānu marratan fi š-šahr.",
+              "nl": "De buren komen één keer per maand samen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "شاحِنَةٌ",
+              "nl": "vrachtwagen",
+              "woord": "j2-p5-l58-w12"
+            },
+            {
+              "ar": "صُنْدوقٌ",
+              "nl": "doos",
+              "woord": "j2-p5-l58-w13"
+            },
+            {
+              "ar": "جيرانٌ",
+              "nl": "buren"
+            },
+            {
+              "ar": "كَهْرَباءُ",
+              "nl": "stroom",
+              "woord": "j2-p5-l58-w15"
+            },
+            {
+              "ar": "اِزْدِحامٌ",
+              "nl": "drukte",
+              "woord": "j2-p5-l58-w09"
+            },
+            {
+              "ar": "مُجْتَمَعٌ",
+              "nl": "samenleving",
+              "woord": "j2-p5-l58-w19"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-7-8",
+          "tekst": "اِنْقَطَعَتِ الكَهْرَباءُ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De stroom viel uit.",
+            "Ik zette de stroom uit.",
+            "Er is geen gas."
+          ],
+          "juist": 0,
+          "uitleg": "Vorm VII: het gebeurde vanzelf."
+        }
+      ]
+    },
+    {
+      "titel": "Vorm VII en VIII",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-7-8",
+          "vraag": "Welke zin heeft vorm VII?",
+          "opties": [
+            "اِنْكَسَرَ البابُ.",
+            "كَسَرَ الوَلَدُ البابَ.",
+            "كَسَّرَ البابَ."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِنْكَسَرَ} = vanzelf breken, zonder dader."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-7-8",
+          "vraag": "Wat is de wortel van {ar|اِزْدَحَمَ}?",
+          "opties": [
+            "ز ح م",
+            "ز د ح",
+            "د ح م"
+          ],
+          "juist": 0,
+          "uitleg": "De د is de ت van vorm VIII, aangepast na ز."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "vorm-7-8",
+          "vraag": "Wat is de wortel van {ar|اِتَّصَلَ}?",
+          "opties": [
+            "و ص ل",
+            "ت ص ل",
+            "ت ت ص"
+          ],
+          "juist": 0,
+          "uitleg": "و + ت → تّ."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "vorm-7-8",
+          "instructie": "Vervoeg اِسْتَمَعَ / يَسْتَمِعُ.",
+          "rijen": [
+            {
+              "label": "ik (māḍī)",
+              "antwoord": "اِسْتَمَعْتُ",
+              "tr": "istamaʿtu"
+            },
+            {
+              "label": "zij (m mv) (māḍī)",
+              "antwoord": "اِسْتَمَعوا",
+              "tr": "istamaʿū"
+            },
+            {
+              "label": "ik (muḍāriʿ)",
+              "antwoord": "أَسْتَمِعُ",
+              "tr": "astamiʿu"
+            },
+            {
+              "label": "jij (v) (muḍāriʿ)",
+              "antwoord": "تَسْتَمِعينَ",
+              "tr": "tastamiʿīna"
+            }
+          ],
+          "uitleg": "Vorm VIII; muḍāriʿ يَفْتَعِلُ."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-7-8",
+          "zin": "سَـ___ غَدًا في السّاعَةِ العاشِرَةِ.",
+          "nl": "We komen morgen om tien uur samen.",
+          "woordbank": [
+            "نَجْتَمِعُ",
+            "نَجْمَعُ",
+            "اِجْتَمَعْنا"
+          ],
+          "antwoord": [
+            "نَجْتَمِعُ"
+          ],
+          "uitleg": "Vorm VIII muḍāriʿ, wij."
+        }
+      ]
+    },
+    {
+      "titel": "De verhuizing",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "vorm-7-8",
+          "nl": "Vorige maand zijn we naar een nieuw appartement verhuisd.",
+          "woorden": [
+            "اِنْتَقَلْنا",
+            "إِلى",
+            "شَقَّةٍ",
+            "جَديدَةٍ",
+            "الشَّهْرَ",
+            "الماضِيَ."
+          ],
+          "uitleg": "Vorm VIII."
+        },
+        {
+          "type": "invullen",
+          "tag": "vorm-7-8",
+          "zin": "___ الكَأْسُ.",
+          "nl": "Het glas brak.",
+          "woordbank": [
+            "اِنْكَسَرَتِ",
+            "كَسَرَتِ",
+            "كَسَّرَتِ"
+          ],
+          "antwoord": [
+            "اِنْكَسَرَتِ",
+            "اِنْكَسَرَتْ"
+          ],
+          "uitleg": "Vorm VII; {ar|الكَأْسُ} is vrouwelijk."
+        },
+        {
+          "type": "luisteren",
+          "tag": "vorm-7-8",
+          "tekst": "الشّارِعُ مُزْدَحِمٌ جِدًّا",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "De straat is erg druk.",
+            "De straat is erg rustig.",
+            "De straat is afgesloten."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|مُزْدَحِمٌ} = druk."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "vorm-7-8",
+          "bron": "Ik luister naar de radio.",
+          "antwoorden": [
+            "أَسْتَمِعُ إِلى الرّاديو",
+            "أَسْتَمِعُ إِلى المِذْياعِ"
+          ],
+          "uitleg": "{ar|اِسْتَمَعَ إِلى}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "vorm-7-8",
+          "bron": "اِقْتَرَبَ مَوْعِدُ الاِنْتِقالِ.",
+          "antwoorden": [
+            "de verhuisdatum komt dichterbij",
+            "de datum van de verhuizing nadert",
+            "de verhuisdatum nadert",
+            "de verhuizing komt dichterbij"
+          ],
+          "uitleg": "{ar|اِقْتَرَبَ} = naderen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "اِنْتِقالٌ",
+            "nl": "verhuizing"
+          },
+          {
+            "ar": "مُنْكَسِرٌ",
+            "nl": "kapot"
+          },
+          {
+            "ar": "ضَوْضاءُ",
+            "nl": "herrie"
+          },
+          {
+            "ar": "اِحْتِرامٌ",
+            "nl": "respect"
+          },
+          {
+            "ar": "اِبْتَعَدَ عَنْ",
+            "nl": "zich verwijderen van"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-7-8",
+        "vraag": "Wat is het kenmerk van vorm VII?",
+        "opties": [
+          "اِنْـ vooraan",
+          "ت na de eerste wortelletter",
+          "اِسْتَـ vooraan"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِنْفَعَلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-7-8",
+        "vraag": "Wat is het kenmerk van vorm VIII?",
+        "opties": [
+          "ت na de eerste wortelletter",
+          "اِنْـ vooraan",
+          "shadda op de middelste letter"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِفْتَعَلَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-7-8",
+        "vraag": "In {ar|اِضْطَرَبَ} is de ت van vorm VIII veranderd in ...",
+        "opties": [
+          "ط",
+          "د",
+          "ض"
+        ],
+        "juist": 0,
+        "uitleg": "Na ض wordt ت een ط."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vorm-7-8",
+        "vraag": "Welke zin is juist? (De deur ging open.)",
+        "opties": [
+          "اِنْفَتَحَ البابُ.",
+          "اِنْفَتَحَ البابَ.",
+          "اِنْفَتَحْتُ البابَ."
+        ],
+        "juist": 0,
+        "uitleg": "Vorm VII heeft geen lijdend voorwerp; {ar|البابُ} is onderwerp."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-7-8",
+        "tekst": "اِجْتَمَعَتِ العائِلَةُ في العيدِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "De familie kwam samen met het feest.",
+          "De familie ging uit elkaar.",
+          "De familie verhuisde."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِجْتَمَعَ} = samenkomen."
+      },
+      {
+        "type": "luisteren",
+        "tag": "vorm-7-8",
+        "tekst": "اِبْتَعِدْ عَنِ النّارِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Blijf weg van het vuur!",
+          "Kom dichter bij het vuur!",
+          "Doe het vuur uit!"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِبْتَعَدَ عَنْ} = zich verwijderen."
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-7-8",
+        "zin": "هَلْ ___ إِلى الأَخْبارِ؟",
+        "nl": "Heb je naar het nieuws geluisterd? (m)",
+        "woordbank": [
+          "اِسْتَمَعْتَ",
+          "سَمِعْتَ",
+          "تَسْتَمِعُ"
+        ],
+        "antwoord": [
+          "اِسْتَمَعْتَ"
+        ],
+        "uitleg": "{ar|اِسْتَمَعَ إِلى}; jij (m) māḍī.",
+        "eind": true
+      },
+      {
+        "type": "invullen",
+        "tag": "vorm-7-8",
+        "zin": "الطَّريقُ ___ صَباحًا.",
+        "nl": "De weg is 's ochtends druk.",
+        "woordbank": [
+          "مُزْدَحِمٌ",
+          "مُزْتَحِمٌ",
+          "زاحِمٌ"
+        ],
+        "antwoord": [
+          "مُزْدَحِمٌ"
+        ],
+        "uitleg": "Deelwoord vorm VIII met assimilatie: د."
+      },
+      {
+        "type": "vervoegen",
+        "tag": "vorm-7-8",
+        "instructie": "Vervoeg اِجْتَمَعَ / يَجْتَمِعُ.",
+        "rijen": [
+          {
+            "label": "wij (māḍī)",
+            "antwoord": "اِجْتَمَعْنا",
+            "tr": "ijtamaʿnā"
+          },
+          {
+            "label": "zij (m mv) (muḍāriʿ)",
+            "antwoord": "يَجْتَمِعونَ",
+            "tr": "yajtamiʿūna"
+          }
+        ],
+        "uitleg": "Vorm VIII."
+      },
+      {
+        "type": "ordenen",
+        "tag": "vorm-7-8",
+        "nl": "De stroom viel uit in de hele wijk.",
+        "woorden": [
+          "اِنْقَطَعَتِ",
+          "الكَهْرَباءُ",
+          "في",
+          "الحَيِّ",
+          "كُلِّهِ."
+        ],
+        "uitleg": "Vorm VII."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "vorm-7-8",
+        "bron": "De deur brak.",
+        "antwoorden": [
+          "اِنْكَسَرَ البابُ"
+        ],
+        "uitleg": "Vorm VII."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "woordenschat",
+        "bron": "de buren",
+        "antwoorden": [
+          "الجيرانُ"
+        ],
+        "uitleg": "{ar|الجيرانُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "vorm-7-8",
+        "bron": "يَقْتَرِبُ القِطارُ مِنَ المَحَطَّةِ.",
+        "antwoorden": [
+          "de trein nadert het station",
+          "de trein komt dichter bij het station"
+        ],
+        "uitleg": "{ar|اِقْتَرَبَ مِنْ} = naderen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "id": "j2-p7-l74",
+  "code": "L74",
+  "type": "les",
+  "titel": "Onderweg",
+  "thema": "Op weg zijn, wachten, aankomen; het actief deelwoord",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "het actief deelwoord (فاعِل / مُفْعِل …) vormen.",
+    "het deelwoord gebruiken als zelfstandig naamwoord, bijvoeglijk naamwoord en met werkwoordelijke betekenis.",
+    "vertellen waar je mee bezig bent of waarheen je op weg bent (أَنا ذاهِبٌ إِلى …)."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p7-l74-w01",
+      "ar": "ذاهِبٌ",
+      "tr": "ḏāhib",
+      "nl": [
+        "op weg (naar)",
+        "gaand"
+      ],
+      "soort": "actief deelwoord",
+      "notitie": "{ar|أَنا ذاهِبٌ إِلى السّوقِ} = ik ben op weg naar de markt."
+    },
+    {
+      "id": "j2-p7-l74-w02",
+      "ar": "راجِعٌ",
+      "tr": "rājiʿ",
+      "nl": [
+        "terugkerend",
+        "op de terugweg"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w03",
+      "ar": "قادِمٌ مِنْ",
+      "tr": "qādimun min",
+      "nl": [
+        "komend uit",
+        "afkomstig van"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w04",
+      "ar": "راكِبٌ",
+      "tr": "rākib",
+      "nl": [
+        "passagier",
+        "rijdend"
+      ],
+      "soort": "actief deelwoord",
+      "notitie": "Meervoud: {ar|رُكّابٌ}."
+    },
+    {
+      "id": "j2-p7-l74-w05",
+      "ar": "واقِفٌ",
+      "tr": "wāqif",
+      "nl": [
+        "staand"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w06",
+      "ar": "جالِسٌ",
+      "tr": "jālis",
+      "nl": [
+        "zittend"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w07",
+      "ar": "نائِمٌ",
+      "tr": "nāʾim",
+      "nl": [
+        "slapend"
+      ],
+      "soort": "actief deelwoord",
+      "notitie": "Hol werkwoord: de middelste letter wordt ئ."
+    },
+    {
+      "id": "j2-p7-l74-w08",
+      "ar": "ماشٍ",
+      "tr": "māšin",
+      "nl": [
+        "lopend"
+      ],
+      "soort": "actief deelwoord",
+      "notitie": "Defectief: {ar|الماشي}."
+    },
+    {
+      "id": "j2-p7-l74-w09",
+      "ar": "مُنْتَظِرٌ",
+      "tr": "muntaẓir",
+      "nl": [
+        "wachtend"
+      ],
+      "soort": "actief deelwoord (VIII)"
+    },
+    {
+      "id": "j2-p7-l74-w10",
+      "ar": "عارِفٌ",
+      "tr": "ʿārif",
+      "nl": [
+        "wetend",
+        "kenner"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w11",
+      "ar": "فاهِمٌ",
+      "tr": "fāhim",
+      "nl": [
+        "begrijpend"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w12",
+      "ar": "نازِلٌ",
+      "tr": "nāzil",
+      "nl": [
+        "uitstappend",
+        "naar beneden gaand"
+      ],
+      "soort": "actief deelwoord"
+    },
+    {
+      "id": "j2-p7-l74-w13",
+      "ar": "مَحَطَّةُ الحافِلاتِ",
+      "tr": "maḥaṭṭatu l-ḥāfilāt",
+      "nl": [
+        "busstation"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l74-w14",
+      "ar": "زَحْمَةُ السَّيْرِ",
+      "tr": "zaḥmatu s-sayr",
+      "nl": [
+        "verkeersdrukte",
+        "file"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p7-l74-w15",
+      "ar": "في الطَّريقِ",
+      "tr": "fi ṭ-ṭarīq",
+      "nl": [
+        "onderweg"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j2-p7-l74-w16",
+      "ar": "مُسْتَعْجِلٌ",
+      "tr": "mustaʿjil",
+      "nl": [
+        "gehaast"
+      ],
+      "soort": "actief deelwoord (X)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Het actief deelwoord",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Vorm I: **فاعِل** ({ar|ذاهِبٌ}، {ar|جالِسٌ}). Afgeleide vormen: **مُـ + muḍāriʿ-stam** ({ar|مُنْتَظِرٌ}، {ar|مُسْتَعْجِلٌ}).",
+            "Het deelwoord is een **naamwoord**: het verbuigt naar naamval, geslacht en getal ({ar|ذاهِبَةٌ}، {ar|ذاهِبونَ})."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Gebruik",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "zelfstandig naamwoord",
+              "الرّاكِبُ",
+              "de passagier"
+            ],
+            [
+              "bijvoeglijk naamwoord",
+              "رَجُلٌ واقِفٌ",
+              "een staande man"
+            ],
+            [
+              "werkwoordelijk (nu bezig)",
+              "أَنا ذاهِبٌ إِلى العَمَلِ.",
+              "ik ben op weg naar mijn werk"
+            ],
+            [
+              "werkwoordelijk (resultaat)",
+              "هُوَ راجِعٌ مِنَ السَّفَرِ.",
+              "hij is terug van reis"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom een deelwoord in plaats van een werkwoord? Bij werkwoorden van **beweging en houding** ({ar|ذاهِبٌ}، {ar|جالِسٌ}، {ar|نائِمٌ}) beschrijft het deelwoord een **toestand nu**, zoals het Nederlandse *ik ben op weg*. {ar|أَذْهَبُ} betekent eerder *ik ga (gewoonlijk)*. Daarom hoor je in gesprekken vaak {ar|أَنا ذاهِبٌ}."
+        },
+        {
+          "type": "letop",
+          "md": "Bij **holle** werkwoorden wordt de middelste letter **ئ**: {ar|نامَ} → {ar|نائِمٌ}، {ar|قالَ} → {ar|قائِلٌ}. Bij **defectieve** valt de laatste weg: {ar|ماشٍ} (met lidwoord {ar|الماشي})."
+        }
+      ]
+    },
+    {
+      "titel": "Onderweg",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "أَنا في الطَّريقِ، أَنا قادِمٌ!",
+              "tr": "ana fi ṭ-ṭarīq, ana qādim!",
+              "nl": "Ik ben onderweg, ik kom eraan!"
+            },
+            {
+              "ar": "كانَ الرُّكّابُ واقِفينَ في الحافِلَةِ.",
+              "tr": "kāna r-rukkābu wāqifīna fi l-ḥāfila.",
+              "nl": "De passagiers stonden in de bus."
+            },
+            {
+              "ar": "هَلْ أَنْتِ ذاهِبَةٌ إِلى المَحَطَّةِ؟",
+              "tr": "hal anti ḏāhibatun ila l-maḥaṭṭa?",
+              "nl": "Ga jij (v) naar het station?"
+            },
+            {
+              "ar": "الأَطْفالُ نائِمونَ في السَّيّارَةِ.",
+              "tr": "al-aṭfālu nāʾimūna fi s-sayyāra.",
+              "nl": "De kinderen slapen in de auto."
+            },
+            {
+              "ar": "آسِفٌ، أَنا مُسْتَعْجِلٌ.",
+              "tr": "āsifun, ana mustaʿjil.",
+              "nl": "Sorry, ik heb haast."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "actief-deelwoord",
+          "paren": [
+            {
+              "ar": "ذاهِبٌ",
+              "nl": "op weg",
+              "woord": "j2-p7-l74-w01"
+            },
+            {
+              "ar": "راجِعٌ",
+              "nl": "terugkerend",
+              "woord": "j2-p7-l74-w02"
+            },
+            {
+              "ar": "واقِفٌ",
+              "nl": "staand",
+              "woord": "j2-p7-l74-w05"
+            },
+            {
+              "ar": "جالِسٌ",
+              "nl": "zittend",
+              "woord": "j2-p7-l74-w06"
+            },
+            {
+              "ar": "نائِمٌ",
+              "nl": "slapend",
+              "woord": "j2-p7-l74-w07"
+            },
+            {
+              "ar": "مُسْتَعْجِلٌ",
+              "nl": "gehaast",
+              "woord": "j2-p7-l74-w16"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "actief-deelwoord",
+          "tekst": "أَنا ذاهِبٌ إِلى العَمَلِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik ben op weg naar mijn werk.",
+            "Ik ga nooit naar mijn werk.",
+            "Ik kom van mijn werk."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|ذاهِبٌ} = op weg."
+        }
+      ]
+    },
+    {
+      "titel": "Deelwoorden",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "actief-deelwoord",
+          "instructie": "Maak het actief deelwoord.",
+          "rijen": [
+            {
+              "label": "رَكِبَ",
+              "antwoord": "راكِبٌ",
+              "tr": "rākib"
+            },
+            {
+              "label": "نامَ (hol)",
+              "antwoord": "نائِمٌ",
+              "tr": "nāʾim"
+            },
+            {
+              "label": "اِنْتَظَرَ (VIII)",
+              "antwoord": "مُنْتَظِرٌ",
+              "tr": "muntaẓir"
+            }
+          ],
+          "uitleg": "فاعِل / مُـ + stam."
+        },
+        {
+          "type": "invullen",
+          "tag": "actief-deelwoord",
+          "zin": "هَلْ أَنْتِ ___ إِلى السّوقِ؟",
+          "nl": "Ben jij (v) op weg naar de markt?",
+          "woordbank": [
+            "ذاهِبَةٌ",
+            "ذاهِبٌ",
+            "ذاهِبونَ"
+          ],
+          "antwoord": [
+            "ذاهِبَةٌ"
+          ],
+          "uitleg": "Deelwoord congrueert: vrouwelijk."
+        },
+        {
+          "type": "invullen",
+          "tag": "actief-deelwoord",
+          "zin": "الأَطْفالُ ___ الآنَ.",
+          "nl": "De kinderen slapen nu.",
+          "woordbank": [
+            "نائِمونَ",
+            "نائِمٌ",
+            "نائِمَةٌ"
+          ],
+          "antwoord": [
+            "نائِمونَ"
+          ],
+          "uitleg": "Mensen meervoud."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "actief-deelwoord",
+          "vraag": "Wat is het verschil tussen {ar|أَذْهَبُ} en {ar|أَنا ذاهِبٌ}?",
+          "opties": [
+            "ذاهِبٌ = ik ben nu op weg; أَذْهَبُ = ik ga (gewoonlijk)",
+            "Er is geen verschil.",
+            "ذاهِبٌ is verleden tijd."
+          ],
+          "juist": 0,
+          "uitleg": "Deelwoord = toestand nu."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "actief-deelwoord",
+          "vraag": "Het actief deelwoord van {ar|قالَ} is ...",
+          "opties": [
+            "قائِلٌ",
+            "قاوِلٌ",
+            "مَقولٌ"
+          ],
+          "juist": 0,
+          "uitleg": "Hol → ئ."
+        }
+      ]
+    },
+    {
+      "titel": "Op weg",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "actief-deelwoord",
+          "nl": "De passagiers stonden in de bus.",
+          "woorden": [
+            "كانَ",
+            "الرُّكّابُ",
+            "واقِفينَ",
+            "في",
+            "الحافِلَةِ."
+          ],
+          "uitleg": "Na {ar|كانَ}: accusatief ({ar|واقِفينَ})."
+        },
+        {
+          "type": "luisteren",
+          "tag": "woordenschat",
+          "tekst": "هُناكَ زَحْمَةُ سَيْرٍ كَبيرَةٌ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Er is veel verkeer.",
+            "Er is geen verkeer.",
+            "De bus is te laat."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|زَحْمَةُ السَّيْرِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "actief-deelwoord",
+          "bron": "Ik ben onderweg.",
+          "antwoorden": [
+            "أَنا في الطَّريقِ"
+          ],
+          "uitleg": "{ar|في الطَّريقِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "actief-deelwoord",
+          "bron": "أَنا راجِعٌ مِنَ المَطارِ.",
+          "antwoorden": [
+            "ik ben op de terugweg van het vliegveld",
+            "ik kom terug van het vliegveld",
+            "ik ben op weg terug van het vliegveld"
+          ],
+          "uitleg": "{ar|راجِعٌ}"
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "راكِبٌ",
+            "nl": "passagier"
+          },
+          {
+            "ar": "مَحَطَّةُ الحافِلاتِ",
+            "nl": "busstation"
+          },
+          {
+            "ar": "نازِلٌ",
+            "nl": "uitstappend"
+          },
+          {
+            "ar": "فاهِمٌ",
+            "nl": "begrijpend"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "'Ik (v) ben op weg' is ...",
+        "opties": [
+          "أَنا ذاهِبَةٌ",
+          "أَنا ذاهِبٌ",
+          "أَنا ذَهَبْتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Vrouwelijk deelwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "Het actief deelwoord van {ar|اِسْتَعْجَلَ} is ...",
+        "opties": [
+          "مُسْتَعْجِلٌ",
+          "مُسْتَعْجَلٌ",
+          "اِسْتِعْجالٌ"
+        ],
+        "juist": 0,
+        "uitleg": "مُـ + stam met i."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "Wat betekent {ar|الماشي}?",
+        "opties": [
+          "de voetganger (de lopende)",
+          "het lopen",
+          "de weg"
+        ],
+        "juist": 0,
+        "uitleg": "Defectief deelwoord met lidwoord."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "actief-deelwoord",
+        "vraag": "'Zij (m mv) zitten' (nu) is ...",
+        "opties": [
+          "هُمْ جالِسونَ",
+          "هُمْ جالِسٌ",
+          "هُمْ جالِسَةٌ"
+        ],
+        "juist": 0,
+        "uitleg": "Mensen meervoud."
+      },
+      {
+        "type": "luisteren",
+        "tag": "actief-deelwoord",
+        "tekst": "أَنا قادِمٌ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik kom eraan.",
+          "Ik ga weg.",
+          "Ik ben er al."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قادِمٌ} = komend."
+      },
+      {
+        "type": "luisteren",
+        "tag": "actief-deelwoord",
+        "tekst": "نَحْنُ مُنْتَظِرونَ في المَحَطَّةِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We wachten op het station.",
+          "We komen aan op het station.",
+          "We vertrekken van het station."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مُنْتَظِرونَ}"
+      },
+      {
+        "type": "invullen",
+        "tag": "actief-deelwoord",
+        "zin": "الرَّجُلُ ___ أَمامَ البابِ.",
+        "nl": "De man staat voor de deur.",
+        "woordbank": [
+          "واقِفٌ",
+          "واقِفَةٌ",
+          "واقِفونَ"
+        ],
+        "antwoord": [
+          "واقِفٌ"
+        ],
+        "uitleg": "Deelwoord, mannelijk enkelvoud."
+      },
+      {
+        "type": "invullen",
+        "tag": "actief-deelwoord",
+        "zin": "آسِفٌ، أَنا ___.",
+        "nl": "Sorry, ik heb haast.",
+        "woordbank": [
+          "مُسْتَعْجِلٌ",
+          "نائِمٌ",
+          "جالِسٌ"
+        ],
+        "antwoord": [
+          "مُسْتَعْجِلٌ"
+        ],
+        "uitleg": "{ar|مُسْتَعْجِلٌ}"
+      },
+      {
+        "type": "vervoegen",
+        "tag": "actief-deelwoord",
+        "instructie": "Maak het actief deelwoord.",
+        "rijen": [
+          {
+            "label": "رَجَعَ",
+            "antwoord": "راجِعٌ",
+            "tr": "rājiʿ"
+          },
+          {
+            "label": "جَلَسَ",
+            "antwoord": "جالِسٌ",
+            "tr": "jālis"
+          }
+        ],
+        "uitleg": "فاعِل"
+      },
+      {
+        "type": "ordenen",
+        "tag": "actief-deelwoord",
+        "nl": "Ik ben onderweg, ik kom eraan!",
+        "woorden": [
+          "أَنا",
+          "في",
+          "الطَّريقِ،",
+          "أَنا",
+          "قادِمٌ!"
+        ],
+        "uitleg": "Deelwoord = nu."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "actief-deelwoord",
+        "bron": "de passagiers",
+        "antwoorden": [
+          "الرُّكّابُ"
+        ],
+        "uitleg": "Meervoud van {ar|راكِبٌ}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "actief-deelwoord",
+        "bron": "الأَطْفالُ نائِمونَ.",
+        "antwoorden": [
+          "de kinderen slapen",
+          "de kinderen liggen te slapen"
+        ],
+        "uitleg": "Deelwoord."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "actief-deelwoord",
+        "bron": "هَلْ أَنْتَ ذاهِبٌ إِلى المَحَطَّةِ؟",
+        "antwoorden": [
+          "ga je naar het station",
+          "ben je op weg naar het station",
+          "ga jij naar het station"
+        ],
+        "uitleg": "{ar|ذاهِبٌ}"
+      }
+    ]
+  }
+}

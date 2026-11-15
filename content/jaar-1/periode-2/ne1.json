@@ -1,0 +1,96 @@
+{
+  "id": "j1-p2-ne1",
+  "code": "NE1",
+  "type": "evaluatie",
+  "titel": "Niveau-evaluatie A1−",
+  "thema": "Ben je klaar voor periode 3? Lezen, luisteren, grammatica en woordenschat van jaar 1, periode 1 en 2",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Lezen:** korte teksten over jezelf, familie en dagelijks leven begrijpen.",
+    "**Luisteren:** korte zinnen, getallen, tijden en vragen verstaan.",
+    "**Grammatica:** nominale zin, iḍāfa, naamvallen, muḍāriʿ, ontkenning en vraagwoorden.",
+    "**Woordenschat:** de thema's van periode 1 en 2.",
+    "Advies: ga door naar periode 3 als je in totaal 70% haalt én geen onderdeel onder 60% scoort. Zie de uitslag per onderdeel. Transliteratie staat hier standaard uit."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Lees de tekst. Waar komt Youssef vandaan?", "ar": "اِسْمي يوسُفُ. أَنا مِنَ المَغْرِبِ وَأَسْكُنُ في هولَنْدا. عُمْري اِثْنانِ وَعِشْرونَ عامًا. أَنا طالِبٌ في الجامِعَةِ. عِنْدي أَخٌ وَأُخْتٌ.",
+        "opties": ["uit Marokko", "uit Nederland", "uit Egypte"], "juist": 0, "uitleg": "{ar|أَنا مِنَ المَغْرِبِ}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Dezelfde tekst. Waar woont hij?", "ar": "اِسْمي يوسُفُ. أَنا مِنَ المَغْرِبِ وَأَسْكُنُ في هولَنْدا. عُمْري اِثْنانِ وَعِشْرونَ عامًا. أَنا طالِبٌ في الجامِعَةِ. عِنْدي أَخٌ وَأُخْتٌ.",
+        "opties": ["in Nederland", "in Marokko", "aan de universiteit"], "juist": 0, "uitleg": "{ar|أَسْكُنُ في هولَنْدا}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Dezelfde tekst. Hoe oud is hij?", "ar": "اِسْمي يوسُفُ. أَنا مِنَ المَغْرِبِ وَأَسْكُنُ في هولَنْدا. عُمْري اِثْنانِ وَعِشْرونَ عامًا. أَنا طالِبٌ في الجامِعَةِ. عِنْدي أَخٌ وَأُخْتٌ.",
+        "opties": ["22", "20", "12", "32"], "juist": 0, "uitleg": "{ar|اِثْنانِ وَعِشْرونَ}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Dezelfde tekst. Welke uitspraak klopt?", "ar": "اِسْمي يوسُفُ. أَنا مِنَ المَغْرِبِ وَأَسْكُنُ في هولَنْدا. عُمْري اِثْنانِ وَعِشْرونَ عامًا. أَنا طالِبٌ في الجامِعَةِ. عِنْدي أَخٌ وَأُخْتٌ.",
+        "opties": ["Hij heeft een broer en een zus.", "Hij is leraar.", "Hij heeft twee zussen."], "juist": 0, "uitleg": "{ar|عِنْدي أَخٌ وَأُخْتٌ}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Lees de tekst. Waar eet de familie op zondag?", "ar": "يَوْمَ الأَحَدِ نَأْكُلُ الغَداءَ في بَيْتِ جَدّي. جَدَّتي تَطْبُخُ الدَّجاجَ وَالأَرُزَّ. بَعْدَ الغَداءِ نَشْرَبُ الشّايَ في الحَديقَةِ.",
+        "opties": ["bij opa thuis", "in een restaurant", "in de tuin van de buren"], "juist": 0, "uitleg": "{ar|في بَيْتِ جَدّي}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Dezelfde tekst. Wie kookt?", "ar": "يَوْمَ الأَحَدِ نَأْكُلُ الغَداءَ في بَيْتِ جَدّي. جَدَّتي تَطْبُخُ الدَّجاجَ وَالأَرُزَّ. بَعْدَ الغَداءِ نَشْرَبُ الشّايَ في الحَديقَةِ.",
+        "opties": ["oma", "opa", "de verteller"], "juist": 0, "uitleg": "{ar|جَدَّتي تَطْبُخُ}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Dezelfde tekst. Wat doen ze na de lunch?", "ar": "يَوْمَ الأَحَدِ نَأْكُلُ الغَداءَ في بَيْتِ جَدّي. جَدَّتي تَطْبُخُ الدَّجاجَ وَالأَرُزَّ. بَعْدَ الغَداءِ نَشْرَبُ الشّايَ في الحَديقَةِ.",
+        "opties": ["thee drinken in de tuin", "koffie drinken in de keuken", "naar huis gaan"], "juist": 0, "uitleg": "{ar|نَشْرَبُ الشّايَ في الحَديقَةِ}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Lees het bord. Wanneer is het restaurant open?", "ar": "المَطْعَمُ مَفْتوحٌ مِنَ السّاعَةِ الثّانِيَةَ عَشْرَةَ إِلى السّاعَةِ العاشِرَةِ مَساءً. الوَجْبَةُ بِخَمْسينَ دِرْهَمًا.",
+        "opties": ["van 12 uur tot 10 uur 's avonds", "van 10 uur tot 12 uur", "van 2 uur tot 10 uur"], "juist": 0, "uitleg": "{ar|مَفْتوحٌ} = open; {ar|مِنْ ... إِلى} = van ... tot." },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Hetzelfde bord. Wat kost een maaltijd?", "ar": "المَطْعَمُ مَفْتوحٌ مِنَ السّاعَةِ الثّانِيَةَ عَشْرَةَ إِلى السّاعَةِ العاشِرَةِ مَساءً. الوَجْبَةُ بِخَمْسينَ دِرْهَمًا.",
+        "opties": ["50 dirham", "15 dirham", "500 dirham"], "juist": 0, "uitleg": "{ar|بِخَمْسينَ دِرْهَمًا}" },
+      { "type": "meerkeuze", "tag": "ne-lezen", "vraag": "Lees het bericht. Waarom komt Sara niet?", "ar": "مَرْحَبًا يا مَرْيَمُ، لا أَذْهَبُ إِلى المَدْرَسَةِ اليَوْمَ لِأَنَّني مَريضَةٌ. عِنْدي صُداعٌ. مَعَ السَّلامَةِ، سارَةُ.",
+        "opties": ["Ze is ziek en heeft hoofdpijn.", "Ze heeft geen tijd.", "Ze heeft een afspraak."], "juist": 0, "uitleg": "{ar|لِأَنَّني مَريضَةٌ}" },
+
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "عِنْدي ثَلاثَةُ أَطْفالٍ", "vraag": "Hoeveel kinderen heeft de spreker?", "opties": ["3", "2", "13", "30"], "juist": 0, "uitleg": "{ar|ثَلاثَةُ}" },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "الدَّرْسُ يَوْمَ الثُّلاثاءِ في السّاعَةِ الرّابِعَةِ", "vraag": "Wanneer is de les?", "opties": ["dinsdag om 4 uur", "donderdag om 4 uur", "dinsdag om 3 uur", "woensdag om 4 uur"], "juist": 0, "uitleg": "{ar|الثُّلاثاءِ} + {ar|الرّابِعَةِ}" },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "هَلْ تُريدِينَ قَهْوَةً أَوْ شايًا؟", "vraag": "Wat wordt er gevraagd?", "opties": ["Wil je koffie of thee?", "Drink je koffie met suiker?", "Waar is de thee?"], "juist": 0, "uitleg": "{ar|أَوْ} = of." },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "السَّيّارَةُ الحَمْراءُ لِأَبي", "vraag": "Wat hoor je?", "opties": ["De rode auto is van mijn vader.", "Mijn vader heeft een rode fiets.", "De auto van mijn vader is wit."], "juist": 0, "uitleg": "{ar|لِأَبي} = van mijn vader." },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "بِكَمْ هٰذا؟ بِخَمْسَةٍ وَثَلاثينَ دِرْهَمًا", "vraag": "Wat kost het?", "opties": ["35 dirham", "53 dirham", "15 dirham", "25 dirham"], "juist": 0, "uitleg": "5 + 30." },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "نَحْنُ لا نَعْمَلُ يَوْمَ الجُمُعَةِ", "vraag": "Wat hoor je?", "opties": ["Wij werken niet op vrijdag.", "Wij werken op vrijdag.", "Zij werken niet op zaterdag."], "juist": 0, "uitleg": "{ar|لا نَعْمَلُ}" },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "أَيْنَ مِفْتاحُ البَيْتِ؟ عَلى الطّاوِلَةِ", "vraag": "Waar is de sleutel?", "opties": ["op de tafel", "onder de tafel", "in de tas"], "juist": 0, "uitleg": "{ar|عَلى الطّاوِلَةِ}" },
+      { "type": "luisteren", "tag": "ne-luisteren", "tekst": "أُخْتي طَبيبَةٌ وَزَوْجُها مُهَنْدِسٌ", "vraag": "Wat hoor je?", "opties": ["Mijn zus is arts en haar man is ingenieur.", "Mijn broer is arts en zijn vrouw ingenieur.", "Mijn zus is ingenieur."], "juist": 0, "uitleg": "{ar|زَوْجُها} = haar man." },
+
+      { "type": "meerkeuze", "tag": "ne-grammatica", "vraag": "Welke zin betekent 'Het nieuwe huis is groot'?", "opties": ["البَيْتُ الجَديدُ كَبيرٌ.", "البَيْتُ جَديدٌ كَبيرٌ.", "بَيْتٌ الجَديدُ الكَبيرُ."], "juist": 0, "uitleg": "Woordgroep + gezegde." },
+      { "type": "meerkeuze", "tag": "ne-grammatica", "vraag": "'Zij is geen lerares' is ...", "opties": ["هِيَ لَيْسَتْ مُعَلِّمَةً.", "هِيَ لا مُعَلِّمَةٌ.", "هِيَ لَيْسَ مُعَلِّمَةٌ."], "juist": 0, "uitleg": "{ar|لَيْسَتْ} + accusatief." },
+      { "type": "meerkeuze", "tag": "ne-grammatica", "vraag": "Welke iḍāfa is juist?", "opties": ["غُرْفَةُ أُخْتي", "الغُرْفَةُ أُخْتي", "غُرْفَةٌ أُخْتي"], "juist": 0, "uitleg": "Eerste woord zonder ال en tanwīn." },
+      { "type": "meerkeuze", "tag": "ne-grammatica", "vraag": "'Jullie (m) schrijven' is ...", "opties": ["تَكْتُبونَ", "يَكْتُبونَ", "تَكْتُبْنَ"], "juist": 0, "uitleg": "تَـ ... ـونَ" },
+      { "type": "meerkeuze", "tag": "ne-grammatica", "vraag": "Welke vorm na {ar|في}?", "opties": ["في المَدينَةِ", "في المَدينَةُ", "في المَدينَةَ"], "juist": 0, "uitleg": "Genitief." },
+      { "type": "invullen", "tag": "ne-grammatica", "zin": "أُحِبُّ ___.", "nl": "Ik houd van het brood.", "woordbank": ["الخُبْزَ", "الخُبْزُ", "الخُبْزِ"], "antwoord": ["الخُبْزَ"], "uitleg": "Lijdend voorwerp: accusatief." },
+      { "type": "invullen", "tag": "ne-grammatica", "zin": "___ تَأْكُلُ؟", "nl": "Wat eet je?", "woordbank": ["ماذا", "ما", "مَنْ"], "antwoord": ["ماذا"], "uitleg": "Vóór een werkwoord." },
+      { "type": "invullen", "tag": "ne-grammatica", "zin": "عِنْدي ___ جَديدَةٌ.", "nl": "Ik heb een nieuwe tas.", "woordbank": ["حَقيبَةٌ", "الحَقيبَةُ", "حَقيبَةً"], "antwoord": ["حَقيبَةٌ"], "uitleg": "Onbepaald onderwerp na {ar|عِنْدي}." },
+      { "type": "vervoegen", "tag": "ne-grammatica", "instructie": "Vul de juiste vorm in.",
+        "rijen": [
+          { "label": "jij (v) studeert", "antwoord": "تَدْرُسِينَ", "tr": "tadrusīna" },
+          { "label": "zij (v mv) werken", "antwoord": "يَعْمَلْنَ", "tr": "yaʿmalna" },
+          { "label": "mijn familie", "antwoord": "عائِلَتي", "tr": "ʿāʾilatī" },
+          { "label": "zij is niet", "antwoord": "لَيْسَتْ", "tr": "laysat" }
+        ], "uitleg": "Muḍāriʿ, bezittelijk achtervoegsel en لَيْسَ." },
+      { "type": "ordenen", "tag": "ne-grammatica", "nl": "Hoeveel kamers zijn er in het huis?", "woorden": ["كَمْ", "غُرْفَةً", "في", "البَيْتِ؟"], "uitleg": "{ar|كَمْ} + enkelvoud accusatief." },
+      { "type": "ordenen", "tag": "ne-grammatica", "nl": "Ik ga niet naar het werk omdat het vrijdag is.", "woorden": ["لا", "أَذْهَبُ", "إِلى", "العَمَلِ", "لِأَنَّ", "اليَوْمَ", "الجُمُعَةُ."], "uitleg": "{ar|لِأَنَّ اليَوْمَ الجُمُعَةُ}: na {ar|لِأَنَّ} accusatief ({ar|اليَوْمَ})." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ne-grammatica", "bron": "Wij wonen in een klein appartement.", "antwoorden": ["نَسْكُنُ في شَقَّةٍ صَغيرَةٍ", "نَحْنُ نَسْكُنُ في شَقَّةٍ صَغيرَةٍ"], "uitleg": "Na {ar|في}: genitief, ook op het bijvoeglijk naamwoord." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ne-grammatica", "bron": "Hoe laat is het?", "antwoorden": ["كَمِ السّاعَةُ؟"], "uitleg": "{ar|كَمِ السّاعَةُ؟}" },
+
+      { "type": "koppelen", "tag": "ne-woordenschat", "paren": [
+        { "ar": "مَطْبَخٌ", "nl": "keuken" },
+        { "ar": "جَدَّةٌ", "nl": "oma" },
+        { "ar": "أَخْضَرُ", "nl": "groen" },
+        { "ar": "قَهْوَةٌ", "nl": "koffie" },
+        { "ar": "الخَميسُ", "nl": "donderdag" },
+        { "ar": "مُتْعَبٌ", "nl": "moe" }
+      ], "uitleg": "Woordenschat uit periode 1 en 2." },
+      { "type": "koppelen", "tag": "ne-woordenschat", "paren": [
+        { "ar": "مَدْرَسَةٌ", "nl": "school" },
+        { "ar": "شَمْسٌ", "nl": "zon" },
+        { "ar": "حافِلَةٌ", "nl": "bus" },
+        { "ar": "رَخيصٌ", "nl": "goedkoop" },
+        { "ar": "طَبيبٌ", "nl": "arts" }
+      ], "uitleg": "Woordenschat uit periode 1 en 2." },
+      { "type": "meerkeuze", "tag": "ne-woordenschat", "vraag": "Wat betekent {ar|عَفْوًا} als antwoord op {ar|شُكْرًا}?", "opties": ["graag gedaan", "sorry", "tot ziens"], "juist": 0, "uitleg": "{ar|عَفْوًا}" },
+      { "type": "meerkeuze", "tag": "ne-woordenschat", "vraag": "Welk woord hoort niet in het rijtje?", "opties": ["سَريرٌ", "خُبْزٌ", "جُبْنٌ", "لَحْمٌ"], "juist": 0, "uitleg": "{ar|سَريرٌ} (bed) is geen eten." },
+      { "type": "meerkeuze", "tag": "ne-woordenschat", "vraag": "Het tegenovergestelde van {ar|كَبيرٌ} is ...", "opties": ["صَغيرٌ", "قَديمٌ", "جَميلٌ"], "juist": 0, "uitleg": "groot ↔ klein" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "ne-woordenschat", "bron": "نِهايَةُ الأُسْبوعِ", "antwoorden": ["het weekend", "weekend", "het einde van de week"], "uitleg": "Het weekend." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "ne-woordenschat", "bron": "غُرْفَةُ النَّوْمِ", "antwoorden": ["de slaapkamer", "slaapkamer"], "uitleg": "De slaapkamer." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ne-woordenschat", "bron": "dank je", "antwoorden": ["شُكْرًا"], "uitleg": "{ar|شُكْرًا}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "ne-woordenschat", "bron": "water", "antwoorden": ["ماءٌ", "ماء", "الماءُ"], "uitleg": "{ar|ماءٌ}" }
+    ]
+  }
+}

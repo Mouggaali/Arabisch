@@ -1,0 +1,824 @@
+{
+  "id": "j2-p5-l50",
+  "code": "L50",
+  "type": "les",
+  "titel": "Plannen en wensen",
+  "thema": "Wensen, doelen en voornemens uitdrukken",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de aanvoegende wijs (manṣūb) vormen in alle personen.",
+    "de manṣūb gebruiken na أَنْ، لَنْ، كَيْ، لِـ en حَتّى.",
+    "uitleggen waarom de ـنَ / ـنِ wegvalt bij vijf vormen.",
+    "over mijn plannen en doelen vertellen."
+  ],
+  "woorden": [
+    {
+      "id": "j2-p5-l50-w01",
+      "ar": "حاوَلَ",
+      "tr": "ḥāwala",
+      "nl": [
+        "proberen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُحاوِلُ}. {ar|حاوَلْتُ أَنْ …} = ik probeerde te …"
+    },
+    {
+      "id": "j2-p5-l50-w02",
+      "ar": "قَرَّرَ",
+      "tr": "qarrara",
+      "nl": [
+        "besluiten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُقَرِّرُ}."
+    },
+    {
+      "id": "j2-p5-l50-w03",
+      "ar": "اِسْتَطاعَ",
+      "tr": "istaṭāʿa",
+      "nl": [
+        "kunnen",
+        "in staat zijn"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَسْتَطيعُ}. {ar|أَسْتَطيعُ أَنْ} = ik kan."
+    },
+    {
+      "id": "j2-p5-l50-w04",
+      "ar": "خَطَّطَ لِـ",
+      "tr": "ḫaṭṭaṭa li-",
+      "nl": [
+        "plannen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُخَطِّطُ}."
+    },
+    {
+      "id": "j2-p5-l50-w05",
+      "ar": "أَمَلٌ",
+      "tr": "amal",
+      "nl": [
+        "hoop"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w06",
+      "ar": "طُموحٌ",
+      "tr": "ṭumūḥ",
+      "nl": [
+        "ambitie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w07",
+      "ar": "نَجاحٌ",
+      "tr": "najāḥ",
+      "nl": [
+        "succes"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Van {ar|نَجَحَ} (slagen)."
+    },
+    {
+      "id": "j2-p5-l50-w08",
+      "ar": "فُرْصَةٌ",
+      "tr": "furṣa",
+      "nl": [
+        "kans"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فُرَصٌ}."
+    },
+    {
+      "id": "j2-p5-l50-w10",
+      "ar": "مُسْتَحيلٌ",
+      "tr": "mustaḥīl",
+      "nl": [
+        "onmogelijk"
+      ],
+      "soort": "bijvoeglijk naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w11",
+      "ar": "وَفَّرَ",
+      "tr": "waffara",
+      "nl": [
+        "sparen",
+        "besparen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُوَفِّرُ}."
+    },
+    {
+      "id": "j2-p5-l50-w12",
+      "ar": "حَصَلَ عَلى",
+      "tr": "ḥaṣala ʿalā",
+      "nl": [
+        "krijgen",
+        "behalen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَحْصُلُ عَلى}."
+    },
+    {
+      "id": "j2-p5-l50-w13",
+      "ar": "شَهادَةٌ",
+      "tr": "šahāda",
+      "nl": [
+        "diploma",
+        "getuigschrift"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w14",
+      "ar": "رُخْصَةُ القِيادَةِ",
+      "tr": "ruḫṣatu l-qiyāda",
+      "nl": [
+        "rijbewijs"
+      ],
+      "soort": "iḍāfa"
+    },
+    {
+      "id": "j2-p5-l50-w15",
+      "ar": "لَنْ",
+      "tr": "lan",
+      "nl": [
+        "zal niet"
+      ],
+      "soort": "partikel",
+      "notitie": "Ontkenning van de toekomst: {ar|لَنْ أَذْهَبَ} = ik zal niet gaan."
+    },
+    {
+      "id": "j2-p5-l50-w16",
+      "ar": "كَيْ",
+      "tr": "kay",
+      "nl": [
+        "opdat",
+        "om te"
+      ],
+      "soort": "partikel",
+      "notitie": "Ook {ar|لِكَيْ}."
+    },
+    {
+      "id": "j2-p5-l50-w17",
+      "ar": "حَتّى",
+      "tr": "ḥattā",
+      "nl": [
+        "zodat",
+        "totdat",
+        "zelfs"
+      ],
+      "soort": "partikel"
+    },
+    {
+      "id": "j2-p5-l50-w18",
+      "ar": "مُسْتَوى",
+      "tr": "mustawā",
+      "nl": [
+        "niveau"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w19",
+      "ar": "غايَةٌ",
+      "tr": "ġāya",
+      "nl": [
+        "doel",
+        "einddoel"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j2-p5-l50-w20",
+      "ar": "خِلالَ",
+      "tr": "ḫilāla",
+      "nl": [
+        "tijdens",
+        "binnen (een periode)"
+      ],
+      "soort": "voorzetsel"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "De aanvoegende wijs (manṣūb)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": [
+            "Na bepaalde partikels krijgt de muḍāriʿ een andere vorm: de **manṣūb**. Je kent het al van {ar|أُريدُ أَنْ أَحْجِزَ}: de eind-**u** wordt **a**.",
+            "Bij de **vijf vormen** met ـونَ، ـينَ of ـانِ valt de uitgang **ـنَ / ـنِ** weg: {ar|يَكْتُبونَ} → {ar|أَنْ يَكْتُبوا}. Let op de stille alif, net als in {ar|كَتَبُوا}. Alleen de ـنَ van het vrouwelijk meervoud blijft staan."
+          ]
+        },
+        {
+          "type": "tabel",
+          "kop": [
+            "Persoon",
+            "Gewoon (marfūʿ)",
+            "Na أَنْ (manṣūb)"
+          ],
+          "arKolommen": [
+            1,
+            2
+          ],
+          "rijen": [
+            [
+              "ik",
+              "أَكْتُبُ",
+              "أَنْ أَكْتُبَ"
+            ],
+            [
+              "jij (v)",
+              "تَكْتُبينَ",
+              "أَنْ تَكْتُبي"
+            ],
+            [
+              "hij",
+              "يَكْتُبُ",
+              "أَنْ يَكْتُبَ"
+            ],
+            [
+              "jullie twee",
+              "تَكْتُبانِ",
+              "أَنْ تَكْتُبا"
+            ],
+            [
+              "zij twee (m)",
+              "يَكْتُبانِ",
+              "أَنْ يَكْتُبا"
+            ],
+            [
+              "wij",
+              "نَكْتُبُ",
+              "أَنْ نَكْتُبَ"
+            ],
+            [
+              "jullie (m)",
+              "تَكْتُبونَ",
+              "أَنْ تَكْتُبوا"
+            ],
+            [
+              "zij (m)",
+              "يَكْتُبونَ",
+              "أَنْ يَكْتُبوا"
+            ],
+            [
+              "zij (v)",
+              "يَكْتُبْنَ",
+              "أَنْ يَكْتُبْنَ"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Waarom valt die ـنَ weg? In de vijf vormen is de ـنَ / ـنِ zelf het teken van de gewone wijs, zoals de eind-u dat is bij {ar|يَكْتُبُ}. Verandert de wijs, dan verdwijnt dat teken. Bij {ar|يَكْتُبْنَ} hoort de ـنَ bij de **persoon** (vrouwelijk meervoud), niet bij de wijs; daarom blijft ze."
+        }
+      ]
+    },
+    {
+      "titel": "Vijf partikels",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Partikel",
+            "Betekenis",
+            "Voorbeeld"
+          ],
+          "arKolommen": [
+            0,
+            2
+          ],
+          "rijen": [
+            [
+              "أَنْ",
+              "dat, te",
+              "أُريدُ أَنْ أُسافِرَ.|urīdu an usāfira."
+            ],
+            [
+              "لَنْ",
+              "zal niet",
+              "لَنْ أَنْسى.|lan ansā."
+            ],
+            [
+              "كَيْ / لِكَيْ",
+              "opdat, om te",
+              "أَدْرُسُ كَيْ أَنْجَحَ.|adrusu kay anjaḥa."
+            ],
+            [
+              "لِـ",
+              "om te",
+              "جِئْتُ لِأَتَعَلَّمَ.|jiʾtu li-ataʿallama."
+            ],
+            [
+              "حَتّى",
+              "zodat, totdat",
+              "اِنْتَظِرْ حَتّى أَرْجِعَ.|intaẓir ḥattā arjiʿa."
+            ]
+          ]
+        },
+        {
+          "type": "letop",
+          "md": "{ar|لَنْ} is de ontkenning van de **toekomst**: {ar|سَأَذْهَبُ} (ik zal gaan) ↔ {ar|لَنْ أَذْهَبَ} (ik zal niet gaan). Dus nooit {ar|لَنْ} samen met {ar|سَـ}."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "قَرَّرْتُ أَنْ أَتَعَلَّمَ العَرَبِيَّةَ.",
+              "tr": "qarrartu an ataʿallama l-ʿarabiyya.",
+              "nl": "Ik heb besloten Arabisch te leren."
+            },
+            {
+              "ar": "أَدْرُسُ كُلَّ يَوْمٍ كَيْ أَنْجَحَ في الاِمْتِحانِ.",
+              "tr": "adrusu kulla yawmin kay anjaḥa fi l-imtiḥān.",
+              "nl": "Ik studeer elke dag om voor het examen te slagen."
+            },
+            {
+              "ar": "يُريدونَ أَنْ يُسافِروا إِلى المَغْرِبِ.",
+              "tr": "yurīdūna an yusāfirū ila l-Maġrib.",
+              "nl": "Ze willen naar Marokko reizen."
+            },
+            {
+              "ar": "لَنْ أَنْسى هٰذِهِ الرِّحْلَةَ.",
+              "tr": "lan ansā hāḏihi r-riḥla.",
+              "nl": "Ik zal deze reis nooit vergeten."
+            },
+            {
+              "ar": "أُوَفِّرُ المالَ لِأَشْتَرِيَ سَيّارَةً.",
+              "tr": "uwaffiru l-māla li-aštariya sayyāra.",
+              "nl": "Ik spaar geld om een auto te kopen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "حاوَلَ",
+              "nl": "proberen",
+              "woord": "j2-p5-l50-w01"
+            },
+            {
+              "ar": "قَرَّرَ",
+              "nl": "besluiten",
+              "woord": "j2-p5-l50-w02"
+            },
+            {
+              "ar": "فُرْصَةٌ",
+              "nl": "kans",
+              "woord": "j2-p5-l50-w08"
+            },
+            {
+              "ar": "نَجاحٌ",
+              "nl": "succes",
+              "woord": "j2-p5-l50-w07"
+            },
+            {
+              "ar": "شَهادَةٌ",
+              "nl": "diploma",
+              "woord": "j2-p5-l50-w13"
+            },
+            {
+              "ar": "مُسْتَحيلٌ",
+              "nl": "onmogelijk",
+              "woord": "j2-p5-l50-w10"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "mansub",
+          "tekst": "لَنْ أُسافِرَ هٰذا الصَّيْفَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik ga deze zomer niet reizen.",
+            "Ik reisde deze zomer niet.",
+            "Ik wil deze zomer reizen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَنْ} = zal niet."
+        }
+      ]
+    },
+    {
+      "titel": "Vormen",
+      "items": [
+        {
+          "type": "vervoegen",
+          "tag": "mansub",
+          "instructie": "Zet na أَنْ (manṣūb): يَذْهَبُ → أَنْ ...",
+          "rijen": [
+            {
+              "label": "hij",
+              "antwoord": "يَذْهَبَ",
+              "tr": "yaḏhaba",
+              "eind": true
+            },
+            {
+              "label": "jij (v)",
+              "antwoord": "تَذْهَبي",
+              "tr": "taḏhabī"
+            },
+            {
+              "label": "zij (m mv)",
+              "antwoord": "يَذْهَبوا",
+              "tr": "yaḏhabū"
+            },
+            {
+              "label": "jullie twee",
+              "antwoord": "تَذْهَبا",
+              "tr": "taḏhabā"
+            },
+            {
+              "label": "zij (v mv)",
+              "antwoord": "يَذْهَبْنَ",
+              "tr": "yaḏhabna"
+            }
+          ],
+          "uitleg": "-u → -a; ـونَ/ـينَ/ـانِ verliezen de ن; ـْنَ blijft."
+        },
+        {
+          "type": "invullen",
+          "tag": "mansub",
+          "zin": "يُريدُ الطُّلّابُ أَنْ ___ في الخارِجِ.",
+          "nl": "De studenten willen in het buitenland studeren.",
+          "woordbank": [
+            "يَدْرُسوا",
+            "يَدْرُسونَ",
+            "دَرَسوا"
+          ],
+          "antwoord": [
+            "يَدْرُسوا"
+          ],
+          "uitleg": "Na {ar|أَنْ} valt ـنَ weg."
+        },
+        {
+          "type": "invullen",
+          "tag": "mansub",
+          "zin": "هَلْ تُريدينَ أَنْ ___ مَعَنا؟",
+          "nl": "Wil jij (v) met ons mee eten?",
+          "woordbank": [
+            "تَأْكُلي",
+            "تَأْكُلينَ",
+            "أَكَلْتِ"
+          ],
+          "antwoord": [
+            "تَأْكُلي"
+          ],
+          "uitleg": "ـينَ → ـي"
+        },
+        {
+          "type": "invullen",
+          "tag": "lan",
+          "zin": "___ أَنْسى مُساعَدَتَكَ.",
+          "nl": "Ik zal je hulp nooit vergeten.",
+          "woordbank": [
+            "لَنْ",
+            "لا",
+            "ما"
+          ],
+          "antwoord": [
+            "لَنْ"
+          ],
+          "uitleg": "Toekomst ontkennen = {ar|لَنْ}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "lan",
+          "vraag": "'Ik zal niet gaan' is ...",
+          "opties": [
+            "لَنْ أَذْهَبَ",
+            "لَنْ سَأَذْهَبُ",
+            "لا سَأَذْهَبُ"
+          ],
+          "juist": 0,
+          "uitleg": "{ar|لَنْ} + manṣūb, zonder سَـ."
+        }
+      ]
+    },
+    {
+      "titel": "Doelen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "mansub",
+          "vraag": "Welke zin is juist? (Ze willen reizen.)",
+          "opties": [
+            "يُريدونَ أَنْ يُسافِروا.",
+            "يُريدونَ أَنْ يُسافِرونَ.",
+            "يُريدوا أَنْ يُسافِرونَ."
+          ],
+          "juist": 0,
+          "uitleg": "Alleen het werkwoord na {ar|أَنْ} verandert."
+        },
+        {
+          "type": "ordenen",
+          "tag": "mansub",
+          "nl": "Ik heb besloten Arabisch te leren.",
+          "woorden": [
+            "قَرَّرْتُ",
+            "أَنْ",
+            "أَتَعَلَّمَ",
+            "العَرَبِيَّةَ."
+          ],
+          "uitleg": "{ar|قَرَّرَ أَنْ}"
+        },
+        {
+          "type": "ordenen",
+          "tag": "mansub",
+          "nl": "Ik spaar geld om een auto te kopen.",
+          "woorden": [
+            "أُوَفِّرُ",
+            "المالَ",
+            "لِأَشْتَرِيَ",
+            "سَيّارَةً."
+          ],
+          "uitleg": "{ar|لِـ} + manṣūb = om te."
+        },
+        {
+          "type": "luisteren",
+          "tag": "mansub",
+          "tekst": "حاوَلْتُ أَنْ أَتَّصِلَ بِكَ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik probeerde je te bellen.",
+            "Ik heb je gebeld.",
+            "Ik ga je bellen."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|حاوَلَ أَنْ} = proberen te."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "lan",
+          "bron": "Ik zal niet reizen.",
+          "antwoorden": [
+            "لَنْ أُسافِرَ"
+          ],
+          "uitleg": "{ar|لَنْ أُسافِرَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "mansub",
+          "bron": "Wij willen leren.",
+          "antwoorden": [
+            "نُريدُ أَنْ نَتَعَلَّمَ"
+          ],
+          "uitleg": "{ar|نُريدُ أَنْ نَتَعَلَّمَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "mansub",
+          "bron": "أَسْتَطيعُ أَنْ أَقْرَأَ العَرَبِيَّةَ.",
+          "antwoorden": [
+            "ik kan arabisch lezen"
+          ],
+          "uitleg": "{ar|أَسْتَطيعُ أَنْ} = ik kan."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "mansub",
+          "bron": "حَصَلَتْ عَلى رُخْصَةِ القِيادَةِ.",
+          "antwoorden": [
+            "zij heeft haar rijbewijs gehaald",
+            "ze heeft haar rijbewijs gehaald",
+            "zij kreeg haar rijbewijs",
+            "zij heeft het rijbewijs gehaald",
+            "ze heeft haar rijbewijs gekregen"
+          ],
+          "uitleg": "{ar|حَصَلَ عَلى} = behalen."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "أَمَلٌ",
+            "nl": "hoop"
+          },
+          {
+            "ar": "طُموحٌ",
+            "nl": "ambitie"
+          },
+          {
+            "ar": "مُمْكِنٌ",
+            "nl": "mogelijk"
+          },
+          {
+            "ar": "مُسْتَوى",
+            "nl": "niveau"
+          },
+          {
+            "ar": "وَفَّرَ",
+            "nl": "sparen"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mansub",
+        "vraag": "Na {ar|أَنْ} wordt {ar|تَكْتُبونَ} ...",
+        "opties": [
+          "تَكْتُبوا",
+          "تَكْتُبونَ",
+          "تَكْتُبُ"
+        ],
+        "juist": 0,
+        "uitleg": "ـونَ → ـوا"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mansub",
+        "vraag": "Bij welke vorm blijft de ـنَ staan na {ar|أَنْ}?",
+        "opties": [
+          "يَكْتُبْنَ (zij v mv)",
+          "يَكْتُبونَ (zij m mv)",
+          "تَكْتُبينَ (jij v)"
+        ],
+        "juist": 0,
+        "uitleg": "De ـنَ van het vrouwelijk meervoud hoort bij de persoon."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "lan",
+        "vraag": "Wat betekent {ar|لَنْ نَنْسى}?",
+        "opties": [
+          "We zullen het niet vergeten.",
+          "We vergaten het niet.",
+          "We vergeten het niet."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَنْ} = zal niet."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "mansub",
+        "vraag": "Welk partikel betekent *om te / opdat*?",
+        "opties": [
+          "كَيْ",
+          "لَنْ",
+          "لَمْ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|كَيْ} / {ar|لِكَيْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "mansub",
+        "tekst": "قَرَّرْنا أَنْ نَبْقى في البَيْتِ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "We besloten thuis te blijven.",
+          "We bleven niet thuis.",
+          "We willen naar huis."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَرَّرَ أَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "lan",
+        "tekst": "لَنْ يَنْجَحَ بِدونِ دِراسَةٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Hij zal zonder studeren niet slagen.",
+          "Hij is zonder studeren geslaagd.",
+          "Hij slaagt altijd."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَنْ} + manṣūb."
+      },
+      {
+        "type": "invullen",
+        "tag": "mansub",
+        "zin": "يُحاوِلانِ أَنْ ___ العَرَبِيَّةَ.",
+        "nl": "Zij twee proberen Arabisch te spreken.",
+        "woordbank": [
+          "يَتَكَلَّما",
+          "يَتَكَلَّمانِ",
+          "تَكَلَّما"
+        ],
+        "antwoord": [
+          "يَتَكَلَّما"
+        ],
+        "uitleg": "ـانِ → ـا"
+      },
+      {
+        "type": "invullen",
+        "tag": "mansub",
+        "zin": "اِنْتَظِرْني حَتّى ___.",
+        "nl": "Wacht op me tot ik terugkom.",
+        "woordbank": [
+          "أَرْجِعَ",
+          "أَرْجِعُ",
+          "رَجَعْتُ"
+        ],
+        "antwoord": [
+          "أَرْجِعَ"
+        ],
+        "uitleg": "{ar|حَتّى} + manṣūb.",
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "mansub",
+        "instructie": "Zet na لَنْ (manṣūb): يَشْرَبُ → لَنْ ...",
+        "rijen": [
+          {
+            "label": "ik",
+            "antwoord": "أَشْرَبَ",
+            "tr": "ašraba",
+            "eind": true
+          },
+          {
+            "label": "jullie (m)",
+            "antwoord": "تَشْرَبوا",
+            "tr": "tašrabū"
+          },
+          {
+            "label": "jij (v)",
+            "antwoord": "تَشْرَبي",
+            "tr": "tašrabī"
+          }
+        ],
+        "uitleg": "-a; ـونَ → ـوا; ـينَ → ـي"
+      },
+      {
+        "type": "ordenen",
+        "tag": "mansub",
+        "nl": "Ze willen naar Marokko reizen.",
+        "woorden": [
+          "يُريدونَ",
+          "أَنْ",
+          "يُسافِروا",
+          "إِلى",
+          "المَغْرِبِ."
+        ],
+        "uitleg": "Manṣūb na {ar|أَنْ}."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "lan",
+        "bron": "Hij zal niet slagen.",
+        "antwoorden": [
+          "لَنْ يَنْجَحَ"
+        ],
+        "uitleg": "{ar|لَنْ يَنْجَحَ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "mansub",
+        "bron": "جِئْتُ لِأَتَعَلَّمَ.",
+        "antwoorden": [
+          "ik ben gekomen om te leren",
+          "ik kwam om te leren"
+        ],
+        "uitleg": "{ar|لِـ} = om te."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "mansub",
+        "bron": "مِنَ المُسْتَحيلِ أَنْ نَنْجَحَ.",
+        "antwoorden": [
+          "het is onmogelijk dat we slagen",
+          "het is onmogelijk om te slagen",
+          "het is onmogelijk dat wij slagen"
+        ],
+        "uitleg": "{ar|مِنَ المُسْتَحيلِ أَنْ} = het is onmogelijk dat."
+      }
+    ]
+  }
+}

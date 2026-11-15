@@ -1,0 +1,573 @@
+{
+  "id": "j3-p12-ne6",
+  "code": "NE6",
+  "type": "evaluatie",
+  "titel": "Niveau-evaluatie B1 (eindexamen)",
+  "thema": "Het B1-eindexamen: lezen, luisteren, grammatica en woordenschat van de hele cursus",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "**Lezen:** een nieuwsbericht en een persoonlijke brief zonder harakat begrijpen.",
+    "**Luisteren:** advies, voorwaarden, wijzigingen, toon en gevolgen verstaan.",
+    "**Grammatica:** de grammatica van de hele cursus, met nadruk op jaar 3.",
+    "**Woordenschat:** maatschappij, werk, wonen, erfgoed en communicatie.",
+    "Geslaagd voor B1 als je in totaal 70% haalt én geen onderdeel onder 60% scoort. Schrijven en spreken oefen je met de opdrachten van les 139, 140, 143 en 144."
+  ],
+  "woorden": [],
+  "grammatica": [],
+  "oefeningen": [],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees het bericht. Wat is het doel van het project in Fès?",
+        "ar": "أعلنت بلدية مدينة فاس عن مشروع جديد لترميم عدد من البيوت القديمة في المدينة العتيقة، التي تعد من أقدم المدن الإسلامية المحافظة على طابعها التاريخي. ويهدف المشروع إلى حماية التراث المعماري وتحسين ظروف عيش السكان، إذ إن كثيرا من هذه البيوت أصبحت مهددة بالانهيار. وأوضح المسؤولون أن الأشغال ستستمر ثلاث سنوات، وأن السكان لن يضطروا إلى مغادرة بيوتهم إلا لفترات قصيرة. غير أن بعض الحرفيين عبروا عن قلقهم من ارتفاع أسعار الكراء بعد الترميم، مما قد يدفع العائلات الفقيرة إلى الرحيل. ويرى خبراء أن نجاح المشروع لا يتوقف على جمال البنايات فقط، بل على بقاء الحياة اليومية في الأحياء القديمة.",
+        "opties": [
+          "oude huizen in de medina restaureren",
+          "nieuwe huizen bouwen buiten de stad",
+          "de medina sluiten voor toeristen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لترميم عدد من البيوت القديمة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Waarom is het project dringend?",
+        "ar": "أعلنت بلدية مدينة فاس عن مشروع جديد لترميم عدد من البيوت القديمة في المدينة العتيقة، التي تعد من أقدم المدن الإسلامية المحافظة على طابعها التاريخي. ويهدف المشروع إلى حماية التراث المعماري وتحسين ظروف عيش السكان، إذ إن كثيرا من هذه البيوت أصبحت مهددة بالانهيار. وأوضح المسؤولون أن الأشغال ستستمر ثلاث سنوات، وأن السكان لن يضطروا إلى مغادرة بيوتهم إلا لفترات قصيرة. غير أن بعض الحرفيين عبروا عن قلقهم من ارتفاع أسعار الكراء بعد الترميم، مما قد يدفع العائلات الفقيرة إلى الرحيل. ويرى خبراء أن نجاح المشروع لا يتوقف على جمال البنايات فقط، بل على بقاء الحياة اليومية في الأحياء القديمة.",
+        "opties": [
+          "Veel huizen dreigen in te storten.",
+          "Er komen te veel toeristen.",
+          "De huizen zijn te klein."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مهددة بالانهيار}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Hoe lang duren de werkzaamheden?",
+        "ar": "أعلنت بلدية مدينة فاس عن مشروع جديد لترميم عدد من البيوت القديمة في المدينة العتيقة، التي تعد من أقدم المدن الإسلامية المحافظة على طابعها التاريخي. ويهدف المشروع إلى حماية التراث المعماري وتحسين ظروف عيش السكان، إذ إن كثيرا من هذه البيوت أصبحت مهددة بالانهيار. وأوضح المسؤولون أن الأشغال ستستمر ثلاث سنوات، وأن السكان لن يضطروا إلى مغادرة بيوتهم إلا لفترات قصيرة. غير أن بعض الحرفيين عبروا عن قلقهم من ارتفاع أسعار الكراء بعد الترميم، مما قد يدفع العائلات الفقيرة إلى الرحيل. ويرى خبراء أن نجاح المشروع لا يتوقف على جمال البنايات فقط، بل على بقاء الحياة اليومية في الأحياء القديمة.",
+        "opties": [
+          "drie jaar",
+          "drie maanden",
+          "dertig jaar"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ستستمر ثلاث سنوات}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Waarover maken ambachtslieden zich zorgen?",
+        "ar": "أعلنت بلدية مدينة فاس عن مشروع جديد لترميم عدد من البيوت القديمة في المدينة العتيقة، التي تعد من أقدم المدن الإسلامية المحافظة على طابعها التاريخي. ويهدف المشروع إلى حماية التراث المعماري وتحسين ظروف عيش السكان، إذ إن كثيرا من هذه البيوت أصبحت مهددة بالانهيار. وأوضح المسؤولون أن الأشغال ستستمر ثلاث سنوات، وأن السكان لن يضطروا إلى مغادرة بيوتهم إلا لفترات قصيرة. غير أن بعض الحرفيين عبروا عن قلقهم من ارتفاع أسعار الكراء بعد الترميم، مما قد يدفع العائلات الفقيرة إلى الرحيل. ويرى خبراء أن نجاح المشروع لا يتوقف على جمال البنايات فقط، بل على بقاء الحياة اليومية في الأحياء القديمة.",
+        "opties": [
+          "dat de huren stijgen en arme gezinnen moeten vertrekken",
+          "dat hun werkplaatsen worden gesloten",
+          "dat er geen toeristen meer komen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ارتفاع أسعار الكراء … الرحيل}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Hetzelfde bericht. Waar hangt volgens deskundigen het succes van af?",
+        "ar": "أعلنت بلدية مدينة فاس عن مشروع جديد لترميم عدد من البيوت القديمة في المدينة العتيقة، التي تعد من أقدم المدن الإسلامية المحافظة على طابعها التاريخي. ويهدف المشروع إلى حماية التراث المعماري وتحسين ظروف عيش السكان، إذ إن كثيرا من هذه البيوت أصبحت مهددة بالانهيار. وأوضح المسؤولون أن الأشغال ستستمر ثلاث سنوات، وأن السكان لن يضطروا إلى مغادرة بيوتهم إلا لفترات قصيرة. غير أن بعض الحرفيين عبروا عن قلقهم من ارتفاع أسعار الكراء بعد الترميم، مما قد يدفع العائلات الفقيرة إلى الرحيل. ويرى خبراء أن نجاح المشروع لا يتوقف على جمال البنايات فقط، بل على بقاء الحياة اليومية في الأحياء القديمة.",
+        "opties": [
+          "of het dagelijks leven in de oude wijken blijft bestaan",
+          "alleen van de schoonheid van de gebouwen",
+          "van het aantal toeristen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لا يتوقف … فقط، بل على بقاء الحياة اليومية}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Lees de brief. Waarom is Sara in Rabat?",
+        "ar": "عزيزتي ليلى، أكتب إليك من مدينة الرباط، حيث وصلت منذ أسبوعين لأبدأ تدريبا في شركة للطاقة الشمسية. كنت قد تعلمت الفصحى في هولندا لمدة ثلاث سنوات، ومع ذلك لم أكن أتوقع أن أفهم الناس هنا بسهولة، لأنهم يتكلمون الدارجة بسرعة. لكن زملائي لطفاء جدا: يتكلمون معي بالفصحى عندما لا أفهم، ويعلمونني كلمة جديدة بالدارجة كل يوم. أسكن مع عائلة مغربية في حي هادئ قريب من البحر، وكل مساء نشرب الشاي معا ونتحدث عن كل شيء. لو كنت أعرف أن التجربة ستكون بهذا الجمال، لجئت قبل سنوات! أتمنى أن تزوريني في الصيف. مع خالص المودة، سارة",
+        "opties": [
+          "voor een stage bij een zonne-energiebedrijf",
+          "voor vakantie",
+          "om Darija te studeren"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لأبدأ تدريبا في شركة للطاقة الشمسية}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde brief. Wat had Sara niet verwacht?",
+        "ar": "عزيزتي ليلى، أكتب إليك من مدينة الرباط، حيث وصلت منذ أسبوعين لأبدأ تدريبا في شركة للطاقة الشمسية. كنت قد تعلمت الفصحى في هولندا لمدة ثلاث سنوات، ومع ذلك لم أكن أتوقع أن أفهم الناس هنا بسهولة، لأنهم يتكلمون الدارجة بسرعة. لكن زملائي لطفاء جدا: يتكلمون معي بالفصحى عندما لا أفهم، ويعلمونني كلمة جديدة بالدارجة كل يوم. أسكن مع عائلة مغربية في حي هادئ قريب من البحر، وكل مساء نشرب الشاي معا ونتحدث عن كل شيء. لو كنت أعرف أن التجربة ستكون بهذا الجمال، لجئت قبل سنوات! أتمنى أن تزوريني في الصيف. مع خالص المودة، سارة",
+        "opties": [
+          "dat ze de mensen niet makkelijk zou verstaan",
+          "dat Rabat zo groot is",
+          "dat het werk zo zwaar is"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لم أكن أتوقع أن أفهم الناس هنا بسهولة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde brief. Hoe helpen haar collega's haar?",
+        "ar": "عزيزتي ليلى، أكتب إليك من مدينة الرباط، حيث وصلت منذ أسبوعين لأبدأ تدريبا في شركة للطاقة الشمسية. كنت قد تعلمت الفصحى في هولندا لمدة ثلاث سنوات، ومع ذلك لم أكن أتوقع أن أفهم الناس هنا بسهولة، لأنهم يتكلمون الدارجة بسرعة. لكن زملائي لطفاء جدا: يتكلمون معي بالفصحى عندما لا أفهم، ويعلمونني كلمة جديدة بالدارجة كل يوم. أسكن مع عائلة مغربية في حي هادئ قريب من البحر، وكل مساء نشرب الشاي معا ونتحدث عن كل شيء. لو كنت أعرف أن التجربة ستكون بهذا الجمال، لجئت قبل سنوات! أتمنى أن تزوريني في الصيف. مع خالص المودة، سارة",
+        "opties": [
+          "Ze spreken Fusha als ze iets niet begrijpt en leren haar Darija.",
+          "Ze vertalen alles in het Nederlands.",
+          "Ze praten langzamer Frans."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يتكلمون معي بالفصحى … ويعلمونني كلمة جديدة بالدارجة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde brief. Wat doet Sara elke avond?",
+        "ar": "عزيزتي ليلى، أكتب إليك من مدينة الرباط، حيث وصلت منذ أسبوعين لأبدأ تدريبا في شركة للطاقة الشمسية. كنت قد تعلمت الفصحى في هولندا لمدة ثلاث سنوات، ومع ذلك لم أكن أتوقع أن أفهم الناس هنا بسهولة، لأنهم يتكلمون الدارجة بسرعة. لكن زملائي لطفاء جدا: يتكلمون معي بالفصحى عندما لا أفهم، ويعلمونني كلمة جديدة بالدارجة كل يوم. أسكن مع عائلة مغربية في حي هادئ قريب من البحر، وكل مساء نشرب الشاي معا ونتحدث عن كل شيء. لو كنت أعرف أن التجربة ستكون بهذا الجمال، لجئت قبل سنوات! أتمنى أن تزوريني في الصيف. مع خالص المودة، سارة",
+        "opties": [
+          "thee drinken en praten met het gastgezin",
+          "naar het strand gaan",
+          "Fusha studeren"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نشرب الشاي معا ونتحدث}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-lezen",
+        "vraag": "Dezelfde brief. Wat betekent {ar|لو كنت أعرف … لجئت قبل سنوات}?",
+        "ar": "عزيزتي ليلى، أكتب إليك من مدينة الرباط، حيث وصلت منذ أسبوعين لأبدأ تدريبا في شركة للطاقة الشمسية. كنت قد تعلمت الفصحى في هولندا لمدة ثلاث سنوات، ومع ذلك لم أكن أتوقع أن أفهم الناس هنا بسهولة، لأنهم يتكلمون الدارجة بسرعة. لكن زملائي لطفاء جدا: يتكلمون معي بالفصحى عندما لا أفهم، ويعلمونني كلمة جديدة بالدارجة كل يوم. أسكن مع عائلة مغربية في حي هادئ قريب من البحر، وكل مساء نشرب الشاي معا ونتحدث عن كل شيء. لو كنت أعرف أن التجربة ستكون بهذا الجمال، لجئت قبل سنوات! أتمنى أن تزوريني في الصيف. مع خالص المودة، سارة",
+        "opties": [
+          "Had ik het geweten, dan was ik jaren eerder gekomen.",
+          "Ik wist het en kwam jaren geleden.",
+          "Ik kom over een paar jaar."
+        ],
+        "juist": 0,
+        "uitleg": "Irreële voorwaarde."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "يُنْصَحُ المُسافِرونَ بِالوُصولِ إِلى المَطارِ قَبْلَ ثَلاثِ ساعاتٍ",
+        "vraag": "Wat is het advies?",
+        "opties": [
+          "drie uur van tevoren op het vliegveld zijn",
+          "drie uur wachten",
+          "na drie uur vertrekken"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُنْصَحُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لَوْلا مُساعَدَةُ زُمَلائي لَما نَجَحْتُ",
+        "vraag": "Wat zegt de spreker?",
+        "opties": [
+          "Zonder de hulp van mijn collega's was ik niet geslaagd.",
+          "Mijn collega's hielpen niet.",
+          "Ik ben gezakt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|لَوْلا}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أُجِّلَ المُؤْتَمَرُ إِلى شَهْرِ مارِسَ بَدَلًا مِنْ يَنايِرَ",
+        "vraag": "Wanneer is het congres nu?",
+        "opties": [
+          "in maart",
+          "in januari",
+          "in mei"
+        ],
+        "juist": 0,
+        "uitleg": "Het nieuwe gegeven."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "سَواءٌ أَكانَ الجَوُّ حارًّا أَمْ بارِدًا، سَنَذْهَبُ إِلى الشّاطِئِ",
+        "vraag": "Wat gaan ze doen?",
+        "opties": [
+          "naar het strand gaan, wat het weer ook is",
+          "alleen bij warm weer naar het strand",
+          "thuisblijven"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَواءٌ … أَمْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "لا أَظُنُّ أَنَّ الأَسْعارَ سَتَنْخَفِضُ قَريبًا",
+        "vraag": "Welke toon heeft de spreker?",
+        "opties": [
+          "pessimistisch",
+          "optimistisch",
+          "enthousiast"
+        ],
+        "juist": 0,
+        "uitleg": "Toon."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "يُشْتَرَطُ في المُرَشَّحِ أَنْ يَكونَ قَدْ عَمِلَ في الخارِجِ",
+        "vraag": "Wat is vereist?",
+        "opties": [
+          "ervaring met werken in het buitenland",
+          "een master",
+          "jonger zijn dan dertig"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|يُشْتَرَطُ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "خَرَجْتُ مِنَ البَيْتِ فَإِذا بِالمَطَرِ يَنْهَمِرُ",
+        "vraag": "Wat gebeurde er?",
+        "opties": [
+          "Toen hij naar buiten ging, regende het opeens hard.",
+          "Het was zonnig.",
+          "Hij bleef binnen."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|فَإِذا بِـ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "ما زُرْتُ مَرّاكُشَ إِلّا مَرَّةً واحِدَةً",
+        "vraag": "Hoe vaak was de spreker in Marrakech?",
+        "opties": [
+          "maar één keer",
+          "nooit",
+          "vaak"
+        ],
+        "juist": 0,
+        "uitleg": "Beperking."
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "أَدّى الجَفافُ إِلى اِرْتِفاعِ أَسْعارِ الخُضَرِ",
+        "vraag": "Wat was het gevolg van de droogte?",
+        "opties": [
+          "hogere groenteprijzen",
+          "meer water",
+          "lagere prijzen"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَدّى إِلى}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "ne-luisteren",
+        "tekst": "مِنْ جِهَتي، أُؤَيِّدُ هٰذا القَرارَ تَمامًا",
+        "vraag": "Wat vindt de spreker van het besluit?",
+        "opties": [
+          "Hij steunt het volledig.",
+          "Hij is ertegen.",
+          "Hij twijfelt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أُؤَيِّدُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'De huizen werden gerestaureerd' is ...",
+        "opties": [
+          "رُمِّمَتِ البُيوتُ",
+          "رَمَّمَتِ البُيوتَ",
+          "تُرَمِّمُ البُيوتُ"
+        ],
+        "juist": 0,
+        "uitleg": "Lijdend II."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Zolang je hier woont …' is ...",
+        "opties": [
+          "ما دُمْتَ تَسْكُنُ هُنا …",
+          "بِشَرْطِ أَنَّكَ هُنا …",
+          "لَوْ سَكَنْتَ هُنا …"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|ما دامَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "Na {ar|إِنَّما} staat het onderwerp in de ...",
+        "opties": [
+          "nominatief",
+          "accusatief",
+          "genitief"
+        ],
+        "juist": 0,
+        "uitleg": "Geen inna-werking."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "'Een van de oudste steden' is ...",
+        "opties": [
+          "إِحْدى أَقْدَمِ المُدُنِ",
+          "أَقْدَمُ مَدينَةٍ واحِدَةٍ",
+          "أَحَدُ أَقْدَمُ المُدُنِ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|إِحْدى}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-grammatica",
+        "vraag": "{ar|كانَ قَدْ سافَرَ} betekent ...",
+        "opties": [
+          "hij was gereisd",
+          "hij reisde (altijd)",
+          "hij zal reizen"
+        ],
+        "juist": 0,
+        "uitleg": "Voltooid verleden."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "لَمْ ___ الرِّسالَةَ بَعْدُ.",
+        "nl": "Ik heb de brief nog niet ontvangen.",
+        "antwoord": [
+          "أَسْتَلِمِ",
+          "أَسْتَلِمْ"
+        ],
+        "uitleg": "Majzūm (met hulpklinker vóór ال).",
+        "woordbank": [
+          "أَسْتَلِمِ",
+          "أَسْتَلِمُ",
+          "اِسْتَلَمْتُ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-grammatica",
+        "zin": "يا ___ الجامِعَةِ، شُكْرًا لَكَ.",
+        "nl": "Rector van de universiteit, dank u.",
+        "antwoord": [
+          "رَئيسَ"
+        ],
+        "uitleg": "Iḍāfa → accusatief.",
+        "woordbank": [
+          "رَئيسَ",
+          "رَئيسُ",
+          "رَئيسِ"
+        ],
+        "streng": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "ne-grammatica",
+        "instructie": "Vervoeg de dubbel zwakke werkwoorden.",
+        "rijen": [
+          {
+            "label": "ik zie (رَأى)",
+            "antwoord": "أَرى",
+            "tr": "arā"
+          },
+          {
+            "label": "hij kwam niet (أَتى)",
+            "antwoord": "لَمْ يَأْتِ",
+            "tr": "lam yaʾti"
+          }
+        ],
+        "uitleg": "Dubbel zwak."
+      },
+      {
+        "type": "ordenen",
+        "tag": "ne-grammatica",
+        "nl": "Het is niet alleen mooi, maar ook nuttig.",
+        "woorden": [
+          "لَيْسَ",
+          "جَميلًا",
+          "فَقَطْ،",
+          "بَلْ",
+          "مُفيدٌ",
+          "أَيْضًا."
+        ],
+        "uitleg": "{ar|لَيْسَ فَقَطْ … بَلْ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-grammatica",
+        "bron": "Het is aan te raden vroeg te reserveren.",
+        "antwoorden": [
+          "يُنْصَحُ بِالحَجْزِ مُبَكِّرًا",
+          "ينصح بالحجز مبكرا"
+        ],
+        "uitleg": "{ar|يُنْصَحُ بِـ} + maṣdar."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "تُراثٌ",
+            "nl": "erfgoed"
+          },
+          {
+            "ar": "حِرَفِيٌّ",
+            "nl": "ambachtsman"
+          },
+          {
+            "ar": "تَرْميمٌ",
+            "nl": "restauratie"
+          },
+          {
+            "ar": "اِنْهِيارٌ",
+            "nl": "instorting"
+          },
+          {
+            "ar": "كِراءٌ",
+            "nl": "huur (Marokkaans Fusha)"
+          }
+        ],
+        "uitleg": "Woorden uit de tekst."
+      },
+      {
+        "type": "koppelen",
+        "tag": "ne-woordenschat",
+        "paren": [
+          {
+            "ar": "تَدْريبٌ",
+            "nl": "stage"
+          },
+          {
+            "ar": "الطّاقَةُ الشَّمْسِيَّةُ",
+            "nl": "zonne-energie"
+          },
+          {
+            "ar": "زَميلٌ",
+            "nl": "collega"
+          },
+          {
+            "ar": "حَيٌّ هادِئٌ",
+            "nl": "rustige wijk"
+          },
+          {
+            "ar": "مَوَدَّةٌ",
+            "nl": "genegenheid"
+          }
+        ],
+        "uitleg": "Woorden uit de brief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|المَدينَةُ العَتيقَةُ} is ...",
+        "opties": [
+          "de oude stad (medina)",
+          "de nieuwe stad",
+          "de hoofdstad"
+        ],
+        "juist": 0,
+        "uitleg": "Medina."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|مَعَ خالِصِ المَوَدَّةِ} is ...",
+        "opties": [
+          "een slotformule in een persoonlijke brief",
+          "een formele aanhef",
+          "een krantenkop"
+        ],
+        "juist": 0,
+        "uitleg": "Brief."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|عَبَّرَ عَنْ قَلَقِهِ} betekent ...",
+        "opties": [
+          "hij uitte zijn bezorgdheid",
+          "hij verborg zijn zorgen",
+          "hij was opgelucht"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|قَلَقٌ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "ne-woordenschat",
+        "vraag": "{ar|اِضْطُرَّ إِلى} betekent ...",
+        "opties": [
+          "gedwongen zijn om",
+          "graag willen",
+          "vergeten"
+        ],
+        "juist": 0,
+        "uitleg": "Gedwongen."
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "يَهْدِفُ المَشْروعُ إِلى حِمايَةِ ___ المِعْمارِيِّ.",
+        "nl": "Het project heeft tot doel het architectonisch erfgoed te beschermen.",
+        "antwoord": [
+          "التُّراثِ"
+        ],
+        "uitleg": "{ar|تُراثٌ}",
+        "woordbank": [
+          "التُّراثِ",
+          "الرَّيِّ",
+          "الضِّدِّ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "ne-woordenschat",
+        "zin": "بَدَأْتُ ___ في شَرِكَةٍ لِلطّاقَةِ.",
+        "nl": "Ik ben aan een stage begonnen bij een energiebedrijf.",
+        "antwoord": [
+          "تَدْريبًا"
+        ],
+        "uitleg": "{ar|تَدْريبٌ}",
+        "woordbank": [
+          "تَدْريبًا",
+          "تَرْميمًا",
+          "تَصْريحًا"
+        ]
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "ne-woordenschat",
+        "bron": "أَصْبَحَتِ البُيوتُ مُهَدَّدَةً بِالاِنْهِيارِ.",
+        "antwoorden": [
+          "de huizen dreigen in te storten",
+          "de huizen worden bedreigd door instorting"
+        ],
+        "uitleg": "{ar|مُهَدَّدٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "ne-woordenschat",
+        "bron": "het erfgoed",
+        "antwoorden": [
+          "التُّراثُ",
+          "التراث"
+        ],
+        "uitleg": "{ar|التُّراثُ}"
+      }
+    ]
+  }
+}

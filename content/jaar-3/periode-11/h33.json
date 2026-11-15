@@ -1,0 +1,439 @@
+{
+  "id": "j3-p11-h33",
+  "code": "H33",
+  "type": "herhaling",
+  "titel": "Herhaling periode 11",
+  "thema": "Woordvorming, stijl en de vier projecten: alles van periode 11",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "de woordvorming en werkwoordsgroepen van periode 11 toepassen.",
+    "teksten, presentaties, interviews en samenvattingen opbouwen.",
+    "je voorbereiden op PT11."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van periode 11 (les 121–132 en D25–D27).",
+  "grammatica": [
+    {
+      "titel": "Periode 11 in één overzicht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Blok",
+            "Kern",
+            "Voorbeeld"
+          ],
+          "rijen": [
+            [
+              "11A woorden",
+              "مَفْعَل/مِفْعال/فُعَيْل; vaste voorzetsels; vierletterig; dubbel zwak",
+              "مِفْتاحٌ · رَغِبَ عَنْ · يُتَرْجِمُ · لَمْ يَرَ"
+            ],
+            [
+              "11B stijl",
+              "nadruk, vocatief, klassieke constructies, leestekst",
+              "لَقَدْ · أَيُّها · رُبَّ"
+            ],
+            [
+              "11C projecten",
+              "tekst, presentatie, interview, samenvatting",
+              "يَتَناوَلُ النَّصُّ … · هَلْ مِنْ أَسْئِلَةٍ؟"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Periode 11 heeft je laten **produceren**: schrijven, presenteren, interviewen en samenvatten. Dat zijn precies de vaardigheden die het B1-examen in periode 12 toetst."
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Herhalen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "tekst-schrijven",
+          "vraag": "Wat hoort in de {ar|خاتِمَةٌ}?",
+          "opties": [
+            "een samenvatting en afronding",
+            "de titel",
+            "een nieuw argument"
+          ],
+          "juist": 0,
+          "uitleg": "Slot."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "presenteren",
+          "vraag": "Hoe vraag je of er vragen zijn?",
+          "opties": [
+            "هَلْ مِنْ أَسْئِلَةٍ؟",
+            "ما الَّذي دَفَعَكَ؟",
+            "يَتَناوَلُ النَّصُّ …"
+          ],
+          "juist": 0,
+          "uitleg": "Vaste formule."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "interview",
+          "vraag": "{ar|إِلى أَيِّ حَدٍّ} betekent ...",
+          "opties": [
+            "in hoeverre",
+            "tot wanneer",
+            "waarom"
+          ],
+          "juist": 0,
+          "uitleg": "Mate."
+        },
+        {
+          "type": "koppelen",
+          "tag": "woordenschat",
+          "paren": [
+            {
+              "ar": "فِقْرَةٌ",
+              "nl": "alinea",
+              "woord": "j3-p11-l129-w04"
+            },
+            {
+              "ar": "شَريحَةٌ",
+              "nl": "dia",
+              "woord": "j3-p11-l130-w01"
+            },
+            {
+              "ar": "دافِعٌ",
+              "nl": "drijfveer",
+              "woord": "j3-p11-l131-w06"
+            },
+            {
+              "ar": "تَلْخيصٌ",
+              "nl": "samenvatten",
+              "woord": "j3-p11-l132-w01"
+            },
+            {
+              "ar": "مول الدار",
+              "nl": "huisbaas (Darija)",
+              "woord": "j3-p11-d27-w07"
+            },
+            {
+              "ar": "خَبيرٌ",
+              "nl": "deskundige",
+              "woord": "j3-p11-l132-w14"
+            }
+          ],
+          "uitleg": "Woorden uit blok 11C."
+        }
+      ]
+    },
+    {
+      "titel": "Toepassen",
+      "items": [
+        {
+          "type": "invullen",
+          "tag": "samenvatten",
+          "zin": "يَرى الكاتِبُ ___ الحَلَّ صَعْبٌ.",
+          "nl": "De schrijver vindt dat de oplossing moeilijk is.",
+          "antwoord": [
+            "أَنَّ"
+          ],
+          "uitleg": "Na {ar|يَرى}.",
+          "woordbank": [
+            "أَنَّ",
+            "إِنَّ",
+            "أَنْ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "presenteren",
+          "zin": "أَنْتَقِلُ الآنَ ___ الجُزْءِ الثّاني.",
+          "nl": "Ik ga nu over naar het tweede deel.",
+          "antwoord": [
+            "إِلى"
+          ],
+          "uitleg": "Overgang.",
+          "woordbank": [
+            "إِلى",
+            "عَنْ",
+            "مِنْ"
+          ]
+        },
+        {
+          "type": "ordenen",
+          "tag": "interview",
+          "nl": "Zou u ons over uw werk kunnen vertellen?",
+          "woorden": [
+            "هَلْ",
+            "لَكَ",
+            "أَنْ",
+            "تُحَدِّثَنا",
+            "عَنْ",
+            "عَمَلِكَ؟"
+          ],
+          "uitleg": "Beleefde vraag."
+        },
+        {
+          "type": "luisteren",
+          "tag": "darija-rollenspel",
+          "tekst": "واش تقدر تصاوب الضو؟",
+          "vraag": "Wat wordt er gevraagd?",
+          "opties": [
+            "Kun je de stroom repareren?",
+            "Waar is het licht?",
+            "Hoeveel kost het licht?"
+          ],
+          "juist": 0,
+          "uitleg": "Darija."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "tekst-schrijven",
+          "bron": "daarbij komt",
+          "antwoorden": [
+            "يُضافُ إِلى ذٰلِكَ",
+            "يضاف إلى ذلك"
+          ],
+          "uitleg": "Toevoeging."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "samenvatten",
+          "bron": "يَتَناوَلُ النَّصُّ مَوْضوعَ التَّعْليمِ.",
+          "antwoorden": [
+            "de tekst behandelt het onderwerp onderwijs",
+            "de tekst gaat over onderwijs"
+          ],
+          "uitleg": "{ar|تَناوَلَ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "presenteren",
+          "bron": "يَنْقَسِمُ عَرْضي إِلى جُزْأَيْنِ.",
+          "antwoorden": [
+            "mijn presentatie bestaat uit twee delen",
+            "mijn presentatie is verdeeld in twee delen"
+          ],
+          "uitleg": "Structuur."
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "meerkeuze",
+        "tag": "woordvorming",
+        "vraag": "Welk woord is een werktuig?",
+        "opties": [
+          "مِرْوَحَةٌ",
+          "مَرْسًى",
+          "نُهَيْرٌ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|مِفْعَلَة}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "dubbel-zwak",
+        "vraag": "'Hij heeft niet gezien' is ...",
+        "opties": [
+          "لَمْ يَرَ",
+          "لَمْ يَرى",
+          "لَمْ رَأى"
+        ],
+        "juist": 0,
+        "uitleg": "Majzūm."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "nadruk",
+        "vraag": "'De minister kwam zelf' is ...",
+        "opties": [
+          "جاءَ الوَزيرُ نَفْسُهُ",
+          "جاءَ نَفْسُ الوَزيرِ",
+          "جاءَ الوَزيرُ ذاتَهُ"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|نَفْسُهُ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "vocatief",
+        "vraag": "'Dames!' is ...",
+        "opties": [
+          "أَيَّتُها السَّيِّداتُ!",
+          "أَيُّها السَّيِّداتُ!",
+          "يا السَّيِّداتُ!"
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَيَّتُها}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "samenvatten",
+        "vraag": "Wat schrijf je **niet** in een samenvatting?",
+        "opties": [
+          "lange citaten",
+          "de hoofdgedachte",
+          "de conclusie"
+        ],
+        "juist": 0,
+        "uitleg": "Eigen woorden."
+      },
+      {
+        "type": "luisteren",
+        "tag": "presenteren",
+        "tekst": "شُكْرًا عَلى حُسْنِ اسْتِماعِكُمْ",
+        "vraag": "Waar hoor je dit?",
+        "opties": [
+          "aan het eind van een presentatie",
+          "aan het begin van een brief",
+          "in een winkel"
+        ],
+        "juist": 0,
+        "uitleg": "Slot."
+      },
+      {
+        "type": "luisteren",
+        "tag": "interview",
+        "tekst": "ما الَّذي دَفَعَكَ إِلى الكِتابَةِ؟",
+        "vraag": "Wat wil de interviewer weten?",
+        "opties": [
+          "waarom de gast is gaan schrijven",
+          "wat de gast schrijft",
+          "wanneer de gast schrijft"
+        ],
+        "juist": 0,
+        "uitleg": "Motief."
+      },
+      {
+        "type": "invullen",
+        "tag": "vaste-voorzetsels",
+        "zin": "تَعْتَمِدُ القَرْيَةُ ___ الزِّراعَةِ.",
+        "nl": "Het dorp is afhankelijk van de landbouw.",
+        "antwoord": [
+          "عَلى"
+        ],
+        "uitleg": "{ar|اِعْتَمَدَ عَلى}",
+        "woordbank": [
+          "عَلى",
+          "في",
+          "عَنْ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tekst-schrijven",
+        "zin": "اُكْتُبْ ___ قَصيرَةً في البِدايَةِ.",
+        "nl": "Schrijf aan het begin een korte inleiding.",
+        "antwoord": [
+          "مُقَدِّمَةً"
+        ],
+        "uitleg": "{ar|مُقَدِّمَةٌ} = {ar|تَمْهيدٌ}.",
+        "woordbank": [
+          "مُقَدِّمَةً",
+          "خاتِمَةً",
+          "فاصِلَةً"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "samenvatten",
+        "zin": "يَخْلُصُ الخُبَراءُ ___ أَنَّ الحَلَّ مُمْكِنٌ.",
+        "nl": "De deskundigen concluderen dat een oplossing mogelijk is.",
+        "antwoord": [
+          "إِلى"
+        ],
+        "uitleg": "{ar|خَلُصَ إِلى}",
+        "woordbank": [
+          "إِلى",
+          "عَلى",
+          "في"
+        ]
+      },
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "صُلْبُ المَوْضوعِ",
+            "nl": "kern"
+          },
+          {
+            "ar": "رَسْمٌ بَيانِيٌّ",
+            "nl": "grafiek"
+          },
+          {
+            "ar": "مَسيرَةٌ مِهَنِيَّةٌ",
+            "nl": "loopbaan"
+          },
+          {
+            "ar": "العُزْلَةُ",
+            "nl": "isolement"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijsten."
+      },
+      {
+        "type": "ordenen",
+        "tag": "presenteren",
+        "nl": "Vandaag ga ik het hebben over toerisme.",
+        "woorden": [
+          "سَأَتَحَدَّثُ",
+          "اليَوْمَ",
+          "عَنِ",
+          "السِّياحَةِ."
+        ],
+        "uitleg": "Opening."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "interview",
+        "bron": "een laatste vraag",
+        "antwoorden": [
+          "سُؤالٌ أَخيرٌ",
+          "سؤال أخير"
+        ],
+        "uitleg": "{ar|سُؤالٌ أَخيرٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "samenvatten",
+        "bron": "يَرى كَثيرٌ مِنَ المُوَظَّفينَ أَنَّهُ يُوَفِّرُ الوَقْتَ.",
+        "antwoorden": [
+          "veel werknemers vinden dat het tijd bespaart",
+          "veel werknemers menen dat het tijd scheelt"
+        ],
+        "uitleg": "Standpunt."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "darija-rollenspel",
+        "bron": "تقطع الضو",
+        "antwoorden": [
+          "de stroom is uitgevallen",
+          "het licht is uitgevallen"
+        ],
+        "uitleg": "Darija.",
+        "tr": "tqəṭṭəʿ ḍḍəw"
+      }
+    ]
+  }
+}

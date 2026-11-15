@@ -1,0 +1,661 @@
+{
+  "id": "j3-p11-l129",
+  "code": "L129",
+  "type": "les",
+  "titel": "Project: een tekst schrijven",
+  "thema": "Een artikel over een maatschappelijk onderwerp",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een tekst opbouwen met inleiding, kern en slot.",
+    "alinea's verbinden met verbindingswoorden en verwijzende voornaamwoorden.",
+    "Arabische leestekens correct gebruiken en een concept nalezen."
+  ],
+  "woorden": [
+    {
+      "id": "j3-p11-l129-w01",
+      "ar": "تَمْهيدٌ",
+      "tr": "tamhīd",
+      "nl": [
+        "inleiding"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p11-l129-w02",
+      "ar": "صُلْبُ المَوْضوعِ",
+      "tr": "ṣulbu l-mawḍūʿ",
+      "nl": [
+        "de kern (middenstuk)"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l129-w03",
+      "ar": "خاتِمَةٌ",
+      "tr": "ḫātima",
+      "nl": [
+        "slot, conclusie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l129-w04",
+      "ar": "فِقْرَةٌ",
+      "tr": "fiqra",
+      "nl": [
+        "alinea"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|فِقَراتٌ}."
+    },
+    {
+      "id": "j3-p11-l129-w05",
+      "ar": "عَلاماتُ التَّرْقيمِ",
+      "tr": "ʿalāmātu t-tarqīm",
+      "nl": [
+        "leestekens"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l129-w06",
+      "ar": "فاصِلَةٌ",
+      "tr": "fāṣila",
+      "nl": [
+        "komma"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l129-w07",
+      "ar": "مُسَوَّدَةٌ",
+      "tr": "musawwada",
+      "nl": [
+        "concept, kladversie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l129-w08",
+      "ar": "راجَعَ",
+      "tr": "rājaʿa",
+      "nl": [
+        "nalezen, herzien"
+      ],
+      "soort": "werkwoord (III)"
+    },
+    {
+      "id": "j3-p11-l129-w09",
+      "ar": "صاغَ يَصوغُ",
+      "tr": "ṣāġa yaṣūġu",
+      "nl": [
+        "formuleren"
+      ],
+      "soort": "werkwoord (hol)"
+    },
+    {
+      "id": "j3-p11-l129-w10",
+      "ar": "كَذٰلِكَ",
+      "tr": "kaḏālika",
+      "nl": [
+        "eveneens, ook"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j3-p11-l129-w11",
+      "ar": "يُضافُ إِلى ذٰلِكَ",
+      "tr": "yuḍāfu ilā ḏālik",
+      "nl": [
+        "daarbij komt"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l129-w12",
+      "ar": "ثُمَّ إِنَّ",
+      "tr": "ṯumma inna",
+      "nl": [
+        "verder, daarnaast"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l129-w13",
+      "ar": "عُنْوانٌ جَذّابٌ",
+      "tr": "ʿunwānun jaḏḏāb",
+      "nl": [
+        "pakkende titel"
+      ],
+      "soort": "uitdrukking"
+    },
+    {
+      "id": "j3-p11-l129-w14",
+      "ar": "القارِئُ",
+      "tr": "al-qāriʾ",
+      "nl": [
+        "de lezer"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j3-p11-l129-w15",
+      "ar": "تَكْرارٌ",
+      "tr": "takrār",
+      "nl": [
+        "herhaling"
+      ],
+      "soort": "maṣdar (II)"
+    },
+    {
+      "id": "j3-p11-l129-w16",
+      "ar": "مُتَماسِكٌ",
+      "tr": "mutamāsik",
+      "nl": [
+        "samenhangend"
+      ],
+      "soort": "deelwoord (VI)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Opbouw van een tekst",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Deel",
+            "Doel",
+            "Typische formules"
+          ],
+          "rijen": [
+            [
+              "تَمْهيدٌ (inleiding)",
+              "onderwerp en vraag introduceren",
+              "يُعَدُّ … مِنْ أَهَمِّ المَوْضوعاتِ"
+            ],
+            [
+              "صُلْبُ المَوْضوعِ (kern)",
+              "per alinea één idee",
+              "أَوَّلًا … · يُضافُ إِلى ذٰلِكَ … · ثُمَّ إِنَّ …"
+            ],
+            [
+              "خاتِمَةٌ (slot)",
+              "samenvatten en afronden",
+              "خُلاصَةُ القَوْلِ … · وَفي الخِتامِ …"
+            ]
+          ],
+          "arKolommen": [
+            2
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Arabische teksten verbinden zinnen veel sterker dan Nederlandse: bijna elke zin begint met {ar|وَ}, {ar|فَـ} of {ar|ثُمَّ}. Een tekst zonder zulke verbindingen voelt voor een Arabische lezer **los en afgebroken**. Overdrijf het niet, maar laat geen alinea zonder verbindingswoord beginnen."
+        },
+        {
+          "type": "letop",
+          "md": "Arabische leestekens zijn gespiegeld: komma {ar|،}, puntkomma {ar|؛}, vraagteken {ar|؟}. Het Arabisch gebruikt vaker een komma waar het Nederlands een punt zet."
+        }
+      ]
+    },
+    {
+      "titel": "Samenhang (cohesie)",
+      "blokken": [
+        {
+          "type": "tekst",
+          "md": "Een tekst is {ar|مُتَماسِكٌ} als de zinnen naar elkaar verwijzen. Gebruik daarvoor **voornaamwoorden** in plaats van herhaling, en **verbindingswoorden** tussen de ideeën."
+        },
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "يُعَدُّ التَّلَوُّثُ مِنْ أَهَمِّ المُشْكِلاتِ في المُدُنِ الكَبيرَةِ.",
+              "tr": "yuʿaddu t-talawwuṯu min ahammi l-muškilāti fi l-mudúni l-kabīra.",
+              "nl": "Vervuiling geldt als een van de belangrijkste problemen in grote steden."
+            },
+            {
+              "ar": "فَهُوَ يُؤَثِّرُ في صِحَّةِ السُّكّانِ، وَيُضافُ إِلى ذٰلِكَ أَنَّهُ يَضُرُّ بِالبيئَةِ.",
+              "tr": "fa-huwa yuʾaṯṯiru fī ṣiḥḥati s-sukkān, wa-yuḍāfu ilā ḏālika annahu yaḍurru bi-l-bīʾa.",
+              "nl": "Het beïnvloedt de gezondheid van de bewoners, en daarbij komt dat het schadelijk is voor het milieu."
+            },
+            {
+              "ar": "ثُمَّ إِنَّ الحُلولَ مَوْجودَةٌ، كَالنَّقْلِ العامِّ وَالدَّرّاجاتِ.",
+              "tr": "ṯumma inna l-ḥulūla mawjūdatun, ka-n-naqli l-ʿāmmi wa-d-darrājāt.",
+              "nl": "Verder bestaan er oplossingen, zoals openbaar vervoer en fietsen."
+            },
+            {
+              "ar": "وَفي الخِتامِ، عَلى كُلِّ واحِدٍ مِنّا أَنْ يَقومَ بِدَوْرِهِ.",
+              "tr": "wa-fi l-ḫitāmi, ʿalā kulli wāḥidin minnā an yaqūma bi-dawrih.",
+              "nl": "Tot slot moet ieder van ons zijn steentje bijdragen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "tekst-schrijven",
+          "paren": [
+            {
+              "ar": "تَمْهيدٌ",
+              "nl": "inleiding",
+              "woord": "j3-p11-l129-w01"
+            },
+            {
+              "ar": "خاتِمَةٌ",
+              "nl": "slot",
+              "woord": "j3-p11-l129-w03"
+            },
+            {
+              "ar": "فِقْرَةٌ",
+              "nl": "alinea",
+              "woord": "j3-p11-l129-w04"
+            },
+            {
+              "ar": "مُسَوَّدَةٌ",
+              "nl": "concept",
+              "woord": "j3-p11-l129-w07"
+            },
+            {
+              "ar": "راجَعَ",
+              "nl": "nalezen",
+              "woord": "j3-p11-l129-w08"
+            },
+            {
+              "ar": "القارِئُ",
+              "nl": "de lezer",
+              "woord": "j3-p11-l129-w14"
+            }
+          ],
+          "uitleg": "Schrijfwoorden."
+        },
+        {
+          "type": "luisteren",
+          "tag": "tekst-schrijven",
+          "tekst": "يُضافُ إِلى ذٰلِكَ أَنَّهُ مُفيدٌ",
+          "vraag": "Wat doet de schrijver?",
+          "opties": [
+            "Hij voegt een argument toe.",
+            "Hij sluit af.",
+            "Hij stelt een vraag."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|يُضافُ إِلى ذٰلِكَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Tekst opbouwen",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "tekst-schrijven",
+          "vraag": "In welk deel vat je samen?",
+          "opties": [
+            "الخاتِمَةُ",
+            "التَّمْهيدُ",
+            "صُلْبُ المَوْضوعِ"
+          ],
+          "juist": 0,
+          "uitleg": "Slot."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tekst-schrijven",
+          "vraag": "Hoe ziet het Arabische vraagteken eruit?",
+          "opties": [
+            "؟",
+            "?",
+            "¿"
+          ],
+          "juist": 0,
+          "uitleg": "Gespiegeld."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "tekst-schrijven",
+          "vraag": "Hoe maak je een tekst {ar|مُتَماسِكٌ}?",
+          "opties": [
+            "met verwijzende voornaamwoorden en verbindingswoorden",
+            "door elk woord te herhalen",
+            "door zo kort mogelijke zinnen"
+          ],
+          "juist": 0,
+          "uitleg": "Cohesie."
+        },
+        {
+          "type": "invullen",
+          "tag": "tekst-schrijven",
+          "zin": "يُعَدُّ التَّلَوُّثُ مِنْ ___ المُشْكِلاتِ.",
+          "nl": "Vervuiling geldt als een van de belangrijkste problemen.",
+          "antwoord": [
+            "أَهَمِّ"
+          ],
+          "uitleg": "{ar|مِنْ أَهَمِّ}",
+          "woordbank": [
+            "أَهَمِّ",
+            "مُهِمَّةِ",
+            "أَهَمِّيَّةِ"
+          ]
+        },
+        {
+          "type": "invullen",
+          "tag": "tekst-schrijven",
+          "zin": "___ إِنَّ الحُلولَ مَوْجودَةٌ.",
+          "nl": "Verder bestaan er oplossingen.",
+          "antwoord": [
+            "ثُمَّ"
+          ],
+          "uitleg": "{ar|ثُمَّ إِنَّ}",
+          "woordbank": [
+            "ثُمَّ",
+            "لٰكِنْ",
+            "لِأَنَّ"
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Schrijven",
+      "items": [
+        {
+          "type": "ordenen",
+          "tag": "tekst-schrijven",
+          "nl": "Tot slot moet ieder zijn steentje bijdragen.",
+          "woorden": [
+            "وَفي",
+            "الخِتامِ،",
+            "عَلى",
+            "كُلِّ",
+            "واحِدٍ",
+            "أَنْ",
+            "يَقومَ",
+            "بِدَوْرِهِ."
+          ],
+          "uitleg": "Slot."
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "tekst-schrijven",
+          "bron": "de leestekens",
+          "antwoorden": [
+            "عَلاماتُ التَّرْقيمِ",
+            "علامات الترقيم"
+          ],
+          "uitleg": "{ar|عَلاماتُ التَّرْقيمِ}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "tekst-schrijven",
+          "bron": "راجِعِ المُسَوَّدَةَ قَبْلَ أَنْ تُرْسِلَها.",
+          "antwoorden": [
+            "lees het concept na voordat je het opstuurt",
+            "herzie de kladversie voordat je hem verstuurt"
+          ],
+          "uitleg": "{ar|راجَعَ}"
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "tekst-schrijven",
+          "opdracht": "Schrijf een artikel van drie alinea's (ongeveer 120 woorden) over een probleem in jouw stad en een mogelijke oplossing.",
+          "model": [
+            {
+              "ar": "يُعَدُّ التَّلَوُّثُ مِنْ أَهَمِّ المُشْكِلاتِ في المُدُنِ الكَبيرَةِ.",
+              "tr": "yuʿaddu t-talawwuṯu min ahammi l-muškilāti fi l-mudúni l-kabīra.",
+              "nl": "Vervuiling geldt als een van de belangrijkste problemen in grote steden."
+            },
+            {
+              "ar": "فَهُوَ يُؤَثِّرُ في صِحَّةِ السُّكّانِ، وَيُضافُ إِلى ذٰلِكَ أَنَّهُ يَضُرُّ بِالبيئَةِ.",
+              "tr": "fa-huwa yuʾaṯṯiru fī ṣiḥḥati s-sukkān, wa-yuḍāfu ilā ḏālika annahu yaḍurru bi-l-bīʾa.",
+              "nl": "Het beïnvloedt de gezondheid van de bewoners, en daarbij komt dat het schadelijk is voor het milieu."
+            },
+            {
+              "ar": "ثُمَّ إِنَّ الحُلولَ مَوْجودَةٌ، كَالنَّقْلِ العامِّ وَالدَّرّاجاتِ.",
+              "tr": "ṯumma inna l-ḥulūla mawjūdatun, ka-n-naqli l-ʿāmmi wa-d-darrājāt.",
+              "nl": "Verder bestaan er oplossingen, zoals openbaar vervoer en fietsen."
+            },
+            {
+              "ar": "وَفي الخِتامِ، عَلى كُلِّ واحِدٍ مِنّا أَنْ يَقومَ بِدَوْرِهِ.",
+              "tr": "wa-fi l-ḫitāmi, ʿalā kulli wāḥidin minnā an yaqūma bi-dawrih.",
+              "nl": "Tot slot moet ieder van ons zijn steentje bijdragen."
+            }
+          ],
+          "checklist": [
+            "Een inleiding die het probleem noemt.",
+            "Elke alinea heeft één hoofdgedachte.",
+            "Elke alinea begint met een verbindingswoord.",
+            "Je verwijst terug met voornaamwoorden in plaats van woorden te herhalen.",
+            "Een slot met {ar|وَفي الخِتامِ}.",
+            "Arabische leestekens ({ar|،} en {ar|؟})."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "يُعَدُّ … مِنْ أَهَمِّ",
+            "يُضافُ إِلى ذٰلِكَ",
+            "ثُمَّ إِنَّ",
+            "وَفي الخِتامِ"
+          ],
+          "minimum": 100
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "tekst-schrijven",
+        "paren": [
+          {
+            "ar": "صُلْبُ المَوْضوعِ",
+            "nl": "kern"
+          },
+          {
+            "ar": "فاصِلَةٌ",
+            "nl": "komma"
+          },
+          {
+            "ar": "صاغَ يَصوغُ",
+            "nl": "formuleren"
+          },
+          {
+            "ar": "تَكْرارٌ",
+            "nl": "herhaling"
+          },
+          {
+            "ar": "عُنْوانٌ جَذّابٌ",
+            "nl": "pakkende titel"
+          }
+        ],
+        "uitleg": "Schrijfwoorden."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tekst-schrijven",
+        "vraag": "{ar|التَّمْهيدُ} is ...",
+        "opties": [
+          "de inleiding",
+          "het slot",
+          "de titel"
+        ],
+        "juist": 0,
+        "uitleg": "Inleiding."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tekst-schrijven",
+        "vraag": "Welk woord voegt een idee toe?",
+        "opties": [
+          "كَذٰلِكَ",
+          "لٰكِنْ",
+          "خُلاصَةُ القَوْلِ"
+        ],
+        "juist": 0,
+        "uitleg": "Ook."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tekst-schrijven",
+        "vraag": "Waarom begint een Arabische zin vaak met {ar|وَ} of {ar|فَـ}?",
+        "opties": [
+          "om zinnen met elkaar te verbinden",
+          "omdat het verplicht is in elke zin",
+          "om een vraag te maken"
+        ],
+        "juist": 0,
+        "uitleg": "Cohesie."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "tekst-schrijven",
+        "vraag": "Wat staat er in elke alinea van de kern?",
+        "opties": [
+          "één idee",
+          "alle ideeën",
+          "alleen voorbeelden"
+        ],
+        "juist": 0,
+        "uitleg": "Per alinea één idee."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tekst-schrijven",
+        "tekst": "وَفي الخِتامِ أَشْكُرُكُمْ",
+        "vraag": "Waar in de tekst staat dit?",
+        "opties": [
+          "aan het eind",
+          "aan het begin",
+          "in het midden"
+        ],
+        "juist": 0,
+        "uitleg": "Slot."
+      },
+      {
+        "type": "luisteren",
+        "tag": "tekst-schrijven",
+        "tekst": "يُعَدُّ هٰذا المَوْضوعُ مِنْ أَهَمِّ المَوْضوعاتِ",
+        "vraag": "Welk deel van de tekst is dit waarschijnlijk?",
+        "opties": [
+          "de inleiding",
+          "de conclusie",
+          "een voorbeeld"
+        ],
+        "juist": 0,
+        "uitleg": "Inleiding."
+      },
+      {
+        "type": "invullen",
+        "tag": "tekst-schrijven",
+        "zin": "يُؤَثِّرُ في الصِّحَّةِ، وَ___ إِلى ذٰلِكَ أَنَّهُ مُكْلِفٌ.",
+        "nl": "Het beïnvloedt de gezondheid, en daarbij komt dat het duur is.",
+        "antwoord": [
+          "يُضافُ"
+        ],
+        "uitleg": "Lijdend.",
+        "woordbank": [
+          "يُضافُ",
+          "يُضيفُ",
+          "إِضافَةٌ"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tekst-schrijven",
+        "zin": "اُكْتُبْ ___ لِكُلِّ فِكْرَةٍ.",
+        "nl": "Schrijf een alinea per idee.",
+        "antwoord": [
+          "فِقْرَةً"
+        ],
+        "uitleg": "{ar|فِقْرَةٌ}",
+        "woordbank": [
+          "فِقْرَةً",
+          "فاصِلَةً",
+          "خاتِمَةً"
+        ]
+      },
+      {
+        "type": "invullen",
+        "tag": "tekst-schrijven",
+        "zin": "يَجِبُ أَنْ ___ النَّصَّ مَرَّةً أُخْرى.",
+        "nl": "Je moet de tekst nog een keer nalezen.",
+        "antwoord": [
+          "تُراجِعَ"
+        ],
+        "uitleg": "Manṣūb.",
+        "woordbank": [
+          "تُراجِعَ",
+          "تُراجِعُ",
+          "راجَعْتَ"
+        ],
+        "eind": true
+      },
+      {
+        "type": "vervoegen",
+        "tag": "tekst-schrijven",
+        "instructie": "Vul het juiste deel in.",
+        "rijen": [
+          {
+            "label": "begin van de tekst",
+            "antwoord": "تَمْهيد",
+            "tr": "tamhīd"
+          },
+          {
+            "label": "einde van de tekst",
+            "antwoord": "خاتِمَة",
+            "tr": "ḫātima"
+          }
+        ],
+        "uitleg": "Opbouw."
+      },
+      {
+        "type": "ordenen",
+        "tag": "tekst-schrijven",
+        "nl": "Verder bestaan er oplossingen.",
+        "woorden": [
+          "ثُمَّ",
+          "إِنَّ",
+          "الحُلولَ",
+          "مَوْجودَةٌ."
+        ],
+        "uitleg": "{ar|ثُمَّ إِنَّ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "tekst-schrijven",
+        "bron": "de alinea",
+        "antwoorden": [
+          "الفِقْرَةُ",
+          "الفقرة"
+        ],
+        "uitleg": "{ar|الفِقْرَةُ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "tekst-schrijven",
+        "bron": "النَّصُّ مُتَماسِكٌ.",
+        "antwoorden": [
+          "de tekst is samenhangend",
+          "de tekst hangt goed samen"
+        ],
+        "uitleg": "{ar|مُتَماسِكٌ}"
+      }
+    ]
+  }
+}

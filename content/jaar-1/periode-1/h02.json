@@ -1,0 +1,135 @@
+{
+  "id": "j1-p1-h02",
+  "code": "H02",
+  "type": "herhaling",
+  "titel": "Herhaling blok 1B + 1A",
+  "thema": "Groepen, voorwerpen en mensen beschrijven, wijzen en vragen",
+  "translitStandaard": true,
+  "leerdoelen": [
+    "alle persoonlijke voornaamwoorden (enkelvoud en meervoud) foutloos gebruiken.",
+    "bepaald en onbepaald onderscheiden en het lidwoord correct uitspreken (zon- en maanletters).",
+    "beschrijvingen maken met een bijvoeglijk naamwoord dat congrueert in geslacht en bepaaldheid.",
+    "vragen stellen en beantwoorden met ما، مَنْ، هَلْ en aanwijzende voornaamwoorden."
+  ],
+  "woorden": [],
+  "woordenUitleg": "Geen nieuwe woorden. Herhaal de woorden van les 1 tot en met 8 in je flashcards. Let vooral op het geslacht van elk woord.",
+
+  "grammatica": [
+    {
+      "titel": "Overzicht blok 1B",
+      "blokken": [
+        { "type": "tabel", "kop": ["Onderwerp", "Voorbeeld", "Les"], "arKolommen": [1], "rijen": [
+          ["Voornaamwoorden meervoud", "نَحْنُ، أَنْتُمْ، أَنْتُنَّ، هُمْ، هُنَّ|naḥnu, antum, antunna, hum, hunna", "L05"],
+          ["Dualis herkennen", "أَنْتُما، هُما|antumā, humā", "L05"],
+          ["Lidwoord en tanwīn", "قَلَمٌ — القَلَمُ|qalamun — al-qalamu", "L06"],
+          ["Zonneletter / maanletter", "الشَّمْسُ — القَمَرُ|aš-šams — al-qamar", "L06"],
+          ["Bijvoeglijk naamwoord (congruentie)", "بِنْتٌ ذَكِيَّةٌ — البِنْتُ الذَّكِيَّةُ|bintun ḏakiyya — al-bintu ḏ-ḏakiyya", "L07"],
+          ["Aanwijzend voornaamwoord", "هٰذا، هٰذِهِ، ذٰلِكَ، تِلْكَ|hāḏā, hāḏihi, ḏālika, tilka", "L08"],
+          ["Vragen", "ما هٰذا؟ مَنْ هٰذِهِ؟ هَلْ ...؟|mā hāḏā? man hāḏihi? hal ...?", "L08"]
+        ] },
+        { "type": "waarom", "md": "Bijna alles in dit blok draait om twee vragen die je bij elk woord stelt: **is het mannelijk of vrouwelijk?** en **is het bepaald of onbepaald?** Daarvan hangen af: het bijvoeglijk naamwoord, het aanwijzend voornaamwoord, en of je een zin of een woordgroep maakt." }
+      ]
+    },
+    {
+      "titel": "Drie keer hetzelfde patroon",
+      "blokken": [
+        { "type": "tabel", "kop": ["Woordgroep (beide bepaald)", "Zin (gezegde onbepaald)"], "arKolommen": [0, 1], "rijen": [
+          ["البَيْتُ الكَبيرُ|het grote huis", "البَيْتُ كَبيرٌ|het huis is groot"],
+          ["هٰذا الكِتابُ|dit boek", "هٰذا كِتابٌ|dit is een boek"],
+          ["الطّالِبَةُ الجَديدَةُ|de nieuwe studente", "الطّالِبَةُ جَديدَةٌ|de studente is nieuw"]
+        ] },
+        { "type": "voorbeelden", "items": [
+          { "ar": "هٰذِهِ الطّالِبَةُ الجَديدَةُ مِنْ مِصْرَ.", "tr": "hāḏihi ṭ-ṭālibatu l-jadīdatu min Miṣr.", "nl": "Deze nieuwe studente komt uit Egypte." },
+          { "ar": "هَلْ هُمْ أَصْدِقاءُ؟ — نَعَمْ، هُمْ زُمَلاءُ في الصَّفِّ.", "tr": "hal hum aṣdiqāʾ? — naʿam, hum zumalāʾu fi ṣ-ṣaff.", "nl": "Zijn zij vrienden? — Ja, ze zijn klasgenoten." },
+          { "ar": "ما ذٰلِكَ؟ — ذٰلِكَ حاسوبٌ قَديمٌ.", "tr": "mā ḏālika? — ḏālika ḥāsūbun qadīm.", "nl": "Wat is dat? — Dat is een oude computer." }
+        ] }
+      ]
+    }
+  ],
+
+  "oefeningen": [
+    {
+      "titel": "Gemengde woordenschat",
+      "items": [
+        { "type": "koppelen", "tag": "woordenschat", "paren": [
+          { "ar": "نَحْنُ", "nl": "wij", "woord": "j1-p1-l05-w01" },
+          { "ar": "سَبّورَةٌ", "nl": "schoolbord", "woord": "j1-p1-l06-w08" },
+          { "ar": "لَطيفٌ", "nl": "aardig", "woord": "j1-p1-l07-w02" },
+          { "ar": "مِفْتاحٌ", "nl": "sleutel", "woord": "j1-p1-l08-w12" },
+          { "ar": "مَدْرَسَةٌ", "nl": "school", "woord": "j1-p1-l05-w13" },
+          { "ar": "جارَةٌ", "nl": "buurvrouw", "woord": "j1-p1-l07-w21" }
+        ], "uitleg": "Woorden uit les 5 tot en met 8." },
+        { "type": "luisteren", "tag": "zonneletters", "tekst": "الشَّجَرَةُ", "vraag": "Hoe klinkt het lidwoord?", "opties": ["aš-šajara (l smelt samen)", "al-šajara (l hoorbaar)"], "juist": 0, "uitleg": "ش is een zonneletter." },
+        { "type": "luisteren", "tag": "uitspraak", "tekst": "هُنَّ زَميلاتٌ لَطيفاتٌ", "vraag": "Over wie gaat het?", "opties": ["een groep vrouwen", "een groep mannen", "twee personen"], "juist": 0,
+          "uitleg": "{ar|هُنَّ} en de uitgang ـاتٌ: een groep vrouwen." },
+        { "type": "meerkeuze", "tag": "meervoud-paar", "vraag": "Wat is het meervoud van {ar|صَديقٌ}?", "opties": ["أَصْدِقاءُ", "صَديقونَ", "صَديقاتٌ"], "juist": 0, "uitleg": "Gebroken meervoud: {ar|أَصْدِقاءُ}." }
+      ]
+    },
+    {
+      "titel": "Geslacht en bepaaldheid",
+      "items": [
+        { "type": "invullen", "tag": "congruentie", "zin": "هٰذِهِ ___ جَديدَةٌ.", "nl": "Dit is een nieuwe tas.", "woordbank": ["حَقيبَةٌ", "الحَقيبَةُ", "حَقيبَةً"], "antwoord": ["حَقيبَةٌ"], "uitleg": "Onbepaald → zin: *dit is een nieuwe tas*." },
+        { "type": "invullen", "tag": "aanwijzend", "zin": "___ الوَلَدُ ذَكِيٌّ.", "nl": "Die jongen is slim.", "woordbank": ["ذٰلِكَ", "تِلْكَ", "هٰذِهِ"], "antwoord": ["ذٰلِكَ"], "uitleg": "Veraf + mannelijk." },
+        { "type": "invullen", "tag": "congruentie", "zin": "الشَّمْسُ ___ جِدًّا.", "nl": "De zon is heel mooi.", "woordbank": ["جَميلَةٌ", "جَميلٌ", "الجَميلَةُ"], "antwoord": ["جَميلَةٌ"], "uitleg": "{ar|شَمْسٌ} is vrouwelijk zonder ة." },
+        { "type": "vervoegen", "tag": "voornaamwoorden-mv", "instructie": "Vul het voornaamwoord in.",
+          "rijen": [
+            { "label": "jij (v)", "antwoord": "أَنْتِ", "tr": "anti", "eind": true },
+            { "label": "jullie (m)", "antwoord": "أَنْتُمْ", "tr": "antum" },
+            { "label": "zij (v mv)", "antwoord": "هُنَّ", "tr": "hunna" },
+            { "label": "zij twee", "antwoord": "هُما", "tr": "humā" }
+          ], "uitleg": "Enkelvoud, meervoud en dualis door elkaar." },
+        { "type": "meerkeuze", "tag": "bepaaldheid", "vraag": "Welke betekenis hoort bij {ar|القِطَّةُ الصَّغيرَةُ هُنا}?", "opties": ["Het kleine katje is hier.", "De kat is klein en hier.", "Hier is een klein katje."], "juist": 0,
+          "uitleg": "{ar|القِطَّةُ الصَّغيرَةُ} = woordgroep; {ar|هُنا} = gezegde." }
+      ]
+    },
+    {
+      "titel": "Vragen en zinnen",
+      "items": [
+        { "type": "ordenen", "tag": "vragen", "nl": "Zijn jullie studenten?", "woorden": ["هَلْ", "أَنْتُمْ", "طُلّابٌ؟"], "uitleg": "{ar|هَلْ} + nominale zin." },
+        { "type": "ordenen", "tag": "congruentie", "nl": "Deze nieuwe studente komt uit Egypte.", "woorden": ["هٰذِهِ", "الطّالِبَةُ", "الجَديدَةُ", "مِنْ", "مِصْرَ."], "uitleg": "Aanwijzend + woordgroep + gezegde." },
+        { "type": "ordenen", "tag": "vragen", "nl": "Wat is dat? Dat is een oude computer.", "woorden": ["ما", "ذٰلِكَ؟", "ذٰلِكَ", "حاسوبٌ", "قَديمٌ."], "uitleg": "Vraag met {ar|ما}, antwoord met {ar|ذٰلِكَ} + onbepaald." }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        { "type": "vertalen", "richting": "nl-ar", "tag": "congruentie", "bron": "een aardige buurman", "antwoorden": ["جارٌ لَطيفٌ"], "uitleg": "{ar|جارٌ لَطيفٌ}" },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "aanwijzend", "bron": "Dit is de school.", "antwoorden": ["هٰذِهِ هِيَ المَدْرَسَةُ"], "uitleg": "*de* school → met {ar|هِيَ} ertussen: {ar|هٰذِهِ هِيَ المَدْرَسَةُ}." },
+        { "type": "vertalen", "richting": "nl-ar", "tag": "voornaamwoorden-mv", "bron": "Wij zijn leraren.", "antwoorden": ["نَحْنُ مُعَلِّمونَ"], "uitleg": "{ar|نَحْنُ مُعَلِّمونَ}" },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "vragen", "bron": "هَلْ هِيَ أُسْتاذَةٌ؟", "tr": "hal hiya ustāḏa?", "antwoorden": ["is zij docente", "is ze docente", "is zij een docente", "is zij lerares", "is ze lerares"], "uitleg": "{ar|هَلْ} = ja/nee-vraag." },
+        { "type": "vertalen", "richting": "ar-nl", "tag": "lidwoord", "bron": "الرَّجُلُ الغاضِبُ", "tr": "ar-rajulu l-ġāḍib", "antwoorden": ["de boze man"], "uitleg": "Woordgroep." }
+      ]
+    }
+  ],
+
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      { "type": "meerkeuze", "tag": "voornaamwoorden-mv", "vraag": "Je praat over een gemengde groep (mannen en vrouwen). 'Zij' is ...", "opties": ["هُمْ", "هُنَّ", "هِيَ"], "juist": 0, "uitleg": "Gemengd = mannelijke vorm." },
+      { "type": "meerkeuze", "tag": "zonneletters", "vraag": "Bij welk woord hoor je de l van ال?", "opties": ["البابُ", "السَّيّارَةُ", "الطّالِبُ", "النّورُ"], "juist": 0, "uitleg": "ب is een maanletter." },
+      { "type": "meerkeuze", "tag": "aanwijzend", "vraag": "'Deze fiets is nieuw' is ...", "opties": ["هٰذِهِ الدَّرّاجَةُ جَديدَةٌ.", "هٰذِهِ دَرّاجَةٌ جَديدَةٌ.", "هٰذا الدَّرّاجَةُ جَديدٌ."], "juist": 0, "uitleg": "Woordgroep (met ال) + gezegde." },
+      { "type": "meerkeuze", "tag": "congruentie", "vraag": "Welke woordgroep is correct?", "opties": ["الجارَةُ اللَّطيفَةُ", "الجارَةُ لَطيفٌ", "جارَةٌ اللَّطيفَةُ"], "juist": 0, "uitleg": "Gelijk in geslacht én bepaaldheid." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "مَنْ هٰؤُلاءِ؟", "vraag": "Wat wordt er gevraagd? (nieuw woord: هٰؤُلاءِ = deze mensen)", "opties": ["Wie zijn dit?", "Wat is dit?", "Wie is zij?"], "juist": 0,
+        "uitleg": "{ar|هٰؤُلاءِ} is het meervoud van {ar|هٰذا}/{ar|هٰذِهِ} voor personen. Je leert het later." },
+      { "type": "luisteren", "tag": "uitspraak", "tekst": "النّافِذَةُ كَبيرَةٌ", "vraag": "Wat hoor je?", "opties": ["Het raam is groot.", "Het grote raam.", "De deur is groot."], "juist": 0, "uitleg": "Onbepaald gezegde: een zin." },
+      { "type": "invullen", "tag": "aanwijzend", "zin": "___ قِطَّةٌ؟", "nl": "Is dit een kat?", "woordbank": ["أَهٰذِهِ", "أَهٰذا", "مَنْ"], "antwoord": ["أَهٰذِهِ"], "uitleg": "{ar|أَ} + {ar|هٰذِهِ} (vrouwelijk)." },
+      { "type": "invullen", "tag": "lidwoord", "zin": "هٰذا ___.", "nl": "Dit is een pen.", "woordbank": ["قَلَمٌ", "القَلَمُ"], "antwoord": ["قَلَمٌ"], "uitleg": "Onbepaald → zin." },
+      { "type": "vervoegen", "tag": "congruentie", "instructie": "Maak vrouwelijk (zonder tanwīn).",
+        "rijen": [
+          { "label": "ذَكِيّ", "antwoord": "ذَكِيَّة", "tr": "ḏakiyya" },
+          { "label": "مُعَلِّم", "antwoord": "مُعَلِّمَة", "tr": "muʿallima" }
+        ], "uitleg": "+ ة" },
+      { "type": "koppelen", "tag": "woordenschat", "paren": [
+        { "ar": "زَميلٌ", "nl": "collega" },
+        { "ar": "خَريطَةٌ", "nl": "landkaart" },
+        { "ar": "قَوِيٌّ", "nl": "sterk" },
+        { "ar": "هَدِيَّةٌ", "nl": "cadeau" }
+      ], "uitleg": "Herhaal de woordenlijsten." },
+      { "type": "ordenen", "tag": "congruentie", "nl": "De slimme studente is heel ijverig.", "woorden": ["الطّالِبَةُ", "الذَّكِيَّةُ", "مُجْتَهِدَةٌ", "جِدًّا."], "uitleg": "Woordgroep + gezegde + {ar|جِدًّا}." },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "vragen", "bron": "Wie zijn jullie? (m)", "antwoorden": ["مَنْ أَنْتُمْ؟"], "uitleg": "{ar|مَنْ أَنْتُمْ؟}" },
+      { "type": "vertalen", "richting": "nl-ar", "tag": "lidwoord", "bron": "de les", "antwoorden": ["الدَّرْسُ"], "uitleg": "{ar|الدَّرْسُ} (*ad-dars*)" },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "voornaamwoorden-mv", "bron": "أَنْتُنَّ طالِباتٌ مُجْتَهِداتٌ.", "tr": "antunna ṭālibātun mujtahidāt.", "antwoorden": ["jullie zijn ijverige studentes", "jullie zijn ijverige studenten", "jullie zijn hardwerkende studentes"], "uitleg": "{ar|أَنْتُنَّ} = jullie (v)." },
+      { "type": "vertalen", "richting": "ar-nl", "tag": "aanwijzend", "bron": "تِلْكَ زَهْرَةٌ.", "tr": "tilka zahra.", "antwoorden": ["dat is een bloem", "die is een bloem"], "uitleg": "{ar|تِلْكَ} + onbepaald = zin." }
+    ]
+  }
+}

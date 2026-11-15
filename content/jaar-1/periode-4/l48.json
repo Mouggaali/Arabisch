@@ -1,0 +1,790 @@
+{
+  "id": "j1-p4-l48",
+  "code": "L48",
+  "type": "les",
+  "titel": "Een bericht schrijven",
+  "thema": "Een korte e-mail aan een vriend schrijven",
+  "translitStandaard": false,
+  "leerdoelen": [
+    "een informeel bericht openen en afsluiten.",
+    "een bericht opbouwen: groet, nieuws, vraag, afsluiting.",
+    "de stof van jaar 1 combineren in een eigen tekst."
+  ],
+  "woorden": [
+    {
+      "id": "j1-p4-l48-w01",
+      "ar": "عَزيزي",
+      "tr": "ʿazīzī",
+      "nl": [
+        "beste (aan een man)",
+        "lieve"
+      ],
+      "soort": "aanhef",
+      "notitie": "Aan een vrouw: {ar|عَزيزَتي}."
+    },
+    {
+      "id": "j1-p4-l48-w02",
+      "ar": "تَحِيَّةٌ",
+      "tr": "taḥiyya",
+      "nl": [
+        "groet"
+      ],
+      "soort": "zelfstandig naamwoord",
+      "notitie": "Meervoud: {ar|تَحِيّاتٌ}."
+    },
+    {
+      "id": "j1-p4-l48-w03",
+      "ar": "مَعَ تَحِيّاتي",
+      "tr": "maʿa taḥiyyātī",
+      "nl": [
+        "met vriendelijke groet"
+      ],
+      "soort": "afsluiting"
+    },
+    {
+      "id": "j1-p4-l48-w04",
+      "ar": "أَتَمَنّى أَنْ",
+      "tr": "atamannā an",
+      "nl": [
+        "ik hoop dat",
+        "ik wens dat"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "{ar|أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ} = ik hoop dat het goed met je gaat."
+    },
+    {
+      "id": "j1-p4-l48-w05",
+      "ar": "اِشْتَقْتُ إِلَيْكَ",
+      "tr": "ištaqtu ilayk",
+      "nl": [
+        "ik mis je (m)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Aan een vrouw: {ar|اِشْتَقْتُ إِلَيْكِ}."
+    },
+    {
+      "id": "j1-p4-l48-w06",
+      "ar": "أَخْبارٌ",
+      "tr": "aḫbār",
+      "nl": [
+        "nieuws"
+      ],
+      "soort": "zelfstandig naamwoord (mv)",
+      "notitie": "Enkelvoud: {ar|خَبَرٌ}. {ar|ما أَخْبارُكَ؟} = hoe gaat het met je?"
+    },
+    {
+      "id": "j1-p4-l48-w07",
+      "ar": "رَدٌّ",
+      "tr": "radd",
+      "nl": [
+        "antwoord",
+        "reactie"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l48-w08",
+      "ar": "في انْتِظارِ رَدِّكَ",
+      "tr": "fi ntiẓāri raddik",
+      "nl": [
+        "in afwachting van je antwoord"
+      ],
+      "soort": "afsluiting"
+    },
+    {
+      "id": "j1-p4-l48-w09",
+      "ar": "سَلِّمْ عَلى",
+      "tr": "sallim ʿalā",
+      "nl": [
+        "doe de groeten aan (m)"
+      ],
+      "soort": "uitdrukking",
+      "notitie": "Aan een vrouw: {ar|سَلِّمي عَلى}."
+    },
+    {
+      "id": "j1-p4-l48-w10",
+      "ar": "مَوْضوعٌ",
+      "tr": "mawḍūʿ",
+      "nl": [
+        "onderwerp"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l48-w11",
+      "ar": "أَرْسَلَ",
+      "tr": "arsala",
+      "nl": [
+        "sturen",
+        "versturen"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يُرْسِلُ}. Vorm IV, uitleg in les 55."
+    },
+    {
+      "id": "j1-p4-l48-w12",
+      "ar": "قَريبًا",
+      "tr": "qarīban",
+      "nl": [
+        "binnenkort"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l48-w13",
+      "ar": "دَعْوَةٌ",
+      "tr": "daʿwa",
+      "nl": [
+        "uitnodiging"
+      ],
+      "soort": "zelfstandig naamwoord"
+    },
+    {
+      "id": "j1-p4-l48-w14",
+      "ar": "صَديقُكَ المُخْلِصُ",
+      "tr": "ṣadīquka l-muḫliṣ",
+      "nl": [
+        "je trouwe vriend"
+      ],
+      "soort": "afsluiting",
+      "notitie": "Vrouw: {ar|صَديقَتُكَ المُخْلِصَةُ}."
+    },
+    {
+      "id": "j1-p4-l48-w15",
+      "ar": "بِالمُناسَبَةِ",
+      "tr": "bi-l-munāsaba",
+      "nl": [
+        "trouwens",
+        "tussen haakjes"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l48-w16",
+      "ar": "أَخيرًا",
+      "tr": "aḫīran",
+      "nl": [
+        "tot slot",
+        "eindelijk"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l48-w17",
+      "ar": "أَوَّلًا",
+      "tr": "awwalan",
+      "nl": [
+        "ten eerste",
+        "eerst"
+      ],
+      "soort": "bijwoord"
+    },
+    {
+      "id": "j1-p4-l48-w18",
+      "ar": "اِنْتَظَرَ",
+      "tr": "intaẓara",
+      "nl": [
+        "wachten"
+      ],
+      "soort": "werkwoord",
+      "notitie": "Muḍāriʿ: {ar|يَنْتَظِرُ}; maṣdar {ar|اِنْتِظارٌ}."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Opbouw van een bericht",
+      "blokken": [
+        {
+          "type": "tabel",
+          "kop": [
+            "Deel",
+            "Voorbeeld",
+            "Betekenis"
+          ],
+          "arKolommen": [
+            1
+          ],
+          "rijen": [
+            [
+              "aanhef",
+              "عَزيزي سَميرُ،|ʿazīzī Samīr,",
+              "Beste Samir,"
+            ],
+            [
+              "groet",
+              "السَّلامُ عَلَيْكُمْ. أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ.|as-salāmu ʿalaykum. atamannā an takūna bi-ḫayr.",
+              "Hallo. Ik hoop dat het goed met je gaat."
+            ],
+            [
+              "nieuws",
+              "أَنا بِخَيْرٍ وَالحَمْدُ لِلّٰهِ. …|ana bi-ḫayrin wa-l-ḥamdu lillāh.",
+              "Met mij gaat het goed. …"
+            ],
+            [
+              "vraag",
+              "ما أَخْبارُكَ؟|mā aḫbāruk?",
+              "Hoe gaat het met jou?"
+            ],
+            [
+              "afsluiting",
+              "في انْتِظارِ رَدِّكَ. مَعَ تَحِيّاتي،|fi ntiẓāri raddik. maʿa taḥiyyātī,",
+              "Ik wacht op je antwoord. Groetjes,"
+            ]
+          ]
+        },
+        {
+          "type": "waarom",
+          "md": "Arabische brieven beginnen vaak uitgebreider dan Nederlandse: eerst een groet en een goede wens, pas daarna de zaak. Een bericht dat meteen met het onderwerp begint, kan kortaf overkomen."
+        },
+        {
+          "type": "letop",
+          "md": "Pas de vormen aan de ontvanger aan: {ar|عَزيزي} / {ar|عَزيزَتي}، {ar|رَدِّكَ} / {ar|رَدِّكِ}، {ar|تَكونَ} / {ar|تَكوني}."
+        }
+      ]
+    },
+    {
+      "titel": "Voorbeeldbericht",
+      "blokken": [
+        {
+          "type": "voorbeelden",
+          "items": [
+            {
+              "ar": "عَزيزي سَميرُ،",
+              "tr": "ʿazīzī Samīr,",
+              "nl": "Beste Samir,"
+            },
+            {
+              "ar": "السَّلامُ عَلَيْكُمْ. أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ.",
+              "tr": "as-salāmu ʿalaykum. atamannā an takūna bi-ḫayr.",
+              "nl": "Hallo! Ik hoop dat het goed met je gaat."
+            },
+            {
+              "ar": "أَنا الآنَ في مَرّاكُشَ مَعَ عائِلَتي. الجَوُّ حارٌّ جِدًّا، لٰكِنَّ المَدينَةَ جَميلَةٌ.",
+              "tr": "ana l-āna fī Marrākuša maʿa ʿāʾilatī. al-jawwu ḥārrun jiddan, lākinna l-madīnata jamīla.",
+              "nl": "Ik ben nu in Marrakesh met mijn familie. Het is erg warm, maar de stad is mooi."
+            },
+            {
+              "ar": "أَمْسِ زُرْنا السّوقَ وَاشْتَرَيْتُ هَدِيَّةً لَكَ.",
+              "tr": "amsi zurnā s-sūqa wa-štaraytu hadiyyatan lak.",
+              "nl": "Gisteren bezochten we de markt en heb ik een cadeau voor je gekocht."
+            },
+            {
+              "ar": "سَنَرْجِعُ إِلى هولَنْدا الأُسْبوعَ القادِمَ.",
+              "tr": "sa-narjiʿu ilā Hōlandā l-usbūʿa l-qādim.",
+              "nl": "Volgende week gaan we terug naar Nederland."
+            },
+            {
+              "ar": "بِالمُناسَبَةِ، هَلْ تُريدُ أَنْ نَلْتَقِيَ يَوْمَ السَّبْتِ؟",
+              "tr": "bi-l-munāsaba, hal turīdu an naltaqiya yawma s-sabt?",
+              "nl": "Trouwens, wil je zaterdag afspreken?",
+              "review": {
+                "status": "onzeker",
+                "note": "نَلْتَقِيَ (vorm VIII, defectief) is nieuw; controleren."
+              }
+            },
+            {
+              "ar": "سَلِّمْ عَلى أُسْرَتِكَ. في انْتِظارِ رَدِّكَ.",
+              "tr": "sallim ʿalā usratik. fi ntiẓāri raddik.",
+              "nl": "Doe de groeten aan je familie. Ik wacht op je antwoord."
+            },
+            {
+              "ar": "مَعَ تَحِيّاتي، صَديقُكَ المُخْلِصُ يوسُفُ",
+              "tr": "maʿa taḥiyyātī, ṣadīquka l-muḫliṣu Yūsuf",
+              "nl": "Groetjes, je trouwe vriend Youssef"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "oefeningen": [
+    {
+      "titel": "Woorden",
+      "items": [
+        {
+          "type": "koppelen",
+          "tag": "bericht-schrijven",
+          "paren": [
+            {
+              "ar": "عَزيزي",
+              "nl": "beste",
+              "woord": "j1-p4-l48-w01"
+            },
+            {
+              "ar": "مَعَ تَحِيّاتي",
+              "nl": "met vriendelijke groet",
+              "woord": "j1-p4-l48-w03"
+            },
+            {
+              "ar": "أَخْبارٌ",
+              "nl": "nieuws",
+              "woord": "j1-p4-l48-w06"
+            },
+            {
+              "ar": "رَدٌّ",
+              "nl": "antwoord",
+              "woord": "j1-p4-l48-w07"
+            },
+            {
+              "ar": "دَعْوَةٌ",
+              "nl": "uitnodiging",
+              "woord": "j1-p4-l48-w13"
+            },
+            {
+              "ar": "قَريبًا",
+              "nl": "binnenkort",
+              "woord": "j1-p4-l48-w12"
+            }
+          ],
+          "uitleg": "Herhaal de woordenlijst."
+        },
+        {
+          "type": "luisteren",
+          "tag": "bericht-schrijven",
+          "tekst": "اِشْتَقْتُ إِلَيْكِ",
+          "vraag": "Wat hoor je?",
+          "opties": [
+            "Ik mis je (v).",
+            "Ik schrijf je (v).",
+            "Ik wacht op je (v)."
+          ],
+          "juist": 0,
+          "uitleg": "{ar|اِشْتَقْتُ إِلَيْكِ}"
+        }
+      ]
+    },
+    {
+      "titel": "Opbouw",
+      "items": [
+        {
+          "type": "meerkeuze",
+          "tag": "bericht-schrijven",
+          "vraag": "Hoe begin je een bericht aan je vriendin Laila?",
+          "opties": [
+            "عَزيزَتي لَيْلى،",
+            "عَزيزي لَيْلى،",
+            "مَعَ تَحِيّاتي لَيْلى،"
+          ],
+          "juist": 0,
+          "uitleg": "Aan een vrouw: {ar|عَزيزَتي}."
+        },
+        {
+          "type": "meerkeuze",
+          "tag": "bericht-schrijven",
+          "vraag": "Welke zin past aan het eind van een bericht?",
+          "opties": [
+            "في انْتِظارِ رَدِّكَ.",
+            "عَزيزي أَحْمَدُ،",
+            "أَوَّلًا، أَنا بِخَيْرٍ."
+          ],
+          "juist": 0,
+          "uitleg": "In afwachting van je antwoord."
+        },
+        {
+          "type": "invullen",
+          "tag": "bericht-schrijven",
+          "zin": "أَتَمَنّى أَنْ ___ بِخَيْرٍ.",
+          "nl": "Ik hoop dat het goed met je (m) gaat.",
+          "woordbank": [
+            "تَكونَ",
+            "تَكونُ",
+            "كُنْتَ"
+          ],
+          "antwoord": [
+            "تَكونَ"
+          ],
+          "uitleg": "Na {ar|أَنْ}: eind op -a.",
+          "eind": true
+        },
+        {
+          "type": "invullen",
+          "tag": "bericht-schrijven",
+          "zin": "سَلِّمْ ___ عائِلَتِكَ.",
+          "nl": "Doe de groeten aan je familie.",
+          "woordbank": [
+            "عَلى",
+            "إِلى",
+            "مِنْ"
+          ],
+          "antwoord": [
+            "عَلى",
+            "على"
+          ],
+          "uitleg": "{ar|سَلِّمْ عَلى} = groet."
+        },
+        {
+          "type": "ordenen",
+          "tag": "bericht-schrijven",
+          "nl": "Gisteren bezochten we de markt en heb ik een cadeau voor je gekocht.",
+          "woorden": [
+            "أَمْسِ",
+            "زُرْنا",
+            "السّوقَ",
+            "وَاشْتَرَيْتُ",
+            "هَدِيَّةً",
+            "لَكَ."
+          ],
+          "uitleg": "Verleden tijd + وَ."
+        },
+        {
+          "type": "vervoegen",
+          "tag": "bericht-schrijven",
+          "instructie": "Pas aan voor een vrouwelijke ontvanger.",
+          "rijen": [
+            {
+              "label": "عَزيزي → ",
+              "antwoord": "عَزيزَتي",
+              "tr": "ʿazīzatī"
+            },
+            {
+              "label": "رَدِّكَ → ",
+              "antwoord": "رَدِّكِ",
+              "tr": "raddiki",
+              "eind": true
+            },
+            {
+              "label": "إِلَيْكَ → ",
+              "antwoord": "إِلَيْكِ",
+              "tr": "ilayki",
+              "eind": true
+            }
+          ],
+          "uitleg": "ة in de aanhef; ـكِ voor *jij (v)*."
+        }
+      ]
+    },
+    {
+      "titel": "Vertalen",
+      "items": [
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "bericht-schrijven",
+          "bron": "Hoe gaat het met je? (Wat is je nieuws?)",
+          "antwoorden": [
+            "ما أَخْبارُكَ؟",
+            "ما أَخْبارُكِ؟",
+            "ما أَخْبارُكَ"
+          ],
+          "uitleg": "{ar|ما أَخْبارُكَ؟}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "nl-ar",
+          "tag": "bericht-schrijven",
+          "bron": "met vriendelijke groet",
+          "antwoorden": [
+            "مَعَ تَحِيّاتي"
+          ],
+          "uitleg": "{ar|مَعَ تَحِيّاتي}"
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "bericht-schrijven",
+          "bron": "أَرْسَلْتُ لَكَ دَعْوَةً.",
+          "antwoorden": [
+            "ik heb je een uitnodiging gestuurd",
+            "ik stuurde je een uitnodiging",
+            "ik heb jou een uitnodiging gestuurd"
+          ],
+          "uitleg": "{ar|أَرْسَلَ} = sturen."
+        },
+        {
+          "type": "vertalen",
+          "richting": "ar-nl",
+          "tag": "bericht-schrijven",
+          "bron": "سَنَرْجِعُ قَريبًا.",
+          "antwoorden": [
+            "we komen binnenkort terug",
+            "wij komen binnenkort terug",
+            "we zullen binnenkort terugkomen",
+            "we gaan binnenkort terug"
+          ],
+          "uitleg": "{ar|قَريبًا} = binnenkort."
+        }
+      ]
+    },
+    {
+      "titel": "Zelf schrijven",
+      "items": [
+        {
+          "type": "schrijven",
+          "modus": "schrijven",
+          "tag": "bericht-schrijven",
+          "opdracht": "Schrijf een kort bericht (ongeveer 60 woorden) aan een vriend of vriendin. Vertel wat je dit weekend hebt gedaan en stel een vraag terug.",
+          "model": [
+            {
+              "ar": "عَزيزي سَميرُ،",
+              "tr": "ʿazīzī Samīr,",
+              "nl": "Beste Samir,"
+            },
+            {
+              "ar": "السَّلامُ عَلَيْكُمْ. أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ.",
+              "tr": "as-salāmu ʿalaykum. atamannā an takūna bi-ḫayr.",
+              "nl": "Hallo! Ik hoop dat het goed met je gaat."
+            },
+            {
+              "ar": "أَنا الآنَ في مَرّاكُشَ مَعَ عائِلَتي. الجَوُّ حارٌّ جِدًّا، لٰكِنَّ المَدينَةَ جَميلَةٌ.",
+              "tr": "ana l-āna fī Marrākuša maʿa ʿāʾilatī. al-jawwu ḥārrun jiddan, lākinna l-madīnata jamīla.",
+              "nl": "Ik ben nu in Marrakesh met mijn familie. Het is erg warm, maar de stad is mooi."
+            },
+            {
+              "ar": "أَمْسِ زُرْنا السّوقَ وَاشْتَرَيْتُ هَدِيَّةً لَكَ.",
+              "tr": "amsi zurnā s-sūqa wa-štaraytu hadiyyatan lak.",
+              "nl": "Gisteren bezochten we de markt en heb ik een cadeau voor je gekocht."
+            },
+            {
+              "ar": "سَنَرْجِعُ إِلى هولَنْدا الأُسْبوعَ القادِمَ.",
+              "tr": "sa-narjiʿu ilā Hōlandā l-usbūʿa l-qādim.",
+              "nl": "Volgende week gaan we terug naar Nederland."
+            },
+            {
+              "ar": "بِالمُناسَبَةِ، هَلْ تُريدُ أَنْ نَلْتَقِيَ يَوْمَ السَّبْتِ؟",
+              "tr": "bi-l-munāsaba, hal turīdu an naltaqiya yawma s-sabt?",
+              "nl": "Trouwens, wil je zaterdag afspreken?"
+            },
+            {
+              "ar": "سَلِّمْ عَلى أُسْرَتِكَ. في انْتِظارِ رَدِّكَ.",
+              "tr": "sallim ʿalā usratik. fi ntiẓāri raddik.",
+              "nl": "Doe de groeten aan je familie. Ik wacht op je antwoord."
+            },
+            {
+              "ar": "مَعَ تَحِيّاتي، صَديقُكَ المُخْلِصُ يوسُفُ",
+              "tr": "maʿa taḥiyyātī, ṣadīquka l-muḫliṣu Yūsuf",
+              "nl": "Groetjes, je trouwe vriend Youssef"
+            }
+          ],
+          "checklist": [
+            "Aanhef met {ar|عَزيزي} / {ar|عَزيزَتي} en een groet.",
+            "De verleden tijd is goed vervoegd ({ar|ذَهَبْتُ، زُرْتُ …}).",
+            "Minstens twee voegwoorden ({ar|وَ، ثُمَّ، لٰكِنْ، لِأَنَّ}).",
+            "Een vraag aan de lezer.",
+            "Een afsluiting ({ar|مَعَ السَّلامَةِ}, {ar|إِلى اللِّقاءِ}).",
+            "Spelling klopt: {ar|ة} / {ar|ه}, {ar|ى} / {ar|ي} en de hamza."
+          ],
+          "uitleg": "Zelfbeoordeling: vergelijk je tekst met het modelantwoord en vink eerlijk af wat klopt. Wat je niet kon aanvinken, is je oefenpunt voor de volgende keer.",
+          "woorden": [
+            "عَزيزي",
+            "كَيْفَ حالُكَ؟",
+            "ثُمَّ",
+            "لٰكِنْ",
+            "مَعَ السَّلامَةِ"
+          ],
+          "minimum": 40
+        }
+      ]
+    }
+  ],
+  "toets": {
+    "drempel": 0.7,
+    "items": [
+      {
+        "type": "koppelen",
+        "tag": "woordenschat",
+        "paren": [
+          {
+            "ar": "مَوْضوعٌ",
+            "nl": "onderwerp"
+          },
+          {
+            "ar": "تَحِيَّةٌ",
+            "nl": "groet"
+          },
+          {
+            "ar": "أَوَّلًا",
+            "nl": "ten eerste"
+          },
+          {
+            "ar": "أَخيرًا",
+            "nl": "tot slot"
+          },
+          {
+            "ar": "بِالمُناسَبَةِ",
+            "nl": "trouwens"
+          }
+        ],
+        "uitleg": "Herhaal de woordenlijst."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bericht-schrijven",
+        "vraag": "Wat betekent {ar|اِشْتَقْتُ إِلَيْكَ}?",
+        "opties": [
+          "Ik mis je.",
+          "Ik schrijf je.",
+          "Ik bel je."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|اِشْتَقْتُ إِلَيْكَ}"
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bericht-schrijven",
+        "vraag": "Welke volgorde past het best in een Arabisch bericht?",
+        "opties": [
+          "aanhef – groet en wens – nieuws – vraag – afsluiting",
+          "nieuws – aanhef – vraag – groet",
+          "afsluiting – nieuws – aanhef"
+        ],
+        "juist": 0,
+        "uitleg": "Eerst groet en wens, dan de zaak."
+      },
+      {
+        "type": "meerkeuze",
+        "tag": "bericht-schrijven",
+        "vraag": "Je schrijft aan je vriendin Sara. Hoe sluit je af?",
+        "opties": [
+          "في انْتِظارِ رَدِّكِ.",
+          "في انْتِظارِ رَدِّكَ.",
+          "في انْتِظارِ رَدِّكُمْ."
+        ],
+        "juist": 0,
+        "uitleg": "ـكِ voor een vrouw."
+      },
+      {
+        "type": "luisteren",
+        "tag": "bericht-schrijven",
+        "tekst": "أَتَمَنّى أَنْ تَكونَ بِخَيْرٍ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Ik hoop dat het goed met je gaat.",
+          "Ik weet dat je ziek bent.",
+          "Ik hoop dat je komt."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|أَتَمَنّى أَنْ}"
+      },
+      {
+        "type": "luisteren",
+        "tag": "bericht-schrijven",
+        "tekst": "سَلِّمْ عَلى أُسْرَتِكَ",
+        "vraag": "Wat hoor je?",
+        "opties": [
+          "Doe de groeten aan je familie.",
+          "Bel je familie.",
+          "Bezoek je familie."
+        ],
+        "juist": 0,
+        "uitleg": "{ar|سَلِّمْ عَلى}"
+      },
+      {
+        "type": "invullen",
+        "tag": "bericht-schrijven",
+        "zin": "___ سَميرُ،",
+        "nl": "Beste Samir,",
+        "woordbank": [
+          "عَزيزي",
+          "عَزيزَتي",
+          "مَعَ تَحِيّاتي"
+        ],
+        "antwoord": [
+          "عَزيزي"
+        ],
+        "uitleg": "Aan een man: {ar|عَزيزي}."
+      },
+      {
+        "type": "invullen",
+        "tag": "an-mudari",
+        "zin": "هَلْ تُريدُ أَنْ ___ يَوْمَ السَّبْتِ؟",
+        "nl": "Wil je zaterdag komen?",
+        "woordbank": [
+          "تَأْتِيَ",
+          "تَأْتي",
+          "أَتَيْتَ"
+        ],
+        "antwoord": [
+          "تَأْتِيَ"
+        ],
+        "uitleg": "Na {ar|أَنْ}: -a.",
+        "eind": true,
+        "review": {
+          "status": "onzeker",
+          "note": "تَأْتِيَ (defectief + hamza) is nieuw; controleren."
+        }
+      },
+      {
+        "type": "vervoegen",
+        "tag": "bericht-schrijven",
+        "instructie": "Pas aan voor een vrouwelijke ontvanger.",
+        "rijen": [
+          {
+            "label": "صَديقُكَ → ",
+            "antwoord": "صَديقُكِ",
+            "tr": "ṣadīquki",
+            "eind": true
+          },
+          {
+            "label": "سَلِّمْ → ",
+            "antwoord": "سَلِّمي",
+            "tr": "sallimī"
+          }
+        ],
+        "uitleg": "ـكِ en ـي voor een vrouw."
+      },
+      {
+        "type": "ordenen",
+        "tag": "bericht-schrijven",
+        "nl": "Ik hoop dat het goed met je gaat.",
+        "woorden": [
+          "أَتَمَنّى",
+          "أَنْ",
+          "تَكونَ",
+          "بِخَيْرٍ."
+        ],
+        "uitleg": "{ar|أَتَمَنّى أَنْ} + muḍāriʿ op -a."
+      },
+      {
+        "type": "ordenen",
+        "tag": "bericht-schrijven",
+        "nl": "Volgende week gaan we terug naar Nederland.",
+        "woorden": [
+          "سَنَرْجِعُ",
+          "إِلى",
+          "هولَنْدا",
+          "الأُسْبوعَ",
+          "القادِمَ."
+        ],
+        "uitleg": "Toekomst."
+      },
+      {
+        "type": "vertalen",
+        "richting": "nl-ar",
+        "tag": "bericht-schrijven",
+        "bron": "nieuws",
+        "antwoorden": [
+          "أَخْبارٌ",
+          "الأَخْبارُ"
+        ],
+        "uitleg": "{ar|أَخْبارٌ}"
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "bericht-schrijven",
+        "bron": "أَنا الآنَ في مَرّاكُشَ مَعَ عائِلَتي.",
+        "antwoorden": [
+          "ik ben nu in marrakesh met mijn familie",
+          "ik ben nu met mijn familie in marrakesh",
+          "ik ben nu in marrakech met mijn familie",
+          "ik ben nu met mijn familie in marrakech"
+        ],
+        "uitleg": "Nominale zin."
+      },
+      {
+        "type": "vertalen",
+        "richting": "ar-nl",
+        "tag": "bericht-schrijven",
+        "bron": "شُكْرًا عَلى رِسالَتِكَ.",
+        "antwoorden": [
+          "bedankt voor je bericht",
+          "dank je voor je bericht",
+          "bedankt voor je brief",
+          "dank je voor je brief",
+          "dank je wel voor je bericht"
+        ],
+        "uitleg": "{ar|شُكْرًا عَلى} = bedankt voor."
+      }
+    ]
+  }
+}
