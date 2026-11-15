@@ -6,6 +6,12 @@
       "runtimeExecutable": "py",
       "runtimeArgs": ["-m", "http.server", "8080"],
       "port": 8080
+    },
+    {
+      "name": "darb-dist",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["-m", "http.server", "8090", "--directory", "dist"],
+      "port": 8090
     }
   ]
 }
