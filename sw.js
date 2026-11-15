@@ -31,6 +31,42 @@ self.addEventListener('message', (e) => {
   if (e.data?.type === 'SKIP_WAITING') self.skipWaiting();
 });
 
+// Herinnering (Periodic Background Sync, alleen Chrome/Android met geïnstalleerde app).
+// De pagina schrijft in cache 'darb-status' wanneer er voor het laatst geoefend is (de service worker
+// kan localStorage niet lezen). Is dat niet vandaag en is er vandaag nog geen melding geweest, dan volgt een melding.
+const STATUS_CACHE = 'darb-status';
+const STATUS_URL = 'status.json';
+
+self.addEventListener('periodicsync', (e) => {
+  if (e.tag === 'darb-herinnering') e.waitUntil(remind());
+});
+
+async function remind() {
+  const cache = await caches.open(STATUS_CACHE);
+  const res = await cache.match(STATUS_URL);
+  if (!res) return;
+  const status = await res.json();
+  const vandaag = new Date().toLocaleDateString('sv-SE');
+  if (!status.herinnering || status.laatsteActiviteit === vandaag || status.laatsteMelding === vandaag) return;
+  if (new Date().getHours() < 9) return; // niet 's nachts
+  await self.registration.showNotification('Tijd voor Arabisch', {
+    body: status.reeks > 1 ? `Houd je reeks van ${status.reeks} dagen vast: herhaal even je flashcards.` : 'Je flashcards staan klaar. Een kwartiertje is genoeg.',
+    icon: 'icons/icon-192.png', badge: 'icons/icon-192.png', tag: 'darb-herinnering', data: { url: './#/kaarten' },
+  });
+  await cache.put(STATUS_URL, new Response(JSON.stringify({ ...status, laatsteMelding: vandaag }), { headers: { 'Content-Type': 'application/json' } }));
+}
+
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close();
+  const url = new URL(e.notification.data?.url || './', self.registration.scope).href;
+  e.waitUntil((async () => {
+    const wins = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
+    const open = wins.find((w) => w.url.startsWith(self.registration.scope));
+    if (open) { await open.navigate(url).catch(() => null); return open.focus(); }
+    return self.clients.openWindow(url);
+  })());
+});
+
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;

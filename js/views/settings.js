@@ -37,6 +37,14 @@ export function renderSettings(main) {
       setting('Weergave', 'Licht, donker of volgens je systeem.',
         select([['auto', 'Systeem'], ['licht', 'Licht'], ['donker', 'Donker']], s.thema, (v) => { store.setSetting('thema', v); applyTheme(); }))),
 
+    h('section.panel.glass.rows', { style: { marginTop: '18px' } },
+      h('h2', 'Planning en motivatie'),
+      setting('Startdatum', 'Vanaf deze dag rekent de planning met ± 1,5 eenheid per week. Leeg = je eerste oefendag.',
+        h('input.num', { type: 'date', value: s.startdatum, style: { width: '160px' }, onchange: (e) => store.setSetting('startdatum', e.target.value) })),
+      setting('Dagdoel', 'Aantal herhaalde kaarten plus oefenantwoorden per dag. 20 is ongeveer een kwartier.',
+        h('input.num', { type: 'number', min: 5, max: 200, step: 5, value: s.dagdoel, style: { width: '90px' }, onchange: (e) => store.setSetting('dagdoel', Math.max(5, Math.min(200, Number(e.target.value) || 20))) })),
+      reminderSetting()),
+
     offlinePanel(),
 
     h('section.panel.glass', { style: { marginTop: '18px' } },
@@ -52,6 +60,43 @@ export function renderSettings(main) {
       h('h2', 'Controlelijst voor een moedertaalspreker'),
       h('p.sub', 'Inhoud waarover twijfel bestaat is gemarkeerd. Laat deze punten nakijken en pas daarna de lesbestanden aan (zie CLAUDE.md).'),
       h('a.btn.btn--ghost', { href: '#/controle' }, icon('flag'), 'Open de controlelijst')));
+}
+
+/**
+ * Herinnering: een melding op een dag waarop je nog niet geoefend hebt. Zonder server kan dat alleen
+ * met Periodic Background Sync (Chrome op Android, als de app geïnstalleerd is). Zie syncReminder() in app.js.
+ */
+function reminderSetting() {
+  const supported = 'Notification' in window && 'serviceWorker' in navigator;
+  const periodic = supported && 'periodicSync' in ServiceWorkerRegistration.prototype;
+  const desc = !supported
+    ? 'Deze browser ondersteunt geen meldingen.'
+    : periodic
+      ? 'Een melding op een dag waarop je nog niet geoefend hebt. Werkt als Darb als app is geïnstalleerd; je telefoon bepaalt zelf het precieze moment.'
+      : 'Deze browser kan geen meldingen sturen terwijl de app dicht is (dat kan alleen Chrome op Android, met de app geïnstalleerd). Je kunt wel een testmelding proberen.';
+  const sel = select([['false', 'Uit'], ['true', 'Aan']], String(store.settings.herinnering), async (v) => {
+    if (v === 'true') {
+      const perm = await Notification.requestPermission();
+      if (perm !== 'granted') {
+        sel.value = 'false';
+        toast('Meldingen zijn niet toegestaan. Sta ze toe in de browserinstellingen.');
+        return;
+      }
+    }
+    store.setSetting('herinnering', v === 'true');
+    window.dispatchEvent(new Event('darb-herinnering'));
+    toast(v === 'true' ? 'Herinnering staat aan' : 'Herinnering staat uit');
+  });
+  sel.disabled = !supported;
+  const test = h('button.btn.btn--ghost.btn--small', {
+    type: 'button', disabled: !supported,
+    onclick: async () => {
+      if ((await Notification.requestPermission()) !== 'granted') { toast('Meldingen zijn niet toegestaan.'); return; }
+      const reg = await navigator.serviceWorker.ready;
+      reg.showNotification('Darb · Arabisch', { body: 'Zo ziet een herinnering eruit. Tik om je flashcards te openen.', icon: 'icons/icon-192.png', badge: 'icons/icon-192.png', tag: 'darb-test', data: { url: './#/kaarten' } });
+    },
+  }, icon('bell'), 'Testmelding');
+  return setting('Herinnering', desc, h('div.btn-row', { style: { gap: '8px', flexWrap: 'nowrap' } }, sel, test));
 }
 
 /** Alle lesbestanden in de cache van de service worker zetten, zodat de hele cursus offline werkt. */

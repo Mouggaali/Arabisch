@@ -1,12 +1,12 @@
 // Voortgang: per les en periode, toetsresultaten, grammaticabeheersing, woordenschat, zwakke punten.
 
-import { h, pct } from '../core/util.js';
+import { h, pct, icon, formatDate } from '../core/util.js';
 import { content } from '../core/content.js';
 import { store } from '../core/store.js';
 import { dueToday, difficult } from '../core/srs.js';
 import { ar, tr, meter } from '../ui/components.js';
 import { sizeParts } from '../ui/world.js';
-import { periodProgress, planProgress, partLevels, weakTags, vocabStats, activity } from './progress-model.js';
+import { periodProgress, planProgress, partLevels, weakTags, vocabStats, activity, weekPlan, yearTargets, streak, todayGoal, PACE } from './progress-model.js';
 
 export async function renderProgress(main) {
   const c = await content.curriculum();
@@ -25,6 +25,7 @@ export async function renderProgress(main) {
 
   main.replaceChildren(
     h('div.page-head', h('h1', 'Voortgang'), h('p', 'Alles wat je tot nu toe gedaan hebt. Een eenheid telt als afgerond zodra je de toets gehaald hebt.')),
+    planningPanel(c),
     h('div.grid-2',
       h('section.panel.glass',
         h('h2', 'Totaal meerjarenplan'),
@@ -76,3 +77,23 @@ export async function renderProgress(main) {
         difficult(8).length ? h('ul.list.rows', difficult(8).map((w) => h('li.kv', h('span', w.nl[0], h('span.soft.small', ` · ${w.lapses}× vergeten`)), ar(w.ar)))) : null)));
 }
 
+
+/** Planning: startdatum, tempo, reeks en streefdatum per jaar (tempo van het leerplan). */
+function planningPanel(c) {
+  const w = weekPlan(c);
+  const goal = todayGoal();
+  const reeks = streak();
+  return h('section.panel.glass', { style: { marginBottom: '18px' } },
+    h('h2', icon('calendar'), ' Planning'),
+    h('p.sub', `Gestart op ${formatDate(w.start)} · week ${w.week} · tempo van het leerplan: ${String(PACE).replace('.', ',')} eenheid per week (vakanties meegerekend). `
+      + (w.diff === 0 ? 'Je ligt op schema.' : w.diff > 0 ? `Je ligt ${w.diff} voor.` : `Je loopt ${-w.diff} achter.`)),
+    h('div.kv', { style: { flexWrap: 'wrap', gap: '8px 24px', marginBottom: '10px' } },
+      h('span', h('b', `${reeks}`), reeks === 1 ? ' dag op rij geoefend' : ' dagen op rij geoefend'),
+      h('span', 'Vandaag ', h('b', `${goal.gedaan}`), ` van je dagdoel ${goal.doel}`),
+      h('span', 'Verwacht klaar: ', h('b', formatDate(w.eind, { month: 'long', year: 'numeric' })))),
+    h('div', yearTargets(c).map((y) => h('div.tag-row.tag-row--date',
+      h('span.small', `Jaar ${y.nr} · ${y.niveau.replace(/^Niveau\s*/, '')}`),
+      meter(y.done / Math.max(1, y.eenheden)),
+      h('span.small', { style: { whiteSpace: 'nowrap' } }, formatDate(y.datum, { month: 'short', year: 'numeric' }))))),
+    h('p.soft.small', { style: { marginTop: '6px' } }, 'De datum per jaar is de streefdatum in het tempo van het leerplan. Startdatum en dagdoel pas je aan bij Instellingen.'));
+}

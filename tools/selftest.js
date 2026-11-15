@@ -209,12 +209,14 @@ export async function runTrainer() {
   const { content } = await import('/js/core/content.js');
   const { rowsFor } = await import('/js/exercises/conjugate.js');
   const { checkArabic } = await import('/js/core/arabic.js');
+  const { TENSES } = await import('/js/core/conjugate.js');
   const report = [];
   const { werkwoorden } = await content.verbs();
   for (const v of werkwoorden) {
-    for (const tijd of ['madi', 'mudari']) {
+    for (const tijd of Object.keys(TENSES)) {
       const rows = rowsFor({ werkwoord: v, tijd });
-      if (rows.length !== 13) report.push(`${v.id} ${tijd}: ${rows.length} vormen i.p.v. 13`);
+      const verwacht = tijd === 'amr' ? 5 : 13;
+      if (rows.length !== verwacht) report.push(`${v.id} ${tijd}: ${rows.length} vormen i.p.v. ${verwacht}`);
       for (const r of rows) {
         for (const a of [r.antwoord, ...(r.alt || [])]) {
           if (!checkArabic(a, [r.antwoord, ...(r.alt || [])], { strict: true }).ok) report.push(`${v.id} ${tijd} ${r.label}: ${a} niet goed gerekend`);

@@ -37,6 +37,10 @@ Het leerplan staat in **`leerplan.md`** (goedgekeurd). Wijzig de opbouw alleen d
   - `dist/` staat in `.gitignore`.
 - **Publiceren:** `publiceer.bat` controleert de inhoud, commit en pusht naar `main`. Daarna bouwt `.github/workflows/pages.yml` de site en publiceert hem. Eenmalig nodig: Settings → Pages → Source "GitHub Actions".
 - Iconen staan in `icons/` (zellige-ster, gegenereerd met Pillow). Het manifest is `manifest.webmanifest`.
+- **Herinnering:** Instellingen → Herinnering. Er is geen server, dus er is geen push.
+  - `app.js` (`syncReminder`) schrijft de laatste oefendag, de reeks en de instelling naar cache `darb-status`, en registreert `periodicSync` `darb-herinnering`.
+  - `sw.js` toont bij `periodicsync` een melding als er vandaag nog niet geoefend is. Een `notificationclick` opent `#/kaarten`.
+  - Werkt alleen in Chrome op Android met de app geïnstalleerd. Elders is er alleen een testmelding.
 
 ## Mappenstructuur
 ```
@@ -57,20 +61,23 @@ js/
     arabic.js           normaliseren/vergelijken (harakat, hamza-hints, eindklinker), Nederlands vergelijken
     srs.js              SM-2 spaced repetition (kaarten, dueToday, grade, lapseWord)
     speech.js           Web Speech API (Arabische stem kiezen, fallback)
-    conjugate.js        generator māḍī/muḍāriʿ voor regelmatige werkwoorden van vorm I–VIII en X, 13 personen; expliciete tabellen (vormen) voor zwakke werkwoorden
+    conjugate.js        generator māḍī/muḍāriʿ/manṣūb/majzūm/gebiedende wijs (amr) voor regelmatige werkwoorden van vorm I–VIII en X; expliciete tabellen (vormen) voor zwakke werkwoorden
   ui/                   components.js (playButton, answerField, textArea, meter, reviewFlag), keyboard.js,
                         world.js (signature), translit.js, theme.js
   exercises/            één module per oefentype + runner.js (feedback, toetsmodus, score)
-  views/                today, lessons, lesson, flashcards, trainer, progress, settings (+ controlelijst),
+  views/                today (dagdoel, reeks, weekplanning), lessons, lesson (diepe links #/les/<id>/<onderdeel>/<woord-id|grammatica-nr>),
+                        flashcards, trainer (#/trainer/<werkwoord>), progress (planning), settings (+ controlelijst), search (#/zoeken/<term>),
                         progress-model.js (afgeleide cijfers, geen DOM)
 content/
   curriculum.json       GEGENEREERD uit leerplan.md, niet met de hand bewerken
   tags.json             labels van grammatica-tags (voor dashboard en toetsuitslag)
   werkwoorden.json      werkwoorden voor de trainer
+  zoekindex.json        GEGENEREERD door tools/build-search-index.mjs (woorden, grammatica, lessen, werkwoorden), niet met de hand bewerken
   jaar-<j>/periode-<p>/<code>.json   uitgewerkte eenheden, bijv. jaar-1/periode-1/l01.json
 tools/build-curriculum.mjs   leerplan.md + content/tags.json → content/curriculum.json
 tools/selftest.js            browsertest: run() (alles goed), runFout() (alles fout: feedback, uitleg, tag, flashcard), runTrainer(), ids()
-tools/build-dist.mjs         bouwt dist/ voor publicatie en stempelt de cacheversie in sw.js
+tools/build-dist.mjs         bouwt dist/ voor publicatie en stempelt de cacheversie in sw.js (bouwt eerst de zoekindex opnieuw)
+tools/build-search-index.mjs content/*.json → content/zoekindex.json; draai na het wijzigen van lesinhoud
 tools/validate.mjs           structuurcontrole van alle lesbestanden (node tools/validate.mjs)
 tools/dedupe-words.py        verwijdert woordkaarten die validate.mjs als dubbel meldt uit de nieuwere les, plus verwijzingen ernaar (py tools/dedupe-words.py)
 tools/lesson_lib.py          Python-helpers om lesbestanden compact te genereren (mk, iv, vv, words, save …)
@@ -151,7 +158,11 @@ In tekstvelden is de mini-opmaak toegestaan:
   - De generator gebruikt dat veld automatisch.
   - Een persoon mag `alt: [...]` hebben: spellingvarianten die ook goed zijn (قَرَؤوا ~ قَرَأُوا).
   - `validate.mjs` eist bij `vormen` beide tijden met alle 13 personen.
-  - Er zijn 23 zwakke werkwoorden, gegenereerd met het script uit de sessie van 2026-11-15. Pas bij correcties de JSON direct aan en draai daarna `runTrainer()`.
+  - Er zijn 23 zwakke werkwoorden, gegenereerd met een script uit de sessie van 2026-11-15. Pas bij correcties de JSON direct aan en draai daarna `runTrainer()`.
+  - Wijzen in `TENSES`: `madi`, `mudari`, `mansub`, `majzum` en `amr` (alleen de 2e personen).
+    - Bij regelmatige werkwoorden leidt `conjugate.js` manṣūb, majzūm en amr af van de muḍāriʿ.
+    - Zwakke werkwoorden hebben voor elke wijs een eigen tabel in `vormen`.
+    - Een onbekende tijd geeft een fout. Een zwak werkwoord zonder tabel geeft lege vormen.
 
 ## Architectuurafspraken
 - **Inhoud ≠ code.** Geen Arabische lesinhoud in JS. Nieuwe inhoud vraagt geen codewijziging.

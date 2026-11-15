@@ -67,6 +67,11 @@ export const content = {
     return getJson('content/werkwoorden.json');
   },
 
+  /** Compacte index voor de zoekpagina (gegenereerd door tools/build-search-index.mjs). */
+  async searchIndex() {
+    return getJson('content/zoekindex.json');
+  },
+
   tagLabel(tag) {
     return curriculum?.tags?.[tag] || tag;
   },

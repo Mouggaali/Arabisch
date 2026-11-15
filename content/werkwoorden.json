@@ -715,9 +715,139 @@
             "ar": "يَقُلْنَ",
             "tr": "yaqulna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَقولَ",
+            "tr": "aqūla"
+          },
+          "anta": {
+            "ar": "تَقولَ",
+            "tr": "taqūla"
+          },
+          "anti": {
+            "ar": "تَقولي",
+            "tr": "taqūlī"
+          },
+          "huwa": {
+            "ar": "يَقولَ",
+            "tr": "yaqūla"
+          },
+          "hiya": {
+            "ar": "تَقولَ",
+            "tr": "taqūla"
+          },
+          "antuma": {
+            "ar": "تَقولا",
+            "tr": "taqūlā"
+          },
+          "huma_m": {
+            "ar": "يَقولا",
+            "tr": "yaqūlā"
+          },
+          "huma_f": {
+            "ar": "تَقولا",
+            "tr": "taqūlā"
+          },
+          "nahnu": {
+            "ar": "نَقولَ",
+            "tr": "naqūla"
+          },
+          "antum": {
+            "ar": "تَقولوا",
+            "tr": "taqūlū"
+          },
+          "antunna": {
+            "ar": "تَقُلْنَ",
+            "tr": "taqulna"
+          },
+          "hum": {
+            "ar": "يَقولوا",
+            "tr": "yaqūlū"
+          },
+          "hunna": {
+            "ar": "يَقُلْنَ",
+            "tr": "yaqulna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَقُلْ",
+            "tr": "aqul"
+          },
+          "anta": {
+            "ar": "تَقُلْ",
+            "tr": "taqul"
+          },
+          "anti": {
+            "ar": "تَقولي",
+            "tr": "taqūlī"
+          },
+          "huwa": {
+            "ar": "يَقُلْ",
+            "tr": "yaqul"
+          },
+          "hiya": {
+            "ar": "تَقُلْ",
+            "tr": "taqul"
+          },
+          "antuma": {
+            "ar": "تَقولا",
+            "tr": "taqūlā"
+          },
+          "huma_m": {
+            "ar": "يَقولا",
+            "tr": "yaqūlā"
+          },
+          "huma_f": {
+            "ar": "تَقولا",
+            "tr": "taqūlā"
+          },
+          "nahnu": {
+            "ar": "نَقُلْ",
+            "tr": "naqul"
+          },
+          "antum": {
+            "ar": "تَقولوا",
+            "tr": "taqūlū"
+          },
+          "antunna": {
+            "ar": "تَقُلْنَ",
+            "tr": "taqulna"
+          },
+          "hum": {
+            "ar": "يَقولوا",
+            "tr": "yaqūlū"
+          },
+          "hunna": {
+            "ar": "يَقُلْنَ",
+            "tr": "yaqulna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "قُلْ",
+            "tr": "qul"
+          },
+          "anti": {
+            "ar": "قولي",
+            "tr": "qūlī"
+          },
+          "antuma": {
+            "ar": "قولا",
+            "tr": "qūlā"
+          },
+          "antum": {
+            "ar": "قولوا",
+            "tr": "qūlū"
+          },
+          "antunna": {
+            "ar": "قُلْنَ",
+            "tr": "qulna"
+          }
         }
       },
-      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang."
+      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. Wijzen: in de majzūm en de gebiedende wijs wordt de lange klinker kort vóór sukūn (لَمْ يَقُلْ، قُلْ; maar قولي، قولوا)."
     },
     {
       "id": "kaana",
@@ -840,9 +970,139 @@
             "ar": "يَكُنَّ",
             "tr": "yakunna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَكونَ",
+            "tr": "akūna"
+          },
+          "anta": {
+            "ar": "تَكونَ",
+            "tr": "takūna"
+          },
+          "anti": {
+            "ar": "تَكوني",
+            "tr": "takūnī"
+          },
+          "huwa": {
+            "ar": "يَكونَ",
+            "tr": "yakūna"
+          },
+          "hiya": {
+            "ar": "تَكونَ",
+            "tr": "takūna"
+          },
+          "antuma": {
+            "ar": "تَكونا",
+            "tr": "takūnā"
+          },
+          "huma_m": {
+            "ar": "يَكونا",
+            "tr": "yakūnā"
+          },
+          "huma_f": {
+            "ar": "تَكونا",
+            "tr": "takūnā"
+          },
+          "nahnu": {
+            "ar": "نَكونَ",
+            "tr": "nakūna"
+          },
+          "antum": {
+            "ar": "تَكونوا",
+            "tr": "takūnū"
+          },
+          "antunna": {
+            "ar": "تَكُنَّ",
+            "tr": "takunna"
+          },
+          "hum": {
+            "ar": "يَكونوا",
+            "tr": "yakūnū"
+          },
+          "hunna": {
+            "ar": "يَكُنَّ",
+            "tr": "yakunna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَكُنْ",
+            "tr": "akun"
+          },
+          "anta": {
+            "ar": "تَكُنْ",
+            "tr": "takun"
+          },
+          "anti": {
+            "ar": "تَكوني",
+            "tr": "takūnī"
+          },
+          "huwa": {
+            "ar": "يَكُنْ",
+            "tr": "yakun"
+          },
+          "hiya": {
+            "ar": "تَكُنْ",
+            "tr": "takun"
+          },
+          "antuma": {
+            "ar": "تَكونا",
+            "tr": "takūnā"
+          },
+          "huma_m": {
+            "ar": "يَكونا",
+            "tr": "yakūnā"
+          },
+          "huma_f": {
+            "ar": "تَكونا",
+            "tr": "takūnā"
+          },
+          "nahnu": {
+            "ar": "نَكُنْ",
+            "tr": "nakun"
+          },
+          "antum": {
+            "ar": "تَكونوا",
+            "tr": "takūnū"
+          },
+          "antunna": {
+            "ar": "تَكُنَّ",
+            "tr": "takunna"
+          },
+          "hum": {
+            "ar": "يَكونوا",
+            "tr": "yakūnū"
+          },
+          "hunna": {
+            "ar": "يَكُنَّ",
+            "tr": "yakunna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "كُنْ",
+            "tr": "kun"
+          },
+          "anti": {
+            "ar": "كوني",
+            "tr": "kūnī"
+          },
+          "antuma": {
+            "ar": "كونا",
+            "tr": "kūnā"
+          },
+          "antum": {
+            "ar": "كونوا",
+            "tr": "kūnū"
+          },
+          "antunna": {
+            "ar": "كُنَّ",
+            "tr": "kunna"
+          }
         }
       },
-      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. Bij كانَ smelt de ن van de stam samen met de ن van de uitgang: كُنّا، كُنَّ."
+      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. Bij كانَ smelt de ن van de stam samen met de ن van de uitgang: كُنّا، كُنَّ. Wijzen: in de majzūm en de gebiedende wijs wordt de lange klinker kort vóór sukūn (لَمْ يَقُلْ، قُلْ; maar قولي، قولوا)."
     },
     {
       "id": "zaara",
@@ -965,9 +1225,139 @@
             "ar": "يَزُرْنَ",
             "tr": "yazurna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَزورَ",
+            "tr": "azūra"
+          },
+          "anta": {
+            "ar": "تَزورَ",
+            "tr": "tazūra"
+          },
+          "anti": {
+            "ar": "تَزوري",
+            "tr": "tazūrī"
+          },
+          "huwa": {
+            "ar": "يَزورَ",
+            "tr": "yazūra"
+          },
+          "hiya": {
+            "ar": "تَزورَ",
+            "tr": "tazūra"
+          },
+          "antuma": {
+            "ar": "تَزورا",
+            "tr": "tazūrā"
+          },
+          "huma_m": {
+            "ar": "يَزورا",
+            "tr": "yazūrā"
+          },
+          "huma_f": {
+            "ar": "تَزورا",
+            "tr": "tazūrā"
+          },
+          "nahnu": {
+            "ar": "نَزورَ",
+            "tr": "nazūra"
+          },
+          "antum": {
+            "ar": "تَزوروا",
+            "tr": "tazūrū"
+          },
+          "antunna": {
+            "ar": "تَزُرْنَ",
+            "tr": "tazurna"
+          },
+          "hum": {
+            "ar": "يَزوروا",
+            "tr": "yazūrū"
+          },
+          "hunna": {
+            "ar": "يَزُرْنَ",
+            "tr": "yazurna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَزُرْ",
+            "tr": "azur"
+          },
+          "anta": {
+            "ar": "تَزُرْ",
+            "tr": "tazur"
+          },
+          "anti": {
+            "ar": "تَزوري",
+            "tr": "tazūrī"
+          },
+          "huwa": {
+            "ar": "يَزُرْ",
+            "tr": "yazur"
+          },
+          "hiya": {
+            "ar": "تَزُرْ",
+            "tr": "tazur"
+          },
+          "antuma": {
+            "ar": "تَزورا",
+            "tr": "tazūrā"
+          },
+          "huma_m": {
+            "ar": "يَزورا",
+            "tr": "yazūrā"
+          },
+          "huma_f": {
+            "ar": "تَزورا",
+            "tr": "tazūrā"
+          },
+          "nahnu": {
+            "ar": "نَزُرْ",
+            "tr": "nazur"
+          },
+          "antum": {
+            "ar": "تَزوروا",
+            "tr": "tazūrū"
+          },
+          "antunna": {
+            "ar": "تَزُرْنَ",
+            "tr": "tazurna"
+          },
+          "hum": {
+            "ar": "يَزوروا",
+            "tr": "yazūrū"
+          },
+          "hunna": {
+            "ar": "يَزُرْنَ",
+            "tr": "yazurna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "زُرْ",
+            "tr": "zur"
+          },
+          "anti": {
+            "ar": "زوري",
+            "tr": "zūrī"
+          },
+          "antuma": {
+            "ar": "زورا",
+            "tr": "zūrā"
+          },
+          "antum": {
+            "ar": "زوروا",
+            "tr": "zūrū"
+          },
+          "antunna": {
+            "ar": "زُرْنَ",
+            "tr": "zurna"
+          }
         }
       },
-      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang."
+      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. Wijzen: in de majzūm en de gebiedende wijs wordt de lange klinker kort vóór sukūn (لَمْ يَقُلْ، قُلْ; maar قولي، قولوا)."
     },
     {
       "id": "naama",
@@ -1090,9 +1480,139 @@
             "ar": "يَنَمْنَ",
             "tr": "yanamna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَنامَ",
+            "tr": "anāma"
+          },
+          "anta": {
+            "ar": "تَنامَ",
+            "tr": "tanāma"
+          },
+          "anti": {
+            "ar": "تَنامي",
+            "tr": "tanāmī"
+          },
+          "huwa": {
+            "ar": "يَنامَ",
+            "tr": "yanāma"
+          },
+          "hiya": {
+            "ar": "تَنامَ",
+            "tr": "tanāma"
+          },
+          "antuma": {
+            "ar": "تَناما",
+            "tr": "tanāmā"
+          },
+          "huma_m": {
+            "ar": "يَناما",
+            "tr": "yanāmā"
+          },
+          "huma_f": {
+            "ar": "تَناما",
+            "tr": "tanāmā"
+          },
+          "nahnu": {
+            "ar": "نَنامَ",
+            "tr": "nanāma"
+          },
+          "antum": {
+            "ar": "تَناموا",
+            "tr": "tanāmū"
+          },
+          "antunna": {
+            "ar": "تَنَمْنَ",
+            "tr": "tanamna"
+          },
+          "hum": {
+            "ar": "يَناموا",
+            "tr": "yanāmū"
+          },
+          "hunna": {
+            "ar": "يَنَمْنَ",
+            "tr": "yanamna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَنَمْ",
+            "tr": "anam"
+          },
+          "anta": {
+            "ar": "تَنَمْ",
+            "tr": "tanam"
+          },
+          "anti": {
+            "ar": "تَنامي",
+            "tr": "tanāmī"
+          },
+          "huwa": {
+            "ar": "يَنَمْ",
+            "tr": "yanam"
+          },
+          "hiya": {
+            "ar": "تَنَمْ",
+            "tr": "tanam"
+          },
+          "antuma": {
+            "ar": "تَناما",
+            "tr": "tanāmā"
+          },
+          "huma_m": {
+            "ar": "يَناما",
+            "tr": "yanāmā"
+          },
+          "huma_f": {
+            "ar": "تَناما",
+            "tr": "tanāmā"
+          },
+          "nahnu": {
+            "ar": "نَنَمْ",
+            "tr": "nanam"
+          },
+          "antum": {
+            "ar": "تَناموا",
+            "tr": "tanāmū"
+          },
+          "antunna": {
+            "ar": "تَنَمْنَ",
+            "tr": "tanamna"
+          },
+          "hum": {
+            "ar": "يَناموا",
+            "tr": "yanāmū"
+          },
+          "hunna": {
+            "ar": "يَنَمْنَ",
+            "tr": "yanamna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "نَمْ",
+            "tr": "nam"
+          },
+          "anti": {
+            "ar": "نامي",
+            "tr": "nāmī"
+          },
+          "antuma": {
+            "ar": "ناما",
+            "tr": "nāmā"
+          },
+          "antum": {
+            "ar": "ناموا",
+            "tr": "nāmū"
+          },
+          "antunna": {
+            "ar": "نَمْنَ",
+            "tr": "namna"
+          }
         }
       },
-      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. نامَ heeft i in de māḍī (نِمْتُ) en ā in de muḍāriʿ (يَنامُ)."
+      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. نامَ heeft i in de māḍī (نِمْتُ) en ā in de muḍāriʿ (يَنامُ). Wijzen: in de majzūm en de gebiedende wijs wordt de lange klinker kort vóór sukūn (لَمْ يَقُلْ، قُلْ; maar قولي، قولوا)."
     },
     {
       "id": "baaa",
@@ -1215,9 +1735,139 @@
             "ar": "يَبِعْنَ",
             "tr": "yabiʿna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَبيعَ",
+            "tr": "abīʿa"
+          },
+          "anta": {
+            "ar": "تَبيعَ",
+            "tr": "tabīʿa"
+          },
+          "anti": {
+            "ar": "تَبيعي",
+            "tr": "tabīʿī"
+          },
+          "huwa": {
+            "ar": "يَبيعَ",
+            "tr": "yabīʿa"
+          },
+          "hiya": {
+            "ar": "تَبيعَ",
+            "tr": "tabīʿa"
+          },
+          "antuma": {
+            "ar": "تَبيعا",
+            "tr": "tabīʿā"
+          },
+          "huma_m": {
+            "ar": "يَبيعا",
+            "tr": "yabīʿā"
+          },
+          "huma_f": {
+            "ar": "تَبيعا",
+            "tr": "tabīʿā"
+          },
+          "nahnu": {
+            "ar": "نَبيعَ",
+            "tr": "nabīʿa"
+          },
+          "antum": {
+            "ar": "تَبيعوا",
+            "tr": "tabīʿū"
+          },
+          "antunna": {
+            "ar": "تَبِعْنَ",
+            "tr": "tabiʿna"
+          },
+          "hum": {
+            "ar": "يَبيعوا",
+            "tr": "yabīʿū"
+          },
+          "hunna": {
+            "ar": "يَبِعْنَ",
+            "tr": "yabiʿna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَبِعْ",
+            "tr": "abiʿ"
+          },
+          "anta": {
+            "ar": "تَبِعْ",
+            "tr": "tabiʿ"
+          },
+          "anti": {
+            "ar": "تَبيعي",
+            "tr": "tabīʿī"
+          },
+          "huwa": {
+            "ar": "يَبِعْ",
+            "tr": "yabiʿ"
+          },
+          "hiya": {
+            "ar": "تَبِعْ",
+            "tr": "tabiʿ"
+          },
+          "antuma": {
+            "ar": "تَبيعا",
+            "tr": "tabīʿā"
+          },
+          "huma_m": {
+            "ar": "يَبيعا",
+            "tr": "yabīʿā"
+          },
+          "huma_f": {
+            "ar": "تَبيعا",
+            "tr": "tabīʿā"
+          },
+          "nahnu": {
+            "ar": "نَبِعْ",
+            "tr": "nabiʿ"
+          },
+          "antum": {
+            "ar": "تَبيعوا",
+            "tr": "tabīʿū"
+          },
+          "antunna": {
+            "ar": "تَبِعْنَ",
+            "tr": "tabiʿna"
+          },
+          "hum": {
+            "ar": "يَبيعوا",
+            "tr": "yabīʿū"
+          },
+          "hunna": {
+            "ar": "يَبِعْنَ",
+            "tr": "yabiʿna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "بِعْ",
+            "tr": "biʿ"
+          },
+          "anti": {
+            "ar": "بيعي",
+            "tr": "bīʿī"
+          },
+          "antuma": {
+            "ar": "بيعا",
+            "tr": "bīʿā"
+          },
+          "antum": {
+            "ar": "بيعوا",
+            "tr": "bīʿū"
+          },
+          "antunna": {
+            "ar": "بِعْنَ",
+            "tr": "biʿna"
+          }
         }
       },
-      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang."
+      "notitie": "Hol werkwoord: de middelste wortelletter (و/ي) wordt een lange klinker of valt weg vóór een medeklinker-uitgang. Wijzen: in de majzūm en de gebiedende wijs wordt de lange klinker kort vóór sukūn (لَمْ يَقُلْ، قُلْ; maar قولي، قولوا)."
     },
     {
       "id": "mashaa",
@@ -1340,9 +1990,139 @@
             "ar": "يَمْشِينَ",
             "tr": "yamšīna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَمْشِيَ",
+            "tr": "amšiya"
+          },
+          "anta": {
+            "ar": "تَمْشِيَ",
+            "tr": "tamšiya"
+          },
+          "anti": {
+            "ar": "تَمْشِي",
+            "tr": "tamšī"
+          },
+          "huwa": {
+            "ar": "يَمْشِيَ",
+            "tr": "yamšiya"
+          },
+          "hiya": {
+            "ar": "تَمْشِيَ",
+            "tr": "tamšiya"
+          },
+          "antuma": {
+            "ar": "تَمْشِيَا",
+            "tr": "tamšiyā"
+          },
+          "huma_m": {
+            "ar": "يَمْشِيَا",
+            "tr": "yamšiyā"
+          },
+          "huma_f": {
+            "ar": "تَمْشِيَا",
+            "tr": "tamšiyā"
+          },
+          "nahnu": {
+            "ar": "نَمْشِيَ",
+            "tr": "namšiya"
+          },
+          "antum": {
+            "ar": "تَمْشُوا",
+            "tr": "tamšū"
+          },
+          "antunna": {
+            "ar": "تَمْشِينَ",
+            "tr": "tamšīna"
+          },
+          "hum": {
+            "ar": "يَمْشُوا",
+            "tr": "yamšū"
+          },
+          "hunna": {
+            "ar": "يَمْشِينَ",
+            "tr": "yamšīna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَمْشِ",
+            "tr": "amši"
+          },
+          "anta": {
+            "ar": "تَمْشِ",
+            "tr": "tamši"
+          },
+          "anti": {
+            "ar": "تَمْشِي",
+            "tr": "tamšī"
+          },
+          "huwa": {
+            "ar": "يَمْشِ",
+            "tr": "yamši"
+          },
+          "hiya": {
+            "ar": "تَمْشِ",
+            "tr": "tamši"
+          },
+          "antuma": {
+            "ar": "تَمْشِيَا",
+            "tr": "tamšiyā"
+          },
+          "huma_m": {
+            "ar": "يَمْشِيَا",
+            "tr": "yamšiyā"
+          },
+          "huma_f": {
+            "ar": "تَمْشِيَا",
+            "tr": "tamšiyā"
+          },
+          "nahnu": {
+            "ar": "نَمْشِ",
+            "tr": "namši"
+          },
+          "antum": {
+            "ar": "تَمْشُوا",
+            "tr": "tamšū"
+          },
+          "antunna": {
+            "ar": "تَمْشِينَ",
+            "tr": "tamšīna"
+          },
+          "hum": {
+            "ar": "يَمْشُوا",
+            "tr": "yamšū"
+          },
+          "hunna": {
+            "ar": "يَمْشِينَ",
+            "tr": "yamšīna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِمْشِ",
+            "tr": "imši"
+          },
+          "anti": {
+            "ar": "اِمْشِي",
+            "tr": "imšī"
+          },
+          "antuma": {
+            "ar": "اِمْشِيَا",
+            "tr": "imšiyā"
+          },
+          "antum": {
+            "ar": "اِمْشُوا",
+            "tr": "imšū"
+          },
+          "antunna": {
+            "ar": "اِمْشِينَ",
+            "tr": "imšīna"
+          }
         }
       },
-      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg."
+      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg. Wijzen: manṣūb يَمْشِيَ، majzūm لَمْ يَمْشِ (de ي valt weg), gebiedend اِمْشِ."
     },
     {
       "id": "bakaa",
@@ -1465,9 +2245,139 @@
             "ar": "يَبْكِينَ",
             "tr": "yabkīna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَبْكِيَ",
+            "tr": "abkiya"
+          },
+          "anta": {
+            "ar": "تَبْكِيَ",
+            "tr": "tabkiya"
+          },
+          "anti": {
+            "ar": "تَبْكِي",
+            "tr": "tabkī"
+          },
+          "huwa": {
+            "ar": "يَبْكِيَ",
+            "tr": "yabkiya"
+          },
+          "hiya": {
+            "ar": "تَبْكِيَ",
+            "tr": "tabkiya"
+          },
+          "antuma": {
+            "ar": "تَبْكِيَا",
+            "tr": "tabkiyā"
+          },
+          "huma_m": {
+            "ar": "يَبْكِيَا",
+            "tr": "yabkiyā"
+          },
+          "huma_f": {
+            "ar": "تَبْكِيَا",
+            "tr": "tabkiyā"
+          },
+          "nahnu": {
+            "ar": "نَبْكِيَ",
+            "tr": "nabkiya"
+          },
+          "antum": {
+            "ar": "تَبْكُوا",
+            "tr": "tabkū"
+          },
+          "antunna": {
+            "ar": "تَبْكِينَ",
+            "tr": "tabkīna"
+          },
+          "hum": {
+            "ar": "يَبْكُوا",
+            "tr": "yabkū"
+          },
+          "hunna": {
+            "ar": "يَبْكِينَ",
+            "tr": "yabkīna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَبْكِ",
+            "tr": "abki"
+          },
+          "anta": {
+            "ar": "تَبْكِ",
+            "tr": "tabki"
+          },
+          "anti": {
+            "ar": "تَبْكِي",
+            "tr": "tabkī"
+          },
+          "huwa": {
+            "ar": "يَبْكِ",
+            "tr": "yabki"
+          },
+          "hiya": {
+            "ar": "تَبْكِ",
+            "tr": "tabki"
+          },
+          "antuma": {
+            "ar": "تَبْكِيَا",
+            "tr": "tabkiyā"
+          },
+          "huma_m": {
+            "ar": "يَبْكِيَا",
+            "tr": "yabkiyā"
+          },
+          "huma_f": {
+            "ar": "تَبْكِيَا",
+            "tr": "tabkiyā"
+          },
+          "nahnu": {
+            "ar": "نَبْكِ",
+            "tr": "nabki"
+          },
+          "antum": {
+            "ar": "تَبْكُوا",
+            "tr": "tabkū"
+          },
+          "antunna": {
+            "ar": "تَبْكِينَ",
+            "tr": "tabkīna"
+          },
+          "hum": {
+            "ar": "يَبْكُوا",
+            "tr": "yabkū"
+          },
+          "hunna": {
+            "ar": "يَبْكِينَ",
+            "tr": "yabkīna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِبْكِ",
+            "tr": "ibki"
+          },
+          "anti": {
+            "ar": "اِبْكِي",
+            "tr": "ibkī"
+          },
+          "antuma": {
+            "ar": "اِبْكِيَا",
+            "tr": "ibkiyā"
+          },
+          "antum": {
+            "ar": "اِبْكُوا",
+            "tr": "ibkū"
+          },
+          "antunna": {
+            "ar": "اِبْكِينَ",
+            "tr": "ibkīna"
+          }
         }
       },
-      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg."
+      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg. Wijzen: manṣūb يَمْشِيَ، majzūm لَمْ يَمْشِ (de ي valt weg), gebiedend اِمْشِ."
     },
     {
       "id": "daaa",
@@ -1590,9 +2500,139 @@
             "ar": "يَدْعُونَ",
             "tr": "yadʿūna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَدْعُوَ",
+            "tr": "adʿuwa"
+          },
+          "anta": {
+            "ar": "تَدْعُوَ",
+            "tr": "tadʿuwa"
+          },
+          "anti": {
+            "ar": "تَدْعِي",
+            "tr": "tadʿī"
+          },
+          "huwa": {
+            "ar": "يَدْعُوَ",
+            "tr": "yadʿuwa"
+          },
+          "hiya": {
+            "ar": "تَدْعُوَ",
+            "tr": "tadʿuwa"
+          },
+          "antuma": {
+            "ar": "تَدْعُوَا",
+            "tr": "tadʿuwā"
+          },
+          "huma_m": {
+            "ar": "يَدْعُوَا",
+            "tr": "yadʿuwā"
+          },
+          "huma_f": {
+            "ar": "تَدْعُوَا",
+            "tr": "tadʿuwā"
+          },
+          "nahnu": {
+            "ar": "نَدْعُوَ",
+            "tr": "nadʿuwa"
+          },
+          "antum": {
+            "ar": "تَدْعُوا",
+            "tr": "tadʿū"
+          },
+          "antunna": {
+            "ar": "تَدْعُونَ",
+            "tr": "tadʿūna"
+          },
+          "hum": {
+            "ar": "يَدْعُوا",
+            "tr": "yadʿū"
+          },
+          "hunna": {
+            "ar": "يَدْعُونَ",
+            "tr": "yadʿūna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَدْعُ",
+            "tr": "adʿu"
+          },
+          "anta": {
+            "ar": "تَدْعُ",
+            "tr": "tadʿu"
+          },
+          "anti": {
+            "ar": "تَدْعِي",
+            "tr": "tadʿī"
+          },
+          "huwa": {
+            "ar": "يَدْعُ",
+            "tr": "yadʿu"
+          },
+          "hiya": {
+            "ar": "تَدْعُ",
+            "tr": "tadʿu"
+          },
+          "antuma": {
+            "ar": "تَدْعُوَا",
+            "tr": "tadʿuwā"
+          },
+          "huma_m": {
+            "ar": "يَدْعُوَا",
+            "tr": "yadʿuwā"
+          },
+          "huma_f": {
+            "ar": "تَدْعُوَا",
+            "tr": "tadʿuwā"
+          },
+          "nahnu": {
+            "ar": "نَدْعُ",
+            "tr": "nadʿu"
+          },
+          "antum": {
+            "ar": "تَدْعُوا",
+            "tr": "tadʿū"
+          },
+          "antunna": {
+            "ar": "تَدْعُونَ",
+            "tr": "tadʿūna"
+          },
+          "hum": {
+            "ar": "يَدْعُوا",
+            "tr": "yadʿū"
+          },
+          "hunna": {
+            "ar": "يَدْعُونَ",
+            "tr": "yadʿūna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اُدْعُ",
+            "tr": "udʿu"
+          },
+          "anti": {
+            "ar": "اُدْعِي",
+            "tr": "udʿī"
+          },
+          "antuma": {
+            "ar": "اُدْعُوَا",
+            "tr": "udʿuwā"
+          },
+          "antum": {
+            "ar": "اُدْعُوا",
+            "tr": "udʿū"
+          },
+          "antunna": {
+            "ar": "اُدْعُونَ",
+            "tr": "udʿūna"
+          }
         }
       },
-      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg. Bij jullie (v) en zij (v mv) is de muḍāriʿ gelijk aan het mannelijk meervoud: تَدْعونَ، يَدْعونَ."
+      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg. Bij jullie (v) en zij (v mv) is de muḍāriʿ gelijk aan het mannelijk meervoud: تَدْعونَ، يَدْعونَ. Wijzen: manṣūb يَدْعُوَ، majzūm لَمْ يَدْعُ، gebiedend اُدْعُ."
     },
     {
       "id": "nasiya",
@@ -1715,9 +2755,139 @@
             "ar": "يَنْسَيْنَ",
             "tr": "yansayna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَنْسَى",
+            "tr": "ansā"
+          },
+          "anta": {
+            "ar": "تَنْسَى",
+            "tr": "tansā"
+          },
+          "anti": {
+            "ar": "تَنْسَيْ",
+            "tr": "tansay"
+          },
+          "huwa": {
+            "ar": "يَنْسَى",
+            "tr": "yansā"
+          },
+          "hiya": {
+            "ar": "تَنْسَى",
+            "tr": "tansā"
+          },
+          "antuma": {
+            "ar": "تَنْسَيَا",
+            "tr": "tansayā"
+          },
+          "huma_m": {
+            "ar": "يَنْسَيَا",
+            "tr": "yansayā"
+          },
+          "huma_f": {
+            "ar": "تَنْسَيَا",
+            "tr": "tansayā"
+          },
+          "nahnu": {
+            "ar": "نَنْسَى",
+            "tr": "nansā"
+          },
+          "antum": {
+            "ar": "تَنْسَوْا",
+            "tr": "tansaw"
+          },
+          "antunna": {
+            "ar": "تَنْسَيْنَ",
+            "tr": "tansayna"
+          },
+          "hum": {
+            "ar": "يَنْسَوْا",
+            "tr": "yansaw"
+          },
+          "hunna": {
+            "ar": "يَنْسَيْنَ",
+            "tr": "yansayna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَنْسَ",
+            "tr": "ansa"
+          },
+          "anta": {
+            "ar": "تَنْسَ",
+            "tr": "tansa"
+          },
+          "anti": {
+            "ar": "تَنْسَيْ",
+            "tr": "tansay"
+          },
+          "huwa": {
+            "ar": "يَنْسَ",
+            "tr": "yansa"
+          },
+          "hiya": {
+            "ar": "تَنْسَ",
+            "tr": "tansa"
+          },
+          "antuma": {
+            "ar": "تَنْسَيَا",
+            "tr": "tansayā"
+          },
+          "huma_m": {
+            "ar": "يَنْسَيَا",
+            "tr": "yansayā"
+          },
+          "huma_f": {
+            "ar": "تَنْسَيَا",
+            "tr": "tansayā"
+          },
+          "nahnu": {
+            "ar": "نَنْسَ",
+            "tr": "nansa"
+          },
+          "antum": {
+            "ar": "تَنْسَوْا",
+            "tr": "tansaw"
+          },
+          "antunna": {
+            "ar": "تَنْسَيْنَ",
+            "tr": "tansayna"
+          },
+          "hum": {
+            "ar": "يَنْسَوْا",
+            "tr": "yansaw"
+          },
+          "hunna": {
+            "ar": "يَنْسَيْنَ",
+            "tr": "yansayna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِنْسَ",
+            "tr": "insa"
+          },
+          "anti": {
+            "ar": "اِنْسَيْ",
+            "tr": "insay"
+          },
+          "antuma": {
+            "ar": "اِنْسَيَا",
+            "tr": "insayā"
+          },
+          "antum": {
+            "ar": "اِنْسَوْا",
+            "tr": "insaw"
+          },
+          "antunna": {
+            "ar": "اِنْسَيْنَ",
+            "tr": "insayna"
+          }
         }
       },
-      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg."
+      "notitie": "Defectief werkwoord: de laatste wortelletter (و/ي) wordt een lange klinker of valt weg. Wijzen: manṣūb يَنْسى (onveranderd)، majzūm لَمْ يَنْسَ، gebiedend اِنْسَ."
     },
     {
       "id": "wasala",
@@ -1840,9 +3010,139 @@
             "ar": "يَصِلْنَ",
             "tr": "yaṣilna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَصِلَ",
+            "tr": "aṣila"
+          },
+          "anta": {
+            "ar": "تَصِلَ",
+            "tr": "taṣila"
+          },
+          "anti": {
+            "ar": "تَصِلِي",
+            "tr": "taṣilī"
+          },
+          "huwa": {
+            "ar": "يَصِلَ",
+            "tr": "yaṣila"
+          },
+          "hiya": {
+            "ar": "تَصِلَ",
+            "tr": "taṣila"
+          },
+          "antuma": {
+            "ar": "تَصِلَا",
+            "tr": "taṣilā"
+          },
+          "huma_m": {
+            "ar": "يَصِلَا",
+            "tr": "yaṣilā"
+          },
+          "huma_f": {
+            "ar": "تَصِلَا",
+            "tr": "taṣilā"
+          },
+          "nahnu": {
+            "ar": "نَصِلَ",
+            "tr": "naṣila"
+          },
+          "antum": {
+            "ar": "تَصِلُوا",
+            "tr": "taṣilū"
+          },
+          "antunna": {
+            "ar": "تَصِلْنَ",
+            "tr": "taṣilna"
+          },
+          "hum": {
+            "ar": "يَصِلُوا",
+            "tr": "yaṣilū"
+          },
+          "hunna": {
+            "ar": "يَصِلْنَ",
+            "tr": "yaṣilna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَصِلْ",
+            "tr": "aṣil"
+          },
+          "anta": {
+            "ar": "تَصِلْ",
+            "tr": "taṣil"
+          },
+          "anti": {
+            "ar": "تَصِلِي",
+            "tr": "taṣilī"
+          },
+          "huwa": {
+            "ar": "يَصِلْ",
+            "tr": "yaṣil"
+          },
+          "hiya": {
+            "ar": "تَصِلْ",
+            "tr": "taṣil"
+          },
+          "antuma": {
+            "ar": "تَصِلَا",
+            "tr": "taṣilā"
+          },
+          "huma_m": {
+            "ar": "يَصِلَا",
+            "tr": "yaṣilā"
+          },
+          "huma_f": {
+            "ar": "تَصِلَا",
+            "tr": "taṣilā"
+          },
+          "nahnu": {
+            "ar": "نَصِلْ",
+            "tr": "naṣil"
+          },
+          "antum": {
+            "ar": "تَصِلُوا",
+            "tr": "taṣilū"
+          },
+          "antunna": {
+            "ar": "تَصِلْنَ",
+            "tr": "taṣilna"
+          },
+          "hum": {
+            "ar": "يَصِلُوا",
+            "tr": "yaṣilū"
+          },
+          "hunna": {
+            "ar": "يَصِلْنَ",
+            "tr": "yaṣilna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "صِلْ",
+            "tr": "ṣil"
+          },
+          "anti": {
+            "ar": "صِلِي",
+            "tr": "ṣilī"
+          },
+          "antuma": {
+            "ar": "صِلَا",
+            "tr": "ṣilā"
+          },
+          "antum": {
+            "ar": "صِلُوا",
+            "tr": "ṣilū"
+          },
+          "antunna": {
+            "ar": "صِلْنَ",
+            "tr": "ṣilna"
+          }
         }
       },
-      "notitie": "Assimilerend werkwoord: de و aan het begin valt weg in de muḍāriʿ (يَصِلُ). De māḍī is regelmatig."
+      "notitie": "Assimilerend werkwoord: de و aan het begin valt weg in de muḍāriʿ (يَصِلُ). De māḍī is regelmatig. Wijzen: ook in de majzūm en de gebiedende wijs zonder و (لَمْ يَصِلْ، صِلْ)."
     },
     {
       "id": "wajada",
@@ -1965,9 +3265,139 @@
             "ar": "يَجِدْنَ",
             "tr": "yajidna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَجِدَ",
+            "tr": "ajida"
+          },
+          "anta": {
+            "ar": "تَجِدَ",
+            "tr": "tajida"
+          },
+          "anti": {
+            "ar": "تَجِدِي",
+            "tr": "tajidī"
+          },
+          "huwa": {
+            "ar": "يَجِدَ",
+            "tr": "yajida"
+          },
+          "hiya": {
+            "ar": "تَجِدَ",
+            "tr": "tajida"
+          },
+          "antuma": {
+            "ar": "تَجِدَا",
+            "tr": "tajidā"
+          },
+          "huma_m": {
+            "ar": "يَجِدَا",
+            "tr": "yajidā"
+          },
+          "huma_f": {
+            "ar": "تَجِدَا",
+            "tr": "tajidā"
+          },
+          "nahnu": {
+            "ar": "نَجِدَ",
+            "tr": "najida"
+          },
+          "antum": {
+            "ar": "تَجِدُوا",
+            "tr": "tajidū"
+          },
+          "antunna": {
+            "ar": "تَجِدْنَ",
+            "tr": "tajidna"
+          },
+          "hum": {
+            "ar": "يَجِدُوا",
+            "tr": "yajidū"
+          },
+          "hunna": {
+            "ar": "يَجِدْنَ",
+            "tr": "yajidna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَجِدْ",
+            "tr": "ajid"
+          },
+          "anta": {
+            "ar": "تَجِدْ",
+            "tr": "tajid"
+          },
+          "anti": {
+            "ar": "تَجِدِي",
+            "tr": "tajidī"
+          },
+          "huwa": {
+            "ar": "يَجِدْ",
+            "tr": "yajid"
+          },
+          "hiya": {
+            "ar": "تَجِدْ",
+            "tr": "tajid"
+          },
+          "antuma": {
+            "ar": "تَجِدَا",
+            "tr": "tajidā"
+          },
+          "huma_m": {
+            "ar": "يَجِدَا",
+            "tr": "yajidā"
+          },
+          "huma_f": {
+            "ar": "تَجِدَا",
+            "tr": "tajidā"
+          },
+          "nahnu": {
+            "ar": "نَجِدْ",
+            "tr": "najid"
+          },
+          "antum": {
+            "ar": "تَجِدُوا",
+            "tr": "tajidū"
+          },
+          "antunna": {
+            "ar": "تَجِدْنَ",
+            "tr": "tajidna"
+          },
+          "hum": {
+            "ar": "يَجِدُوا",
+            "tr": "yajidū"
+          },
+          "hunna": {
+            "ar": "يَجِدْنَ",
+            "tr": "yajidna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "جِدْ",
+            "tr": "jid"
+          },
+          "anti": {
+            "ar": "جِدِي",
+            "tr": "jidī"
+          },
+          "antuma": {
+            "ar": "جِدَا",
+            "tr": "jidā"
+          },
+          "antum": {
+            "ar": "جِدُوا",
+            "tr": "jidū"
+          },
+          "antunna": {
+            "ar": "جِدْنَ",
+            "tr": "jidna"
+          }
         }
       },
-      "notitie": "Assimilerend werkwoord: de و aan het begin valt weg in de muḍāriʿ (يَصِلُ). De māḍī is regelmatig."
+      "notitie": "Assimilerend werkwoord: de و aan het begin valt weg in de muḍāriʿ (يَصِلُ). De māḍī is regelmatig. Wijzen: ook in de majzūm en de gebiedende wijs zonder و (لَمْ يَصِلْ، صِلْ)."
     },
     {
       "id": "marra",
@@ -2090,9 +3520,157 @@
             "ar": "يَمْرُرْنَ",
             "tr": "yamrurna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَمُرَّ",
+            "tr": "amurra"
+          },
+          "anta": {
+            "ar": "تَمُرَّ",
+            "tr": "tamurra"
+          },
+          "anti": {
+            "ar": "تَمُرِّي",
+            "tr": "tamurrī"
+          },
+          "huwa": {
+            "ar": "يَمُرَّ",
+            "tr": "yamurra"
+          },
+          "hiya": {
+            "ar": "تَمُرَّ",
+            "tr": "tamurra"
+          },
+          "antuma": {
+            "ar": "تَمُرَّا",
+            "tr": "tamurrā"
+          },
+          "huma_m": {
+            "ar": "يَمُرَّا",
+            "tr": "yamurrā"
+          },
+          "huma_f": {
+            "ar": "تَمُرَّا",
+            "tr": "tamurrā"
+          },
+          "nahnu": {
+            "ar": "نَمُرَّ",
+            "tr": "namurra"
+          },
+          "antum": {
+            "ar": "تَمُرُّوا",
+            "tr": "tamurrū"
+          },
+          "antunna": {
+            "ar": "تَمْرُرْنَ",
+            "tr": "tamrurna"
+          },
+          "hum": {
+            "ar": "يَمُرُّوا",
+            "tr": "yamurrū"
+          },
+          "hunna": {
+            "ar": "يَمْرُرْنَ",
+            "tr": "yamrurna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَمُرَّ",
+            "tr": "amurra",
+            "alt": [
+              "أَمْرُرْ"
+            ]
+          },
+          "anta": {
+            "ar": "تَمُرَّ",
+            "tr": "tamurra",
+            "alt": [
+              "تَمْرُرْ"
+            ]
+          },
+          "anti": {
+            "ar": "تَمُرِّي",
+            "tr": "tamurrī"
+          },
+          "huwa": {
+            "ar": "يَمُرَّ",
+            "tr": "yamurra",
+            "alt": [
+              "يَمْرُرْ"
+            ]
+          },
+          "hiya": {
+            "ar": "تَمُرَّ",
+            "tr": "tamurra",
+            "alt": [
+              "تَمْرُرْ"
+            ]
+          },
+          "antuma": {
+            "ar": "تَمُرَّا",
+            "tr": "tamurrā"
+          },
+          "huma_m": {
+            "ar": "يَمُرَّا",
+            "tr": "yamurrā"
+          },
+          "huma_f": {
+            "ar": "تَمُرَّا",
+            "tr": "tamurrā"
+          },
+          "nahnu": {
+            "ar": "نَمُرَّ",
+            "tr": "namurra",
+            "alt": [
+              "نَمْرُرْ"
+            ]
+          },
+          "antum": {
+            "ar": "تَمُرُّوا",
+            "tr": "tamurrū"
+          },
+          "antunna": {
+            "ar": "تَمْرُرْنَ",
+            "tr": "tamrurna"
+          },
+          "hum": {
+            "ar": "يَمُرُّوا",
+            "tr": "yamurrū"
+          },
+          "hunna": {
+            "ar": "يَمْرُرْنَ",
+            "tr": "yamrurna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "مُرَّ",
+            "tr": "murra",
+            "alt": [
+              "اُمْرُرْ"
+            ]
+          },
+          "anti": {
+            "ar": "مُرِّي",
+            "tr": "murrī"
+          },
+          "antuma": {
+            "ar": "مُرَّا",
+            "tr": "murrā"
+          },
+          "antum": {
+            "ar": "مُرُّوا",
+            "tr": "murrū"
+          },
+          "antunna": {
+            "ar": "اُمْرُرْنَ",
+            "tr": "umrurna"
+          }
         }
       },
-      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ)."
+      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ). Wijzen: majzūm لَمْ يَمُرَّ (of يَمْرُرْ), gebiedend مُرَّ (of اُمْرُرْ); beide worden goed gerekend."
     },
     {
       "id": "radda",
@@ -2215,9 +3793,157 @@
             "ar": "يَرْدُدْنَ",
             "tr": "yardudna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَرُدَّ",
+            "tr": "arudda"
+          },
+          "anta": {
+            "ar": "تَرُدَّ",
+            "tr": "tarudda"
+          },
+          "anti": {
+            "ar": "تَرُدِّي",
+            "tr": "taruddī"
+          },
+          "huwa": {
+            "ar": "يَرُدَّ",
+            "tr": "yarudda"
+          },
+          "hiya": {
+            "ar": "تَرُدَّ",
+            "tr": "tarudda"
+          },
+          "antuma": {
+            "ar": "تَرُدَّا",
+            "tr": "taruddā"
+          },
+          "huma_m": {
+            "ar": "يَرُدَّا",
+            "tr": "yaruddā"
+          },
+          "huma_f": {
+            "ar": "تَرُدَّا",
+            "tr": "taruddā"
+          },
+          "nahnu": {
+            "ar": "نَرُدَّ",
+            "tr": "narudda"
+          },
+          "antum": {
+            "ar": "تَرُدُّوا",
+            "tr": "taruddū"
+          },
+          "antunna": {
+            "ar": "تَرْدُدْنَ",
+            "tr": "tardudna"
+          },
+          "hum": {
+            "ar": "يَرُدُّوا",
+            "tr": "yaruddū"
+          },
+          "hunna": {
+            "ar": "يَرْدُدْنَ",
+            "tr": "yardudna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَرُدَّ",
+            "tr": "arudda",
+            "alt": [
+              "أَرْدُدْ"
+            ]
+          },
+          "anta": {
+            "ar": "تَرُدَّ",
+            "tr": "tarudda",
+            "alt": [
+              "تَرْدُدْ"
+            ]
+          },
+          "anti": {
+            "ar": "تَرُدِّي",
+            "tr": "taruddī"
+          },
+          "huwa": {
+            "ar": "يَرُدَّ",
+            "tr": "yarudda",
+            "alt": [
+              "يَرْدُدْ"
+            ]
+          },
+          "hiya": {
+            "ar": "تَرُدَّ",
+            "tr": "tarudda",
+            "alt": [
+              "تَرْدُدْ"
+            ]
+          },
+          "antuma": {
+            "ar": "تَرُدَّا",
+            "tr": "taruddā"
+          },
+          "huma_m": {
+            "ar": "يَرُدَّا",
+            "tr": "yaruddā"
+          },
+          "huma_f": {
+            "ar": "تَرُدَّا",
+            "tr": "taruddā"
+          },
+          "nahnu": {
+            "ar": "نَرُدَّ",
+            "tr": "narudda",
+            "alt": [
+              "نَرْدُدْ"
+            ]
+          },
+          "antum": {
+            "ar": "تَرُدُّوا",
+            "tr": "taruddū"
+          },
+          "antunna": {
+            "ar": "تَرْدُدْنَ",
+            "tr": "tardudna"
+          },
+          "hum": {
+            "ar": "يَرُدُّوا",
+            "tr": "yaruddū"
+          },
+          "hunna": {
+            "ar": "يَرْدُدْنَ",
+            "tr": "yardudna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "رُدَّ",
+            "tr": "rudda",
+            "alt": [
+              "اُرْدُدْ"
+            ]
+          },
+          "anti": {
+            "ar": "رُدِّي",
+            "tr": "ruddī"
+          },
+          "antuma": {
+            "ar": "رُدَّا",
+            "tr": "ruddā"
+          },
+          "antum": {
+            "ar": "رُدُّوا",
+            "tr": "ruddū"
+          },
+          "antunna": {
+            "ar": "اُرْدُدْنَ",
+            "tr": "urdudna"
+          }
         }
       },
-      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ)."
+      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ). Wijzen: majzūm لَمْ يَمُرَّ (of يَمْرُرْ), gebiedend مُرَّ (of اُمْرُرْ); beide worden goed gerekend."
     },
     {
       "id": "dhanna",
@@ -2340,9 +4066,157 @@
             "ar": "يَظْنُنَّ",
             "tr": "yaẓnunna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَظُنَّ",
+            "tr": "aẓunna"
+          },
+          "anta": {
+            "ar": "تَظُنَّ",
+            "tr": "taẓunna"
+          },
+          "anti": {
+            "ar": "تَظُنِّي",
+            "tr": "taẓunnī"
+          },
+          "huwa": {
+            "ar": "يَظُنَّ",
+            "tr": "yaẓunna"
+          },
+          "hiya": {
+            "ar": "تَظُنَّ",
+            "tr": "taẓunna"
+          },
+          "antuma": {
+            "ar": "تَظُنَّا",
+            "tr": "taẓunnā"
+          },
+          "huma_m": {
+            "ar": "يَظُنَّا",
+            "tr": "yaẓunnā"
+          },
+          "huma_f": {
+            "ar": "تَظُنَّا",
+            "tr": "taẓunnā"
+          },
+          "nahnu": {
+            "ar": "نَظُنَّ",
+            "tr": "naẓunna"
+          },
+          "antum": {
+            "ar": "تَظُنُّوا",
+            "tr": "taẓunnū"
+          },
+          "antunna": {
+            "ar": "تَظْنُنَّ",
+            "tr": "taẓnunna"
+          },
+          "hum": {
+            "ar": "يَظُنُّوا",
+            "tr": "yaẓunnū"
+          },
+          "hunna": {
+            "ar": "يَظْنُنَّ",
+            "tr": "yaẓnunna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَظُنَّ",
+            "tr": "aẓunna",
+            "alt": [
+              "أَظْنُنْ"
+            ]
+          },
+          "anta": {
+            "ar": "تَظُنَّ",
+            "tr": "taẓunna",
+            "alt": [
+              "تَظْنُنْ"
+            ]
+          },
+          "anti": {
+            "ar": "تَظُنِّي",
+            "tr": "taẓunnī"
+          },
+          "huwa": {
+            "ar": "يَظُنَّ",
+            "tr": "yaẓunna",
+            "alt": [
+              "يَظْنُنْ"
+            ]
+          },
+          "hiya": {
+            "ar": "تَظُنَّ",
+            "tr": "taẓunna",
+            "alt": [
+              "تَظْنُنْ"
+            ]
+          },
+          "antuma": {
+            "ar": "تَظُنَّا",
+            "tr": "taẓunnā"
+          },
+          "huma_m": {
+            "ar": "يَظُنَّا",
+            "tr": "yaẓunnā"
+          },
+          "huma_f": {
+            "ar": "تَظُنَّا",
+            "tr": "taẓunnā"
+          },
+          "nahnu": {
+            "ar": "نَظُنَّ",
+            "tr": "naẓunna",
+            "alt": [
+              "نَظْنُنْ"
+            ]
+          },
+          "antum": {
+            "ar": "تَظُنُّوا",
+            "tr": "taẓunnū"
+          },
+          "antunna": {
+            "ar": "تَظْنُنَّ",
+            "tr": "taẓnunna"
+          },
+          "hum": {
+            "ar": "يَظُنُّوا",
+            "tr": "yaẓunnū"
+          },
+          "hunna": {
+            "ar": "يَظْنُنَّ",
+            "tr": "yaẓnunna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "ظُنَّ",
+            "tr": "ẓunna",
+            "alt": [
+              "اُظْنُنْ"
+            ]
+          },
+          "anti": {
+            "ar": "ظُنِّي",
+            "tr": "ẓunnī"
+          },
+          "antuma": {
+            "ar": "ظُنَّا",
+            "tr": "ẓunnā"
+          },
+          "antum": {
+            "ar": "ظُنُّوا",
+            "tr": "ẓunnū"
+          },
+          "antunna": {
+            "ar": "اُظْنُنَّ",
+            "tr": "uẓnunna"
+          }
         }
       },
-      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ). Bij ظَنَّ smelt ن + ن ook samen met de uitgang: ظَنَنّا، ظَنَنَّ."
+      "notitie": "Verdubbeld werkwoord: de tweede en derde wortelletter zijn gelijk. Ze smelten samen (مَرَّ) behalve vóór een medeklinker-uitgang (مَرَرْتُ). Bij ظَنَّ smelt ن + ن ook samen met de uitgang: ظَنَنّا، ظَنَنَّ. Wijzen: majzūm لَمْ يَمُرَّ (of يَمْرُرْ), gebiedend مُرَّ (of اُمْرُرْ); beide worden goed gerekend."
     },
     {
       "id": "akhadha",
@@ -2465,9 +4339,139 @@
             "ar": "يَأْخُذْنَ",
             "tr": "yaʾḫuḏna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "آخُذَ",
+            "tr": "āḫuḏa"
+          },
+          "anta": {
+            "ar": "تَأْخُذَ",
+            "tr": "taʾḫuḏa"
+          },
+          "anti": {
+            "ar": "تَأْخُذِي",
+            "tr": "taʾḫuḏī"
+          },
+          "huwa": {
+            "ar": "يَأْخُذَ",
+            "tr": "yaʾḫuḏa"
+          },
+          "hiya": {
+            "ar": "تَأْخُذَ",
+            "tr": "taʾḫuḏa"
+          },
+          "antuma": {
+            "ar": "تَأْخُذَا",
+            "tr": "taʾḫuḏā"
+          },
+          "huma_m": {
+            "ar": "يَأْخُذَا",
+            "tr": "yaʾḫuḏā"
+          },
+          "huma_f": {
+            "ar": "تَأْخُذَا",
+            "tr": "taʾḫuḏā"
+          },
+          "nahnu": {
+            "ar": "نَأْخُذَ",
+            "tr": "naʾḫuḏa"
+          },
+          "antum": {
+            "ar": "تَأْخُذُوا",
+            "tr": "taʾḫuḏū"
+          },
+          "antunna": {
+            "ar": "تَأْخُذْنَ",
+            "tr": "taʾḫuḏna"
+          },
+          "hum": {
+            "ar": "يَأْخُذُوا",
+            "tr": "yaʾḫuḏū"
+          },
+          "hunna": {
+            "ar": "يَأْخُذْنَ",
+            "tr": "yaʾḫuḏna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "آخُذْ",
+            "tr": "āḫuḏ"
+          },
+          "anta": {
+            "ar": "تَأْخُذْ",
+            "tr": "taʾḫuḏ"
+          },
+          "anti": {
+            "ar": "تَأْخُذِي",
+            "tr": "taʾḫuḏī"
+          },
+          "huwa": {
+            "ar": "يَأْخُذْ",
+            "tr": "yaʾḫuḏ"
+          },
+          "hiya": {
+            "ar": "تَأْخُذْ",
+            "tr": "taʾḫuḏ"
+          },
+          "antuma": {
+            "ar": "تَأْخُذَا",
+            "tr": "taʾḫuḏā"
+          },
+          "huma_m": {
+            "ar": "يَأْخُذَا",
+            "tr": "yaʾḫuḏā"
+          },
+          "huma_f": {
+            "ar": "تَأْخُذَا",
+            "tr": "taʾḫuḏā"
+          },
+          "nahnu": {
+            "ar": "نَأْخُذْ",
+            "tr": "naʾḫuḏ"
+          },
+          "antum": {
+            "ar": "تَأْخُذُوا",
+            "tr": "taʾḫuḏū"
+          },
+          "antunna": {
+            "ar": "تَأْخُذْنَ",
+            "tr": "taʾḫuḏna"
+          },
+          "hum": {
+            "ar": "يَأْخُذُوا",
+            "tr": "yaʾḫuḏū"
+          },
+          "hunna": {
+            "ar": "يَأْخُذْنَ",
+            "tr": "yaʾḫuḏna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "خُذْ",
+            "tr": "ḫuḏ"
+          },
+          "anti": {
+            "ar": "خُذِي",
+            "tr": "ḫuḏī"
+          },
+          "antuma": {
+            "ar": "خُذَا",
+            "tr": "ḫuḏā"
+          },
+          "antum": {
+            "ar": "خُذُوا",
+            "tr": "ḫuḏū"
+          },
+          "antunna": {
+            "ar": "خُذْنَ",
+            "tr": "ḫuḏna"
+          }
         }
       },
-      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Ik neem: آخُذُ (أَ + أْ wordt آ)."
+      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Ik neem: آخُذُ (أَ + أْ wordt آ). Wijzen: de gebiedende wijs is onregelmatig: خُذْ (zonder hamza)."
     },
     {
       "id": "akala",
@@ -2590,9 +4594,139 @@
             "ar": "يَأْكُلْنَ",
             "tr": "yaʾkulna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "آكُلَ",
+            "tr": "ākula"
+          },
+          "anta": {
+            "ar": "تَأْكُلَ",
+            "tr": "taʾkula"
+          },
+          "anti": {
+            "ar": "تَأْكُلِي",
+            "tr": "taʾkulī"
+          },
+          "huwa": {
+            "ar": "يَأْكُلَ",
+            "tr": "yaʾkula"
+          },
+          "hiya": {
+            "ar": "تَأْكُلَ",
+            "tr": "taʾkula"
+          },
+          "antuma": {
+            "ar": "تَأْكُلَا",
+            "tr": "taʾkulā"
+          },
+          "huma_m": {
+            "ar": "يَأْكُلَا",
+            "tr": "yaʾkulā"
+          },
+          "huma_f": {
+            "ar": "تَأْكُلَا",
+            "tr": "taʾkulā"
+          },
+          "nahnu": {
+            "ar": "نَأْكُلَ",
+            "tr": "naʾkula"
+          },
+          "antum": {
+            "ar": "تَأْكُلُوا",
+            "tr": "taʾkulū"
+          },
+          "antunna": {
+            "ar": "تَأْكُلْنَ",
+            "tr": "taʾkulna"
+          },
+          "hum": {
+            "ar": "يَأْكُلُوا",
+            "tr": "yaʾkulū"
+          },
+          "hunna": {
+            "ar": "يَأْكُلْنَ",
+            "tr": "yaʾkulna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "آكُلْ",
+            "tr": "ākul"
+          },
+          "anta": {
+            "ar": "تَأْكُلْ",
+            "tr": "taʾkul"
+          },
+          "anti": {
+            "ar": "تَأْكُلِي",
+            "tr": "taʾkulī"
+          },
+          "huwa": {
+            "ar": "يَأْكُلْ",
+            "tr": "yaʾkul"
+          },
+          "hiya": {
+            "ar": "تَأْكُلْ",
+            "tr": "taʾkul"
+          },
+          "antuma": {
+            "ar": "تَأْكُلَا",
+            "tr": "taʾkulā"
+          },
+          "huma_m": {
+            "ar": "يَأْكُلَا",
+            "tr": "yaʾkulā"
+          },
+          "huma_f": {
+            "ar": "تَأْكُلَا",
+            "tr": "taʾkulā"
+          },
+          "nahnu": {
+            "ar": "نَأْكُلْ",
+            "tr": "naʾkul"
+          },
+          "antum": {
+            "ar": "تَأْكُلُوا",
+            "tr": "taʾkulū"
+          },
+          "antunna": {
+            "ar": "تَأْكُلْنَ",
+            "tr": "taʾkulna"
+          },
+          "hum": {
+            "ar": "يَأْكُلُوا",
+            "tr": "yaʾkulū"
+          },
+          "hunna": {
+            "ar": "يَأْكُلْنَ",
+            "tr": "yaʾkulna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "كُلْ",
+            "tr": "kul"
+          },
+          "anti": {
+            "ar": "كُلِي",
+            "tr": "kulī"
+          },
+          "antuma": {
+            "ar": "كُلَا",
+            "tr": "kulā"
+          },
+          "antum": {
+            "ar": "كُلُوا",
+            "tr": "kulū"
+          },
+          "antunna": {
+            "ar": "كُلْنَ",
+            "tr": "kulna"
+          }
         }
       },
-      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Ik eet: آكُلُ."
+      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Ik eet: آكُلُ. Wijzen: de gebiedende wijs is onregelmatig: كُلْ (zonder hamza)."
     },
     {
       "id": "saala",
@@ -2715,9 +4849,142 @@
             "ar": "يَسْأَلْنَ",
             "tr": "yasʾalna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَسْأَلَ",
+            "tr": "asʾala"
+          },
+          "anta": {
+            "ar": "تَسْأَلَ",
+            "tr": "tasʾala"
+          },
+          "anti": {
+            "ar": "تَسْأَلِي",
+            "tr": "tasʾalī"
+          },
+          "huwa": {
+            "ar": "يَسْأَلَ",
+            "tr": "yasʾala"
+          },
+          "hiya": {
+            "ar": "تَسْأَلَ",
+            "tr": "tasʾala"
+          },
+          "antuma": {
+            "ar": "تَسْأَلَا",
+            "tr": "tasʾalā"
+          },
+          "huma_m": {
+            "ar": "يَسْأَلَا",
+            "tr": "yasʾalā"
+          },
+          "huma_f": {
+            "ar": "تَسْأَلَا",
+            "tr": "tasʾalā"
+          },
+          "nahnu": {
+            "ar": "نَسْأَلَ",
+            "tr": "nasʾala"
+          },
+          "antum": {
+            "ar": "تَسْأَلُوا",
+            "tr": "tasʾalū"
+          },
+          "antunna": {
+            "ar": "تَسْأَلْنَ",
+            "tr": "tasʾalna"
+          },
+          "hum": {
+            "ar": "يَسْأَلُوا",
+            "tr": "yasʾalū"
+          },
+          "hunna": {
+            "ar": "يَسْأَلْنَ",
+            "tr": "yasʾalna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَسْأَلْ",
+            "tr": "asʾal"
+          },
+          "anta": {
+            "ar": "تَسْأَلْ",
+            "tr": "tasʾal"
+          },
+          "anti": {
+            "ar": "تَسْأَلِي",
+            "tr": "tasʾalī"
+          },
+          "huwa": {
+            "ar": "يَسْأَلْ",
+            "tr": "yasʾal"
+          },
+          "hiya": {
+            "ar": "تَسْأَلْ",
+            "tr": "tasʾal"
+          },
+          "antuma": {
+            "ar": "تَسْأَلَا",
+            "tr": "tasʾalā"
+          },
+          "huma_m": {
+            "ar": "يَسْأَلَا",
+            "tr": "yasʾalā"
+          },
+          "huma_f": {
+            "ar": "تَسْأَلَا",
+            "tr": "tasʾalā"
+          },
+          "nahnu": {
+            "ar": "نَسْأَلْ",
+            "tr": "nasʾal"
+          },
+          "antum": {
+            "ar": "تَسْأَلُوا",
+            "tr": "tasʾalū"
+          },
+          "antunna": {
+            "ar": "تَسْأَلْنَ",
+            "tr": "tasʾalna"
+          },
+          "hum": {
+            "ar": "يَسْأَلُوا",
+            "tr": "yasʾalū"
+          },
+          "hunna": {
+            "ar": "يَسْأَلْنَ",
+            "tr": "yasʾalna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِسْأَلْ",
+            "tr": "isʾal",
+            "alt": [
+              "سَلْ"
+            ]
+          },
+          "anti": {
+            "ar": "اِسْأَلِي",
+            "tr": "isʾalī"
+          },
+          "antuma": {
+            "ar": "اِسْأَلَا",
+            "tr": "isʾalā"
+          },
+          "antum": {
+            "ar": "اِسْأَلُوا",
+            "tr": "isʾalū"
+          },
+          "antunna": {
+            "ar": "اِسْأَلْنَ",
+            "tr": "isʾalna"
+          }
         }
       },
-      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen."
+      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Wijzen: gebiedend اِسْأَلْ; in het dagelijks Arabisch ook سَلْ (wordt ook goed gerekend)."
     },
     {
       "id": "qaraa",
@@ -2849,9 +5116,154 @@
             "ar": "يَقْرَأْنَ",
             "tr": "yaqraʾna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَقْرَأَ",
+            "tr": "aqraʾa"
+          },
+          "anta": {
+            "ar": "تَقْرَأَ",
+            "tr": "taqraʾa"
+          },
+          "anti": {
+            "ar": "تَقْرَئي",
+            "tr": "taqraʾī"
+          },
+          "huwa": {
+            "ar": "يَقْرَأَ",
+            "tr": "yaqraʾa"
+          },
+          "hiya": {
+            "ar": "تَقْرَأَ",
+            "tr": "taqraʾa"
+          },
+          "antuma": {
+            "ar": "تَقْرَآ",
+            "tr": "taqraʾā"
+          },
+          "huma_m": {
+            "ar": "يَقْرَآ",
+            "tr": "yaqraʾā"
+          },
+          "huma_f": {
+            "ar": "تَقْرَآ",
+            "tr": "taqraʾā"
+          },
+          "nahnu": {
+            "ar": "نَقْرَأَ",
+            "tr": "naqraʾa"
+          },
+          "antum": {
+            "ar": "تَقْرَؤوا",
+            "tr": "taqraʾū",
+            "alt": [
+              "تَقْرَأُوا"
+            ]
+          },
+          "antunna": {
+            "ar": "تَقْرَأْنَ",
+            "tr": "taqraʾna"
+          },
+          "hum": {
+            "ar": "يَقْرَؤوا",
+            "tr": "yaqraʾū",
+            "alt": [
+              "يَقْرَأُوا"
+            ]
+          },
+          "hunna": {
+            "ar": "يَقْرَأْنَ",
+            "tr": "yaqraʾna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَقْرَأْ",
+            "tr": "aqraʾ"
+          },
+          "anta": {
+            "ar": "تَقْرَأْ",
+            "tr": "taqraʾ"
+          },
+          "anti": {
+            "ar": "تَقْرَئي",
+            "tr": "taqraʾī"
+          },
+          "huwa": {
+            "ar": "يَقْرَأْ",
+            "tr": "yaqraʾ"
+          },
+          "hiya": {
+            "ar": "تَقْرَأْ",
+            "tr": "taqraʾ"
+          },
+          "antuma": {
+            "ar": "تَقْرَآ",
+            "tr": "taqraʾā"
+          },
+          "huma_m": {
+            "ar": "يَقْرَآ",
+            "tr": "yaqraʾā"
+          },
+          "huma_f": {
+            "ar": "تَقْرَآ",
+            "tr": "taqraʾā"
+          },
+          "nahnu": {
+            "ar": "نَقْرَأْ",
+            "tr": "naqraʾ"
+          },
+          "antum": {
+            "ar": "تَقْرَؤوا",
+            "tr": "taqraʾū",
+            "alt": [
+              "تَقْرَأُوا"
+            ]
+          },
+          "antunna": {
+            "ar": "تَقْرَأْنَ",
+            "tr": "taqraʾna"
+          },
+          "hum": {
+            "ar": "يَقْرَؤوا",
+            "tr": "yaqraʾū",
+            "alt": [
+              "يَقْرَأُوا"
+            ]
+          },
+          "hunna": {
+            "ar": "يَقْرَأْنَ",
+            "tr": "yaqraʾna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِقْرَأْ",
+            "tr": "iqraʾ"
+          },
+          "anti": {
+            "ar": "اِقْرَئي",
+            "tr": "iqraʾī"
+          },
+          "antuma": {
+            "ar": "اِقْرَآ",
+            "tr": "iqraʾā"
+          },
+          "antum": {
+            "ar": "اِقْرَؤوا",
+            "tr": "iqraʾū",
+            "alt": [
+              "اِقْرَأُوا"
+            ]
+          },
+          "antunna": {
+            "ar": "اِقْرَأْنَ",
+            "tr": "iqraʾna"
+          }
         }
       },
-      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Na een u wordt de drager ؤ (قَرَؤوا), na een i ئ (تَقْرَئينَ), en أَ + ا wordt آ (قَرَآ).",
+      "notitie": "Hamza-werkwoord: de hamza is een gewone medeklinker, maar haar drager (أ، ؤ، ئ، ء) hangt af van de klinkers eromheen. Na een u wordt de drager ؤ (قَرَؤوا), na een i ئ (تَقْرَئينَ), en أَ + ا wordt آ (قَرَآ). Wijzen: gebiedend اِقْرَأْ، اِقْرَئي، اِقْرَؤوا (ook اِقْرَأُوا).",
       "review": {
         "status": "onzeker",
         "note": "Spellingvarianten met ؤ/أُو (قَرَؤوا ~ قَرَأُوا) controleren; beide worden goed gerekend."
@@ -2978,9 +5390,143 @@
             "ar": "يَرَيْنَ",
             "tr": "yarayna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَرَى",
+            "tr": "arā"
+          },
+          "anta": {
+            "ar": "تَرَى",
+            "tr": "tarā"
+          },
+          "anti": {
+            "ar": "تَرَيْ",
+            "tr": "taray"
+          },
+          "huwa": {
+            "ar": "يَرَى",
+            "tr": "yarā"
+          },
+          "hiya": {
+            "ar": "تَرَى",
+            "tr": "tarā"
+          },
+          "antuma": {
+            "ar": "تَرَيَا",
+            "tr": "tarayā"
+          },
+          "huma_m": {
+            "ar": "يَرَيَا",
+            "tr": "yarayā"
+          },
+          "huma_f": {
+            "ar": "تَرَيَا",
+            "tr": "tarayā"
+          },
+          "nahnu": {
+            "ar": "نَرَى",
+            "tr": "narā"
+          },
+          "antum": {
+            "ar": "تَرَوْا",
+            "tr": "taraw"
+          },
+          "antunna": {
+            "ar": "تَرَيْنَ",
+            "tr": "tarayna"
+          },
+          "hum": {
+            "ar": "يَرَوْا",
+            "tr": "yaraw"
+          },
+          "hunna": {
+            "ar": "يَرَيْنَ",
+            "tr": "yarayna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَرَ",
+            "tr": "ara"
+          },
+          "anta": {
+            "ar": "تَرَ",
+            "tr": "tara"
+          },
+          "anti": {
+            "ar": "تَرَيْ",
+            "tr": "taray"
+          },
+          "huwa": {
+            "ar": "يَرَ",
+            "tr": "yara"
+          },
+          "hiya": {
+            "ar": "تَرَ",
+            "tr": "tara"
+          },
+          "antuma": {
+            "ar": "تَرَيَا",
+            "tr": "tarayā"
+          },
+          "huma_m": {
+            "ar": "يَرَيَا",
+            "tr": "yarayā"
+          },
+          "huma_f": {
+            "ar": "تَرَيَا",
+            "tr": "tarayā"
+          },
+          "nahnu": {
+            "ar": "نَرَ",
+            "tr": "nara"
+          },
+          "antum": {
+            "ar": "تَرَوْا",
+            "tr": "taraw"
+          },
+          "antunna": {
+            "ar": "تَرَيْنَ",
+            "tr": "tarayna"
+          },
+          "hum": {
+            "ar": "يَرَوْا",
+            "tr": "yaraw"
+          },
+          "hunna": {
+            "ar": "يَرَيْنَ",
+            "tr": "yarayna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "رَ",
+            "tr": "ra"
+          },
+          "anti": {
+            "ar": "رَيْ",
+            "tr": "ray"
+          },
+          "antuma": {
+            "ar": "رَيَا",
+            "tr": "rayā"
+          },
+          "antum": {
+            "ar": "رَوْا",
+            "tr": "raw"
+          },
+          "antunna": {
+            "ar": "رَيْنَ",
+            "tr": "rayna"
+          }
         }
       },
-      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. In de muḍāriʿ valt de hamza weg: يَرى، أَرى."
+      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. In de muḍāriʿ valt de hamza weg: يَرى، أَرى. Wijzen: manṣūb يَرى، majzūm لَمْ يَرَ. De gebiedende wijs رَ (klassiek) wordt bijna niet gebruikt; zeg اُنْظُرْ of شاهِدْ.",
+      "review": {
+        "status": "onzeker",
+        "note": "Gebiedende wijs van رَأى (رَ، رَيْ، رَيا، رَوْا، رَيْنَ) is klassiek; controleren of hij in de trainer hoort."
+      }
     },
     {
       "id": "ataa",
@@ -3103,9 +5649,143 @@
             "ar": "يَأْتينَ",
             "tr": "yaʾtīna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "آتِيَ",
+            "tr": "ātiya"
+          },
+          "anta": {
+            "ar": "تَأْتِيَ",
+            "tr": "taʾtiya"
+          },
+          "anti": {
+            "ar": "تَأْتي",
+            "tr": "taʾtī"
+          },
+          "huwa": {
+            "ar": "يَأْتِيَ",
+            "tr": "yaʾtiya"
+          },
+          "hiya": {
+            "ar": "تَأْتِيَ",
+            "tr": "taʾtiya"
+          },
+          "antuma": {
+            "ar": "تَأْتِيَا",
+            "tr": "taʾtiyā"
+          },
+          "huma_m": {
+            "ar": "يَأْتِيَا",
+            "tr": "yaʾtiyā"
+          },
+          "huma_f": {
+            "ar": "تَأْتِيَا",
+            "tr": "taʾtiyā"
+          },
+          "nahnu": {
+            "ar": "نَأْتِيَ",
+            "tr": "naʾtiya"
+          },
+          "antum": {
+            "ar": "تَأْتوا",
+            "tr": "taʾtū"
+          },
+          "antunna": {
+            "ar": "تَأْتينَ",
+            "tr": "taʾtīna"
+          },
+          "hum": {
+            "ar": "يَأْتوا",
+            "tr": "yaʾtū"
+          },
+          "hunna": {
+            "ar": "يَأْتينَ",
+            "tr": "yaʾtīna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "آتِ",
+            "tr": "āti"
+          },
+          "anta": {
+            "ar": "تَأْتِ",
+            "tr": "taʾti"
+          },
+          "anti": {
+            "ar": "تَأْتي",
+            "tr": "taʾtī"
+          },
+          "huwa": {
+            "ar": "يَأْتِ",
+            "tr": "yaʾti"
+          },
+          "hiya": {
+            "ar": "تَأْتِ",
+            "tr": "taʾti"
+          },
+          "antuma": {
+            "ar": "تَأْتِيَا",
+            "tr": "taʾtiyā"
+          },
+          "huma_m": {
+            "ar": "يَأْتِيَا",
+            "tr": "yaʾtiyā"
+          },
+          "huma_f": {
+            "ar": "تَأْتِيَا",
+            "tr": "taʾtiyā"
+          },
+          "nahnu": {
+            "ar": "نَأْتِ",
+            "tr": "naʾti"
+          },
+          "antum": {
+            "ar": "تَأْتوا",
+            "tr": "taʾtū"
+          },
+          "antunna": {
+            "ar": "تَأْتينَ",
+            "tr": "taʾtīna"
+          },
+          "hum": {
+            "ar": "يَأْتوا",
+            "tr": "yaʾtū"
+          },
+          "hunna": {
+            "ar": "يَأْتينَ",
+            "tr": "yaʾtīna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِئْتِ",
+            "tr": "iʾti"
+          },
+          "anti": {
+            "ar": "اِئْتي",
+            "tr": "iʾtī"
+          },
+          "antuma": {
+            "ar": "اِئْتِيَا",
+            "tr": "iʾtiyā"
+          },
+          "antum": {
+            "ar": "اِئْتوا",
+            "tr": "iʾtū"
+          },
+          "antunna": {
+            "ar": "اِئْتينَ",
+            "tr": "iʾtīna"
+          }
         }
       },
-      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. Ik kom: آتي."
+      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. Ik kom: آتي. Wijzen: manṣūb يَأْتِيَ، majzūm لَمْ يَأْتِ. Gebiedend اِئْتِ is klassiek; zeg in het dagelijks gebruik تَعالَ.",
+      "review": {
+        "status": "onzeker",
+        "note": "Gebiedende wijs اِئْتِ (klassiek) controleren."
+      }
     },
     {
       "id": "jaaa",
@@ -3231,12 +5911,142 @@
             "ar": "يَجِئْنَ",
             "tr": "yajiʾna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَجيءَ",
+            "tr": "ajīʾa"
+          },
+          "anta": {
+            "ar": "تَجيءَ",
+            "tr": "tajīʾa"
+          },
+          "anti": {
+            "ar": "تَجيئي",
+            "tr": "tajīʾī"
+          },
+          "huwa": {
+            "ar": "يَجيءَ",
+            "tr": "yajīʾa"
+          },
+          "hiya": {
+            "ar": "تَجيءَ",
+            "tr": "tajīʾa"
+          },
+          "antuma": {
+            "ar": "تَجيئا",
+            "tr": "tajīʾā"
+          },
+          "huma_m": {
+            "ar": "يَجيئا",
+            "tr": "yajīʾā"
+          },
+          "huma_f": {
+            "ar": "تَجيئا",
+            "tr": "tajīʾā"
+          },
+          "nahnu": {
+            "ar": "نَجيءَ",
+            "tr": "najīʾa"
+          },
+          "antum": {
+            "ar": "تَجيئوا",
+            "tr": "tajīʾū"
+          },
+          "antunna": {
+            "ar": "تَجِئْنَ",
+            "tr": "tajiʾna"
+          },
+          "hum": {
+            "ar": "يَجيئوا",
+            "tr": "yajīʾū"
+          },
+          "hunna": {
+            "ar": "يَجِئْنَ",
+            "tr": "yajiʾna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَجِئْ",
+            "tr": "ajiʾ"
+          },
+          "anta": {
+            "ar": "تَجِئْ",
+            "tr": "tajiʾ"
+          },
+          "anti": {
+            "ar": "تَجيئي",
+            "tr": "tajīʾī"
+          },
+          "huwa": {
+            "ar": "يَجِئْ",
+            "tr": "yajiʾ"
+          },
+          "hiya": {
+            "ar": "تَجِئْ",
+            "tr": "tajiʾ"
+          },
+          "antuma": {
+            "ar": "تَجيئا",
+            "tr": "tajīʾā"
+          },
+          "huma_m": {
+            "ar": "يَجيئا",
+            "tr": "yajīʾā"
+          },
+          "huma_f": {
+            "ar": "تَجيئا",
+            "tr": "tajīʾā"
+          },
+          "nahnu": {
+            "ar": "نَجِئْ",
+            "tr": "najiʾ"
+          },
+          "antum": {
+            "ar": "تَجيئوا",
+            "tr": "tajīʾū"
+          },
+          "antunna": {
+            "ar": "تَجِئْنَ",
+            "tr": "tajiʾna"
+          },
+          "hum": {
+            "ar": "يَجيئوا",
+            "tr": "yajīʾū"
+          },
+          "hunna": {
+            "ar": "يَجِئْنَ",
+            "tr": "yajiʾna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "جِئْ",
+            "tr": "jiʾ"
+          },
+          "anti": {
+            "ar": "جيئي",
+            "tr": "jīʾī"
+          },
+          "antuma": {
+            "ar": "جيئا",
+            "tr": "jīʾā"
+          },
+          "antum": {
+            "ar": "جيئوا",
+            "tr": "jīʾū"
+          },
+          "antunna": {
+            "ar": "جِئْنَ",
+            "tr": "jiʾna"
+          }
         }
       },
-      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. جاءَ is hol én heeft een hamza als laatste letter.",
+      "notitie": "Dubbel zwak werkwoord: twee zwakke plekken tegelijk (hamza en و/ي). Leer de vormen als vast rijtje. جاءَ is hol én heeft een hamza als laatste letter. Wijzen: majzūm لَمْ يَجِئْ، gebiedend جِئْ (in het dagelijks gebruik meestal تَعالَ).",
       "review": {
         "status": "onzeker",
-        "note": "Spellingvariant جاؤوا ~ جاءوا controleren; beide worden goed gerekend."
+        "note": "Spellingvariant جاؤوا ~ جاءوا controleren; beide worden goed gerekend. Gebiedende wijs جِئْ، جيئي … controleren."
       }
     },
     {
@@ -3360,9 +6170,139 @@
             "ar": "يُؤَدّينَ",
             "tr": "yuʾaddīna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أُؤَدِّيَ",
+            "tr": "uʾaddiya"
+          },
+          "anta": {
+            "ar": "تُؤَدِّيَ",
+            "tr": "tuʾaddiya"
+          },
+          "anti": {
+            "ar": "تُؤَدّي",
+            "tr": "tuʾaddī"
+          },
+          "huwa": {
+            "ar": "يُؤَدِّيَ",
+            "tr": "yuʾaddiya"
+          },
+          "hiya": {
+            "ar": "تُؤَدِّيَ",
+            "tr": "tuʾaddiya"
+          },
+          "antuma": {
+            "ar": "تُؤَدِّيَا",
+            "tr": "tuʾaddiyā"
+          },
+          "huma_m": {
+            "ar": "يُؤَدِّيَا",
+            "tr": "yuʾaddiyā"
+          },
+          "huma_f": {
+            "ar": "تُؤَدِّيَا",
+            "tr": "tuʾaddiyā"
+          },
+          "nahnu": {
+            "ar": "نُؤَدِّيَ",
+            "tr": "nuʾaddiya"
+          },
+          "antum": {
+            "ar": "تُؤَدّوا",
+            "tr": "tuʾaddū"
+          },
+          "antunna": {
+            "ar": "تُؤَدّينَ",
+            "tr": "tuʾaddīna"
+          },
+          "hum": {
+            "ar": "يُؤَدّوا",
+            "tr": "yuʾaddū"
+          },
+          "hunna": {
+            "ar": "يُؤَدّينَ",
+            "tr": "yuʾaddīna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أُؤَدِّ",
+            "tr": "uʾaddi"
+          },
+          "anta": {
+            "ar": "تُؤَدِّ",
+            "tr": "tuʾaddi"
+          },
+          "anti": {
+            "ar": "تُؤَدّي",
+            "tr": "tuʾaddī"
+          },
+          "huwa": {
+            "ar": "يُؤَدِّ",
+            "tr": "yuʾaddi"
+          },
+          "hiya": {
+            "ar": "تُؤَدِّ",
+            "tr": "tuʾaddi"
+          },
+          "antuma": {
+            "ar": "تُؤَدِّيَا",
+            "tr": "tuʾaddiyā"
+          },
+          "huma_m": {
+            "ar": "يُؤَدِّيَا",
+            "tr": "yuʾaddiyā"
+          },
+          "huma_f": {
+            "ar": "تُؤَدِّيَا",
+            "tr": "tuʾaddiyā"
+          },
+          "nahnu": {
+            "ar": "نُؤَدِّ",
+            "tr": "nuʾaddi"
+          },
+          "antum": {
+            "ar": "تُؤَدّوا",
+            "tr": "tuʾaddū"
+          },
+          "antunna": {
+            "ar": "تُؤَدّينَ",
+            "tr": "tuʾaddīna"
+          },
+          "hum": {
+            "ar": "يُؤَدّوا",
+            "tr": "yuʾaddū"
+          },
+          "hunna": {
+            "ar": "يُؤَدّينَ",
+            "tr": "yuʾaddīna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "أَدِّ",
+            "tr": "addi"
+          },
+          "anti": {
+            "ar": "أَدّي",
+            "tr": "addī"
+          },
+          "antuma": {
+            "ar": "أَدِّيَا",
+            "tr": "addiyā"
+          },
+          "antum": {
+            "ar": "أَدّوا",
+            "tr": "addū"
+          },
+          "antunna": {
+            "ar": "أَدّينَ",
+            "tr": "addīna"
+          }
         }
       },
-      "notitie": "Vorm II van een defectieve wortel met hamza: يُؤَدّي (u-voorvoegsel zoals vorm II, hamza op و)."
+      "notitie": "Vorm II van een defectieve wortel met hamza: يُؤَدّي (u-voorvoegsel zoals vorm II, hamza op و). Wijzen: manṣūb يُؤَدِّيَ، majzūm لَمْ يُؤَدِّ، gebiedend أَدِّ."
     },
     {
       "id": "ittasala",
@@ -3485,9 +6425,139 @@
             "ar": "يَتَّصِلْنَ",
             "tr": "yattaṣilna"
           }
+        },
+        "mansub": {
+          "ana": {
+            "ar": "أَتَّصِلَ",
+            "tr": "attaṣila"
+          },
+          "anta": {
+            "ar": "تَتَّصِلَ",
+            "tr": "tattaṣila"
+          },
+          "anti": {
+            "ar": "تَتَّصِلِي",
+            "tr": "tattaṣilī"
+          },
+          "huwa": {
+            "ar": "يَتَّصِلَ",
+            "tr": "yattaṣila"
+          },
+          "hiya": {
+            "ar": "تَتَّصِلَ",
+            "tr": "tattaṣila"
+          },
+          "antuma": {
+            "ar": "تَتَّصِلَا",
+            "tr": "tattaṣilā"
+          },
+          "huma_m": {
+            "ar": "يَتَّصِلَا",
+            "tr": "yattaṣilā"
+          },
+          "huma_f": {
+            "ar": "تَتَّصِلَا",
+            "tr": "tattaṣilā"
+          },
+          "nahnu": {
+            "ar": "نَتَّصِلَ",
+            "tr": "nattaṣila"
+          },
+          "antum": {
+            "ar": "تَتَّصِلُوا",
+            "tr": "tattaṣilū"
+          },
+          "antunna": {
+            "ar": "تَتَّصِلْنَ",
+            "tr": "tattaṣilna"
+          },
+          "hum": {
+            "ar": "يَتَّصِلُوا",
+            "tr": "yattaṣilū"
+          },
+          "hunna": {
+            "ar": "يَتَّصِلْنَ",
+            "tr": "yattaṣilna"
+          }
+        },
+        "majzum": {
+          "ana": {
+            "ar": "أَتَّصِلْ",
+            "tr": "attaṣil"
+          },
+          "anta": {
+            "ar": "تَتَّصِلْ",
+            "tr": "tattaṣil"
+          },
+          "anti": {
+            "ar": "تَتَّصِلِي",
+            "tr": "tattaṣilī"
+          },
+          "huwa": {
+            "ar": "يَتَّصِلْ",
+            "tr": "yattaṣil"
+          },
+          "hiya": {
+            "ar": "تَتَّصِلْ",
+            "tr": "tattaṣil"
+          },
+          "antuma": {
+            "ar": "تَتَّصِلَا",
+            "tr": "tattaṣilā"
+          },
+          "huma_m": {
+            "ar": "يَتَّصِلَا",
+            "tr": "yattaṣilā"
+          },
+          "huma_f": {
+            "ar": "تَتَّصِلَا",
+            "tr": "tattaṣilā"
+          },
+          "nahnu": {
+            "ar": "نَتَّصِلْ",
+            "tr": "nattaṣil"
+          },
+          "antum": {
+            "ar": "تَتَّصِلُوا",
+            "tr": "tattaṣilū"
+          },
+          "antunna": {
+            "ar": "تَتَّصِلْنَ",
+            "tr": "tattaṣilna"
+          },
+          "hum": {
+            "ar": "يَتَّصِلُوا",
+            "tr": "yattaṣilū"
+          },
+          "hunna": {
+            "ar": "يَتَّصِلْنَ",
+            "tr": "yattaṣilna"
+          }
+        },
+        "amr": {
+          "anta": {
+            "ar": "اِتَّصِلْ",
+            "tr": "ittaṣil"
+          },
+          "anti": {
+            "ar": "اِتَّصِلِي",
+            "tr": "ittaṣilī"
+          },
+          "antuma": {
+            "ar": "اِتَّصِلَا",
+            "tr": "ittaṣilā"
+          },
+          "antum": {
+            "ar": "اِتَّصِلُوا",
+            "tr": "ittaṣilū"
+          },
+          "antunna": {
+            "ar": "اِتَّصِلْنَ",
+            "tr": "ittaṣilna"
+          }
         }
       },
-      "notitie": "Vorm VIII van een wortel met و: de و smelt samen met de ت van vorm VIII (اِوْتَصَلَ → اِتَّصَلَ)."
+      "notitie": "Vorm VIII van een wortel met و: de و smelt samen met de ت van vorm VIII (اِوْتَصَلَ → اِتَّصَلَ). Wijzen: gebiedend اِتَّصِلْ (بِـ)."
     }
   ]
 }

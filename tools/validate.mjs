@@ -68,8 +68,10 @@ for (const v of read('content/werkwoorden.json').werkwoorden) {
     if ((v.vorm || 1) === 1 && !(v.madi && v.mudari)) problems.push(`werkwoord ${v.id}: vorm I zonder stamklinkers madi/mudari`);
     continue;
   }
-  for (const tijd of ['madi', 'mudari']) {
-    for (const p of PERSONS) {
+  const SECOND = ['anta', 'anti', 'antuma', 'antum', 'antunna'];
+  for (const tijd of new Set(['madi', 'mudari', ...Object.keys(v.vormen)])) {
+    if (!['madi', 'mudari', 'mansub', 'majzum', 'amr'].includes(tijd)) { problems.push(`werkwoord ${v.id}: onbekende tijd ${tijd}`); continue; }
+    for (const p of tijd === 'amr' ? SECOND : PERSONS) {
       const f = v.vormen[tijd]?.[p];
       if (!f || !f.ar || !f.tr) problems.push(`werkwoord ${v.id}: ${tijd}/${p} ontbreekt of is onvolledig`);
     }

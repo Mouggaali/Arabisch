@@ -13,6 +13,9 @@ const DEFAULTS = {
   stem: '', // voiceURI van de gekozen Arabische stem
   thema: 'auto', // 'auto' | 'licht' | 'donker'
   nieuwPerDag: 20,
+  startdatum: '', // 'JJJJ-MM-DD'; leeg = eerste dag met activiteit (zie progress-model.js)
+  dagdoel: 20, // kaarten + oefenantwoorden per dag
+  herinnering: false, // melding als je een dag niet geoefend hebt (alleen geïnstalleerde app, Chrome/Android)
 };
 
 function fresh() {

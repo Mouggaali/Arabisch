@@ -2,6 +2,10 @@
 
 import { store } from '../core/store.js';
 import { allCards, stage } from '../core/srs.js';
+import { today, daysBetween } from '../core/util.js';
+
+/** Tempo van het leerplan in eenheden per kalenderweek: 228 eenheden in 3 jaar, vakanties meegerekend. */
+export const PACE = 1.5;
 
 export function unitStatus(u) {
   if (!u.bestand) return { key: 'gepland', label: 'nog uit te werken' };
@@ -52,6 +56,72 @@ export function vocabStats() {
   const s = { nieuw: 0, lerend: 0, beheerst: 0, totaal: cards.length };
   cards.forEach((c) => s[stage(c)]++);
   return s;
+}
+
+/** Activiteit op één dag: herhaalde kaarten + oefenantwoorden. */
+export function dayTotal(key) {
+  const d = store.state.dagen[key];
+  return d ? (d.kaarten || 0) + (d.oefen || 0) : 0;
+}
+
+/** Dagdoel: hoeveel kaarten + oefenantwoorden vandaag, tegenover het doel uit de instellingen. */
+export function todayGoal() {
+  const doel = Math.max(1, store.settings.dagdoel || 20);
+  const gedaan = dayTotal(today());
+  return { gedaan, doel, ratio: Math.min(1, gedaan / doel), gehaald: gedaan >= doel };
+}
+
+/**
+ * Reeks: aantal dagen op rij met activiteit. Vandaag telt mee zodra je iets gedaan hebt;
+ * heb je vandaag nog niets gedaan, dan loopt de reeks van gisteren nog door.
+ */
+export function streak() {
+  let off = dayTotal(today()) > 0 ? 0 : -1;
+  let n = 0;
+  while (dayTotal(today(off)) > 0) { n++; off--; }
+  return n;
+}
+
+/** Eerste dag met activiteit (dagen of afgeronde onderdelen), of null. */
+function firstActivity() {
+  const dates = [
+    ...Object.keys(store.state.dagen),
+    ...Object.values(store.state.lessen).flatMap((l) => Object.values(l.onderdelen || {})),
+  ].filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)).sort();
+  return dates[0] || null;
+}
+
+/** Startdatum van de planning: ingesteld, anders de eerste dag met activiteit, anders vandaag. */
+export function startDate() {
+  return store.settings.startdatum || firstActivity() || today();
+}
+
+/**
+ * Planning volgens het leerplan (PACE eenheden per week vanaf de startdatum).
+ * @returns {{start, week, done, expected, diff, total, next: object[], eind: string}}
+ */
+export function weekPlan(curriculum) {
+  const start = startDate();
+  const dagen = Math.max(0, daysBetween(start, today()));
+  const total = curriculum.order.length;
+  const done = curriculum.order.filter((u) => unitStatus(u).key === 'afgerond').length;
+  const expected = Math.min(total, Math.floor((dagen / 7) * PACE));
+  const next = curriculum.order.filter((u) => u.bestand && unitStatus(u).key !== 'afgerond').slice(0, 2);
+  const eind = today(Math.ceil(((total - done) / PACE) * 7));
+  return { start, week: Math.floor(dagen / 7) + 1, done, expected, diff: done - expected, total, next, eind };
+}
+
+/** Streefdatum per jaar: einde van elk jaar bij het tempo van het leerplan, vanaf de startdatum. */
+export function yearTargets(curriculum) {
+  const [y, m, d] = startDate().split('-').map(Number);
+  let cum = 0;
+  return curriculum.jaren.map((j) => {
+    const n = j.periodes.reduce((s, p) => s + p.eenheden.length, 0);
+    cum += n;
+    const dt = new Date(y, m - 1, d + Math.ceil((cum / PACE) * 7));
+    const done = j.periodes.reduce((s, p) => s + p.eenheden.filter((u) => unitStatus(u).key === 'afgerond').length, 0);
+    return { nr: j.nr, niveau: j.niveau, eenheden: n, done, datum: dt.toLocaleDateString('sv-SE') };
+  });
 }
 
 /** Aantal herhaalde kaarten per dag over de laatste n dagen. */

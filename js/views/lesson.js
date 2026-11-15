@@ -15,7 +15,9 @@ const ORDER = ['woorden', 'grammatica', 'oefeningen', 'toets'];
 // Periodetoetsen en niveau-evaluaties hebben alleen een toets.
 const TEST_ONLY = ['periodetoets', 'evaluatie'];
 
-export async function renderLesson(main, [id, part = 'woorden']) {
+// Optioneel derde deel van de route: een woord-id (#/les/<id>/woorden/<woordId>) of het nummer van
+// een grammaticaonderwerp (#/les/<id>/grammatica/<index>). Dat item wordt in beeld gebracht en kort uitgelicht.
+export async function renderLesson(main, [id, part = 'woorden', target]) {
   const lesson = await content.lesson(id);
   if (!lesson) return renderPlanned(main, id);
   const parts = TEST_ONLY.includes(lesson.type) ? ['toets'] : ORDER;
@@ -46,6 +48,19 @@ export async function renderLesson(main, [id, part = 'woorden']) {
   const views = { woorden: renderWords, grammatica: renderGrammar, oefeningen: renderPractice, toets: renderTest };
   await views[part](body, lesson, dialect);
   requestAnimationFrame(() => lightPart(part, body));
+  if (target) highlight(body.querySelector(`[data-target="${CSS.escape(target)}"]`));
+}
+
+/** Breng een item in beeld en licht het kort op (na de scroll naar boven van de router). */
+function highlight(el) {
+  if (!el) return;
+  // Na de router (scrollTo 0) en de herberekening van de scroll-engine; daarom pas na 300 ms.
+  setTimeout(() => {
+    const top = el.getBoundingClientRect().top + window.scrollY - window.innerHeight / 3;
+    window.scrollTo({ top: Math.max(0, top), behavior: 'auto' });
+    el.classList.add('is-lit');
+    setTimeout(() => el.classList.remove('is-lit'), 2600);
+  }, 300);
 }
 
 function nextPartButton(lesson, part, label) {
@@ -76,7 +91,7 @@ function renderWords(body, lesson, dialect) {
 
   let hideNl = false;
   const rows = lesson.woorden.map((w) => {
-    const row = h('li.word-row.row-hit',
+    const row = h('li.word-row.row-hit', { dataset: { target: w.id } },
       playButton(w.ar, { dialect }),
       h('div', { style: { textAlign: 'right' } }, ar(w.ar, 'lg'), h('div', tr(w.tr))),
       h('div.nl-wrap', { onclick: () => row.classList.remove('hide-nl') },
@@ -125,8 +140,8 @@ function renderWords(body, lesson, dialect) {
 
 /* -------------------------------------------------------------- grammatica -- */
 function renderGrammar(body, lesson, dialect) {
-  const blocks = lesson.grammatica.map((g) =>
-    h('article.gram-block',
+  const blocks = lesson.grammatica.map((g, i) =>
+    h('article.gram-block', { dataset: { target: String(i) } },
       h('h2', { html: bidi(g.titel) }),
       g.blokken.map((b) => renderBlock(b, dialect))));
   body.replaceChildren(...blocks, nextPartButton(lesson, 'grammatica', 'Naar de oefeningen'));

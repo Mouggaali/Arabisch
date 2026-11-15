@@ -248,6 +248,23 @@ table.conj .tr { display: block; text-align: right; font-family: var(--sc-font-t
 .answer-field textarea { flex: 1; min-width: 0; border: 0; background: transparent; outline: none; resize: vertical; color: var(--sc-ink); font: inherit; font-size: 1.05rem; line-height: 1.6; }
 .answer-field textarea.ar-input { font-family: var(--font-ar, 'Noto Naskh Arabic', 'Amiri', serif); font-size: 1.35rem; line-height: 2; }
 
+/* Dagdoel, reeks en planning */
+.goal .kv { margin-bottom: 6px; }
+.streak { display: inline-flex; align-items: center; gap: 4px; color: var(--part-toets, var(--sc-accent)); font-weight: 600; }
+.streak svg, .panel h2 svg { width: 18px; height: 18px; vertical-align: -3px; }
+
+/* Zoeken */
+.search-field { padding: 4px 6px 4px 14px; }
+.search-field > svg { width: 20px; height: 20px; flex: none; color: var(--sc-ink-soft); }
+.search-field input { font-size: 1.1rem; }
+.search-field input::-webkit-search-cancel-button { cursor: pointer; }
+.result-link { display: flex; gap: 12px; align-items: baseline; padding: 4px 0; color: inherit; text-decoration: none; }
+.result-link .code { flex: none; min-width: 3.4em; font-family: var(--sc-font-mono, monospace); font-size: var(--sc-t-xs); color: var(--sc-ink-soft); }
+@media (hover: hover) and (pointer: fine) { .result-link:hover { color: var(--sc-accent); } }
+.word-row a.note { text-decoration: none; color: var(--sc-ink-soft); }
+.gram-block { transition: box-shadow 0.4s; border-radius: var(--r-inner); }
+.gram-block.is-lit { box-shadow: 0 0 0 2px var(--sc-accent); }
+
 /* Schrijven / spreken: modelantwoord en checklist */
 .model { margin-top: 18px; }
 .model-line { padding: 10px 0; border-top: 1px solid var(--line, hsl(0 0% 50% / 0.18)); }
@@ -368,6 +385,7 @@ select.sel option { background: var(--sc-surface); color: var(--sc-ink); }
 .empty { text-align: center; padding: 30px 10px; color: var(--sc-ink-soft); }
 .tag-row { display: grid; grid-template-columns: minmax(0, 1fr) 120px 48px; gap: 12px; align-items: center; padding: 9px 4px; }
 .tag-row .pct { text-align: right; font-variant-numeric: tabular-nums; font-size: var(--sc-t-sm); }
+.tag-row--date { grid-template-columns: minmax(0, 1fr) 120px auto; }
 .hero-today { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 28px; align-items: center; }
 .hero-today .lens { width: 190px; }
 .hero-today .lens .big-num { font-size: 3.4rem; }
@@ -383,3 +401,10 @@ select.sel option { background: var(--sc-surface); color: var(--sc-ink); }
 .ar-inline { font-family: var(--font-ar); font-size: 1.12em; line-height: 1.5; }
 @media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .why b { color: #8a5a06; } }
 :root[data-theme="light"] .why b { color: #8a5a06; }
+
+/* Trainer: knoppen voor tijd/wijs en personen mogen op een smal scherm doorlopen op een volgende regel */
+.trainer-controls { min-width: 0; }
+.trainer-controls > * { max-width: 100%; }
+.trainer-controls .segment { flex-wrap: wrap; height: auto; }
+.trainer-controls select.sel { min-width: 0; width: 100%; }
+@media (min-width: 861px) { .trainer-controls select.sel { width: auto; } }

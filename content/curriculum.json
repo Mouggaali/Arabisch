@@ -10,8 +10,8 @@
     "aanspreekvorm": "Aanspreekvorm man / vrouw / groep",
     "woordenschat": "Woordenschat",
     "uitspraak": "Uitspraak en luisteren",
-    "vervoeging-madi": "Vervoeging māḍī",
-    "vervoeging-mudari": "Vervoeging muḍāriʿ",
+    "vervoeging-madi": "Vervoeging: verleden tijd (trainer)",
+    "vervoeging-mudari": "Vervoeging: tegenwoordige tijd (trainer)",
     "voornaamwoorden": "Persoonlijke voornaamwoorden",
     "voorstellen": "Jezelf voorstellen",
     "vraagwoord-man": "Vraagwoord man (wie)",
@@ -214,7 +214,10 @@
     "spreken": "Spreekvaardigheid en gespreksstrategieën",
     "darija-eindopdracht": "Darija: over jezelf vertellen",
     "examen": "Examentraining B1",
-    "darija-afsluiting": "Darija: A2-afsluiting"
+    "darija-afsluiting": "Darija: A2-afsluiting",
+    "vervoeging-mansub": "Vervoeging: manṣūb (trainer)",
+    "vervoeging-majzum": "Vervoeging: majzūm (trainer)",
+    "vervoeging-amr": "Vervoeging: gebiedende wijs (trainer)"
   },
   "jaren": [
     {

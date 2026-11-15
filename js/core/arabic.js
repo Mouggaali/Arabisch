@@ -25,6 +25,16 @@ function loose(s) {
     .replace(/[ؤئ]/g, 'ء');
 }
 
+/** Zoeksleutel voor Arabisch: zonder harakat en leestekens, alif-, hamza-, ى- en ة-varianten gelijkgesteld. */
+export function searchKeyAr(s) {
+  return loose(s);
+}
+
+/** Zoeksleutel voor transliteratie en Nederlands: kleine letters, zonder accenten, ʿ en ʾ. */
+export function searchKeyLat(s) {
+  return String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[ʿʾ'’`-]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+}
+
 /**
  * Vergelijk een Arabisch antwoord met één of meer goede antwoorden.
  * Standaard zonder harakat; met strict worden ook de harakat vergeleken.

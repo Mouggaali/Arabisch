@@ -97,10 +97,17 @@ const DERIVED = {
  * @returns {Array<{person, ar, tr}>}
  */
 export function conjugate(verb, tijd) {
+  if (!TENSES[tijd]) throw new Error(`Onbekende tijd of wijs: ${tijd}`);
   if (verb.vormen && verb.vormen[tijd]) {
-    // Een ontbrekende persoon geeft een lege vorm; de trainer slaat die over.
+    // Een ontbrekende persoon geeft een lege vorm; de trainer slaat die over (bijv. de gebiedende wijs: alleen 2e personen).
     return PERSONS.map((p) => ({ person: p, ar: '', tr: '', ...verb.vormen[tijd][p.id] }));
   }
+  if (verb.vormen) {
+    // Zwak werkwoord zonder tabel voor deze wijs: niets genereren (de regels hieronder gelden alleen voor sterke werkwoorden).
+    return PERSONS.map((p) => ({ person: p, ar: '', tr: '' }));
+  }
+  if (tijd === 'mansub' || tijd === 'majzum') return conjugate(verb, 'mudari').map((f) => mood(f, tijd));
+  if (tijd === 'amr') return conjugate(verb, 'majzum').map((f) => imperative(f, verb));
   const r = verb.wortel;
   const l = r.map((c) => LAT[c] || c);
   const d = DERIVED[verb.vorm];
@@ -123,7 +130,41 @@ export function conjugate(verb, tijd) {
   });
 }
 
+// Manṣūb en majzūm van een sterk werkwoord uit de muḍāriʿ:
+// - enkelvoud (ana, anta, huwa, hiya, nahnu): -u wordt -a (manṣūb) of sukūn (majzūm);
+// - -īna / -āni / -ūna verliezen de nūn (-ūna wordt -ū met stille alif: ـوا);
+// - de vrouwelijke meervouden op -na blijven gelijk.
+function mood(f, tijd) {
+  const id = f.person.id;
+  if (id === 'antunna' || id === 'hunna') return f;
+  if (f.ar.endsWith('ينَ')) return { ...f, ar: f.ar.slice(0, -2), tr: f.tr.replace(/īna$/, 'ī') };
+  if (f.ar.endsWith('انِ')) return { ...f, ar: f.ar.slice(0, -2), tr: f.tr.replace(/āni$/, 'ā') };
+  if (f.ar.endsWith('ونَ')) return { ...f, ar: f.ar.slice(0, -2) + 'ا', tr: f.tr.replace(/ūna$/, 'ū') };
+  return tijd === 'mansub'
+    ? { ...f, ar: f.ar.slice(0, -1) + A, tr: f.tr.replace(/u$/, 'a') }
+    : { ...f, ar: f.ar.slice(0, -1) + O, tr: f.tr.replace(/u$/, '') };
+}
+
+// Gebiedende wijs: de majzūm van de 2e personen zonder het voorvoegsel تَـ/تُـ.
+// Begint de stam dan met twee medeklinkers, dan komt er een hamzat al-waṣl voor: اُ bij een u-stam
+// (اُكْتُبْ), anders اِ (اِشْرَبْ، اِجْلِسْ، اِنْكَسِرْ). Vorm IV krijgt أَ (أَرْسِلْ).
+const SECOND = ['anta', 'anti', 'antuma', 'antum', 'antunna'];
+function imperative(f, verb) {
+  if (!SECOND.includes(f.person.id)) return { ...f, ar: '', tr: '' };
+  const ar = f.ar.slice(2); // zonder تَ / تُ
+  const tr = f.tr.slice(2); // zonder ta / tu
+  if ((verb.vorm || 1) === 4) return { ...f, ar: 'أ' + A + ar, tr: 'a' + tr };
+  if (ar[1] === O || ar.slice(1, 3).includes(SH)) { // sukūn of shadda: de stam begint met twee medeklinkers
+    const v = (verb.vorm || 1) === 1 && verb.mudari === 'u' ? 'u' : 'i';
+    return { ...f, ar: 'ا' + VOWEL[v] + ar, tr: v + tr };
+  }
+  return { ...f, ar, tr };
+}
+
 export const TENSES = {
   madi: { naam: 'Māḍī (verleden tijd)', kort: 'Māḍī' },
   mudari: { naam: 'Muḍāriʿ (tegenwoordige tijd)', kort: 'Muḍāriʿ' },
+  mansub: { naam: 'Manṣūb (aanvoegende wijs, na أَنْ / لَنْ)', kort: 'Manṣūb', partikel: 'لَنْ', les: 'L50' },
+  majzum: { naam: 'Majzūm (verkorte wijs, na لَمْ)', kort: 'Majzūm', partikel: 'لَمْ', les: 'L51' },
+  amr: { naam: 'Gebiedende wijs (amr)', kort: 'Gebiedend', les: 'L52 en L89' },
 };

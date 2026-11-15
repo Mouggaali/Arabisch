@@ -74,6 +74,12 @@ export function today(offsetDays = 0) {
   return d.toLocaleDateString('sv-SE');
 }
 
+/** 'JJJJ-MM-DD' als Nederlandse datum, bijv. "15 november 2026". */
+export function formatDate(key, opts = { day: 'numeric', month: 'long', year: 'numeric' }) {
+  const [y, m, d] = key.split('-').map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString('nl-NL', opts);
+}
+
 export function daysBetween(a, b) {
   return Math.round((new Date(b) - new Date(a)) / 86400000);
 }
@@ -115,6 +121,10 @@ const PATHS = {
   back: 'M19 12H5m6-6-6 6 6 6',
   eye: 'M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12zm10-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6z',
   refresh: 'M20 12a8 8 0 1 1-2.3-5.7M20 4v5h-5',
+  search: 'M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm9 16-4-4',
+  flame: 'M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 0 2 1 3 2 3.5C11.5 9 11 6 12 3z',
+  calendar: 'M4 6a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6zm0 4h16M8 3v4m8-4v4',
+  bell: 'M6 16V11a6 6 0 0 1 12 0v5l2 2H4l2-2zm4 4h4',
 };
 
 export function icon(name) {

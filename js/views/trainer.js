@@ -1,7 +1,7 @@
 // Vervoegingstrainer: kies een werkwoord, een tijd en een groep personen.
 // Bekijk de tabel, vul de hele tabel in, of oefen losse vormen in willekeurige volgorde.
 
-import { h, icon, pct, shuffle } from '../core/util.js';
+import { h, icon, pct, shuffle, bidi } from '../core/util.js';
 import { content } from '../core/content.js';
 import { store } from '../core/store.js';
 import { conjugate, PERSONS, TENSES } from '../core/conjugate.js';
@@ -18,6 +18,13 @@ const GROUPS = {
 
 const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
 
+// Korte uitleg per wijs, met de les waarin hij behandeld wordt.
+const MOOD_HINT = {
+  mansub: 'Manṣūb (aanvoegende wijs): na أَنْ، لَنْ، كَيْ، لِـ en حَتّى. Enkelvoud op -a, de vijf vormen op -na/-ni verliezen de nūn. Zie les 50.',
+  majzum: 'Majzūm (verkorte wijs): na لَمْ (verleden ontkend) en لا (verbod). Enkelvoud met sukūn; holle en defectieve werkwoorden worden korter. Zie les 51.',
+  amr: 'Gebiedende wijs: alleen de 2e personen. Afgeleid van de majzūm zonder تَـ; begint de stam met twee medeklinkers, dan komt er اُ of اِ voor. Zie les 52 en 89.',
+};
+
 const VERB_GROUPS = [
   ['Vorm I (regelmatig)', (v) => !v.zwak && (v.vorm || 1) === 1],
   ['Afgeleide vormen II–X', (v) => !v.zwak && (v.vorm || 1) > 1],
@@ -26,9 +33,10 @@ const VERB_GROUPS = [
 
 const sel = { verb: null, tijd: 'madi', groep: 'enkelvoud' };
 
-export async function renderTrainer(main) {
+export async function renderTrainer(main, [verbId] = []) {
   const data = await content.verbs();
   const verbs = data.werkwoorden;
+  if (verbId && verbs.some((v) => v.id === verbId)) sel.verb = verbId; // #/trainer/<werkwoord> (vanuit Zoeken)
   if (!sel.verb) sel.verb = verbs[0].id;
   const verb = () => verbs.find((v) => v.id === sel.verb);
   const persons = () => PERSONS.filter((p) => sel.groep === 'alle' || p.groep === sel.groep).map((p) => p.id);
@@ -50,9 +58,9 @@ export async function renderTrainer(main) {
   const panel = h('section.panel.glass');
   main.replaceChildren(
     h('div.page-head', h('h1', 'Vervoegingstrainer'),
-      h('p', 'Oefen de vervoeging in alle personen: regelmatige werkwoorden van vorm I, de afgeleide vormen II–VIII en X, en zwakke werkwoorden (hol, defectief, verdubbeld, hamza, assimilerend en dubbel zwak).')),
+      h('p', 'Oefen de vervoeging in alle personen: verleden en tegenwoordige tijd, de aanvoegende wijs (manṣūb), de verkorte wijs (majzūm) en de gebiedende wijs. Voor regelmatige werkwoorden van vorm I, de afgeleide vormen II–VIII en X, en zwakke werkwoorden (hol, defectief, verdubbeld, hamza, assimilerend en dubbel zwak).')),
     h('section.panel.glass', { style: { marginBottom: '18px' } },
-      h('div.btn-row', { style: { gap: '14px' } }, verbSelect, tenseSeg, groupSeg)),
+      h('div.btn-row.trainer-controls', { style: { gap: '14px' } }, verbSelect, tenseSeg, groupSeg)),
     panel);
   requestAnimationFrame(() => lightPart('oefeningen', panel));
 
@@ -64,7 +72,8 @@ export async function renderTrainer(main) {
       h('div.kv', { style: { flexWrap: 'wrap' } },
         h('div', h('h2', { style: { marginBottom: '2px' } }, `${v.nl}`), h('p.soft.small', { style: { margin: 0 } }, `Wortel ${v.wortel.join(' - ')} · ${soort} · ${TENSES[sel.tijd].naam}`)),
         h('div', { style: { display: 'flex', alignItems: 'center', gap: '10px' } }, ar(v.ar, 'lg'), tr(v.tr), reviewFlag(v.review))),
-      v.notitie ? h('p.soft.small', v.notitie) : '',
+      v.notitie ? h('p.soft.small', { html: bidi(v.notitie) }) : '',
+      MOOD_HINT[sel.tijd] ? h('p.small', { html: bidi(MOOD_HINT[sel.tijd]) }) : '',
       h('div.table-scroll', h('table.conj',
         h('thead', h('tr', h('th', 'Persoon'), h('th', ''), h('th', { style: { textAlign: 'right' } }, 'Vorm'), h('th', ''))),
         h('tbody', forms.map((f) => h('tr',

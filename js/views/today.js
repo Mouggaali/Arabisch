@@ -1,12 +1,12 @@
 // Vandaag: wat staat er nu klaar? Te herhalen kaarten, de volgende les en je zwakste punt.
 
-import { h, icon, pct } from '../core/util.js';
+import { h, icon, pct, formatDate } from '../core/util.js';
 import { content } from '../core/content.js';
 import { store } from '../core/store.js';
 import { dueToday, difficult } from '../core/srs.js';
 import { ar, tr, meter } from '../ui/components.js';
 import { PARTS, sizeParts } from '../ui/world.js';
-import { unitStatus, planProgress, partLevels, weakTags } from './progress-model.js';
+import { unitStatus, planProgress, partLevels, weakTags, todayGoal, streak, weekPlan } from './progress-model.js';
 
 export async function renderToday(main) {
   const c = await content.curriculum();
@@ -16,6 +16,9 @@ export async function renderToday(main) {
   const levels = partLevels(c);
   const weak = weakTags(3);
   const hard = difficult(5);
+  const goal = todayGoal();
+  const reeks = streak();
+  const week = weekPlan(c);
   sizeParts(levels);
 
   const nextStatus = next ? unitStatus(next) : null;
@@ -34,7 +37,14 @@ export async function renderToday(main) {
           next ? `Volgende stap: ${next.code} ${next.titel}${nextStatus.key === 'bezig' ? ` (${PARTS[nextPart].naam.toLowerCase()})` : ''}.` : 'Alle uitgewerkte lessen zijn afgerond. Nieuwe lessen volgen.'),
         h('div.btn-row',
           due.length ? h('a.btn', { href: '#/kaarten' }, icon('cards'), `Herhaal ${due.length} kaarten`) : null,
-          next ? h('a.btn' + (due.length ? '.btn--ghost' : ''), { href: `#/les/${next.id}/${nextPart}` }, icon('book'), nextStatus.key === 'nieuw' ? 'Begin les' : 'Ga verder') : null))),
+          next ? h('a.btn' + (due.length ? '.btn--ghost' : ''), { href: `#/les/${next.id}/${nextPart}` }, icon('book'), nextStatus.key === 'nieuw' ? 'Begin les' : 'Ga verder') : null),
+        h('div.goal', { style: { marginTop: '16px' } },
+          h('div.kv',
+            h('span.small', goal.gehaald ? 'Dagdoel gehaald' : 'Dagdoel', ` · ${goal.gedaan} / ${goal.doel}`),
+            h('span.small.streak', { title: 'Dagen op rij geoefend' }, icon('flame'), reeks === 1 ? '1 dag op rij' : `${reeks} dagen op rij`)),
+          meter(goal.ratio, goal.gehaald ? 'var(--good)' : null, true)))),
+
+    weekPanel(week),
 
     h('div.grid-2', { style: { marginTop: '18px' } },
       h('section.panel.glass',
@@ -53,6 +63,22 @@ export async function renderToday(main) {
         hard.length ? h('h3', 'Lastige woorden') : null,
         hard.length ? h('ul.list.rows', hard.map((w) => h('li.kv', h('span', w.nl[0]), h('span', { style: { textAlign: 'right' } }, ar(w.ar), h('div', tr(w.tr)))))) : null,
         h('div.btn-row', { style: { marginTop: '14px' } }, h('a.btn.btn--ghost.btn--small', { href: '#/voortgang' }, 'Volledige voortgang', icon('arrow'))))));
+}
+
+/** Deze week volgens het leerplan: status tegenover het schema en de eenheden voor deze week. */
+function weekPanel(w) {
+  const status = w.diff === 0 ? 'Je ligt precies op schema.'
+    : w.diff > 0 ? `Je ligt ${w.diff} ${w.diff === 1 ? 'eenheid' : 'eenheden'} voor op het schema.`
+      : `Je loopt ${-w.diff} ${w.diff === -1 ? 'eenheid' : 'eenheden'} achter op het schema.`;
+  return h('section.panel.glass', { style: { marginTop: '18px' } },
+    h('div.kv', h('h2', { style: { margin: 0 } }, icon('calendar'), ` Week ${w.week}`),
+      h('span.soft.small', `gestart op ${formatDate(w.start)}`)),
+    h('p.sub', `${status} Volgens het leerplan (± 1,5 eenheid per week) had je nu ${w.expected} van de ${w.total} eenheden af; je hebt er ${w.done}.`),
+    w.next.length
+      ? h('ul.list.rows', w.next.map((u) => h('li', h('a.result-link', { href: `#/les/${u.id}` }, h('span.code', u.code), h('span', u.titel)))))
+      : h('p.soft', 'Alle eenheden zijn afgerond.'),
+    h('p.soft.small', { style: { marginTop: '8px' } },
+      `In dit tempo ben je klaar rond ${formatDate(w.eind, { month: 'long', year: 'numeric' })}. De startdatum en je dagdoel stel je in bij Instellingen.`));
 }
 
 function greeting() {

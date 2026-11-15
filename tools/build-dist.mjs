@@ -6,6 +6,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, statSync, 
 import { join, dirname, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import { buildSearchIndex } from './build-search-index.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
@@ -14,6 +15,7 @@ const INCLUDE = ['index.html', 'manifest.webmanifest', 'sw.js', 'css', 'js', 've
 const walk = (p) => (statSync(p).isDirectory() ? readdirSync(p).flatMap((f) => walk(join(p, f))) : [p]);
 const rel = (p) => relative(root, p).split(sep).join('/');
 
+buildSearchIndex(); // zoekindex altijd actueel met de lesinhoud
 rmSync(dist, { recursive: true, force: true });
 const files = INCLUDE.flatMap((name) => {
   const p = join(root, name);
