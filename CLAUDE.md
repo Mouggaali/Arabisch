@@ -79,6 +79,8 @@ tools/selftest.js            browsertest: run() (alles goed), runFout() (alles f
 tools/build-dist.mjs         bouwt dist/ voor publicatie en stempelt de cacheversie in sw.js (bouwt eerst de zoekindex opnieuw)
 tools/build-search-index.mjs content/*.json → content/zoekindex.json; draai na het wijzigen van lesinhoud
 tools/validate.mjs           structuurcontrole van alle lesbestanden (node tools/validate.mjs)
+tools/serve.mjs              statische server voor dist/ (+ tools/selftest.js) voor de Playwright-tests
+tests/darb.spec.mjs          Playwright-browsertests; playwright.config.mjs, package.json (alleen voor de tests)
 tools/dedupe-words.py        verwijdert woordkaarten die validate.mjs als dubbel meldt uit de nieuwere les, plus verwijzingen ernaar (py tools/dedupe-words.py)
 tools/lesson_lib.py          Python-helpers om lesbestanden compact te genereren (mk, iv, vv, words, save …)
 tools/add_words.py           voegt woordkaarten toe aan een bestaand lesbestand (na dedupe)
@@ -217,6 +219,21 @@ In tekstvelden is de mini-opmaak toegestaan:
 
   De voortgang wordt vooraf bewaard en achteraf teruggezet.
 - `await t.runTrainer()` controleert alle werkwoorden van de trainer.
+
+**Browsertests met Playwright** (`tests/darb.spec.mjs`, `playwright.config.mjs`, `tools/serve.mjs`):
+- Ze testen de gebouwde versie (`dist/`, met service worker), op poort 4173.
+- Eenmalig installeren: `npm install` en `npx playwright install chromium webkit firefox`.
+- `npx playwright test` draait een steekproef van 5 eenheden in Chromium, Safari/WebKit (iPhone 13) en Firefox (± 4 min):
+  - alle pagina's zonder consolefouten en zonder horizontaal scrollen op 375 px
+  - zoeken en een diepe link
+  - `run`/`runFout` op de steekproef
+  - `runTrainer`
+  - offline na "Alle lessen offline beschikbaar maken" (alleen Chromium)
+- `DARB_FULL=1 npx playwright test --project=chromium` test alle 228 eenheden (PowerShell: `$env:DARB_FULL=1`). Dat duurt een paar uur.
+- **In GitHub Actions:**
+  - `pages.yml` draait de steekproef vóór elke publicatie. Slaagt die niet, dan wordt er niet gepubliceerd.
+  - `tests-volledig.yml` draait elke maandag om 03:00 UTC de volledige test. Hij is ook met de hand te starten.
+  - Het verslag staat als artefact bij de run.
 
 **Controle na elke ontwikkelfase:**
 - Lessen worden correct weergegeven.

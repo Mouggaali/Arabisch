@@ -1,4 +1,6 @@
-# Publiceert de app op GitHub Pages bij elke push naar main.
+# Test en publiceer de app op GitHub Pages bij elke push naar main.
+# Eerst de browsertests (Playwright, steekproef in Chromium, Safari/WebKit en Firefox);
+# alleen als die slagen wordt er gepubliceerd.
 # Eenmalig instellen in de repository: Settings > Pages > Source: "GitHub Actions".
 name: Publiceer op GitHub Pages
 
@@ -17,15 +19,39 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Inhoud controleren
+        run: node tools/validate.mjs > /dev/null
+      - name: Playwright installeren
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium webkit firefox
+      - name: Browsertests (steekproef)
+        run: npx playwright test
+      - name: Testverslag bewaren
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-verslag
+          path: playwright-report/
+          retention-days: 14
+
   build:
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
-      - name: Inhoud controleren
-        run: node tools/validate.mjs > /dev/null
+          node-version: 22
       - name: dist/ bouwen
         run: node tools/build-dist.mjs
       - uses: actions/upload-pages-artifact@v3

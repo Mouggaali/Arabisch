@@ -107,7 +107,7 @@ function offlinePanel() {
     btn.disabled = true;
     try {
       const cur = await content.curriculum();
-      const files = ['content/curriculum.json', 'content/werkwoorden.json', 'content/tags.json',
+      const files = ['content/curriculum.json', 'content/werkwoorden.json', 'content/tags.json', 'content/zoekindex.json',
         ...cur.order.filter((u) => u.bestand).map((u) => 'content/' + u.bestand)];
       const cache = await caches.open('darb-content');
       let done = 0, failed = 0;

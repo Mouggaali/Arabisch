@@ -1,0 +1,38 @@
+# Volledige inhoudstest: alle 228 eenheden goed én fout beantwoorden, plus alle werkwoorden (Chromium).
+# Wekelijks op maandagnacht en met de hand te starten via Actions > "Volledige test" > Run workflow.
+# Publiceert niets; bij een fout krijg je een mail van GitHub en staat het verslag bij de run.
+name: Volledige test
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  volledig:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Playwright installeren
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+      - name: Alle eenheden testen
+        env:
+          DARB_FULL: '1'
+        run: npx playwright test --project=chromium
+      - name: Testverslag bewaren
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-verslag-volledig
+          path: playwright-report/
+          retention-days: 30

@@ -1,0 +1,13 @@
+{
+  "name": "darb-arabisch",
+  "private": true,
+  "description": "Darb: Arabisch leren van A0 tot B1. Alleen voor de automatische browsertests; de app zelf heeft geen build-stap of afhankelijkheden.",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "serve": "node tools/serve.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1"
+  }
+}
