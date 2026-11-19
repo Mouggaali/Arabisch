@@ -1,0 +1,647 @@
+{
+ "id": "j3-p11-t2",
+ "titel": "Marokko: een land van verscheidenheid",
+ "soort": "artikel",
+ "jaar": 3,
+ "periode": 11,
+ "naLes": "j3-p11-l128",
+ "intro": "Een informatieve tekst over de ligging, talen en culturen van Marokko.",
+ "zinnen": [
+  {
+   "ar": "يَقَعُ الْمَغْرِبُ في شَمالِ غَرْبِ إِفْريقْيا، وَهُوَ عُضْوٌ في جامِعَةِ الدُّوَلِ الْعَرَبِيَّةِ.",
+   "tr": "yaqaʿu l-maġribu fī šamāli ġarbi ifrīqyā, wa-huwa ʿuḍwun fī jāmiʿati d-duwali l-ʿarabiyyati.",
+   "nl": "Marokko ligt in het noordwesten van Afrika en is lid van de Arabische Liga.",
+   "tokens": [
+    {
+     "t": "يَقَعُ",
+     "w": "j2-p6-l62-w09",
+     "g": "ligt"
+    },
+    {
+     "t": "الْمَغْرِبُ",
+     "w": "j1-p1-l03-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "شَمالِ",
+     "w": "j2-p6-l62-w05",
+     "g": "het noorden"
+    },
+    {
+     "t": "غَرْبِ",
+     "w": "j2-p6-l62-w08",
+     "g": "het westen; شَمالُ غَرْبِ = noordwest"
+    },
+    {
+     "t": "إِفْريقْيا،",
+     "w": "j2-p6-l62-w16",
+     "g": "Afrika"
+    },
+    {
+     "t": "وَهُوَ",
+     "w": "j1-p1-l02-w04",
+     "g": "en het (huwa)"
+    },
+    {
+     "t": "عُضْوٌ",
+     "w": "j3-p11-l128-w11"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "جامِعَةِ",
+     "w": "j3-p11-l128-w01",
+     "g": "bond; جامِعَةُ الدُّوَلِ الْعَرَبِيَّةِ = de Arabische Liga"
+    },
+    {
+     "t": "الدُّوَلِ",
+     "w": "j3-p11-l128-w01",
+     "g": "de staten"
+    },
+    {
+     "t": "الْعَرَبِيَّةِ.",
+     "w": "j3-p11-l128-w01",
+     "g": "Arabische"
+    }
+   ]
+  },
+  {
+   "ar": "يَفْصِلُهُ مَضيقُ جَبَلِ طارِقٍ عَنْ إِسْبانْيا.",
+   "tr": "yafṣiluhu maḍīqu jabali ṭāriqin ʿan isbānyā.",
+   "nl": "De Straat van Gibraltar scheidt het van Spanje.",
+   "tokens": [
+    {
+     "t": "يَفْصِلُهُ",
+     "w": "j3-p11-l128-w15",
+     "g": "scheidt het (van)"
+    },
+    {
+     "t": "مَضيقُ",
+     "w": "j3-p11-l128-w04"
+    },
+    {
+     "t": "جَبَلِ",
+     "w": "j1-p3-l26-w17",
+     "g": "berg"
+    },
+    {
+     "t": "طارِقٍ",
+     "g": "Ṭāriq; مَضيقُ جَبَلِ طارِقٍ = Straat van Gibraltar"
+    },
+    {
+     "t": "عَنْ",
+     "w": "j3-p11-l128-w15",
+     "g": "van (ʿan)"
+    },
+    {
+     "t": "إِسْبانْيا.",
+     "g": "Spanje"
+    }
+   ]
+  },
+  {
+   "ar": "يَحُدُّهُ الْبَحْرُ الْأَبْيَضُ الْمُتَوَسِّطُ شَمالًا وَالْمُحيطُ الْأَطْلَسِيُّ غَرْبًا.",
+   "tr": "yaḥudduhu l-baḥru l-abyaḍu l-mutawassiṭu šamālan wa-l-muḥīṭu l-aṭlasiyyu ġarban.",
+   "nl": "In het noorden grenst het aan de Middellandse Zee en in het westen aan de Atlantische Oceaan.",
+   "tokens": [
+    {
+     "t": "يَحُدُّهُ",
+     "w": "j3-p11-l128-w09",
+     "g": "grenst eraan"
+    },
+    {
+     "t": "الْبَحْرُ",
+     "w": "j1-p2-l16-w19"
+    },
+    {
+     "t": "الْأَبْيَضُ",
+     "w": "j1-p2-l16-w07",
+     "g": "wit; الْبَحْرُ الْأَبْيَضُ الْمُتَوَسِّطُ = de Middellandse Zee"
+    },
+    {
+     "t": "الْمُتَوَسِّطُ",
+     "g": "middelste; الْبَحْرُ الْأَبْيَضُ الْمُتَوَسِّطُ = de Middellandse Zee"
+    },
+    {
+     "t": "شَمالًا",
+     "w": "j2-p6-l62-w05",
+     "g": "in het noorden"
+    },
+    {
+     "t": "وَالْمُحيطُ",
+     "w": "j2-p6-l62-w11"
+    },
+    {
+     "t": "الْأَطْلَسِيُّ",
+     "g": "Atlantische"
+    },
+    {
+     "t": "غَرْبًا.",
+     "w": "j2-p6-l62-w08",
+     "g": "in het westen"
+    }
+   ]
+  },
+  {
+   "ar": "تَمْتَدُّ فيهِ سِلْسِلَةُ جِبالِ الْأَطْلَسِ مِنَ الشَّمالِ الشَّرْقِيِّ إِلى الْجَنوبِ الْغَرْبِيِّ.",
+   "tr": "tamtaddu fīhi silsilatu jibāli l-aṭlasi mina š-šamāli š-šarqiyyi ilā l-janūbi l-ġarbiyyi.",
+   "nl": "Het Atlasgebergte loopt er van het noordoosten naar het zuidwesten.",
+   "tokens": [
+    {
+     "t": "تَمْتَدُّ",
+     "g": "strekt zich uit (imtadda)"
+    },
+    {
+     "t": "فيهِ",
+     "w": "j1-p2-l15-w01",
+     "g": "erin"
+    },
+    {
+     "t": "سِلْسِلَةُ",
+     "w": "j3-p11-l128-w03",
+     "g": "keten; سِلْسِلَةُ جِبالٍ = bergketen"
+    },
+    {
+     "t": "جِبالِ",
+     "w": "j3-p11-l128-w03",
+     "g": "bergen"
+    },
+    {
+     "t": "الْأَطْلَسِ",
+     "g": "de Atlas"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الشَّمالِ",
+     "w": "j2-p6-l62-w05"
+    },
+    {
+     "t": "الشَّرْقِيِّ",
+     "w": "j2-p6-l62-w07",
+     "g": "oostelijk; الشَّمالُ الشَّرْقِيُّ = het noordoosten"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْجَنوبِ",
+     "w": "j2-p6-l62-w06"
+    },
+    {
+     "t": "الْغَرْبِيِّ.",
+     "w": "j2-p6-l62-w08",
+     "g": "westelijk; الْجَنوبُ الْغَرْبِيُّ = het zuidwesten"
+    }
+   ]
+  },
+  {
+   "ar": "وَفي الْجَنوبِ تَبْدَأُ الصَّحْراءُ الْكُبْرى.",
+   "tr": "wa-fī l-janūbi tabdaʾu ṣ-ṣaḥrāʾu l-kubrā.",
+   "nl": "En in het zuiden begint de Sahara.",
+   "tokens": [
+    {
+     "t": "وَفي",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْجَنوبِ",
+     "w": "j2-p6-l62-w06"
+    },
+    {
+     "t": "تَبْدَأُ",
+     "w": "j1-p4-l37-w14",
+     "g": "begint (v)"
+    },
+    {
+     "t": "الصَّحْراءُ",
+     "w": "j1-p4-l40-w04"
+    },
+    {
+     "t": "الْكُبْرى.",
+     "w": "j2-p7-l73-w01",
+     "g": "de grote; الصَّحْراءُ الْكُبْرى = de Sahara"
+    }
+   ]
+  },
+  {
+   "ar": "يَبْلُغُ عَدَدُ سُكّانِهِ حَوالَيْ سَبْعَةٍ وَثَلاثينَ مِلْيونَ نَسَمَةٍ.",
+   "tr": "yabluġu ʿadadu sukkānihi ḥawālay sabʿatin wa-ṯalāṯīna milyūna nasamatin.",
+   "nl": "Het land heeft ongeveer zevenendertig miljoen inwoners.",
+   "tokens": [
+    {
+     "t": "يَبْلُغُ",
+     "g": "bedraagt (balaġa)"
+    },
+    {
+     "t": "عَدَدُ",
+     "w": "j2-p8-l96-w06",
+     "g": "aantal"
+    },
+    {
+     "t": "سُكّانِهِ",
+     "w": "j2-p8-l96-w06",
+     "g": "zijn inwoners"
+    },
+    {
+     "t": "حَوالَيْ",
+     "w": "j1-p4-l39-w17",
+     "g": "ongeveer"
+    },
+    {
+     "t": "سَبْعَةٍ",
+     "w": "j1-p1-l09-w08"
+    },
+    {
+     "t": "وَثَلاثينَ",
+     "w": "j1-p2-l17-w01",
+     "g": "en dertig"
+    },
+    {
+     "t": "مِلْيونَ",
+     "w": "j1-p4-l41-w08"
+    },
+    {
+     "t": "نَسَمَةٍ.",
+     "g": "inwoner (nasama)"
+    }
+   ]
+  },
+  {
+   "ar": "اَللُّغَتانِ الرَّسْمِيَّتانِ هُما الْعَرَبِيَّةُ وَالْأَمازيغِيَّةُ.",
+   "tr": "al-luġatāni r-rasmiyyatāni humā l-ʿarabiyyatu wa-l-amāzīġiyyatu.",
+   "nl": "De twee officiële talen zijn het Arabisch en het Amazigh.",
+   "tokens": [
+    {
+     "t": "اَللُّغَتانِ",
+     "w": "j1-p1-l03-w22",
+     "g": "de twee talen (dualis)"
+    },
+    {
+     "t": "الرَّسْمِيَّتانِ",
+     "w": "j3-p11-l128-w06",
+     "g": "officiële (dualis)"
+    },
+    {
+     "t": "هُما",
+     "w": "j1-p1-l05-w07"
+    },
+    {
+     "t": "الْعَرَبِيَّةُ",
+     "w": "j1-p1-l03-w21"
+    },
+    {
+     "t": "وَالْأَمازيغِيَّةُ.",
+     "w": "j3-p11-l128-w02",
+     "g": "en het Amazigh"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ مُعْظَمَ النّاسِ يَتَكَلَّمونَ الدّارِجَةَ في حَياتِهِمُ الْيَوْمِيَّةِ.",
+   "tr": "lākinna muʿẓama n-nāsi yatakallamūna d-dārijata fī ḥayātihimu l-yawmiyyati.",
+   "nl": "Maar de meeste mensen spreken Darija in hun dagelijks leven.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "مُعْظَمَ",
+     "w": "j2-p8-l90-w03"
+    },
+    {
+     "t": "النّاسِ",
+     "g": "de mensen"
+    },
+    {
+     "t": "يَتَكَلَّمونَ",
+     "w": "j1-p2-l24-w18",
+     "g": "zij spreken"
+    },
+    {
+     "t": "الدّارِجَةَ",
+     "g": "de Darija (Marokkaans Arabisch)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "حَياتِهِمُ",
+     "w": "j1-p4-l47-w31",
+     "g": "hun leven"
+    },
+    {
+     "t": "الْيَوْمِيَّةِ.",
+     "w": "j1-p4-l47-w31",
+     "g": "dagelijks; الْحَياةُ الْيَوْمِيَّةُ = het dagelijks leven"
+    }
+   ]
+  },
+  {
+   "ar": "كَما تَنْتَشِرُ الْفَرَنْسِيَّةُ في الْإِدارَةِ وَالتَّعْليمِ وَالْأَعْمالِ.",
+   "tr": "kamā tantaširu l-faransiyyatu fī l-idārati wa-t-taʿlīmi wa-l-aʿmāli.",
+   "nl": "Ook wordt Frans veel gebruikt in het bestuur, het onderwijs en het zakenleven.",
+   "tokens": [
+    {
+     "t": "كَما",
+     "g": "ook, verder (kamā)"
+    },
+    {
+     "t": "تَنْتَشِرُ",
+     "w": "j3-p11-l128-w13",
+     "g": "is wijdverbreid (verwant aan مُنْتَشِر)"
+    },
+    {
+     "t": "الْفَرَنْسِيَّةُ",
+     "w": "j1-p1-l03-w14",
+     "g": "het Frans"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْإِدارَةِ",
+     "w": "j1-p4-l37-w07"
+    },
+    {
+     "t": "وَالتَّعْليمِ",
+     "w": "j2-p5-l53-w04"
+    },
+    {
+     "t": "وَالْأَعْمالِ.",
+     "w": "j1-p1-l10-w12",
+     "g": "en het zakenleven (aʿmāl, meervoud van عَمَل)"
+    }
+   ]
+  },
+  {
+   "ar": "يَتَمَيَّزُ الْمَغْرِبُ بِتَنَوُّعٍ ثَقافِيٍّ كَبيرٍ: عَرَبِيٍّ وَأَمازيغِيٍّ وَأَنْدَلُسِيٍّ وَإِفْريقِيٍّ.",
+   "tr": "yatamayyazu l-maġribu bi-tanawwuʿin ṯaqāfiyyin kabīrin: ʿarabiyyin wa-amāzīġiyyin wa-andalusiyyin wa-ifrīqiyyin.",
+   "nl": "Marokko onderscheidt zich door een grote culturele verscheidenheid: Arabisch, Amazigh, Andalusisch en Afrikaans.",
+   "tokens": [
+    {
+     "t": "يَتَمَيَّزُ",
+     "w": "j3-p11-l128-w10",
+     "g": "onderscheidt zich (door)"
+    },
+    {
+     "t": "الْمَغْرِبُ",
+     "w": "j1-p1-l03-w08"
+    },
+    {
+     "t": "بِتَنَوُّعٍ",
+     "w": "j3-p11-l128-w05",
+     "g": "door een verscheidenheid"
+    },
+    {
+     "t": "ثَقافِيٍّ",
+     "w": "j2-p8-l87-w03",
+     "g": "cultureel (verwant aan ثَقافَة)"
+    },
+    {
+     "t": "كَبيرٍ:",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "عَرَبِيٍّ",
+     "w": "j1-p1-l03-w20",
+     "g": "Arabisch"
+    },
+    {
+     "t": "وَأَمازيغِيٍّ",
+     "w": "j3-p11-l128-w02",
+     "g": "en Amazigh"
+    },
+    {
+     "t": "وَأَنْدَلُسِيٍّ",
+     "g": "en Andalusisch"
+    },
+    {
+     "t": "وَإِفْريقِيٍّ.",
+     "w": "j2-p6-l62-w16",
+     "g": "en Afrikaans"
+    }
+   ]
+  },
+  {
+   "ar": "وَيَظْهَرُ هٰذا التَّنَوُّعُ في الْمَطْبَخِ وَالْموسيقى وَالْعِمارَةِ.",
+   "tr": "wa-yaẓharu hāḏā t-tanawwuʿu fī l-maṭbaḫi wa-l-mūsīqā wa-l-ʿimārati.",
+   "nl": "Die verscheidenheid zie je in de keuken, de muziek en de bouwkunst.",
+   "tokens": [
+    {
+     "t": "وَيَظْهَرُ",
+     "g": "en is te zien, blijkt (ẓahara)"
+    },
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "التَّنَوُّعُ",
+     "w": "j3-p11-l128-w05"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَطْبَخِ",
+     "w": "j1-p2-l14-w02"
+    },
+    {
+     "t": "وَالْموسيقى",
+     "w": "j1-p3-l36-w10"
+    },
+    {
+     "t": "وَالْعِمارَةِ.",
+     "w": "j1-p2-l14-w16",
+     "g": "en de bouwkunst (ʿimāra; ook: flatgebouw)"
+    }
+   ]
+  },
+  {
+   "ar": "مِنْ أَشْهَرِ مُدُنِهِ: الرِّباطُ الْعاصِمَةُ، وَالدّارُ الْبَيْضاءُ، وَفاسُ، وَمَرّاكُشُ.",
+   "tr": "min ašhari mudunihi: ar-ribāṭu l-ʿāṣimatu, wa-d-dāru l-bayḍāʾu, wa-fāsu, wa-marrākušu.",
+   "nl": "Tot de bekendste steden horen de hoofdstad Rabat, Casablanca, Fès en Marrakesh.",
+   "tokens": [
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَشْهَرِ",
+     "w": "j2-p7-l73-w04",
+     "g": "de bekendste"
+    },
+    {
+     "t": "مُدُنِهِ:",
+     "w": "j1-p1-l03-w05",
+     "g": "zijn steden"
+    },
+    {
+     "t": "الرِّباطُ",
+     "g": "Rabat"
+    },
+    {
+     "t": "الْعاصِمَةُ،",
+     "w": "j1-p4-l41-w17",
+     "g": "de hoofdstad"
+    },
+    {
+     "t": "وَالدّارُ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءُ،",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "وَفاسُ،",
+     "g": "en Fès"
+    },
+    {
+     "t": "وَمَرّاكُشُ.",
+     "g": "en Marrakesh"
+    }
+   ]
+  },
+  {
+   "ar": "وَيَزورُهُ كُلَّ سَنَةٍ مَلايينُ السُّيّاحِ مِنْ أَنْحاءِ الْعالَمِ.",
+   "tr": "wa-yazūruhu kulla sanatin malāyīnu s-suyyāḥi min anḥāʾi l-ʿālami.",
+   "nl": "En elk jaar bezoeken miljoenen toeristen uit de hele wereld het land.",
+   "tokens": [
+    {
+     "t": "وَيَزورُهُ",
+     "w": "j1-p4-l43-w13",
+     "g": "en (zij) bezoeken het"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "سَنَةٍ",
+     "w": "j1-p1-l09-w17"
+    },
+    {
+     "t": "مَلايينُ",
+     "w": "j1-p4-l41-w08",
+     "g": "miljoenen"
+    },
+    {
+     "t": "السُّيّاحِ",
+     "w": "j1-p4-l43-w15",
+     "g": "de toeristen"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَنْحاءِ",
+     "g": "alle delen (anḥāʾ); مِنْ أَنْحاءِ الْعالَمِ = uit de hele wereld"
+    },
+    {
+     "t": "الْعالَمِ.",
+     "w": "j2-p7-l73-w15",
+     "g": "de wereld"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat scheidt Marokko van Spanje?",
+   "opties": [
+    "de Straat van Gibraltar",
+    "het Atlasgebergte",
+    "de Sahara"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|يَفْصِلُهُ مَضيقُ جَبَلِ طارِقٍ عَنْ إِسْبانْيا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat zijn de officiële talen?",
+   "opties": [
+    "Arabisch en Amazigh",
+    "Arabisch en Frans",
+    "Darija en Frans"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|اَللُّغَتانِ الرَّسْمِيَّتانِ هُما الْعَرَبِيَّةُ وَالْأَمازيغِيَّةُ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De meeste mensen spreken in het dagelijks leven Darija. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مُعْظَمَ النّاسِ يَتَكَلَّمونَ الدّارِجَةَ في حَياتِهِمُ الْيَوْمِيَّةِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar wordt Frans veel gebruikt?",
+   "opties": [
+    "in bestuur, onderwijs en zakenleven",
+    "thuis met de familie",
+    "in de poëzie"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في الْإِدارَةِ وَالتَّعْليمِ وَالْأَعْمالِ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "اَللُّغَتانِ الرَّسْمِيَّتانِ ___ الْعَرَبِيَّةُ وَالْأَمازيغِيَّةُ.",
+   "antwoord": [
+    "هُما"
+   ],
+   "uitleg": "Twee talen: dualis, dus {ar|هُما}.",
+   "nl": "De twee officiële talen zijn het Arabisch en het Amazigh.",
+   "woordbank": [
+    "هُما",
+    "هُمْ",
+    "هِيَ"
+   ]
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel inwoners heeft Marokko ongeveer?",
+   "opties": [
+    "37 miljoen",
+    "7 miljoen",
+    "370 miljoen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|سَبْعَةٍ وَثَلاثينَ مِلْيونَ} = zevenendertig miljoen."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

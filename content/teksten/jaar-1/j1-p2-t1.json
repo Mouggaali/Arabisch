@@ -1,0 +1,329 @@
+{
+ "id": "j1-p2-t1",
+ "titel": "Mijn appartement",
+ "soort": "bericht",
+ "jaar": 1,
+ "periode": 2,
+ "naLes": "j1-p2-l20",
+ "intro": "Karīm beschrijft zijn appartement in een bericht aan een vriend.",
+ "zinnen": [
+  {
+   "ar": "أَسْكُنُ في شَقَّةٍ صَغيرَةٍ في عِمارَةٍ كَبيرَةٍ.",
+   "tr": "askunu fī šaqqatin ṣaġīratin fī ʿimāratin kabīratin.",
+   "nl": "Ik woon in een klein appartement in een groot flatgebouw.",
+   "tokens": [
+    {
+     "t": "أَسْكُنُ",
+     "w": "j1-p2-l19-w03",
+     "g": "ik woon"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "شَقَّةٍ",
+     "w": "j1-p2-l14-w15"
+    },
+    {
+     "t": "صَغيرَةٍ",
+     "w": "j1-p1-l04-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "عِمارَةٍ",
+     "w": "j1-p2-l14-w16"
+    },
+    {
+     "t": "كَبيرَةٍ.",
+     "w": "j1-p1-l04-w07"
+    }
+   ]
+  },
+  {
+   "ar": "فيها غُرْفَتانِ وَمَطْبَخٌ وَحَمّامٌ.",
+   "tr": "fīhā ġurfatāni wa-maṭbaḫun wa-ḥammāmun.",
+   "nl": "Er zijn twee kamers, een keuken en een badkamer.",
+   "tokens": [
+    {
+     "t": "فيها",
+     "w": "j1-p2-l15-w01",
+     "g": "erin (fī + -hā)"
+    },
+    {
+     "t": "غُرْفَتانِ",
+     "w": "j1-p2-l14-w01",
+     "g": "twee kamers (dualis)"
+    },
+    {
+     "t": "وَمَطْبَخٌ",
+     "w": "j1-p2-l14-w02"
+    },
+    {
+     "t": "وَحَمّامٌ.",
+     "w": "j1-p2-l14-w03"
+    }
+   ]
+  },
+  {
+   "ar": "غُرْفَةُ الْجُلوسِ كَبيرَةٌ وَجَميلَةٌ.",
+   "tr": "ġurfatu l-julūsi kabīratun wa-jamīlatun.",
+   "nl": "De woonkamer is groot en mooi.",
+   "tokens": [
+    {
+     "t": "غُرْفَةُ",
+     "w": "j1-p2-l14-w01"
+    },
+    {
+     "t": "الْجُلوسِ",
+     "w": "j1-p2-l14-w05",
+     "g": "het zitten; غُرْفَةُ الْجُلوسِ = woonkamer"
+    },
+    {
+     "t": "كَبيرَةٌ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "وَجَميلَةٌ.",
+     "w": "j1-p1-l04-w11"
+    }
+   ]
+  },
+  {
+   "ar": "فيها أَريكَةٌ زَرْقاءُ وَتِلْفازٌ.",
+   "tr": "fīhā arīkatun zarqāʾu wa-tilfāzun.",
+   "nl": "Er staan een blauwe bank en een televisie in.",
+   "tokens": [
+    {
+     "t": "فيها",
+     "w": "j1-p2-l15-w01",
+     "g": "erin (fī + -hā)"
+    },
+    {
+     "t": "أَريكَةٌ",
+     "w": "j1-p2-l15-w14"
+    },
+    {
+     "t": "زَرْقاءُ",
+     "w": "j1-p2-l16-w03",
+     "g": "blauw (vrouwelijk van أَزْرَقُ)"
+    },
+    {
+     "t": "وَتِلْفازٌ.",
+     "w": "j1-p2-l15-w22"
+    }
+   ]
+  },
+  {
+   "ar": "عَلى الْجِدارِ لَوْحَةٌ وَمِرْآةٌ.",
+   "tr": "ʿalā l-jidāri lawḥatun wa-mirʾātun.",
+   "nl": "Aan de muur hangen een schilderij en een spiegel.",
+   "tokens": [
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "الْجِدارِ",
+     "w": "j1-p2-l14-w12"
+    },
+    {
+     "t": "لَوْحَةٌ",
+     "w": "j1-p2-l15-w23"
+    },
+    {
+     "t": "وَمِرْآةٌ.",
+     "w": "j1-p2-l15-w15"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْمَطْبَخُ صَغيرٌ، لٰكِنْ فيهِ ثَلّاجَةٌ وَفُرْنٌ.",
+   "tr": "al-maṭbaḫu ṣaġīrun, lākin fīhi ṯallājatun wa-furnun.",
+   "nl": "De keuken is klein, maar er staan een koelkast en een oven in.",
+   "tokens": [
+    {
+     "t": "اَلْمَطْبَخُ",
+     "w": "j1-p2-l14-w02"
+    },
+    {
+     "t": "صَغيرٌ،",
+     "w": "j1-p1-l04-w08"
+    },
+    {
+     "t": "لٰكِنْ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar"
+    },
+    {
+     "t": "فيهِ",
+     "w": "j1-p2-l15-w01",
+     "g": "erin (fī + -hi)"
+    },
+    {
+     "t": "ثَلّاجَةٌ",
+     "w": "j1-p2-l15-w17"
+    },
+    {
+     "t": "وَفُرْنٌ.",
+     "w": "j1-p2-l15-w18"
+    }
+   ]
+  },
+  {
+   "ar": "لِلشَّقَّةِ شُرْفَةٌ صَغيرَةٌ.",
+   "tr": "li-š-šaqqati šurfatun ṣaġīratun.",
+   "nl": "Het appartement heeft een klein balkon.",
+   "tokens": [
+    {
+     "t": "لِلشَّقَّةِ",
+     "w": "j1-p2-l14-w15",
+     "g": "voor het appartement; لِـ … = heeft"
+    },
+    {
+     "t": "شُرْفَةٌ",
+     "w": "j1-p2-l14-w08"
+    },
+    {
+     "t": "صَغيرَةٌ.",
+     "w": "j1-p1-l04-w08"
+    }
+   ]
+  },
+  {
+   "ar": "يَوْمَ السَّبْتِ أَجْلِسُ عَلى الشُّرْفَةِ في الْمَساءِ.",
+   "tr": "yawma s-sabti ajlisu ʿalā š-šurfati fī l-masāʾi.",
+   "nl": "Op zaterdag zit ik ’s avonds op het balkon.",
+   "tokens": [
+    {
+     "t": "يَوْمَ",
+     "w": "j1-p2-l18-w01"
+    },
+    {
+     "t": "السَّبْتِ",
+     "w": "j1-p2-l18-w09"
+    },
+    {
+     "t": "أَجْلِسُ",
+     "w": "j1-p2-l19-w10",
+     "g": "ik zit"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "الشُّرْفَةِ",
+     "w": "j1-p2-l14-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ.",
+     "w": "j1-p2-l18-w12"
+    }
+   ]
+  },
+  {
+   "ar": "عُنْواني: شارِعُ الْبَحْرِ، رَقْمُ تِسْعَةٍ.",
+   "tr": "ʿunwānī: šāriʿu l-baḥri, raqmu tisʿatin.",
+   "nl": "Mijn adres: Zeestraat, nummer negen.",
+   "tokens": [
+    {
+     "t": "عُنْواني:",
+     "w": "j1-p2-l14-w18",
+     "g": "mijn adres"
+    },
+    {
+     "t": "شارِعُ",
+     "w": "j1-p2-l14-w19"
+    },
+    {
+     "t": "الْبَحْرِ،",
+     "w": "j1-p2-l16-w19"
+    },
+    {
+     "t": "رَقْمُ",
+     "w": "j1-p1-l09-w12"
+    },
+    {
+     "t": "تِسْعَةٍ.",
+     "w": "j1-p1-l09-w10"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel kamers heeft het appartement (naast keuken en badkamer)?",
+   "opties": [
+    "twee",
+    "drie",
+    "een"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|غُرْفَتانِ} is een dualis: twee kamers."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welke kleur heeft de bank?",
+   "opties": [
+    "blauw",
+    "rood",
+    "groen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|زَرْقاءُ} is de vrouwelijke vorm van {ar|أَزْرَقُ}, want {ar|أَريكَة} is vrouwelijk."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De keuken is groot. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|اَلْمَطْبَخُ صَغيرٌ} = de keuken is klein."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wanneer zit Karīm op het balkon?",
+   "opties": [
+    "op zaterdagavond",
+    "op vrijdagochtend",
+    "elke dag"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|يَوْمَ السَّبْتِ … في الْمَساءِ} = op zaterdag, ’s avonds."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "عَلى الْجِدارِ ___ وَمِرْآةٌ.",
+   "antwoord": [
+    "لَوْحَةٌ"
+   ],
+   "uitleg": "Aan de muur hangt een schilderij: {ar|لَوْحَةٌ}.",
+   "nl": "Aan de muur hangen een schilderij en een spiegel.",
+   "woordbank": [
+    "لَوْحَةٌ",
+    "سَريرٌ",
+    "ثَلّاجَةٌ"
+   ]
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

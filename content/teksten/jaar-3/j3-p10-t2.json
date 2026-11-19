@@ -1,0 +1,718 @@
+{
+ "id": "j3-p10-t2",
+ "titel": "De telefoon in de klas: voor en tegen",
+ "soort": "artikel",
+ "jaar": 3,
+ "periode": 10,
+ "naLes": "j3-p10-l120",
+ "intro": "Een betoog met argumenten voor en tegen, en een conclusie. Let op de verbindingswoorden van een betoog.",
+ "zinnen": [
+  {
+   "ar": "قَرَّرَتْ هولَنْدا مَنْعَ الْهَواتِفِ الْمَحْمولَةِ في الْفُصولِ الدِّراسِيَّةِ.",
+   "tr": "qarrarat hūlandā manʿa l-hawātifi l-maḥmūlati fī l-fuṣūli d-dirāsiyyati.",
+   "nl": "Nederland heeft besloten mobiele telefoons in de klaslokalen te verbieden.",
+   "tokens": [
+    {
+     "t": "قَرَّرَتْ",
+     "w": "j2-p5-l50-w02",
+     "g": "besloot (v)"
+    },
+    {
+     "t": "هولَنْدا",
+     "w": "j1-p1-l03-w06"
+    },
+    {
+     "t": "مَنْعَ",
+     "w": "j3-p10-l120-w04",
+     "g": "het verbieden, verbod"
+    },
+    {
+     "t": "الْهَواتِفِ",
+     "w": "j3-p10-l120-w05",
+     "g": "de telefoons (meervoud)"
+    },
+    {
+     "t": "الْمَحْمولَةِ",
+     "w": "j3-p10-l120-w05",
+     "g": "mobiele; هاتِفٌ مَحْمولٌ = mobiele telefoon"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْفُصولِ",
+     "g": "de klaslokalen (fuṣūl)"
+    },
+    {
+     "t": "الدِّراسِيَّةِ.",
+     "w": "j2-p8-l86-w08",
+     "g": "studie-, school-"
+    }
+   ]
+  },
+  {
+   "ar": "فَهَلْ هٰذا الْقَرارُ صَحيحٌ؟",
+   "tr": "fa-hal hāḏā l-qarāru ṣaḥīḥun?",
+   "nl": "Is dit besluit juist?",
+   "tokens": [
+    {
+     "t": "فَهَلْ",
+     "w": "j1-p1-l08-w06",
+     "g": "(en) is …? (vraagwoord)"
+    },
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "الْقَرارُ",
+     "w": "j2-p5-l50-w02",
+     "g": "het besluit (qarār, verwant aan قَرَّرَ)"
+    },
+    {
+     "t": "صَحيحٌ؟",
+     "w": "j1-p1-l12-w13"
+    }
+   ]
+  },
+  {
+   "ar": "مِنْ جِهَةٍ، لا شَكَّ أَنَّ الْهاتِفَ يُقَلِّلُ مِنْ تَرْكيزِ التَّلاميذِ.",
+   "tr": "min jihatin, lā šakka anna l-hātifa yuqallilu min tarkīzi t-talāmīḏi.",
+   "nl": "Enerzijds lijdt het geen twijfel dat de telefoon de concentratie van leerlingen vermindert.",
+   "tokens": [
+    {
+     "t": "مِنْ",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "جِهَةٍ،",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "لا",
+     "w": "j3-p10-l120-w09",
+     "g": "geen"
+    },
+    {
+     "t": "شَكَّ",
+     "w": "j3-p10-l120-w09",
+     "g": "twijfel; لا شَكَّ أَنَّ = het lijdt geen twijfel dat"
+    },
+    {
+     "t": "أَنَّ",
+     "w": "j3-p10-l120-w09",
+     "g": "dat (anna)"
+    },
+    {
+     "t": "الْهاتِفَ",
+     "w": "j1-p1-l06-w14"
+    },
+    {
+     "t": "يُقَلِّلُ",
+     "w": "j3-p9-l102-w16",
+     "g": "vermindert (vorm II)"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "تَرْكيزِ",
+     "w": "j3-p10-l120-w06"
+    },
+    {
+     "t": "التَّلاميذِ.",
+     "w": "j1-p3-l27-w21"
+    }
+   ]
+  },
+  {
+   "ar": "فَبَدَلًا مِنَ الِاسْتِماعِ إِلى الْمُعَلِّمِ، يَتَصَفَّحونَ وَسائِلَ التَّواصُلِ.",
+   "tr": "fa-badalan mina l-istimāʿi ilā l-muʿallimi, yataṣaffaḥūna wasāʾila t-tawāṣuli.",
+   "nl": "In plaats van naar de leraar te luisteren, kijken ze op sociale media.",
+   "tokens": [
+    {
+     "t": "فَبَدَلًا",
+     "g": "in plaats (van) (badalan min)"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الِاسْتِماعِ",
+     "w": "j2-p5-l58-w05",
+     "g": "het luisteren"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمُعَلِّمِ،",
+     "w": "j1-p1-l02-w19",
+     "g": "de leraar"
+    },
+    {
+     "t": "يَتَصَفَّحونَ",
+     "w": "j2-p8-l88-w03",
+     "g": "zij surfen, kijken op"
+    },
+    {
+     "t": "وَسائِلَ",
+     "w": "j2-p5-l55-w15",
+     "g": "middelen; وَسائِلُ التَّواصُلِ = sociale media"
+    },
+    {
+     "t": "التَّواصُلِ.",
+     "w": "j2-p5-l55-w15",
+     "g": "de communicatie"
+    }
+   ]
+  },
+  {
+   "ar": "بِالْإِضافَةِ إِلى ذٰلِكَ، يُؤَدّي الِاسْتِخْدامُ الْكَثيرُ إِلى الْإِدْمانِ.",
+   "tr": "bi-l-iḍāfati ilā ḏālika, yuʾaddī l-istiḫdāmu l-kaṯīru ilā l-idmāni.",
+   "nl": "Bovendien leidt veel gebruik tot verslaving.",
+   "tokens": [
+    {
+     "t": "بِالْإِضافَةِ",
+     "w": "j2-p8-l95-w06",
+     "g": "bovendien (bi-l-iḍāfa ilā)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "ذٰلِكَ،",
+     "w": "j1-p1-l08-w03"
+    },
+    {
+     "t": "يُؤَدّي",
+     "w": "j3-p9-l102-w14",
+     "g": "leidt (tot)"
+    },
+    {
+     "t": "الِاسْتِخْدامُ",
+     "w": "j2-p5-l59-w01",
+     "g": "het gebruik"
+    },
+    {
+     "t": "الْكَثيرُ",
+     "w": "j1-p1-l10-w20"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْإِدْمانِ.",
+     "w": "j3-p10-l120-w07"
+    }
+   ]
+  },
+  {
+   "ar": "عَلاوَةً عَلى ذٰلِكَ، يَنامُ كَثيرٌ مِنَ الْمُراهِقينَ مُتَأَخِّرينَ بِسَبَبِ الْهاتِفِ.",
+   "tr": "ʿalāwatan ʿalā ḏālika, yanāmu kaṯīrun mina l-murāhiqīna mutaʾaḫḫirīna bi-sababi l-hātifi.",
+   "nl": "Daarnaast gaan veel tieners laat slapen door de telefoon.",
+   "tokens": [
+    {
+     "t": "عَلاوَةً",
+     "w": "j3-p10-l120-w11",
+     "g": "bovendien"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02",
+     "g": "op; يَعْتَمِدُ عَلى = hangt af van"
+    },
+    {
+     "t": "ذٰلِكَ،",
+     "w": "j1-p1-l08-w03"
+    },
+    {
+     "t": "يَنامُ",
+     "w": "j2-p6-l69-w03",
+     "g": "slaapt, gaat slapen"
+    },
+    {
+     "t": "كَثيرٌ",
+     "w": "j1-p1-l10-w20"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمُراهِقينَ",
+     "w": "j3-p9-l101-w10",
+     "g": "de tieners"
+    },
+    {
+     "t": "مُتَأَخِّرينَ",
+     "w": "j1-p1-l12-w09",
+     "g": "laat (m mv)"
+    },
+    {
+     "t": "بِسَبَبِ",
+     "w": "j3-p9-l102-w02"
+    },
+    {
+     "t": "الْهاتِفِ.",
+     "w": "j1-p1-l06-w14"
+    }
+   ]
+  },
+  {
+   "ar": "وَمِنْ جِهَةٍ أُخْرى، الْهاتِفُ أَداةٌ مُفيدَةٌ لِلتَّعَلُّمِ.",
+   "tr": "wa-min jihatin uḫrā, al-hātifu adātun mufīdatun li-t-taʿallumi.",
+   "nl": "Anderzijds is de telefoon een nuttig hulpmiddel om te leren.",
+   "tokens": [
+    {
+     "t": "وَمِنْ",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "جِهَةٍ",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "أُخْرى،",
+     "w": "j3-p10-l120-w14",
+     "g": "enerzijds … anderzijds"
+    },
+    {
+     "t": "الْهاتِفُ",
+     "w": "j1-p1-l06-w14"
+    },
+    {
+     "t": "أَداةٌ",
+     "g": "hulpmiddel, instrument (adāt)"
+    },
+    {
+     "t": "مُفيدَةٌ",
+     "w": "j1-p3-l36-w18",
+     "g": "nuttig (v)"
+    },
+    {
+     "t": "لِلتَّعَلُّمِ.",
+     "w": "j2-p5-l56-w17",
+     "g": "om te leren (taʿallum)"
+    }
+   ]
+  },
+  {
+   "ar": "يُمْكِنُ لِلتَّلاميذِ أَنْ يَبْحَثوا عَنْ مَعْلوماتٍ أَوْ يَسْتَخْدِموا تَطْبيقاتٍ لِتَعَلُّمِ اللُّغاتِ.",
+   "tr": "yumkinu li-t-talāmīḏi an yabḥaṯū ʿan maʿlūmātin aw yastaḫdimū taṭbīqātin li-taʿallumi l-luġāti.",
+   "nl": "Leerlingen kunnen informatie opzoeken of apps gebruiken om talen te leren.",
+   "tokens": [
+    {
+     "t": "يُمْكِنُ",
+     "w": "j2-p7-l82-w02",
+     "g": "het is mogelijk; يُمْكِنُ لِـ … أَنْ = … kunnen"
+    },
+    {
+     "t": "لِلتَّلاميذِ",
+     "w": "j1-p3-l27-w21",
+     "g": "voor de leerlingen"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "يَبْحَثوا",
+     "w": "j2-p7-l77-w18",
+     "g": "(dat) zij zoeken: manṣūb, zonder ن"
+    },
+    {
+     "t": "عَنْ",
+     "w": "j2-p7-l77-w18",
+     "g": "naar (بَحَثَ عَنْ = zoeken naar)"
+    },
+    {
+     "t": "مَعْلوماتٍ",
+     "w": "j2-p5-l49-w14",
+     "g": "informatie (maʿlūmāt, verwant aan مَعْلوم)"
+    },
+    {
+     "t": "أَوْ",
+     "w": "j1-p4-l47-w13"
+    },
+    {
+     "t": "يَسْتَخْدِموا",
+     "w": "j2-p5-l59-w01",
+     "g": "(dat) zij gebruiken: manṣūb, zonder ن"
+    },
+    {
+     "t": "تَطْبيقاتٍ",
+     "w": "j2-p5-l59-w07",
+     "g": "apps (meervoud)"
+    },
+    {
+     "t": "لِتَعَلُّمِ",
+     "w": "j2-p5-l56-w17",
+     "g": "om … te leren"
+    },
+    {
+     "t": "اللُّغاتِ.",
+     "w": "j1-p1-l03-w22",
+     "g": "de talen"
+    }
+   ]
+  },
+  {
+   "ar": "كَما أَنَّ الْأَهْلَ يُريدونَ أَنْ يَتَّصِلوا بِأَوْلادِهِمْ في حالَةٍ عاجِلَةٍ.",
+   "tr": "kamā anna l-ahla yurīdūna an yattaṣilū bi-awlādihim fī ḥālatin ʿājilatin.",
+   "nl": "Ook willen ouders hun kinderen in een noodgeval kunnen bellen.",
+   "tokens": [
+    {
+     "t": "كَما",
+     "g": "ook, bovendien (kamā anna)"
+    },
+    {
+     "t": "أَنَّ",
+     "w": "j3-p10-l120-w09",
+     "g": "dat (anna)"
+    },
+    {
+     "t": "الْأَهْلَ",
+     "g": "de ouders, de familie (ahl)"
+    },
+    {
+     "t": "يُريدونَ",
+     "w": "j1-p2-l22-w06",
+     "g": "zij willen"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "يَتَّصِلوا",
+     "w": "j1-p4-l37-w17",
+     "g": "(dat) zij bellen: manṣūb"
+    },
+    {
+     "t": "بِأَوْلادِهِمْ",
+     "w": "j1-p3-l32-w13",
+     "g": "hun kinderen"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "حالَةٍ",
+     "w": "j3-p10-l110-w17",
+     "g": "geval, situatie"
+    },
+    {
+     "t": "عاجِلَةٍ.",
+     "w": "j3-p10-l110-w17",
+     "g": "dringend; حالَةٌ عاجِلَةٌ = spoedgeval"
+    }
+   ]
+  },
+  {
+   "ar": "فَما الْحَلُّ؟",
+   "tr": "fa-mā l-ḥallu?",
+   "nl": "Wat is dan de oplossing?",
+   "tokens": [
+    {
+     "t": "فَما",
+     "w": "j1-p1-l08-w05",
+     "g": "wat (is) dan …?"
+    },
+    {
+     "t": "الْحَلُّ؟",
+     "w": "j3-p10-l120-w08",
+     "g": "de oplossing"
+    }
+   ]
+  },
+  {
+   "ar": "في رَأْيي، الْحَلُّ الْوَسَطُ هُوَ الْأَفْضَلُ.",
+   "tr": "fī raʾyī, al-ḥallu l-wasaṭu huwa l-afḍalu.",
+   "nl": "Naar mijn mening is een compromis het beste.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "رَأْيي،",
+     "w": "j2-p6-l65-w06",
+     "g": "mijn mening"
+    },
+    {
+     "t": "الْحَلُّ",
+     "w": "j3-p10-l120-w08",
+     "g": "de oplossing"
+    },
+    {
+     "t": "الْوَسَطُ",
+     "w": "j3-p10-l120-w08",
+     "g": "midden; الْحَلُّ الْوَسَطُ = het compromis"
+    },
+    {
+     "t": "هُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "الْأَفْضَلُ.",
+     "w": "j1-p4-l45-w13",
+     "g": "de beste"
+    }
+   ]
+  },
+  {
+   "ar": "يَجِبُ أَنْ يَضَعَ التَّلاميذُ هَواتِفَهُمْ في خِزانَةٍ خِلالَ الدَّرْسِ، وَأَنْ يَسْتَخْدِموها فَقَطْ عِنْدَما يَطْلُبُ الْمُعَلِّمُ ذٰلِكَ.",
+   "tr": "yajibu an yaḍaʿa t-talāmīḏu hawātifahum fī ḫizānatin ḫilāla d-darsi, wa-an yastaḫdimūhā faqaṭ ʿindamā yaṭlubu l-muʿallimu ḏālika.",
+   "nl": "Leerlingen moeten hun telefoon tijdens de les in een kast leggen en hem alleen gebruiken als de leraar daarom vraagt.",
+   "tokens": [
+    {
+     "t": "يَجِبُ",
+     "w": "j2-p7-l82-w01",
+     "g": "het moet; يَجِبُ أَنْ = moeten"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "يَضَعَ",
+     "w": "j2-p6-l71-w02",
+     "g": "(dat) … legt: manṣūb"
+    },
+    {
+     "t": "التَّلاميذُ",
+     "w": "j1-p3-l27-w21"
+    },
+    {
+     "t": "هَواتِفَهُمْ",
+     "w": "j1-p1-l06-w14",
+     "g": "hun telefoons"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "خِزانَةٍ",
+     "w": "j1-p2-l15-w13"
+    },
+    {
+     "t": "خِلالَ",
+     "w": "j2-p5-l50-w20",
+     "g": "tijdens"
+    },
+    {
+     "t": "الدَّرْسِ،",
+     "w": "j1-p1-l06-w20"
+    },
+    {
+     "t": "وَأَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "يَسْتَخْدِموها",
+     "w": "j2-p5-l59-w01",
+     "g": "(dat) zij hem gebruiken"
+    },
+    {
+     "t": "فَقَطْ",
+     "w": "j1-p2-l17-w16"
+    },
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "يَطْلُبُ",
+     "g": "vraagt (ṭalaba)"
+    },
+    {
+     "t": "الْمُعَلِّمُ",
+     "w": "j1-p1-l02-w19",
+     "g": "de leraar"
+    },
+    {
+     "t": "ذٰلِكَ.",
+     "w": "j1-p1-l08-w03"
+    }
+   ]
+  },
+  {
+   "ar": "خُلاصَةُ الْقَوْلِ: الْهاتِفُ لَيْسَ عَدُوًّا وَلا صَديقًا، بَلْ هُوَ أَداةٌ، وَكُلُّ شَيْءٍ يَعْتَمِدُ عَلى طَريقَةِ اسْتِخْدامِها.",
+   "tr": "ḫulāṣatu l-qawli: al-hātifu laysa ʿaduwwan wa-lā ṣadīqan, bal huwa adātun, wa-kullu šayʾin yaʿtamidu ʿalā ṭarīqati stiḫdāmihā.",
+   "nl": "Kortom: de telefoon is geen vijand en geen vriend, maar een hulpmiddel, en alles hangt af van hoe je hem gebruikt.",
+   "tokens": [
+    {
+     "t": "خُلاصَةُ",
+     "w": "j3-p10-l120-w15",
+     "g": "samenvatting; خُلاصَةُ الْقَوْلِ = kortom"
+    },
+    {
+     "t": "الْقَوْلِ:",
+     "w": "j3-p10-l120-w15",
+     "g": "het zeggen; خُلاصَةُ الْقَوْلِ = kortom"
+    },
+    {
+     "t": "الْهاتِفُ",
+     "w": "j1-p1-l06-w14"
+    },
+    {
+     "t": "لَيْسَ",
+     "w": "j1-p1-l12-w01"
+    },
+    {
+     "t": "عَدُوًّا",
+     "g": "vijand (ʿaduww)"
+    },
+    {
+     "t": "وَلا",
+     "w": "j1-p1-l02-w15",
+     "g": "en ook geen"
+    },
+    {
+     "t": "صَديقًا،",
+     "w": "j1-p1-l02-w21"
+    },
+    {
+     "t": "بَلْ",
+     "w": "j3-p9-l103-w03"
+    },
+    {
+     "t": "هُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "أَداةٌ،",
+     "g": "hulpmiddel, instrument (adāt)"
+    },
+    {
+     "t": "وَكُلُّ",
+     "w": "j1-p4-l46-w17",
+     "g": "en alles (kull)"
+    },
+    {
+     "t": "شَيْءٍ",
+     "w": "j1-p1-l08-w19"
+    },
+    {
+     "t": "يَعْتَمِدُ",
+     "g": "hangt af (van) (iʿtamada ʿalā)"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02",
+     "g": "op; يَعْتَمِدُ عَلى = hangt af van"
+    },
+    {
+     "t": "طَريقَةِ",
+     "w": "j1-p4-l38-w14",
+     "g": "de manier (ṭarīqa, verwant aan طَريق)"
+    },
+    {
+     "t": "اسْتِخْدامِها.",
+     "w": "j2-p5-l59-w01",
+     "g": "het gebruik ervan"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat heeft Nederland besloten?",
+   "opties": [
+    "mobiele telefoons in de klas te verbieden",
+    "alle leerlingen een telefoon te geven",
+    "scholen eerder te sluiten"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|قَرَّرَتْ هولَنْدا مَنْعَ الْهَواتِفِ الْمَحْمولَةِ في الْفُصولِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welk nadeel van de telefoon wordt genoemd?",
+   "opties": [
+    "minder concentratie",
+    "de telefoon is te duur",
+    "de telefoon is te zwaar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|يُقَلِّلُ مِنْ تَرْكيزِ التَّلاميذِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welk voordeel wordt genoemd?",
+   "opties": [
+    "informatie zoeken en apps om talen te leren",
+    "beter slapen",
+    "minder huiswerk"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَنْ يَبْحَثوا عَنْ مَعْلوماتٍ أَوْ يَسْتَخْدِموا تَطْبيقاتٍ لِتَعَلُّمِ اللُّغاتِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat vindt de schrijver?",
+   "opties": [
+    "een compromis is het beste",
+    "een totaal verbod is het beste",
+    "er zijn geen regels nodig"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في رَأْيي، الْحَلُّ الْوَسَطُ هُوَ الْأَفْضَلُ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "الْهاتِفُ لَيْسَ عَدُوًّا، ___ هُوَ أَداةٌ.",
+   "antwoord": [
+    "بَلْ"
+   ],
+   "uitleg": "{ar|بَلْ} = maar (juist), na een ontkenning.",
+   "nl": "De telefoon is geen vijand, maar een hulpmiddel.",
+   "woordbank": [
+    "بَلْ",
+    "لِأَنَّ",
+    "إِذا"
+   ]
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Ouders willen hun kinderen in een noodgeval kunnen bereiken. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|الْأَهْلَ يُريدونَ أَنْ يَتَّصِلوا بِأَوْلادِهِمْ في حالَةٍ عاجِلَةٍ}."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

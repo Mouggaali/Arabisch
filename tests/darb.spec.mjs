@@ -2,6 +2,7 @@
 // - Elke pagina laadt zonder consolefouten en zonder horizontaal scrollen op telefoonbreedte.
 // - De inhoudstest uit tools/selftest.js: alles goed (run), alles fout (runFout), alle werkwoorden (runTrainer).
 // - Zoeken, diepe links en offline gebruik (service worker).
+// - Leesteksten (runLezen: woord aantikken, vragen goed en fout) en zwakke plekken oefenen (runHerhalen).
 // Steekproef bij elke push; met DARB_FULL=1 alle 228 eenheden (per jaar een test).
 
 import { test, expect } from '@playwright/test';
@@ -13,7 +14,7 @@ const SAMPLE = ['j1-p1-l01', 'j2-p5-l50', 'j3-p12-l139', 'j3-p12-d29', 'j3-p12-n
 const ROUTES = [
   '#/vandaag', '#/lessen', '#/les/j1-p1-l01/woorden', '#/les/j1-p1-l01/grammatica', '#/les/j1-p1-l01/oefeningen',
   '#/les/j1-p1-l01/toets', '#/les/j3-p12-d29/woorden', '#/kaarten', '#/trainer', '#/trainer/qaala', '#/voortgang',
-  '#/instellingen', '#/controle', '#/zoeken/huis',
+  '#/instellingen', '#/controle', '#/zoeken/huis', '#/herhalen', '#/lezen', '#/lezen/j1-p1-t1', '#/lezen/j3-p12-t2',
 ];
 
 /** Open de app en wacht tot de eerste pagina getekend is. */
@@ -91,6 +92,18 @@ test.describe('inhoud', () => {
     }
   }
 
+  test('leesteksten: woord aantikken, vragen goed en fout', async ({ page }) => {
+    await openApp(page);
+    const report = await selftest(page, 'runLezen', FULL ? undefined : ['j1-p1-t1', 'j2-p7-t2', 'j3-p12-t2']);
+    expect(report, report).toMatch(/afwijkingen: 0$/);
+  });
+
+  test('zwakke plekken oefenen: ronde van 10 vragen en een mini-toets', async ({ page }) => {
+    await openApp(page);
+    const report = await selftest(page, 'runHerhalen');
+    expect(report, report).toMatch(/ronde 10 \+ 5.*afwijkingen: 0$/);
+  });
+
   test('trainer: alle werkwoorden in alle tijden en wijzen', async ({ page }) => {
     await openApp(page);
     const report = await selftest(page, 'runTrainer');
@@ -115,6 +128,8 @@ test.describe('offline', () => {
     await expect(page.locator('main#view')).toContainText('Winkel en markt', { timeout: 20_000 });
     await page.evaluate(() => { location.hash = '#/zoeken/huis'; });
     await expect(page.getByRole('heading', { name: /^Woorden \(\d+/ })).toBeVisible();
+    await page.evaluate(() => { location.hash = '#/lezen/j2-p6-t2'; });
+    await expect(page.locator('.reader .tok').first()).toBeVisible();
     await context.setOffline(false);
   });
 });

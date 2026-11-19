@@ -1,0 +1,391 @@
+{
+ "id": "j1-p3-t2",
+ "titel": "De verjaardag van Salmā",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 3,
+ "naLes": "j1-p3-l36",
+ "intro": "Een verjaardag op een regenachtige winterdag, met maanden, weer, rangtelwoorden en hobby’s.",
+ "zinnen": [
+  {
+   "ar": "وُلِدَتْ أُخْتي سَلْمى في الشِّتاءِ، في شَهْرِ يَنايِرَ.",
+   "tr": "wulidat uḫtī salmā fī š-šitāʾi, fī šahri yanāyira.",
+   "nl": "Mijn zus Salmā is in de winter geboren, in de maand januari.",
+   "tokens": [
+    {
+     "t": "وُلِدَتْ",
+     "w": "j1-p1-l06-w24",
+     "g": "zij werd geboren"
+    },
+    {
+     "t": "أُخْتي",
+     "w": "j1-p1-l11-w05"
+    },
+    {
+     "t": "سَلْمى",
+     "g": "Salmā (naam)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الشِّتاءِ،",
+     "w": "j1-p3-l33-w17"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "شَهْرِ",
+     "w": "j1-p3-l33-w13"
+    },
+    {
+     "t": "يَنايِرَ.",
+     "w": "j1-p3-l33-w01"
+    }
+   ]
+  },
+  {
+   "ar": "أَمْسِ كانَ عيدُ ميلادِها الْعاشِرُ.",
+   "tr": "amsi kāna ʿīdu mīlādihā l-ʿāširu.",
+   "nl": "Gisteren was haar tiende verjaardag.",
+   "tokens": [
+    {
+     "t": "أَمْسِ",
+     "w": "j1-p2-l18-w15"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "عيدُ",
+     "w": "j1-p3-l35-w14",
+     "g": "feest; عيدُ ميلادٍ = verjaardag"
+    },
+    {
+     "t": "ميلادِها",
+     "w": "j1-p3-l35-w14",
+     "g": "haar geboorte(dag)"
+    },
+    {
+     "t": "الْعاشِرُ.",
+     "w": "j1-p3-l35-w11"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ الطَّقْسُ بارِدًا وَمُمْطِرًا، فَجَلَسْنا في الْبَيْتِ.",
+   "tr": "kāna ṭ-ṭaqsu bāridan wa-mumṭiran, fa-jalasnā fī l-bayti.",
+   "nl": "Het weer was koud en regenachtig, dus bleven we thuis zitten.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "الطَّقْسُ",
+     "w": "j1-p3-l34-w01"
+    },
+    {
+     "t": "بارِدًا",
+     "w": "j1-p2-l22-w16"
+    },
+    {
+     "t": "وَمُمْطِرًا،",
+     "w": "j1-p3-l34-w04"
+    },
+    {
+     "t": "فَجَلَسْنا",
+     "w": "j1-p3-l25-w11",
+     "g": "dus wij zaten"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْبَيْتِ.",
+     "w": "j1-p1-l04-w18"
+    }
+   ]
+  },
+  {
+   "ar": "طَبَخَتْ أُمّي طَعامًا لَذيذًا.",
+   "tr": "ṭabaḫat ummī ṭaʿāman laḏīḏan.",
+   "nl": "Mijn moeder kookte lekker eten.",
+   "tokens": [
+    {
+     "t": "طَبَخَتْ",
+     "w": "j1-p3-l25-w15",
+     "g": "zij kookte"
+    },
+    {
+     "t": "أُمّي",
+     "w": "j1-p1-l11-w03"
+    },
+    {
+     "t": "طَعامًا",
+     "w": "j1-p2-l21-w01"
+    },
+    {
+     "t": "لَذيذًا.",
+     "w": "j1-p2-l21-w25"
+    }
+   ]
+  },
+  {
+   "ar": "وَعَلى الطّاوِلَةِ كَعْكَةٌ كَبيرَةٌ وَعَشْرُ شُموعٍ.",
+   "tr": "wa-ʿalā ṭ-ṭāwilati kaʿkatun kabīratun wa-ʿašru šumūʿin.",
+   "nl": "En op tafel stonden een grote taart en tien kaarsen.",
+   "tokens": [
+    {
+     "t": "وَعَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "الطّاوِلَةِ",
+     "w": "j1-p1-l06-w05"
+    },
+    {
+     "t": "كَعْكَةٌ",
+     "w": "j1-p3-l35-w16"
+    },
+    {
+     "t": "كَبيرَةٌ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "وَعَشْرُ",
+     "w": "j1-p1-l09-w11",
+     "g": "en tien (vóór een vrouwelijk meervoud)"
+    },
+    {
+     "t": "شُموعٍ.",
+     "w": "j1-p3-l35-w17",
+     "g": "kaarsen (meervoud)"
+    }
+   ]
+  },
+  {
+   "ar": "«عيدُ ميلادٍ سَعيدٌ يا سَلْمى!»",
+   "tr": "ʿīdu mīlādin saʿīdun yā salmā!",
+   "nl": "\"Gefeliciteerd met je verjaardag, Salmā!\"",
+   "tokens": [
+    {
+     "t": "«عيدُ",
+     "w": "j1-p3-l35-w14",
+     "g": "feest; عيدُ ميلادٍ = verjaardag"
+    },
+    {
+     "t": "ميلادٍ",
+     "w": "j1-p3-l35-w14",
+     "g": "geboorte; عيدُ ميلادٍ = verjaardag"
+    },
+    {
+     "t": "سَعيدٌ",
+     "w": "j1-p1-l04-w14"
+    },
+    {
+     "t": "يا",
+     "g": "o … (aanspreking: يا سَلْمى = Salmā!)"
+    },
+    {
+     "t": "سَلْمى!»",
+     "g": "Salmā (naam)"
+    }
+   ]
+  },
+  {
+   "ar": "فَتَحَتْ سَلْمى الْهَدايا: كِتابًا وَقُبَّعَةً وَوِشاحًا أَحْمَرَ.",
+   "tr": "fataḥat salmā l-hadāyā: kitāban wa-qubbaʿatan wa-wišāḥan aḥmara.",
+   "nl": "Salmā maakte de cadeaus open: een boek, een hoed en een rode sjaal.",
+   "tokens": [
+    {
+     "t": "فَتَحَتْ",
+     "w": "j1-p3-l25-w12",
+     "g": "zij opende"
+    },
+    {
+     "t": "سَلْمى",
+     "g": "Salmā (naam)"
+    },
+    {
+     "t": "الْهَدايا:",
+     "w": "j1-p1-l08-w18",
+     "g": "de cadeaus (meervoud)"
+    },
+    {
+     "t": "كِتابًا",
+     "w": "j1-p1-l04-w19"
+    },
+    {
+     "t": "وَقُبَّعَةً",
+     "w": "j1-p3-l30-w10",
+     "g": "en een muts/hoed"
+    },
+    {
+     "t": "وَوِشاحًا",
+     "w": "j1-p3-l30-w12"
+    },
+    {
+     "t": "أَحْمَرَ.",
+     "w": "j1-p2-l16-w02"
+    }
+   ]
+  },
+  {
+   "ar": "سَلْمى تُحِبُّ الْقِراءَةَ وَالرَّسْمَ.",
+   "tr": "salmā tuḥibbu l-qirāʾata wa-r-rasma.",
+   "nl": "Salmā houdt van lezen en tekenen.",
+   "tokens": [
+    {
+     "t": "سَلْمى",
+     "g": "Salmā (naam)"
+    },
+    {
+     "t": "تُحِبُّ",
+     "w": "j1-p2-l21-w27",
+     "g": "zij houdt van"
+    },
+    {
+     "t": "الْقِراءَةَ",
+     "w": "j1-p3-l36-w02"
+    },
+    {
+     "t": "وَالرَّسْمَ.",
+     "w": "j1-p3-l36-w06"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَساءِ رَسَمَتْ صورَةً لِلْعائِلَةِ.",
+   "tr": "fī l-masāʾi rasamat ṣūratan li-l-ʿāʾilati.",
+   "nl": "’s Avonds tekende ze een plaatje voor de familie.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "رَسَمَتْ",
+     "w": "j1-p3-l26-w07",
+     "g": "zij tekende"
+    },
+    {
+     "t": "صورَةً",
+     "w": "j1-p1-l06-w16"
+    },
+    {
+     "t": "لِلْعائِلَةِ.",
+     "w": "j1-p1-l11-w01"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ يَوْمًا سَعيدًا.",
+   "tr": "kāna yawman saʿīdan.",
+   "nl": "Het was een blije dag.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "يَوْمًا",
+     "w": "j1-p2-l18-w01",
+     "g": "een dag (accusatief na كانَ)"
+    },
+    {
+     "t": "سَعيدًا.",
+     "w": "j1-p1-l04-w14"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "In welke maand is Salmā jarig?",
+   "opties": [
+    "januari",
+    "juni",
+    "maart"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في شَهْرِ يَنايِرَ} = in de maand januari."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe oud is Salmā geworden?",
+   "opties": [
+    "tien",
+    "negen",
+    "elf"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|عيدُ ميلادِها الْعاشِرُ} = haar tiende verjaardag; er staan ook tien kaarsen op de taart."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De familie ging naar buiten, want het was mooi weer. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Het was koud en regenachtig, dus bleven ze thuis: {ar|فَجَلَسْنا في الْبَيْتِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welke kleur heeft de sjaal?",
+   "opties": [
+    "rood",
+    "blauw",
+    "groen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|وِشاحًا أَحْمَرَ} = een rode sjaal."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "سَلْمى ___ الْقِراءَةَ وَالرَّسْمَ.",
+   "antwoord": [
+    "تُحِبُّ"
+   ],
+   "uitleg": "Salmā is \"zij\": {ar|تُحِبُّ} met ta-. {ar|أُحِبُّ} is \"ik houd van\".",
+   "nl": "Salmā houdt van lezen en tekenen.",
+   "woordbank": [
+    "تُحِبُّ",
+    "أُحِبُّ",
+    "يُحِبُّ"
+   ]
+  },
+  {
+   "type": "ordenen",
+   "tag": "lezen",
+   "woorden": [
+    "كانَ",
+    "الطَّقْسُ",
+    "بارِدًا"
+   ],
+   "nl": "Het weer was koud.",
+   "uitleg": "Werkwoord eerst ({ar|كانَ}), dan het onderwerp, dan het gezegde in de accusatief."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

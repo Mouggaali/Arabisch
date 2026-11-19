@@ -1,0 +1,624 @@
+{
+ "id": "j3-p9-t2",
+ "titel": "Het huis van mijn opa",
+ "soort": "verhaal",
+ "jaar": 3,
+ "periode": 9,
+ "naLes": "j3-p9-l108",
+ "intro": "Herinneringen aan de zomers op het platteland. Let op de tijdsbijzinnen ({ar|كُلَّما}, {ar|لَمّا}, {ar|ما إِنْ … حَتّى}, {ar|بَعْدَما}) en {ar|لَوْ} / {ar|يا لَيْتَ}.",
+ "zinnen": [
+  {
+   "ar": "كُلَّما شَمَمْتُ رائِحَةَ النَّعْناعِ، تَذَكَّرْتُ بَيْتَ جَدّي في الرّيفِ.",
+   "tr": "kullamā šamamtu rāʾiḥata n-naʿnāʿi, taḏakkartu bayta jaddī fī r-rīfi.",
+   "nl": "Telkens als ik de geur van munt ruik, denk ik aan het huis van mijn opa op het platteland.",
+   "tokens": [
+    {
+     "t": "كُلَّما",
+     "w": "j3-p9-l101-w03"
+    },
+    {
+     "t": "شَمَمْتُ",
+     "g": "ik rook (šamma)"
+    },
+    {
+     "t": "رائِحَةَ",
+     "w": "j3-p9-l101-w16"
+    },
+    {
+     "t": "النَّعْناعِ،",
+     "g": "de munt (plant)"
+    },
+    {
+     "t": "تَذَكَّرْتُ",
+     "w": "j2-p5-l56-w01",
+     "g": "ik herinner me (vorm V; na كُلَّما: telkens)"
+    },
+    {
+     "t": "بَيْتَ",
+     "w": "j3-p9-l101-w15",
+     "g": "het huis (van)"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الرّيفِ.",
+     "w": "j2-p6-l64-w11"
+    }
+   ]
+  },
+  {
+   "ar": "لَمّا كُنْتُ طِفْلًا، كُنْتُ أَقْضي هُناكَ الْعُطْلَةَ الصَّيْفِيَّةَ كُلَّها.",
+   "tr": "lammā kuntu ṭiflan, kuntu aqḍī hunāka l-ʿuṭlata ṣ-ṣayfiyyata kullahā.",
+   "nl": "Toen ik een kind was, bracht ik daar de hele zomervakantie door.",
+   "tokens": [
+    {
+     "t": "لَمّا",
+     "w": "j3-p9-l101-w01"
+    },
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik placht te"
+    },
+    {
+     "t": "طِفْلًا،",
+     "w": "j3-p9-l101-w09",
+     "g": "een kind (accusatief na كانَ)"
+    },
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik placht te"
+    },
+    {
+     "t": "أَقْضي",
+     "g": "ik breng door (qaḍā)"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "الْعُطْلَةَ",
+     "w": "j3-p9-l101-w14",
+     "g": "de vakantie"
+    },
+    {
+     "t": "الصَّيْفِيَّةَ",
+     "w": "j3-p9-l101-w14",
+     "g": "zomer-; الْعُطْلَةُ الصَّيْفِيَّةُ = de zomervakantie"
+    },
+    {
+     "t": "كُلَّها.",
+     "w": "j1-p4-l46-w17",
+     "g": "heel, helemaal (kull + suffix)"
+    }
+   ]
+  },
+  {
+   "ar": "ما إِنْ وَصَلْتُ حَتّى خَرَجَتْ جَدَّتي مِنَ الْمَطْبَخِ مُبْتَسِمَةً.",
+   "tr": "mā in waṣaltu ḥattā ḫarajat jaddatī mina l-maṭbaḫi mubtasimatan.",
+   "nl": "Ik was nauwelijks aangekomen of mijn oma kwam glimlachend uit de keuken.",
+   "tokens": [
+    {
+     "t": "ما",
+     "w": "j3-p9-l101-w06",
+     "g": "nauwelijks (mā in … ḥattā)"
+    },
+    {
+     "t": "إِنْ",
+     "w": "j3-p9-l101-w06",
+     "g": "nauwelijks (mā in … ḥattā)"
+    },
+    {
+     "t": "وَصَلْتُ",
+     "w": "j1-p3-l26-w01",
+     "g": "ik kwam aan"
+    },
+    {
+     "t": "حَتّى",
+     "w": "j3-p9-l101-w06",
+     "g": "of (mā in … ḥattā = nauwelijks … of)"
+    },
+    {
+     "t": "خَرَجَتْ",
+     "w": "j1-p3-l25-w09",
+     "g": "zij kwam naar buiten"
+    },
+    {
+     "t": "جَدَّتي",
+     "w": "j1-p1-l11-w09"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمَطْبَخِ",
+     "w": "j1-p2-l14-w02"
+    },
+    {
+     "t": "مُبْتَسِمَةً.",
+     "w": "j3-p9-l106-w07",
+     "g": "glimlachend (v, ḥāl)"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتْ تُعِدُّ لَنا الشّايَ بِالنَّعْناعِ وَالْخُبْزَ السّاخِنَ.",
+   "tr": "kānat tuʿiddu lanā š-šāya bi-n-naʿnāʿi wa-l-ḫubza s-sāḫina.",
+   "nl": "Ze maakte muntthee en warm brood voor ons.",
+   "tokens": [
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v); كانَتْ + muḍāriʿ = zij placht te"
+    },
+    {
+     "t": "تُعِدُّ",
+     "g": "zij maakt klaar (aʿadda)"
+    },
+    {
+     "t": "لَنا",
+     "w": "j1-p1-l10-w02",
+     "g": "voor ons"
+    },
+    {
+     "t": "الشّايَ",
+     "w": "j1-p2-l21-w05"
+    },
+    {
+     "t": "بِالنَّعْناعِ",
+     "g": "met munt; الشّايُ بِالنَّعْناعِ = muntthee"
+    },
+    {
+     "t": "وَالْخُبْزَ",
+     "w": "j1-p2-l21-w02"
+    },
+    {
+     "t": "السّاخِنَ.",
+     "w": "j1-p2-l22-w17"
+    }
+   ]
+  },
+  {
+   "ar": "طَوالَ النَّهارِ كُنّا نَلْعَبُ في الْحُقولِ مَعَ أَوْلادِ الْجيرانِ.",
+   "tr": "ṭawāla n-nahāri kunnā nalʿabu fī l-ḥuqūli maʿa awlādi l-jīrāni.",
+   "nl": "De hele dag speelden we op de velden met de kinderen van de buren.",
+   "tokens": [
+    {
+     "t": "طَوالَ",
+     "w": "j3-p9-l101-w07"
+    },
+    {
+     "t": "النَّهارِ",
+     "g": "de dag (overdag); طَوالَ النَّهارِ = de hele dag"
+    },
+    {
+     "t": "كُنّا",
+     "w": "j1-p3-l28-w01",
+     "g": "wij waren; كُنّا نَلْعَبُ = wij speelden (altijd)"
+    },
+    {
+     "t": "نَلْعَبُ",
+     "w": "j1-p2-l19-w07",
+     "g": "wij spelen"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْحُقولِ",
+     "w": "j2-p6-l66-w06"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "أَوْلادِ",
+     "w": "j1-p3-l32-w13"
+    },
+    {
+     "t": "الْجيرانِ.",
+     "w": "j1-p2-l14-w22"
+    }
+   ]
+  },
+  {
+   "ar": "وَفي الْمَساءِ كانَ جَدّي يَحْكي لَنا حِكاياتٍ عَنِ الْماضي.",
+   "tr": "wa-fī l-masāʾi kāna jaddī yaḥkī lanā ḥikāyātin ʿani l-māḍī.",
+   "nl": "En ’s avonds vertelde mijn opa ons verhalen over vroeger.",
+   "tokens": [
+    {
+     "t": "وَفي",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "يَحْكي",
+     "w": "j2-p7-l78-w18",
+     "g": "hij vertelt"
+    },
+    {
+     "t": "لَنا",
+     "w": "j1-p1-l10-w02",
+     "g": "voor ons"
+    },
+    {
+     "t": "حِكاياتٍ",
+     "w": "j2-p7-l78-w12",
+     "g": "verhalen (meervoud)"
+    },
+    {
+     "t": "عَنِ",
+     "g": "over (ʿan, ʿani vóór al-)"
+    },
+    {
+     "t": "الْماضي.",
+     "w": "j1-p4-l44-w10",
+     "g": "het verleden"
+    }
+   ]
+  },
+  {
+   "ar": "كُنْتُ أَسْتَمِعُ إِلَيْهِ صامِتًا، وَأَحْيانًا كُنْتُ أَنامُ قَبْلَ نِهايَةِ الْحِكايَةِ.",
+   "tr": "kuntu astamiʿu ilayhi ṣāmitan, wa-aḥyānan kuntu anāmu qabla nihāyati l-ḥikāyati.",
+   "nl": "Ik luisterde zwijgend naar hem, en soms viel ik in slaap voor het einde van het verhaal.",
+   "tokens": [
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik placht te"
+    },
+    {
+     "t": "أَسْتَمِعُ",
+     "w": "j2-p5-l58-w05",
+     "g": "ik luister"
+    },
+    {
+     "t": "إِلَيْهِ",
+     "w": "j2-p5-l58-w05",
+     "g": "naar hem (ilā + -hi)"
+    },
+    {
+     "t": "صامِتًا،",
+     "w": "j3-p9-l106-w04"
+    },
+    {
+     "t": "وَأَحْيانًا",
+     "w": "j1-p2-l19-w18"
+    },
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik placht te"
+    },
+    {
+     "t": "أَنامُ",
+     "w": "j2-p6-l69-w03",
+     "g": "ik slaap (in)"
+    },
+    {
+     "t": "قَبْلَ",
+     "w": "j1-p3-l25-w19"
+    },
+    {
+     "t": "نِهايَةِ",
+     "w": "j2-p7-l84-w06",
+     "g": "het einde"
+    },
+    {
+     "t": "الْحِكايَةِ.",
+     "w": "j2-p7-l78-w12"
+    }
+   ]
+  },
+  {
+   "ar": "بَعْدَما كَبِرْتُ، صِرْتُ أَزورُهُ مَرَّةً واحِدَةً في السَّنَةِ فَقَطْ.",
+   "tr": "baʿdamā kabirtu, ṣirtu azūruhu marratan wāḥidatan fī s-sanati faqaṭ.",
+   "nl": "Toen ik ouder werd, bezocht ik hem nog maar één keer per jaar.",
+   "tokens": [
+    {
+     "t": "بَعْدَما",
+     "w": "j3-p9-l101-w04"
+    },
+    {
+     "t": "كَبِرْتُ،",
+     "w": "j2-p7-l78-w16",
+     "g": "ik werd ouder, groeide op"
+    },
+    {
+     "t": "صِرْتُ",
+     "w": "j2-p6-l64-w01",
+     "g": "ik werd; صِرْتُ + muḍāriʿ = ik ging (voortaan)"
+    },
+    {
+     "t": "أَزورُهُ",
+     "w": "j1-p4-l43-w13",
+     "g": "ik bezoek hem"
+    },
+    {
+     "t": "مَرَّةً",
+     "w": "j1-p3-l35-w13"
+    },
+    {
+     "t": "واحِدَةً",
+     "w": "j1-p1-l09-w02",
+     "g": "één (v)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السَّنَةِ",
+     "w": "j1-p1-l09-w17"
+    },
+    {
+     "t": "فَقَطْ.",
+     "w": "j1-p2-l17-w16"
+    }
+   ]
+  },
+  {
+   "ar": "تُوُفِّيَ جَدّي مُنْذُ ثَلاثِ سَنَواتٍ، وَبيعَ الْبَيْتُ.",
+   "tr": "tuwuffiya jaddī munḏu ṯalāṯi sanawātin, wa-bīʿa l-baytu.",
+   "nl": "Mijn opa is drie jaar geleden overleden, en het huis is verkocht.",
+   "tokens": [
+    {
+     "t": "تُوُفِّيَ",
+     "g": "overleed (tuwuffiya)"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "مُنْذُ",
+     "w": "j1-p3-l33-w18"
+    },
+    {
+     "t": "ثَلاثِ",
+     "w": "j1-p1-l09-w04",
+     "g": "drie (vóór een vrouwelijk meervoud)"
+    },
+    {
+     "t": "سَنَواتٍ،",
+     "w": "j1-p1-l09-w17",
+     "g": "jaren"
+    },
+    {
+     "t": "وَبيعَ",
+     "w": "j1-p4-l42-w18",
+     "g": "en werd verkocht (lijdende vorm van باعَ)"
+    },
+    {
+     "t": "الْبَيْتُ.",
+     "w": "j1-p1-l04-w18"
+    }
+   ]
+  },
+  {
+   "ar": "لَوْ كانَ عِنْدي مالٌ كافٍ، لَاشْتَرَيْتُهُ.",
+   "tr": "law kāna ʿindī mālun kāfin, la-štaraytuhu.",
+   "nl": "Als ik genoeg geld had gehad, had ik het gekocht.",
+   "tokens": [
+    {
+     "t": "لَوْ",
+     "w": "j3-p9-l100-w01"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "عِنْدي",
+     "w": "j1-p1-l10-w04"
+    },
+    {
+     "t": "مالٌ",
+     "w": "j1-p1-l10-w07"
+    },
+    {
+     "t": "كافٍ،",
+     "w": "j2-p7-l82-w12",
+     "g": "voldoende"
+    },
+    {
+     "t": "لَاشْتَرَيْتُهُ.",
+     "w": "j1-p4-l42-w17",
+     "g": "dan had ik het gekocht (la- + ištaraytu + -hu)"
+    }
+   ]
+  },
+  {
+   "ar": "يا لَيْتَني قَضَيْتُ وَقْتًا أَطْوَلَ مَعَ جَدّي!",
+   "tr": "yā laytanī qaḍaytu waqtan aṭwala maʿa jaddī!",
+   "nl": "Had ik maar meer tijd met mijn opa doorgebracht!",
+   "tokens": [
+    {
+     "t": "يا",
+     "w": "j3-p9-l100-w05",
+     "g": "o (يا لَيْتَ = had ik maar)"
+    },
+    {
+     "t": "لَيْتَني",
+     "w": "j3-p9-l100-w05",
+     "g": "was ik maar, had ik maar (layta + -nī)"
+    },
+    {
+     "t": "قَضَيْتُ",
+     "g": "ik bracht door (qaḍā)"
+    },
+    {
+     "t": "وَقْتًا",
+     "w": "j1-p1-l10-w06",
+     "g": "tijd"
+    },
+    {
+     "t": "أَطْوَلَ",
+     "w": "j2-p7-l73-w05",
+     "g": "langer"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "جَدّي!",
+     "w": "j1-p1-l11-w08"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ ذِكْرَياتِ طُفولَتي ما زالَتْ حَيَّةً في قَلْبي.",
+   "tr": "lākinna ḏikrayāti ṭufūlatī mā zālat ḥayyatan fī qalbī.",
+   "nl": "Maar de herinneringen aan mijn jeugd leven nog steeds in mijn hart.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "ذِكْرَياتِ",
+     "w": "j2-p6-l64-w17",
+     "g": "de herinneringen"
+    },
+    {
+     "t": "طُفولَتي",
+     "w": "j1-p3-l28-w12",
+     "g": "mijn jeugd"
+    },
+    {
+     "t": "ما",
+     "w": "j3-p9-l101-w06",
+     "g": "nauwelijks (mā in … ḥattā)"
+    },
+    {
+     "t": "زالَتْ",
+     "w": "j2-p6-l64-w03",
+     "g": "ما زالَتْ = (zij is) nog steeds"
+    },
+    {
+     "t": "حَيَّةً",
+     "g": "levend (v)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "قَلْبي.",
+     "w": "j1-p3-l29-w20",
+     "g": "mijn hart"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welke geur doet de verteller denken aan het huis van zijn opa?",
+   "opties": [
+    "munt",
+    "brood",
+    "rozen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|كُلَّما شَمَمْتُ رائِحَةَ النَّعْناعِ} = telkens als ik de geur van munt ruik."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat deed opa ’s avonds?",
+   "opties": [
+    "hij vertelde verhalen over vroeger",
+    "hij kookte",
+    "hij werkte op het land"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|كانَ جَدّي يَحْكي لَنا حِكاياتٍ عَنِ الْماضي}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Als volwassene bezocht de verteller zijn opa elke maand. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|مَرَّةً واحِدَةً في السَّنَةِ فَقَطْ} = maar één keer per jaar."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat is er met het huis gebeurd?",
+   "opties": [
+    "het is verkocht",
+    "het is afgebrand",
+    "de verteller woont er nu"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|وَبيعَ الْبَيْتُ} = en het huis werd verkocht (lijdende vorm)."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "لَوْ كانَ عِنْدي مالٌ كافٍ، ___.",
+   "antwoord": [
+    "لَاشْتَرَيْتُهُ"
+   ],
+   "uitleg": "Irreële voorwaarde: {ar|لَوْ} …, {ar|لَـ} + māḍī in de hoofdzin.",
+   "nl": "Als ik genoeg geld had gehad, had ik het gekocht.",
+   "woordbank": [
+    "لَاشْتَرَيْتُهُ",
+    "سَأَشْتَريهِ",
+    "أَشْتَريهِ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "يا لَيْتَني قَضَيْتُ وَقْتًا أَطْوَلَ مَعَ جَدّي!",
+   "antwoorden": [
+    "had ik maar meer tijd met mijn opa doorgebracht",
+    "had ik maar langer met mijn opa doorgebracht",
+    "had ik maar meer tijd doorgebracht met mijn opa",
+    "had ik maar langere tijd met mijn opa doorgebracht",
+    "was ik maar langer bij mijn opa geweest",
+    "had ik maar meer tijd met opa doorgebracht",
+    "ik wou dat ik meer tijd met mijn opa had doorgebracht"
+   ],
+   "uitleg": "{ar|يا لَيْتَني} + māḍī = had ik maar … (spijt over het verleden).",
+   "tr": "yā laytanī qaḍaytu waqtan aṭwala maʿa jaddī"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

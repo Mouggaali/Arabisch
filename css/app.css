@@ -331,6 +331,7 @@ table.conj .tr { display: block; text-align: right; font-family: var(--sc-font-t
 /* -------------------------------------------------------------- lessen-overzicht -- */
 .year + .year { margin-top: 26px; }
 .period { margin-top: 12px; }
+.period-sub { margin: 14px 0 4px; font-size: var(--sc-t-sm); color: var(--sc-ink-soft); font-weight: 600; }
 .unit-row { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; gap: 12px; align-items: center; text-decoration: none; color: inherit; padding: 10px 10px; }
 .unit-row .code { font-family: var(--sc-font-mono); font-size: 0.8rem; color: var(--sc-ink-soft); }
 .unit-row .t { font-weight: 560; }
@@ -386,6 +387,27 @@ select.sel option { background: var(--sc-surface); color: var(--sc-ink); }
 .tag-row { display: grid; grid-template-columns: minmax(0, 1fr) 120px 48px; gap: 12px; align-items: center; padding: 9px 4px; }
 .tag-row .pct { text-align: right; font-variant-numeric: tabular-nums; font-size: var(--sc-t-sm); }
 .tag-row--date { grid-template-columns: minmax(0, 1fr) 120px auto; }
+.reader-tools { margin: 0 0 14px; }
+.lesson-head p .ar { font-size: 1.2em; line-height: 1.7; }
+.reader-tools .btn[aria-pressed="false"] { opacity: 0.6; }
+.reader-sent { padding: 10px 0; box-shadow: inset 0 -1px 0 var(--line); }
+.reader-sent:last-child { box-shadow: none; }
+.reader-row { display: flex; align-items: flex-start; gap: 10px; }
+.reader-line { flex: 1; min-width: 0; margin: 0; font-family: var(--font-ar); font-size: clamp(1.45rem, 1.25rem + 0.8vw, 1.8rem); line-height: 2.1; text-align: right; overflow-wrap: anywhere; }
+.tok { font: inherit; color: inherit; background: none; border: 0; padding: 0 2px; margin: 0; border-radius: 6px; cursor: pointer; line-height: inherit; }
+.tok--plain { cursor: default; }
+button.tok:focus-visible { outline: 2px solid var(--sc-accent); outline-offset: 1px; }
+button.tok.is-open { background: color-mix(in srgb, var(--part-woorden) 28%, transparent); }
+@media (hover: hover) and (pointer: fine) { button.tok:hover { background: color-mix(in srgb, var(--part-woorden) 16%, transparent); } }
+.reader-nl { margin: 4px 0 0; }
+.word-gloss { margin-top: 8px; }
+.word-gloss__head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.word-gloss__card { display: flex; flex-direction: column; gap: 2px; margin-top: 4px; }
+.review-row { display: flex; align-items: center; gap: 14px; padding: 10px 0; }
+.review-row__main { flex: 1; min-width: 0; }
+.review-row__label { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 6px; }
+.review-row__label .pct { font-variant-numeric: tabular-nums; font-size: var(--sc-t-sm); }
+.review-row__main .note { display: inline-block; margin-top: 6px; font-size: var(--sc-t-sm); }
 .hero-today { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 28px; align-items: center; }
 .hero-today .lens { width: 190px; }
 .hero-today .lens .big-num { font-size: 3.4rem; }

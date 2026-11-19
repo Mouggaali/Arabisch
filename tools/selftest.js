@@ -3,6 +3,8 @@
 //   await t.run(['j1-p1-l05', 'j1-p1-l06']);      // alles GOED beantwoorden: elk item moet "Goed!" geven
 //   await t.runFout(['j1-p1-l05']);                // alles FOUT beantwoorden: "Niet goed", uitleg, tag-fout, flashcard terug
 //   await t.runTrainer();                           // alle werkwoorden van de trainer: goed en fout
+//   await t.runLezen();                             // alle leesteksten: woord aantikken, vragen goed en fout
+//   await t.runHerhalen();                          // zwakke plekken oefenen: pool, ronde, mini-toets, tags bijgewerkt
 //   t.ids({ jaar: 1 }) / t.ids({ jaar: 3, periode: 12 })   // lijst met les-id's om door te geven
 // run() schrijft voortgang weg (toetsresultaten, tags). runFout() bewaart de voortgang vooraf en zet die achteraf terug.
 
@@ -227,6 +229,151 @@ export async function runTrainer() {
     }
   }
   report.push(`Werkwoorden gecontroleerd: ${werkwoorden.length}; afwijkingen: ${report.length}`);
+  console.log(report.join('\n'));
+  return report.join('\n');
+}
+
+const press = (re) => [...document.querySelectorAll('button')].find((b) => re.test(b.textContent.trim()))?.click();
+
+/** Leesteksten: elk woord heeft een vertaling, de vragen goed geven "Goed!", fout geven "Niet goed" met uitleg. */
+export async function runLezen(only) {
+  const { content } = await import('/js/core/content.js');
+  const { store } = await import('/js/core/store.js');
+  const { rich } = await import('/js/core/util.js');
+  const snapshot = store.exportJson();
+  const uitlegText = (md) => { const d = document.createElement('div'); d.innerHTML = rich(md); return squash(d.textContent); };
+  const report = [];
+  let checked = 0;
+  try {
+    const list = (await content.texts()).filter((t) => !only || only.includes(t.id));
+    for (const entry of list) {
+      const t = await content.text(entry.id);
+      await go(`#/lezen/${t.id}`);
+      if (document.body.innerText.includes('Er ging iets mis')) { report.push(`${t.id}: FOUT bij weergave`); continue; }
+      const nTok = t.zinnen.reduce((n, z) => n + z.tokens.length, 0);
+      const toks = [...document.querySelectorAll('.reader .tok')];
+      if (toks.length !== nTok) report.push(`${t.id}: ${toks.length} woorden getoond i.p.v. ${nTok}`);
+      const tap = toks.find((b) => b.dataset.w);
+      tap?.click();
+      await wait(80);
+      if (!document.querySelector('.word-gloss .word-gloss__card')) report.push(`${t.id}: aantikken van ${tap?.textContent} toont geen woordkaart`);
+      press(/^Start de vragen$|^Opnieuw$/);
+      await wait(120);
+      for (const [k, it] of t.vragen.entries()) {
+        await answer(it);
+        const title = document.querySelector('.feedback .title')?.textContent;
+        if (title !== 'Goed!') report.push(`${t.id} vraag ${k + 1} (${it.type}) goed: ${document.querySelector('.feedback')?.innerText.replace(/\n+/g, ' | ')}`);
+        btn().click();
+        await wait(80);
+      }
+      if (!/100%/.test(document.querySelector('.result-head')?.innerText || '')) report.push(`${t.id}: score niet 100%`);
+      press(/^Opnieuw$/);
+      await wait(120);
+      for (const [k, it] of t.vragen.entries()) {
+        const res = await answerWrong(it);
+        if (res.ok) {
+          checked++;
+          const fb = document.querySelector('.feedback');
+          if (fb?.querySelector('.title')?.textContent !== 'Niet goed') report.push(`${t.id} vraag ${k + 1} (${it.type}) fout gaf geen "Niet goed"`);
+          if (it.uitleg && !squash(fb?.innerText).includes(uitlegText(it.uitleg))) report.push(`${t.id} vraag ${k + 1}: uitleg ontbreekt`);
+        }
+        btn().click();
+        await wait(80);
+      }
+      if (store.state.teksten?.[t.id]?.best !== 1) report.push(`${t.id}: beste score niet bewaard`);
+    }
+    report.push(`Leesteksten gecontroleerd: ${list.length}; fout beantwoorde vragen: ${checked}; afwijkingen: ${report.length}`);
+  } finally {
+    store.importJson(snapshot);
+  }
+  console.log(report.join('\n'));
+  return report.join('\n');
+}
+
+/**
+ * Zwakke plekken oefenen: zaait voortgang (begonnen lessen en een zwakke tag), controleert de pool en
+ * speelt de ronde helemaal af (oefenvragen goed, daarna de mini-toets goed). Zet de voortgang terug.
+ */
+export async function runHerhalen(lesIds = ['j1-p1-l02', 'j1-p1-l03', 'j1-p1-l04', 'j1-p1-l05', 'j1-p1-l06', 'j1-p1-l07', 'j1-p1-l08', 'j1-p1-l10', 'j1-p1-l11', 'j1-p1-l12']) {
+  const { content } = await import('/js/core/content.js');
+  const { store } = await import('/js/core/store.js');
+  const { rich } = await import('/js/core/util.js');
+  const model = await import('/js/views/progress-model.js');
+  const { splitRound } = await import('/js/views/review.js');
+  const { typeLabel } = await import('/js/exercises/runner.js');
+  const snapshot = store.exportJson();
+  const report = [];
+  const textOf = (md) => { const d = document.createElement('div'); d.innerHTML = rich(md); return squash(d.textContent); };
+  try {
+    store.reset();
+    const lessons = await Promise.all(lesIds.map((id) => content.lesson(id)));
+    lessons.forEach((l) => store.markPart(l.id, 'woorden'));
+    // De tag die de grootste pool oplevert (hooguit 3 items per les) wordt zwak gemaakt.
+    const count = {};
+    lessons.forEach((l) => {
+      const per = {};
+      l.oefeningen.flatMap((s) => s.items).forEach((it) => { if (it.type !== 'schrijven') per[it.tag] = (per[it.tag] || 0) + 1; });
+      Object.entries(per).forEach(([tg, n]) => { count[tg] = (count[tg] || 0) + Math.min(3, n); });
+    });
+    const tag = Object.entries(count).sort((a, b) => b[1] - a[1])[0][0];
+    for (let i = 0; i < 6; i++) store.recordAnswer(null, tag, i === 0);
+    if (!model.weakTags().some((t) => t.tag === tag)) report.push(`weakTags bevat ${tag} niet`);
+
+    const pool = model.weakItemPool(lessons, [tag]);
+    if (pool.some((it) => it.tag !== tag)) report.push('pool bevat items met een andere tag');
+    if (pool.some((it) => it.type === 'schrijven')) report.push('pool bevat schrijfopdrachten');
+    if (pool.some((it) => !it._lesId || !it._dialect)) report.push('pool-item zonder _lesId of _dialect');
+    const perLes = {};
+    pool.forEach((it) => { perLes[it._lesId] = (perLes[it._lesId] || 0) + 1; });
+    if (Object.values(perLes).some((n) => n > 3)) report.push('meer dan 3 items uit één les');
+    const split = splitRound(pool);
+    if (pool.length >= 15 && (split.oefen.length !== 10 || split.toets.length !== 5)) report.push(`ronde ${split.oefen.length} + ${split.toets.length} i.p.v. 10 + 5`);
+
+    // Alle kandidaten, om het getoonde item te herkennen aan de vraagtekst.
+    const all = lessons.flatMap((l) => l.oefeningen.flatMap((s) => s.items)).filter((it) => it.tag === tag && it.type !== 'schrijven');
+    const finger = (it) => [it.vraag, it.bron, it.nl, it.instructie, it.zin && it.zin.split('___')[0], ...(it.paren || []).map((p) => p.nl), ...(it.opties || [])]
+      .filter(Boolean).map(textOf);
+    const current = () => {
+      const shown = squash(document.querySelector('.ex-progress')?.parentElement?.innerText);
+      const label = document.querySelector('.ex-type')?.textContent;
+      const fits = all.filter((it) => typeLabel(it) === label && finger(it).every((f) => shown.includes(f)));
+      const size = (it) => finger(it).join('').length;
+      return fits.sort((a, b) => size(b) - size(a))[0];
+    };
+    await go('#/herhalen');
+    if (!document.querySelector(`a[href="#/herhalen/${encodeURIComponent(tag)}"]`)) report.push('overzicht toont geen knop voor de zwakke tag');
+    await go(`#/herhalen/${encodeURIComponent(tag)}`);
+    await wait(300);
+    const nOefen = Number(document.querySelector('.ex-progress span')?.textContent.split('/')[1]) || 0;
+    if (!nOefen) report.push('geen oefenronde gestart');
+    let goed = 0;
+    for (let k = 0; k < nOefen; k++) {
+      const it = current();
+      if (!it) { report.push(`oefenvraag ${k + 1}: item niet herkend`); break; }
+      await answer(it);
+      if (document.querySelector('.feedback .title')?.textContent === 'Goed!') goed++;
+      else report.push(`oefenvraag ${k + 1} (${it.type}): niet goed gerekend`);
+      btn().click();
+      await wait(80);
+    }
+    press(/^Start de toets$|^Bekijk de uitslag$/);
+    await wait(150);
+    const nToets = document.querySelector('.ex-actions') ? Number(document.querySelector('.ex-progress span')?.textContent.split('/')[1]) || 0 : 0;
+    for (let k = 0; k < nToets; k++) {
+      const it = current();
+      if (!it) { report.push(`toetsvraag ${k + 1}: item niet herkend`); break; }
+      await answer(it);
+    }
+    await wait(200);
+    const page = document.querySelector('main#view').innerText;
+    if (!/Voor en na deze ronde/.test(page)) report.push('uitslag met voor en na ontbreekt');
+    if (nToets && !/100%/.test(document.querySelector('.result-head')?.innerText || '')) report.push('mini-toets niet 100%');
+    const laatste = store.state.tags[tag].laatste;
+    if (!/1{5}$/.test(laatste)) report.push(`tag ${tag}: laatste antwoorden ${laatste} (verwacht eindigend op 11111)`);
+    report.push(`Herhalen: tag ${tag}, pool ${pool.length}, ronde ${nOefen} + ${nToets}, goed ${goed}; afwijkingen: ${report.length}`);
+  } finally {
+    store.importJson(snapshot);
+  }
   console.log(report.join('\n'));
   return report.join('\n');
 }

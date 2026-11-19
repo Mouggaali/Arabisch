@@ -1,0 +1,501 @@
+{
+ "id": "j2-p5-t1",
+ "titel": "Mijn eerste tajine",
+ "soort": "verhaal",
+ "jaar": 2,
+ "periode": 5,
+ "naLes": "j2-p5-l52",
+ "intro": "Ḫālid kookt voor het eerst een tajine. Let op {ar|أَنْ} + manṣūb, {ar|لَمْ} + majzūm en {ar|سَـ} voor de toekomst.",
+ "zinnen": [
+  {
+   "ar": "قَرَّرْتُ أَنْ أَطْبُخَ طاجينًا لِأَصْدِقائي يَوْمَ السَّبْتِ.",
+   "tr": "qarrartu an aṭbuḫa ṭājīnan li-aṣdiqāʾī yawma s-sabti.",
+   "nl": "Ik besloot zaterdag een tajine te koken voor mijn vrienden.",
+   "tokens": [
+    {
+     "t": "قَرَّرْتُ",
+     "w": "j2-p5-l50-w02",
+     "g": "ik besloot"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "أَطْبُخَ",
+     "w": "j1-p2-l20-w01",
+     "g": "(dat) ik kook: manṣūb na أَنْ"
+    },
+    {
+     "t": "طاجينًا",
+     "w": "j2-p5-l52-w16"
+    },
+    {
+     "t": "لِأَصْدِقائي",
+     "w": "j1-p1-l05-w11",
+     "g": "voor mijn vrienden"
+    },
+    {
+     "t": "يَوْمَ",
+     "w": "j1-p2-l18-w01"
+    },
+    {
+     "t": "السَّبْتِ.",
+     "w": "j1-p2-l18-w09"
+    }
+   ]
+  },
+  {
+   "ar": "لَمْ أَطْبُخْ طاجينًا مِنْ قَبْلُ، فَاتَّصَلْتُ بِأُمّي.",
+   "tr": "lam aṭbuḫ ṭājīnan min qablu, fa-ttaṣaltu bi-ummī.",
+   "nl": "Ik had nog nooit een tajine gekookt, dus ik belde mijn moeder.",
+   "tokens": [
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "أَطْبُخْ",
+     "w": "j1-p2-l20-w01",
+     "g": "ik kook: majzūm na لَمْ (lam aṭbuḫ = ik heb niet gekookt)"
+    },
+    {
+     "t": "طاجينًا",
+     "w": "j2-p5-l52-w16"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "قَبْلُ،",
+     "w": "j1-p3-l25-w19",
+     "g": "eerder; مِنْ قَبْلُ = ooit eerder"
+    },
+    {
+     "t": "فَاتَّصَلْتُ",
+     "w": "j1-p4-l37-w17",
+     "g": "dus ik belde"
+    },
+    {
+     "t": "بِأُمّي.",
+     "w": "j1-p1-l11-w03"
+    }
+   ]
+  },
+  {
+   "ar": "شَرَحَتْ لي أُمّي الْوَصْفَةَ: «هٰذا سَهْلٌ، لا تَقْلَقْ!»",
+   "tr": "šaraḥat lī ummī l-waṣfata: «hāḏā sahlun, lā taqlaq!»",
+   "nl": "Mijn moeder legde me het recept uit: \"Dit is makkelijk, maak je geen zorgen!\"",
+   "tokens": [
+    {
+     "t": "شَرَحَتْ",
+     "w": "j1-p3-l27-w15",
+     "g": "zij legde uit"
+    },
+    {
+     "t": "لي",
+     "w": "j1-p1-l10-w02",
+     "g": "aan mij (li + -ī)"
+    },
+    {
+     "t": "أُمّي",
+     "w": "j1-p1-l11-w03"
+    },
+    {
+     "t": "الْوَصْفَةَ:",
+     "w": "j2-p5-l52-w01"
+    },
+    {
+     "t": "«هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "سَهْلٌ،",
+     "w": "j1-p3-l27-w18"
+    },
+    {
+     "t": "لا",
+     "w": "j2-p5-l51-w15",
+     "g": "niet (verbod: لا + majzūm)"
+    },
+    {
+     "t": "تَقْلَقْ!»",
+     "w": "j2-p5-l51-w15",
+     "g": "maak je zorgen (majzūm); لا تَقْلَقْ = maak je geen zorgen"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْمُكَوِّناتُ: دَجاجٌ وَبَصَلٌ وَثومٌ وَزَيْتُ الزَّيْتونِ وَبَهاراتٌ.",
+   "tr": "al-mukawwinātu: dajājun wa-baṣalun wa-ṯūmun wa-zaytu z-zaytūni wa-bahārātun.",
+   "nl": "De ingrediënten: kip, uien, knoflook, olijfolie en specerijen.",
+   "tokens": [
+    {
+     "t": "اَلْمُكَوِّناتُ:",
+     "w": "j2-p5-l52-w02"
+    },
+    {
+     "t": "دَجاجٌ",
+     "w": "j1-p2-l21-w09"
+    },
+    {
+     "t": "وَبَصَلٌ",
+     "w": "j1-p4-l42-w13"
+    },
+    {
+     "t": "وَثومٌ",
+     "w": "j2-p5-l52-w03"
+    },
+    {
+     "t": "وَزَيْتُ",
+     "w": "j1-p4-l42-w15"
+    },
+    {
+     "t": "الزَّيْتونِ",
+     "w": "j2-p5-l52-w05",
+     "g": "de olijven; زَيْتُ الزَّيْتونِ = olijfolie"
+    },
+    {
+     "t": "وَبَهاراتٌ.",
+     "w": "j2-p5-l52-w20"
+    }
+   ]
+  },
+  {
+   "ar": "أَوَّلًا قَطَعْتُ الْبَصَلَ قِطَعًا صَغيرَةً.",
+   "tr": "awwalan qaṭaʿtu l-baṣala qiṭaʿan ṣaġīratan.",
+   "nl": "Eerst sneed ik de uien in kleine stukjes.",
+   "tokens": [
+    {
+     "t": "أَوَّلًا",
+     "w": "j1-p4-l48-w17"
+    },
+    {
+     "t": "قَطَعْتُ",
+     "w": "j2-p5-l52-w10",
+     "g": "ik sneed"
+    },
+    {
+     "t": "الْبَصَلَ",
+     "w": "j1-p4-l42-w13"
+    },
+    {
+     "t": "قِطَعًا",
+     "w": "j2-p5-l52-w13",
+     "g": "stukken; قِطَعًا صَغيرَةً = in kleine stukjes"
+    },
+    {
+     "t": "صَغيرَةً.",
+     "w": "j1-p1-l04-w08"
+    }
+   ]
+  },
+  {
+   "ar": "ثُمَّ سَكَبْتُ الزَّيْتَ في الْقِدْرِ وَخَلَطْتُ الدَّجاجَ مَعَ الْبَصَلِ وَالْبَهاراتِ.",
+   "tr": "ṯumma sakabtu z-zayta fī l-qidri wa-ḫalaṭtu d-dajāja maʿa l-baṣali wa-l-bahārāti.",
+   "nl": "Daarna goot ik de olie in de pan en mengde ik de kip met de uien en de specerijen.",
+   "tokens": [
+    {
+     "t": "ثُمَّ",
+     "w": "j1-p3-l25-w20"
+    },
+    {
+     "t": "سَكَبْتُ",
+     "w": "j2-p5-l52-w12",
+     "g": "ik goot"
+    },
+    {
+     "t": "الزَّيْتَ",
+     "w": "j1-p4-l42-w15"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْقِدْرِ",
+     "w": "j2-p5-l52-w06",
+     "g": "de kookpan"
+    },
+    {
+     "t": "وَخَلَطْتُ",
+     "w": "j2-p5-l52-w11",
+     "g": "en ik mengde"
+    },
+    {
+     "t": "الدَّجاجَ",
+     "w": "j1-p2-l21-w09"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "الْبَصَلِ",
+     "w": "j1-p4-l42-w13"
+    },
+    {
+     "t": "وَالْبَهاراتِ.",
+     "w": "j2-p5-l52-w20"
+    }
+   ]
+  },
+  {
+   "ar": "طَبَخْتُ الطّاجينَ عَلى نارٍ هادِئَةٍ ساعَتَيْنِ.",
+   "tr": "ṭabaḫtu ṭ-ṭājīna ʿalā nārin hādiʾatin sāʿatayni.",
+   "nl": "Ik kookte de tajine twee uur op laag vuur.",
+   "tokens": [
+    {
+     "t": "طَبَخْتُ",
+     "w": "j1-p3-l25-w15",
+     "g": "ik kookte"
+    },
+    {
+     "t": "الطّاجينَ",
+     "w": "j2-p5-l52-w16"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "نارٍ",
+     "w": "j2-p5-l52-w14",
+     "g": "vuur; عَلى نارٍ هادِئَةٍ = op laag vuur"
+    },
+    {
+     "t": "هادِئَةٍ",
+     "w": "j1-p1-l07-w04"
+    },
+    {
+     "t": "ساعَتَيْنِ.",
+     "w": "j1-p1-l06-w15",
+     "g": "twee uur (dualis)"
+    }
+   ]
+  },
+  {
+   "ar": "حاوَلْتُ أَنْ أُرَتِّبَ الْمَطْبَخَ، لٰكِنّي لَمْ أُنْهِ كُلَّ شَيْءٍ.",
+   "tr": "ḥāwaltu an urattiba l-maṭbaḫa, lākinnī lam unhi kulla šayʾin.",
+   "nl": "Ik probeerde de keuken op te ruimen, maar ik kreeg niet alles af.",
+   "tokens": [
+    {
+     "t": "حاوَلْتُ",
+     "w": "j2-p5-l50-w01",
+     "g": "ik probeerde"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "أُرَتِّبَ",
+     "w": "j2-p5-l51-w08",
+     "g": "(dat) ik opruim: manṣūb na أَنْ"
+    },
+    {
+     "t": "الْمَطْبَخَ،",
+     "w": "j1-p2-l14-w02"
+    },
+    {
+     "t": "لٰكِنّي",
+     "w": "j1-p1-l12-w02",
+     "g": "maar ik (lākinna + -nī)"
+    },
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "أُنْهِ",
+     "w": "j2-p5-l51-w12",
+     "g": "ik maak af: majzūm na لَمْ (de lange ī valt weg)"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "شَيْءٍ.",
+     "w": "j1-p1-l08-w19"
+    }
+   ]
+  },
+  {
+   "ar": "وَصَلَ أَصْدِقائي في السّاعَةِ الثّامِنَةِ.",
+   "tr": "waṣala aṣdiqāʾī fī s-sāʿati ṯ-ṯāminati.",
+   "nl": "Mijn vrienden kwamen om acht uur aan.",
+   "tokens": [
+    {
+     "t": "وَصَلَ",
+     "w": "j1-p3-l26-w01"
+    },
+    {
+     "t": "أَصْدِقائي",
+     "w": "j1-p1-l05-w11",
+     "g": "mijn vrienden"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "الثّامِنَةِ.",
+     "w": "j1-p2-l23-w09"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ الطَّعامُ لَذيذًا، وَأَكَلْنا كُلَّ شَيْءٍ!",
+   "tr": "kāna ṭ-ṭaʿāmu laḏīḏan, wa-akalnā kulla šayʾin!",
+   "nl": "Het eten was lekker, en we hebben alles opgegeten!",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "الطَّعامُ",
+     "w": "j1-p2-l21-w01"
+    },
+    {
+     "t": "لَذيذًا،",
+     "w": "j1-p2-l21-w25"
+    },
+    {
+     "t": "وَأَكَلْنا",
+     "w": "j1-p3-l25-w05",
+     "g": "en wij aten"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "شَيْءٍ!",
+     "w": "j1-p1-l08-w19"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَرَّةِ الْقادِمَةِ سَأَطْبُخُ الْكُسْكُسَ.",
+   "tr": "fī l-marrati l-qādimati sa-aṭbuḫu l-kuskusa.",
+   "nl": "De volgende keer kook ik couscous.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَرَّةِ",
+     "w": "j1-p3-l35-w13"
+    },
+    {
+     "t": "الْقادِمَةِ",
+     "w": "j1-p3-l33-w21",
+     "g": "volgende (v)"
+    },
+    {
+     "t": "سَأَطْبُخُ",
+     "w": "j1-p2-l20-w01",
+     "g": "ik zal koken (sa- = toekomst)"
+    },
+    {
+     "t": "الْكُسْكُسَ.",
+     "w": "j2-p5-l52-w17"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarom belde Ḫālid zijn moeder?",
+   "opties": [
+    "hij had nog nooit een tajine gekookt",
+    "hij was ziek",
+    "hij miste haar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|لَمْ أَطْبُخْ طاجينًا مِنْ قَبْلُ} = ik had nog nooit een tajine gekookt."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe lang kookte de tajine?",
+   "opties": [
+    "twee uur",
+    "een uur",
+    "een half uur"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|ساعَتَيْنِ} is een dualis: twee uur."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De keuken was daarna helemaal opgeruimd. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|لَمْ أُنْهِ كُلَّ شَيْءٍ} = ik kreeg niet alles af."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat kookt Ḫālid de volgende keer?",
+   "opties": [
+    "couscous",
+    "soep",
+    "vis"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|سَأَطْبُخُ الْكُسْكُسَ}: سَـ maakt van de muḍāriʿ een toekomst."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "لَمْ ___ طاجينًا مِنْ قَبْلُ.",
+   "antwoord": [
+    "أَطْبُخْ"
+   ],
+   "uitleg": "Na {ar|لَمْ} komt de majzūm: {ar|أَطْبُخْ} met sukūn.",
+   "nl": "Ik had nog nooit een tajine gekookt.",
+   "woordbank": [
+    "أَطْبُخْ",
+    "طَبَخْتُ",
+    "سَأَطْبُخُ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "كانَ الطَّعامُ لَذيذًا.",
+   "antwoorden": [
+    "het eten was lekker",
+    "het eten was heerlijk",
+    "het voedsel was lekker",
+    "het voedsel was heerlijk",
+    "het eten smaakte lekker"
+   ],
+   "uitleg": "Na {ar|كانَ} staat het gezegde in de accusatief: {ar|لَذيذًا}.",
+   "tr": "kāna ṭ-ṭaʿāmu laḏīḏan"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

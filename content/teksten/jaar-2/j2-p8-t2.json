@@ -1,0 +1,579 @@
+{
+ "id": "j2-p8-t2",
+ "titel": "Presentatie: mijn stad Rotterdam",
+ "soort": "artikel",
+ "jaar": 2,
+ "periode": 8,
+ "naLes": "j2-p8-l96",
+ "intro": "De tekst van een korte presentatie, opgebouwd met {ar|أَوَّلًا}, {ar|ثانِيًا}, {ar|بِالْإِضافَةِ إِلى ذٰلِكَ} en {ar|في الْخِتامِ}.",
+ "zinnen": [
+  {
+   "ar": "صَباحَ الْخَيْرِ جَميعًا. سَأَتَحَدَّثُ الْيَوْمَ عَنْ مَدينَتي روتِرْدامَ.",
+   "tr": "ṣabāḥa l-ḫayri jamīʿan. sa-ataḥaddaṯu l-yawma ʿan madīnatī rūtirdāma.",
+   "nl": "Goedemorgen allemaal. Vandaag vertel ik over mijn stad Rotterdam.",
+   "tokens": [
+    {
+     "t": "صَباحَ",
+     "w": "j1-p1-l01-w06",
+     "g": "ochtend; صَباحَ الْخَيْرِ = goedemorgen"
+    },
+    {
+     "t": "الْخَيْرِ",
+     "w": "j1-p1-l01-w06",
+     "g": "het goede; صَباحَ الْخَيْرِ = goedemorgen"
+    },
+    {
+     "t": "جَميعًا.",
+     "w": "j1-p3-l26-w18"
+    },
+    {
+     "t": "سَأَتَحَدَّثُ",
+     "w": "j2-p8-l96-w02",
+     "g": "ik ga vertellen, ik zal spreken"
+    },
+    {
+     "t": "الْيَوْمَ",
+     "w": "j1-p1-l12-w17"
+    },
+    {
+     "t": "عَنْ",
+     "w": "j2-p8-l96-w02",
+     "g": "over (ʿan)"
+    },
+    {
+     "t": "مَدينَتي",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "روتِرْدامَ.",
+     "g": "Rotterdam"
+    }
+   ]
+  },
+  {
+   "ar": "تَقَعُ روتِرْدامُ في غَرْبِ هولَنْدا، عَلى نَهْرٍ كَبيرٍ.",
+   "tr": "taqaʿu rūtirdāmu fī ġarbi hūlandā, ʿalā nahrin kabīrin.",
+   "nl": "Rotterdam ligt in het westen van Nederland, aan een grote rivier.",
+   "tokens": [
+    {
+     "t": "تَقَعُ",
+     "w": "j2-p6-l62-w09",
+     "g": "ligt (v)"
+    },
+    {
+     "t": "روتِرْدامُ",
+     "g": "Rotterdam"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "غَرْبِ",
+     "w": "j2-p6-l62-w08",
+     "g": "het westen (ġarb)"
+    },
+    {
+     "t": "هولَنْدا،",
+     "w": "j1-p1-l03-w06"
+    },
+    {
+     "t": "عَلى",
+     "w": "j2-p8-l96-w12",
+     "g": "voor (na شُكْرًا)"
+    },
+    {
+     "t": "نَهْرٍ",
+     "w": "j1-p3-l28-w15"
+    },
+    {
+     "t": "كَبيرٍ.",
+     "w": "j1-p1-l04-w07"
+    }
+   ]
+  },
+  {
+   "ar": "عَدَدُ سُكّانِها حَوالَيْ سِتِّمِئَةِ أَلْفِ نَسَمَةٍ.",
+   "tr": "ʿadadu sukkānihā ḥawālay sittimiʾati alfi nasamatin.",
+   "nl": "Ze heeft ongeveer zeshonderdduizend inwoners.",
+   "tokens": [
+    {
+     "t": "عَدَدُ",
+     "w": "j2-p8-l96-w06",
+     "g": "aantal; عَدَدُ السُّكّانِ = inwonertal"
+    },
+    {
+     "t": "سُكّانِها",
+     "w": "j2-p8-l96-w06",
+     "g": "haar inwoners"
+    },
+    {
+     "t": "حَوالَيْ",
+     "w": "j1-p4-l39-w17",
+     "g": "ongeveer"
+    },
+    {
+     "t": "سِتِّمِئَةِ",
+     "w": "j1-p1-l09-w07",
+     "g": "zeshonderd"
+    },
+    {
+     "t": "أَلْفِ",
+     "w": "j1-p4-l41-w05",
+     "g": "duizend"
+    },
+    {
+     "t": "نَسَمَةٍ.",
+     "g": "inwoner (nasama, bij bevolkingscijfers)"
+    }
+   ]
+  },
+  {
+   "ar": "أَوَّلًا، روتِرْدامُ مَشْهورَةٌ بِمينائِها التِّجارِيِّ، وَهُوَ مِنْ أَكْبَرِ الْمَوانِئِ في الْعالَمِ.",
+   "tr": "awwalan, rūtirdāmu mašhūratun bi-mīnāʾihā t-tijāriyyi, wa-huwa min akbari l-mawāniʾi fī l-ʿālami.",
+   "nl": "Ten eerste is Rotterdam beroemd om zijn handelshaven, een van de grootste havens ter wereld.",
+   "tokens": [
+    {
+     "t": "أَوَّلًا،",
+     "w": "j1-p4-l48-w17"
+    },
+    {
+     "t": "روتِرْدامُ",
+     "g": "Rotterdam"
+    },
+    {
+     "t": "مَشْهورَةٌ",
+     "w": "j2-p7-l73-w08",
+     "g": "beroemd (om)"
+    },
+    {
+     "t": "بِمينائِها",
+     "w": "j2-p8-l96-w10",
+     "g": "om haar haven"
+    },
+    {
+     "t": "التِّجارِيِّ،",
+     "w": "j2-p8-l96-w10",
+     "g": "handels-; ميناءٌ تِجارِيٌّ = handelshaven"
+    },
+    {
+     "t": "وَهُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَكْبَرِ",
+     "w": "j1-p3-l30-w23",
+     "g": "de grootste (min akbari … = een van de grootste)"
+    },
+    {
+     "t": "الْمَوانِئِ",
+     "w": "j1-p4-l38-w09",
+     "g": "de havens (meervoud)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْعالَمِ.",
+     "w": "j2-p7-l73-w15",
+     "g": "de wereld"
+    }
+   ]
+  },
+  {
+   "ar": "ثانِيًا، تَتَمَيَّزُ الْمَدينَةُ بِناطِحاتِ السَّحابِ وَالْجُسورِ الْعَصْرِيَّةِ.",
+   "tr": "ṯāniyan, tatamayyazu l-madīnatu bi-nāṭiḥāti s-saḥābi wa-l-jusūri l-ʿaṣriyyati.",
+   "nl": "Ten tweede valt de stad op door haar wolkenkrabbers en moderne bruggen.",
+   "tokens": [
+    {
+     "t": "ثانِيًا،",
+     "w": "j2-p8-l95-w02"
+    },
+    {
+     "t": "تَتَمَيَّزُ",
+     "w": "j2-p8-l96-w05",
+     "g": "onderscheidt zich (door)"
+    },
+    {
+     "t": "الْمَدينَةُ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "بِناطِحاتِ",
+     "w": "j2-p7-l73-w11",
+     "g": "door wolkenkrabbers"
+    },
+    {
+     "t": "السَّحابِ",
+     "w": "j2-p7-l73-w11",
+     "g": "de wolken; ناطِحَةُ سَحابٍ = wolkenkrabber"
+    },
+    {
+     "t": "وَالْجُسورِ",
+     "w": "j1-p4-l39-w02",
+     "g": "en de bruggen (meervoud)"
+    },
+    {
+     "t": "الْعَصْرِيَّةِ.",
+     "w": "j2-p6-l64-w15",
+     "g": "moderne (v)"
+    }
+   ]
+  },
+  {
+   "ar": "أَشْهَرُ جِسْرٍ في الْمَدينَةِ اسْمُهُ «جِسْرُ إيراسْموس».",
+   "tr": "ašharu jisrin fī l-madīnati smuhu «jisru īrāsmūs».",
+   "nl": "De bekendste brug in de stad heet de \"Erasmusbrug\".",
+   "tokens": [
+    {
+     "t": "أَشْهَرُ",
+     "w": "j2-p7-l73-w04",
+     "g": "de bekendste (ašharu + onbepaald naamwoord)"
+    },
+    {
+     "t": "جِسْرٍ",
+     "w": "j1-p4-l39-w02"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَدينَةِ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "اسْمُهُ",
+     "w": "j1-p1-l02-w06",
+     "g": "zijn naam"
+    },
+    {
+     "t": "«جِسْرُ",
+     "w": "j1-p4-l39-w02",
+     "g": "brug"
+    },
+    {
+     "t": "إيراسْموس».",
+     "g": "Erasmus"
+    }
+   ]
+  },
+  {
+   "ar": "بِالْإِضافَةِ إِلى ذٰلِكَ، في روتِرْدامَ مَتاحِفُ كَثيرَةٌ وَمَراكِزُ تِجارِيَّةٌ وَحَياةٌ لَيْلِيَّةٌ نَشيطَةٌ.",
+   "tr": "bi-l-iḍāfati ilā ḏālika, fī rūtirdāma matāḥifu kaṯīratun wa-marākizu tijāriyyatun wa-ḥayātun layliyyatun našīṭatun.",
+   "nl": "Daarnaast heeft Rotterdam veel musea, winkelcentra en een levendig uitgaansleven.",
+   "tokens": [
+    {
+     "t": "بِالْإِضافَةِ",
+     "w": "j2-p8-l95-w06",
+     "g": "bovendien; بِالْإِضافَةِ إِلى ذٰلِكَ = daarnaast"
+    },
+    {
+     "t": "إِلى",
+     "w": "j2-p8-l95-w06",
+     "g": "naar; hier: بِالْإِضافَةِ إِلى = naast, bovendien"
+    },
+    {
+     "t": "ذٰلِكَ،",
+     "w": "j1-p1-l08-w03"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "روتِرْدامَ",
+     "g": "Rotterdam"
+    },
+    {
+     "t": "مَتاحِفُ",
+     "w": "j1-p3-l26-w14",
+     "g": "musea (meervoud)"
+    },
+    {
+     "t": "كَثيرَةٌ",
+     "w": "j1-p1-l10-w20"
+    },
+    {
+     "t": "وَمَراكِزُ",
+     "w": "j2-p8-l96-w07",
+     "g": "en centra (meervoud)"
+    },
+    {
+     "t": "تِجارِيَّةٌ",
+     "w": "j2-p8-l96-w07",
+     "g": "handels-; مَرْكَزٌ تِجارِيٌّ = winkelcentrum"
+    },
+    {
+     "t": "وَحَياةٌ",
+     "w": "j2-p8-l96-w08",
+     "g": "en leven"
+    },
+    {
+     "t": "لَيْلِيَّةٌ",
+     "w": "j2-p8-l96-w08",
+     "g": "nachtelijk; حَياةٌ لَيْلِيَّةٌ = uitgaansleven"
+    },
+    {
+     "t": "نَشيطَةٌ.",
+     "w": "j1-p4-l47-w30"
+    }
+   ]
+  },
+  {
+   "ar": "سُكّانُ الْمَدينَةِ مُتَنَوِّعونَ، فَهُمْ مِنْ أَكْثَرَ مِنْ مِئَةٍ وَسَبْعينَ جِنْسِيَّةً.",
+   "tr": "sukkānu l-madīnati mutanawwiʿūna, fa-hum min akṯara min miʾatin wa-sabʿīna jinsiyyatan.",
+   "nl": "De inwoners zijn divers: ze hebben meer dan honderdzeventig nationaliteiten.",
+   "tokens": [
+    {
+     "t": "سُكّانُ",
+     "w": "j1-p4-l41-w11"
+    },
+    {
+     "t": "الْمَدينَةِ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "مُتَنَوِّعونَ،",
+     "w": "j2-p8-l87-w14",
+     "g": "divers (m mv)"
+    },
+    {
+     "t": "فَهُمْ",
+     "w": "j1-p1-l05-w04",
+     "g": "want zij"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَكْثَرَ",
+     "w": "j1-p4-l45-w14"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "مِئَةٍ",
+     "w": "j1-p2-l17-w08"
+    },
+    {
+     "t": "وَسَبْعينَ",
+     "w": "j1-p2-l17-w05",
+     "g": "en zeventig"
+    },
+    {
+     "t": "جِنْسِيَّةً.",
+     "w": "j1-p2-l24-w09",
+     "g": "nationaliteit (accusatief na een getal)"
+    }
+   ]
+  },
+  {
+   "ar": "لِلْأَسَفِ، الطَّقْسُ مُمْطِرٌ كَثيرًا، وَالرّيحُ قَوِيَّةٌ.",
+   "tr": "li-l-asafi, ṭ-ṭaqsu mumṭirun kaṯīran, wa-r-rīḥu qawiyyatun.",
+   "nl": "Helaas regent het vaak en is de wind sterk.",
+   "tokens": [
+    {
+     "t": "لِلْأَسَفِ،",
+     "w": "j2-p8-l92-w09"
+    },
+    {
+     "t": "الطَّقْسُ",
+     "w": "j1-p3-l34-w01"
+    },
+    {
+     "t": "مُمْطِرٌ",
+     "w": "j1-p3-l34-w04"
+    },
+    {
+     "t": "كَثيرًا،",
+     "w": "j1-p2-l19-w20"
+    },
+    {
+     "t": "وَالرّيحُ",
+     "w": "j1-p3-l34-w07"
+    },
+    {
+     "t": "قَوِيَّةٌ.",
+     "w": "j1-p1-l07-w08",
+     "g": "sterk (v)"
+    }
+   ]
+  },
+  {
+   "ar": "أَنْصَحُكُمْ بِزِيارَةِ الْمَدينَةِ في الرَّبيعِ أَوِ الصَّيْفِ.",
+   "tr": "anṣaḥukum bi-ziyārati l-madīnati fī r-rabīʿi awi ṣ-ṣayfi.",
+   "nl": "Ik raad jullie aan de stad in de lente of de zomer te bezoeken.",
+   "tokens": [
+    {
+     "t": "أَنْصَحُكُمْ",
+     "w": "j2-p8-l96-w11",
+     "g": "ik raad jullie aan"
+    },
+    {
+     "t": "بِزِيارَةِ",
+     "w": "j1-p4-l43-w13",
+     "g": "een bezoek (ziyāra) aan"
+    },
+    {
+     "t": "الْمَدينَةِ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الرَّبيعِ",
+     "w": "j1-p3-l33-w15"
+    },
+    {
+     "t": "أَوِ",
+     "w": "j1-p4-l47-w13",
+     "g": "of"
+    },
+    {
+     "t": "الصَّيْفِ.",
+     "w": "j1-p3-l28-w20"
+    }
+   ]
+  },
+  {
+   "ar": "في الْخِتامِ، روتِرْدامُ مَدينَةٌ عَصْرِيَّةٌ وَمُتَنَوِّعَةٌ. شُكْرًا عَلى انْتِباهِكُمْ!",
+   "tr": "fī l-ḫitāmi, rūtirdāmu madīnatun ʿaṣriyyatun wa-mutanawwiʿatun. šukran ʿalā ntibāhikum!",
+   "nl": "Tot slot: Rotterdam is een moderne en diverse stad. Bedankt voor jullie aandacht!",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْخِتامِ،",
+     "w": "j2-p8-l95-w08",
+     "g": "het slot; في الْخِتامِ = tot slot"
+    },
+    {
+     "t": "روتِرْدامُ",
+     "g": "Rotterdam"
+    },
+    {
+     "t": "مَدينَةٌ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "عَصْرِيَّةٌ",
+     "w": "j2-p6-l64-w15",
+     "g": "modern (v)"
+    },
+    {
+     "t": "وَمُتَنَوِّعَةٌ.",
+     "w": "j2-p8-l87-w14",
+     "g": "en divers (v)"
+    },
+    {
+     "t": "شُكْرًا",
+     "w": "j2-p8-l96-w12",
+     "g": "bedankt"
+    },
+    {
+     "t": "عَلى",
+     "w": "j2-p8-l96-w12",
+     "g": "voor (na شُكْرًا)"
+    },
+    {
+     "t": "انْتِباهِكُمْ!",
+     "w": "j2-p8-l96-w12",
+     "g": "jullie aandacht"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar ligt Rotterdam?",
+   "opties": [
+    "in het westen van Nederland",
+    "in het noorden van Nederland",
+    "in het oosten van Nederland"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في غَرْبِ هولَنْدا} = in het westen van Nederland."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar is Rotterdam vooral beroemd om?",
+   "opties": [
+    "zijn handelshaven",
+    "zijn oude universiteit",
+    "zijn bergen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مَشْهورَةٌ بِمينائِها التِّجارِيِّ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel nationaliteiten zijn er in Rotterdam?",
+   "opties": [
+    "meer dan 170",
+    "ongeveer 100",
+    "600.000"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَكْثَرَ مِنْ مِئَةٍ وَسَبْعينَ جِنْسِيَّةً}; 600.000 is het aantal inwoners."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Het weer in Rotterdam is meestal droog en zonnig. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|الطَّقْسُ مُمْطِرٌ كَثيرًا} = het regent vaak."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "___، روتِرْدامُ مَشْهورَةٌ بِمينائِها.",
+   "antwoord": [
+    "أَوَّلًا"
+   ],
+   "uitleg": "Het eerste punt van de presentatie begint met {ar|أَوَّلًا} (ten eerste).",
+   "nl": "Ten eerste is Rotterdam beroemd om zijn haven.",
+   "woordbank": [
+    "أَوَّلًا",
+    "في الْخِتامِ",
+    "لِلْأَسَفِ"
+   ]
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wanneer raadt de spreker een bezoek aan?",
+   "opties": [
+    "in de lente of de zomer",
+    "in de winter",
+    "in de herfst"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في الرَّبيعِ أَوِ الصَّيْفِ}."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

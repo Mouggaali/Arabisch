@@ -1,0 +1,534 @@
+{
+ "id": "j2-p6-t2",
+ "titel": "Een reis die Nādiya niet vergeet",
+ "soort": "verhaal",
+ "jaar": 2,
+ "periode": 6,
+ "naLes": "j2-p6-l72",
+ "intro": "Nādiya vliegt naar Amman. Onderweg gaat er van alles mis. Let op lam/lan met majzūm en manṣūb.",
+ "zinnen": [
+  {
+   "ar": "سافَرَتْ نادِيَةُ إِلى عَمّانَ لِتَزورَ صَديقَتَها.",
+   "tr": "sāfarat nādiyatu ilā ʿammāna li-tazūra ṣadīqatahā.",
+   "nl": "Nādiya reisde naar Amman om haar vriendin te bezoeken.",
+   "tokens": [
+    {
+     "t": "سافَرَتْ",
+     "w": "j1-p4-l38-w06",
+     "g": "zij reisde"
+    },
+    {
+     "t": "نادِيَةُ",
+     "g": "Nādiya (naam)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "عَمّانَ",
+     "g": "Amman (hoofdstad van Jordanië)"
+    },
+    {
+     "t": "لِتَزورَ",
+     "w": "j1-p4-l43-w13",
+     "g": "om te bezoeken (li- + manṣūb)"
+    },
+    {
+     "t": "صَديقَتَها.",
+     "w": "j1-p1-l02-w22"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَطارِ وَضَعَتْ أَمْتِعَتَها وَذَهَبَتْ إِلى الْبَوّابَةِ.",
+   "tr": "fī l-maṭāri waḍaʿat amtiʿatahā wa-ḏahabat ilā l-bawwābati.",
+   "nl": "Op het vliegveld gaf ze haar bagage af en ging ze naar de gate.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَطارِ",
+     "w": "j1-p4-l38-w01"
+    },
+    {
+     "t": "وَضَعَتْ",
+     "w": "j2-p6-l71-w02",
+     "g": "zij legde (neer), gaf af"
+    },
+    {
+     "t": "أَمْتِعَتَها",
+     "w": "j2-p6-l71-w10",
+     "g": "haar bagage"
+    },
+    {
+     "t": "وَذَهَبَتْ",
+     "w": "j1-p3-l25-w03",
+     "g": "en zij ging"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْبَوّابَةِ.",
+     "w": "j2-p6-l71-w13"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ الرِّحْلَةَ الْجَوِّيَّةَ تَأَخَّرَتْ ثَلاثَ ساعاتٍ.",
+   "tr": "lākinna r-riḥlata l-jawwiyyata taʾaḫḫarat ṯalāṯa sāʿātin.",
+   "nl": "Maar de vlucht had drie uur vertraging.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "الرِّحْلَةَ",
+     "w": "j2-p6-l71-w16",
+     "g": "de reis; الرِّحْلَةُ الْجَوِّيَّةُ = de vlucht"
+    },
+    {
+     "t": "الْجَوِّيَّةَ",
+     "w": "j2-p6-l71-w16",
+     "g": "lucht-; رِحْلَةٌ جَوِّيَّةٌ = vlucht"
+    },
+    {
+     "t": "تَأَخَّرَتْ",
+     "w": "j2-p5-l51-w13",
+     "g": "had vertraging (v)"
+    },
+    {
+     "t": "ثَلاثَ",
+     "w": "j1-p1-l09-w04",
+     "g": "drie (vóór een vrouwelijk meervoud)"
+    },
+    {
+     "t": "ساعاتٍ.",
+     "w": "j1-p1-l06-w15",
+     "g": "uren (meervoud)"
+    }
+   ]
+  },
+  {
+   "ar": "اِنْتَظَرَتْ في الْمَقْهى وَقَرَأَتْ مَجَلَّةً.",
+   "tr": "intaẓarat fī l-maqhā wa-qaraʾat majallatan.",
+   "nl": "Ze wachtte in het café en las een tijdschrift.",
+   "tokens": [
+    {
+     "t": "اِنْتَظَرَتْ",
+     "w": "j1-p4-l48-w18",
+     "g": "zij wachtte"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَقْهى",
+     "w": "j1-p2-l22-w02"
+    },
+    {
+     "t": "وَقَرَأَتْ",
+     "w": "j1-p3-l27-w16",
+     "g": "en zij las"
+    },
+    {
+     "t": "مَجَلَّةً.",
+     "w": "j2-p6-l72-w04"
+    }
+   ]
+  },
+  {
+   "ar": "أَخيرًا رَكِبَتِ الطّائِرَةَ وَجَلَسَتْ في مَقْعَدِها بِجانِبِ النّافِذَةِ.",
+   "tr": "aḫīran rakibati ṭ-ṭāʾirata wa-jalasat fī maqʿadihā bi-jānibi n-nāfiḏati.",
+   "nl": "Eindelijk stapte ze in het vliegtuig en ging ze op haar stoel bij het raam zitten.",
+   "tokens": [
+    {
+     "t": "أَخيرًا",
+     "w": "j1-p4-l48-w16",
+     "g": "eindelijk (ook: tot slot)"
+    },
+    {
+     "t": "رَكِبَتِ",
+     "w": "j1-p3-l26-w03",
+     "g": "zij stapte in (reed in)"
+    },
+    {
+     "t": "الطّائِرَةَ",
+     "w": "j1-p4-l38-w02"
+    },
+    {
+     "t": "وَجَلَسَتْ",
+     "w": "j1-p3-l25-w11",
+     "g": "en zij ging zitten"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "مَقْعَدِها",
+     "w": "j2-p6-l71-w14",
+     "g": "haar stoel"
+    },
+    {
+     "t": "بِجانِبِ",
+     "w": "j1-p2-l15-w07"
+    },
+    {
+     "t": "النّافِذَةِ.",
+     "w": "j1-p1-l06-w07"
+    }
+   ]
+  },
+  {
+   "ar": "رَبَطَتْ حِزامَ الْأَمانِ، وَبَعْدَ الْإِقْلاعِ نامَتْ قَليلًا.",
+   "tr": "rabaṭat ḥizāma l-amāni, wa-baʿda l-iqlāʿi nāmat qalīlan.",
+   "nl": "Ze deed haar veiligheidsgordel om en sliep na het opstijgen een beetje.",
+   "tokens": [
+    {
+     "t": "رَبَطَتْ",
+     "g": "zij maakte vast"
+    },
+    {
+     "t": "حِزامَ",
+     "w": "j2-p6-l71-w18",
+     "g": "riem; حِزامُ الْأَمانِ = veiligheidsgordel"
+    },
+    {
+     "t": "الْأَمانِ،",
+     "w": "j2-p6-l71-w18",
+     "g": "veiligheid; حِزامُ الْأَمانِ = veiligheidsgordel"
+    },
+    {
+     "t": "وَبَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "الْإِقْلاعِ",
+     "w": "j2-p6-l71-w11"
+    },
+    {
+     "t": "نامَتْ",
+     "w": "j2-p6-l69-w03",
+     "g": "zij sliep"
+    },
+    {
+     "t": "قَليلًا.",
+     "w": "j1-p1-l12-w18"
+    }
+   ]
+  },
+  {
+   "ar": "بَعْدَ الْهُبوطِ وَقَفَتْ في الصَّفِّ عِنْدَ الْجَمارِكِ.",
+   "tr": "baʿda l-hubūṭi waqafat fī ṣ-ṣaffi ʿinda l-jamāriki.",
+   "nl": "Na de landing stond ze in de rij bij de douane.",
+   "tokens": [
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "الْهُبوطِ",
+     "w": "j2-p6-l71-w12"
+    },
+    {
+     "t": "وَقَفَتْ",
+     "w": "j2-p6-l71-w03",
+     "g": "zij stond (stil)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الصَّفِّ",
+     "w": "j1-p1-l05-w12",
+     "g": "de rij (ṣaff = rij, ook klas)"
+    },
+    {
+     "t": "عِنْدَ",
+     "w": "j1-p1-l10-w01"
+    },
+    {
+     "t": "الْجَمارِكِ.",
+     "w": "j2-p6-l71-w09"
+    }
+   ]
+  },
+  {
+   "ar": "ثُمَّ ذَهَبَتْ لِتَأْخُذَ حَقيبَتَها، لٰكِنَّها لَمْ تَجِدْها!",
+   "tr": "ṯumma ḏahabat li-taʾḫuḏa ḥaqībatahā, lākinnahā lam tajidhā!",
+   "nl": "Daarna ging ze haar tas halen, maar ze vond hem niet!",
+   "tokens": [
+    {
+     "t": "ثُمَّ",
+     "w": "j1-p3-l25-w20"
+    },
+    {
+     "t": "ذَهَبَتْ",
+     "w": "j1-p3-l25-w03",
+     "g": "zij ging"
+    },
+    {
+     "t": "لِتَأْخُذَ",
+     "w": "j2-p6-l72-w01",
+     "g": "om te nemen (li- + manṣūb)"
+    },
+    {
+     "t": "حَقيبَتَها،",
+     "w": "j1-p1-l06-w09"
+    },
+    {
+     "t": "لٰكِنَّها",
+     "w": "j1-p1-l12-w02",
+     "g": "maar zij"
+    },
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "تَجِدْها!",
+     "w": "j2-p6-l71-w01",
+     "g": "zij vond hem: majzūm na لَمْ (wajada → tajid)"
+    }
+   ]
+  },
+  {
+   "ar": "خافَتْ نادِيَةُ كَثيرًا، فَكُلُّ مَلابِسِها في الْحَقيبَةِ.",
+   "tr": "ḫāfat nādiyatu kaṯīran, fa-kullu malābisihā fī l-ḥaqībati.",
+   "nl": "Nādiya schrok erg, want al haar kleren zaten in de tas.",
+   "tokens": [
+    {
+     "t": "خافَتْ",
+     "w": "j2-p6-l69-w17",
+     "g": "zij was bang, schrok"
+    },
+    {
+     "t": "نادِيَةُ",
+     "g": "Nādiya (naam)"
+    },
+    {
+     "t": "كَثيرًا،",
+     "w": "j1-p2-l19-w20"
+    },
+    {
+     "t": "فَكُلُّ",
+     "w": "j1-p4-l46-w17",
+     "g": "want alle"
+    },
+    {
+     "t": "مَلابِسِها",
+     "w": "j1-p3-l30-w01",
+     "g": "haar kleren"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْحَقيبَةِ.",
+     "w": "j1-p1-l06-w09",
+     "g": "de tas"
+    }
+   ]
+  },
+  {
+   "ar": "سَأَلَتِ الْمُوَظَّفَةَ، فَقالَتْ: «لا تَقْلَقي، سَنَجِدُها.»",
+   "tr": "saʾalati l-muwaẓẓafata, fa-qālat: «lā taqlaqī, sa-najiduhā.»",
+   "nl": "Ze vroeg het aan de medewerkster, en die zei: \"Maak je geen zorgen, we vinden hem.\"",
+   "tokens": [
+    {
+     "t": "سَأَلَتِ",
+     "w": "j1-p3-l27-w14",
+     "g": "zij vroeg"
+    },
+    {
+     "t": "الْمُوَظَّفَةَ،",
+     "w": "j1-p1-l04-w06"
+    },
+    {
+     "t": "فَقالَتْ:",
+     "w": "j2-p6-l69-w02",
+     "g": "en zij zei"
+    },
+    {
+     "t": "«لا",
+     "w": "j2-p5-l51-w15",
+     "g": "niet (verbod)"
+    },
+    {
+     "t": "تَقْلَقي،",
+     "w": "j2-p5-l51-w15",
+     "g": "maak je zorgen (tegen een vrouw); لا تَقْلَقي = maak je geen zorgen"
+    },
+    {
+     "t": "سَنَجِدُها.»",
+     "w": "j2-p6-l71-w01",
+     "g": "wij zullen hem vinden"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَساءِ وَصَلَتِ الْحَقيبَةُ إِلى الْفُنْدُقِ.",
+   "tr": "fī l-masāʾi waṣalati l-ḥaqībatu ilā l-funduqi.",
+   "nl": "’s Avonds kwam de tas aan bij het hotel.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "وَصَلَتِ",
+     "w": "j1-p3-l26-w01",
+     "g": "kwam aan (v)"
+    },
+    {
+     "t": "الْحَقيبَةُ",
+     "w": "j1-p1-l06-w09",
+     "g": "de tas"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْفُنْدُقِ.",
+     "w": "j1-p4-l43-w01"
+    }
+   ]
+  },
+  {
+   "ar": "ضَحِكَتْ نادِيَةُ وَقالَتْ: «رِحْلَةٌ لَنْ أَنْساها!»",
+   "tr": "ḍaḥikat nādiyatu wa-qālat: «riḥlatun lan ansāhā!»",
+   "nl": "Nādiya lachte en zei: \"Een reis die ik nooit zal vergeten!\"",
+   "tokens": [
+    {
+     "t": "ضَحِكَتْ",
+     "w": "j2-p6-l70-w06",
+     "g": "zij lachte"
+    },
+    {
+     "t": "نادِيَةُ",
+     "g": "Nādiya (naam)"
+    },
+    {
+     "t": "وَقالَتْ:",
+     "w": "j2-p6-l69-w02",
+     "g": "en zij zei"
+    },
+    {
+     "t": "«رِحْلَةٌ",
+     "w": "j1-p3-l26-w12",
+     "g": "een reis"
+    },
+    {
+     "t": "لَنْ",
+     "w": "j2-p5-l50-w15"
+    },
+    {
+     "t": "أَنْساها!»",
+     "w": "j2-p6-l70-w03",
+     "g": "ik vergeet hem: manṣūb na لَنْ (nooit)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarom reisde Nādiya naar Amman?",
+   "opties": [
+    "om haar vriendin te bezoeken",
+    "voor haar werk",
+    "om te studeren"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|لِتَزورَ صَديقَتَها} = om haar vriendin te bezoeken."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel vertraging had de vlucht?",
+   "opties": [
+    "drie uur",
+    "een uur",
+    "twee uur"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|ثَلاثَ ساعاتٍ} = drie uur."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Nādiya zat bij het raam. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|بِجانِبِ النّافِذَةِ} = naast het raam."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat was het probleem na de landing?",
+   "opties": [
+    "haar tas was er niet",
+    "haar paspoort was weg",
+    "ze had geen visum"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|لَمْ تَجِدْها} = ze vond hem (de tas) niet."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "لٰكِنَّها لَمْ ___!",
+   "antwoord": [
+    "تَجِدْها"
+   ],
+   "uitleg": "Na {ar|لَمْ} komt de majzūm: {ar|تَجِدْ} (+ {ar|ها}). De w van وَجَدَ valt weg in de muḍāriʿ.",
+   "nl": "Maar ze vond hem niet!",
+   "woordbank": [
+    "تَجِدْها",
+    "وَجَدَتْها",
+    "سَنَجِدُها"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "لا تَقْلَقي، سَنَجِدُها.",
+   "antwoorden": [
+    "maak je geen zorgen, we zullen hem vinden",
+    "maak je geen zorgen, we vinden hem",
+    "maak je geen zorgen, we zullen haar vinden",
+    "maak je geen zorgen, we vinden haar",
+    "wees niet ongerust, we zullen hem vinden",
+    "wees niet ongerust, we vinden hem",
+    "maak je geen zorgen, wij zullen hem vinden",
+    "maak je geen zorgen, wij vinden hem"
+   ],
+   "uitleg": "{ar|لا تَقْلَقي}: verbod met لا + majzūm (tegen een vrouw). {ar|سَـ} + muḍāriʿ = toekomst.",
+   "tr": "lā taqlaqī, sa-najiduhā"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

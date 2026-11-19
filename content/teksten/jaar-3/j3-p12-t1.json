@@ -1,0 +1,713 @@
+{
+ "id": "j3-p12-t1",
+ "titel": "De brief op zolder",
+ "soort": "verhaal",
+ "jaar": 3,
+ "periode": 12,
+ "naLes": "j3-p12-l136",
+ "intro": "Laylā vindt een oude brief van haar opa. Een verhaal met spanning, opgebouwd met verteltechnieken uit L136.",
+ "zinnen": [
+  {
+   "ar": "في يَوْمٍ مُمْطِرٍ صَعِدَتْ لَيْلى إِلى الْعِلِّيَّةِ لِتَبْحَثَ عَنْ صُوَرٍ قَديمَةٍ.",
+   "tr": "fī yawmin mumṭirin ṣaʿidat laylā ilā l-ʿilliyyati li-tabḥaṯa ʿan ṣuwarin qadīmatin.",
+   "nl": "Op een regenachtige dag ging Laylā naar de zolder om oude foto’s te zoeken.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "يَوْمٍ",
+     "w": "j1-p2-l18-w01"
+    },
+    {
+     "t": "مُمْطِرٍ",
+     "w": "j1-p3-l34-w04",
+     "g": "regenachtig"
+    },
+    {
+     "t": "صَعِدَتْ",
+     "w": "j1-p2-l20-w07",
+     "g": "zij ging naar boven"
+    },
+    {
+     "t": "لَيْلى",
+     "g": "Laylā (naam)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْعِلِّيَّةِ",
+     "w": "j3-p12-l136-w16"
+    },
+    {
+     "t": "لِتَبْحَثَ",
+     "w": "j2-p7-l77-w18",
+     "g": "om te zoeken (li- + manṣūb)"
+    },
+    {
+     "t": "عَنْ",
+     "w": "j2-p7-l77-w18",
+     "g": "naar (بَحَثَ عَنْ = zoeken naar)"
+    },
+    {
+     "t": "صُوَرٍ",
+     "w": "j1-p1-l06-w16",
+     "g": "foto’s (meervoud)"
+    },
+    {
+     "t": "قَديمَةٍ.",
+     "w": "j1-p1-l04-w10"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ الْمَكانُ مُظْلِمًا وَمَليئًا بِالْغُبارِ.",
+   "tr": "kāna l-makānu muẓliman wa-malīʾan bi-l-ġubāri.",
+   "nl": "Het was er donker en vol stof.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "الْمَكانُ",
+     "w": "j1-p2-l24-w17",
+     "g": "de plek"
+    },
+    {
+     "t": "مُظْلِمًا",
+     "w": "j3-p9-l106-w10",
+     "g": "donker (verwant aan ظَلام)"
+    },
+    {
+     "t": "وَمَليئًا",
+     "g": "en vol (met)"
+    },
+    {
+     "t": "بِالْغُبارِ.",
+     "g": "met stof"
+    }
+   ]
+  },
+  {
+   "ar": "وَفي زاوِيَةٍ بَعيدَةٍ وَجَدَتْ حَقيبَةً قَديمَةً مُغْلَقَةً.",
+   "tr": "wa-fī zāwiyatin baʿīdatin wajadat ḥaqībatan qadīmatan muġlaqatan.",
+   "nl": "En in een verre hoek vond ze een oude, gesloten koffer.",
+   "tokens": [
+    {
+     "t": "وَفي",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "زاوِيَةٍ",
+     "w": "j1-p4-l39-w12"
+    },
+    {
+     "t": "بَعيدَةٍ",
+     "w": "j1-p4-l38-w12",
+     "g": "ver (v)"
+    },
+    {
+     "t": "وَجَدَتْ",
+     "w": "j2-p6-l71-w01",
+     "g": "zij vond"
+    },
+    {
+     "t": "حَقيبَةً",
+     "w": "j3-p12-l136-w12",
+     "g": "een tas, koffer"
+    },
+    {
+     "t": "قَديمَةً",
+     "w": "j3-p12-l136-w12",
+     "g": "oud (v)"
+    },
+    {
+     "t": "مُغْلَقَةً.",
+     "w": "j2-p7-l75-w01",
+     "g": "gesloten (v)"
+    }
+   ]
+  },
+  {
+   "ar": "لَمْ تَكَدْ تَفْتَحُها حَتّى سَقَطَتْ مِنْها رِسالَةٌ صَفْراءُ.",
+   "tr": "lam takad taftaḥuhā ḥattā saqaṭat minhā risālatun ṣafrāʾu.",
+   "nl": "Ze had hem nauwelijks geopend of er viel een gele brief uit.",
+   "tokens": [
+    {
+     "t": "لَمْ",
+     "w": "j3-p12-l136-w10",
+     "g": "niet (lam)"
+    },
+    {
+     "t": "تَكَدْ",
+     "w": "j3-p12-l136-w10",
+     "g": "nauwelijks: لَمْ تَكَدْ … حَتّى = zij had nauwelijks … of"
+    },
+    {
+     "t": "تَفْتَحُها",
+     "w": "j1-p2-l19-w12",
+     "g": "zij opent hem"
+    },
+    {
+     "t": "حَتّى",
+     "w": "j3-p12-l136-w10",
+     "g": "of (na لَمْ يَكَدْ)"
+    },
+    {
+     "t": "سَقَطَتْ",
+     "g": "viel (saqaṭa)"
+    },
+    {
+     "t": "مِنْها",
+     "w": "j1-p1-l02-w10",
+     "g": "eruit (min + -hā)"
+    },
+    {
+     "t": "رِسالَةٌ",
+     "w": "j1-p2-l19-w21"
+    },
+    {
+     "t": "صَفْراءُ.",
+     "w": "j1-p2-l16-w05",
+     "g": "geel (v)"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتِ الرِّسالَةُ مِنْ جَدِّها إِلى جَدَّتِها، وَتاريخُها سَنَةُ أَلْفٍ وَتِسْعِمِئَةٍ وَسِتّينَ.",
+   "tr": "kānati r-risālatu min jaddihā ilā jaddatihā, wa-tārīḫuhā sanatu alfin wa-tisʿimiʾatin wa-sittīna.",
+   "nl": "De brief was van haar opa aan haar oma, gedateerd in het jaar 1960.",
+   "tokens": [
+    {
+     "t": "كانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "الرِّسالَةُ",
+     "w": "j1-p2-l19-w21",
+     "g": "de brief"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "جَدِّها",
+     "w": "j1-p1-l11-w08",
+     "g": "haar opa"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "جَدَّتِها،",
+     "w": "j1-p1-l11-w09",
+     "g": "haar oma"
+    },
+    {
+     "t": "وَتاريخُها",
+     "w": "j1-p3-l27-w08",
+     "g": "en haar datum (tārīḫ = ook datum)"
+    },
+    {
+     "t": "سَنَةُ",
+     "w": "j1-p1-l09-w17"
+    },
+    {
+     "t": "أَلْفٍ",
+     "w": "j1-p4-l41-w05"
+    },
+    {
+     "t": "وَتِسْعِمِئَةٍ",
+     "w": "j1-p1-l09-w10",
+     "g": "en negenhonderd"
+    },
+    {
+     "t": "وَسِتّينَ.",
+     "w": "j1-p2-l17-w04",
+     "g": "en zestig"
+    }
+   ]
+  },
+  {
+   "ar": "قَرَأَتْها لَيْلى وَهِيَ جالِسَةٌ عَلى الْأَرْضِ.",
+   "tr": "qaraʾathā laylā wa-hiya jālisatun ʿalā l-arḍi.",
+   "nl": "Laylā las hem terwijl ze op de vloer zat.",
+   "tokens": [
+    {
+     "t": "قَرَأَتْها",
+     "w": "j1-p3-l27-w16",
+     "g": "zij las hem"
+    },
+    {
+     "t": "لَيْلى",
+     "g": "Laylā (naam)"
+    },
+    {
+     "t": "وَهِيَ",
+     "w": "j1-p1-l02-w05",
+     "g": "terwijl zij"
+    },
+    {
+     "t": "جالِسَةٌ",
+     "w": "j2-p7-l74-w06",
+     "g": "zittend (v)"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "الْأَرْضِ.",
+     "w": "j1-p2-l14-w13"
+    }
+   ]
+  },
+  {
+   "ar": "كَتَبَ الْجَدُّ: «حَبيبَتي، أَنا الْآنَ في فَرَنْسا، وَالْعَمَلُ هُنا صَعْبٌ وَالْبَرْدُ شَديدٌ.",
+   "tr": "kataba l-jaddu: «ḥabībatī, ana l-āna fī faransā, wa-l-ʿamalu hunā ṣaʿbun wa-l-bardu šadīdun.",
+   "nl": "Opa schreef: \"Mijn liefste, ik ben nu in Frankrijk; het werk hier is zwaar en de kou is streng.",
+   "tokens": [
+    {
+     "t": "كَتَبَ",
+     "w": "j1-p3-l25-w01",
+     "g": "schreef"
+    },
+    {
+     "t": "الْجَدُّ:",
+     "w": "j1-p1-l11-w08",
+     "g": "opa"
+    },
+    {
+     "t": "«حَبيبَتي،",
+     "w": "j2-p6-l70-w10",
+     "g": "mijn liefste (verwant aan حُبّ)"
+    },
+    {
+     "t": "أَنا",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "الْآنَ",
+     "w": "j1-p1-l12-w16"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فَرَنْسا،",
+     "w": "j1-p1-l03-w14"
+    },
+    {
+     "t": "وَالْعَمَلُ",
+     "w": "j1-p1-l10-w12",
+     "g": "en het werk"
+    },
+    {
+     "t": "هُنا",
+     "w": "j1-p1-l04-w21"
+    },
+    {
+     "t": "صَعْبٌ",
+     "w": "j1-p3-l27-w19"
+    },
+    {
+     "t": "وَالْبَرْدُ",
+     "w": "j1-p2-l22-w16",
+     "g": "en de kou (verwant aan بارِد)"
+    },
+    {
+     "t": "شَديدٌ.",
+     "g": "hevig, streng"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنّي أَعِدُكِ بِأَنْ أَرْجِعَ إِلَيْكِ بَعْدَ سَنَتَيْنِ، لِنَبْنِيَ بَيْتًا صَغيرًا في قَرْيَتِنا.»",
+   "tr": "lākinnī aʿiduki bi-an arjiʿa ilayki baʿda sanatayni, li-nabniya baytan ṣaġīran fī qaryatinā.»",
+   "nl": "Maar ik beloof je dat ik over twee jaar bij je terugkom, om een klein huis te bouwen in ons dorp.\"",
+   "tokens": [
+    {
+     "t": "لٰكِنّي",
+     "w": "j1-p1-l12-w02",
+     "g": "maar ik"
+    },
+    {
+     "t": "أَعِدُكِ",
+     "w": "j2-p6-l71-w04",
+     "g": "ik beloof je (v)"
+    },
+    {
+     "t": "بِأَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "أَرْجِعَ",
+     "w": "j1-p2-l19-w13",
+     "g": "(dat) ik terugkom: manṣūb"
+    },
+    {
+     "t": "إِلَيْكِ",
+     "g": "naar jou (v)"
+    },
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "سَنَتَيْنِ،",
+     "w": "j1-p1-l09-w17",
+     "g": "twee jaar (dualis)"
+    },
+    {
+     "t": "لِنَبْنِيَ",
+     "w": "j3-p9-l98-w04",
+     "g": "om te bouwen (li- + manṣūb; بُنِيَ = werd gebouwd)"
+    },
+    {
+     "t": "بَيْتًا",
+     "w": "j1-p1-l04-w18"
+    },
+    {
+     "t": "صَغيرًا",
+     "w": "j1-p1-l04-w08",
+     "g": "klein"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "قَرْيَتِنا.»",
+     "w": "j1-p3-l28-w06",
+     "g": "ons dorp"
+    }
+   ]
+  },
+  {
+   "ar": "في تِلْكَ اللَّحْظَةِ سالَتْ دَمْعَةٌ عَلى خَدِّها.",
+   "tr": "fī tilka l-laḥẓati sālat damʿatun ʿalā ḫaddihā.",
+   "nl": "Op dat moment liep er een traan over haar wang.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "تِلْكَ",
+     "w": "j3-p12-l136-w06",
+     "g": "dat (v)"
+    },
+    {
+     "t": "اللَّحْظَةِ",
+     "w": "j3-p12-l136-w06",
+     "g": "moment; في تِلْكَ اللَّحْظَةِ = op dat moment"
+    },
+    {
+     "t": "سالَتْ",
+     "g": "stroomde (sāla)"
+    },
+    {
+     "t": "دَمْعَةٌ",
+     "w": "j3-p12-l136-w14"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "خَدِّها.",
+     "g": "haar wang"
+    }
+   ]
+  },
+  {
+   "ar": "فَقَدْ عَرَفَتْ أَنَّ جَدَّها وَفى بِوَعْدِهِ، فَالْبَيْتُ ما زالَ هُناكَ.",
+   "tr": "fa-qad ʿarafat anna jaddahā wafā bi-waʿdihi, fa-l-baytu mā zāla hunāka.",
+   "nl": "Want ze wist dat haar opa zijn belofte had gehouden: het huis staat er nog steeds.",
+   "tokens": [
+    {
+     "t": "فَقَدْ",
+     "g": "want (fa-qad + māḍī)"
+    },
+    {
+     "t": "عَرَفَتْ",
+     "w": "j1-p2-l19-w09",
+     "g": "zij wist"
+    },
+    {
+     "t": "أَنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat (anna)"
+    },
+    {
+     "t": "جَدَّها",
+     "w": "j1-p1-l11-w08",
+     "g": "haar opa"
+    },
+    {
+     "t": "وَفى",
+     "g": "hield (zich aan) (wafā bi-)"
+    },
+    {
+     "t": "بِوَعْدِهِ،",
+     "w": "j2-p6-l71-w04",
+     "g": "zijn belofte"
+    },
+    {
+     "t": "فَالْبَيْتُ",
+     "w": "j1-p1-l04-w18",
+     "g": "want het huis"
+    },
+    {
+     "t": "ما",
+     "w": "j2-p6-l64-w03",
+     "g": "ما زالَ = nog steeds"
+    },
+    {
+     "t": "زالَ",
+     "w": "j2-p6-l64-w03",
+     "g": "ما زالَ = nog steeds"
+    },
+    {
+     "t": "هُناكَ.",
+     "w": "j1-p1-l04-w22"
+    }
+   ]
+  },
+  {
+   "ar": "نَزَلَتْ إِلى جَدَّتِها وَأَرَتْها الرِّسالَةَ.",
+   "tr": "nazalat ilā jaddatihā wa-arathā r-risālata.",
+   "nl": "Ze ging naar beneden naar haar oma en liet haar de brief zien.",
+   "tokens": [
+    {
+     "t": "نَزَلَتْ",
+     "w": "j1-p3-l26-w02",
+     "g": "zij ging naar beneden"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "جَدَّتِها",
+     "w": "j1-p1-l11-w09",
+     "g": "haar oma"
+    },
+    {
+     "t": "وَأَرَتْها",
+     "g": "en zij liet haar zien (arā)"
+    },
+    {
+     "t": "الرِّسالَةَ.",
+     "w": "j1-p2-l19-w21",
+     "g": "de brief"
+    }
+   ]
+  },
+  {
+   "ar": "ضَحِكَتِ الْجَدَّةُ وَقالَتْ: «كُنْتُ أَظُنُّ أَنَّ هٰذا السِّرَّ قَدْ ضاعَ إِلى الْأَبَدِ.»",
+   "tr": "ḍaḥikati l-jaddatu wa-qālat: «kuntu aẓunnu anna hāḏā s-sirra qad ḍāʿa ilā l-abadi.»",
+   "nl": "Oma lachte en zei: \"Ik dacht dat dit geheim voor altijd verloren was.\"",
+   "tokens": [
+    {
+     "t": "ضَحِكَتِ",
+     "w": "j2-p6-l70-w06",
+     "g": "lachte (v)"
+    },
+    {
+     "t": "الْجَدَّةُ",
+     "w": "j1-p1-l11-w09"
+    },
+    {
+     "t": "وَقالَتْ:",
+     "w": "j2-p6-l69-w02",
+     "g": "en zij zei"
+    },
+    {
+     "t": "«كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ أَظُنُّ = ik dacht"
+    },
+    {
+     "t": "أَظُنُّ",
+     "w": "j2-p6-l65-w08",
+     "g": "ik denk"
+    },
+    {
+     "t": "أَنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat (anna)"
+    },
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "السِّرَّ",
+     "w": "j3-p12-l136-w15",
+     "g": "het geheim"
+    },
+    {
+     "t": "قَدْ",
+     "w": "j2-p7-l78-w01",
+     "g": "al (qad + māḍī)"
+    },
+    {
+     "t": "ضاعَ",
+     "w": "j2-p6-l69-w05",
+     "g": "ging verloren"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْأَبَدِ.»",
+     "g": "de eeuwigheid; إِلى الْأَبَدِ = voor altijd"
+    }
+   ]
+  },
+  {
+   "ar": "وَمُنْذُ ذٰلِكَ الْحينِ تَحْتَفِظُ لَيْلى بِالرِّسالَةِ في دُرْجِ مَكْتَبِها.",
+   "tr": "wa-munḏu ḏālika l-ḥīni taḥtafiẓu laylā bi-r-risālati fī durji maktabihā.",
+   "nl": "Sindsdien bewaart Laylā de brief in de la van haar bureau.",
+   "tokens": [
+    {
+     "t": "وَمُنْذُ",
+     "w": "j3-p12-l136-w07",
+     "g": "en sinds"
+    },
+    {
+     "t": "ذٰلِكَ",
+     "w": "j3-p12-l136-w07",
+     "g": "die"
+    },
+    {
+     "t": "الْحينِ",
+     "w": "j3-p12-l136-w07",
+     "g": "tijd; مُنْذُ ذٰلِكَ الْحينِ = sindsdien"
+    },
+    {
+     "t": "تَحْتَفِظُ",
+     "g": "bewaart (iḥtafaẓa bi-)"
+    },
+    {
+     "t": "لَيْلى",
+     "g": "Laylā (naam)"
+    },
+    {
+     "t": "بِالرِّسالَةِ",
+     "w": "j1-p2-l19-w21",
+     "g": "de brief"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "دُرْجِ",
+     "g": "de la (durj)"
+    },
+    {
+     "t": "مَكْتَبِها.",
+     "w": "j1-p1-l06-w03",
+     "g": "haar bureau"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat zocht Laylā op zolder?",
+   "opties": [
+    "oude foto’s",
+    "een koffer",
+    "haar oma"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|لِتَبْحَثَ عَنْ صُوَرٍ قَديمَةٍ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Van wie was de brief?",
+   "opties": [
+    "van haar opa aan haar oma",
+    "van haar oma aan haar opa",
+    "van haar moeder"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مِنْ جَدِّها إِلى جَدَّتِها}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat beloofde opa?",
+   "opties": [
+    "over twee jaar terug te komen en een huis te bouwen",
+    "in Frankrijk te blijven",
+    "elke maand geld te sturen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَعِدُكِ بِأَنْ أَرْجِعَ إِلَيْكِ بَعْدَ سَنَتَيْنِ، لِنَبْنِيَ بَيْتًا صَغيرًا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Het huis uit de brief bestaat nog steeds. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|فَالْبَيْتُ ما زالَ هُناكَ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "لَمْ تَكَدْ تَفْتَحُها ___ سَقَطَتْ مِنْها رِسالَةٌ.",
+   "antwoord": [
+    "حَتّى"
+   ],
+   "uitleg": "{ar|لَمْ يَكَدْ … حَتّى} = nauwelijks … of.",
+   "nl": "Ze had hem nauwelijks geopend of er viel een brief uit.",
+   "woordbank": [
+    "حَتّى",
+    "لِأَنَّ",
+    "ثُمَّ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "ما زالَ الْبَيْتُ هُناكَ.",
+   "antwoorden": [
+    "het huis staat er nog steeds",
+    "het huis is er nog steeds",
+    "het huis is er nog",
+    "het huis staat er nog",
+    "het huis bestaat nog steeds",
+    "het huis is daar nog steeds",
+    "het huis staat daar nog steeds"
+   ],
+   "uitleg": "{ar|ما زالَ} = nog steeds (een zuster van كانَ).",
+   "tr": "mā zāla l-baytu hunāka"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

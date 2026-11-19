@@ -1,0 +1,682 @@
+{
+ "id": "j3-p10-t1",
+ "titel": "Studeren in het buitenland?",
+ "soort": "verhaal",
+ "jaar": 3,
+ "periode": 10,
+ "naLes": "j3-p10-l112",
+ "intro": "Yāsamīn uit Rabat wil geneeskunde studeren in Europa. Let op de uitdrukkingen voor plannen en bedoelingen ({ar|تَنْوي}, {ar|عَلى وَشْكِ}, {ar|كادَ}, {ar|عازِمَةٌ عَلى}).",
+ "zinnen": [
+  {
+   "ar": "تَعيشُ ياسَمينُ في الرِّباطِ، وَهِيَ عَلى وَشْكِ التَّخَرُّجِ مِنَ الْمَدْرَسَةِ الثّانَوِيَّةِ.",
+   "tr": "taʿīšu yāsamīnu fī r-ribāṭi, wa-hiya ʿalā waški t-taḫarruji mina l-madrasati ṯ-ṯānawiyyati.",
+   "nl": "Yāsamīn woont in Rabat en staat op het punt haar middelbare school af te ronden.",
+   "tokens": [
+    {
+     "t": "تَعيشُ",
+     "g": "zij leeft, woont (ʿāša)"
+    },
+    {
+     "t": "ياسَمينُ",
+     "g": "Yāsamīn (naam)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الرِّباطِ،",
+     "g": "Rabat (hoofdstad van Marokko)"
+    },
+    {
+     "t": "وَهِيَ",
+     "w": "j1-p1-l02-w05"
+    },
+    {
+     "t": "عَلى",
+     "w": "j3-p10-l112-w03",
+     "g": "op"
+    },
+    {
+     "t": "وَشْكِ",
+     "w": "j3-p10-l112-w03",
+     "g": "het punt; عَلى وَشْكِ = op het punt van"
+    },
+    {
+     "t": "التَّخَرُّجِ",
+     "w": "j3-p10-l112-w12"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمَدْرَسَةِ",
+     "w": "j1-p1-l05-w13"
+    },
+    {
+     "t": "الثّانَوِيَّةِ.",
+     "w": "j2-p5-l53-w15",
+     "g": "middelbare (v)"
+    }
+   ]
+  },
+  {
+   "ar": "تَنْوي أَنْ تَدْرُسَ الطِّبَّ في الْخارِجِ، رُبَّما في فَرَنْسا أَوْ أَلْمانْيا.",
+   "tr": "tanwī an tadrusa ṭ-ṭibba fī l-ḫāriji, rubbamā fī faransā aw almānyā.",
+   "nl": "Ze is van plan geneeskunde te studeren in het buitenland, misschien in Frankrijk of Duitsland.",
+   "tokens": [
+    {
+     "t": "تَنْوي",
+     "w": "j3-p10-l112-w01",
+     "g": "zij is van plan"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "تَدْرُسَ",
+     "w": "j1-p2-l19-w01",
+     "g": "(dat) zij studeert: manṣūb"
+    },
+    {
+     "t": "الطِّبَّ",
+     "w": "j1-p1-l04-w01",
+     "g": "de geneeskunde (aṭ-ṭibb, verwant aan طَبيب)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْخارِجِ،",
+     "w": "j3-p10-l112-w14",
+     "g": "het buitenland; في الْخارِجِ = in het buitenland"
+    },
+    {
+     "t": "رُبَّما",
+     "w": "j1-p1-l08-w21"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فَرَنْسا",
+     "w": "j1-p1-l03-w14"
+    },
+    {
+     "t": "أَوْ",
+     "w": "j1-p4-l47-w13"
+    },
+    {
+     "t": "أَلْمانْيا.",
+     "w": "j1-p1-l03-w15",
+     "g": "Duitsland"
+    }
+   ]
+  },
+  {
+   "ar": "تَقولُ: «في الْمَغْرِبِ، الْبِطالَةُ مُرْتَفِعَةٌ بَيْنَ الشَّبابِ الْمُتَعَلِّمينَ.",
+   "tr": "taqūlu: «fī l-maġribi, l-biṭālatu murtafiʿatun bayna š-šabābi l-mutaʿallimīna.",
+   "nl": "Ze zegt: \"In Marokko is de werkloosheid onder hoogopgeleide jongeren hoog.",
+   "tokens": [
+    {
+     "t": "تَقولُ:",
+     "w": "j2-p6-l69-w02",
+     "g": "zij zegt"
+    },
+    {
+     "t": "«في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَغْرِبِ،",
+     "w": "j1-p1-l03-w08"
+    },
+    {
+     "t": "الْبِطالَةُ",
+     "w": "j3-p9-l102-w06"
+    },
+    {
+     "t": "مُرْتَفِعَةٌ",
+     "w": "j2-p7-l83-w08",
+     "g": "hoog (gestegen; verwant aan اِرْتَفَعَ)"
+    },
+    {
+     "t": "بَيْنَ",
+     "w": "j1-p2-l15-w08"
+    },
+    {
+     "t": "الشَّبابِ",
+     "w": "j1-p4-l44-w16",
+     "g": "de jongeren"
+    },
+    {
+     "t": "الْمُتَعَلِّمينَ.",
+     "w": "j2-p5-l56-w17",
+     "g": "opgeleide (m mv)"
+    }
+   ]
+  },
+  {
+   "ar": "وَسوقُ الْعَمَلِ يَحْتاجُ إِلى أَطِبّاءَ، لِذا اخْتَرْتُ هٰذا التَّخَصُّصَ.»",
+   "tr": "wa-sūqu l-ʿamali yaḥtāju ilā aṭibbāʾa, li-ḏā ḫtartu hāḏā t-taḫaṣṣuṣa.»",
+   "nl": "En de arbeidsmarkt heeft artsen nodig, daarom heb ik deze studierichting gekozen.\"",
+   "tokens": [
+    {
+     "t": "وَسوقُ",
+     "w": "j3-p10-l109-w05",
+     "g": "en de markt"
+    },
+    {
+     "t": "الْعَمَلِ",
+     "w": "j3-p10-l109-w05",
+     "g": "het werk; سوقُ الْعَمَلِ = arbeidsmarkt"
+    },
+    {
+     "t": "يَحْتاجُ",
+     "g": "heeft nodig (iḥtāja ilā)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "أَطِبّاءَ،",
+     "w": "j1-p3-l32-w15",
+     "g": "artsen"
+    },
+    {
+     "t": "لِذا",
+     "w": "j3-p9-l102-w03"
+    },
+    {
+     "t": "اخْتَرْتُ",
+     "g": "ik koos (iḫtāra)"
+    },
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "التَّخَصُّصَ.»",
+     "w": "j3-p10-l112-w06"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ والِدَيْها لَيْسا مُتَأَكِّدَيْنِ مِنْ هٰذِهِ الْفِكْرَةِ.",
+   "tr": "lākinna wālidayhā laysā mutaʾakkidayni min hāḏihi l-fikrati.",
+   "nl": "Maar haar ouders zijn niet zeker van dit idee.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "والِدَيْها",
+     "w": "j1-p1-l11-w18",
+     "g": "haar ouders (dualis)"
+    },
+    {
+     "t": "لَيْسا",
+     "w": "j1-p1-l12-w01",
+     "g": "zijn niet (dualis)"
+    },
+    {
+     "t": "مُتَأَكِّدَيْنِ",
+     "w": "j1-p1-l12-w10",
+     "g": "zeker (dualis, accusatief na لَيْسَ)"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "هٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "الْفِكْرَةِ.",
+     "w": "j1-p1-l10-w09"
+    }
+   ]
+  },
+  {
+   "ar": "تَكاليفُ الدِّراسَةِ في أوروبّا مُرْتَفِعَةٌ، وَالْحَياةُ هُناكَ غالِيَةٌ.",
+   "tr": "takālīfu d-dirāsati fī ūrubbā murtafiʿatun, wa-l-ḥayātu hunāka ġāliyatun.",
+   "nl": "De studiekosten in Europa zijn hoog en het leven daar is duur.",
+   "tokens": [
+    {
+     "t": "تَكاليفُ",
+     "w": "j3-p10-l110-w13"
+    },
+    {
+     "t": "الدِّراسَةِ",
+     "g": "de studie (dirāsa, verwant aan دَرَسَ)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "أوروبّا",
+     "w": "j2-p6-l62-w15",
+     "g": "Europa"
+    },
+    {
+     "t": "مُرْتَفِعَةٌ،",
+     "w": "j2-p7-l83-w08",
+     "g": "hoog (gestegen; verwant aan اِرْتَفَعَ)"
+    },
+    {
+     "t": "وَالْحَياةُ",
+     "w": "j1-p4-l44-w01"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "غالِيَةٌ.",
+     "w": "j1-p2-l17-w15",
+     "g": "duur (v)"
+    }
+   ]
+  },
+  {
+   "ar": "قالَتْ أُمُّها: «نَخافُ أَنْ تَشْعُري بِالْغُرْبَةِ وَالْوَحْدَةِ.»",
+   "tr": "qālat ummuhā: «naḫāfu an tašʿurī bi-l-ġurbati wa-l-waḥdati.»",
+   "nl": "Haar moeder zei: \"We zijn bang dat je je vreemdeling en eenzaam zult voelen.\"",
+   "tokens": [
+    {
+     "t": "قالَتْ",
+     "w": "j2-p6-l69-w02",
+     "g": "zij zei"
+    },
+    {
+     "t": "أُمُّها:",
+     "w": "j1-p1-l11-w03",
+     "g": "haar moeder"
+    },
+    {
+     "t": "«نَخافُ",
+     "w": "j2-p6-l69-w17",
+     "g": "wij zijn bang"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "تَشْعُري",
+     "w": "j1-p3-l31-w14",
+     "g": "(dat) jij (v) je voelt: manṣūb"
+    },
+    {
+     "t": "بِالْغُرْبَةِ",
+     "g": "het gevoel een vreemdeling te zijn (ġurba)"
+    },
+    {
+     "t": "وَالْوَحْدَةِ.»",
+     "w": "j1-p1-l11-w23",
+     "g": "en de eenzaamheid (verwant aan وَحيد)"
+    }
+   ]
+  },
+  {
+   "ar": "أَمّا أَبوها فَقالَ إِنَّ هُناكَ مِنَحًا دِراسِيَّةً لِلطُّلّابِ الْمُتَفَوِّقينَ.",
+   "tr": "ammā abūhā fa-qāla inna hunāka minaḥan dirāsiyyatan li-ṭ-ṭullābi l-mutafawwiqīna.",
+   "nl": "Haar vader zei dat er studiebeurzen zijn voor uitblinkende leerlingen.",
+   "tokens": [
+    {
+     "t": "أَمّا",
+     "g": "wat … betreft (ammā … fa-)"
+    },
+    {
+     "t": "أَبوها",
+     "w": "j1-p1-l11-w02",
+     "g": "haar vader"
+    },
+    {
+     "t": "فَقالَ",
+     "w": "j2-p6-l69-w02",
+     "g": "dan zei (hij)"
+    },
+    {
+     "t": "إِنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat (inna na قالَ)"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "مِنَحًا",
+     "w": "j2-p8-l86-w08",
+     "g": "beurzen (meervoud)"
+    },
+    {
+     "t": "دِراسِيَّةً",
+     "w": "j2-p8-l86-w08",
+     "g": "studie-; مِنْحَةٌ دِراسِيَّةٌ = studiebeurs"
+    },
+    {
+     "t": "لِلطُّلّابِ",
+     "w": "j1-p1-l05-w08",
+     "g": "voor de studenten"
+    },
+    {
+     "t": "الْمُتَفَوِّقينَ.",
+     "w": "j2-p8-l86-w12",
+     "g": "uitblinkende (m mv)"
+    }
+   ]
+  },
+  {
+   "ar": "فَقَرَّرَتْ ياسَمينُ أَنْ تَجْتَهِدَ أَكْثَرَ لِكَيْ تَحْصُلَ عَلى مِنْحَةٍ.",
+   "tr": "fa-qarrarat yāsamīnu an tajtahida akṯara li-kay taḥṣula ʿalā minḥatin.",
+   "nl": "Dus besloot Yāsamīn harder te werken om een beurs te krijgen.",
+   "tokens": [
+    {
+     "t": "فَقَرَّرَتْ",
+     "w": "j2-p5-l50-w02",
+     "g": "dus besloot (zij)"
+    },
+    {
+     "t": "ياسَمينُ",
+     "g": "Yāsamīn (naam)"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "تَجْتَهِدَ",
+     "w": "j3-p9-l99-w08",
+     "g": "(dat) zij zich inspant: manṣūb"
+    },
+    {
+     "t": "أَكْثَرَ",
+     "w": "j1-p4-l45-w14"
+    },
+    {
+     "t": "لِكَيْ",
+     "w": "j3-p9-l102-w01",
+     "g": "om te (+ manṣūb)"
+    },
+    {
+     "t": "تَحْصُلَ",
+     "w": "j2-p5-l50-w12",
+     "g": "(om) zij krijgt: manṣūb"
+    },
+    {
+     "t": "عَلى",
+     "w": "j3-p10-l112-w03",
+     "g": "op"
+    },
+    {
+     "t": "مِنْحَةٍ.",
+     "w": "j2-p8-l86-w08",
+     "g": "een beurs"
+    }
+   ]
+  },
+  {
+   "ar": "كادَتْ تَيْأَسُ عِنْدَما رَأَتْ قائِمَةَ الْأَوْراقِ الْمَطْلوبَةِ.",
+   "tr": "kādat tayʾasu ʿindamā raʾat qāʾimata l-awrāqi l-maṭlūbati.",
+   "nl": "Ze wanhoopte bijna toen ze de lijst met benodigde papieren zag.",
+   "tokens": [
+    {
+     "t": "كادَتْ",
+     "w": "j3-p10-l112-w04",
+     "g": "zij … bijna"
+    },
+    {
+     "t": "تَيْأَسُ",
+     "g": "wanhopen (zij wanhoopt)"
+    },
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "رَأَتْ",
+     "g": "zij zag (raʾā)"
+    },
+    {
+     "t": "قائِمَةَ",
+     "w": "j1-p4-l42-w01",
+     "g": "de lijst"
+    },
+    {
+     "t": "الْأَوْراقِ",
+     "w": "j1-p1-l06-w10",
+     "g": "de papieren (meervoud van وَرَقَة)"
+    },
+    {
+     "t": "الْمَطْلوبَةِ.",
+     "w": "j2-p7-l75-w05",
+     "g": "benodigde, gevraagde"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّها عازِمَةٌ عَلى النَّجاحِ، وَبَدَأَتْ تَتَعَلَّمُ الْفَرَنْسِيَّةَ كُلَّ مَساءٍ.",
+   "tr": "lākinnahā ʿāzimatun ʿalā n-najāḥi, wa-badaʾat tataʿallamu l-faransiyyata kulla masāʾin.",
+   "nl": "Maar ze is vastbesloten om te slagen, en ze is elke avond Frans gaan leren.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّها",
+     "w": "j1-p1-l12-w02",
+     "g": "maar zij"
+    },
+    {
+     "t": "عازِمَةٌ",
+     "w": "j3-p10-l112-w05",
+     "g": "vastbesloten (v)"
+    },
+    {
+     "t": "عَلى",
+     "w": "j3-p10-l112-w03",
+     "g": "op"
+    },
+    {
+     "t": "النَّجاحِ،",
+     "w": "j2-p5-l50-w07",
+     "g": "het slagen, succes"
+    },
+    {
+     "t": "وَبَدَأَتْ",
+     "w": "j1-p3-l27-w17",
+     "g": "en zij begon"
+    },
+    {
+     "t": "تَتَعَلَّمُ",
+     "w": "j2-p5-l56-w17",
+     "g": "zij leert (vorm V)"
+    },
+    {
+     "t": "الْفَرَنْسِيَّةَ",
+     "w": "j1-p1-l03-w14",
+     "g": "het Frans"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "مَساءٍ.",
+     "w": "j1-p2-l18-w12"
+    }
+   ]
+  },
+  {
+   "ar": "تَقولُ ياسَمينُ: «إِنْ قُبِلْتُ في جامِعَةٍ أوروبِّيَّةٍ، سَأَرْجِعُ إِلى الْمَغْرِبِ بَعْدَ الْماجِسْتيرِ لِأَعْمَلَ هُنا.»",
+   "tr": "taqūlu yāsamīnu: «in qubiltu fī jāmiʿatin ūrubbiyyatin, sa-arjiʿu ilā l-maġribi baʿda l-mājistīri li-aʿmala hunā.»",
+   "nl": "Yāsamīn zegt: \"Als ik word toegelaten tot een Europese universiteit, kom ik na mijn master terug naar Marokko om hier te werken.\"",
+   "tokens": [
+    {
+     "t": "تَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "zij zegt"
+    },
+    {
+     "t": "ياسَمينُ:",
+     "g": "Yāsamīn (naam)"
+    },
+    {
+     "t": "«إِنْ",
+     "w": "j2-p6-l65-w01",
+     "g": "als (in, voorwaarde)"
+    },
+    {
+     "t": "قُبِلْتُ",
+     "w": "j3-p10-l112-w11",
+     "g": "ik word toegelaten (lijdende vorm)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "جامِعَةٍ",
+     "w": "j1-p1-l05-w14"
+    },
+    {
+     "t": "أوروبِّيَّةٍ،",
+     "w": "j2-p6-l62-w15",
+     "g": "Europese"
+    },
+    {
+     "t": "سَأَرْجِعُ",
+     "w": "j1-p2-l19-w13",
+     "g": "ik zal terugkomen"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمَغْرِبِ",
+     "w": "j1-p1-l03-w08"
+    },
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "الْماجِسْتيرِ",
+     "w": "j3-p10-l112-w13",
+     "g": "de master"
+    },
+    {
+     "t": "لِأَعْمَلَ",
+     "w": "j1-p2-l19-w05",
+     "g": "om te werken (li- + manṣūb)"
+    },
+    {
+     "t": "هُنا.»",
+     "w": "j1-p1-l04-w21"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat wil Yāsamīn gaan studeren?",
+   "opties": [
+    "geneeskunde",
+    "Frans",
+    "economie"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|تَنْوي أَنْ تَدْرُسَ الطِّبَّ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarom kiest ze deze studie?",
+   "opties": [
+    "de arbeidsmarkt heeft artsen nodig",
+    "haar vader is arts",
+    "het is een makkelijke studie"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|سوقُ الْعَمَلِ يَحْتاجُ إِلى أَطِبّاءَ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar is haar moeder bang voor?",
+   "opties": [
+    "dat ze zich eenzaam en vreemd zal voelen",
+    "dat ze zal zakken",
+    "dat ze niet terugkomt"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|نَخافُ أَنْ تَشْعُري بِالْغُرْبَةِ وَالْوَحْدَةِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Haar vader vertelt over studiebeurzen voor goede leerlingen. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|هُناكَ مِنَحًا دِراسِيَّةً لِلطُّلّابِ الْمُتَفَوِّقينَ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "قَرَّرَتْ أَنْ تَجْتَهِدَ أَكْثَرَ ___ تَحْصُلَ عَلى مِنْحَةٍ.",
+   "antwoord": [
+    "لِكَيْ"
+   ],
+   "uitleg": "{ar|لِكَيْ} + manṣūb = om te, opdat.",
+   "nl": "Ze besloot harder te werken om een beurs te krijgen.",
+   "woordbank": [
+    "لِكَيْ",
+    "لِأَنَّ",
+    "رَغْمَ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "سَأَرْجِعُ إِلى الْمَغْرِبِ.",
+   "antwoorden": [
+    "ik zal terugkeren naar Marokko",
+    "ik keer terug naar Marokko",
+    "ik ga terug naar Marokko",
+    "ik zal teruggaan naar Marokko",
+    "ik kom terug naar Marokko",
+    "ik zal terugkomen naar Marokko",
+    "ik zal naar Marokko terugkeren",
+    "ik ga naar Marokko terug",
+    "ik zal naar Marokko teruggaan",
+    "ik kom naar Marokko terug",
+    "ik zal naar Marokko terugkomen"
+   ],
+   "uitleg": "{ar|سَـ} + muḍāriʿ = toekomst: {ar|سَأَرْجِعُ} = ik zal terugkomen.",
+   "tr": "sa-arjiʿu ilā l-maġribi"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

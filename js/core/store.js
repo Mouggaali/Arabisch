@@ -4,7 +4,7 @@
 import { today } from './util.js';
 
 const KEY = 'arabisch.v1';
-const VERSION = 1;
+const VERSION = 2;
 
 const DEFAULTS = {
   translit: 'auto', // 'auto' (volgt de les) | 'aan' | 'uit'
@@ -24,9 +24,10 @@ function fresh() {
     settings: { ...DEFAULTS },
     lessen: {}, // id -> { onderdelen: {woorden, grammatica, oefeningen, toets}, oefen: {goed, totaal}, toetsen: [] }
     srs: {}, // woord-id -> kaart (zie srs.js)
-    tags: {}, // grammatica-tag -> { goed, fout }
+    tags: {}, // grammatica-tag -> { goed, fout, laatste } (laatste: de laatste 10 antwoorden als '1'/'0', nieuwste rechts)
     trainer: {}, // werkwoord-id -> { goed, fout }
     dagen: {}, // 'JJJJ-MM-DD' -> { kaarten, oefen, nieuw }
+    teksten: {}, // leestekst-id -> { gelezen: 'JJJJ-MM-DD', best: 0..1 }
   };
 }
 
@@ -47,7 +48,8 @@ function load() {
 function migrate(s) {
   const base = fresh();
   if (!s || typeof s !== 'object') return base;
-  // Toekomstige versies: hier stap voor stap omzetten (if (s.v === 1) {...; s.v = 2}).
+  // Versie 1 → 2: tags krijgen 'laatste' (wordt vanzelf aangevuld) en er komt 'teksten' bij (via base). Niets om te zetten.
+  // Toekomstige versies: hier stap voor stap omzetten (if (s.v === 2) {...; s.v = 3}).
   return {
     ...base,
     ...s,
@@ -103,6 +105,7 @@ export const store = {
     if (tag) {
       const t = (state.tags[tag] ||= { goed: 0, fout: 0 });
       correct ? t.goed++ : t.fout++;
+      t.laatste = ((t.laatste || '') + (correct ? '1' : '0')).slice(-10);
     }
     const d = (state.dagen[today()] ||= { kaarten: 0, oefen: 0, nieuw: 0 });
     d.oefen++;
@@ -145,6 +148,14 @@ export const store = {
   countDay(field) {
     const d = (state.dagen[today()] ||= { kaarten: 0, oefen: 0, nieuw: 0 });
     d[field] = (d[field] || 0) + 1;
+    save();
+  },
+
+  /** Leestekst: datum van lezen en beste score op de vragen. */
+  recordText(id, pctValue) {
+    const t = (state.teksten[id] ||= { gelezen: today(), best: 0 });
+    t.gelezen = today();
+    if (pctValue != null) t.best = Math.max(t.best || 0, pctValue);
     save();
   },
 

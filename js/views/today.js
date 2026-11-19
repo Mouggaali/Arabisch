@@ -19,6 +19,9 @@ export async function renderToday(main) {
   const goal = todayGoal();
   const reeks = streak();
   const week = weekPlan(c);
+  const texts = await content.texts().catch(() => []);
+  // Aanbevolen leestekst: de eerste die nog niet gelezen is en waarvan de les al afgerond is.
+  const tekst = texts.find((t) => !store.state.teksten?.[t.id] && c.index.get(t.naLes) && unitStatus(c.index.get(t.naLes)).key === 'afgerond');
   sizeParts(levels);
 
   const nextStatus = next ? unitStatus(next) : null;
@@ -44,7 +47,7 @@ export async function renderToday(main) {
             h('span.small.streak', { title: 'Dagen op rij geoefend' }, icon('flame'), reeks === 1 ? '1 dag op rij' : `${reeks} dagen op rij`)),
           meter(goal.ratio, goal.gehaald ? 'var(--good)' : null, true)))),
 
-    weekPanel(week),
+    weekPanel(week, tekst),
 
     h('div.grid-2', { style: { marginTop: '18px' } },
       h('section.panel.glass',
@@ -62,11 +65,13 @@ export async function renderToday(main) {
           : h('p.soft', 'Nog te weinig antwoorden om zwakke punten te bepalen. Maak eerst een paar oefeningen.'),
         hard.length ? h('h3', 'Lastige woorden') : null,
         hard.length ? h('ul.list.rows', hard.map((w) => h('li.kv', h('span', w.nl[0]), h('span', { style: { textAlign: 'right' } }, ar(w.ar), h('div', tr(w.tr)))))) : null,
-        h('div.btn-row', { style: { marginTop: '14px' } }, h('a.btn.btn--ghost.btn--small', { href: '#/voortgang' }, 'Volledige voortgang', icon('arrow'))))));
+        h('div.btn-row', { style: { marginTop: '14px' } },
+          weak.length ? h('a.btn.btn--small', { href: `#/herhalen/${encodeURIComponent(weak.map((t) => t.tag).join(','))}` }, 'Oefen deze punten', icon('arrow')) : null,
+          h('a.btn.btn--ghost.btn--small', { href: '#/voortgang' }, 'Volledige voortgang')))));
 }
 
 /** Deze week volgens het leerplan: status tegenover het schema en de eenheden voor deze week. */
-function weekPanel(w) {
+function weekPanel(w, tekst) {
   const status = w.diff === 0 ? 'Je ligt precies op schema.'
     : w.diff > 0 ? `Je ligt ${w.diff} ${w.diff === 1 ? 'eenheid' : 'eenheden'} voor op het schema.`
       : `Je loopt ${-w.diff} ${w.diff === -1 ? 'eenheid' : 'eenheden'} achter op het schema.`;
@@ -77,6 +82,7 @@ function weekPanel(w) {
     w.next.length
       ? h('ul.list.rows', w.next.map((u) => h('li', h('a.result-link', { href: `#/les/${u.id}` }, h('span.code', u.code), h('span', u.titel)))))
       : h('p.soft', 'Alle eenheden zijn afgerond.'),
+    tekst ? h('ul.list.rows', h('li', h('a.result-link', { href: `#/lezen/${tekst.id}` }, icon('read'), h('span', `Leestekst: ${tekst.titel}`)))) : null,
     h('p.soft.small', { style: { marginTop: '8px' } },
       `In dit tempo ben je klaar rond ${formatDate(w.eind, { month: 'long', year: 'numeric' })}. De startdatum en je dagdoel stel je in bij Instellingen.`));
 }

@@ -1,0 +1,412 @@
+{
+ "id": "j1-p4-t1",
+ "titel": "Twee vrienden in Marrakesh",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 4,
+ "naLes": "j1-p4-l40",
+ "intro": "Sāmī en ʿUmar reizen naar Marokko. Let op de dualis in de māḍī: -ā (zij twee).",
+ "zinnen": [
+  {
+   "ar": "سافَرَ سامي وَصَديقُهُ عُمَرُ إِلى مَرّاكُشَ.",
+   "tr": "sāfara sāmī wa-ṣadīquhu ʿumaru ilā marrākuša.",
+   "nl": "Sāmī en zijn vriend ʿUmar reisden naar Marrakesh.",
+   "tokens": [
+    {
+     "t": "سافَرَ",
+     "w": "j1-p4-l38-w06"
+    },
+    {
+     "t": "سامي",
+     "g": "Sāmī (naam)"
+    },
+    {
+     "t": "وَصَديقُهُ",
+     "w": "j1-p1-l02-w21",
+     "g": "en zijn vriend"
+    },
+    {
+     "t": "عُمَرُ",
+     "g": "ʿUmar (naam)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "مَرّاكُشَ.",
+     "g": "Marrakesh"
+    }
+   ]
+  },
+  {
+   "ar": "رَكِبا الطّائِرَةَ مِنْ أَمِسْتِرْدامَ.",
+   "tr": "rakibā ṭ-ṭāʾirata min amistirdāma.",
+   "nl": "Ze namen het vliegtuig vanuit Amsterdam.",
+   "tokens": [
+    {
+     "t": "رَكِبا",
+     "w": "j1-p3-l26-w03",
+     "g": "zij twee namen (reden in)"
+    },
+    {
+     "t": "الطّائِرَةَ",
+     "w": "j1-p4-l38-w02"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَمِسْتِرْدامَ.",
+     "g": "Amsterdam"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتِ الرِّحْلَةُ طَويلَةً، وَكانَ هُناكَ تَأْخيرٌ في الْمَطارِ.",
+   "tr": "kānati r-riḥlatu ṭawīlatan, wa-kāna hunāka taʾḫīrun fī l-maṭāri.",
+   "nl": "De reis was lang en er was vertraging op het vliegveld.",
+   "tokens": [
+    {
+     "t": "كانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (vrouwelijk)"
+    },
+    {
+     "t": "الرِّحْلَةُ",
+     "w": "j1-p3-l26-w12",
+     "g": "de reis"
+    },
+    {
+     "t": "طَويلَةً،",
+     "w": "j1-p1-l04-w12"
+    },
+    {
+     "t": "وَكانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "تَأْخيرٌ",
+     "w": "j1-p4-l38-w15"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَطارِ.",
+     "w": "j1-p4-l38-w01"
+    }
+   ]
+  },
+  {
+   "ar": "وَصَلا في الْمَساءِ وَرَكِبا سَيّارَةَ أُجْرَةٍ إِلى وَسَطِ الْمَدينَةِ.",
+   "tr": "waṣalā fī l-masāʾi wa-rakibā sayyārata ujratin ilā wasaṭi l-madīnati.",
+   "nl": "Ze kwamen ’s avonds aan en namen een taxi naar het centrum.",
+   "tokens": [
+    {
+     "t": "وَصَلا",
+     "w": "j1-p3-l26-w01",
+     "g": "zij twee kwamen aan"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "وَرَكِبا",
+     "w": "j1-p3-l26-w03",
+     "g": "en zij twee namen"
+    },
+    {
+     "t": "سَيّارَةَ",
+     "w": "j1-p1-l04-w20"
+    },
+    {
+     "t": "أُجْرَةٍ",
+     "w": "j1-p4-l38-w08",
+     "g": "huur; سَيّارَةُ أُجْرَةٍ = taxi"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "وَسَطِ",
+     "w": "j1-p2-l15-w24"
+    },
+    {
+     "t": "الْمَدينَةِ.",
+     "w": "j1-p1-l03-w05"
+    }
+   ]
+  },
+  {
+   "ar": "في الصَّباحِ ذَهَبا مَشْيًا إِلى السّاحَةِ الْكَبيرَةِ.",
+   "tr": "fī ṣ-ṣabāḥi ḏahabā mašyan ilā s-sāḥati l-kabīrati.",
+   "nl": "’s Ochtends gingen ze te voet naar het grote plein.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الصَّباحِ",
+     "w": "j1-p2-l18-w10"
+    },
+    {
+     "t": "ذَهَبا",
+     "w": "j1-p3-l25-w03",
+     "g": "zij twee gingen"
+    },
+    {
+     "t": "مَشْيًا",
+     "w": "j1-p4-l38-w11"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "السّاحَةِ",
+     "w": "j1-p4-l39-w01"
+    },
+    {
+     "t": "الْكَبيرَةِ.",
+     "w": "j1-p1-l04-w07"
+    }
+   ]
+  },
+  {
+   "ar": "هُناكَ سوقٌ قَديمٌ وَمَسْجِدٌ جَميلٌ.",
+   "tr": "hunāka sūqun qadīmun wa-masjidun jamīlun.",
+   "nl": "Daar zijn een oude markt en een mooie moskee.",
+   "tokens": [
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "سوقٌ",
+     "w": "j1-p3-l25-w22"
+    },
+    {
+     "t": "قَديمٌ",
+     "w": "j1-p1-l04-w10"
+    },
+    {
+     "t": "وَمَسْجِدٌ",
+     "w": "j1-p4-l39-w04"
+    },
+    {
+     "t": "جَميلٌ.",
+     "w": "j1-p1-l04-w11"
+    }
+   ]
+  },
+  {
+   "ar": "في السّوقِ دَكاكينُ كَثيرَةٌ.",
+   "tr": "fī s-sūqi dakākīnu kaṯīratun.",
+   "nl": "Op de markt zijn veel winkeltjes.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّوقِ",
+     "w": "j1-p3-l25-w22"
+    },
+    {
+     "t": "دَكاكينُ",
+     "w": "j1-p3-l30-w14",
+     "g": "winkeltjes (meervoud van دُكّان)"
+    },
+    {
+     "t": "كَثيرَةٌ.",
+     "w": "j1-p1-l10-w20"
+    }
+   ]
+  },
+  {
+   "ar": "بَعْدَ ذٰلِكَ سافَرا إِلى الصَّحْراءِ.",
+   "tr": "baʿda ḏālika sāfarā ilā ṣ-ṣaḥrāʾi.",
+   "nl": "Daarna reisden ze naar de woestijn.",
+   "tokens": [
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l25-w21",
+     "g": "na; بَعْدَ ذٰلِكَ = daarna"
+    },
+    {
+     "t": "ذٰلِكَ",
+     "w": "j1-p3-l25-w21",
+     "g": "dat; بَعْدَ ذٰلِكَ = daarna"
+    },
+    {
+     "t": "سافَرا",
+     "w": "j1-p4-l38-w06",
+     "g": "zij twee reisden"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الصَّحْراءِ.",
+     "w": "j1-p4-l40-w04"
+    }
+   ]
+  },
+  {
+   "ar": "نامَ الصَّديقانِ في خَيْمَةٍ تَحْتَ النُّجومِ.",
+   "tr": "nāma ṣ-ṣadīqāni fī ḫaymatin taḥta n-nujūmi.",
+   "nl": "De twee vrienden sliepen in een tent onder de sterren.",
+   "tokens": [
+    {
+     "t": "نامَ",
+     "w": "j1-p2-l14-w24",
+     "g": "sliep (verwant aan نَوْم)"
+    },
+    {
+     "t": "الصَّديقانِ",
+     "w": "j1-p1-l02-w21",
+     "g": "de twee vrienden (dualis)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "خَيْمَةٍ",
+     "w": "j1-p4-l40-w02"
+    },
+    {
+     "t": "تَحْتَ",
+     "w": "j1-p2-l15-w03"
+    },
+    {
+     "t": "النُّجومِ.",
+     "w": "j1-p4-l40-w08"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتْ لَيْلَةً جَميلَةً وَهادِئَةً.",
+   "tr": "kānat laylatan jamīlatan wa-hādiʾatan.",
+   "nl": "Het was een mooie en rustige nacht.",
+   "tokens": [
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (vrouwelijk)"
+    },
+    {
+     "t": "لَيْلَةً",
+     "w": "j1-p4-l40-w09",
+     "g": "een nacht (accusatief na كانَتْ)"
+    },
+    {
+     "t": "جَميلَةً",
+     "w": "j1-p1-l04-w11"
+    },
+    {
+     "t": "وَهادِئَةً.",
+     "w": "j1-p1-l07-w04"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarmee reisden ze naar Marokko?",
+   "opties": [
+    "met het vliegtuig",
+    "met de trein",
+    "met het schip"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|رَكِبا الطّائِرَةَ} = ze namen het vliegtuig."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Er was vertraging op het vliegveld. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|وَكانَ هُناكَ تَأْخيرٌ في الْمَطارِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe gingen ze naar het centrum?",
+   "opties": [
+    "met een taxi",
+    "te voet",
+    "met de bus"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|سَيّارَةَ أُجْرَةٍ} = een taxi. Te voet ({ar|مَشْيًا}) gingen ze de volgende ochtend naar het plein."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar sliepen ze in de woestijn?",
+   "opties": [
+    "in een tent",
+    "in een hotel",
+    "in de auto"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في خَيْمَةٍ تَحْتَ النُّجومِ} = in een tent onder de sterren."
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "هُناكَ سوقٌ قَديمٌ وَمَسْجِدٌ جَميلٌ.",
+   "antwoorden": [
+    "daar is een oude markt en een mooie moskee",
+    "daar zijn een oude markt en een mooie moskee",
+    "er is een oude markt en een mooie moskee",
+    "er zijn een oude markt en een mooie moskee",
+    "daar is een oude markt en daar is een mooie moskee"
+   ],
+   "uitleg": "{ar|هُناكَ} = daar / er is. {ar|سوق} is hier mannelijk: {ar|سوقٌ قَديمٌ}.",
+   "tr": "hunāka sūqun qadīmun wa-masjidun jamīlun"
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "نامَ الصَّديقانِ في خَيْمَةٍ ___ النُّجومِ.",
+   "antwoord": [
+    "تَحْتَ"
+   ],
+   "uitleg": "Onder = {ar|تَحْتَ}; boven = {ar|فَوْقَ}.",
+   "nl": "De twee vrienden sliepen in een tent onder de sterren.",
+   "woordbank": [
+    "تَحْتَ",
+    "فَوْقَ",
+    "بَيْنَ"
+   ]
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

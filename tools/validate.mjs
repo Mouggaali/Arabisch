@@ -1,6 +1,7 @@
 // Structuurcontrole van alle uitgewerkte lesbestanden.  Gebruik:  node tools/validate.mjs
 // Controleert: onbekende tags, ongeldige 'juist'-index, woordbank zonder het antwoord,
-// verwijzingen naar onbekende woord-id's, dubbele woorden over lessen heen, en het aantal oefenvormen.
+// verwijzingen naar onbekende woord-id's, dubbele woorden over lessen heen, het aantal oefenvormen,
+// de werkwoorden van de trainer en de leesteksten (alleen bekende woorden).
 
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -78,6 +79,50 @@ for (const v of read('content/werkwoorden.json').werkwoorden) {
   }
 }
 console.log(`\nWerkwoorden: ${verbIds.size} (${[...verbIds].length - read('content/werkwoorden.json').werkwoorden.filter((v) => !v.vormen).length} met eigen tabel)`);
+
+// Leesteksten (content/teksten): index klopt met de bestanden, elk token heeft een woordkaart (w) of een glosse (g),
+// elke woordkaart komt uit een eenheid tot en met naLes ("alleen bekende woorden"), 4–6 vragen met geldige items.
+const order = curriculum.jaren.flatMap((j) => j.periodes.flatMap((p) => p.eenheden));
+const pos = new Map(order.map((u, i) => [u.id, i]));
+const wordUnit = new Map(lessons.flatMap((l) => l.data.woorden.map((w) => [w.id, l.unit.id])));
+const textIndex = read('content/teksten/index.json').teksten;
+const textIds = new Set();
+let tokens = 0, linked = 0;
+for (const entry of textIndex) {
+  const where = `leestekst ${entry.id}`;
+  if (textIds.has(entry.id)) problems.push(`${where}: dubbel id`);
+  textIds.add(entry.id);
+  let t;
+  try { t = read('content/teksten/' + entry.bestand); } catch { problems.push(`${where}: bestand ${entry.bestand} ontbreekt`); continue; }
+  if (t.id !== entry.id) problems.push(`${where}: id in het bestand is ${t.id}`);
+  if (!pos.has(entry.naLes)) problems.push(`${where}: onbekende les ${entry.naLes}`);
+  for (const [k, z] of t.zinnen.entries()) {
+    if (!z.ar || !z.tr || !z.nl || !z.tokens?.length) problems.push(`${where} zin ${k + 1}: ar, tr, nl of tokens ontbreekt`);
+    if (z.tokens.map((x) => x.t).join(' ') !== z.ar) problems.push(`${where} zin ${k + 1}: tokens vormen niet de zin`);
+    for (const tok of z.tokens) {
+      tokens++;
+      const core = tok.t.replace(/[،؛؟.,!?;:"'()«»\-–—]/g, '');
+      if (!core) continue;
+      if (tok.w) {
+        linked++;
+        if (!wordUnit.has(tok.w)) problems.push(`${where}: onbekend woord ${tok.w} (${tok.t})`);
+        else if (pos.get(wordUnit.get(tok.w)) > pos.get(entry.naLes)) problems.push(`${where}: ${tok.t} (${tok.w}) komt pas na ${entry.naLes}`);
+      } else if (!tok.g) problems.push(`${where}: ${tok.t} heeft geen woordkaart en geen glosse`);
+    }
+  }
+  if (t.vragen.length < 4 || t.vragen.length > 6) problems.push(`${where}: ${t.vragen.length} vragen (4–6 verwacht)`);
+  for (const it of t.vragen) {
+    if (!tags[it.tag]) problems.push(`${where}: onbekende tag '${it.tag}'`);
+    if (!it.uitleg) problems.push(`${where}: vraag zonder uitleg`);
+    if (it.type === 'schrijven') problems.push(`${where}: schrijfopdracht hoort niet bij de vragen`);
+    if ('juist' in it && !(it.juist >= 0 && it.juist < it.opties.length)) problems.push(`${where}: ongeldige 'juist' in "${it.vraag}"`);
+    if (it.woordbank && !it.woordbank.includes([].concat(it.antwoord)[0])) problems.push(`${where}: woordbank mist het antwoord bij "${it.zin}"`);
+    if (it.type === 'invullen' && !it.zin.includes('___')) problems.push(`${where}: invulzin zonder ___`);
+  }
+  const foreign = JSON.stringify(t).match(/[پچکگی]/g);
+  if (foreign) problems.push(`${where}: niet-Arabische letters gevonden (${[...new Set(foreign)].join(' ')})`);
+}
+console.log(`Leesteksten: ${textIndex.length}, ${tokens} woorden, waarvan ${linked} gekoppeld aan een woordkaart (${Math.round((linked / Math.max(1, tokens)) * 100)}%)`);
 
 console.log(problems.length ? '\nProblemen:\n' + problems.join('\n') : '\nGeen problemen gevonden.');
 process.exitCode = problems.length ? 1 : 0;

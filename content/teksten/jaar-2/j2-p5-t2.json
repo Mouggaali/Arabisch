@@ -1,0 +1,480 @@
+{
+ "id": "j2-p5-t2",
+ "titel": "Arabisch leren met een app",
+ "soort": "bericht",
+ "jaar": 2,
+ "periode": 5,
+ "naLes": "j2-p5-l59",
+ "intro": "Een leerling vertelt hoe hij Arabisch leert. Je ziet afgeleide werkwoordsvormen (II, V, X).",
+ "zinnen": [
+  {
+   "ar": "أَتَعَلَّمُ الْعَرَبِيَّةَ مُنْذُ سَنَةٍ.",
+   "tr": "ataʿallamu l-ʿarabiyyata munḏu sanatin.",
+   "nl": "Ik leer al een jaar Arabisch.",
+   "tokens": [
+    {
+     "t": "أَتَعَلَّمُ",
+     "w": "j2-p5-l56-w17",
+     "g": "ik leer (taʿallama, vorm V; verwant aan مُتَعَلِّم)"
+    },
+    {
+     "t": "الْعَرَبِيَّةَ",
+     "w": "j1-p1-l03-w21"
+    },
+    {
+     "t": "مُنْذُ",
+     "w": "j1-p3-l33-w18"
+    },
+    {
+     "t": "سَنَةٍ.",
+     "w": "j1-p1-l09-w17"
+    }
+   ]
+  },
+  {
+   "ar": "في الْبِدايَةِ كانَ ذٰلِكَ صَعْبًا جِدًّا.",
+   "tr": "fī l-bidāyati kāna ḏālika ṣaʿban jiddan.",
+   "nl": "In het begin was dat heel moeilijk.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْبِدايَةِ",
+     "w": "j1-p4-l47-w24",
+     "g": "het begin; في الْبِدايَةِ = in het begin"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "ذٰلِكَ",
+     "w": "j1-p1-l08-w03"
+    },
+    {
+     "t": "صَعْبًا",
+     "w": "j1-p3-l27-w19"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "لَمْ أَفْهَمِ الْقَواعِدَ، وَكانَ النُّطْقُ صَعْبًا.",
+   "tr": "lam afhami l-qawāʿida, wa-kāna n-nuṭqu ṣaʿban.",
+   "nl": "Ik begreep de grammatica niet, en de uitspraak was moeilijk.",
+   "tokens": [
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "أَفْهَمِ",
+     "w": "j1-p2-l19-w08",
+     "g": "ik begrijp: majzūm na لَمْ (-i vóór al-)"
+    },
+    {
+     "t": "الْقَواعِدَ،",
+     "w": "j2-p5-l56-w11"
+    },
+    {
+     "t": "وَكانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "النُّطْقُ",
+     "w": "j2-p5-l56-w12"
+    },
+    {
+     "t": "صَعْبًا.",
+     "w": "j1-p3-l27-w19"
+    }
+   ]
+  },
+  {
+   "ar": "ثُمَّ أَخْبَرَني صَديقي عَنْ تَطْبيقٍ جَديدٍ.",
+   "tr": "ṯumma aḫbaranī ṣadīqī ʿan taṭbīqin jadīdin.",
+   "nl": "Toen vertelde mijn vriend me over een nieuwe app.",
+   "tokens": [
+    {
+     "t": "ثُمَّ",
+     "w": "j1-p3-l25-w20"
+    },
+    {
+     "t": "أَخْبَرَني",
+     "w": "j2-p5-l55-w01",
+     "g": "hij vertelde mij (vorm IV)"
+    },
+    {
+     "t": "صَديقي",
+     "w": "j1-p1-l02-w21"
+    },
+    {
+     "t": "عَنْ",
+     "g": "over, van (ʿan)"
+    },
+    {
+     "t": "تَطْبيقٍ",
+     "w": "j2-p5-l59-w07"
+    },
+    {
+     "t": "جَديدٍ.",
+     "w": "j1-p1-l04-w09"
+    }
+   ]
+  },
+  {
+   "ar": "اِسْتَخْدَمْتُ التَّطْبيقَ كُلَّ يَوْمٍ عِشْرينَ دَقيقَةً.",
+   "tr": "istaḫdamtu t-taṭbīqa kulla yawmin ʿišrīna daqīqatan.",
+   "nl": "Ik gebruikte de app elke dag twintig minuten.",
+   "tokens": [
+    {
+     "t": "اِسْتَخْدَمْتُ",
+     "w": "j2-p5-l59-w01",
+     "g": "ik gebruikte (vorm X)"
+    },
+    {
+     "t": "التَّطْبيقَ",
+     "w": "j2-p5-l59-w07"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "يَوْمٍ",
+     "w": "j1-p2-l18-w01"
+    },
+    {
+     "t": "عِشْرينَ",
+     "w": "j1-p2-l13-w10",
+     "g": "twintig (accusatief)"
+    },
+    {
+     "t": "دَقيقَةً.",
+     "w": "j1-p2-l13-w12"
+    }
+   ]
+  },
+  {
+   "ar": "فيهِ تَمارينُ لِلْمُفْرَداتِ وَالْقَواعِدِ وَالنُّطْقِ.",
+   "tr": "fīhi tamārīnu li-l-mufradāti wa-l-qawāʿidi wa-n-nuṭqi.",
+   "nl": "Er staan oefeningen in voor woordenschat, grammatica en uitspraak.",
+   "tokens": [
+    {
+     "t": "فيهِ",
+     "w": "j1-p2-l15-w01",
+     "g": "erin (fī + -hi)"
+    },
+    {
+     "t": "تَمارينُ",
+     "w": "j1-p2-l13-w16",
+     "g": "oefeningen (meervoud)"
+    },
+    {
+     "t": "لِلْمُفْرَداتِ",
+     "w": "j2-p5-l56-w10"
+    },
+    {
+     "t": "وَالْقَواعِدِ",
+     "w": "j2-p5-l56-w11"
+    },
+    {
+     "t": "وَالنُّطْقِ.",
+     "w": "j2-p5-l56-w12"
+    }
+   ]
+  },
+  {
+   "ar": "أَسْتَمِعُ إِلى الْكَلِماتِ وَأُكَرِّرُها.",
+   "tr": "astamiʿu ilā l-kalimāti wa-ukarriruhā.",
+   "nl": "Ik luister naar de woorden en herhaal ze.",
+   "tokens": [
+    {
+     "t": "أَسْتَمِعُ",
+     "w": "j2-p5-l58-w05",
+     "g": "ik luister (vorm VIII)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْكَلِماتِ",
+     "w": "j2-p5-l59-w09",
+     "g": "de woorden (meervoud van كَلِمَة)"
+    },
+    {
+     "t": "وَأُكَرِّرُها.",
+     "w": "j2-p5-l53-w08",
+     "g": "en ik herhaal ze (vorm II + -hā)"
+    }
+   ]
+  },
+  {
+   "ar": "اَلتَّطْبيقُ لا يُصَحِّحُ كُلَّ الْأَخْطاءِ، لٰكِنَّهُ مُفيدٌ جِدًّا.",
+   "tr": "at-taṭbīqu lā yuṣaḥḥiḥu kulla l-aḫṭāʾi, lākinnahu mufīdun jiddan.",
+   "nl": "De app verbetert niet alle fouten, maar hij is heel nuttig.",
+   "tokens": [
+    {
+     "t": "اَلتَّطْبيقُ",
+     "w": "j2-p5-l59-w07"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór de muḍāriʿ)"
+    },
+    {
+     "t": "يُصَحِّحُ",
+     "w": "j2-p5-l53-w06",
+     "g": "hij verbetert (vorm II)"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "الْأَخْطاءِ،",
+     "w": "j1-p1-l12-w14",
+     "g": "de fouten (meervoud)"
+    },
+    {
+     "t": "لٰكِنَّهُ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar hij (lākinna + -hu)"
+    },
+    {
+     "t": "مُفيدٌ",
+     "w": "j1-p3-l36-w18"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْآنَ أَتَكَلَّمُ قَليلًا مَعَ جيراني الْمَغارِبَةِ.",
+   "tr": "al-āna atakallamu qalīlan maʿa jīrānī l-maġāribati.",
+   "nl": "Nu praat ik een beetje met mijn Marokkaanse buren.",
+   "tokens": [
+    {
+     "t": "اَلْآنَ",
+     "w": "j1-p1-l12-w16"
+    },
+    {
+     "t": "أَتَكَلَّمُ",
+     "w": "j1-p2-l24-w18",
+     "g": "ik spreek (vorm V)"
+    },
+    {
+     "t": "قَليلًا",
+     "w": "j1-p1-l12-w18"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "جيراني",
+     "w": "j1-p2-l14-w22",
+     "g": "mijn buren"
+    },
+    {
+     "t": "الْمَغارِبَةِ.",
+     "w": "j1-p1-l03-w18",
+     "g": "Marokkaanse (meervoud: مَغارِبَة)"
+    }
+   ]
+  },
+  {
+   "ar": "هُمْ يَتَكَلَّمونَ الدّارِجَةَ، وَأَنا أَتَكَلَّمُ الْفُصْحى!",
+   "tr": "hum yatakallamūna d-dārijata, wa-ana atakallamu l-fuṣḥā!",
+   "nl": "Zij spreken Darija, en ik spreek Fuṣḥā!",
+   "tokens": [
+    {
+     "t": "هُمْ",
+     "w": "j1-p1-l05-w04"
+    },
+    {
+     "t": "يَتَكَلَّمونَ",
+     "w": "j1-p2-l24-w18",
+     "g": "zij spreken"
+    },
+    {
+     "t": "الدّارِجَةَ،",
+     "g": "de Darija (Marokkaans Arabisch)"
+    },
+    {
+     "t": "وَأَنا",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "أَتَكَلَّمُ",
+     "w": "j1-p2-l24-w18",
+     "g": "ik spreek (vorm V)"
+    },
+    {
+     "t": "الْفُصْحى!",
+     "g": "de Fuṣḥā (standaard-Arabisch)"
+    }
+   ]
+  },
+  {
+   "ar": "هٰذا مُمْتِعٌ، وَأَتَعَلَّمُ مِنْهُمْ كَلِماتٍ جَديدَةً.",
+   "tr": "hāḏā mumtiʿun, wa-ataʿallamu minhum kalimātin jadīdatan.",
+   "nl": "Dat is leuk, en ik leer nieuwe woorden van hen.",
+   "tokens": [
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "مُمْتِعٌ،",
+     "w": "j1-p3-l26-w19"
+    },
+    {
+     "t": "وَأَتَعَلَّمُ",
+     "w": "j2-p5-l56-w17",
+     "g": "en ik leer (vorm V)"
+    },
+    {
+     "t": "مِنْهُمْ",
+     "w": "j1-p1-l02-w10",
+     "g": "van hen (min + -hum)"
+    },
+    {
+     "t": "كَلِماتٍ",
+     "w": "j2-p5-l59-w09",
+     "g": "woorden (meervoud van كَلِمَة)"
+    },
+    {
+     "t": "جَديدَةً.",
+     "w": "j1-p1-l04-w09"
+    }
+   ]
+  },
+  {
+   "ar": "هَدَفي: أَنْ أَتَكَلَّمَ بِطَلاقَةٍ بَعْدَ سَنَتَيْنِ.",
+   "tr": "hadafī: an atakallama bi-ṭalāqatin baʿda sanatayni.",
+   "nl": "Mijn doel: over twee jaar vloeiend spreken.",
+   "tokens": [
+    {
+     "t": "هَدَفي:",
+     "w": "j1-p4-l44-w13"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "أَتَكَلَّمَ",
+     "w": "j1-p2-l24-w18",
+     "g": "(dat) ik spreek: manṣūb na أَنْ"
+    },
+    {
+     "t": "بِطَلاقَةٍ",
+     "w": "j2-p5-l56-w13"
+    },
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "سَنَتَيْنِ.",
+     "w": "j1-p1-l09-w17",
+     "g": "twee jaar (dualis)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe lang leert de schrijver al Arabisch?",
+   "opties": [
+    "een jaar",
+    "twee jaar",
+    "een maand"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مُنْذُ سَنَةٍ} = sinds een jaar. Twee jaar ({ar|سَنَتَيْنِ}) is zijn doel."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel tijd per dag gebruikte hij de app?",
+   "opties": [
+    "twintig minuten",
+    "een uur",
+    "tien minuten"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|عِشْرينَ دَقيقَةً} = twintig minuten."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De app verbetert alle fouten. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|لا يُصَحِّحُ كُلَّ الْأَخْطاءِ} = verbetert niet alle fouten."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welke taal spreken de buren?",
+   "opties": [
+    "Darija",
+    "Fuṣḥā",
+    "Nederlands"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|هُمْ يَتَكَلَّمونَ الدّارِجَةَ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "هَدَفي: أَنْ ___ بِطَلاقَةٍ.",
+   "antwoord": [
+    "أَتَكَلَّمَ"
+   ],
+   "uitleg": "Na {ar|أَنْ} komt de manṣūb: {ar|أَتَكَلَّمَ} op -a.",
+   "nl": "Mijn doel: vloeiend spreken.",
+   "woordbank": [
+    "أَتَكَلَّمَ",
+    "تَكَلَّمْتُ",
+    "يَتَكَلَّمونَ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "اَلتَّطْبيقُ مُفيدٌ جِدًّا.",
+   "antwoorden": [
+    "de app is heel nuttig",
+    "de app is erg nuttig",
+    "de applicatie is heel nuttig",
+    "de applicatie is erg nuttig",
+    "de app is zeer nuttig"
+   ],
+   "uitleg": "Naamwoordelijke zin zonder \"is\": {ar|اَلتَّطْبيقُ مُفيدٌ}.",
+   "tr": "at-taṭbīqu mufīdun jiddan"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

@@ -1,0 +1,718 @@
+{
+ "id": "j3-p12-t2",
+ "titel": "Water: elke druppel telt",
+ "soort": "artikel",
+ "jaar": 3,
+ "periode": 12,
+ "naLes": "j3-p12-l140",
+ "intro": "Een artikel over watertekort in Marokko: oorzaken, maatregelen en wat je zelf kunt doen.",
+ "zinnen": [
+  {
+   "ar": "يُعَدُّ الْماءُ مِنْ أَهَمِّ الْمَوارِدِ الطَّبيعِيَّةِ في الْعالَمِ.",
+   "tr": "yuʿaddu l-māʾu min ahammi l-mawāridi ṭ-ṭabīʿiyyati fī l-ʿālami.",
+   "nl": "Water geldt als een van de belangrijkste natuurlijke hulpbronnen ter wereld.",
+   "tokens": [
+    {
+     "t": "يُعَدُّ",
+     "g": "wordt beschouwd (als) (yuʿaddu)"
+    },
+    {
+     "t": "الْماءُ",
+     "w": "j1-p2-l21-w03"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَهَمِّ",
+     "w": "j1-p3-l27-w20",
+     "g": "de belangrijkste (min ahammi … = een van de belangrijkste)"
+    },
+    {
+     "t": "الْمَوارِدِ",
+     "w": "j3-p12-l137-w01",
+     "g": "de hulpbronnen"
+    },
+    {
+     "t": "الطَّبيعِيَّةِ",
+     "w": "j3-p12-l137-w01",
+     "g": "natuurlijke"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الْعالَمِ.",
+     "w": "j2-p7-l73-w15",
+     "g": "de wereld"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ الْمَغْرِبَ يُعاني مُنْذُ سَنَواتٍ مِنْ شُحِّ الْمِياهِ.",
+   "tr": "lākinna l-maġriba yuʿānī munḏu sanawātin min šuḥḥi l-miyāhi.",
+   "nl": "Maar Marokko lijdt al jaren onder waterschaarste.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "الْمَغْرِبَ",
+     "w": "j1-p1-l03-w08"
+    },
+    {
+     "t": "يُعاني",
+     "g": "lijdt (onder) (ʿānā min)"
+    },
+    {
+     "t": "مُنْذُ",
+     "w": "j1-p3-l33-w18"
+    },
+    {
+     "t": "سَنَواتٍ",
+     "w": "j1-p1-l09-w17",
+     "g": "jaren"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "شُحِّ",
+     "w": "j3-p10-l111-w15",
+     "g": "tekort; شُحُّ الْمِياهِ = waterschaarste"
+    },
+    {
+     "t": "الْمِياهِ.",
+     "w": "j2-p7-l81-w10",
+     "g": "het water (meervoud)"
+    }
+   ]
+  },
+  {
+   "ar": "فَقَدْ عاشَتِ الْبِلادُ سَنَواتِ جَفافٍ مُتَتالِيَةً، وَانْخَفَضَ مُسْتَوى الْمِياهِ في السُّدودِ.",
+   "tr": "fa-qad ʿāšati l-bilādu sanawāti jafāfin mutatāliyatan, wa-nḫafaḍa mustawā l-miyāhi fī s-sudūdi.",
+   "nl": "Het land heeft meerdere droge jaren na elkaar gekend, en het waterpeil in de stuwdammen is gedaald.",
+   "tokens": [
+    {
+     "t": "فَقَدْ",
+     "g": "want (fa-qad + māḍī)"
+    },
+    {
+     "t": "عاشَتِ",
+     "g": "heeft beleefd (ʿāša)"
+    },
+    {
+     "t": "الْبِلادُ",
+     "w": "j1-p1-l03-w04",
+     "g": "het land (bilād)"
+    },
+    {
+     "t": "سَنَواتِ",
+     "w": "j1-p1-l09-w17",
+     "g": "jaren"
+    },
+    {
+     "t": "جَفافٍ",
+     "w": "j2-p7-l81-w08"
+    },
+    {
+     "t": "مُتَتالِيَةً،",
+     "w": "j3-p12-l137-w03",
+     "g": "opeenvolgend"
+    },
+    {
+     "t": "وَانْخَفَضَ",
+     "w": "j2-p7-l83-w09",
+     "g": "en daalde"
+    },
+    {
+     "t": "مُسْتَوى",
+     "w": "j2-p5-l50-w18"
+    },
+    {
+     "t": "الْمِياهِ",
+     "w": "j2-p7-l81-w10",
+     "g": "het water (meervoud)"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "السُّدودِ.",
+     "w": "j3-p12-l137-w04",
+     "g": "de stuwdammen"
+    }
+   ]
+  },
+  {
+   "ar": "وَيَرْجِعُ ذٰلِكَ إِلى التَّغَيُّرِ الْمُناخِيِّ وَالِاسْتِهْلاكِ الْكَبيرِ في الزِّراعَةِ.",
+   "tr": "wa-yarjiʿu ḏālika ilā t-taġayyuri l-munāḫiyyi wa-l-istihlāki l-kabīri fī z-zirāʿati.",
+   "nl": "Dat komt door klimaatverandering en het grote verbruik in de landbouw.",
+   "tokens": [
+    {
+     "t": "وَيَرْجِعُ",
+     "w": "j1-p2-l19-w13",
+     "g": "en komt voort (uit) (rajaʿa ilā)"
+    },
+    {
+     "t": "ذٰلِكَ",
+     "w": "j1-p1-l08-w03"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "التَّغَيُّرِ",
+     "w": "j3-p10-l111-w01",
+     "g": "de verandering"
+    },
+    {
+     "t": "الْمُناخِيِّ",
+     "w": "j3-p10-l111-w01",
+     "g": "klimaat-; التَّغَيُّرُ الْمُناخِيُّ = klimaatverandering"
+    },
+    {
+     "t": "وَالِاسْتِهْلاكِ",
+     "w": "j3-p10-l109-w19"
+    },
+    {
+     "t": "الْكَبيرِ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الزِّراعَةِ.",
+     "w": "j2-p5-l49-w20"
+    }
+   ]
+  },
+  {
+   "ar": "فَالزِّراعَةُ تَسْتَهْلِكُ حَوالَيْ ثَمانينَ في الْمِئَةِ مِنَ الْمِياهِ.",
+   "tr": "fa-z-zirāʿatu tastahliku ḥawālay ṯamānīna fī l-miʾati mina l-miyāhi.",
+   "nl": "De landbouw verbruikt namelijk ongeveer tachtig procent van het water.",
+   "tokens": [
+    {
+     "t": "فَالزِّراعَةُ",
+     "w": "j2-p5-l49-w20",
+     "g": "want de landbouw"
+    },
+    {
+     "t": "تَسْتَهْلِكُ",
+     "w": "j2-p7-l81-w11",
+     "g": "verbruikt"
+    },
+    {
+     "t": "حَوالَيْ",
+     "w": "j1-p4-l39-w17",
+     "g": "ongeveer"
+    },
+    {
+     "t": "ثَمانينَ",
+     "w": "j1-p2-l17-w06",
+     "g": "tachtig"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الْمِئَةِ",
+     "w": "j2-p7-l83-w03",
+     "g": "honderd; في الْمِئَةِ = procent"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمِياهِ.",
+     "w": "j2-p7-l81-w10",
+     "g": "het water (meervoud)"
+    }
+   ]
+  },
+  {
+   "ar": "لِمُواجَهَةِ هٰذِهِ الْأَزْمَةِ، بَنَتِ الدَّوْلَةُ مَحَطّاتٍ لِتَحْلِيَةِ مِياهِ الْبَحْرِ.",
+   "tr": "li-muwājahati hāḏihi l-azmati, banati d-dawlatu maḥaṭṭātin li-taḥliyati miyāhi l-baḥri.",
+   "nl": "Om deze crisis het hoofd te bieden, heeft de staat installaties gebouwd om zeewater te ontzilten.",
+   "tokens": [
+    {
+     "t": "لِمُواجَهَةِ",
+     "g": "om het hoofd te bieden aan (muwājaha)"
+    },
+    {
+     "t": "هٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "الْأَزْمَةِ،",
+     "w": "j3-p10-l109-w13"
+    },
+    {
+     "t": "بَنَتِ",
+     "w": "j3-p9-l98-w04",
+     "g": "bouwde (banā)"
+    },
+    {
+     "t": "الدَّوْلَةُ",
+     "w": "j2-p6-l62-w01"
+    },
+    {
+     "t": "مَحَطّاتٍ",
+     "w": "j3-p12-l137-w10",
+     "g": "installaties, centrales"
+    },
+    {
+     "t": "لِتَحْلِيَةِ",
+     "w": "j3-p12-l137-w09",
+     "g": "voor het ontzilten (taḥliya)"
+    },
+    {
+     "t": "مِياهِ",
+     "w": "j2-p7-l81-w10",
+     "g": "water"
+    },
+    {
+     "t": "الْبَحْرِ.",
+     "w": "j1-p2-l16-w19"
+    }
+   ]
+  },
+  {
+   "ar": "كَما شَجَّعَتِ الْفَلّاحينَ عَلى الرَّيِّ بِالتَّنْقيطِ.",
+   "tr": "kamā šajjaʿati l-fallāḥīna ʿalā r-rayyi bi-t-tanqīṭi.",
+   "nl": "Ook moedigde ze boeren aan om druppelirrigatie te gebruiken.",
+   "tokens": [
+    {
+     "t": "كَما",
+     "g": "ook, verder (kamā)"
+    },
+    {
+     "t": "شَجَّعَتِ",
+     "w": "j2-p5-l53-w21",
+     "g": "moedigde aan (v)"
+    },
+    {
+     "t": "الْفَلّاحينَ",
+     "w": "j1-p3-l32-w07",
+     "g": "de boeren"
+    },
+    {
+     "t": "عَلى",
+     "g": "tot, om te (na شَجَّعَ)"
+    },
+    {
+     "t": "الرَّيِّ",
+     "w": "j3-p12-l137-w11",
+     "g": "irrigatie"
+    },
+    {
+     "t": "بِالتَّنْقيطِ.",
+     "w": "j3-p12-l137-w11",
+     "g": "druppelsgewijs; الرَّيُّ بِالتَّنْقيطِ = druppelirrigatie"
+    }
+   ]
+  },
+  {
+   "ar": "وَهِيَ طَريقَةٌ تُوَفِّرُ كَمِّيّاتٍ كَبيرَةً مِنَ الْماءِ.",
+   "tr": "wa-hiya ṭarīqatun tuwaffiru kammiyyātin kabīratan mina l-māʾi.",
+   "nl": "Dat is een methode die grote hoeveelheden water bespaart.",
+   "tokens": [
+    {
+     "t": "وَهِيَ",
+     "w": "j1-p1-l02-w05",
+     "g": "en dat (zij) is"
+    },
+    {
+     "t": "طَريقَةٌ",
+     "w": "j1-p4-l38-w14",
+     "g": "een manier, methode (ṭarīqa)"
+    },
+    {
+     "t": "تُوَفِّرُ",
+     "w": "j2-p5-l50-w11",
+     "g": "bespaart"
+    },
+    {
+     "t": "كَمِّيّاتٍ",
+     "w": "j1-p4-l42-w20",
+     "g": "hoeveelheden"
+    },
+    {
+     "t": "كَبيرَةً",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْماءِ.",
+     "w": "j1-p2-l21-w03"
+    }
+   ]
+  },
+  {
+   "ar": "وَلٰكِنَّ الْحُكومَةَ وَحْدَها لا تَسْتَطيعُ حَلَّ الْمُشْكِلَةِ.",
+   "tr": "wa-lākinna l-ḥukūmata waḥdahā lā tastaṭīʿu ḥalla l-muškilati.",
+   "nl": "Maar de regering kan het probleem niet alleen oplossen.",
+   "tokens": [
+    {
+     "t": "وَلٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar"
+    },
+    {
+     "t": "الْحُكومَةَ",
+     "w": "j2-p6-l67-w16"
+    },
+    {
+     "t": "وَحْدَها",
+     "w": "j1-p4-l47-w12",
+     "g": "alleen (zij)"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "تَسْتَطيعُ",
+     "w": "j2-p5-l50-w03",
+     "g": "kan (zij)"
+    },
+    {
+     "t": "حَلَّ",
+     "w": "j2-p6-l71-w06",
+     "g": "het oplossen"
+    },
+    {
+     "t": "الْمُشْكِلَةِ.",
+     "w": "j1-p1-l10-w11"
+    }
+   ]
+  },
+  {
+   "ar": "فَكُلُّ مُواطِنٍ يُمْكِنُ أَنْ يُساهِمَ في الْحِفاظِ عَلى الْماءِ.",
+   "tr": "fa-kullu muwāṭinin yumkinu an yusāhima fī l-ḥifāẓi ʿalā l-māʾi.",
+   "nl": "Want elke burger kan bijdragen aan het zuinig omgaan met water.",
+   "tokens": [
+    {
+     "t": "فَكُلُّ",
+     "w": "j1-p4-l46-w17",
+     "g": "want elke"
+    },
+    {
+     "t": "مُواطِنٍ",
+     "w": "j2-p6-l67-w17"
+    },
+    {
+     "t": "يُمْكِنُ",
+     "w": "j2-p7-l82-w02",
+     "g": "het is mogelijk; يُمْكِنُ أَنْ = kunnen"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "يُساهِمَ",
+     "w": "j3-p12-l137-w16",
+     "g": "(dat) hij bijdraagt: manṣūb"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الْحِفاظِ",
+     "w": "j2-p7-l81-w12",
+     "g": "het behoud, zuinig omgaan (ḥifāẓ)"
+    },
+    {
+     "t": "عَلى",
+     "g": "tot, om te (na شَجَّعَ)"
+    },
+    {
+     "t": "الْماءِ.",
+     "w": "j1-p2-l21-w03"
+    }
+   ]
+  },
+  {
+   "ar": "مَثَلًا، يَجِبُ أَنْ نُغْلِقَ الصُّنْبورَ عِنْدَما نَغْسِلُ أَسْنانَنا، وَأَنْ نُصْلِحَ أَيَّ تَسَرُّبٍ في الْبَيْتِ بِسُرْعَةٍ.",
+   "tr": "maṯalan, yajibu an nuġliqa ṣ-ṣunbūra ʿindamā naġsilu asnānanā, wa-an nuṣliḥa ayya tasarrubin fī l-bayti bi-surʿatin.",
+   "nl": "We moeten bijvoorbeeld de kraan dichtdraaien als we onze tanden poetsen, en elk lek in huis snel repareren.",
+   "tokens": [
+    {
+     "t": "مَثَلًا،",
+     "w": "j2-p8-l95-w13",
+     "g": "bijvoorbeeld (maṯalan)"
+    },
+    {
+     "t": "يَجِبُ",
+     "w": "j2-p7-l82-w01",
+     "g": "het moet; يَجِبُ أَنْ = moeten"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "نُغْلِقَ",
+     "w": "j2-p5-l55-w03",
+     "g": "(dat) wij dichtdoen: manṣūb"
+    },
+    {
+     "t": "الصُّنْبورَ",
+     "w": "j3-p12-l137-w12"
+    },
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "نَغْسِلُ",
+     "w": "j1-p2-l20-w02",
+     "g": "wij wassen; نَغْسِلُ أَسْنانَنا = wij poetsen onze tanden"
+    },
+    {
+     "t": "أَسْنانَنا،",
+     "w": "j3-p9-l107-w08",
+     "g": "onze tanden"
+    },
+    {
+     "t": "وَأَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "نُصْلِحَ",
+     "w": "j2-p5-l51-w09",
+     "g": "(dat) wij repareren: manṣūb"
+    },
+    {
+     "t": "أَيَّ",
+     "w": "j1-p2-l24-w04",
+     "g": "elk, welk dan ook"
+    },
+    {
+     "t": "تَسَرُّبٍ",
+     "w": "j3-p12-l137-w13"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الْبَيْتِ",
+     "w": "j1-p1-l04-w18"
+    },
+    {
+     "t": "بِسُرْعَةٍ.",
+     "w": "j1-p4-l47-w32"
+    }
+   ]
+  },
+  {
+   "ar": "وَيَقولُ الْخُبَراءُ إِنَّ الْماءَ الصّالِحَ لِلشُّرْبِ قَدْ يُصْبِحُ أَغْلى مِنَ النَّفْطِ في الْمُسْتَقْبَلِ.",
+   "tr": "wa-yaqūlu l-ḫubarāʾu inna l-māʾa ṣ-ṣāliḥa li-š-šurbi qad yuṣbiḥu aġlā mina n-nafṭi fī l-mustaqbali.",
+   "nl": "En deskundigen zeggen dat drinkwater in de toekomst misschien duurder wordt dan olie.",
+   "tokens": [
+    {
+     "t": "وَيَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "en (zij) zeggen"
+    },
+    {
+     "t": "الْخُبَراءُ",
+     "w": "j3-p11-l132-w14",
+     "g": "de deskundigen"
+    },
+    {
+     "t": "إِنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat (inna na قالَ)"
+    },
+    {
+     "t": "الْماءَ",
+     "w": "j3-p12-l137-w06",
+     "g": "het water"
+    },
+    {
+     "t": "الصّالِحَ",
+     "w": "j3-p12-l137-w06",
+     "g": "geschikt"
+    },
+    {
+     "t": "لِلشُّرْبِ",
+     "w": "j3-p12-l137-w06",
+     "g": "om te drinken; الْماءُ الصّالِحُ لِلشُّرْبِ = drinkwater"
+    },
+    {
+     "t": "قَدْ",
+     "g": "misschien (qad + muḍāriʿ)"
+    },
+    {
+     "t": "يُصْبِحُ",
+     "w": "j2-p5-l55-w06",
+     "g": "wordt"
+    },
+    {
+     "t": "أَغْلى",
+     "w": "j1-p4-l45-w06"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "النَّفْطِ",
+     "g": "de (aard)olie"
+    },
+    {
+     "t": "في",
+     "w": "j3-p12-l137-w16",
+     "g": "aan (سَاهَمَ في = bijdragen aan)"
+    },
+    {
+     "t": "الْمُسْتَقْبَلِ.",
+     "w": "j1-p4-l44-w08"
+    }
+   ]
+  },
+  {
+   "ar": "لِذٰلِكَ، فَإِنَّ كُلَّ قَطْرَةٍ مُهِمَّةٌ.",
+   "tr": "li-ḏālika, fa-inna kulla qaṭratin muhimmatun.",
+   "nl": "Daarom telt elke druppel.",
+   "tokens": [
+    {
+     "t": "لِذٰلِكَ،",
+     "w": "j2-p8-l95-w04"
+    },
+    {
+     "t": "فَإِنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dan (geldt) dat … (fa-inna)"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "قَطْرَةٍ",
+     "g": "druppel"
+    },
+    {
+     "t": "مُهِمَّةٌ.",
+     "w": "j1-p3-l27-w20",
+     "g": "belangrijk (v)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar lijdt Marokko onder?",
+   "opties": [
+    "watertekort",
+    "overstromingen",
+    "te veel regen"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|يُعاني … مِنْ شُحِّ الْمِياهِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel procent van het water gebruikt de landbouw?",
+   "opties": [
+    "ongeveer 80%",
+    "ongeveer 20%",
+    "ongeveer 50%"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|حَوالَيْ ثَمانينَ في الْمِئَةِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat heeft de staat gebouwd?",
+   "opties": [
+    "installaties om zeewater te ontzilten",
+    "nieuwe ziekenhuizen",
+    "vliegvelden"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مَحَطّاتٍ لِتَحْلِيَةِ مِياهِ الْبَحْرِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Volgens de tekst kan de regering het probleem alleen oplossen. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|الْحُكومَةَ وَحْدَها لا تَسْتَطيعُ حَلَّ الْمُشْكِلَةِ}: iedere burger moet bijdragen."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "يَجِبُ أَنْ ___ الصُّنْبورَ عِنْدَما نَغْسِلُ أَسْنانَنا.",
+   "antwoord": [
+    "نُغْلِقَ"
+   ],
+   "uitleg": "Na {ar|يَجِبُ أَنْ} komt de manṣūb: {ar|نُغْلِقَ} op -a.",
+   "nl": "We moeten de kraan dichtdraaien als we onze tanden poetsen.",
+   "woordbank": [
+    "نُغْلِقَ",
+    "نُغْلِقُ",
+    "أَغْلَقْنا"
+   ],
+   "eind": true
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "كُلُّ قَطْرَةٍ مُهِمَّةٌ.",
+   "antwoorden": [
+    "elke druppel is belangrijk",
+    "elke druppel telt",
+    "iedere druppel is belangrijk",
+    "iedere druppel telt"
+   ],
+   "uitleg": "{ar|كُلُّ} + onbepaald enkelvoud = elke: {ar|كُلُّ قَطْرَةٍ} = elke druppel.",
+   "tr": "kullu qaṭratin muhimmatun"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

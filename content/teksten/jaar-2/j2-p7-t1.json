@@ -1,0 +1,560 @@
+{
+ "id": "j2-p7-t1",
+ "titel": "Casablanca en Fès",
+ "soort": "artikel",
+ "jaar": 2,
+ "periode": 7,
+ "naLes": "j2-p7-l76",
+ "intro": "Twee Marokkaanse steden vergeleken. Let op de vergrotende trap ({ar|أَفْعَلُ}) en de betrekkelijke voornaamwoorden {ar|الَّذي} en {ar|الَّتي}.",
+ "zinnen": [
+  {
+   "ar": "اَلدّارُ الْبَيْضاءُ أَكْبَرُ مَدينَةٍ في الْمَغْرِبِ.",
+   "tr": "ad-dāru l-bayḍāʾu akbaru madīnatin fī l-maġribi.",
+   "nl": "Casablanca is de grootste stad van Marokko.",
+   "tokens": [
+    {
+     "t": "اَلدّارُ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءُ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "أَكْبَرُ",
+     "w": "j1-p3-l30-w23",
+     "g": "de grootste (akbaru + onbepaald naamwoord)"
+    },
+    {
+     "t": "مَدينَةٍ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَغْرِبِ.",
+     "w": "j1-p1-l03-w08"
+    }
+   ]
+  },
+  {
+   "ar": "هِيَ أَكْثَرُ سُكّانًا مِنْ فاسَ، وَفيها ميناءٌ كَبيرٌ عَلى السّاحِلِ.",
+   "tr": "hiya akṯaru sukkānan min fāsa, wa-fīhā mīnāʾun kabīrun ʿalā s-sāḥili.",
+   "nl": "Ze heeft meer inwoners dan Fès en er is een grote haven aan de kust.",
+   "tokens": [
+    {
+     "t": "هِيَ",
+     "w": "j1-p1-l02-w05"
+    },
+    {
+     "t": "أَكْثَرُ",
+     "w": "j2-p7-l73-w07",
+     "g": "meer"
+    },
+    {
+     "t": "سُكّانًا",
+     "w": "j2-p7-l73-w07",
+     "g": "aan inwoners; أَكْثَرُ سُكّانًا = met meer inwoners"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "فاسَ،",
+     "g": "Fès"
+    },
+    {
+     "t": "وَفيها",
+     "w": "j1-p2-l15-w01",
+     "g": "en erin (fī + -hā)"
+    },
+    {
+     "t": "ميناءٌ",
+     "w": "j1-p4-l38-w09"
+    },
+    {
+     "t": "كَبيرٌ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "السّاحِلِ.",
+     "w": "j2-p7-l73-w12"
+    }
+   ]
+  },
+  {
+   "ar": "أَمّا فاسُ فَهِيَ مَدينَةٌ عَريقَةٌ، مَشْهورَةٌ بِجامِعَتِها الْقَديمَةِ.",
+   "tr": "ammā fāsu fa-hiya madīnatun ʿarīqatun, mašhūratun bi-jāmiʿatihā l-qadīmati.",
+   "nl": "Fès daarentegen is een eeuwenoude stad, beroemd om haar oude universiteit.",
+   "tokens": [
+    {
+     "t": "أَمّا",
+     "g": "wat … betreft (ammā … fa-)"
+    },
+    {
+     "t": "فاسُ",
+     "g": "Fès"
+    },
+    {
+     "t": "فَهِيَ",
+     "w": "j1-p1-l02-w05",
+     "g": "dan is zij"
+    },
+    {
+     "t": "مَدينَةٌ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "عَريقَةٌ،",
+     "w": "j2-p7-l73-w16"
+    },
+    {
+     "t": "مَشْهورَةٌ",
+     "w": "j2-p7-l73-w08",
+     "g": "beroemd (om)"
+    },
+    {
+     "t": "بِجامِعَتِها",
+     "w": "j1-p1-l05-w14",
+     "g": "om haar universiteit"
+    },
+    {
+     "t": "الْقَديمَةِ.",
+     "w": "j1-p1-l04-w10"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْجامِعَةُ الَّتي في فاسَ مِنْ أَقْدَمِ الْجامِعاتِ في الْعالَمِ.",
+   "tr": "al-jāmiʿatu llatī fī fāsa min aqdami l-jāmiʿāti fī l-ʿālami.",
+   "nl": "De universiteit in Fès is een van de oudste universiteiten ter wereld.",
+   "tokens": [
+    {
+     "t": "اَلْجامِعَةُ",
+     "w": "j1-p1-l05-w14"
+    },
+    {
+     "t": "الَّتي",
+     "w": "j2-p7-l76-w02"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فاسَ",
+     "g": "Fès"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "أَقْدَمِ",
+     "w": "j1-p4-l45-w03",
+     "g": "de oudste (min aqdami … = een van de oudste)"
+    },
+    {
+     "t": "الْجامِعاتِ",
+     "w": "j1-p1-l05-w14",
+     "g": "de universiteiten"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْعالَمِ.",
+     "w": "j2-p7-l73-w15",
+     "g": "de wereld"
+    }
+   ]
+  },
+  {
+   "ar": "في الدّارِ الْبَيْضاءِ ناطِحاتُ سَحابٍ وَشَوارِعُ واسِعَةٌ.",
+   "tr": "fī d-dāri l-bayḍāʾi nāṭiḥātu saḥābin wa-šawāriʿu wāsiʿatun.",
+   "nl": "In Casablanca zijn wolkenkrabbers en brede straten.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الدّارِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "ناطِحاتُ",
+     "w": "j2-p7-l73-w11",
+     "g": "wolkenkrabbers (ناطِحاتُ سَحابٍ)"
+    },
+    {
+     "t": "سَحابٍ",
+     "w": "j2-p7-l73-w11",
+     "g": "wolken; ناطِحَةُ سَحابٍ = wolkenkrabber"
+    },
+    {
+     "t": "وَشَوارِعُ",
+     "w": "j1-p2-l14-w19",
+     "g": "en straten (meervoud)"
+    },
+    {
+     "t": "واسِعَةٌ.",
+     "w": "j1-p3-l30-w19"
+    }
+   ]
+  },
+  {
+   "ar": "وَفي فاسَ أَزِقَّةٌ ضَيِّقَةٌ وَسوقٌ قَديمٌ.",
+   "tr": "wa-fī fāsa aziqqatun ḍayyiqatun wa-sūqun qadīmun.",
+   "nl": "En in Fès zijn smalle steegjes en een oude markt.",
+   "tokens": [
+    {
+     "t": "وَفي",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فاسَ",
+     "g": "Fès"
+    },
+    {
+     "t": "أَزِقَّةٌ",
+     "g": "steegjes (mv van زُقاق)"
+    },
+    {
+     "t": "ضَيِّقَةٌ",
+     "w": "j1-p3-l30-w20"
+    },
+    {
+     "t": "وَسوقٌ",
+     "w": "j1-p3-l25-w22"
+    },
+    {
+     "t": "قَديمٌ.",
+     "w": "j1-p1-l04-w10"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْمُناخُ في الدّارِ الْبَيْضاءِ مُعْتَدِلٌ، لِأَنَّها قَريبَةٌ مِنَ الْبَحْرِ.",
+   "tr": "al-munāḫu fī d-dāri l-bayḍāʾi muʿtadilun, li-annahā qarībatun mina l-baḥri.",
+   "nl": "Het klimaat in Casablanca is gematigd, omdat de stad dicht bij zee ligt.",
+   "tokens": [
+    {
+     "t": "اَلْمُناخُ",
+     "w": "j2-p7-l73-w14"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الدّارِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "مُعْتَدِلٌ،",
+     "w": "j1-p3-l34-w11"
+    },
+    {
+     "t": "لِأَنَّها",
+     "w": "j1-p2-l24-w03",
+     "g": "omdat zij"
+    },
+    {
+     "t": "قَريبَةٌ",
+     "w": "j1-p4-l38-w13"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْبَحْرِ.",
+     "w": "j1-p2-l16-w19"
+    }
+   ]
+  },
+  {
+   "ar": "أَمّا في فاسَ فَالصَّيْفُ أَحَرُّ وَالشِّتاءُ أَبْرَدُ.",
+   "tr": "ammā fī fāsa fa-ṣ-ṣayfu aḥarru wa-š-šitāʾu abradu.",
+   "nl": "In Fès is de zomer heter en de winter kouder.",
+   "tokens": [
+    {
+     "t": "أَمّا",
+     "g": "wat … betreft (ammā … fa-)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فاسَ",
+     "g": "Fès"
+    },
+    {
+     "t": "فَالصَّيْفُ",
+     "w": "j1-p3-l28-w20",
+     "g": "dan de zomer"
+    },
+    {
+     "t": "أَحَرُّ",
+     "w": "j1-p2-l22-w18",
+     "g": "heter (vergrotende trap van حارّ)"
+    },
+    {
+     "t": "وَالشِّتاءُ",
+     "w": "j1-p3-l33-w17"
+    },
+    {
+     "t": "أَبْرَدُ.",
+     "w": "j1-p2-l22-w16",
+     "g": "kouder (vergrotende trap van بارِد)"
+    }
+   ]
+  },
+  {
+   "ar": "صَديقي رَشيدٌ، الَّذي يَسْكُنُ في الدّارِ الْبَيْضاءِ، يَقولُ: «مَدينَتي أَجْمَلُ!»",
+   "tr": "ṣadīqī rašīdun, allaḏī yaskunu fī d-dāri l-bayḍāʾi, yaqūlu: «madīnatī ajmalu!»",
+   "nl": "Mijn vriend Rašīd, die in Casablanca woont, zegt: \"Mijn stad is mooier!\"",
+   "tokens": [
+    {
+     "t": "صَديقي",
+     "w": "j1-p1-l02-w21"
+    },
+    {
+     "t": "رَشيدٌ،",
+     "g": "Rašīd (naam)"
+    },
+    {
+     "t": "الَّذي",
+     "w": "j2-p7-l76-w01"
+    },
+    {
+     "t": "يَسْكُنُ",
+     "w": "j1-p2-l19-w03"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الدّارِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءِ،",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "يَقولُ:",
+     "w": "j2-p6-l69-w02",
+     "g": "hij zegt"
+    },
+    {
+     "t": "«مَدينَتي",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "أَجْمَلُ!»",
+     "w": "j1-p4-l45-w10"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ صَديقَتَهُ مَرْيَمَ، الَّتي وُلِدَتْ في فاسَ، لا تُوافِقُهُ.",
+   "tr": "lākinna ṣadīqatahu maryama, allatī wulidat fī fāsa, lā tuwāfiquhu.",
+   "nl": "Maar zijn vriendin Maryam, die in Fès geboren is, is het niet met hem eens.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "صَديقَتَهُ",
+     "w": "j1-p1-l02-w22",
+     "g": "zijn vriendin"
+    },
+    {
+     "t": "مَرْيَمَ،",
+     "g": "Maryam (naam)"
+    },
+    {
+     "t": "الَّتي",
+     "w": "j2-p7-l76-w02"
+    },
+    {
+     "t": "وُلِدَتْ",
+     "w": "j1-p1-l06-w24",
+     "g": "zij werd geboren"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "فاسَ،",
+     "g": "Fès"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "تُوافِقُهُ.",
+     "w": "j2-p6-l65-w10",
+     "g": "zij is het met hem eens"
+    }
+   ]
+  },
+  {
+   "ar": "بِالْمُقارَنَةِ مَعَ الدّارِ الْبَيْضاءِ، فاسُ أَهْدَأُ وَأَكْثَرُ تاريخًا.",
+   "tr": "bi-l-muqāranati maʿa d-dāri l-bayḍāʾi, fāsu ahdaʾu wa-akṯaru tārīḫan.",
+   "nl": "Vergeleken met Casablanca is Fès rustiger en rijker aan geschiedenis.",
+   "tokens": [
+    {
+     "t": "بِالْمُقارَنَةِ",
+     "w": "j2-p7-l73-w18",
+     "g": "in vergelijking (met)"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "الدّارِ",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "الْبَيْضاءِ،",
+     "w": "j1-p2-l16-w09",
+     "g": "Casablanca: الدّارُ الْبَيْضاءُ (letterlijk: het witte huis)"
+    },
+    {
+     "t": "فاسُ",
+     "g": "Fès"
+    },
+    {
+     "t": "أَهْدَأُ",
+     "w": "j1-p4-l45-w09"
+    },
+    {
+     "t": "وَأَكْثَرُ",
+     "w": "j1-p4-l45-w14"
+    },
+    {
+     "t": "تاريخًا.",
+     "w": "j1-p3-l27-w08",
+     "g": "aan geschiedenis (accusatief van specificatie)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Welke stad is het grootst?",
+   "opties": [
+    "Casablanca",
+    "Fès",
+    "ze zijn even groot"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|اَلدّارُ الْبَيْضاءُ أَكْبَرُ مَدينَةٍ في الْمَغْرِبِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar is Fès beroemd om?",
+   "opties": [
+    "om haar oude universiteit",
+    "om haar haven",
+    "om haar wolkenkrabbers"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مَشْهورَةٌ بِجامِعَتِها الْقَديمَةِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "In Fès is de zomer heter dan in Casablanca. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في فاسَ فَالصَّيْفُ أَحَرُّ}: Casablanca ligt aan zee en heeft een gematigd klimaat."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar is Maryam geboren?",
+   "opties": [
+    "in Fès",
+    "in Casablanca",
+    "in Rabat"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|الَّتي وُلِدَتْ في فاسَ} = die in Fès geboren is."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "اَلْجامِعَةُ ___ في فاسَ قَديمَةٌ جِدًّا.",
+   "antwoord": [
+    "الَّتي"
+   ],
+   "uitleg": "{ar|جامِعَة} is vrouwelijk enkelvoud, dus {ar|الَّتي}.",
+   "nl": "De universiteit die in Fès staat, is heel oud.",
+   "woordbank": [
+    "الَّتي",
+    "الَّذي",
+    "الَّذينَ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "فاسُ أَهْدَأُ مِنَ الدّارِ الْبَيْضاءِ.",
+   "antwoorden": [
+    "Fès is rustiger dan Casablanca",
+    "Fes is rustiger dan Casablanca"
+   ],
+   "uitleg": "Vergrotende trap: {ar|أَهْدَأُ مِنْ} = rustiger dan.",
+   "tr": "fāsu ahdaʾu mina d-dāri l-bayḍāʾi"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

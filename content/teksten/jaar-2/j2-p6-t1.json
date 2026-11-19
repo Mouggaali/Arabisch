@@ -1,0 +1,524 @@
+{
+ "id": "j2-p6-t1",
+ "titel": "Het dorp van mijn opa",
+ "soort": "verhaal",
+ "jaar": 2,
+ "periode": 6,
+ "naLes": "j2-p6-l64",
+ "intro": "Vroeger en nu in een dorp in Noord-Marokko. Let op {ar|كانَ} + muḍāriʿ (gewoonte vroeger) en de zusters van {ar|كانَ}.",
+ "zinnen": [
+  {
+   "ar": "يَسْكُنُ جَدّي في قَرْيَةٍ صَغيرَةٍ في شَمالِ الْمَغْرِبِ.",
+   "tr": "yaskunu jaddī fī qaryatin ṣaġīratin fī šamāli l-maġribi.",
+   "nl": "Mijn opa woont in een klein dorp in het noorden van Marokko.",
+   "tokens": [
+    {
+     "t": "يَسْكُنُ",
+     "w": "j1-p2-l19-w03"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "قَرْيَةٍ",
+     "w": "j1-p3-l28-w06"
+    },
+    {
+     "t": "صَغيرَةٍ",
+     "w": "j1-p1-l04-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "شَمالِ",
+     "w": "j2-p6-l62-w05",
+     "g": "het noorden (šamāl)"
+    },
+    {
+     "t": "الْمَغْرِبِ.",
+     "w": "j1-p1-l03-w08"
+    }
+   ]
+  },
+  {
+   "ar": "عِنْدَما كانَ شابًّا، كانَتِ الْقَرْيَةُ مُخْتَلِفَةً جِدًّا.",
+   "tr": "ʿindamā kāna šābban, kānati l-qaryatu muḫtalifatan jiddan.",
+   "nl": "Toen hij jong was, was het dorp heel anders.",
+   "tokens": [
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "شابًّا،",
+     "w": "j1-p1-l07-w12"
+    },
+    {
+     "t": "كانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (vrouwelijk)"
+    },
+    {
+     "t": "الْقَرْيَةُ",
+     "w": "j1-p3-l28-w06"
+    },
+    {
+     "t": "مُخْتَلِفَةً",
+     "w": "j2-p6-l64-w09"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "لَمْ تَكُنْ هُناكَ كَهْرَباءُ وَلا طَريقٌ كَبيرٌ.",
+   "tr": "lam takun hunāka kahrabāʾu wa-lā ṭarīqun kabīrun.",
+   "nl": "Er was geen elektriciteit en ook geen grote weg.",
+   "tokens": [
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "تَكُنْ",
+     "w": "j1-p3-l34-w15",
+     "g": "was (v): majzūm na لَمْ; لَمْ تَكُنْ = er was niet"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "كَهْرَباءُ",
+     "w": "j2-p5-l58-w15"
+    },
+    {
+     "t": "وَلا",
+     "w": "j1-p1-l02-w15",
+     "g": "en ook geen"
+    },
+    {
+     "t": "طَريقٌ",
+     "w": "j1-p4-l38-w14"
+    },
+    {
+     "t": "كَبيرٌ.",
+     "w": "j1-p1-l04-w07"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ النّاسُ يَعْمَلونَ في الْمَزارِعِ مِنَ الصَّباحِ إِلى الْمَساءِ.",
+   "tr": "kāna n-nāsu yaʿmalūna fī l-mazāriʿi mina ṣ-ṣabāḥi ilā l-masāʾi.",
+   "nl": "De mensen werkten van ’s ochtends tot ’s avonds op de boerderijen.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "النّاسُ",
+     "g": "de mensen"
+    },
+    {
+     "t": "يَعْمَلونَ",
+     "w": "j1-p2-l19-w05",
+     "g": "zij werken; كانَ … يَعْمَلونَ = zij werkten (altijd)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَزارِعِ",
+     "w": "j1-p3-l28-w13",
+     "g": "de boerderijen (meervoud van مَزْرَعَة)"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الصَّباحِ",
+     "w": "j1-p2-l18-w10"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمَساءِ.",
+     "w": "j1-p2-l18-w12"
+    }
+   ]
+  },
+  {
+   "ar": "وَكانَ الْأَطْفالُ يَذْهَبونَ إِلى الْمَدْرَسَةِ مَشْيًا.",
+   "tr": "wa-kāna l-aṭfālu yaḏhabūna ilā l-madrasati mašyan.",
+   "nl": "En de kinderen gingen te voet naar school.",
+   "tokens": [
+    {
+     "t": "وَكانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "الْأَطْفالُ",
+     "w": "j1-p1-l11-w17"
+    },
+    {
+     "t": "يَذْهَبونَ",
+     "w": "j1-p2-l19-w06",
+     "g": "zij gaan; كانَ … يَذْهَبونَ = zij gingen (altijd)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمَدْرَسَةِ",
+     "w": "j1-p1-l05-w13"
+    },
+    {
+     "t": "مَشْيًا.",
+     "w": "j1-p4-l38-w11"
+    }
+   ]
+  },
+  {
+   "ar": "أَمّا الْآنَ فَقَدْ تَغَيَّرَ كُلُّ شَيْءٍ.",
+   "tr": "ammā l-āna fa-qad taġayyara kullu šayʾin.",
+   "nl": "Maar nu is alles veranderd.",
+   "tokens": [
+    {
+     "t": "أَمّا",
+     "g": "wat … betreft (ammā … fa-)"
+    },
+    {
+     "t": "الْآنَ",
+     "w": "j1-p1-l12-w16"
+    },
+    {
+     "t": "فَقَدْ",
+     "g": "dan … (fa-qad: nadruk bij de māḍī)"
+    },
+    {
+     "t": "تَغَيَّرَ",
+     "w": "j2-p6-l64-w07"
+    },
+    {
+     "t": "كُلُّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "شَيْءٍ.",
+     "w": "j1-p1-l08-w19"
+    }
+   ]
+  },
+  {
+   "ar": "صارَتْ في الْقَرْيَةِ مَدْرَسَةٌ ثانَوِيَّةٌ وَعِيادَةٌ.",
+   "tr": "ṣārat fī l-qaryati madrasatun ṯānawiyyatun wa-ʿiyādatun.",
+   "nl": "Er is nu een middelbare school en een praktijk in het dorp.",
+   "tokens": [
+    {
+     "t": "صارَتْ",
+     "w": "j2-p6-l64-w01",
+     "g": "werd; hier: er kwam"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْقَرْيَةِ",
+     "w": "j1-p3-l28-w06"
+    },
+    {
+     "t": "مَدْرَسَةٌ",
+     "w": "j1-p1-l05-w13"
+    },
+    {
+     "t": "ثانَوِيَّةٌ",
+     "w": "j2-p5-l53-w15"
+    },
+    {
+     "t": "وَعِيادَةٌ.",
+     "w": "j1-p3-l31-w03"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّ كَثيرًا مِنَ الشَّبابِ انْتَقَلوا إِلى الْمُدُنِ الْكَبيرَةِ.",
+   "tr": "lākinna kaṯīran mina š-šabābi ntaqalū ilā l-mudni l-kabīrati.",
+   "nl": "Maar veel jongeren zijn naar de grote steden verhuisd.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar (lākinna + accusatief)"
+    },
+    {
+     "t": "كَثيرًا",
+     "w": "j1-p1-l10-w20",
+     "g": "veel (accusatief na لٰكِنَّ)"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الشَّبابِ",
+     "w": "j1-p4-l44-w16",
+     "g": "de jongeren"
+    },
+    {
+     "t": "انْتَقَلوا",
+     "w": "j1-p4-l44-w06",
+     "g": "zij verhuisden"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمُدُنِ",
+     "w": "j1-p1-l03-w05",
+     "g": "de steden (meervoud van مَدينَة)"
+    },
+    {
+     "t": "الْكَبيرَةِ.",
+     "w": "j1-p1-l04-w07"
+    }
+   ]
+  },
+  {
+   "ar": "ظَلَّ جَدّي في الْقَرْيَةِ، فَهُوَ يُحِبُّ الْحَياةَ الْبَسيطَةَ.",
+   "tr": "ẓalla jaddī fī l-qaryati, fa-huwa yuḥibbu l-ḥayāta l-basīṭata.",
+   "nl": "Mijn opa bleef in het dorp, want hij houdt van het eenvoudige leven.",
+   "tokens": [
+    {
+     "t": "ظَلَّ",
+     "w": "j2-p6-l64-w02"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْقَرْيَةِ،",
+     "w": "j1-p3-l28-w06"
+    },
+    {
+     "t": "فَهُوَ",
+     "w": "j1-p1-l02-w04",
+     "g": "want hij"
+    },
+    {
+     "t": "يُحِبُّ",
+     "w": "j1-p2-l21-w27",
+     "g": "hij houdt van"
+    },
+    {
+     "t": "الْحَياةَ",
+     "w": "j1-p4-l44-w01"
+    },
+    {
+     "t": "الْبَسيطَةَ.",
+     "w": "j2-p6-l64-w10"
+    }
+   ]
+  },
+  {
+   "ar": "ما زالَ جَدّي نَشيطًا، مَعَ أَنَّ عُمْرَهُ ثَمانونَ سَنَةً.",
+   "tr": "mā zāla jaddī našīṭan, maʿa anna ʿumrahu ṯamānūna sanatan.",
+   "nl": "Mijn opa is nog steeds actief, hoewel hij tachtig jaar oud is.",
+   "tokens": [
+    {
+     "t": "ما",
+     "w": "j2-p6-l64-w03",
+     "g": "niet; ما زالَ = nog steeds"
+    },
+    {
+     "t": "زالَ",
+     "w": "j2-p6-l64-w03",
+     "g": "ophouden; ما زالَ = nog steeds"
+    },
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "نَشيطًا،",
+     "w": "j1-p4-l47-w30"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "أَنَّ",
+     "g": "dat (anna); مَعَ أَنَّ = hoewel"
+    },
+    {
+     "t": "عُمْرَهُ",
+     "w": "j1-p1-l09-w15",
+     "g": "zijn leeftijd"
+    },
+    {
+     "t": "ثَمانونَ",
+     "w": "j1-p2-l17-w06"
+    },
+    {
+     "t": "سَنَةً.",
+     "w": "j1-p1-l09-w17"
+    }
+   ]
+  },
+  {
+   "ar": "كُلَّ صَيْفٍ نَزورُهُ، وَيَحْكي لَنا ذِكْرَياتِهِ عَنِ الْماضي.",
+   "tr": "kulla ṣayfin nazūruhu, wa-yaḥkī lanā ḏikrayātihi ʿani l-māḍī.",
+   "nl": "Elke zomer bezoeken we hem, en hij vertelt ons zijn herinneringen aan vroeger.",
+   "tokens": [
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "صَيْفٍ",
+     "w": "j1-p3-l28-w20",
+     "g": "zomer"
+    },
+    {
+     "t": "نَزورُهُ،",
+     "w": "j1-p4-l43-w13",
+     "g": "wij bezoeken hem"
+    },
+    {
+     "t": "وَيَحْكي",
+     "g": "en hij vertelt"
+    },
+    {
+     "t": "لَنا",
+     "w": "j1-p1-l10-w02",
+     "g": "aan ons (la- + -nā)"
+    },
+    {
+     "t": "ذِكْرَياتِهِ",
+     "w": "j2-p6-l64-w17",
+     "g": "zijn herinneringen"
+    },
+    {
+     "t": "عَنِ",
+     "g": "over (ʿan, ʿani vóór al-)"
+    },
+    {
+     "t": "الْماضي.",
+     "w": "j1-p4-l44-w10",
+     "g": "het verleden"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar woont de opa?",
+   "opties": [
+    "in een dorp in het noorden van Marokko",
+    "in een grote stad",
+    "in het zuiden van Marokko"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في قَرْيَةٍ صَغيرَةٍ في شَمالِ الْمَغْرِبِ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Vroeger was er al elektriciteit in het dorp. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|لَمْ تَكُنْ هُناكَ كَهْرَباءُ} = er was geen elektriciteit."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat is er nu in het dorp?",
+   "opties": [
+    "een middelbare school en een praktijk",
+    "een ziekenhuis en een universiteit",
+    "een groot hotel"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مَدْرَسَةٌ ثانَوِيَّةٌ وَعِيادَةٌ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarom blijft opa in het dorp?",
+   "opties": [
+    "hij houdt van het eenvoudige leven",
+    "hij heeft geen geld",
+    "zijn kinderen wonen daar"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|فَهُوَ يُحِبُّ الْحَياةَ الْبَسيطَةَ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "كانَ النّاسُ ___ في الْمَزارِعِ.",
+   "antwoord": [
+    "يَعْمَلونَ"
+   ],
+   "uitleg": "{ar|كانَ} + muḍāriʿ beschrijft een gewoonte in het verleden: {ar|كانَ النّاسُ يَعْمَلونَ} = de mensen werkten (altijd).",
+   "nl": "De mensen werkten (altijd) op de boerderijen.",
+   "woordbank": [
+    "يَعْمَلونَ",
+    "يَعْمَلُ",
+    "تَعْمَلُ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "تَغَيَّرَ كُلُّ شَيْءٍ.",
+   "antwoorden": [
+    "alles is veranderd",
+    "alles veranderde",
+    "alles is anders geworden",
+    "alles werd anders",
+    "alles is veranderd."
+   ],
+   "uitleg": "{ar|كُلُّ شَيْءٍ} = alles (letterlijk: elk ding).",
+   "tr": "taġayyara kullu šayʾin"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

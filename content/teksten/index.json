@@ -1,0 +1,244 @@
+{
+ "teksten": [
+  {
+   "id": "j1-p1-t1",
+   "code": "T1",
+   "titel": "In de klas van Sāmī",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 1,
+   "naLes": "j1-p1-l08",
+   "bestand": "jaar-1/j1-p1-t1.json"
+  },
+  {
+   "id": "j1-p1-t2",
+   "code": "T2",
+   "titel": "De familie van Hind",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 1,
+   "naLes": "j1-p1-l12",
+   "bestand": "jaar-1/j1-p1-t2.json"
+  },
+  {
+   "id": "j1-p2-t1",
+   "code": "T3",
+   "titel": "Mijn appartement",
+   "soort": "bericht",
+   "jaar": 1,
+   "periode": 2,
+   "naLes": "j1-p2-l20",
+   "bestand": "jaar-1/j1-p2-t1.json"
+  },
+  {
+   "id": "j1-p2-t2",
+   "code": "T4",
+   "titel": "Een dag van Laylā",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 2,
+   "naLes": "j1-p2-l24",
+   "bestand": "jaar-1/j1-p2-t2.json"
+  },
+  {
+   "id": "j1-p3-t1",
+   "code": "T5",
+   "titel": "Een dag aan zee",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 3,
+   "naLes": "j1-p3-l28",
+   "bestand": "jaar-1/j1-p3-t1.json"
+  },
+  {
+   "id": "j1-p3-t2",
+   "code": "T6",
+   "titel": "De verjaardag van Salmā",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 3,
+   "naLes": "j1-p3-l36",
+   "bestand": "jaar-1/j1-p3-t2.json"
+  },
+  {
+   "id": "j1-p4-t1",
+   "code": "T7",
+   "titel": "Twee vrienden in Marrakesh",
+   "soort": "verhaal",
+   "jaar": 1,
+   "periode": 4,
+   "naLes": "j1-p4-l40",
+   "bestand": "jaar-1/j1-p4-t1.json"
+  },
+  {
+   "id": "j1-p4-t2",
+   "code": "T8",
+   "titel": "Een bericht van Laylā",
+   "soort": "brief",
+   "jaar": 1,
+   "periode": 4,
+   "naLes": "j1-p4-l48",
+   "bestand": "jaar-1/j1-p4-t2.json"
+  },
+  {
+   "id": "j2-p5-t1",
+   "code": "T9",
+   "titel": "Mijn eerste tajine",
+   "soort": "verhaal",
+   "jaar": 2,
+   "periode": 5,
+   "naLes": "j2-p5-l52",
+   "bestand": "jaar-2/j2-p5-t1.json"
+  },
+  {
+   "id": "j2-p5-t2",
+   "code": "T10",
+   "titel": "Arabisch leren met een app",
+   "soort": "bericht",
+   "jaar": 2,
+   "periode": 5,
+   "naLes": "j2-p5-l59",
+   "bestand": "jaar-2/j2-p5-t2.json"
+  },
+  {
+   "id": "j2-p6-t1",
+   "code": "T11",
+   "titel": "Het dorp van mijn opa",
+   "soort": "verhaal",
+   "jaar": 2,
+   "periode": 6,
+   "naLes": "j2-p6-l64",
+   "bestand": "jaar-2/j2-p6-t1.json"
+  },
+  {
+   "id": "j2-p6-t2",
+   "code": "T12",
+   "titel": "Een reis die Nādiya niet vergeet",
+   "soort": "verhaal",
+   "jaar": 2,
+   "periode": 6,
+   "naLes": "j2-p6-l72",
+   "bestand": "jaar-2/j2-p6-t2.json"
+  },
+  {
+   "id": "j2-p7-t1",
+   "code": "T13",
+   "titel": "Casablanca en Fès",
+   "soort": "artikel",
+   "jaar": 2,
+   "periode": 7,
+   "naLes": "j2-p7-l76",
+   "bestand": "jaar-2/j2-p7-t1.json"
+  },
+  {
+   "id": "j2-p7-t2",
+   "code": "T14",
+   "titel": "De dief bij de bushalte",
+   "soort": "verhaal",
+   "jaar": 2,
+   "periode": 7,
+   "naLes": "j2-p7-l84",
+   "bestand": "jaar-2/j2-p7-t2.json"
+  },
+  {
+   "id": "j2-p8-t1",
+   "code": "T15",
+   "titel": "Jongeren en internet",
+   "soort": "artikel",
+   "jaar": 2,
+   "periode": 8,
+   "naLes": "j2-p8-l88",
+   "bestand": "jaar-2/j2-p8-t1.json"
+  },
+  {
+   "id": "j2-p8-t2",
+   "code": "T16",
+   "titel": "Presentatie: mijn stad Rotterdam",
+   "soort": "artikel",
+   "jaar": 2,
+   "periode": 8,
+   "naLes": "j2-p8-l96",
+   "bestand": "jaar-2/j2-p8-t2.json"
+  },
+  {
+   "id": "j3-p9-t1",
+   "code": "T17",
+   "titel": "Brand in de oude markt",
+   "soort": "artikel",
+   "jaar": 3,
+   "periode": 9,
+   "naLes": "j3-p9-l100",
+   "bestand": "jaar-3/j3-p9-t1.json"
+  },
+  {
+   "id": "j3-p9-t2",
+   "code": "T18",
+   "titel": "Het huis van mijn opa",
+   "soort": "verhaal",
+   "jaar": 3,
+   "periode": 9,
+   "naLes": "j3-p9-l108",
+   "bestand": "jaar-3/j3-p9-t2.json"
+  },
+  {
+   "id": "j3-p10-t1",
+   "code": "T19",
+   "titel": "Studeren in het buitenland?",
+   "soort": "verhaal",
+   "jaar": 3,
+   "periode": 10,
+   "naLes": "j3-p10-l112",
+   "bestand": "jaar-3/j3-p10-t1.json"
+  },
+  {
+   "id": "j3-p10-t2",
+   "code": "T20",
+   "titel": "De telefoon in de klas: voor en tegen",
+   "soort": "artikel",
+   "jaar": 3,
+   "periode": 10,
+   "naLes": "j3-p10-l120",
+   "bestand": "jaar-3/j3-p10-t2.json"
+  },
+  {
+   "id": "j3-p11-t1",
+   "code": "T21",
+   "titel": "Een vreemde droom",
+   "soort": "verhaal",
+   "jaar": 3,
+   "periode": 11,
+   "naLes": "j3-p11-l124",
+   "bestand": "jaar-3/j3-p11-t1.json"
+  },
+  {
+   "id": "j3-p11-t2",
+   "code": "T22",
+   "titel": "Marokko: een land van verscheidenheid",
+   "soort": "artikel",
+   "jaar": 3,
+   "periode": 11,
+   "naLes": "j3-p11-l128",
+   "bestand": "jaar-3/j3-p11-t2.json"
+  },
+  {
+   "id": "j3-p12-t1",
+   "code": "T23",
+   "titel": "De brief op zolder",
+   "soort": "verhaal",
+   "jaar": 3,
+   "periode": 12,
+   "naLes": "j3-p12-l136",
+   "bestand": "jaar-3/j3-p12-t1.json"
+  },
+  {
+   "id": "j3-p12-t2",
+   "code": "T24",
+   "titel": "Water: elke druppel telt",
+   "soort": "artikel",
+   "jaar": 3,
+   "periode": 12,
+   "naLes": "j3-p12-l140",
+   "bestand": "jaar-3/j3-p12-t2.json"
+  }
+ ]
+}

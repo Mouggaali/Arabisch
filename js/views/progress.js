@@ -71,8 +71,11 @@ export async function renderProgress(main) {
           : h('p.soft', 'Nog geen toetsen gemaakt.'),
         h('h3', 'Zwakke punten'),
         weakTags().length
-          ? h('ul.list', weakTags().map((t) => h('li', `${content.tagLabel(t.tag)}: ${pct(t.ratio)} goed`)))
+          ? h('ul.list.rows', weakTags().map((t) => h('li.review-row',
+              h('span.review-row__main', `${content.tagLabel(t.tag)}: ${pct(t.ratio)} goed`),
+              h('a.btn.btn--ghost.btn--small', { href: `#/herhalen/${encodeURIComponent(t.tag)}` }, 'Oefen'))))
           : h('p.soft', 'Nog geen duidelijke zwakke punten.'),
+        weakTags().length ? h('a.btn.btn--small', { href: '#/herhalen', style: { marginTop: '10px' } }, 'Zwakke plekken oefenen', icon('arrow')) : null,
         difficult(8).length ? h('h3', 'Moeilijke woorden') : null,
         difficult(8).length ? h('ul.list.rows', difficult(8).map((w) => h('li.kv', h('span', w.nl[0], h('span.soft.small', ` · ${w.lapses}× vergeten`)), ar(w.ar)))) : null)));
 }

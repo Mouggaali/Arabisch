@@ -1,6 +1,6 @@
 // Darb: Arabisch leren. Opstart, navigatie (hash-router) en de vaste schil.
 // Routes: #/vandaag  #/lessen  #/les/<id>/<onderdeel>[/<woord-id of grammatica-nr>]  #/kaarten  #/trainer[/<werkwoord>]
-//         #/voortgang  #/instellingen  #/controle  #/zoeken[/<term>]
+//         #/voortgang  #/instellingen  #/controle  #/zoeken[/<term>]  #/herhalen[/<tag,…>]  #/lezen[/<id>]
 
 import { h, icon } from './core/util.js';
 import { store } from './core/store.js';
@@ -17,6 +17,8 @@ import { renderTrainer } from './views/trainer.js';
 import { renderProgress } from './views/progress.js';
 import { renderSettings, renderReviewList } from './views/settings.js';
 import { renderSearch } from './views/search.js';
+import { renderReview } from './views/review.js';
+import { renderReading } from './views/reading.js';
 import { dayTotal, streak } from './views/progress-model.js';
 
 const ROUTES = {
@@ -29,6 +31,8 @@ const ROUTES = {
   instellingen: { render: renderSettings, title: 'Instellingen' },
   controle: { render: renderReviewList, title: 'Controlelijst', nav: 'instellingen' },
   zoeken: { render: renderSearch, title: 'Zoeken' },
+  lezen: { render: renderReading, title: 'Leesteksten' },
+  herhalen: { render: renderReview, title: 'Zwakke plekken oefenen', nav: 'voortgang' },
 };
 
 const NAV = [
@@ -37,6 +41,7 @@ const NAV = [
   ['kaarten', 'Kaarten', 'cards'],
   ['trainer', 'Trainer', 'verb'],
   ['voortgang', 'Voortgang', 'chart'],
+  ['lezen', 'Lezen', 'read', 'rail-extra'],
   ['zoeken', 'Zoeken', 'search', 'rail-extra'],
   ['instellingen', 'Instellingen', 'gear', 'rail-extra'],
 ];

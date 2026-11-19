@@ -46,6 +46,7 @@ export function smart(text) {
  * @param {HTMLElement} host
  * @param {object[]} items
  * @param {{mode: 'oefen'|'toets', lessonId?: string, dialect?: string, onDone: (results) => void, onStep?: () => void}} opts
+ * Items uit verschillende lessen (herhalen) dragen zelf `_lesId` en `_dialect`; die gaan voor opts.
  */
 export function runExercises(host, items, opts) {
   const results = [];
@@ -73,7 +74,7 @@ export function runExercises(host, items, opts) {
     const feedback = h('div');
     const ctx = {
       mode,
-      dialect: opts.dialect,
+      dialect: item._dialect ?? opts.dialect,
       strict: store.settings.strengHarakat,
       onReady: (auto) => {
         primary.disabled = !view.ready();
@@ -88,7 +89,7 @@ export function runExercises(host, items, opts) {
       checked = true;
       const res = view.check();
       results.push({ item, ...res });
-      store.recordAnswer(mode === 'oefen' ? opts.lessonId : null, item.tag, res.ok);
+      store.recordAnswer(mode === 'oefen' ? (item._lesId ?? opts.lessonId) : null, item.tag, res.ok);
       if (!res.ok && mode === 'oefen' && item.woord) lapseWord(item.woord);
       if (mode === 'toets') return next();
       flash(res.ok);

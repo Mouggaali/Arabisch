@@ -1,0 +1,558 @@
+{
+ "id": "j2-p7-t2",
+ "titel": "De dief bij de bushalte",
+ "soort": "verhaal",
+ "jaar": 2,
+ "periode": 7,
+ "naLes": "j2-p7-l84",
+ "intro": "Een kort verhaal met {ar|بَيْنَما} (terwijl), deelwoorden en tijdsaanduidingen.",
+ "zinnen": [
+  {
+   "ar": "ذاتَ يَوْمٍ كانَتْ سُعادُ واقِفَةً في مَحَطَّةِ الْحافِلاتِ.",
+   "tr": "ḏāta yawmin kānat suʿādu wāqifatan fī maḥaṭṭati l-ḥāfilāti.",
+   "nl": "Op een dag stond Suʿād bij de bushalte.",
+   "tokens": [
+    {
+     "t": "ذاتَ",
+     "w": "j2-p7-l84-w08",
+     "g": "op (een) …; ذاتَ يَوْمٍ = op een dag"
+    },
+    {
+     "t": "يَوْمٍ",
+     "w": "j2-p7-l84-w08",
+     "g": "dag; ذاتَ يَوْمٍ = op een dag"
+    },
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "سُعادُ",
+     "g": "Suʿād (naam)"
+    },
+    {
+     "t": "واقِفَةً",
+     "w": "j2-p7-l74-w05",
+     "g": "staand (v); كانَتْ واقِفَةً = zij stond"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "مَحَطَّةِ",
+     "w": "j1-p4-l38-w03"
+    },
+    {
+     "t": "الْحافِلاتِ.",
+     "w": "j1-p2-l20-w15",
+     "g": "de bussen"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتْ تَنْتَظِرُ الْحافِلَةَ رَقْمَ سَبْعَةٍ لِتَذْهَبَ إِلى عَمَلِها.",
+   "tr": "kānat tantaẓiru l-ḥāfilata raqma sabʿatin li-taḏhaba ilā ʿamalihā.",
+   "nl": "Ze wachtte op bus nummer zeven om naar haar werk te gaan.",
+   "tokens": [
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "تَنْتَظِرُ",
+     "w": "j1-p4-l37-w18",
+     "g": "zij wacht op; كانَتْ تَنْتَظِرُ = zij wachtte"
+    },
+    {
+     "t": "الْحافِلَةَ",
+     "w": "j1-p2-l20-w15"
+    },
+    {
+     "t": "رَقْمَ",
+     "w": "j1-p1-l09-w12"
+    },
+    {
+     "t": "سَبْعَةٍ",
+     "w": "j1-p1-l09-w08"
+    },
+    {
+     "t": "لِتَذْهَبَ",
+     "w": "j1-p2-l19-w06",
+     "g": "om te gaan (li- + manṣūb)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "عَمَلِها.",
+     "w": "j1-p1-l10-w12",
+     "g": "haar werk"
+    }
+   ]
+  },
+  {
+   "ar": "بَيْنَما كانَتْ تَنْظُرُ إِلى هاتِفِها، اقْتَرَبَ مِنْها رَجُلٌ.",
+   "tr": "baynamā kānat tanẓuru ilā hātifihā, iqtaraba minhā rajulun.",
+   "nl": "Terwijl ze naar haar telefoon keek, kwam er een man naar haar toe.",
+   "tokens": [
+    {
+     "t": "بَيْنَما",
+     "w": "j2-p7-l84-w02"
+    },
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "تَنْظُرُ",
+     "w": "j1-p2-l20-w10",
+     "g": "zij kijkt"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "هاتِفِها،",
+     "w": "j1-p1-l06-w14",
+     "g": "haar telefoon"
+    },
+    {
+     "t": "اقْتَرَبَ",
+     "w": "j2-p5-l58-w06",
+     "g": "kwam dichterbij"
+    },
+    {
+     "t": "مِنْها",
+     "w": "j1-p1-l02-w10",
+     "g": "bij haar (min + -hā)"
+    },
+    {
+     "t": "رَجُلٌ.",
+     "w": "j1-p1-l06-w23"
+    }
+   ]
+  },
+  {
+   "ar": "فَجْأَةً أَخَذَ حَقيبَةَ يَدِها وَهَرَبَ.",
+   "tr": "fajʾatan aḫaḏa ḥaqībata yadihā wa-haraba.",
+   "nl": "Plotseling pakte hij haar handtas en ging ervandoor.",
+   "tokens": [
+    {
+     "t": "فَجْأَةً",
+     "w": "j2-p6-l61-w14"
+    },
+    {
+     "t": "أَخَذَ",
+     "w": "j2-p6-l72-w01"
+    },
+    {
+     "t": "حَقيبَةَ",
+     "w": "j2-p7-l84-w10",
+     "g": "tas; حَقيبَةُ يَدٍ = handtas"
+    },
+    {
+     "t": "يَدِها",
+     "w": "j2-p7-l84-w10",
+     "g": "haar hand; حَقيبَةُ يَدِها = haar handtas"
+    },
+    {
+     "t": "وَهَرَبَ.",
+     "w": "j2-p7-l84-w20"
+    }
+   ]
+  },
+  {
+   "ar": "صَرَخَتْ سُعادُ: «لِصٌّ! لِصٌّ!»",
+   "tr": "ṣaraḫat suʿādu: «liṣṣun! liṣṣun!»",
+   "nl": "Suʿād schreeuwde: \"Een dief! Een dief!\"",
+   "tokens": [
+    {
+     "t": "صَرَخَتْ",
+     "w": "j2-p7-l84-w11",
+     "g": "zij schreeuwde"
+    },
+    {
+     "t": "سُعادُ:",
+     "g": "Suʿād (naam)"
+    },
+    {
+     "t": "«لِصٌّ!",
+     "w": "j2-p7-l84-w12"
+    },
+    {
+     "t": "لِصٌّ!»",
+     "w": "j2-p7-l84-w12"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ هُناكَ شابٌّ رِياضِيٌّ في الْمَحَطَّةِ، فَرَكَضَ وَراءَ اللِّصِّ.",
+   "tr": "kāna hunāka šābbun riyāḍiyyun fī l-maḥaṭṭati, fa-rakaḍa warāʾa l-liṣṣi.",
+   "nl": "Er was een sportieve jongeman bij de halte, en hij rende achter de dief aan.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "هُناكَ",
+     "w": "j1-p1-l04-w22"
+    },
+    {
+     "t": "شابٌّ",
+     "w": "j1-p1-l07-w12"
+    },
+    {
+     "t": "رِياضِيٌّ",
+     "w": "j2-p5-l54-w20",
+     "g": "sportief (ook: sporter)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَحَطَّةِ،",
+     "w": "j1-p4-l38-w03"
+    },
+    {
+     "t": "فَرَكَضَ",
+     "w": "j2-p7-l84-w15",
+     "g": "en hij rende"
+    },
+    {
+     "t": "وَراءَ",
+     "w": "j2-p7-l84-w15",
+     "g": "achter (warāʾa)"
+    },
+    {
+     "t": "اللِّصِّ.",
+     "w": "j2-p7-l84-w12"
+    }
+   ]
+  },
+  {
+   "ar": "بَعْدَ دَقيقَتَيْنِ أَمْسَكَ بِهِ عِنْدَ الْإِشارَةِ.",
+   "tr": "baʿda daqīqatayni amsaka bihi ʿinda l-išārati.",
+   "nl": "Na twee minuten greep hij hem bij het verkeerslicht.",
+   "tokens": [
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "دَقيقَتَيْنِ",
+     "w": "j1-p2-l13-w12",
+     "g": "twee minuten (dualis)"
+    },
+    {
+     "t": "أَمْسَكَ",
+     "w": "j2-p7-l84-w16",
+     "g": "hij greep (vast)"
+    },
+    {
+     "t": "بِهِ",
+     "w": "j2-p7-l84-w16",
+     "g": "hem (bi- + -hi, na أَمْسَكَ)"
+    },
+    {
+     "t": "عِنْدَ",
+     "w": "j1-p1-l10-w01"
+    },
+    {
+     "t": "الْإِشارَةِ.",
+     "w": "j1-p4-l39-w03",
+     "g": "het (verkeers)licht"
+    }
+   ]
+  },
+  {
+   "ar": "اِتَّصَلَتْ سُعادُ بِالشُّرْطَةِ، وَبَعْدَ قَليلٍ وَصَلَ شُرْطِيّانِ.",
+   "tr": "ittaṣalat suʿādu bi-š-šurṭati, wa-baʿda qalīlin waṣala šurṭiyyāni.",
+   "nl": "Suʿād belde de politie, en even later kwamen er twee agenten.",
+   "tokens": [
+    {
+     "t": "اِتَّصَلَتْ",
+     "w": "j1-p4-l37-w17",
+     "g": "zij belde"
+    },
+    {
+     "t": "سُعادُ",
+     "g": "Suʿād (naam)"
+    },
+    {
+     "t": "بِالشُّرْطَةِ،",
+     "w": "j1-p3-l32-w08",
+     "g": "de politie (aš-šurṭa)"
+    },
+    {
+     "t": "وَبَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "قَليلٍ",
+     "w": "j1-p1-l10-w21"
+    },
+    {
+     "t": "وَصَلَ",
+     "w": "j1-p3-l26-w01"
+    },
+    {
+     "t": "شُرْطِيّانِ.",
+     "w": "j1-p3-l32-w08",
+     "g": "twee agenten (dualis)"
+    }
+   ]
+  },
+  {
+   "ar": "سَأَلَ الشُّرْطِيُّ الشّاهِدَ: «ماذا رَأَيْتَ؟»",
+   "tr": "saʾala š-šurṭiyyu š-šāhida: «māḏā raʾayta?»",
+   "nl": "De agent vroeg de getuige: \"Wat heb je gezien?\"",
+   "tokens": [
+    {
+     "t": "سَأَلَ",
+     "w": "j1-p3-l27-w14",
+     "g": "hij vroeg"
+    },
+    {
+     "t": "الشُّرْطِيُّ",
+     "w": "j1-p3-l32-w08"
+    },
+    {
+     "t": "الشّاهِدَ:",
+     "w": "j1-p4-l47-w19",
+     "g": "de getuige"
+    },
+    {
+     "t": "«ماذا",
+     "w": "j1-p2-l24-w01"
+    },
+    {
+     "t": "رَأَيْتَ؟»",
+     "g": "jij hebt gezien (raʾā)"
+    }
+   ]
+  },
+  {
+   "ar": "قالَ الشّابُّ: «كُنْتُ جالِسًا عِنْدَما رَأَيْتُ اللِّصَّ يَهْرُبُ.»",
+   "tr": "qāla š-šābbu: «kuntu jālisan ʿindamā raʾaytu l-liṣṣa yahrubu.»",
+   "nl": "De jongeman zei: \"Ik zat toen ik de dief zag vluchten.\"",
+   "tokens": [
+    {
+     "t": "قالَ",
+     "w": "j2-p6-l69-w02"
+    },
+    {
+     "t": "الشّابُّ:",
+     "w": "j1-p1-l07-w12"
+    },
+    {
+     "t": "«كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was"
+    },
+    {
+     "t": "جالِسًا",
+     "w": "j2-p7-l74-w06",
+     "g": "zittend; كُنْتُ جالِسًا = ik zat"
+    },
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "رَأَيْتُ",
+     "g": "ik zag (raʾā)"
+    },
+    {
+     "t": "اللِّصَّ",
+     "w": "j2-p7-l84-w12"
+    },
+    {
+     "t": "يَهْرُبُ.»",
+     "w": "j2-p7-l84-w20",
+     "g": "vluchten (hij vlucht)"
+    }
+   ]
+  },
+  {
+   "ar": "في النِّهايَةِ رَجَعَتِ الْحَقيبَةُ إِلى سُعادَ، وَشَكَرَتِ الشّابَّ كَثيرًا.",
+   "tr": "fī n-nihāyati rajaʿati l-ḥaqībatu ilā suʿāda, wa-šakarati š-šābba kaṯīran.",
+   "nl": "Uiteindelijk kreeg Suʿād haar tas terug, en ze bedankte de jongeman hartelijk.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "النِّهايَةِ",
+     "w": "j2-p7-l84-w06",
+     "g": "het einde; في النِّهايَةِ = uiteindelijk"
+    },
+    {
+     "t": "رَجَعَتِ",
+     "w": "j1-p3-l25-w08",
+     "g": "kwam terug (v)"
+    },
+    {
+     "t": "الْحَقيبَةُ",
+     "w": "j1-p1-l06-w09",
+     "g": "de tas"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "سُعادَ،",
+     "g": "Suʿād (naam)"
+    },
+    {
+     "t": "وَشَكَرَتِ",
+     "w": "j1-p3-l26-w08",
+     "g": "en zij bedankte"
+    },
+    {
+     "t": "الشّابَّ",
+     "w": "j1-p1-l07-w12"
+    },
+    {
+     "t": "كَثيرًا.",
+     "w": "j1-p2-l19-w20"
+    }
+   ]
+  },
+  {
+   "ar": "وَصَلَتْ إِلى عَمَلِها مُتَأَخِّرَةً، لٰكِنَّها كانَتْ سَعيدَةً.",
+   "tr": "waṣalat ilā ʿamalihā mutaʾaḫḫiratan, lākinnahā kānat saʿīdatan.",
+   "nl": "Ze kwam te laat op haar werk aan, maar ze was blij.",
+   "tokens": [
+    {
+     "t": "وَصَلَتْ",
+     "w": "j1-p3-l26-w01",
+     "g": "zij kwam aan"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "عَمَلِها",
+     "w": "j1-p1-l10-w12",
+     "g": "haar werk"
+    },
+    {
+     "t": "مُتَأَخِّرَةً،",
+     "w": "j1-p1-l12-w09",
+     "g": "te laat (v, accusatief: hoe?)"
+    },
+    {
+     "t": "لٰكِنَّها",
+     "w": "j1-p1-l12-w02",
+     "g": "maar zij"
+    },
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "سَعيدَةً.",
+     "w": "j1-p1-l04-w14"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar wachtte Suʿād?",
+   "opties": [
+    "bij de bushalte",
+    "op het treinstation",
+    "voor haar werk"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في مَحَطَّةِ الْحافِلاتِ} = bij de bushalte."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat pakte de man?",
+   "opties": [
+    "haar handtas",
+    "haar telefoon",
+    "haar fiets"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَخَذَ حَقيبَةَ يَدِها} = hij pakte haar handtas."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Een politieagent rende achter de dief aan. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Een sportieve jongeman rende achter de dief aan: {ar|شابٌّ رِياضِيٌّ … فَرَكَضَ وَراءَ اللِّصِّ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe kwam Suʿād op haar werk aan?",
+   "opties": [
+    "te laat, maar blij",
+    "op tijd",
+    "ze ging niet naar haar werk"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|وَصَلَتْ إِلى عَمَلِها مُتَأَخِّرَةً، لٰكِنَّها كانَتْ سَعيدَةً}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "___ كانَتْ تَنْظُرُ إِلى هاتِفِها، اقْتَرَبَ مِنْها رَجُلٌ.",
+   "antwoord": [
+    "بَيْنَما"
+   ],
+   "uitleg": "{ar|بَيْنَما} = terwijl: twee dingen tegelijk.",
+   "nl": "Terwijl ze naar haar telefoon keek, kwam er een man naar haar toe.",
+   "woordbank": [
+    "بَيْنَما",
+    "لِأَنَّ",
+    "قَبْلَ"
+   ]
+  },
+  {
+   "type": "ordenen",
+   "tag": "lezen",
+   "woorden": [
+    "أَمْسَكَ",
+    "الشّابُّ",
+    "بِاللِّصِّ"
+   ],
+   "ook": [
+    [
+     "الشّابُّ",
+     "أَمْسَكَ",
+     "بِاللِّصِّ"
+    ]
+   ],
+   "nl": "De jongeman greep de dief vast.",
+   "uitleg": "Werkwoordzin: werkwoord, onderwerp, dan {ar|بِـ} + voorwerp. Met het onderwerp vooraan kan het ook."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

@@ -108,7 +108,8 @@ function offlinePanel() {
     try {
       const cur = await content.curriculum();
       const files = ['content/curriculum.json', 'content/werkwoorden.json', 'content/tags.json', 'content/zoekindex.json',
-        ...cur.order.filter((u) => u.bestand).map((u) => 'content/' + u.bestand)];
+        ...cur.order.filter((u) => u.bestand).map((u) => 'content/' + u.bestand),
+        'content/teksten/index.json', ...(await content.texts()).map((t) => 'content/teksten/' + t.bestand)];
       const cache = await caches.open('darb-content');
       let done = 0, failed = 0;
       for (const f of files) {
@@ -193,6 +194,8 @@ export async function renderReviewList(main) {
   };
   lessons.forEach((l) => scan(l, `${l.code} ${l.titel}`));
   verbs.forEach((v) => v.review && items.push({ where: 'Werkwoorden', obj: v }));
+  const texts = await Promise.all((await content.texts().catch(() => [])).map((t) => content.text(t.id)));
+  texts.forEach((t) => t && scan({ ...t, entry: undefined }, `Leestekst ${t.entry.code} ${t.titel}`));
 
   main.replaceChildren(
     h('div.page-head', h('h1', 'Controlelijst'), h('p', `${items.length} gemarkeerde onderdelen. Elk punt bevat wat er gecontroleerd moet worden.`)),

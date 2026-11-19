@@ -1,0 +1,665 @@
+{
+ "id": "j3-p11-t1",
+ "titel": "Een vreemde droom",
+ "soort": "verhaal",
+ "jaar": 3,
+ "periode": 11,
+ "naLes": "j3-p11-l124",
+ "intro": "Een droom over een oude man, een gouden sleutel en een tuin. Let op de zwakke werkwoorden {ar|رَأى}, {ar|جاءَ} en {ar|مَشى}.",
+ "zinnen": [
+  {
+   "ar": "رَأَيْتُ الْبارِحَةَ حُلْمًا غَريبًا لَمْ أَرَ مِثْلَهُ مِنْ قَبْلُ.",
+   "tr": "raʾaytu l-bāriḥata ḥulman ġarīban lam ara miṯlahu min qablu.",
+   "nl": "Gisternacht had ik een vreemde droom, zoals ik er nog nooit een had gehad.",
+   "tokens": [
+    {
+     "t": "رَأَيْتُ",
+     "w": "j3-p11-l124-w01",
+     "g": "ik zag"
+    },
+    {
+     "t": "الْبارِحَةَ",
+     "w": "j1-p3-l25-w16"
+    },
+    {
+     "t": "حُلْمًا",
+     "w": "j1-p4-l44-w09",
+     "g": "een droom"
+    },
+    {
+     "t": "غَريبًا",
+     "w": "j3-p9-l106-w15",
+     "g": "vreemd"
+    },
+    {
+     "t": "لَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "أَرَ",
+     "w": "j3-p11-l124-w01",
+     "g": "zie: majzūm na لَمْ (lam ara = ik heb niet gezien)"
+    },
+    {
+     "t": "مِثْلَهُ",
+     "g": "zoiets, iets zoals dat (miṯlahu)"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "قَبْلُ.",
+     "w": "j1-p3-l25-w19",
+     "g": "eerder; مِنْ قَبْلُ = ooit eerder"
+    }
+   ]
+  },
+  {
+   "ar": "كُنْتُ أَمْشي وَحْدي في مَدينَةٍ قَديمَةٍ، وَكانَتِ الشَّوارِعُ فارِغَةً تَمامًا.",
+   "tr": "kuntu amšī waḥdī fī madīnatin qadīmatin, wa-kānati š-šawāriʿu fāriġatan tamāman.",
+   "nl": "Ik liep alleen door een oude stad, en de straten waren helemaal leeg.",
+   "tokens": [
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik was aan het …"
+    },
+    {
+     "t": "أَمْشي",
+     "w": "j2-p6-l70-w01",
+     "g": "ik loop"
+    },
+    {
+     "t": "وَحْدي",
+     "w": "j1-p4-l47-w12",
+     "g": "alleen (ik)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "مَدينَةٍ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "قَديمَةٍ،",
+     "w": "j1-p1-l04-w10"
+    },
+    {
+     "t": "وَكانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "en was (v)"
+    },
+    {
+     "t": "الشَّوارِعُ",
+     "w": "j1-p2-l14-w19",
+     "g": "de straten"
+    },
+    {
+     "t": "فارِغَةً",
+     "g": "leeg (v)"
+    },
+    {
+     "t": "تَمامًا.",
+     "w": "j1-p1-l12-w20"
+    }
+   ]
+  },
+  {
+   "ar": "فَجْأَةً جاءَ رَجُلٌ عَجوزٌ يَحْمِلُ عَصًا طَويلَةً.",
+   "tr": "fajʾatan jāʾa rajulun ʿajūzun yaḥmilu ʿaṣan ṭawīlatan.",
+   "nl": "Plotseling kwam er een oude man met een lange stok.",
+   "tokens": [
+    {
+     "t": "فَجْأَةً",
+     "w": "j2-p6-l61-w14"
+    },
+    {
+     "t": "جاءَ",
+     "w": "j3-p11-l124-w03",
+     "g": "kwam"
+    },
+    {
+     "t": "رَجُلٌ",
+     "w": "j1-p1-l06-w23"
+    },
+    {
+     "t": "عَجوزٌ",
+     "w": "j3-p9-l106-w08"
+    },
+    {
+     "t": "يَحْمِلُ",
+     "w": "j1-p2-l20-w09",
+     "g": "dragend (hij draagt)"
+    },
+    {
+     "t": "عَصًا",
+     "w": "j3-p9-l106-w09"
+    },
+    {
+     "t": "طَويلَةً.",
+     "w": "j1-p1-l04-w12",
+     "g": "lang (v)"
+    }
+   ]
+  },
+  {
+   "ar": "نَظَرَ إِلَيَّ وَقالَ: «كُنْتُ أَنْتَظِرُكَ مُنْذُ زَمَنٍ طَويلٍ.»",
+   "tr": "naẓara ilayya wa-qāla: «kuntu antaẓiruka munḏu zamanin ṭawīlin.»",
+   "nl": "Hij keek me aan en zei: \"Ik wacht al heel lang op je.\"",
+   "tokens": [
+    {
+     "t": "نَظَرَ",
+     "w": "j1-p3-l26-w09",
+     "g": "hij keek"
+    },
+    {
+     "t": "إِلَيَّ",
+     "g": "naar mij (ilā + -ya)"
+    },
+    {
+     "t": "وَقالَ:",
+     "w": "j2-p6-l69-w02",
+     "g": "en hij zei"
+    },
+    {
+     "t": "«كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was; كُنْتُ + muḍāriʿ = ik was aan het …"
+    },
+    {
+     "t": "أَنْتَظِرُكَ",
+     "w": "j1-p4-l37-w18",
+     "g": "ik wacht op jou"
+    },
+    {
+     "t": "مُنْذُ",
+     "w": "j1-p3-l33-w18"
+    },
+    {
+     "t": "زَمَنٍ",
+     "w": "j1-p3-l28-w18",
+     "g": "tijd"
+    },
+    {
+     "t": "طَويلٍ.»",
+     "w": "j1-p1-l04-w12"
+    }
+   ]
+  },
+  {
+   "ar": "ثُمَّ أَعْطاني مِفْتاحًا ذَهَبِيًّا وَاخْتَفى.",
+   "tr": "ṯumma aʿṭānī miftāḥan ḏahabiyyan wa-ḫtafā.",
+   "nl": "Toen gaf hij me een gouden sleutel en verdween.",
+   "tokens": [
+    {
+     "t": "ثُمَّ",
+     "w": "j1-p3-l25-w20"
+    },
+    {
+     "t": "أَعْطاني",
+     "g": "hij gaf mij (aʿṭā)"
+    },
+    {
+     "t": "مِفْتاحًا",
+     "w": "j1-p1-l08-w12"
+    },
+    {
+     "t": "ذَهَبِيًّا",
+     "w": "j1-p2-l16-w15",
+     "g": "gouden"
+    },
+    {
+     "t": "وَاخْتَفى.",
+     "g": "en hij verdween (iḫtafā)"
+    }
+   ]
+  },
+  {
+   "ar": "مَشَيْتُ حَتّى وَصَلْتُ إِلى بابٍ كَبيرٍ في نِهايَةِ الشّارِعِ.",
+   "tr": "mašaytu ḥattā waṣaltu ilā bābin kabīrin fī nihāyati š-šāriʿi.",
+   "nl": "Ik liep tot ik bij een grote deur aan het eind van de straat kwam.",
+   "tokens": [
+    {
+     "t": "مَشَيْتُ",
+     "w": "j2-p6-l70-w01",
+     "g": "ik liep"
+    },
+    {
+     "t": "حَتّى",
+     "g": "tot(dat)"
+    },
+    {
+     "t": "وَصَلْتُ",
+     "w": "j1-p3-l26-w01",
+     "g": "ik kwam aan"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "بابٍ",
+     "w": "j1-p1-l06-w06"
+    },
+    {
+     "t": "كَبيرٍ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "نِهايَةِ",
+     "w": "j2-p7-l84-w06",
+     "g": "het einde"
+    },
+    {
+     "t": "الشّارِعِ.",
+     "w": "j1-p2-l14-w19"
+    }
+   ]
+  },
+  {
+   "ar": "فَتَحْتُ الْبابَ وَرَأَيْتُ حَديقَةً واسِعَةً مَليئَةً بِالْأَزْهارِ.",
+   "tr": "fataḥtu l-bāba wa-raʾaytu ḥadīqatan wāsiʿatan malīʾatan bi-l-azhāri.",
+   "nl": "Ik opende de deur en zag een grote tuin vol bloemen.",
+   "tokens": [
+    {
+     "t": "فَتَحْتُ",
+     "w": "j1-p3-l25-w12",
+     "g": "ik opende"
+    },
+    {
+     "t": "الْبابَ",
+     "w": "j1-p1-l06-w06"
+    },
+    {
+     "t": "وَرَأَيْتُ",
+     "w": "j3-p11-l124-w01",
+     "g": "en ik zag"
+    },
+    {
+     "t": "حَديقَةً",
+     "w": "j1-p2-l14-w07"
+    },
+    {
+     "t": "واسِعَةً",
+     "w": "j1-p3-l30-w19"
+    },
+    {
+     "t": "مَليئَةً",
+     "g": "vol (met)"
+    },
+    {
+     "t": "بِالْأَزْهارِ.",
+     "w": "j2-p6-l66-w02",
+     "g": "met bloemen"
+    }
+   ]
+  },
+  {
+   "ar": "في وَسَطِ الْحَديقَةِ كانَتْ جَدَّتي جالِسَةً تَشْرَبُ الشّايَ.",
+   "tr": "fī wasaṭi l-ḥadīqati kānat jaddatī jālisatan tašrabu š-šāya.",
+   "nl": "Midden in de tuin zat mijn oma thee te drinken.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "وَسَطِ",
+     "w": "j1-p2-l15-w24"
+    },
+    {
+     "t": "الْحَديقَةِ",
+     "w": "j1-p2-l14-w07"
+    },
+    {
+     "t": "كانَتْ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "جَدَّتي",
+     "w": "j1-p1-l11-w09"
+    },
+    {
+     "t": "جالِسَةً",
+     "w": "j2-p7-l74-w06",
+     "g": "zittend (v)"
+    },
+    {
+     "t": "تَشْرَبُ",
+     "w": "j1-p2-l19-w04",
+     "g": "zij drinkt"
+    },
+    {
+     "t": "الشّايَ.",
+     "w": "j1-p2-l21-w05"
+    }
+   ]
+  },
+  {
+   "ar": "اِبْتَسَمَتْ وَقالَتْ: «لا تَخَفْ يا بُنَيَّ، فَالْحُلْمُ رِسالَةٌ.»",
+   "tr": "ibtasamat wa-qālat: «lā taḫaf yā bunayya, fa-l-ḥulmu risālatun.»",
+   "nl": "Ze glimlachte en zei: \"Wees niet bang, mijn jongen, want een droom is een boodschap.\"",
+   "tokens": [
+    {
+     "t": "اِبْتَسَمَتْ",
+     "w": "j3-p9-l106-w07",
+     "g": "zij glimlachte (verwant aan مُبْتَسِم)"
+    },
+    {
+     "t": "وَقالَتْ:",
+     "w": "j2-p6-l69-w02",
+     "g": "en zij zei"
+    },
+    {
+     "t": "«لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "تَخَفْ",
+     "w": "j2-p6-l69-w17",
+     "g": "wees bang: majzūm (lā taḫaf = wees niet bang)"
+    },
+    {
+     "t": "يا",
+     "w": "j3-p11-l121-w15",
+     "g": "o (aanspreking)"
+    },
+    {
+     "t": "بُنَيَّ،",
+     "w": "j3-p11-l121-w15",
+     "g": "mijn jongen"
+    },
+    {
+     "t": "فَالْحُلْمُ",
+     "w": "j1-p4-l44-w09",
+     "g": "want de droom"
+    },
+    {
+     "t": "رِسالَةٌ.»",
+     "w": "j1-p2-l19-w21"
+    }
+   ]
+  },
+  {
+   "ar": "أَرَدْتُ أَنْ أَسْأَلَها عَنْ مَعْنى كَلامِها، لٰكِنّي اسْتَيْقَظْتُ.",
+   "tr": "aradtu an asʾalahā ʿan maʿnā kalāmihā, lākinnī stayqaẓtu.",
+   "nl": "Ik wilde haar vragen wat ze bedoelde, maar ik werd wakker.",
+   "tokens": [
+    {
+     "t": "أَرَدْتُ",
+     "w": "j1-p2-l22-w06",
+     "g": "ik wilde"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "أَسْأَلَها",
+     "w": "j1-p3-l27-w14",
+     "g": "(dat) ik haar vraag: manṣūb"
+    },
+    {
+     "t": "عَنْ",
+     "g": "over, naar (ʿan)"
+    },
+    {
+     "t": "مَعْنى",
+     "g": "de betekenis (maʿnā)"
+    },
+    {
+     "t": "كَلامِها،",
+     "w": "j2-p5-l60-w14",
+     "g": "haar woorden"
+    },
+    {
+     "t": "لٰكِنّي",
+     "w": "j1-p1-l12-w02",
+     "g": "maar ik"
+    },
+    {
+     "t": "اسْتَيْقَظْتُ.",
+     "w": "j1-p4-l47-w01",
+     "g": "ik werd wakker"
+    }
+   ]
+  },
+  {
+   "ar": "يَقولُ صَديقي إِنَّ الْأَحْلامَ تَعْكِسُ ما نُفَكِّرُ فيهِ في النَّهارِ.",
+   "tr": "yaqūlu ṣadīqī inna l-aḥlāma taʿkisu mā nufakkiru fīhi fī n-nahāri.",
+   "nl": "Mijn vriend zegt dat dromen weerspiegelen waar we overdag aan denken.",
+   "tokens": [
+    {
+     "t": "يَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "zegt"
+    },
+    {
+     "t": "صَديقي",
+     "w": "j1-p1-l02-w21"
+    },
+    {
+     "t": "إِنَّ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat (inna na قالَ)"
+    },
+    {
+     "t": "الْأَحْلامَ",
+     "w": "j1-p4-l44-w09",
+     "g": "de dromen (meervoud)"
+    },
+    {
+     "t": "تَعْكِسُ",
+     "g": "weerspiegelen (ʿakasa)"
+    },
+    {
+     "t": "ما",
+     "g": "wat"
+    },
+    {
+     "t": "نُفَكِّرُ",
+     "w": "j3-p11-l122-w06",
+     "g": "wij denken (aan)"
+    },
+    {
+     "t": "فيهِ",
+     "w": "j3-p11-l122-w06",
+     "g": "eraan (fīhi)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "النَّهارِ.",
+     "g": "de dag (overdag)"
+    }
+   ]
+  },
+  {
+   "ar": "أَمّا أُمّي فَتُؤْمِنُ بِتَفْسيرِ الْأَحْلامِ.",
+   "tr": "ammā ummī fa-tuʾminu bi-tafsīri l-aḥlāmi.",
+   "nl": "Mijn moeder daarentegen gelooft in droomuitleg.",
+   "tokens": [
+    {
+     "t": "أَمّا",
+     "g": "wat … betreft (ammā … fa-)"
+    },
+    {
+     "t": "أُمّي",
+     "w": "j1-p1-l11-w03"
+    },
+    {
+     "t": "فَتُؤْمِنُ",
+     "g": "dan gelooft zij (āmana bi-)"
+    },
+    {
+     "t": "بِتَفْسيرِ",
+     "w": "j3-p11-l124-w13",
+     "g": "in de uitleg"
+    },
+    {
+     "t": "الْأَحْلامِ.",
+     "w": "j3-p11-l124-w13",
+     "g": "de dromen; تَفْسيرُ الْأَحْلامِ = droomuitleg"
+    }
+   ]
+  },
+  {
+   "ar": "وَأَنا؟ لا أَعْرِفُ، لٰكِنّي أَحْتَفِظُ بِهٰذا الْحُلْمِ في ذاكِرَتي كَهَدِيَّةٍ مِنْ جَدَّتي.",
+   "tr": "wa-ana? lā aʿrifu, lākinnī aḥtafiẓu bi-hāḏā l-ḥulmi fī ḏākiratī ka-hadiyyatin min jaddatī.",
+   "nl": "En ik? Ik weet het niet, maar ik bewaar deze droom in mijn geheugen als een cadeau van mijn oma.",
+   "tokens": [
+    {
+     "t": "وَأَنا؟",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "أَعْرِفُ،",
+     "w": "j1-p2-l19-w09",
+     "g": "ik weet"
+    },
+    {
+     "t": "لٰكِنّي",
+     "w": "j1-p1-l12-w02",
+     "g": "maar ik"
+    },
+    {
+     "t": "أَحْتَفِظُ",
+     "g": "ik bewaar (iḥtafaẓa bi-)"
+    },
+    {
+     "t": "بِهٰذا",
+     "w": "j1-p1-l08-w01",
+     "g": "deze (bi- + hāḏā)"
+    },
+    {
+     "t": "الْحُلْمِ",
+     "w": "j1-p4-l44-w09",
+     "g": "de droom"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "ذاكِرَتي",
+     "g": "mijn geheugen (ḏākira)"
+    },
+    {
+     "t": "كَهَدِيَّةٍ",
+     "w": "j1-p1-l08-w18",
+     "g": "als een cadeau (ka- = als)"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "جَدَّتي.",
+     "w": "j1-p1-l11-w09"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wie kwam er plotseling?",
+   "opties": [
+    "een oude man met een stok",
+    "een kind",
+    "zijn oma"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|جاءَ رَجُلٌ عَجوزٌ يَحْمِلُ عَصًا طَويلَةً}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat kreeg de verteller?",
+   "opties": [
+    "een gouden sleutel",
+    "een brief",
+    "een bloem"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَعْطاني مِفْتاحًا ذَهَبِيًّا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wie zat er in de tuin?",
+   "opties": [
+    "zijn oma",
+    "zijn vriend",
+    "de oude man"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في وَسَطِ الْحَديقَةِ كانَتْ جَدَّتي جالِسَةً}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De verteller kreeg antwoord op zijn vraag. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Hij wilde het vragen, maar werd wakker: {ar|لٰكِنّي اسْتَيْقَظْتُ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "لا ___ يا بُنَيَّ.",
+   "antwoord": [
+    "تَخَفْ"
+   ],
+   "uitleg": "Verbod: {ar|لا} + majzūm. Bij een hol werkwoord ({ar|خافَ}) valt de lange klinker weg: {ar|تَخَفْ}.",
+   "nl": "Wees niet bang, mijn jongen.",
+   "woordbank": [
+    "تَخَفْ",
+    "تَخافُ",
+    "خافَ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "رَأَيْتُ حُلْمًا غَريبًا.",
+   "antwoorden": [
+    "ik had een vreemde droom",
+    "ik zag een vreemde droom",
+    "ik heb een vreemde droom gehad",
+    "ik droomde iets vreemds",
+    "ik had een rare droom",
+    "ik heb een rare droom gehad",
+    "ik had een vreemde droom."
+   ],
+   "uitleg": "In het Arabisch \"zie\" je een droom: {ar|رَأى حُلْمًا} = een droom hebben.",
+   "tr": "raʾaytu ḥulman ġarīban"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

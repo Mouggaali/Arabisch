@@ -65,17 +65,21 @@ js/
   ui/                   components.js (playButton, answerField, textArea, meter, reviewFlag), keyboard.js,
                         world.js (signature), translit.js, theme.js
   exercises/            één module per oefentype + runner.js (feedback, toetsmodus, score)
-  views/                today (dagdoel, reeks, weekplanning), lessons, lesson (diepe links #/les/<id>/<onderdeel>/<woord-id|grammatica-nr>),
-                        flashcards, trainer (#/trainer/<werkwoord>), progress (planning), settings (+ controlelijst), search (#/zoeken/<term>),
-                        progress-model.js (afgeleide cijfers, geen DOM)
+  views/                today (dagdoel, reeks, weekplanning, aanbevolen leestekst), lessons (+ leesteksten per periode),
+                        lesson (diepe links #/les/<id>/<onderdeel>/<woord-id|grammatica-nr>), flashcards, trainer (#/trainer/<werkwoord>),
+                        progress (planning), settings (+ controlelijst), search (#/zoeken/<term>),
+                        review (#/herhalen[/<tag,…>]: zwakke plekken oefenen), reading (#/lezen[/<id>]: leesteksten),
+                        progress-model.js (afgeleide cijfers, geen DOM; weakTags, weakItemPool, tagSource)
 content/
   curriculum.json       GEGENEREERD uit leerplan.md, niet met de hand bewerken
   tags.json             labels van grammatica-tags (voor dashboard en toetsuitslag)
   werkwoorden.json      werkwoorden voor de trainer
   zoekindex.json        GEGENEREERD door tools/build-search-index.mjs (woorden, grammatica, lessen, werkwoorden), niet met de hand bewerken
+  teksten/index.json    lijst van de 24 leesteksten (2 per periode); teksten/jaar-<j>/<id>.json, bijv. jaar-1/j1-p2-t1.json
   jaar-<j>/periode-<p>/<code>.json   uitgewerkte eenheden, bijv. jaar-1/periode-1/l01.json
 tools/build-curriculum.mjs   leerplan.md + content/tags.json → content/curriculum.json
-tools/selftest.js            browsertest: run() (alles goed), runFout() (alles fout: feedback, uitleg, tag, flashcard), runTrainer(), ids()
+tools/selftest.js            browsertest: run() (alles goed), runFout() (alles fout: feedback, uitleg, tag, flashcard), runTrainer(),
+                             runLezen() (leesteksten), runHerhalen() (zwakke plekken), ids()
 tools/build-dist.mjs         bouwt dist/ voor publicatie en stempelt de cacheversie in sw.js (bouwt eerst de zoekindex opnieuw)
 tools/build-search-index.mjs content/*.json → content/zoekindex.json; draai na het wijzigen van lesinhoud
 tools/validate.mjs           structuurcontrole van alle lesbestanden (node tools/validate.mjs)
@@ -145,6 +149,46 @@ In tekstvelden is de mini-opmaak toegestaan:
 - Elke les gebruikt minimaal 5 van de 8 automatisch nagekeken oefenvormen (vertalen telt in beide richtingen). `schrijven` telt niet mee.
 - Een toets heeft 12–15 items.
 
+### Leesteksten (`content/teksten/`)
+- **Wat:** twee teksten per periode (24 in totaal), met alleen woorden uit de lessen tot en met `naLes`. Ze zijn niet op slot; `naLes` is een aanbeveling.
+- **Schema van een tekst:**
+  ```jsonc
+  { "id": "j1-p2-t1", "titel": "...", "soort": "verhaal|dialoog|bericht|brief|artikel", "jaar": 1, "periode": 2,
+    "naLes": "j1-p2-l20", "intro": "...", "review": {...},
+    "zinnen": [{ "ar": "...", "tr": "...", "nl": "...", "tokens": [{ "t": "وَذَهَبَ", "w": "<woord-id>", "g": "en hij ging" }] }],
+    "vragen": [ <oefen-items, 4–6, tag "lezen"> ] }
+  ```
+- **Tokens:**
+  - `t` is het woord zoals het in de zin staat. Samen vormen de tokens precies de zin (met één spatie ertussen).
+  - `w` verwijst naar een woordkaart. Tik je op het woord, dan toont de app de kaart uit de zoekindex.
+  - `g` is een glosse voor een vervoegde vorm, een naam of een functiewoord.
+  - Elk token heeft `w` of `g`.
+- **`index.json`:** `{ "teksten": [{ "id", "code" (T1–T24), "titel", "soort", "jaar", "periode", "naLes", "bestand" }] }`.
+- **Generator:** de teksten zijn met een script gegenereerd (sessie 2026-11-19). Het script koppelt de tokens automatisch aan woordkaarten (eerst exact, daarna zonder harakat en met voorvoegsels en suffixen eraf).
+  - Pas bij correcties de JSON direct aan. Draai daarna `node tools/validate.mjs` en `runLezen()`.
+- **Moedertaalcontrole:** elke tekst heeft `review` en staat op de controlelijst.
+- **Wat `validate.mjs` controleert:**
+  - de index tegen de bestanden
+  - dat de tokens de zin vormen
+  - dat elk `w` bestaat en niet uit een latere les komt dan `naLes`
+  - dat elk token `w` of `g` heeft
+  - de vragen
+- **Voortgang:** `store.state.teksten[id] = { gelezen, best }`.
+
+### Zwakke plekken oefenen (`#/herhalen`)
+- **Zwakke punten:** `weakTags()` in `progress-model.js` geeft de tags met minstens 3 antwoorden en minder dan 85% goed.
+  - Het percentage telt de laatste 10 antwoorden (`tags[tag].laatste`, vanaf 5 antwoorden).
+  - Zijn er minder dan 5 recente antwoorden, dan telt het totaal.
+- **Vragen:** `weakItemPool()` haalt de vragen uit:
+  - de oefensets van begonnen lessen
+  - de toets van afgeronde lessen
+
+  Daarbij:
+  - Geen schrijfopdrachten.
+  - Hooguit 3 per les.
+  - Elk item krijgt `_lesId` en `_dialect`; de runner gebruikt die per item.
+- **Ronde:** 10 vragen met feedback, daarna een mini-toets van 5 (`splitRound` in `review.js`). De uitslag toont per tag het percentage vóór en na.
+
 ## Arabische conventies (kwaliteitseisen)
 - **Volledige vocalisatie** in jaar 1 en 2. Controleer elk woord op spelling, harakat, shadda en hamza.
 - **Transliteratie** volgens DIN 31635 met j voor ج: ʾ ṯ j ḥ ḫ ḏ š ṣ ḍ ṭ ẓ ʿ ġ q, lange klinkers ā ī ū, lidwoord geassimileerd (aš-šams).
@@ -168,7 +212,7 @@ In tekstvelden is de mini-opmaak toegestaan:
 
 ## Architectuurafspraken
 - **Inhoud ≠ code.** Geen Arabische lesinhoud in JS. Nieuwe inhoud vraagt geen codewijziging.
-- **Voortgang ≠ inhoud.** `store.js` bewaart alleen id's, scores, SRS-kaarten (met een kopie van ar/tr/nl, zodat flashcards zonder de lesbestanden werken) en tags.
+- **Voortgang ≠ inhoud.** `store.js` (versie 2) bewaart alleen id's, scores, SRS-kaarten (met een kopie van ar/tr/nl, zodat flashcards zonder de lesbestanden werken), tags (met `laatste`: de laatste 10 antwoorden) en gelezen teksten.
   - Verandert het formaat, verhoog dan `VERSION` en schrijf een stap in `migrate()`.
 - **Views** schrijven alleen naar `main`. Afgeleide cijfers horen in `progress-model.js`.
 - **Oefentype toevoegen:**
@@ -219,6 +263,13 @@ In tekstvelden is de mini-opmaak toegestaan:
 
   De voortgang wordt vooraf bewaard en achteraf teruggezet.
 - `await t.runTrainer()` controleert alle werkwoorden van de trainer.
+- `await t.runLezen()` opent alle leesteksten. Per tekst:
+  - tikt hij een woord aan
+  - beantwoordt hij de vragen goed (100%) en daarna fout ("Niet goed" met uitleg)
+- `await t.runHerhalen()` zaait voortgang en speelt een ronde zwakke plekken helemaal af. Hij controleert:
+  - de pool (alleen de gekozen tag, ≤ 3 per les)
+  - dat er 10 + 5 vragen zijn
+  - dat `laatste` bijgewerkt wordt
 
 **Browsertests met Playwright** (`tests/darb.spec.mjs`, `playwright.config.mjs`, `tools/serve.mjs`):
 - Ze testen de gebouwde versie (`dist/`, met service worker), op poort 4173.
@@ -228,7 +279,8 @@ In tekstvelden is de mini-opmaak toegestaan:
   - zoeken en een diepe link
   - `run`/`runFout` op de steekproef
   - `runTrainer`
-  - offline na "Alle lessen offline beschikbaar maken" (alleen Chromium)
+  - `runLezen` op 3 teksten (met `DARB_FULL=1` alle 24) en `runHerhalen`
+  - offline na "Alle lessen offline beschikbaar maken", inclusief een leestekst (alleen Chromium)
 - `DARB_FULL=1 npx playwright test --project=chromium` test alle 228 eenheden (PowerShell: `$env:DARB_FULL=1`). Dat duurt een paar uur.
 - **In GitHub Actions:**
   - `pages.yml` draait de steekproef vóór elke publicatie. Slaagt die niet, dan wordt er niet gepubliceerd.

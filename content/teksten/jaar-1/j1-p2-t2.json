@@ -1,0 +1,401 @@
+{
+ "id": "j1-p2-t2",
+ "titel": "Een dag van Laylā",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 2,
+ "naLes": "j1-p2-l24",
+ "intro": "Laylā studeert in Amsterdam. Let op de werkwoorden in de muḍāriʿ met ta- (zij).",
+ "zinnen": [
+  {
+   "ar": "لَيْلى طالِبَةٌ مِنْ تونِسَ، تَسْكُنُ في أَمِسْتِرْدامَ.",
+   "tr": "laylā ṭālibatun min tūnisa, taskunu fī amistirdāma.",
+   "nl": "Laylā is een studente uit Tunesië; ze woont in Amsterdam.",
+   "tokens": [
+    {
+     "t": "لَيْلى",
+     "g": "Laylā (naam)"
+    },
+    {
+     "t": "طالِبَةٌ",
+     "w": "j1-p1-l02-w18"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "تونِسَ،",
+     "w": "j1-p1-l03-w10"
+    },
+    {
+     "t": "تَسْكُنُ",
+     "w": "j1-p2-l19-w03",
+     "g": "zij woont"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "أَمِسْتِرْدامَ.",
+     "g": "Amsterdam"
+    }
+   ]
+  },
+  {
+   "ar": "كُلَّ يَوْمٍ تَشْرَبُ الشّايَ مَعَ الْفُطورِ في السّاعَةِ السّابِعَةِ.",
+   "tr": "kulla yawmin tašrabu š-šāya maʿa l-fuṭūri fī s-sāʿati s-sābiʿati.",
+   "nl": "Elke dag drinkt ze om zeven uur thee bij het ontbijt.",
+   "tokens": [
+    {
+     "t": "كُلَّ",
+     "w": "j1-p2-l18-w17",
+     "g": "elke"
+    },
+    {
+     "t": "يَوْمٍ",
+     "w": "j1-p2-l18-w01"
+    },
+    {
+     "t": "تَشْرَبُ",
+     "w": "j1-p2-l19-w04",
+     "g": "zij drinkt"
+    },
+    {
+     "t": "الشّايَ",
+     "w": "j1-p2-l21-w05"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "الْفُطورِ",
+     "w": "j1-p2-l21-w22"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (in فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "السّابِعَةِ.",
+     "w": "j1-p2-l23-w08"
+    }
+   ]
+  },
+  {
+   "ar": "ثُمَّ تَذْهَبُ إِلى الْجامِعَةِ بِالْحافِلَةِ.",
+   "tr": "ṯumma taḏhabu ilā l-jāmiʿati bi-l-ḥāfilati.",
+   "nl": "Daarna gaat ze met de bus naar de universiteit.",
+   "tokens": [
+    {
+     "t": "ثُمَّ",
+     "g": "daarna, dan"
+    },
+    {
+     "t": "تَذْهَبُ",
+     "w": "j1-p2-l19-w06",
+     "g": "zij gaat"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْجامِعَةِ",
+     "w": "j1-p1-l05-w14"
+    },
+    {
+     "t": "بِالْحافِلَةِ.",
+     "w": "j1-p2-l20-w15"
+    }
+   ]
+  },
+  {
+   "ar": "تَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ.",
+   "tr": "tadrusu l-luġata l-ʿarabiyyata.",
+   "nl": "Ze studeert de Arabische taal.",
+   "tokens": [
+    {
+     "t": "تَدْرُسُ",
+     "w": "j1-p2-l19-w01",
+     "g": "zij studeert"
+    },
+    {
+     "t": "اللُّغَةَ",
+     "w": "j1-p1-l03-w22"
+    },
+    {
+     "t": "الْعَرَبِيَّةَ.",
+     "w": "j1-p1-l03-w21",
+     "g": "Arabisch (bijvoeglijk)"
+    }
+   ]
+  },
+  {
+   "ar": "في السّاعَةِ الْواحِدَةِ تَأْكُلُ في مَقْهًى بِجانِبِ الْجامِعَةِ.",
+   "tr": "fī s-sāʿati l-wāḥidati taʾkulu fī maqhan bi-jānibi l-jāmiʿati.",
+   "nl": "Om één uur eet ze in een café naast de universiteit.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (in فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "الْواحِدَةِ",
+     "w": "j1-p2-l23-w02",
+     "g": "één (uur)"
+    },
+    {
+     "t": "تَأْكُلُ",
+     "w": "j1-p2-l21-w26",
+     "g": "zij eet"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "مَقْهًى",
+     "w": "j1-p2-l22-w02"
+    },
+    {
+     "t": "بِجانِبِ",
+     "w": "j1-p2-l15-w07"
+    },
+    {
+     "t": "الْجامِعَةِ.",
+     "w": "j1-p1-l05-w14"
+    }
+   ]
+  },
+  {
+   "ar": "تُريدُ صَحْنَ حَساءٍ وَعَصيرَ بُرْتُقالٍ.",
+   "tr": "turīdu ṣaḥna ḥasāʾin wa-ʿaṣīra burtuqālin.",
+   "nl": "Ze wil een bord soep en sinaasappelsap.",
+   "tokens": [
+    {
+     "t": "تُريدُ",
+     "w": "j1-p2-l22-w06",
+     "g": "zij wil"
+    },
+    {
+     "t": "صَحْنَ",
+     "w": "j1-p2-l22-w11"
+    },
+    {
+     "t": "حَساءٍ",
+     "w": "j1-p2-l21-w21"
+    },
+    {
+     "t": "وَعَصيرَ",
+     "w": "j1-p2-l21-w07"
+    },
+    {
+     "t": "بُرْتُقالٍ.",
+     "w": "j1-p2-l21-w15"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْحَساءُ ساخِنٌ وَلَذيذٌ.",
+   "tr": "al-ḥasāʾu sāḫinun wa-laḏīḏun.",
+   "nl": "De soep is heet en lekker.",
+   "tokens": [
+    {
+     "t": "اَلْحَساءُ",
+     "w": "j1-p2-l21-w21"
+    },
+    {
+     "t": "ساخِنٌ",
+     "w": "j1-p2-l22-w17"
+    },
+    {
+     "t": "وَلَذيذٌ.",
+     "w": "j1-p2-l21-w25"
+    }
+   ]
+  },
+  {
+   "ar": "بَعْدَ الظُّهْرِ تَرْجِعُ إِلى الْبَيْتِ وَتَكْتُبُ واجِباتِها.",
+   "tr": "baʿda ẓ-ẓuhri tarjiʿu ilā l-bayti wa-taktubu wājibātihā.",
+   "nl": "’s Middags gaat ze terug naar huis en maakt ze haar huiswerk.",
+   "tokens": [
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p2-l18-w18",
+     "g": "na"
+    },
+    {
+     "t": "الظُّهْرِ",
+     "w": "j1-p2-l18-w11"
+    },
+    {
+     "t": "تَرْجِعُ",
+     "w": "j1-p2-l19-w13",
+     "g": "zij komt terug"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْبَيْتِ",
+     "w": "j1-p1-l04-w18"
+    },
+    {
+     "t": "وَتَكْتُبُ",
+     "w": "j1-p2-l19-w02",
+     "g": "en zij schrijft"
+    },
+    {
+     "t": "واجِباتِها.",
+     "w": "j1-p2-l20-w13",
+     "g": "haar huiswerk (meervoud + -hā)"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَساءِ تَطْبُخُ الْعَشاءَ مَعَ صَديقَتِها.",
+   "tr": "fī l-masāʾi taṭbuḫu l-ʿašāʾa maʿa ṣadīqatihā.",
+   "nl": "’s Avonds kookt ze het avondeten met haar vriendin.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "تَطْبُخُ",
+     "w": "j1-p2-l20-w01",
+     "g": "zij kookt"
+    },
+    {
+     "t": "الْعَشاءَ",
+     "w": "j1-p2-l21-w24"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "صَديقَتِها.",
+     "w": "j1-p1-l02-w22"
+    }
+   ]
+  },
+  {
+   "ar": "تَنامُ في السّاعَةِ الْحادِيَةَ عَشْرَةَ.",
+   "tr": "tanāmu fī s-sāʿati l-ḥādiyata ʿašrata.",
+   "nl": "Ze gaat om elf uur slapen.",
+   "tokens": [
+    {
+     "t": "تَنامُ",
+     "w": "j1-p2-l14-w24",
+     "g": "zij slaapt (verwant aan نَوْم)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (in فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "الْحادِيَةَ",
+     "w": "j1-p2-l23-w12",
+     "g": "elf (uur)"
+    },
+    {
+     "t": "عَشْرَةَ.",
+     "w": "j1-p2-l23-w12",
+     "g": "elf (uur)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar komt Laylā vandaan?",
+   "opties": [
+    "uit Tunesië",
+    "uit Marokko",
+    "uit Egypte"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|مِنْ تونِسَ} = uit Tunesië."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe gaat ze naar de universiteit?",
+   "opties": [
+    "met de bus",
+    "met de trein",
+    "met de fiets"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|بِالْحافِلَةِ} = met de bus."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat neemt ze in het café?",
+   "opties": [
+    "soep en sinaasappelsap",
+    "koffie en brood",
+    "thee en vis"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|صَحْنَ حَساءٍ وَعَصيرَ بُرْتُقالٍ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Laylā kookt het avondeten alleen. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Ze kookt met haar vriendin: {ar|مَعَ صَديقَتِها}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "بَعْدَ الظُّهْرِ ___ إِلى الْبَيْتِ.",
+   "antwoord": [
+    "تَرْجِعُ"
+   ],
+   "uitleg": "Laylā is \"zij\": muḍāriʿ met ta-: {ar|تَرْجِعُ}.",
+   "nl": "’s Middags gaat zij terug naar huis.",
+   "woordbank": [
+    "تَرْجِعُ",
+    "يَرْجِعُ",
+    "أَرْجِعُ"
+   ]
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

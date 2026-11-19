@@ -2,7 +2,7 @@
 
 import { store } from '../core/store.js';
 import { allCards, stage } from '../core/srs.js';
-import { today, daysBetween } from '../core/util.js';
+import { today, daysBetween, shuffle } from '../core/util.js';
 
 /** Tempo van het leerplan in eenheden per kalenderweek: 228 eenheden in 3 jaar, vakanties meegerekend. */
 export const PACE = 1.5;
@@ -42,13 +42,55 @@ export function partLevels(curriculum) {
   return { woorden: words, grammatica: gram, oefeningen: oef, toets };
 }
 
-/** Zwakke punten: tags met minstens 3 antwoorden en het laagste percentage goed. */
+/**
+ * Beheersing van een tag: het percentage goed van de laatste 10 antwoorden zodra dat er minstens 5 zijn,
+ * anders van alle antwoorden. Zo schuift een zwak punt echt op als je het oefent.
+ */
+export function tagRatio(v) {
+  const recent = v.laatste || '';
+  if (recent.length >= 5) return [...recent].filter((x) => x === '1').length / recent.length;
+  return v.goed / Math.max(1, v.goed + v.fout);
+}
+
+/** Zwakke punten: tags met minstens 3 antwoorden en het laagste percentage goed (onder 85%). */
 export function weakTags(limit = 6) {
   return Object.entries(store.state.tags)
-    .map(([tag, v]) => ({ tag, ...v, totaal: v.goed + v.fout, ratio: v.goed / Math.max(1, v.goed + v.fout) }))
-    .filter((t) => t.totaal >= 3)
+    .map(([tag, v]) => ({ tag, ...v, totaal: v.goed + v.fout, ratio: tagRatio(v) }))
+    .filter((t) => t.totaal >= 3 && t.ratio < 0.85)
     .sort((a, b) => a.ratio - b.ratio)
     .slice(0, limit);
+}
+
+/** Lessen waaruit herhaald mag worden: begonnen lessen, in de volgorde van het leerplan. */
+export function startedUnits(curriculum) {
+  return curriculum.order.filter((u) => u.bestand && store.state.lessen[u.id]);
+}
+
+/**
+ * Oefenitems voor de gekozen tags uit de lessen die je al gehad hebt: de oefensets van begonnen lessen
+ * en de toets van afgeronde lessen. Geen schrijfopdrachten. Hooguit `perLes` items per les.
+ * Elk item krijgt `_lesId`, `_lesCode` en `_dialect` mee (de runner gebruikt die).
+ */
+export function weakItemPool(lessons, tags, { perLes = 3 } = {}) {
+  const want = new Set(tags);
+  const pool = [];
+  for (const les of lessons) {
+    if (!les) continue;
+    const done = unitStatus(les.unit).key === 'afgerond';
+    const items = [
+      ...(les.oefeningen || []).flatMap((s) => s.items),
+      ...(done && les.toets ? les.toets.items : []),
+    ].filter((it) => want.has(it.tag) && it.type !== 'schrijven');
+    for (const it of shuffle(items).slice(0, perLes)) {
+      pool.push({ ...it, _lesId: les.id, _lesCode: les.code, _dialect: les.dialect || 'fusha' });
+    }
+  }
+  return shuffle(pool);
+}
+
+/** De vroegste les waarin een tag voorkomt (voor de link naar de uitleg). */
+export function tagSource(lessons, tag) {
+  return lessons.find((les) => les && [...(les.oefeningen || []).flatMap((s) => s.items), ...(les.toets?.items || [])].some((it) => it.tag === tag)) || null;
 }
 
 export function vocabStats() {

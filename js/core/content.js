@@ -72,6 +72,17 @@ export const content = {
     return getJson('content/zoekindex.json');
   },
 
+  /** Lijst van de leesteksten (content/teksten/index.json): [{id, titel, soort, jaar, periode, naLes, bestand}]. */
+  async texts() {
+    return (await getJson('content/teksten/index.json')).teksten;
+  },
+
+  async text(id) {
+    const entry = (await this.texts()).find((t) => t.id === id);
+    if (!entry) return null;
+    return { ...(await getJson('content/teksten/' + entry.bestand)), entry };
+  },
+
   tagLabel(tag) {
     return curriculum?.tags?.[tag] || tag;
   },

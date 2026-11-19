@@ -1,0 +1,396 @@
+{
+ "id": "j1-p3-t1",
+ "titel": "Een dag aan zee",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 3,
+ "naLes": "j1-p3-l28",
+ "intro": "ʿUmar vertelt over een uitstapje met zijn familie. Bijna alles staat in de māḍī (verleden tijd).",
+ "zinnen": [
+  {
+   "ar": "فِي الْأُسْبوعِ الْماضي ذَهَبْتُ مَعَ عائِلَتي إِلى الْبَحْرِ.",
+   "tr": "fī l-usbūʿi l-māḍī ḏahabtu maʿa ʿāʾilatī ilā l-baḥri.",
+   "nl": "Vorige week ging ik met mijn familie naar zee.",
+   "tokens": [
+    {
+     "t": "فِي",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْأُسْبوعِ",
+     "w": "j1-p2-l18-w02",
+     "g": "de week"
+    },
+    {
+     "t": "الْماضي",
+     "w": "j1-p3-l25-w17",
+     "g": "vorige (al-māḍī)"
+    },
+    {
+     "t": "ذَهَبْتُ",
+     "w": "j1-p3-l25-w03",
+     "g": "ik ging"
+    },
+    {
+     "t": "مَعَ",
+     "w": "j1-p1-l10-w03"
+    },
+    {
+     "t": "عائِلَتي",
+     "w": "j1-p1-l11-w01"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْبَحْرِ.",
+     "w": "j1-p2-l16-w19"
+    }
+   ]
+  },
+  {
+   "ar": "رَكِبْنا الْقِطارَ في السّاعَةِ الثّامِنَةِ صَباحًا.",
+   "tr": "rakibnā l-qiṭāra fī s-sāʿati ṯ-ṯāminati ṣabāḥan.",
+   "nl": "We namen om acht uur ’s ochtends de trein.",
+   "tokens": [
+    {
+     "t": "رَكِبْنا",
+     "w": "j1-p3-l26-w03",
+     "g": "wij reden (in), namen"
+    },
+    {
+     "t": "الْقِطارَ",
+     "w": "j1-p2-l20-w16"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "الثّامِنَةِ",
+     "w": "j1-p2-l23-w09"
+    },
+    {
+     "t": "صَباحًا.",
+     "w": "j1-p2-l18-w10"
+    }
+   ]
+  },
+  {
+   "ar": "كانَ الْجَوُّ جَميلًا جِدًّا.",
+   "tr": "kāna l-jawwu jamīlan jiddan.",
+   "nl": "Het weer was heel mooi.",
+   "tokens": [
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "الْجَوُّ",
+     "w": "j1-p3-l28-w07"
+    },
+    {
+     "t": "جَميلًا",
+     "w": "j1-p1-l04-w11"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "جَلَسْنا عَلى الشّاطِئِ وَلَعِبْنا مَعًا.",
+   "tr": "jalasnā ʿalā š-šāṭiʾi wa-laʿibnā maʿan.",
+   "nl": "We zaten op het strand en speelden samen.",
+   "tokens": [
+    {
+     "t": "جَلَسْنا",
+     "w": "j1-p3-l25-w11",
+     "g": "wij zaten"
+    },
+    {
+     "t": "عَلى",
+     "w": "j1-p2-l15-w02"
+    },
+    {
+     "t": "الشّاطِئِ",
+     "w": "j1-p3-l26-w13"
+    },
+    {
+     "t": "وَلَعِبْنا",
+     "w": "j1-p3-l25-w07",
+     "g": "en wij speelden"
+    },
+    {
+     "t": "مَعًا.",
+     "w": "j1-p1-l05-w18"
+    }
+   ]
+  },
+  {
+   "ar": "أَكَلْنا السَّمَكَ في مَطْعَمٍ صَغيرٍ.",
+   "tr": "akalnā s-samaka fī maṭʿamin ṣaġīrin.",
+   "nl": "We aten vis in een klein restaurant.",
+   "tokens": [
+    {
+     "t": "أَكَلْنا",
+     "w": "j1-p3-l25-w05",
+     "g": "wij aten"
+    },
+    {
+     "t": "السَّمَكَ",
+     "w": "j1-p2-l21-w10"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "مَطْعَمٍ",
+     "w": "j1-p2-l22-w01"
+    },
+    {
+     "t": "صَغيرٍ.",
+     "w": "j1-p1-l04-w08"
+    }
+   ]
+  },
+  {
+   "ar": "شَرِبَ أَبي الْقَهْوَةَ، وَشَرِبْتُ أَنا عَصيرًا.",
+   "tr": "šariba abī l-qahwata, wa-šaribtu ana ʿaṣīran.",
+   "nl": "Mijn vader dronk koffie en ik dronk sap.",
+   "tokens": [
+    {
+     "t": "شَرِبَ",
+     "w": "j1-p3-l25-w04"
+    },
+    {
+     "t": "أَبي",
+     "w": "j1-p1-l11-w02"
+    },
+    {
+     "t": "الْقَهْوَةَ،",
+     "w": "j1-p2-l21-w06"
+    },
+    {
+     "t": "وَشَرِبْتُ",
+     "w": "j1-p3-l25-w04",
+     "g": "en ik dronk"
+    },
+    {
+     "t": "أَنا",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "عَصيرًا.",
+     "w": "j1-p2-l21-w07"
+    }
+   ]
+  },
+  {
+   "ar": "في الْمَساءِ رَجَعْنا إِلى الْبَيْتِ.",
+   "tr": "fī l-masāʾi rajaʿnā ilā l-bayti.",
+   "nl": "’s Avonds kwamen we terug naar huis.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَساءِ",
+     "w": "j1-p2-l18-w12"
+    },
+    {
+     "t": "رَجَعْنا",
+     "w": "j1-p3-l25-w08",
+     "g": "wij kwamen terug"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْبَيْتِ.",
+     "w": "j1-p1-l04-w18"
+    }
+   ]
+  },
+  {
+   "ar": "كُنْتُ مُتْعَبًا جِدًّا، لٰكِنْ كانَ يَوْمًا مُمْتِعًا.",
+   "tr": "kuntu mutʿaban jiddan, lākin kāna yawman mumtiʿan.",
+   "nl": "Ik was erg moe, maar het was een leuke dag.",
+   "tokens": [
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was"
+    },
+    {
+     "t": "مُتْعَبًا",
+     "w": "j1-p1-l04-w17"
+    },
+    {
+     "t": "جِدًّا،",
+     "w": "j1-p1-l07-w24"
+    },
+    {
+     "t": "لٰكِنْ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar"
+    },
+    {
+     "t": "كانَ",
+     "w": "j1-p3-l28-w01"
+    },
+    {
+     "t": "يَوْمًا",
+     "w": "j1-p2-l18-w01",
+     "g": "een dag (accusatief na كانَ)"
+    },
+    {
+     "t": "مُمْتِعًا.",
+     "w": "j1-p3-l26-w19"
+    }
+   ]
+  },
+  {
+   "ar": "عِنْدَما كُنْتُ صَغيرًا، كُنّا نَذْهَبُ إِلى الْبَحْرِ كَثيرًا.",
+   "tr": "ʿindamā kuntu ṣaġīran, kunnā naḏhabu ilā l-baḥri kaṯīran.",
+   "nl": "Toen ik klein was, gingen we vaak naar zee.",
+   "tokens": [
+    {
+     "t": "عِنْدَما",
+     "w": "j1-p3-l28-w05"
+    },
+    {
+     "t": "كُنْتُ",
+     "w": "j1-p3-l28-w01",
+     "g": "ik was"
+    },
+    {
+     "t": "صَغيرًا،",
+     "w": "j1-p3-l28-w04"
+    },
+    {
+     "t": "كُنّا",
+     "w": "j1-p3-l28-w01",
+     "g": "wij waren; كُنّا + muḍāriʿ = wij plachten te …"
+    },
+    {
+     "t": "نَذْهَبُ",
+     "w": "j1-p2-l19-w06",
+     "g": "wij gaan"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْبَحْرِ",
+     "w": "j1-p2-l16-w19"
+    },
+    {
+     "t": "كَثيرًا.",
+     "w": "j1-p2-l19-w20"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar ging de familie heen?",
+   "opties": [
+    "naar zee",
+    "naar de bergen",
+    "naar het museum"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|إِلى الْبَحْرِ} = naar zee."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe reisden ze?",
+   "opties": [
+    "met de trein",
+    "met de bus",
+    "met de auto"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|رَكِبْنا الْقِطارَ} = we namen de trein."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Het weer was slecht. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Het weer was heel mooi: {ar|كانَ الْجَوُّ جَميلًا جِدًّا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat dronk ʿUmar?",
+   "opties": [
+    "sap",
+    "koffie",
+    "thee"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|وَشَرِبْتُ أَنا عَصيرًا}: zijn vader dronk koffie."
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "رَجَعْنا إِلى الْبَيْتِ.",
+   "antwoorden": [
+    "wij kwamen terug naar huis",
+    "we kwamen terug naar huis",
+    "wij keerden terug naar huis",
+    "we keerden terug naar huis",
+    "wij gingen terug naar huis",
+    "we gingen terug naar huis",
+    "wij kwamen thuis",
+    "we kwamen thuis",
+    "wij keerden naar huis terug",
+    "we keerden naar huis terug",
+    "wij kwamen naar huis terug",
+    "we kwamen naar huis terug"
+   ],
+   "uitleg": "{ar|رَجَعْنا} = wij kwamen terug: māḍī met de uitgang -nā.",
+   "tr": "rajaʿnā ilā l-bayti"
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "كانَ الْجَوُّ ___ جِدًّا.",
+   "antwoord": [
+    "جَميلًا"
+   ],
+   "uitleg": "Na {ar|كانَ} staat het gezegde in de accusatief: {ar|جَميلًا}, met tanwīn -an en een alif.",
+   "nl": "Het weer was heel mooi.",
+   "woordbank": [
+    "جَميلًا",
+    "جَميلٌ",
+    "قَديمٌ"
+   ]
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

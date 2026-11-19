@@ -1,0 +1,620 @@
+{
+ "id": "j3-p9-t1",
+ "titel": "Brand in de oude markt",
+ "soort": "artikel",
+ "jaar": 3,
+ "periode": 9,
+ "naLes": "j3-p9-l100",
+ "intro": "Een nieuwsbericht met de lijdende vorm ({ar|جُرِحَ}, {ar|نُقِلوا}, {ar|فُتِحَ}) en voorwaardezinnen met {ar|لَوْ} en {ar|لَوْلا}.",
+ "zinnen": [
+  {
+   "ar": "وَقَعَ حَريقٌ كَبيرٌ أَمْسِ في سوقٍ قَديمٍ بِمَدينَةِ تِطْوانَ.",
+   "tr": "waqaʿa ḥarīqun kabīrun amsi fī sūqin qadīmin bi-madīnati tiṭwāna.",
+   "nl": "Gisteren was er een grote brand in een oude markt in Tetouan.",
+   "tokens": [
+    {
+     "t": "وَقَعَ",
+     "w": "j3-p9-l97-w02",
+     "g": "vond plaats (waqaʿa)"
+    },
+    {
+     "t": "حَريقٌ",
+     "w": "j3-p9-l97-w11"
+    },
+    {
+     "t": "كَبيرٌ",
+     "w": "j1-p1-l04-w07"
+    },
+    {
+     "t": "أَمْسِ",
+     "w": "j1-p2-l18-w15"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "سوقٍ",
+     "w": "j1-p3-l25-w22"
+    },
+    {
+     "t": "قَديمٍ",
+     "w": "j1-p1-l04-w10"
+    },
+    {
+     "t": "بِمَدينَةِ",
+     "w": "j1-p1-l03-w05"
+    },
+    {
+     "t": "تِطْوانَ.",
+     "g": "Tetouan (stad in Noord-Marokko)"
+    }
+   ]
+  },
+  {
+   "ar": "بَدَأَ الْحَريقُ في السّاعَةِ الْعاشِرَةِ لَيْلًا في دُكّانٍ صَغيرٍ.",
+   "tr": "badaʾa l-ḥarīqu fī s-sāʿati l-ʿāširati laylan fī dukkānin ṣaġīrin.",
+   "nl": "De brand begon om tien uur ’s avonds in een klein winkeltje.",
+   "tokens": [
+    {
+     "t": "بَدَأَ",
+     "w": "j1-p3-l27-w17",
+     "g": "begon"
+    },
+    {
+     "t": "الْحَريقُ",
+     "w": "j3-p9-l97-w11"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "الْعاشِرَةِ",
+     "w": "j1-p2-l23-w11"
+    },
+    {
+     "t": "لَيْلًا",
+     "w": "j1-p2-l18-w13",
+     "g": "’s nachts, ’s avonds (laylan)"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "دُكّانٍ",
+     "w": "j1-p3-l30-w14"
+    },
+    {
+     "t": "صَغيرٍ.",
+     "w": "j1-p1-l04-w08"
+    }
+   ]
+  },
+  {
+   "ar": "كانَتِ الرّيحُ قَوِيَّةً، فَانْتَقَلَتِ النّارُ بِسُرْعَةٍ إِلى دَكاكينَ أُخْرى.",
+   "tr": "kānati r-rīḥu qawiyyatan, fa-ntaqalati n-nāru bi-surʿatin ilā dakākīna uḫrā.",
+   "nl": "De wind was sterk, dus het vuur sloeg snel over naar andere winkeltjes.",
+   "tokens": [
+    {
+     "t": "كانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "was (v)"
+    },
+    {
+     "t": "الرّيحُ",
+     "w": "j1-p3-l34-w07"
+    },
+    {
+     "t": "قَوِيَّةً،",
+     "w": "j1-p1-l07-w08",
+     "g": "sterk (v, accusatief na كانَ)"
+    },
+    {
+     "t": "فَانْتَقَلَتِ",
+     "w": "j1-p4-l44-w06",
+     "g": "dus ging over, verspreidde zich (v)"
+    },
+    {
+     "t": "النّارُ",
+     "w": "j2-p5-l52-w14",
+     "g": "het vuur"
+    },
+    {
+     "t": "بِسُرْعَةٍ",
+     "w": "j1-p4-l47-w32"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "دَكاكينَ",
+     "w": "j1-p3-l30-w14",
+     "g": "winkeltjes (meervoud)"
+    },
+    {
+     "t": "أُخْرى.",
+     "w": "j2-p5-l51-w20",
+     "g": "andere (v)"
+    }
+   ]
+  },
+  {
+   "ar": "وَصَلَ رِجالُ الْإِطْفاءِ بَعْدَ عِشْرينَ دَقيقَةً.",
+   "tr": "waṣala rijālu l-iṭfāʾi baʿda ʿišrīna daqīqatan.",
+   "nl": "De brandweer kwam na twintig minuten.",
+   "tokens": [
+    {
+     "t": "وَصَلَ",
+     "w": "j1-p3-l26-w01"
+    },
+    {
+     "t": "رِجالُ",
+     "w": "j3-p9-l97-w10",
+     "g": "mannen; رِجالُ الْإِطْفاءِ = brandweer"
+    },
+    {
+     "t": "الْإِطْفاءِ",
+     "w": "j3-p9-l97-w10",
+     "g": "het blussen; رِجالُ الْإِطْفاءِ = brandweer"
+    },
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "عِشْرينَ",
+     "w": "j1-p2-l13-w10",
+     "g": "twintig"
+    },
+    {
+     "t": "دَقيقَةً.",
+     "w": "j1-p2-l13-w12"
+    }
+   ]
+  },
+  {
+   "ar": "أُطْفِئَتِ النّارُ بَعْدَ ثَلاثِ ساعاتٍ.",
+   "tr": "uṭfiʾati n-nāru baʿda ṯalāṯi sāʿātin.",
+   "nl": "Het vuur werd na drie uur geblust.",
+   "tokens": [
+    {
+     "t": "أُطْفِئَتِ",
+     "w": "j3-p9-l97-w10",
+     "g": "werd geblust (lijdende vorm, verwant aan إِطْفاء)"
+    },
+    {
+     "t": "النّارُ",
+     "w": "j2-p5-l52-w14",
+     "g": "het vuur"
+    },
+    {
+     "t": "بَعْدَ",
+     "w": "j1-p3-l33-w19"
+    },
+    {
+     "t": "ثَلاثِ",
+     "w": "j1-p1-l09-w04",
+     "g": "drie (vóór een vrouwelijk meervoud)"
+    },
+    {
+     "t": "ساعاتٍ.",
+     "w": "j1-p1-l06-w15",
+     "g": "uren"
+    }
+   ]
+  },
+  {
+   "ar": "جُرِحَ ثَلاثَةُ أَشْخاصٍ، وَنُقِلوا إِلى الْمُسْتَشْفى بِسَيّارَةِ إِسْعافٍ.",
+   "tr": "juriḥa ṯalāṯatu ašḫāṣin, wa-nuqilū ilā l-mustašfā bi-sayyārati isʿāfin.",
+   "nl": "Drie mensen raakten gewond en werden met een ambulance naar het ziekenhuis gebracht.",
+   "tokens": [
+    {
+     "t": "جُرِحَ",
+     "w": "j3-p9-l97-w03",
+     "g": "raakte gewond (lijdende vorm)"
+    },
+    {
+     "t": "ثَلاثَةُ",
+     "w": "j1-p1-l09-w04"
+    },
+    {
+     "t": "أَشْخاصٍ،",
+     "w": "j1-p1-l07-w19",
+     "g": "personen (meervoud)"
+    },
+    {
+     "t": "وَنُقِلوا",
+     "w": "j3-p9-l97-w07",
+     "g": "en zij werden overgebracht (lijdende vorm)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "الْمُسْتَشْفى",
+     "w": "j1-p3-l31-w02"
+    },
+    {
+     "t": "بِسَيّارَةِ",
+     "w": "j3-p9-l97-w09",
+     "g": "met de auto (van)"
+    },
+    {
+     "t": "إِسْعافٍ.",
+     "w": "j3-p9-l97-w09",
+     "g": "eerste hulp; سَيّارَةُ إِسْعافٍ = ambulance"
+    }
+   ]
+  },
+  {
+   "ar": "وَلَمْ يُقْتَلْ أَحَدٌ، وَالْحَمْدُ لِلّٰهِ.",
+   "tr": "wa-lam yuqtal aḥadun, wa-l-ḥamdu li-llāhi.",
+   "nl": "Er is niemand omgekomen, godzijdank.",
+   "tokens": [
+    {
+     "t": "وَلَمْ",
+     "w": "j2-p5-l51-w01"
+    },
+    {
+     "t": "يُقْتَلْ",
+     "w": "j3-p9-l97-w04",
+     "g": "werd gedood: lijdende vorm, majzūm na لَمْ"
+    },
+    {
+     "t": "أَحَدٌ،",
+     "g": "iemand; لَمْ … أَحَدٌ = niemand"
+    },
+    {
+     "t": "وَالْحَمْدُ",
+     "w": "j1-p1-l01-w14",
+     "g": "en de lof"
+    },
+    {
+     "t": "لِلّٰهِ.",
+     "w": "j1-p1-l01-w14",
+     "g": "aan God; الْحَمْدُ لِلّٰهِ = godzijdank"
+    }
+   ]
+  },
+  {
+   "ar": "قالَ شاهِدُ عِيانٍ لِلصَّحيفَةِ: «رَأَيْتُ النّارَ مِنْ نافِذَتي، فَاتَّصَلْتُ بِالشُّرْطَةِ مُباشَرَةً.»",
+   "tr": "qāla šāhidu ʿiyānin li-ṣ-ṣaḥīfati: «raʾaytu n-nāra min nāfiḏatī, fa-ttaṣaltu bi-š-šurṭati mubāšaratan.»",
+   "nl": "Een ooggetuige zei tegen de krant: \"Ik zag het vuur vanuit mijn raam en belde meteen de politie.\"",
+   "tokens": [
+    {
+     "t": "قالَ",
+     "w": "j2-p6-l69-w02"
+    },
+    {
+     "t": "شاهِدُ",
+     "w": "j3-p9-l97-w08",
+     "g": "getuige"
+    },
+    {
+     "t": "عِيانٍ",
+     "w": "j3-p9-l97-w08",
+     "g": "het zien; شاهِدُ عِيانٍ = ooggetuige"
+    },
+    {
+     "t": "لِلصَّحيفَةِ:",
+     "w": "j1-p2-l20-w17",
+     "g": "tegen de krant"
+    },
+    {
+     "t": "«رَأَيْتُ",
+     "g": "ik zag (raʾā)"
+    },
+    {
+     "t": "النّارَ",
+     "w": "j2-p5-l52-w14",
+     "g": "het vuur"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "نافِذَتي،",
+     "w": "j1-p1-l06-w07"
+    },
+    {
+     "t": "فَاتَّصَلْتُ",
+     "w": "j1-p4-l37-w17",
+     "g": "en ik belde"
+    },
+    {
+     "t": "بِالشُّرْطَةِ",
+     "w": "j1-p3-l32-w08",
+     "g": "de politie"
+    },
+    {
+     "t": "مُباشَرَةً.»",
+     "w": "j1-p4-l38-w16"
+    }
+   ]
+  },
+  {
+   "ar": "لَوْ وَصَلَ رِجالُ الْإِطْفاءِ مُتَأَخِّرينَ، لَاحْتَرَقَ السّوقُ كُلُّهُ.",
+   "tr": "law waṣala rijālu l-iṭfāʾi mutaʾaḫḫirīna, la-ḥtaraqa s-sūqu kulluhu.",
+   "nl": "Als de brandweer te laat was gekomen, was de hele markt afgebrand.",
+   "tokens": [
+    {
+     "t": "لَوْ",
+     "w": "j3-p9-l100-w01"
+    },
+    {
+     "t": "وَصَلَ",
+     "w": "j1-p3-l26-w01"
+    },
+    {
+     "t": "رِجالُ",
+     "w": "j3-p9-l97-w10",
+     "g": "mannen; رِجالُ الْإِطْفاءِ = brandweer"
+    },
+    {
+     "t": "الْإِطْفاءِ",
+     "w": "j3-p9-l97-w10",
+     "g": "het blussen; رِجالُ الْإِطْفاءِ = brandweer"
+    },
+    {
+     "t": "مُتَأَخِّرينَ،",
+     "w": "j1-p1-l12-w09",
+     "g": "te laat (m mv)"
+    },
+    {
+     "t": "لَاحْتَرَقَ",
+     "w": "j3-p9-l97-w11",
+     "g": "dan was … afgebrand (la- + iḥtaraqa, verwant aan حَريق)"
+    },
+    {
+     "t": "السّوقُ",
+     "w": "j1-p3-l25-w22"
+    },
+    {
+     "t": "كُلُّهُ.",
+     "w": "j1-p4-l46-w17",
+     "g": "heel, helemaal (kull + suffix)"
+    }
+   ]
+  },
+  {
+   "ar": "وَقَدْ فُتِحَ تَحْقيقٌ لِمَعْرِفَةِ سَبَبِ الْحَريقِ.",
+   "tr": "wa-qad futiḥa taḥqīqun li-maʿrifati sababi l-ḥarīqi.",
+   "nl": "Er is een onderzoek gestart om de oorzaak van de brand te achterhalen.",
+   "tokens": [
+    {
+     "t": "وَقَدْ",
+     "g": "en (qad: is al gebeurd)"
+    },
+    {
+     "t": "فُتِحَ",
+     "w": "j1-p3-l25-w12",
+     "g": "werd geopend (lijdende vorm)"
+    },
+    {
+     "t": "تَحْقيقٌ",
+     "w": "j3-p9-l97-w15"
+    },
+    {
+     "t": "لِمَعْرِفَةِ",
+     "w": "j1-p2-l19-w09",
+     "g": "om te weten te komen (maʿrifa = het weten)"
+    },
+    {
+     "t": "سَبَبِ",
+     "w": "j1-p2-l24-w14"
+    },
+    {
+     "t": "الْحَريقِ.",
+     "w": "j3-p9-l97-w11"
+    }
+   ]
+  },
+  {
+   "ar": "يَقولُ أَصْحابُ الدَّكاكينِ إِنَّهُمْ خَسِروا كُلَّ شَيْءٍ.",
+   "tr": "yaqūlu aṣḥābu d-dakākīni innahum ḫasirū kulla šayʾin.",
+   "nl": "De winkeleigenaars zeggen dat ze alles kwijt zijn.",
+   "tokens": [
+    {
+     "t": "يَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "zeggen (hij zegt)"
+    },
+    {
+     "t": "أَصْحابُ",
+     "w": "j1-p2-l14-w20",
+     "g": "de eigenaars"
+    },
+    {
+     "t": "الدَّكاكينِ",
+     "w": "j1-p3-l30-w14",
+     "g": "de winkeltjes"
+    },
+    {
+     "t": "إِنَّهُمْ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat zij (inna na قالَ)"
+    },
+    {
+     "t": "خَسِروا",
+     "w": "j2-p5-l54-w12",
+     "g": "zij verloren"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "شَيْءٍ.",
+     "w": "j1-p1-l08-w19"
+    }
+   ]
+  },
+  {
+   "ar": "وَتَمَنّى بَعْضُهُمْ أَنْ تُساعِدَهُمُ الْبَلَدِيَّةُ.",
+   "tr": "wa-tamannā baʿḍuhum an tusāʿidahumu l-baladiyyatu.",
+   "nl": "Sommigen hopen dat de gemeente hen helpt.",
+   "tokens": [
+    {
+     "t": "وَتَمَنّى",
+     "w": "j3-p9-l100-w10",
+     "g": "en (hij) wenste, hoopte"
+    },
+    {
+     "t": "بَعْضُهُمْ",
+     "w": "j1-p4-l46-w18",
+     "g": "sommigen van hen"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "تُساعِدَهُمُ",
+     "w": "j1-p4-l37-w16",
+     "g": "(dat) zij hen helpt: manṣūb"
+    },
+    {
+     "t": "الْبَلَدِيَّةُ.",
+     "w": "j2-p6-l67-w11"
+    }
+   ]
+  },
+  {
+   "ar": "لَوْلا الْجيرانُ الَّذينَ ساعَدوا، لَكانَتِ الْخَسائِرُ أَكْبَرَ.",
+   "tr": "lawlā l-jīrānu llaḏīna sāʿadū, la-kānati l-ḫasāʾiru akbara.",
+   "nl": "Als de buren niet hadden geholpen, was de schade groter geweest.",
+   "tokens": [
+    {
+     "t": "لَوْلا",
+     "w": "j3-p9-l100-w02"
+    },
+    {
+     "t": "الْجيرانُ",
+     "w": "j1-p2-l14-w22"
+    },
+    {
+     "t": "الَّذينَ",
+     "w": "j2-p7-l76-w03"
+    },
+    {
+     "t": "ساعَدوا،",
+     "w": "j1-p4-l37-w16",
+     "g": "zij hielpen"
+    },
+    {
+     "t": "لَكانَتِ",
+     "w": "j1-p3-l28-w01",
+     "g": "dan was … geweest (la- + kānat)"
+    },
+    {
+     "t": "الْخَسائِرُ",
+     "w": "j2-p8-l90-w15",
+     "g": "de verliezen, de schade"
+    },
+    {
+     "t": "أَكْبَرَ.",
+     "w": "j1-p3-l30-w23",
+     "g": "groter (accusatief na كانَ)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar begon de brand?",
+   "opties": [
+    "in een klein winkeltje",
+    "in een woonhuis",
+    "in de moskee"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|في دُكّانٍ صَغيرٍ} = in een klein winkeltje."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waarom verspreidde het vuur zich snel?",
+   "opties": [
+    "de wind was sterk",
+    "de brandweer kwam laat",
+    "er was geen water"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|كانَتِ الرّيحُ قَوِيَّةً، فَانْتَقَلَتِ النّارُ بِسُرْعَةٍ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Er zijn drie mensen omgekomen. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Drie mensen raakten gewond ({ar|جُرِحَ}); er is niemand omgekomen ({ar|لَمْ يُقْتَلْ أَحَدٌ})."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat was er gebeurd als de brandweer te laat was gekomen?",
+   "opties": [
+    "de hele markt was afgebrand",
+    "er was niemand gewond geraakt",
+    "de winkels waren dicht geweest"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|لَوْ … لَاحْتَرَقَ السّوقُ كُلُّهُ}: een irreële voorwaarde met لَوْ … لَـ."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "جُرِحَ ثَلاثَةُ أَشْخاصٍ، وَ___ إِلى الْمُسْتَشْفى.",
+   "antwoord": [
+    "نُقِلوا"
+   ],
+   "uitleg": "Lijdende vorm: {ar|نُقِلوا} (zij werden gebracht), met u-i. {ar|نَقَلوا} is bedrijvend: zij brachten.",
+   "nl": "Drie mensen raakten gewond en werden naar het ziekenhuis gebracht.",
+   "woordbank": [
+    "نُقِلوا",
+    "نَقَلوا",
+    "يَنْقُلونَ"
+   ],
+   "streng": true
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "لَمْ يُقْتَلْ أَحَدٌ.",
+   "antwoorden": [
+    "niemand werd gedood",
+    "niemand is gedood",
+    "niemand kwam om",
+    "er werd niemand gedood",
+    "er is niemand gedood",
+    "niemand is omgekomen",
+    "er is niemand omgekomen",
+    "er kwam niemand om"
+   ],
+   "uitleg": "{ar|يُقْتَلْ} is lijdend (werd gedood), majzūm na {ar|لَمْ}; {ar|لَمْ … أَحَدٌ} = niemand.",
+   "tr": "lam yuqtal aḥadun"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

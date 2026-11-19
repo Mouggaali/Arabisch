@@ -1,0 +1,320 @@
+{
+ "id": "j1-p1-t2",
+ "titel": "De familie van Hind",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 1,
+ "naLes": "j1-p1-l12",
+ "intro": "Hind laat een familiefoto zien. Let op de bezittelijke uitgangen -ī (mijn) en -hā (haar).",
+ "zinnen": [
+  {
+   "ar": "هٰذِهِ صورَةُ عائِلَتي.",
+   "tr": "hāḏihi ṣūratu ʿāʾilatī.",
+   "nl": "Dit is de foto van mijn familie.",
+   "tokens": [
+    {
+     "t": "هٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "صورَةُ",
+     "w": "j1-p1-l06-w16"
+    },
+    {
+     "t": "عائِلَتي.",
+     "w": "j1-p1-l11-w01"
+    }
+   ]
+  },
+  {
+   "ar": "هٰذا أَبي، هُوَ طَبيبٌ.",
+   "tr": "hāḏā abī, huwa ṭabībun.",
+   "nl": "Dit is mijn vader, hij is arts.",
+   "tokens": [
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "أَبي،",
+     "w": "j1-p1-l11-w02"
+    },
+    {
+     "t": "هُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "طَبيبٌ.",
+     "w": "j1-p1-l04-w01"
+    }
+   ]
+  },
+  {
+   "ar": "وَهٰذِهِ أُمّي، هِيَ مُعَلِّمَةٌ.",
+   "tr": "wa-hāḏihi ummī, hiya muʿallimatun.",
+   "nl": "En dit is mijn moeder, zij is lerares.",
+   "tokens": [
+    {
+     "t": "وَهٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "أُمّي،",
+     "w": "j1-p1-l11-w03"
+    },
+    {
+     "t": "هِيَ",
+     "w": "j1-p1-l02-w05"
+    },
+    {
+     "t": "مُعَلِّمَةٌ.",
+     "w": "j1-p1-l02-w20"
+    }
+   ]
+  },
+  {
+   "ar": "عِنْدي أَخٌ وَأُخْتانِ.",
+   "tr": "ʿindī aḫun wa-uḫtāni.",
+   "nl": "Ik heb een broer en twee zussen.",
+   "tokens": [
+    {
+     "t": "عِنْدي",
+     "w": "j1-p1-l10-w04"
+    },
+    {
+     "t": "أَخٌ",
+     "w": "j1-p1-l11-w04"
+    },
+    {
+     "t": "وَأُخْتانِ.",
+     "w": "j1-p1-l11-w05",
+     "g": "en twee zussen (dualis)"
+    }
+   ]
+  },
+  {
+   "ar": "أَخي يوسُفُ طالِبٌ مُجْتَهِدٌ.",
+   "tr": "aḫī yūsufu ṭālibun mujtahidun.",
+   "nl": "Mijn broer Yūsuf is een ijverige student.",
+   "tokens": [
+    {
+     "t": "أَخي",
+     "w": "j1-p1-l11-w04",
+     "g": "mijn broer"
+    },
+    {
+     "t": "يوسُفُ",
+     "g": "Yūsuf (naam)"
+    },
+    {
+     "t": "طالِبٌ",
+     "w": "j1-p1-l02-w17"
+    },
+    {
+     "t": "مُجْتَهِدٌ.",
+     "w": "j1-p1-l07-w18"
+    }
+   ]
+  },
+  {
+   "ar": "أُخْتي الصَّغيرَةُ عُمْرُها سَبْعُ سَنَواتٍ.",
+   "tr": "uḫtī ṣ-ṣaġīratu ʿumruhā sabʿu sanawātin.",
+   "nl": "Mijn kleine zus is zeven jaar oud.",
+   "tokens": [
+    {
+     "t": "أُخْتي",
+     "w": "j1-p1-l11-w05"
+    },
+    {
+     "t": "الصَّغيرَةُ",
+     "w": "j1-p1-l04-w08"
+    },
+    {
+     "t": "عُمْرُها",
+     "w": "j1-p1-l09-w15",
+     "g": "haar leeftijd"
+    },
+    {
+     "t": "سَبْعُ",
+     "w": "j1-p1-l09-w08",
+     "g": "zeven (bij een vrouwelijk woord)"
+    },
+    {
+     "t": "سَنَواتٍ.",
+     "w": "j1-p1-l09-w17",
+     "g": "jaren (meervoud van سَنَة)"
+    }
+   ]
+  },
+  {
+   "ar": "جَدّي وَجَدَّتي مِنَ الْمَغْرِبِ.",
+   "tr": "jaddī wa-jaddatī mina l-maġribi.",
+   "nl": "Mijn opa en oma komen uit Marokko.",
+   "tokens": [
+    {
+     "t": "جَدّي",
+     "w": "j1-p1-l11-w08"
+    },
+    {
+     "t": "وَجَدَّتي",
+     "w": "j1-p1-l11-w09"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمَغْرِبِ.",
+     "w": "j1-p1-l03-w08"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْيَوْمَ أَبي مَريضٌ قَليلًا.",
+   "tr": "al-yawma abī marīḍun qalīlan.",
+   "nl": "Vandaag is mijn vader een beetje ziek.",
+   "tokens": [
+    {
+     "t": "اَلْيَوْمَ",
+     "w": "j1-p1-l12-w17"
+    },
+    {
+     "t": "أَبي",
+     "w": "j1-p1-l11-w02"
+    },
+    {
+     "t": "مَريضٌ",
+     "w": "j1-p1-l04-w15"
+    },
+    {
+     "t": "قَليلًا.",
+     "w": "j1-p1-l12-w18"
+    }
+   ]
+  },
+  {
+   "ar": "أُمّي قَلِقَةٌ، لٰكِنَّهُ لَيْسَ مَريضًا جِدًّا.",
+   "tr": "ummī qaliqatun, lākinnahu laysa marīḍan jiddan.",
+   "nl": "Mijn moeder is ongerust, maar hij is niet erg ziek.",
+   "tokens": [
+    {
+     "t": "أُمّي",
+     "w": "j1-p1-l11-w03"
+    },
+    {
+     "t": "قَلِقَةٌ،",
+     "w": "j1-p1-l12-w04"
+    },
+    {
+     "t": "لٰكِنَّهُ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar hij (lākinna + -hu)"
+    },
+    {
+     "t": "لَيْسَ",
+     "w": "j1-p1-l12-w01"
+    },
+    {
+     "t": "مَريضًا",
+     "w": "j1-p1-l04-w15"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "نَحْنُ عائِلَةٌ سَعيدَةٌ.",
+   "tr": "naḥnu ʿāʾilatun saʿīdatun.",
+   "nl": "Wij zijn een gelukkige familie.",
+   "tokens": [
+    {
+     "t": "نَحْنُ",
+     "w": "j1-p1-l05-w01"
+    },
+    {
+     "t": "عائِلَةٌ",
+     "w": "j1-p1-l11-w01"
+    },
+    {
+     "t": "سَعيدَةٌ.",
+     "w": "j1-p1-l04-w14"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat is het beroep van de vader?",
+   "opties": [
+    "arts",
+    "leraar",
+    "ingenieur"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|هُوَ طَبيبٌ} = hij is arts."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel broers en zussen heeft Hind?",
+   "opties": [
+    "een broer en twee zussen",
+    "twee broers en een zus",
+    "een broer en een zus"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أُخْتانِ} is een dualis: twee zussen."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "De vader is vandaag erg ziek. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Hij is een beetje ziek ({ar|قَليلًا}) en niet erg ziek ({ar|لَيْسَ مَريضًا جِدًّا})."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "أُمّي ___، لٰكِنَّهُ لَيْسَ مَريضًا جِدًّا.",
+   "antwoord": [
+    "قَلِقَةٌ"
+   ],
+   "uitleg": "De moeder is ongerust: {ar|قَلِقَةٌ}, vrouwelijk met ـة.",
+   "nl": "Mijn moeder is ongerust, maar hij is niet erg ziek.",
+   "woordbank": [
+    "قَلِقَةٌ",
+    "سَعيدَةٌ",
+    "مَشْغولَةٌ"
+   ]
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "نَحْنُ عائِلَةٌ سَعيدَةٌ.",
+   "antwoorden": [
+    "wij zijn een gelukkige familie",
+    "we zijn een gelukkige familie",
+    "wij zijn een blije familie",
+    "we zijn een blije familie",
+    "wij zijn een gelukkig gezin",
+    "we zijn een gelukkig gezin"
+   ],
+   "uitleg": "Bijvoeglijk naamwoord na het zelfstandig naamwoord, ook vrouwelijk: {ar|عائِلَةٌ سَعيدَةٌ}.",
+   "tr": "naḥnu ʿāʾilatun saʿīdatun"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

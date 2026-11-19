@@ -1,0 +1,300 @@
+{
+ "id": "j1-p1-t1",
+ "titel": "In de klas van Sāmī",
+ "soort": "verhaal",
+ "jaar": 1,
+ "periode": 1,
+ "naLes": "j1-p1-l08",
+ "intro": "Sāmī vertelt over zijn klas. Je kent alle woorden uit L01–L08.",
+ "zinnen": [
+  {
+   "ar": "مَرْحَبًا! اِسْمي سامي.",
+   "tr": "marḥaban! ismī Sāmī.",
+   "nl": "Hallo! Mijn naam is Sāmī.",
+   "tokens": [
+    {
+     "t": "مَرْحَبًا!",
+     "w": "j1-p1-l01-w03"
+    },
+    {
+     "t": "اِسْمي",
+     "w": "j1-p1-l02-w07"
+    },
+    {
+     "t": "سامي.",
+     "g": "Sāmī (naam)"
+    }
+   ]
+  },
+  {
+   "ar": "أَنا طالِبٌ مِنْ هولَنْدا.",
+   "tr": "ana ṭālibun min hūlandā.",
+   "nl": "Ik ben een student uit Nederland.",
+   "tokens": [
+    {
+     "t": "أَنا",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "طالِبٌ",
+     "w": "j1-p1-l02-w17"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "هولَنْدا.",
+     "w": "j1-p1-l03-w06"
+    }
+   ]
+  },
+  {
+   "ar": "هٰذا صَفّي.",
+   "tr": "hāḏā ṣaffī.",
+   "nl": "Dit is mijn klas.",
+   "tokens": [
+    {
+     "t": "هٰذا",
+     "w": "j1-p1-l08-w01"
+    },
+    {
+     "t": "صَفّي.",
+     "w": "j1-p1-l05-w12",
+     "g": "mijn klas"
+    }
+   ]
+  },
+  {
+   "ar": "هُنا طاوِلَةٌ وَكُرْسِيٌّ وَسَبّورَةٌ.",
+   "tr": "hunā ṭāwilatun wa-kursiyyun wa-sabbūratun.",
+   "nl": "Hier zijn een tafel, een stoel en een schoolbord.",
+   "tokens": [
+    {
+     "t": "هُنا",
+     "w": "j1-p1-l04-w21"
+    },
+    {
+     "t": "طاوِلَةٌ",
+     "w": "j1-p1-l06-w05"
+    },
+    {
+     "t": "وَكُرْسِيٌّ",
+     "w": "j1-p1-l06-w04"
+    },
+    {
+     "t": "وَسَبّورَةٌ.",
+     "w": "j1-p1-l06-w08"
+    }
+   ]
+  },
+  {
+   "ar": "هٰذِهِ صَديقَتي مَرْيَمُ.",
+   "tr": "hāḏihi ṣadīqatī maryamu.",
+   "nl": "Dit is mijn vriendin Maryam.",
+   "tokens": [
+    {
+     "t": "هٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "صَديقَتي",
+     "w": "j1-p1-l02-w22"
+    },
+    {
+     "t": "مَرْيَمُ.",
+     "g": "Maryam (naam)"
+    }
+   ]
+  },
+  {
+   "ar": "هِيَ طالِبَةٌ مِنَ الْمَغْرِبِ.",
+   "tr": "hiya ṭālibatun mina l-maġribi.",
+   "nl": "Zij is een studente uit Marokko.",
+   "tokens": [
+    {
+     "t": "هِيَ",
+     "w": "j1-p1-l02-w05"
+    },
+    {
+     "t": "طالِبَةٌ",
+     "w": "j1-p1-l02-w18"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الْمَغْرِبِ.",
+     "w": "j1-p1-l03-w08"
+    }
+   ]
+  },
+  {
+   "ar": "مَرْيَمُ ذَكِيَّةٌ وَلَطيفَةٌ جِدًّا.",
+   "tr": "maryamu ḏakiyyatun wa-laṭīfatun jiddan.",
+   "nl": "Maryam is slim en heel aardig.",
+   "tokens": [
+    {
+     "t": "مَرْيَمُ",
+     "g": "Maryam (naam)"
+    },
+    {
+     "t": "ذَكِيَّةٌ",
+     "w": "j1-p1-l07-w01"
+    },
+    {
+     "t": "وَلَطيفَةٌ",
+     "w": "j1-p1-l07-w02"
+    },
+    {
+     "t": "جِدًّا.",
+     "w": "j1-p1-l07-w24"
+    }
+   ]
+  },
+  {
+   "ar": "وَالْأُسْتاذُ رَجُلٌ هادِئٌ.",
+   "tr": "wa-l-ustāḏu rajulun hādiʾun.",
+   "nl": "En de docent is een rustige man.",
+   "tokens": [
+    {
+     "t": "وَالْأُسْتاذُ",
+     "w": "j1-p1-l07-w22"
+    },
+    {
+     "t": "رَجُلٌ",
+     "w": "j1-p1-l06-w23"
+    },
+    {
+     "t": "هادِئٌ.",
+     "w": "j1-p1-l07-w04"
+    }
+   ]
+  },
+  {
+   "ar": "هَلْ هُوَ مِصْرِيٌّ؟ نَعَمْ، هُوَ مِنْ مِصْرَ.",
+   "tr": "hal huwa miṣriyyun? naʿam, huwa min miṣra.",
+   "nl": "Is hij Egyptenaar? Ja, hij komt uit Egypte.",
+   "tokens": [
+    {
+     "t": "هَلْ",
+     "w": "j1-p1-l08-w06"
+    },
+    {
+     "t": "هُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "مِصْرِيٌّ؟",
+     "w": "j1-p1-l03-w19"
+    },
+    {
+     "t": "نَعَمْ،",
+     "w": "j1-p1-l02-w14"
+    },
+    {
+     "t": "هُوَ",
+     "w": "j1-p1-l02-w04"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "مِصْرَ.",
+     "w": "j1-p1-l03-w09"
+    }
+   ]
+  },
+  {
+   "ar": "أَنا سَعيدٌ هُنا.",
+   "tr": "ana saʿīdun hunā.",
+   "nl": "Ik ben blij hier.",
+   "tokens": [
+    {
+     "t": "أَنا",
+     "w": "j1-p1-l02-w01"
+    },
+    {
+     "t": "سَعيدٌ",
+     "w": "j1-p1-l04-w14"
+    },
+    {
+     "t": "هُنا.",
+     "w": "j1-p1-l04-w21"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar komt Sāmī vandaan?",
+   "opties": [
+    "uit Nederland",
+    "uit Marokko",
+    "uit Egypte"
+   ],
+   "juist": 0,
+   "uitleg": "Zin 2: {ar|أَنا طالِبٌ مِنْ هولَنْدا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Maryam is een studente uit Egypte. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "Maryam komt uit Marokko: {ar|هِيَ طالِبَةٌ مِنَ الْمَغْرِبِ}. De docent komt uit Egypte."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoe is de docent?",
+   "opties": [
+    "rustig",
+    "boos",
+    "moe"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|رَجُلٌ هادِئٌ} = een rustige man."
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "هِيَ طالِبَةٌ مِنَ الْمَغْرِبِ.",
+   "antwoorden": [
+    "zij is een studente uit Marokko",
+    "zij is studente uit Marokko",
+    "zij is een student uit Marokko",
+    "ze is een studente uit Marokko",
+    "ze is studente uit Marokko",
+    "ze is een student uit Marokko",
+    "zij is een studente uit het Marokko"
+   ],
+   "uitleg": "Een naamwoordelijke zin heeft geen \"is\": {ar|هِيَ طالِبَةٌ} = zij (is) een studente.",
+   "tr": "hiya ṭālibatun mina l-maġribi"
+  },
+  {
+   "type": "ordenen",
+   "tag": "lezen",
+   "woorden": [
+    "هُوَ",
+    "مِنْ",
+    "مِصْرَ"
+   ],
+   "nl": "Hij komt uit Egypte.",
+   "uitleg": "Onderwerp eerst, dan {ar|مِنْ} + het land."
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

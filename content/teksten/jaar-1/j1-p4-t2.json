@@ -1,0 +1,398 @@
+{
+ "id": "j1-p4-t2",
+ "titel": "Een bericht van Laylā",
+ "soort": "brief",
+ "jaar": 1,
+ "periode": 4,
+ "naLes": "j1-p4-l48",
+ "intro": "Laylā schrijft aan haar vriendin Hind over haar nieuwe huis en het Suikerfeest.",
+ "zinnen": [
+  {
+   "ar": "عَزيزَتي هِنْدُ،",
+   "tr": "ʿazīzatī hindu,",
+   "nl": "Lieve Hind,",
+   "tokens": [
+    {
+     "t": "عَزيزَتي",
+     "w": "j1-p4-l48-w01",
+     "g": "lieve / beste (aan een vrouw)"
+    },
+    {
+     "t": "هِنْدُ،",
+     "g": "Hind (naam)"
+    }
+   ]
+  },
+  {
+   "ar": "أَتَمَنّى أَنْ تَكوني بِخَيْرٍ.",
+   "tr": "atamannā an takūnī bi-ḫayrin.",
+   "nl": "Ik hoop dat het goed met je gaat.",
+   "tokens": [
+    {
+     "t": "أَتَمَنّى",
+     "w": "j1-p4-l48-w04",
+     "g": "ik hoop"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat (an + manṣūb)"
+    },
+    {
+     "t": "تَكوني",
+     "w": "j1-p3-l34-w15",
+     "g": "jij (v) bent (manṣūb na أَنْ)"
+    },
+    {
+     "t": "بِخَيْرٍ.",
+     "w": "j1-p1-l01-w13"
+    }
+   ]
+  },
+  {
+   "ar": "اِنْتَقَلْتُ الشَّهْرَ الْماضي إِلى شَقَّةٍ جَديدَةٍ في حَيٍّ هادِئٍ.",
+   "tr": "intaqaltu š-šahra l-māḍī ilā šaqqatin jadīdatin fī ḥayyin hādiʾin.",
+   "nl": "Vorige maand ben ik verhuisd naar een nieuw appartement in een rustige wijk.",
+   "tokens": [
+    {
+     "t": "اِنْتَقَلْتُ",
+     "w": "j1-p4-l44-w06",
+     "g": "ik verhuisde"
+    },
+    {
+     "t": "الشَّهْرَ",
+     "w": "j1-p3-l33-w13"
+    },
+    {
+     "t": "الْماضي",
+     "w": "j1-p3-l25-w17",
+     "g": "vorige (al-māḍī)"
+    },
+    {
+     "t": "إِلى",
+     "w": "j1-p2-l19-w16"
+    },
+    {
+     "t": "شَقَّةٍ",
+     "w": "j1-p2-l14-w15"
+    },
+    {
+     "t": "جَديدَةٍ",
+     "w": "j1-p1-l04-w09"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "حَيٍّ",
+     "w": "j1-p4-l45-w17"
+    },
+    {
+     "t": "هادِئٍ.",
+     "w": "j1-p1-l07-w04"
+    }
+   ]
+  },
+  {
+   "ar": "اَلشَّقَّةُ أَكْبَرُ مِنْ شَقَّتي الْقَديمَةِ، وَالْإيجارُ أَرْخَصُ.",
+   "tr": "aš-šaqqatu akbaru min šaqqatī l-qadīmati, wa-l-ījāru arḫaṣu.",
+   "nl": "Het appartement is groter dan mijn oude appartement, en de huur is goedkoper.",
+   "tokens": [
+    {
+     "t": "اَلشَّقَّةُ",
+     "w": "j1-p2-l14-w15"
+    },
+    {
+     "t": "أَكْبَرُ",
+     "w": "j1-p3-l30-w23"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "شَقَّتي",
+     "w": "j1-p2-l14-w15"
+    },
+    {
+     "t": "الْقَديمَةِ،",
+     "w": "j1-p1-l04-w10"
+    },
+    {
+     "t": "وَالْإيجارُ",
+     "w": "j1-p4-l45-w16"
+    },
+    {
+     "t": "أَرْخَصُ.",
+     "w": "j1-p4-l45-w05"
+    }
+   ]
+  },
+  {
+   "ar": "لٰكِنَّها أَبْعَدُ عَنِ الْعَمَلِ.",
+   "tr": "lākinnahā abʿadu ʿani l-ʿamali.",
+   "nl": "Maar het ligt verder van mijn werk.",
+   "tokens": [
+    {
+     "t": "لٰكِنَّها",
+     "w": "j1-p1-l12-w02",
+     "g": "maar zij (het appartement)"
+    },
+    {
+     "t": "أَبْعَدُ",
+     "w": "j1-p4-l45-w11"
+    },
+    {
+     "t": "عَنِ",
+     "g": "van (ʿan, ʿani vóór al-)"
+    },
+    {
+     "t": "الْعَمَلِ.",
+     "w": "j1-p1-l10-w12"
+    }
+   ]
+  },
+  {
+   "ar": "كُلَّ صَباحٍ أَسْتَيْقِظُ في السّاعَةِ السّادِسَةِ وَأَرْكَبُ الْقِطارَ.",
+   "tr": "kulla ṣabāḥin astayqiẓu fī s-sāʿati s-sādisati wa-arkabu l-qiṭāra.",
+   "nl": "Elke ochtend word ik om zes uur wakker en neem ik de trein.",
+   "tokens": [
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "صَباحٍ",
+     "w": "j1-p2-l18-w10"
+    },
+    {
+     "t": "أَسْتَيْقِظُ",
+     "w": "j1-p4-l47-w01",
+     "g": "ik word wakker"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "السّاعَةِ",
+     "w": "j1-p1-l06-w15",
+     "g": "het uur (فِي السّاعَةِ … = om … uur)"
+    },
+    {
+     "t": "السّادِسَةِ",
+     "w": "j1-p2-l23-w07"
+    },
+    {
+     "t": "وَأَرْكَبُ",
+     "w": "j1-p2-l20-w04",
+     "g": "en ik neem (rijd in)"
+    },
+    {
+     "t": "الْقِطارَ.",
+     "w": "j1-p2-l20-w16"
+    }
+   ]
+  },
+  {
+   "ar": "في عيدِ الْفِطْرِ زُرْتُ عائِلَتي في الْمَغْرِبِ.",
+   "tr": "fī ʿīdi l-fiṭri zurtu ʿāʾilatī fī l-maġribi.",
+   "nl": "Met het Suikerfeest heb ik mijn familie in Marokko bezocht.",
+   "tokens": [
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "عيدِ",
+     "w": "j1-p4-l46-w01",
+     "g": "feest"
+    },
+    {
+     "t": "الْفِطْرِ",
+     "w": "j1-p4-l46-w01",
+     "g": "het breken van het vasten; عيدُ الْفِطْرِ = Suikerfeest"
+    },
+    {
+     "t": "زُرْتُ",
+     "w": "j1-p4-l43-w13",
+     "g": "ik bezocht"
+    },
+    {
+     "t": "عائِلَتي",
+     "w": "j1-p1-l11-w01"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَغْرِبِ.",
+     "w": "j1-p1-l03-w08"
+    }
+   ]
+  },
+  {
+   "ar": "أَكَلْنا الْحَلَوِيّاتِ وَاحْتَفَلْنا مَعًا.",
+   "tr": "akalnā l-ḥalawiyyāti wa-ḥtafalnā maʿan.",
+   "nl": "We aten zoetigheden en vierden samen feest.",
+   "tokens": [
+    {
+     "t": "أَكَلْنا",
+     "w": "j1-p3-l25-w05",
+     "g": "wij aten"
+    },
+    {
+     "t": "الْحَلَوِيّاتِ",
+     "w": "j1-p4-l46-w10"
+    },
+    {
+     "t": "وَاحْتَفَلْنا",
+     "w": "j1-p4-l46-w04",
+     "g": "en wij vierden"
+    },
+    {
+     "t": "مَعًا.",
+     "w": "j1-p1-l05-w18"
+    }
+   ]
+  },
+  {
+   "ar": "اِشْتَقْتُ إِلَيْكِ كَثيرًا!",
+   "tr": "ištaqtu ilayki kaṯīran!",
+   "nl": "Ik mis je erg!",
+   "tokens": [
+    {
+     "t": "اِشْتَقْتُ",
+     "w": "j1-p4-l48-w05",
+     "g": "ik mis"
+    },
+    {
+     "t": "إِلَيْكِ",
+     "w": "j1-p4-l48-w05",
+     "g": "naar jou (v); اِشْتَقْتُ إِلَيْكِ = ik mis je"
+    },
+    {
+     "t": "كَثيرًا!",
+     "w": "j1-p2-l19-w20"
+    }
+   ]
+  },
+  {
+   "ar": "أَرْسِلي لي أَخْبارَكِ قَريبًا.",
+   "tr": "arsilī lī aḫbāraki qarīban.",
+   "nl": "Stuur me binnenkort je nieuws.",
+   "tokens": [
+    {
+     "t": "أَرْسِلي",
+     "w": "j1-p4-l48-w11",
+     "g": "stuur! (tegen een vrouw)"
+    },
+    {
+     "t": "لي",
+     "w": "j1-p1-l10-w02",
+     "g": "aan mij (li + -ī)"
+    },
+    {
+     "t": "أَخْبارَكِ",
+     "w": "j1-p4-l48-w06",
+     "g": "jouw nieuws (v)"
+    },
+    {
+     "t": "قَريبًا.",
+     "w": "j1-p4-l48-w12"
+    }
+   ]
+  },
+  {
+   "ar": "مَعَ تَحِيّاتي، لَيْلى",
+   "tr": "maʿa taḥiyyātī, laylā",
+   "nl": "Groetjes, Laylā",
+   "tokens": [
+    {
+     "t": "مَعَ",
+     "w": "j1-p4-l48-w03",
+     "g": "met"
+    },
+    {
+     "t": "تَحِيّاتي،",
+     "w": "j1-p4-l48-w03",
+     "g": "mijn groeten; مَعَ تَحِيّاتي = met vriendelijke groet"
+    },
+    {
+     "t": "لَيْلى",
+     "g": "Laylā (naam)"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat is het grote nieuws van Laylā?",
+   "opties": [
+    "ze is verhuisd",
+    "ze is getrouwd",
+    "ze heeft een nieuwe baan"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|اِنْتَقَلْتُ … إِلى شَقَّةٍ جَديدَةٍ} = ik ben verhuisd naar een nieuw appartement."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Wat is beter aan het nieuwe appartement?",
+   "opties": [
+    "het is groter en goedkoper",
+    "het ligt dichter bij het werk",
+    "het ligt in het centrum"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَكْبَرُ … وَالْإيجارُ أَرْخَصُ}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Het nieuwe appartement ligt dichter bij haar werk. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|أَبْعَدُ عَنِ الْعَمَلِ} = verder van het werk."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Waar vierde Laylā het Suikerfeest?",
+   "opties": [
+    "bij haar familie in Marokko",
+    "in Amsterdam",
+    "bij Hind"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|زُرْتُ عائِلَتي في الْمَغْرِبِ}."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "اَلشَّقَّةُ ___ مِنْ شَقَّتي الْقَديمَةِ.",
+   "antwoord": [
+    "أَكْبَرُ"
+   ],
+   "uitleg": "De vergrotende trap {ar|أَفْعَلُ} + {ar|مِنْ} blijft gelijk, ook bij een vrouwelijk woord: {ar|اَلشَّقَّةُ أَكْبَرُ}.",
+   "nl": "Het appartement is groter dan mijn oude appartement.",
+   "woordbank": [
+    "أَكْبَرُ",
+    "كَبيرَةٌ",
+    "أَصْغَرُ"
+   ]
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}

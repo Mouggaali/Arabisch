@@ -1,0 +1,532 @@
+{
+ "id": "j2-p8-t1",
+ "titel": "Jongeren en internet",
+ "soort": "artikel",
+ "jaar": 2,
+ "periode": 8,
+ "naLes": "j2-p8-l88",
+ "intro": "Een kort krantenartikel met cijfers. Let op procenten ({ar|في الْمِئَةِ}) en {ar|يَجِبُ أَنْ}.",
+ "zinnen": [
+  {
+   "ar": "أَجْرَتْ جامِعَةٌ هولَنْدِيَّةٌ مَسْحًا عَنِ الشَّبابِ وَالْإِنْتَرْنِت.",
+   "tr": "ajrat jāmiʿatun hūlandiyyatun masḥan ʿani š-šabābi wa-l-intarnit.",
+   "nl": "Een Nederlandse universiteit hield een enquête over jongeren en internet.",
+   "tokens": [
+    {
+     "t": "أَجْرَتْ",
+     "g": "voerde uit, hield (ajrā)"
+    },
+    {
+     "t": "جامِعَةٌ",
+     "w": "j1-p1-l05-w14"
+    },
+    {
+     "t": "هولَنْدِيَّةٌ",
+     "w": "j1-p1-l03-w17",
+     "g": "Nederlandse (v)"
+    },
+    {
+     "t": "مَسْحًا",
+     "w": "j2-p7-l83-w16"
+    },
+    {
+     "t": "عَنِ",
+     "g": "over (ʿan, ʿani vóór al-)"
+    },
+    {
+     "t": "الشَّبابِ",
+     "w": "j1-p4-l44-w16",
+     "g": "de jongeren"
+    },
+    {
+     "t": "وَالْإِنْتَرْنِت.",
+     "w": "j2-p8-l88-w01",
+     "g": "en het internet"
+    }
+   ]
+  },
+  {
+   "ar": "شارَكَ في الْمَسْحِ أَلْفا شابٍّ وَشابَّةٍ.",
+   "tr": "šāraka fī l-masḥi alfā šābbin wa-šābbatin.",
+   "nl": "Tweeduizend jongens en meisjes deden mee aan de enquête.",
+   "tokens": [
+    {
+     "t": "شارَكَ",
+     "w": "j2-p5-l54-w02",
+     "g": "nam deel"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمَسْحِ",
+     "w": "j2-p7-l83-w16"
+    },
+    {
+     "t": "أَلْفا",
+     "w": "j1-p4-l41-w06",
+     "g": "tweeduizend (alfā vóór een genitief)"
+    },
+    {
+     "t": "شابٍّ",
+     "w": "j1-p1-l07-w12"
+    },
+    {
+     "t": "وَشابَّةٍ.",
+     "w": "j1-p1-l07-w12",
+     "g": "en jonge vrouw"
+    }
+   ]
+  },
+  {
+   "ar": "وَهٰذِهِ هِيَ النَّتائِجُ:",
+   "tr": "wa-hāḏihi hiya n-natāʾiju:",
+   "nl": "En dit zijn de resultaten:",
+   "tokens": [
+    {
+     "t": "وَهٰذِهِ",
+     "w": "j1-p1-l08-w02"
+    },
+    {
+     "t": "هِيَ",
+     "w": "j1-p1-l02-w05"
+    },
+    {
+     "t": "النَّتائِجُ:",
+     "w": "j2-p7-l83-w17"
+    }
+   ]
+  },
+  {
+   "ar": "يَسْتَخْدِمُ تِسْعونَ في الْمِئَةِ مِنَ الشَّبابِ الْإِنْتَرْنِت كُلَّ يَوْمٍ.",
+   "tr": "yastaḫdimu tisʿūna fī l-miʾati mina š-šabābi l-intarnit kulla yawmin.",
+   "nl": "Negentig procent van de jongeren gebruikt elke dag internet.",
+   "tokens": [
+    {
+     "t": "يَسْتَخْدِمُ",
+     "w": "j2-p5-l59-w01",
+     "g": "gebruikt (vorm X)"
+    },
+    {
+     "t": "تِسْعونَ",
+     "w": "j1-p2-l17-w07"
+    },
+    {
+     "t": "في",
+     "w": "j1-p2-l15-w01"
+    },
+    {
+     "t": "الْمِئَةِ",
+     "w": "j2-p7-l83-w03",
+     "g": "honderd; في الْمِئَةِ = procent"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الشَّبابِ",
+     "w": "j1-p4-l44-w16",
+     "g": "de jongeren"
+    },
+    {
+     "t": "الْإِنْتَرْنِت",
+     "w": "j2-p8-l88-w01",
+     "g": "het internet"
+    },
+    {
+     "t": "كُلَّ",
+     "w": "j1-p4-l46-w17"
+    },
+    {
+     "t": "يَوْمٍ.",
+     "w": "j1-p2-l18-w01"
+    }
+   ]
+  },
+  {
+   "ar": "يَقْضي الشّابُّ حَوالَيْ أَرْبَعِ ساعاتٍ يَوْمِيًّا عَلى الْهاتِفِ.",
+   "tr": "yaqḍī š-šābbu ḥawālay arbaʿi sāʿātin yawmiyyan ʿalā l-hātifi.",
+   "nl": "Een jongere brengt ongeveer vier uur per dag op zijn telefoon door.",
+   "tokens": [
+    {
+     "t": "يَقْضي",
+     "g": "brengt door (qaḍā)"
+    },
+    {
+     "t": "الشّابُّ",
+     "w": "j1-p1-l07-w12",
+     "g": "de jongere"
+    },
+    {
+     "t": "حَوالَيْ",
+     "w": "j1-p4-l39-w17",
+     "g": "ongeveer"
+    },
+    {
+     "t": "أَرْبَعِ",
+     "w": "j1-p1-l09-w05",
+     "g": "vier (vóór een vrouwelijk meervoud)"
+    },
+    {
+     "t": "ساعاتٍ",
+     "w": "j1-p1-l06-w15",
+     "g": "uren"
+    },
+    {
+     "t": "يَوْمِيًّا",
+     "w": "j1-p2-l18-w01",
+     "g": "per dag (yawmiyyan)"
+    },
+    {
+     "t": "عَلى",
+     "w": "j2-p7-l81-w12",
+     "g": "op (حافَظَ عَلى = beschermen)"
+    },
+    {
+     "t": "الْهاتِفِ.",
+     "w": "j1-p1-l06-w14"
+    }
+   ]
+  },
+  {
+   "ar": "أَكْثَرُ مِنْ نِصْفِهِمْ يَتَصَفَّحونَ وَسائِلَ التَّواصُلِ قَبْلَ النَّوْمِ.",
+   "tr": "akṯaru min niṣfihim yataṣaffaḥūna wasāʾila t-tawāṣuli qabla n-nawmi.",
+   "nl": "Meer dan de helft van hen kijkt voor het slapen op sociale media.",
+   "tokens": [
+    {
+     "t": "أَكْثَرُ",
+     "w": "j1-p4-l45-w14"
+    },
+    {
+     "t": "مِنْ",
+     "w": "j1-p1-l03-w01"
+    },
+    {
+     "t": "نِصْفِهِمْ",
+     "w": "j1-p2-l23-w14",
+     "g": "de helft van hen"
+    },
+    {
+     "t": "يَتَصَفَّحونَ",
+     "w": "j2-p8-l88-w03",
+     "g": "zij surfen, kijken op"
+    },
+    {
+     "t": "وَسائِلَ",
+     "w": "j2-p5-l55-w15",
+     "g": "middelen; وَسائِلُ التَّواصُلِ = sociale media"
+    },
+    {
+     "t": "التَّواصُلِ",
+     "w": "j2-p5-l55-w15",
+     "g": "de communicatie"
+    },
+    {
+     "t": "قَبْلَ",
+     "w": "j1-p3-l25-w19"
+    },
+    {
+     "t": "النَّوْمِ.",
+     "w": "j1-p2-l14-w24"
+    }
+   ]
+  },
+  {
+   "ar": "وَيَقولُ ثُلُثُهُمْ إِنَّهُمْ لا يَنامونَ نَوْمًا كافِيًا.",
+   "tr": "wa-yaqūlu ṯuluṯuhum innahum lā yanāmūna nawman kāfiyan.",
+   "nl": "En een derde van hen zegt dat ze niet genoeg slapen.",
+   "tokens": [
+    {
+     "t": "وَيَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "en (hij) zegt"
+    },
+    {
+     "t": "ثُلُثُهُمْ",
+     "w": "j2-p7-l83-w12",
+     "g": "een derde van hen"
+    },
+    {
+     "t": "إِنَّهُمْ",
+     "w": "j2-p6-l65-w01",
+     "g": "dat zij (inna + -hum, na قالَ)"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "يَنامونَ",
+     "w": "j2-p6-l69-w03",
+     "g": "zij slapen"
+    },
+    {
+     "t": "نَوْمًا",
+     "w": "j1-p2-l14-w24"
+    },
+    {
+     "t": "كافِيًا.",
+     "w": "j2-p7-l82-w12",
+     "g": "voldoende"
+    }
+   ]
+  },
+  {
+   "ar": "اَلْبَياناتُ الشَّخْصِيَّةُ مُشْكِلَةٌ أُخْرى.",
+   "tr": "al-bayānātu š-šaḫṣiyyatu muškilatun uḫrā.",
+   "nl": "Persoonlijke gegevens zijn een ander probleem.",
+   "tokens": [
+    {
+     "t": "اَلْبَياناتُ",
+     "w": "j2-p8-l88-w12"
+    },
+    {
+     "t": "الشَّخْصِيَّةُ",
+     "w": "j2-p7-l76-w05",
+     "g": "persoonlijke (verwant aan شَخْصِيَّة)"
+    },
+    {
+     "t": "مُشْكِلَةٌ",
+     "w": "j1-p1-l10-w11"
+    },
+    {
+     "t": "أُخْرى.",
+     "w": "j2-p5-l51-w20",
+     "g": "ander (v)"
+    }
+   ]
+  },
+  {
+   "ar": "كَثيرٌ مِنَ الشَّبابِ لا يَعْرِفونَ مَنْ يَسْتَخْدِمُ بَياناتِهِمْ.",
+   "tr": "kaṯīrun mina š-šabābi lā yaʿrifūna man yastaḫdimu bayānātihim.",
+   "nl": "Veel jongeren weten niet wie hun gegevens gebruikt.",
+   "tokens": [
+    {
+     "t": "كَثيرٌ",
+     "w": "j1-p1-l10-w20"
+    },
+    {
+     "t": "مِنَ",
+     "w": "j1-p1-l03-w01",
+     "g": "van (mina, vóór het lidwoord)"
+    },
+    {
+     "t": "الشَّبابِ",
+     "w": "j1-p4-l44-w16",
+     "g": "de jongeren"
+    },
+    {
+     "t": "لا",
+     "w": "j1-p1-l02-w15",
+     "g": "niet (vóór een werkwoord); ook: nee"
+    },
+    {
+     "t": "يَعْرِفونَ",
+     "w": "j1-p2-l19-w09",
+     "g": "zij weten"
+    },
+    {
+     "t": "مَنْ",
+     "w": "j1-p1-l02-w10"
+    },
+    {
+     "t": "يَسْتَخْدِمُ",
+     "w": "j2-p5-l59-w01",
+     "g": "gebruikt (vorm X)"
+    },
+    {
+     "t": "بَياناتِهِمْ.",
+     "w": "j2-p8-l88-w12",
+     "g": "hun gegevens"
+    }
+   ]
+  },
+  {
+   "ar": "يَقولُ الْباحِثونَ: «اَلْإِنْتَرْنِت مُفيدٌ، لٰكِنْ يَجِبُ أَنْ نُحافِظَ عَلى خُصوصِيَّتِنا.»",
+   "tr": "yaqūlu l-bāḥiṯūna: «al-intarnit mufīdun, lākin yajibu an nuḥāfiẓa ʿalā ḫuṣūṣiyyatinā.»",
+   "nl": "De onderzoekers zeggen: \"Internet is nuttig, maar we moeten onze privacy beschermen.\"",
+   "tokens": [
+    {
+     "t": "يَقولُ",
+     "w": "j2-p6-l69-w02",
+     "g": "zeggen (hij zegt)"
+    },
+    {
+     "t": "الْباحِثونَ:",
+     "g": "de onderzoekers"
+    },
+    {
+     "t": "«اَلْإِنْتَرْنِت",
+     "w": "j2-p8-l88-w01",
+     "g": "het internet"
+    },
+    {
+     "t": "مُفيدٌ،",
+     "w": "j1-p3-l36-w18"
+    },
+    {
+     "t": "لٰكِنْ",
+     "w": "j1-p1-l12-w02",
+     "g": "maar"
+    },
+    {
+     "t": "يَجِبُ",
+     "w": "j2-p7-l82-w01",
+     "g": "het moet; يَجِبُ أَنْ = moeten"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "نُحافِظَ",
+     "w": "j2-p7-l81-w12",
+     "g": "(dat) wij beschermen: manṣūb na أَنْ"
+    },
+    {
+     "t": "عَلى",
+     "w": "j2-p7-l81-w12",
+     "g": "op (حافَظَ عَلى = beschermen)"
+    },
+    {
+     "t": "خُصوصِيَّتِنا.»",
+     "w": "j2-p8-l88-w11",
+     "g": "onze privacy"
+    }
+   ]
+  },
+  {
+   "ar": "وَمِنَ الْمُهِمِّ أَيْضًا أَنْ نُغْلِقَ الْهاتِفَ ساعَةً قَبْلَ النَّوْمِ.",
+   "tr": "wa-mina l-muhimmi ayḍan an nuġliqa l-hātifa sāʿatan qabla n-nawmi.",
+   "nl": "En het is ook belangrijk om de telefoon een uur voor het slapen uit te zetten.",
+   "tokens": [
+    {
+     "t": "وَمِنَ",
+     "w": "j1-p1-l02-w10",
+     "g": "en van; مِنَ الْمُهِمِّ = het is belangrijk"
+    },
+    {
+     "t": "الْمُهِمِّ",
+     "w": "j1-p3-l27-w20"
+    },
+    {
+     "t": "أَيْضًا",
+     "w": "j1-p1-l05-w17"
+    },
+    {
+     "t": "أَنْ",
+     "w": "j1-p4-l48-w04",
+     "g": "dat / om te (an + manṣūb)"
+    },
+    {
+     "t": "نُغْلِقَ",
+     "w": "j2-p5-l55-w03",
+     "g": "(dat) wij uitzetten, sluiten: manṣūb na أَنْ"
+    },
+    {
+     "t": "الْهاتِفَ",
+     "w": "j1-p1-l06-w14"
+    },
+    {
+     "t": "ساعَةً",
+     "w": "j1-p1-l06-w15",
+     "g": "een uur"
+    },
+    {
+     "t": "قَبْلَ",
+     "w": "j1-p3-l25-w19"
+    },
+    {
+     "t": "النَّوْمِ.",
+     "w": "j1-p2-l14-w24"
+    }
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel jongeren deden mee aan de enquête?",
+   "opties": [
+    "tweeduizend",
+    "duizend",
+    "negentig"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|أَلْفا شابٍّ وَشابَّةٍ} = tweeduizend jongens en meisjes."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel procent gebruikt elke dag internet?",
+   "opties": [
+    "90%",
+    "50%",
+    "33%"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|تِسْعونَ في الْمِئَةِ} = negentig procent."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Hoeveel uur per dag zit een jongere op zijn telefoon?",
+   "opties": [
+    "ongeveer vier",
+    "ongeveer twee",
+    "ongeveer acht"
+   ],
+   "juist": 0,
+   "uitleg": "{ar|حَوالَيْ أَرْبَعِ ساعاتٍ يَوْمِيًّا}."
+  },
+  {
+   "type": "meerkeuze",
+   "tag": "lezen",
+   "vraag": "Alle jongeren weten wie hun gegevens gebruikt. Waar of niet waar?",
+   "opties": [
+    "Waar",
+    "Niet waar"
+   ],
+   "juist": 1,
+   "uitleg": "{ar|كَثيرٌ مِنَ الشَّبابِ لا يَعْرِفونَ} = veel jongeren weten het niet."
+  },
+  {
+   "type": "invullen",
+   "tag": "lezen",
+   "zin": "يَجِبُ أَنْ ___ عَلى خُصوصِيَّتِنا.",
+   "antwoord": [
+    "نُحافِظَ"
+   ],
+   "uitleg": "Na {ar|يَجِبُ أَنْ} komt de manṣūb: {ar|نُحافِظَ} op -a.",
+   "nl": "We moeten onze privacy beschermen.",
+   "woordbank": [
+    "نُحافِظَ",
+    "نُحافِظُ",
+    "حافَظْنا"
+   ],
+   "eind": true
+  },
+  {
+   "type": "vertalen",
+   "tag": "lezen",
+   "richting": "ar-nl",
+   "bron": "اَلْإِنْتَرْنِت مُفيدٌ.",
+   "antwoorden": [
+    "het internet is nuttig",
+    "internet is nuttig"
+   ],
+   "uitleg": "Naamwoordelijke zin: {ar|اَلْإِنْتَرْنِت} (onderwerp) + {ar|مُفيدٌ} (gezegde).",
+   "tr": "al-intarnit mufīdun"
+  }
+ ],
+ "review": {
+  "status": "onzeker",
+  "note": "Nieuwe leestekst: vocalisatie, woordkeus en natuurlijkheid laten nakijken door een moedertaalspreker."
+ }
+}
